@@ -1,0 +1,22 @@
+/* Painel — snippet do cofre SEFAZ-BA */
+
+.theme-light {
+  --gu-dark: #141413; --gu-gray-soft: #e8e6dc;
+  --gu-critico: #d97757; --gu-importante: #6a9bcc; --gu-ok: #788c5d;
+}
+.theme-dark {
+  --gu-dark: #faf9f5; --gu-gray-soft: #2a2a28;
+  --gu-critico: #e08d70; --gu-importante: #82abd6; --gu-ok: #90a173;
+}
+
+.markdown-rendered table { font-size: 0.92em; border-collapse: collapse; width: 100%; }
+.markdown-rendered th { background: var(--gu-gray-soft); font-weight: 600; text-align: left; }
+.markdown-rendered td, .markdown-rendered th { padding: 6px 10px; border: 1px solid #b0aea5; }
+.markdown-rendered tr:last-child td { font-weight: 600; }
+
+a.tag[href="#s/lacuna"] { background: var(--gu-critico); color: #fff; border-radius: 4px; }
+a.tag[href="#s/revisar"] { background: var(--gu-importante); color: #fff; border-radius: 4px; }
+a.tag[href="#s/dominado"] { background: var(--gu-ok); color: #fff; border-radius: 4px; }
+
+.callout { border-radius: 6px; }
+.painel h1 { border-bottom: 2px solid var(--gu-critico); padding-bottom: 0.3em; }

@@ -1,0 +1,10 @@
+{
+  "id": "masonry-pinboards",
+  "name": "Masonry Pinboards",
+  "version": "1.0.5",
+  "minAppVersion": "1.12.7",
+  "description": "Pinterest-like waterfall masonry layout for folders, pin-boards, tags and such.",
+  "author": "Vitaly Maltsev",
+  "authorUrl": "https://github.com/DarkSeasonStudios",
+  "isDesktopOnly": false
+}

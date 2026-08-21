@@ -1,0 +1,18 @@
+{
+  "openBehavior": "file:SEFAZ BA/SEFAZ BA.md",
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "promptDelete": false,
+  "autoConvertHtml": true,
+  "settingsPopoutWindow": true,
+  "propertiesInDocument": "visible",
+  "vimMode": false,
+  "spellcheck": false,
+  "attachmentFolderPath": "Z IMG"
+}

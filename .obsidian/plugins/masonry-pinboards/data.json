@@ -1,0 +1,19 @@
+{
+  "masonryFolders": [
+    "SEFAZ BA/MATERIAS",
+    "IMG",
+    "MATERIAL/DIREITO TRIBUTÁRIO",
+    "MATERIAL",
+    "MATERIAL/LTE",
+    "Z IMG"
+  ],
+  "showFileNames": true,
+  "showTags": true,
+  "fileTags": {},
+  "itemGap": 10,
+  "columnCount": 4,
+  "noteCardMinHeight": 100,
+  "noteCardMaxHeight": 500,
+  "noteCardFontSize": 14,
+  "folderCount": 8
+}

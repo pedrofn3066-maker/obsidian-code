@@ -1,0 +1,7 @@
+{
+  "things-style@@fancy-highlight": true,
+  "things-style@@active-line": true,
+  "things-style@@default-font-color": true,
+  "things-style@@heading-underline-color": true,
+  "pdf-plus@@pdf-plus-vim-hint-inverted": false
+}

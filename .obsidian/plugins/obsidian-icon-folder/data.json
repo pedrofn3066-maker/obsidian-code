@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiArrowUpToLine",
+      "LiBackpack",
+      "LiAtom",
+      "LiAsteriskSquare",
+      "LiAstroid"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": true,
+    "useInternalPlugins": true
+  },
+  "SEFAZ BA": "LiAstroid",
+  "SEFAZ BA/MATERIAS": "LiAward",
+  "QUESTÕES": "LiAsteriskSquare",
+  "Excalidraw": "LiAtom",
+  "MATERIAL": "LiBackpack",
+  "TEMPLATE": "LiArrowUpToLine"
+}

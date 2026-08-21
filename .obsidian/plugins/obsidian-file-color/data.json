@@ -1,0 +1,100 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "W1jfboYPdQiU63HLfhmcn",
+      "name": "red",
+      "value": "#e70d0d"
+    },
+    {
+      "id": "YDoWYETvKt-U74yLAvkdP",
+      "name": "blue",
+      "value": "#0b66f9"
+    },
+    {
+      "id": "pzKI6IvKEepP2_bCMN5nv",
+      "name": "green",
+      "value": "#31b800"
+    },
+    {
+      "id": "CrKYYZmQJQQyEGJaDWy5h",
+      "name": "gold",
+      "value": "#c7c000"
+    },
+    {
+      "id": "qsLrD4vBVSvV_WekrS34D",
+      "name": "purple",
+      "value": "#8210e0"
+    },
+    {
+      "id": "N02FCELyylx-mjW6M0mSB",
+      "name": "withe",
+      "value": "#ffffff"
+    },
+    {
+      "id": "D0KqUZhxzqHgOcQ6mJBhK",
+      "name": "blur",
+      "value": "#15aaf4"
+    },
+    {
+      "id": "abdoVkg21ulPDUoIT0Y1o",
+      "name": "pink",
+      "value": "#dd04ec"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "ba2/MATERIAS/P1 - Auditoria.md",
+      "color": "W1jfboYPdQiU63HLfhmcn"
+    },
+    {
+      "path": "SEFAZ BA",
+      "color": "CrKYYZmQJQQyEGJaDWy5h"
+    },
+    {
+      "path": "SEFAZ BA/MATERIAS",
+      "color": "D0KqUZhxzqHgOcQ6mJBhK"
+    },
+    {
+      "path": "SEFAZ BA/COMO USAR.md",
+      "color": "pzKI6IvKEepP2_bCMN5nv"
+    },
+    {
+      "path": "SEFAZ BA/DIARIO DE QUESTOES.md",
+      "color": "CrKYYZmQJQQyEGJaDWy5h"
+    },
+    {
+      "path": "SEFAZ BA/DISCURSIVA.md",
+      "color": "qsLrD4vBVSvV_WekrS34D"
+    },
+    {
+      "path": "SEFAZ BA/LTE - COMO ESTUDAR.md",
+      "color": "abdoVkg21ulPDUoIT0Y1o"
+    },
+    {
+      "path": "SEFAZ BA/ESTRATEGIA.md",
+      "color": "D0KqUZhxzqHgOcQ6mJBhK"
+    },
+    {
+      "path": "SEFAZ BA/PAINEL.md",
+      "color": "N02FCELyylx-mjW6M0mSB"
+    },
+    {
+      "path": "SEFAZ BA/PROTOCOLO DE VIRADA DE EDITAL.md",
+      "color": "N02FCELyylx-mjW6M0mSB"
+    },
+    {
+      "path": "TEMPLATE",
+      "color": "YDoWYETvKt-U74yLAvkdP"
+    },
+    {
+      "path": "QUESTÕES",
+      "color": "W1jfboYPdQiU63HLfhmcn"
+    },
+    {
+      "path": "TAGs",
+      "color": "pzKI6IvKEepP2_bCMN5nv"
+    }
+  ]
+}

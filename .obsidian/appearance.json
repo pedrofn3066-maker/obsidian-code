@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Simply Colorful",
+  "enabledCssSnippets": [
+    "painel"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "translucency": true,
+  "baseFontSizeAction": true,
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": true
+}
