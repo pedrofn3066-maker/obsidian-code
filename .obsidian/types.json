@@ -8,6 +8,8 @@
     "slot": "text",
     "total": "number",
     "acertos": "number",
+    "tempo_min": "number",
+    "erro_tipo": "text",
     "banca": "text",
     "origem": "text",
     "obs": "text"

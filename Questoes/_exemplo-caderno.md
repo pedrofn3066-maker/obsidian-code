@@ -9,9 +9,11 @@ assuntos:
 slot: S2
 total: 20
 acertos: 13
+tempo_min: 35
+erro_tipo: exceção
 banca: FGV
 origem: caderno
-obs: exceção — dividendo proposto tratado como distribuído
+obs: dividendo proposto tratado como distribuído
 ---
 
 ## Erros a revisar

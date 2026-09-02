@@ -7,6 +7,8 @@ assuntos:
 slot: 
 total: 
 acertos: 
+tempo_min: 
+erro_tipo: 
 banca: 
 origem: caderno
 obs: 
