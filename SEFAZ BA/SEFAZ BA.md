@@ -10,8 +10,35 @@
 
 ___
 
+# Vencidas
 
-# DOMÍNIO/BAIXO
+## Vencidas e de hoje
+
+```dataview
+TABLE WITHOUT ID
+  link(L.link, L.section) AS "Tópico",
+  L.prox AS "Venceu em",
+  L.cad AS "Cadência"
+FROM "SEFAZ BA" OR "MATERIAL"
+FLATTEN file.lists AS L
+WHERE L.prox != null AND L.prox <= date(today)
+SORT L.prox ASC
+```
+
+## Próximos 7 dias
+
+```dataview
+TABLE WITHOUT ID
+  L.link AS "Tópico",
+  L.prox AS "Vence em",
+  L.cad AS "Cadência"
+FROM "SEFAZ BA" OR "MATERIAL"
+FLATTEN file.lists AS L
+WHERE L.prox != null AND L.prox > date(today)
+SORT L.prox ASC
+LIMIT 20
+```
+# Domínio baixo
 
 ```dataview
 TABLE WITHOUT ID 
@@ -21,14 +48,8 @@ FROM #dominio/baixo
 FLATTEN file.lists AS L
 WHERE contains(L.tags, "#dominio/baixo")
 ```
-```dataview
-TABLE WITHOUT ID 
-  L.section AS "📍 Local Exato", 
-  replace(L.text, "#tec/resumo", "") AS "🌂 pontos importantes"
-FROM #tec/resumo 
-FLATTEN file.lists AS L
-WHERE contains(L.tags, "#tec/resumo")
-```
+
+
 
 
 
@@ -69,13 +90,6 @@ ___
 > WHERE contains(L.tags, "#excecao")
 > ```
 
-> [!ler]- 📖 REVISAR
-> ```dataview
-> LIST WITHOUT ID L.section + " ➡️ " + replace(L.text, "#revisar", "")
-> FROM #revisar 
-> FLATTEN file.lists AS L
-> WHERE contains(L.tags, "#revisar")
-> ```
 
 > [!worng]- 😥 tec/erro
 > ```dataview
@@ -92,3 +106,8 @@ ___
 > FLATTEN file.lists AS L
 > WHERE contains(L.tags, "#banca")
 > ```
+
+
+
+---
+[[MATERIAL]]

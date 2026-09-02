@@ -35,9 +35,8 @@
     "useInternalPlugins": true
   },
   "SEFAZ BA": "LiAstroid",
-  "SEFAZ BA/MATERIAS": "LiAward",
   "QUESTÕES": "LiAsteriskSquare",
-  "Excalidraw": "LiAtom",
   "MATERIAL": "LiBackpack",
-  "TEMPLATE": "LiArrowUpToLine"
+  "TEMPLATE": "LiArrowUpToLine",
+  "MATERIAS": "LiAward"
 }

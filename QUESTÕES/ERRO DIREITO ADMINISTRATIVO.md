@@ -53,5 +53,9 @@ _Atos ordinários  → Baseia-se no Poder hierárquico_
 # FGV
 - #banca/fgv 
 
+Art. 12. § 1º  Considera-se <mark style="background:#fff88f">erro grosseiro</mark> aquele manifesto, evidente e inescusável praticado com culpa grave, caracterizado por ação ou omissão com elevado grau de negligência, imprudência ou imperícia.
+
+- Art. 12. § 5º  O montante do dano ao erário, **ainda que expressivo,** não poderá, por si só, ser elemento para caracterizar o erro grosseiro ou o dolo.
+
 # OUTRAS BANCAS 
 - #banca/outras

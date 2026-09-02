@@ -1,9 +1,9 @@
 ---
-materia:
+materia: P2 - Direito Tributário
 tipo: caderno-de-erros
 tags:
 ---
-# 📉 Caderno de Erros: [[DIREITO TRIBUTÁRIO]]
+# 📉 Caderno de Erros: [[P2 - Direito Tributário]]
 
 > [!info] Regra de Ouro
 > Copie apenas o estritamente necessário. O objetivo não é reescrever a aula, é registrar a "pegadinha" da banca e a lacuna do seu conhecimento.
@@ -37,15 +37,17 @@ tags:
   `Direito tributário regra é acessório não  seguir principal`
 
 **Dicas de Memorização e Alertas de Pegadinhas**
-
- 
-
 **1. A Linha do Tempo do IPTU (O "Pulo do Gato" das Bancas):** As bancas de concurso adoram testar o candidato misturando as três emendas históricas que alteraram o IPTU. Memorize este fluxo cronológico para não cair em armadilhas:
 - **Ano 2000 (EC 29)** → **Alíquotas** (Progressividade por valor, diferença por uso e localização).
-- **Ano 2022 (EC 116)** → **Imunidade** (Igrejas alugadas livres de IPTU).
+- **Ano 2022 (EC 116)** → **Imunidade** (Igrejas alugadas livres de <span class="cloze-span">IPTU</span>).
 - **Ano 2023 (EC 132)** → **Base de Cálculo** (Atualização real por decreto do Prefeito sob critérios legais).
-**2. Alerta de Pegadinha: A Legalidade Não Foi Extinta!:** Cuidado ao ler que o "Prefeito pode aumentar o IPTU como quiser por decreto". **Isso está errado!** O Executivo não ganhou um "cheque em branco". A Constituição exige que o decreto de atualização siga estritamente os **critérios e diretrizes técnicas estabelecidos em lei municipal prévia** aprovada pela Câmara de Vereadores (a chamada "lei de critérios"). Se o Prefeito editar um decreto sem uma lei base que dê o suporte metodológico, o ato será nulo por violação da legalidade.
+**2. Alerta de Pegadinha: A Legalidade Não Foi Extinta!:** Cuidado ao ler que o "Prefeito pode aumentar o IPTU como quiser por decreto". **Isso está errado!** O Executivo não ganhou um "cheque em branco". A Constituição exige que o decreto de atualização siga estritamente os **critérios e diretrizes técnicas estabelecidos em <span class="cloze-span">lei municipal</span> prévia** aprovada pela Câmara de Vereadores (a chamada "lei de critérios"). Se o Prefeito editar um decreto sem uma lei base que dê o suporte metodológico, o ato será nulo por violação da legalidade.
 **3. Atenção ao Prazo (Exceção à Noventena):** Lembre-se de que o IPTU possui uma peculiaridade temporal na Constituição (art. 150, § 1º): ele **deve observar a anterioridade anual, mas é exceção à anterioridade nonagesimal (noventena) no que tange à fixação de sua base de cálculo**. Portanto, se o Prefeito publicar o decreto de atualização da base em 31 de dezembro, o novo valor já poderá ser cobrado no dia 1º de janeiro do ano seguinte.
+
+- #jurisprudencia 
+-  O serviço de esgoto é remunerado mediante **<span class="cloze-span">tarifa</span>**, uma vez que se submete ao regime de direito privado.
+> **_A natureza jurídica da remuneração dos serviços de água e esgoto, prestados por concessionária de serviço público, é de tarifa ou preço público_**_, consubstanciando, assim, contraprestação de caráter não-tributário, razão pela qual não se subsume ao regime jurídico tributário estabelecido para as taxas. [STJ. Tema 253]._
+
 
 # FCC
 - #banca/fcc 
@@ -59,6 +61,14 @@ tags:
 II - **cujo titular ou sócio seja domiciliado no exterior;**
 VI - **que preste serviço de transporte intermunicipal e interestadual de passageiros**, exceto quando na modalidade fluvial ou quando possuir características de transporte urbano ou metropolitano ou realizar-se sob fretamento contínuo em área metropolitana para o transporte de estudantes ou trabalhadores;
 
+>Nesse caso aparecem duas pessoas importantes:
+-  o tutor (Antenor), porque ele representa o menor e aceitou a doação em nome dele
+- o tabelião, porque ele não poderia lavrar a escritura sem verificar o pagamento do imposto
+- Os pais não entram porque a questão afirma que eles não tinham poder familiar sobre o menor - #pegadinha 
+
+- **Art. 156** § 1º- A O imposto previsto no inciso I do caput deste artigo (IPTU) **não incide sobre <span class="cloze-span">templos de qualquer culto</span>, ainda que as entidades abrangidas pela imunidade de que trata a alínea b do inciso VI do caput do art. 150 desta Constituição <mark style="background:rgba(163, 67, 31, 0.2)">sejam apenas locatárias do bem imóvel.</mark>
+- #pegadinha 
+- **Resumo da Ópera:** Imóvel de particular alugado para ente imune PAGA IPTU. A única exceção constitucional atual é quando o inquilino for um **templo de qualquer culto**.
 
 # FGV
 - #banca/fgv 

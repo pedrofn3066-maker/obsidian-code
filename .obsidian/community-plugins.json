@@ -9,7 +9,6 @@
   "omnisearch",
   "smart-connections",
   "notebook-navigator",
-  "pdf-plus",
   "colored-text",
   "flashcards-obsidian",
   "obsidian-minimal-settings",
@@ -24,9 +23,13 @@
   "url-into-selection",
   "pretty-properties",
   "typewriter-mode",
-  "pdf-writer",
   "study-pdf",
   "obsidian-spaced-repetition",
   "obsidian-outliner",
-  "waypoint"
+  "waypoint",
+  "cloze",
+  "smart-context",
+  "obsidian-annotator",
+  "pdf-plus",
+  "pdf-writer"
 ]

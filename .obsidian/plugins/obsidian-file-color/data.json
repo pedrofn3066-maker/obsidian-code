@@ -53,7 +53,7 @@
       "color": "CrKYYZmQJQQyEGJaDWy5h"
     },
     {
-      "path": "SEFAZ BA/MATERIAS",
+      "path": "MATERIAS",
       "color": "D0KqUZhxzqHgOcQ6mJBhK"
     },
     {
@@ -95,6 +95,18 @@
     {
       "path": "TAGs",
       "color": "pzKI6IvKEepP2_bCMN5nv"
+    },
+    {
+      "path": "PY",
+      "color": "qsLrD4vBVSvV_WekrS34D"
+    },
+    {
+      "path": "MATERIAL",
+      "color": "pzKI6IvKEepP2_bCMN5nv"
+    },
+    {
+      "path": "CLOUDE",
+      "color": "CrKYYZmQJQQyEGJaDWy5h"
     }
   ]
 }

@@ -32,6 +32,10 @@ tags:
 # CEBRASPE
 - #banca/cebraspe 
 
+- A tipologia predominante aqui é **expositiva,** pois o texto **expõe informações e dados estatísticos de forma objetiva**, sem narrar fatos nem defender tese explícita.
+	Não é **descritiva** porque o parágrafo **não caracteriza um objeto/situação por meio de atributos**, mas sim **apresenta dados e relações quantitativas**.
+
+
 # FCC
 - #banca/fcc 
 

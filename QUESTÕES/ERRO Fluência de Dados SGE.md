@@ -36,9 +36,13 @@ tags:
 > 
 > Quando ela é ativada, ao executar um “job”, a ferramenta analisa os arquivos que estão em processo de backup através de identificadores únicos e, se determinado arquivo for encontrado no disco, é criado apenas um ponteiro para este arquivo, eliminando duplicatas e economizando espaço.
 
+- **Fitas LTO** são amplamente empregadas em ambientes corporativos para **backup** e arquivamento de dados devido ao seu formato padrão aberto, confiabilidade e alta capacidade por cartucho — como na atual LTO-10, que chega a até **75 TB** compactados por unidade.​
 
 # FCC
 - #banca/fcc 
+
+- **Correta**. Sim, de fato como vimos o UTM é uma solução completa, de fato para toda a rede e aglutina diversas soluções. A lista aqui é apenas exemplificativa, pois existem ainda outros recursos como antispam, por exemplo. A ideia do WAF é realmente focar nas aplicações. Por fim, a DMZ realmente é uma área de isolamento, em que se protege a rede interna, limitando o acesso a seus recursos.
+
 # FGV
 - #banca/fgv 
 # OUTRAS BANCAS 

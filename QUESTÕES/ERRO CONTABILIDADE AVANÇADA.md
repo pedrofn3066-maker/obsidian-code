@@ -1,9 +1,9 @@
 ---
-materia:
+materia: contabilidade avançada
 tipo: caderno-de-erros
 tags:
 ---
-# 📉 Caderno de Erros: [[P1 - Contabilidade Geral]]
+# 📉 Caderno de Erros: [[P2 - Contabilidade Avançada e de Custos]]
 
 > [!info] Regra de Ouro
 > Copie apenas o estritamente necessário. O objetivo não é reescrever a aula, é registrar a "pegadinha" da banca e a lacuna do seu conhecimento.
@@ -32,6 +32,18 @@ tags:
 # CEBRASPE
 - #banca/cebraspe 
 
+- **CORRETA.** Conforme o item 16 do CPC 26:
+> **A entidade cujas demonstrações contábeis estão em conformidade com os Pronunciamentos Técnicos, Interpretações e Orientações do CPC deve declarar de forma explícita e sem reservas essa conformidade nas notas explicativas.** A entidade não deve afirmar que suas demonstrações contábeis estão de acordo com esses Pronunciamentos Técnicos, Interpretações e Orientações a menos que cumpra todos os seus requisitos.
+
+- **I** Até que a companhia complete 20% do capital social, é facultado a ela destinar 5% do lucro líquido do exercício para a constituição de reserva legal.
+**INCORRETO.** Aqui o erro está em dizer que é "**facultado**". A destinação de 5% do lucro líquido para reserva legal é OBRIGATÓRIA, não opcional. A Lei 6.404/76, art. 193, determina:
+> Art. 193 Do lucro líquido do exercício, **5% (cinco por cento) serão aplicados, antes de qualquer outra destinação**, na constituição da reserva legal, que não excederá de 20% (vinte por cento) do capital social.
+
+- **II** A conta de ajustes de avaliação patrimonial é a contrapartida de variações do valor justo de elementos patrimoniais que não possam ser imediatamente reconhecidas como resultado do exercício e, em alguns casos, de variações do valor justo que não transitarão jamais pelo resultado do exercício.
+**CORRETO.** Olha só, a conta de ajustes de avaliação patrimonial registra mesmo as contrapartidas de variações a valor justo que não vão direto pro resultado. <font color="#548dd4">E tem casos, como instrumentos patrimoniais mensurados a valor justo por meio de outros resultados abrangentes, em que essas variações nunca vão passar pelo resultado mesmo</font>.
+
+- **IV** A companhia poderá recomprar ações de sua emissão, desde que as destine à ampliação do capital, devendo registrar essa operação na conta ações em tesouraria.
+**INCORRETO.** A recompra de ações gera mesmo ações em tesouraria, mas não é feita "para ampliação do capital". Isso não faz sentido. Ações em tesouraria são deduzidas do patrimônio líquido e podem ser canceladas ou revendidas depois, mas não representam aumento de capital.  (ACERTEI MAS É BOM SABER)
 # FCC
 - #banca/fcc 
 

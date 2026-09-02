@@ -50,9 +50,19 @@ tags:
 > II - mediante processo administrativo em que lhe seja assegurada ampla defesa;         (Incluído pela Emenda Constitucional nº 19, de 1998)  
 > III - mediante procedimento de avaliação periódica de desempenho, na forma de lei complementar, assegurada ampla defesa**.
 
+- Art. 49. É da **competência exclusiva do Congresso Nacional**:
+_[...]_
+**_X - fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do Poder Executivo, incluídos os da administração indireta;_**
+
+- **§ 2º Desde a expedição do diploma, os membros do Congresso Nacional não poderão ser presos, salvo em flagrante de crime inafiançável. Nesse caso, os autos serão remetidos dentro de vinte e quatro horas à Casa respectiva, para que, pelo voto da maioria de seus membros, resolva sobre a prisão.**
+
+- § 5º Se a proposta orçamentária de que trata este artigo for encaminhada em desacordo com os limites estipulados na forma do § 3º, o <mark style="background:rgba(240, 200, 0, 0.2)">Poder Executivo</mark> procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual.
 
 # FCC
 - #banca/fcc 
+
+- **ERRADA**, pois a nova eleição (2º turno) ocorrerá em até <mark style="background:rgba(240, 200, 0, 0.2)">VINTE</mark> dias, sendo considerado ele aquele que obtiver a maioria dos votos válidos (leia-se, **MAIORIA SIMPLES**, não computando os votos em branco e os nulos), conforme prevê o §3º, do art. 77, da CF/88.
+
 
 # FGV
 - #banca/fgv 

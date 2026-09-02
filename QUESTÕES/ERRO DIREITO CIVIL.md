@@ -52,7 +52,7 @@ tags:
 
 **_(iii)_ imóveis por acessão artificial ou industrial –** Acessão significa justaposição ou aderência de uma coisa a outra. O homem também pode incorporar bens móveis, como materiais de construção e sementes, ao solo, dando origem às acessões artificiais ou industriais. #definicao
 
-
+- <mark style="background:rgba(240, 200, 0, 0.2)">A reforma do estatuto da fundação</mark>, além de deliberada por dois terços dos competentes para gerir e representar a fundação e não contrariar ou desvirtuar o fim da fundação, <mark style="background:rgba(136, 49, 204, 0.2)">deve ser aprovada pelo órgão do Ministério Público</mark> e, se ele denegar ou não se manifestar no prazo legal, poderá o juiz supri-la a requerimento do interessado, conforme determina o art. 67 do Código Civil.
 
 # OUTRAS BANCAS 
 - #banca/outras

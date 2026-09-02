@@ -3,7 +3,7 @@ materia:
 tipo: caderno-de-erros
 tags:
 ---
-# 📉 Caderno de Erros: [[P 2 - Reforma Tributária]]
+# 📉 Caderno de Erros: [[P2 - Reforma Tributária]]
 
 > [!info] Regra de Ouro
 > Copie apenas o estritamente necessário. O objetivo não é reescrever a aula, é registrar a "pegadinha" da banca e a lacuna do seu conhecimento.
@@ -40,8 +40,13 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 # FCC
 - #banca/fcc 
 
+- E) As referências presentes nesta Lei Complementar às ~~alíquotas de referência~~ alíquotas-padrão devem ser entendidas como remissões às alíquotas fixadas por cada ente federativo da forma prevista.
+
+
 # FGV
 - #banca/fgv 
 
 # OUTRAS BANCAS 
 - #banca/outras
+
+- **Corrigindo o item:** A sociedade em conta de participação poderá optar pelo regime regular do IBS e da CBS, No entanto, caso ela não exerça essa opção, o ~~**sócio participante**~~ **sócio ostensivo** ficará obrigado ao pagamento do IBS e da CBS quanto às operações realizadas pela sociedade, vedada a exclusão de valores devidos a ~~**sócios ostensivos**~~ **sócios participantes**.

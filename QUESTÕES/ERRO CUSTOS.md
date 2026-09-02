@@ -1,5 +1,5 @@
 ---
-materia:
+materia: contabilidade custos
 tipo: caderno-de-erros
 tags:
 ---
@@ -53,6 +53,9 @@ Custos Primários=Matéria-prima Direta+Mão de Obra Direta
 
 # FGV
 - #banca/fgv 
+![901](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5IyVB9K8n4AmwE__LUh7zznc9lwO3GoH0wsK--aE43Y1q-lEtgOF4JZHhos-yR2H07lEfmLjy-9E_sQtqk9OO2KTnbASSki12AhJk4awe3g00--IaGWPTXVAGMdTCKsKCa2k9gw?key=hRvThe1x8kL9nt4RUDBy2g)
+
+
 
 # OUTRAS BANCAS 
 - #banca/outras

@@ -1,0 +1,15 @@
+{
+  "types": {
+    "tipo": "text",
+    "data": "date",
+    "materia": "text",
+    "bloco": "text",
+    "assuntos": "multitext",
+    "slot": "text",
+    "total": "number",
+    "acertos": "number",
+    "banca": "text",
+    "origem": "text",
+    "obs": "text"
+  }
+}

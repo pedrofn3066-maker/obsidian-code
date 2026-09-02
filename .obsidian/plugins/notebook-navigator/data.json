@@ -513,7 +513,11 @@
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
-  "folderAppearances": {},
+  "folderAppearances": {
+    "/": {
+      "titleRows": 2
+    }
+  },
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
@@ -553,6 +557,34 @@
   ],
   "lastShownVersion": "3.3.2",
   "rootFolderOrder": [],
-  "rootTagOrder": [],
+  "rootTagOrder": [
+    "acao",
+    "definicao",
+    "banca",
+    "dominio",
+    "excalidraw",
+    "flashcard",
+    "jurisprudencia",
+    "pegadinha",
+    "questão",
+    "revisar",
+    "status",
+    "tec",
+    "__untagged__",
+    "fl",
+    "p",
+    "pegadinh",
+    "pegadin",
+    "pegadi",
+    "pe",
+    "vespera",
+    "dica",
+    "j",
+    "ku",
+    "jur",
+    "bloco",
+    "ju",
+    "hu"
+  ],
   "rootPropertyOrder": []
 }

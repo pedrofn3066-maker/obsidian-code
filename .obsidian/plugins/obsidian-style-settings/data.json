@@ -3,5 +3,14 @@
   "things-style@@active-line": true,
   "things-style@@default-font-color": true,
   "things-style@@heading-underline-color": true,
-  "pdf-plus@@pdf-plus-vim-hint-inverted": false
+  "pdf-plus@@pdf-plus-vim-hint-inverted": false,
+  "vicious@@scrollbar-hide": false,
+  "vicious@@vibrant-indents": false,
+  "vicious@@disable-alternative-checkboxes": false,
+  "vicious@@vibrant-folders": false,
+  "vicious@@callout Style": "callout-style-02",
+  "vicious@@boldcolors": "bold-C002",
+  "vicious@@highlightcolors": "highlight-C003",
+  "simply-colorful-theme@@bold-color@@light": "#CB0B0B",
+  "simply-colorful-theme@@italic-color@@light": "#247CC3"
 }
