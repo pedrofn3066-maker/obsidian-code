@@ -22,9 +22,9 @@ espaço para o valor, com o tipo certo (número, data, lista):
 | `total` | quantas questões tinha o caderno |
 | `acertos` | quantas você acertou |
 | `tempo_min` | minutos gastos no caderno inteiro (o painel calcula o ritmo por questão) |
-| `erro_tipo` | desconhecimento, desatenção ou exceção — a causa dominante do erro |
+| `erro_tipo` | `desconhecimento`, `desatencao` ou `excecao` — a causa dominante do erro |
 | `banca` | opcional: FCC, FGV, Cebraspe ou mista |
-| `origem` | `caderno` (padrão), `simulado` ou `revisão` |
+| `origem` | `caderno` (padrão), `simulado` ou `revisao` |
 | `obs` | observação livre e curta, se sobrar algo que `erro_tipo` não capturou |
 
 Abaixo do frontmatter fica a seção **Erros a revisar**, para anotar em texto livre
@@ -68,17 +68,20 @@ Veja [[_exemplo-caderno]] para um exemplo já preenchido.
   de 60.
 - **Use os nomes exatos** de `materia` e `bloco` desta tabela. "Cont. Avançada"
   e "Contabilidade Avançada" viram dois grupos distintos nos painéis.
-- **Simulado ou revisão:** troque `origem`, para separar depois o desempenho
-  sob pressão de tempo (simulado) e a repetição de erro antigo (revisão) do
-  desempenho em caderno livre.
+- **Simulado ou revisão:** troque `origem` para `simulado` ou `revisao`, para
+  separar depois o desempenho sob pressão de tempo (simulado) e a repetição
+  de erro antigo (revisão) do desempenho em caderno livre.
+- **Grafia sem acento em `erro_tipo` e `origem`.** São campos de valor fechado
+  lidos por `WHERE`/`GROUP BY`; escrever `excecao` em vez de `exceção` evita
+  que um acento digitado errado crie um grupo fantasma no Diagnóstico de erro.
 
 ## Valores permitidos
 
 `slot`: S2 · S3 · S4 · S5
 
-`erro_tipo`: desconhecimento · desatenção · exceção
+`erro_tipo`: `desconhecimento` · `desatencao` · `excecao`
 
-`origem`: caderno · simulado · revisão
+`origem`: `caderno` · `simulado` · `revisao`
 
 `banca` (opcional): FCC · FGV · Cebraspe · mista
 
@@ -124,12 +127,23 @@ Abra qualquer um deles com o Dataview ativo.
 
 ## O ritual que fecha a alça
 
-Painel que ninguém abre é enfeite. Reserve um horário fixo semanal (ex.: 1h no
-domingo) e use nesta ordem:
+Painel que ninguém abre é enfeite.
 
-1. **Ganho potencial** — ver se o topo da fila mudou.
-2. **Fila de reforço** — decidir o que refazer.
-3. **Diagnóstico de erro** — decidir se o problema da semana foi conteúdo ou
-   leitura.
+| Painel | Frequência |
+| --- | --- |
+| Dia | Ao fechar o dia, para conferir se todos os cadernos foram registrados |
+| Ganho potencial | Domingo, no fechamento de ciclo |
+| Fila de reforço | Domingo, na sequência |
+| Semana por matéria | Domingo |
+| Diagnóstico de erro | Quinzenalmente |
 
-Se o topo do item 1 mudou, troque o conteúdo do slot S4 da semana seguinte.
+Ordem do fechamento de domingo: abrir **Ganho potencial** e verificar se o
+topo da fila mudou; abrir **Fila de reforço** para saber o que refazer; abrir
+**Diagnóstico de erro** para decidir se o problema da semana foi conteúdo ou
+leitura de enunciado. Se o topo do ganho potencial mudou, trocar o conteúdo
+do slot S4 da semana seguinte.
+
+Sugestão de configuração: fixar os três painéis de domingo na barra lateral
+(botão de fixar da aba). Opcionalmente, uma nota curta só com o bloco de
+Ganho potencial pode ficar arrastada para o painel lateral direito durante o
+estudo — vale para uma consulta só; duas ou três viram distração.

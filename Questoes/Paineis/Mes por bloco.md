@@ -10,12 +10,13 @@ export do TEC.
 
 ```dataview
 TABLE WITHOUT ID
-  bloco AS "Bloco",
-  sum(total) AS "Questões",
-  sum(acertos) AS "Acertos",
-  round(100 * sum(acertos) / sum(total), 1) AS "%"
+  key AS "Bloco",
+  sum(rows.total) AS "Questões",
+  sum(rows.acertos) AS "Acertos",
+  round(100 * sum(rows.acertos) / sum(rows.total), 1) AS "%",
+  sum(rows.total) - sum(rows.acertos) AS "Erros"
 FROM "Questoes/Diario"
 WHERE materia AND data >= date(today) - dur(30 days)
 GROUP BY bloco
-SORT round(100 * sum(acertos) / sum(total), 1) ASC
+SORT sum(rows.total) - sum(rows.acertos) DESC
 ```

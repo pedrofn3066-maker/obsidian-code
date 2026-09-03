@@ -9,27 +9,27 @@ ponto do que 45% em 12. O topo desta tabela é a fila de reforço da semana segu
 
 ```dataview
 TABLE WITHOUT ID
-  materia AS "Matéria",
-  sum(total) AS "Questões",
-  sum(acertos) AS "Acertos",
-  round(100 * sum(acertos) / sum(total), 1) AS "%",
-  sum(total) - sum(acertos) AS "Erros"
+  key AS "Matéria",
+  sum(rows.total) AS "Questões",
+  sum(rows.acertos) AS "Acertos",
+  round(100 * sum(rows.acertos) / sum(rows.total), 1) AS "%",
+  sum(rows.total) - sum(rows.acertos) AS "Erros"
 FROM "Questoes/Diario"
 WHERE materia AND data >= date(today) - dur(7 days)
 GROUP BY materia
-SORT sum(total) - sum(acertos) DESC
+SORT sum(rows.total) - sum(rows.acertos) DESC
 ```
 
 ## Últimos 30 dias
 
 ```dataview
 TABLE WITHOUT ID
-  materia AS "Matéria",
-  sum(total) AS "Questões",
-  round(100 * sum(acertos) / sum(total), 1) AS "%",
-  sum(total) - sum(acertos) AS "Erros"
+  key AS "Matéria",
+  sum(rows.total) AS "Questões",
+  round(100 * sum(rows.acertos) / sum(rows.total), 1) AS "%",
+  sum(rows.total) - sum(rows.acertos) AS "Erros"
 FROM "Questoes/Diario"
 WHERE materia AND data >= date(today) - dur(30 days)
 GROUP BY materia
-SORT sum(total) - sum(acertos) DESC
+SORT sum(rows.total) - sum(rows.acertos) DESC
 ```

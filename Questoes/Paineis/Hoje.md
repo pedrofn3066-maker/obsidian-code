@@ -18,9 +18,9 @@ SORT slot ASC
 
 ```dataview
 TABLE WITHOUT ID
-  sum(total) AS "Questões",
-  sum(acertos) AS "Acertos",
-  round(100 * sum(acertos) / sum(total), 1) AS "% acerto"
+  sum(rows.total) AS "Questões",
+  sum(rows.acertos) AS "Acertos",
+  round(100 * sum(rows.acertos) / sum(rows.total), 1) AS "% acerto"
 FROM "Questoes/Diario"
 WHERE materia AND data = date(today)
 GROUP BY true

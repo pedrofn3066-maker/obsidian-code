@@ -9,13 +9,13 @@ a ordem dos slots, não estudar mais.
 
 ```dataview
 TABLE WITHOUT ID
-  slot AS "Slot",
-  sum(total) AS "Questões",
-  round(100 * sum(acertos) / sum(total), 1) AS "%"
+  key AS "Slot",
+  sum(rows.total) AS "Questões",
+  round(100 * sum(rows.acertos) / sum(rows.total), 1) AS "%"
 FROM "Questoes/Diario"
 WHERE materia AND data >= date(today) - dur(30 days)
 GROUP BY slot
-SORT slot ASC
+SORT key ASC
 ```
 
 ## Assunto específico
