@@ -19,7 +19,7 @@ status: 🔴 1ª leitura
 
 A estrutura de tópicos abaixo não é o programa de 2026 — ele não existe. É o **esqueleto canônico de LTE de ICMS**, montado por instituto, que se repete em todo edital de SEFAZ estadual independentemente do estado e da banca. Quando o edital baiano sair, você acrescenta o que faltar e apaga o que não vier; a espinha permanece.
 
-Método de leitura em três colunas para cada instituto — nacional, estadual, regulamento — em [[LTE - COMO ESTUDAR]].
+Método de leitura em três colunas para cada instituto — nacional, estadual, regulamento — em [[P2 - Legislação Tributária Estadual (BA)]].
 
 ---
 

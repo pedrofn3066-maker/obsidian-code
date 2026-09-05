@@ -10,11 +10,11 @@ assuntos:
 slot: S3
 total: 24
 acertos: 15
-tempo_min: 
-erro_tipo: 
-banca: 
+tempo_min:
+erro_tipo:
+banca:
 origem: caderno
-obs: 
+tec: https://www.tecconcursos.com.br/s/Q6veVm
 ---
 
 ## Erros a revisar
