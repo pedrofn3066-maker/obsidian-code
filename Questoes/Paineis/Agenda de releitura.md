@@ -15,7 +15,7 @@ revisado: 2026-08-20
 
 ```dataviewjs
 // ===== AJUSTAR =====
-const RESUMOS = "Resumos";
+const RESUMOS = "MATERIAS";
 const DIARIO  = "Questoes/Diario";
 // ===================
 
@@ -96,7 +96,7 @@ rows.sort((x, y) => {
   const xv = x[7] > 0, yv = y[7] > 0;
   if (xv !== yv) return yv - xv;
   if (xv) return y[8] - x[8] || y[7] - x[7];
-  return x[7] - y[7];
+  return y[7] - x[7];
 });
 
 dv.table(

@@ -1,5 +1,7 @@
 ---
 disciplina: Direito Tributário
+bloco: Direito Tributário
+revisado:
 prova: II
 peso: 3
 pontos: 30

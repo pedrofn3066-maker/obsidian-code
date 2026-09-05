@@ -1,5 +1,7 @@
 ---
 disciplina: Matemática Financeira
+bloco: Mat. Fin./Estat./RLM
+revisado:
 prova: II
 peso: 3
 pontos: 30

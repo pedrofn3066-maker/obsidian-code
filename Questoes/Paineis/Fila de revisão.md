@@ -6,7 +6,7 @@ Requer que cada resumo tenha `bloco` no frontmatter, com a mesma grafia usada no
 
 ```dataviewjs
 // ===== AJUSTAR ESTES DOIS CAMINHOS =====
-const RESUMOS = "Resumos";              // pasta onde ficam os resumos
+const RESUMOS = "MATERIAS";             // pasta onde ficam os resumos
 const DIARIO  = "Questoes/Diario";      // pasta dos cadernos
 // =======================================
 

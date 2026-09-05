@@ -1,5 +1,7 @@
 ---
 disciplina: Administração Geral
+bloco: Adm. e Governança
+revisado:
 prova: I
 peso: 2
 pontos: 0

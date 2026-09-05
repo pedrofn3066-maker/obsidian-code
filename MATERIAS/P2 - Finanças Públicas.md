@@ -1,5 +1,7 @@
 ---
 disciplina: Finanças Públicas
+bloco: Finanças Públicas
+revisado:
 prova: II
 peso: 3
 pontos: 0

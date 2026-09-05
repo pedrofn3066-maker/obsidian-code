@@ -1,5 +1,7 @@
 ---
 disciplina: Fluência de Dados SGE-C
+bloco: Fluência de Dados
+revisado:
 prova: II
 peso: 3
 pontos: 0

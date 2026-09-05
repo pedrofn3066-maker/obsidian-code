@@ -1,5 +1,7 @@
 ---
 disciplina: Contabilidade Avançada e de Custos
+bloco: Cont. Avançada e de Custos
+revisado:
 prova: II
 peso: 3
 pontos: 0

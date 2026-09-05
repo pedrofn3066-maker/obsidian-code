@@ -1,5 +1,7 @@
 ---
 disciplina: Legislação Tributária Estadual
+bloco: Legislação Tributária
+revisado:
 prova: II
 peso: 3
 pontos: 75

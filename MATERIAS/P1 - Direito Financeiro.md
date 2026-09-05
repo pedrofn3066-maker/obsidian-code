@@ -1,5 +1,7 @@
 ---
 disciplina: Direito Financeiro
+bloco: Direito Financeiro
+revisado:
 prova: I
 peso: 2
 pontos: 0

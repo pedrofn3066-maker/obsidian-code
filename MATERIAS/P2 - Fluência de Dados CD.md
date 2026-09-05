@@ -1,5 +1,7 @@
 ---
 disciplina: Fluência de Dados CD
+bloco: Fluência de Dados
+revisado:
 prova: II
 peso: 3
 pontos: 0

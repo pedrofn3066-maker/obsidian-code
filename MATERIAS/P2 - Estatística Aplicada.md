@@ -1,5 +1,7 @@
 ---
 disciplina: Estatística Aplicada
+bloco: Mat. Fin./Estat./RLM
+revisado:
 prova: II
 peso: 3
 pontos: 15

@@ -2,6 +2,8 @@
 cssclasses:
 tags:
 disciplina: Reforma Tributária
+bloco: Direito Tributário
+revisado:
 peso: 3
 prova: II
 aliases:

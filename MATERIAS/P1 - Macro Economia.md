@@ -1,5 +1,7 @@
 ---
 disciplina: Macro Economia
+bloco: Economia
+revisado:
 prova: I
 peso: 2
 pontos: 0

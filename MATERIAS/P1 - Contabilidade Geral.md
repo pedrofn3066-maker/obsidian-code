@@ -1,5 +1,7 @@
 ---
 disciplina: Contabilidade Geral
+bloco: Cont. Geral e Pública
+revisado:
 prova: I
 peso: 2
 pontos: 20

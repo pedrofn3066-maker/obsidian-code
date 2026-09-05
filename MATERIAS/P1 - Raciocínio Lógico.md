@@ -1,5 +1,7 @@
 ---
 disciplina: Raciocínio Lógico
+bloco: Mat. Fin./Estat./RLM
+revisado:
 prova: I
 peso: 2
 pontos: 14

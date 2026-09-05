@@ -1,5 +1,7 @@
 ---
 disciplina: Auditoria
+bloco: Auditoria
+revisado:
 prova: I
 peso: 2
 pontos: 15
