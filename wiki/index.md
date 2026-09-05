@@ -15,11 +15,15 @@ This catalog is updated by completed knowledge operations.
 
 ## Sources
 
-- No sources indexed yet.
+- [[Resumo Jurisprudencia - Direito Administrativo (VINTEUM)]]
+- [[Resumo Jurisprudencia - Direito Constitucional (VINTEUM)]]
+- [[Resumo Jurisprudencia - Direito Tributario (VINTEUM)]]
 
 ## Concepts
 
-- No concepts indexed yet.
+- [[Sumulas Vinculantes - Direito Administrativo]]
+- [[Sumulas Vinculantes - Direito Constitucional]]
+- [[Sumulas Vinculantes - Direito Tributario]]
 
 ## Entities
 

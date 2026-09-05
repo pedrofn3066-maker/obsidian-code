@@ -32,6 +32,8 @@ prioridade: crítico
 | Impostos Municipais | 3,1% |
 | Introdução ao Direito Tributário | 2,0% |
 
+Jurisprudência (Súmulas Vinculantes + julgados STF/STJ): [[Resumo Jurisprudencia - Direito Tributario (VINTEUM)]] · [[Sumulas Vinculantes - Direito Tributario]]
+
 > **15 questões · 30 pontos na âncora BA 2019 — mas em **CE 2026 são 20 questões de peso 2**, na prova específica**
 > Prioridade: **crítico**
 

@@ -1,5 +1,60 @@
 {
-  "generated_at": "2026-09-05T22:18:12Z",
   "schema": "claude-obsidian.source-ledger.v1",
-  "sources": {}
+  "generated_at": "2026-09-05T22:40:00Z",
+  "sources": {
+    "src-bc2562f6f70ed60b71e0": {
+      "origin": {
+        "kind": "file",
+        "locator": "inbox/Resumo-Jurisprudencia-D.-Administrativo-Fiscal-4.0-V1.0.pdf"
+      },
+      "content_kind": "document",
+      "authority": "secondary",
+      "review_status": "active",
+      "title": "Resumo Jurisprudencia - Direito Administrativo (VINTEUM Fiscal 4.0)",
+      "content_sha256": "927498a8b9cb7d345d2dd8197a2490cef29372775475dd115149b48c02b24812",
+      "ingested_at": "2026-09-05",
+      "retrieved_at": "2026-09-05",
+      "refresh_due": "2027-01-31",
+      "independence_key": "vinteum-fiscal-4.0",
+      "pages": [
+        "wiki/sources/Resumo Jurisprudencia - Direito Administrativo (VINTEUM).md"
+      ]
+    },
+    "src-69b49a26b2118ae0442b": {
+      "origin": {
+        "kind": "file",
+        "locator": "inbox/Resumo-Jurisprudencia-D.-Constitucional-Fiscal-4.0-V1.0.pdf"
+      },
+      "content_kind": "document",
+      "authority": "secondary",
+      "review_status": "active",
+      "title": "Resumo Jurisprudencia - Direito Constitucional (VINTEUM Fiscal 4.0)",
+      "content_sha256": "4653b4d7288a6e04902f70c4236ef0d7e15438062a5c719303db9c757848c135",
+      "ingested_at": "2026-09-05",
+      "retrieved_at": "2026-09-05",
+      "refresh_due": "2027-01-31",
+      "independence_key": "vinteum-fiscal-4.0",
+      "pages": [
+        "wiki/sources/Resumo Jurisprudencia - Direito Constitucional (VINTEUM).md"
+      ]
+    },
+    "src-726093c2947dbea3af9d": {
+      "origin": {
+        "kind": "file",
+        "locator": "inbox/Resumo-Jurisprudencia-D.-Tributario-Fiscal-4.0-V1.0.pdf"
+      },
+      "content_kind": "document",
+      "authority": "secondary",
+      "review_status": "active",
+      "title": "Resumo Jurisprudencia - Direito Tributario (VINTEUM Fiscal 4.0)",
+      "content_sha256": "7237a5e21b1223166b6536a2f9bf06eff6029596f453ba5ee5b17a7fdb71e0a6",
+      "ingested_at": "2026-09-05",
+      "retrieved_at": "2026-09-05",
+      "refresh_due": "2027-01-31",
+      "independence_key": "vinteum-fiscal-4.0",
+      "pages": [
+        "wiki/sources/Resumo Jurisprudencia - Direito Tributario (VINTEUM).md"
+      ]
+    }
+  }
 }

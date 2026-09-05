@@ -32,6 +32,8 @@ prioridade: importante
 | Nacionalidade | 2,3% |
 | Poder Executivo | 2,3% |
 
+Jurisprudência (Súmulas Vinculantes + julgados STF/STJ): [[Resumo Jurisprudencia - Direito Constitucional (VINTEUM)]] · [[Sumulas Vinculantes - Direito Constitucional]]
+
 > **15 questões · peso 2 · **30 pontos** · 9,1% da nota**
 > Prioridade: **importante**
 

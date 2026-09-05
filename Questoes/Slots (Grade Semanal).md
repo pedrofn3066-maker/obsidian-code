@@ -16,15 +16,15 @@ Grade padrão: 6h/dia, 42h/semana.
 
 ## Grade semanal (matéria por dia × slot)
 
-| Dia | S2 · 90min | S3 · 90min | S4 · 60min | S5 · 90min |
-| --- | --- | --- | --- | --- |
-| Segunda | Contabilidade Avançada | Direito Tributário | Língua Portuguesa | Ciências de Dados |
-| Terça | Legislação Tributária Estadual | Contabilidade Avançada | Auditoria | Finanças Públicas |
-| Quarta | Direito Tributário | Contabilidade de Custos | Direito Financeiro | Rodízio 4 (Constitucional, Administrativo, Civil, Penal) |
-| Quinta | Contabilidade Avançada | Legislação Tributária Estadual | Adm. Pública e Governança | Ciências de Dados |
-| Sexta | Direito Tributário | Finanças Públicas | Segurança da Informação | Mat. Financeira/Estatística/RLM |
-| Sábado | Legislação Tributária Estadual | Cont. Geral (ímpares)/Cont. Pública (pares) | Micro (ímpares)/Macro (pares) | Discursiva |
-| Domingo | Simulado | Simulado | Correção com caderno de erros — 2h | Fechamento de ciclo — 1h |
+| Dia     | S2 · 90min                     | S3 · 90min                                  | S4 · 60min                         | S5 · 90min                                               |
+| ------- | ------------------------------ | ------------------------------------------- | ---------------------------------- | -------------------------------------------------------- |
+| Segunda | Contabilidade Avançada         | Direito Tributário                          | Língua Portuguesa                  | Ciências de Dados                                        |
+| Terça   | Legislação Tributária Estadual | Contabilidade Avançada                      | Auditoria                          | Finanças Públicas                                        |
+| Quarta  | Direito Tributário             | Contabilidade de Custos                     | Direito Financeiro                 | Rodízio 4 (Constitucional, Administrativo, Civil, Penal) |
+| Quinta  | Contabilidade Avançada         | Legislação Tributária Estadual              | Adm. Pública e Governança          | Ciências de Dados                                        |
+| Sexta   | Direito Tributário             | Finanças Públicas                           | Segurança da Informação            | Mat. Financeira/Estatística/RLM                          |
+| Sábado  | Legislação Tributária Estadual | Cont. Geral (ímpares)/Cont. Pública (pares) | Micro (ímpares)/Macro (pares)      | Discursiva                                               |
+| Domingo | Simulado                       | Simulado                                    | Correção com caderno de erros — 2h | Fechamento de ciclo — 1h                                 |
 
 S1 (revisão ativa, todos os dias) e, no domingo, o simulado ocupa S1+S2+S3 (3h).
 

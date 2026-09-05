@@ -31,6 +31,8 @@ prioridade: importante
 | Lei de Acesso à Informação | 3,6% |
 | Responsabilidade Civil do Estado | 3,3% |
 
+Jurisprudência (Súmulas Vinculantes + julgados STF/STJ): [[Resumo Jurisprudencia - Direito Administrativo (VINTEUM)]] · [[Sumulas Vinculantes - Direito Administrativo]]
+
 > **15 questões · peso 2 · **30 pontos** · 9,1% da nota**
 > Prioridade: **importante**
 
