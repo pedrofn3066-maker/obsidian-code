@@ -1,5 +1,7 @@
 ---
 disciplina: Noções de Informática
+bloco: Fluência de Dados
+revisado:
 prova: II
 peso: 3
 pontos: 30

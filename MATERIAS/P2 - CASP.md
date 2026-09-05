@@ -1,5 +1,7 @@
 ---
-disciplina: CASP
+disciplina: Contabilidade Aplicada ao Setor Público
+bloco: Cont. Geral e Pública
+revisado:
 prova: II
 peso: 3
 pontos: 0

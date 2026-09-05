@@ -1,5 +1,7 @@
 ---
 disciplina: Micro e Finanças Públicas
+bloco: Finanças Públicas
+revisado:
 prova: I
 peso: 2
 pontos: 0
