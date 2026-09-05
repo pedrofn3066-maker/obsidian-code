@@ -61,3 +61,43 @@ Variantes detalhadas: 30h, 36h e 42h semanais. A estrutura repete a da Fase Inte
 - A alocação de horas geral bate com os pesos do `PONTOS` (Ganho Potencial): Direito Tributário e Contabilidade dominam a grade (bloco de 40 pts); Direito Financeiro e Contabilidade Pública aparecem pouco (bloco de 8 pts).
 - Ponto de atenção: Fluência de Dados recebe tanto tempo semanal quanto Direito Tributário, mesmo valendo metade do peso do edital (20 pts vs 40). Não é necessariamente um erro — pode refletir tempo-até-competência (curva de aprendizado do zero) em vez de peso-no-edital, que são eixos diferentes.
 - **Recomendação**: usar este ciclo como esqueleto de rotação de matérias, especialmente na fase inicial (sem dado de desempenho ainda). Depois que `Questoes/Diario` acumular dados reais, deixar o `Ganho Potencial` decidir o que entra nos slots de "Turno Reforço"/"Livre", em vez de seguir a grade fixa para sempre.
+
+## Cronograma personalizado — Fase Avançada, 36h/semana (Claude, 2026-09-05)
+
+Mesmo esqueleto de blocos de 1h/1h30 da VINTEUM, mas a frequência de cada matéria segue o Ganho Potencial real calculado a partir do `Questoes/Diario` nesta data, não a grade genérica do guia.
+
+Ganho Potencial no momento do cálculo:
+
+| Bloco | Ganho potencial | % acerto (30d) | Situação |
+| --- | --- | --- | --- |
+| Cont. Avançada e de Custos | 8,86 | 62,9% | maior ganho |
+| Mat. Fin./Estat./RLM | 5,70 | 37,5% | pior % de acerto |
+| Fluência de Dados | 4,08 | 64,6% | |
+| Direito Tributário | 3,60 | 76,0% | |
+| Cont. Geral e Pública | 2,41 | 60,9% | |
+| Const./Adm./Civil/Penal | 1,95 | 68,8% | |
+| Auditoria | 1,57 | 65,4% | |
+| Legislação Tributária, Finanças Públicas, Língua Portuguesa, Adm. e Governança, Economia, Direito Financeiro | — | sem caderno nos últimos 30 dias | prioridade escondida |
+
+Lógica de alocação:
+
+- **Contabilidade (Avançada/Geral/Custos)** — maior ganho → 3x/semana, 4h total.
+- **Fluência de Dados** — ganho alto, mantém prioridade da VINTEUM → 3x/semana, 3h30.
+- **Mat. Financeira / Estatística / RLM** — pior % de acerto apesar de ganho médio → 3x/semana rotativo, 3h.
+- **Const./Adm./Civil/Penal** (4 matérias) — rotativo, 1x cada/semana, 4h.
+- **Direito Tributário** — maior peso do edital (40) mas já com 76% de acerto → reduzido para 2x/semana (2h30), sem descuidar.
+- **Contabilidade Pública/CASP** — 2x/semana, 2h.
+- **Auditoria** — já em 65%, 1x/semana, 1h.
+- **Domingo = cobertura de lacunas**: as 6 matérias sem nenhum caderno nos últimos 30 dias + Direito Empresarial (nem tem nota ainda) — 1h cada, para gerar o primeiro dado real antes de continuar reforçando só quem já tem histórico.
+
+| Dia | Blocos |
+| --- | --- |
+| Segunda | Contabilidade (1:30) · Fluência de Dados (1:30) · Direito Administrativo (1:00) · Legislação Tributária Estadual (1:00) |
+| Terça | Direito Tributário (1:30) · Direito Constitucional (1:00) · Estatística (1:00) |
+| Quarta | Contabilidade (1:30) · RLM (1:00) · Contabilidade Pública (1:00) |
+| Quinta | Direito Tributário (1:00) · Fluência de Dados (1:00) · Direito Civil (1:00) · Auditoria (1:00) |
+| Sexta | Contabilidade (1:00) · Matemática Financeira (1:00) · Direito Penal (1:00) |
+| Sábado | Fluência de Dados (1:00) · Legislação Tributária Estadual (1:00) · Contabilidade Pública (1:00) |
+| Domingo | Finanças Públicas · Língua Portuguesa · Adm. e Governança · Economia · Direito Financeiro · Direito Empresarial (1h cada) |
+
+Total fixo: ~28h/semana. As ~8h restantes ficam como **Turno Reforço dinâmico** — não travado em nenhuma matéria de propósito: a cada semana, olhe o `Ganho Potencial` atualizado e jogue essas horas no bloco que estiver no topo naquele momento. Recalcular esta tabela quando o `Questoes/Diario` tiver dado novo relevante (ex.: depois de cobrir as 6 matérias sem dado, ou se algum bloco mudar de posição no ranking).
