@@ -1,0 +1,25 @@
+{
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#ffff00"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff0000"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ff8000"
+    },
+    {
+      "name": "Green",
+      "hex": "#00ff00"
+    },
+    {
+      "name": "Purple",
+      "hex": "#a22cff"
+    }
+  ],
+  "defaultColorName": "Yellow"
+}

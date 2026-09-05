@@ -88,6 +88,154 @@ A análise <font color="#ff0000">custo-benefício</font> não depende apenas de 
 ### - Mensuração a Valor Justo (CPC 46)
 ### - Políticas, erros e estimativas contábeis (CPC 23);
 ### - Receita com Contrato com Cliente (CPC 47)
+SEM AULA TEC. PEGAR NO ESTRATÉGIA 
+**➡️** **CPC 47 - Receita de Contrato com Cliente**
+
+**1. Objetivo**
+
+**Estabelecer os Princípios** que a entidade deve aplicar para apresentar informações úteis aos usuários de demonstrações contábeis **sobre a natureza, o valor, a época e a incerteza** **de Receitas e Fluxos de Caixa provenientes de Contrato com Cliente.**
+
+⚠️ **Princípio Básico** → **Reconhecer Receitas** para descrever a transferência de bens ou serviços prometidos a clientes no valor **que reflita a contraprestação à qual a entidade espera ter direito** em troca desses bens ou serviços.
+
+**2. Alcance**
+
+A Entidade deve aplicar o CPC 47 a **Todos os Contratos com Clientes**
+
+O CPC 47 **Não se Aplica:**
+
+- Contratos de arrendamento dentro do alcance do **CPC 06 – Arrendamentos.**
+- Contratos dentro do alcance do **CPC 50 – Contratos de Seguro.**
+    - Contudo, uma entidade **pode** escolher aplicar o CPC 47 a contratos de **seguro que têm como finalidade principal a prestação de serviços por uma taxa fixa.**
+- **Instrumentos financeiros** **e outros** direitos ou obrigações contratuais dentro do alcance dos **CPC's 18, 19, 35, 36 e 48.**
+- **Permutas Não Monetárias** entre entidades na mesma linha de negócios para facilitar vendas a clientes ou clientes potenciais.
+    - Ex: O CPC 47 não se aplica a contrato entre duas empresas do setor de óleo e gás que pactuem a permuta de petróleo para satisfazer à demanda de seus clientes em diferentes locais especificados, de forma tempestiva.
+
+**3. Definições**
+
+📌 **Contrato** ⇒ **Acordo** entre duas ou mais partes que **cria direitos e obrigações** executáveis.
+
+- 📌 **Ativo de Contrato** ⇒ **Direito** da entidade **à contraprestação** em troca de bens ou serviços que a entidade transferiu ao cliente quando esse direito **está condicionado a algo além da passagem do tempo** (Ex.: desempenho futuro da entidade).
+
+- 📌 **Passivo de Contrato** ⇒ **Obrigação** da entidade **de transferir** bens ou serviços ao cliente,
+
+- 📌 **Obrigação de Performance** ⇒ **Promessa em contrato** com cliente para a **transferência** ao cliente de:
+    - **Bem ou Serviço** (ou grupo de bens ou serviços) que **seja distinto;** ou
+    - **Série de Bens ou Serviços Distintos** que sejam **praticamente os mesmos** e que tenham o **mesmo padrão de transferência** para o cliente.  
+          
+        
+
+📌 **Preço da Transação** (para contrato com cliente) ⇒ **Valor da contraprestação** à qual a entidade espera ter direito em troca da transferência de bens ou serviços prometidos ao cliente, **excluindo valores** cobrados em nome de **terceiros.**
+
+  
+📌 **Preço de Venda Individual** (de bem ou serviço) ⇒ **Preço** pelo qual a entidade venderia um bem ou serviço prometido **separadamente ao cliente.**
+
+📌 **Receita** ⇒ **Aumento nos benefícios econômicos** durante o período contábil, originado no **curso das atividades usuais** da entidade, na forma de **fluxos de entrada ou aumentos nos ativos ou redução nos passivos** que **resultam em aumento no PL,** e que **não** sejam provenientes de **aportes dos participantes do patrimônio.**
+
+**4. Reconhecimento**
+
+**4.1. Identificação do Contrato**
+
+A entidade deve **contabilizar os efeitos de um contrato,** quando **todos os critérios** forem atendidos:
+
+- As partes do contrato **aprovarem o contrato** (por escrito, verbalmente ou outras práticas) e estiverem **comprometidas em cumpri-lo;**
+- Possível **Identificar os direitos** de cada parte na relação contratual;
+- Possível Identificar os **termos de pagamento;**
+- O Contrato deve possuir **substância comercial** (atualização de risco, a época ou o valor dos fluxos de caixa futuros); e
+- **Provável** que a entidade **receberá a contraprestação.**
+    - O valor da contraprestação **pode ser inferior ao preço declarado** no contrato **se a contraprestação for variável.** (Entidade pode oferecer ao cliente uma redução de preço).
+
+|   |
+|---|
+|🚨 **Se** **Contrato com o Cliente** **Não atende aos Critérios** **e a** **Entidade Recebe a Contraprestação** do Cliente:<br><br>- A **Receita** só poderá ser contabilizada se:<br>    - **N****ão houver Obrigações** Restantes e a **Contraprestação Não for Restituível;** ou<br>    - **Contrato for Rescindido** e a **Contraprestação Não for Restituível.**<br><br>⚠️ **Enquanto não Atendidos** os Requisitos → Reconhecer a **Contraprestação Recebida** de Cliente como **Passivo.**|
+
+**4.2. Combinação de Contrato**
+
+- A Entidade deve **Combinar dois ou mais contratos** celebrados:
+    - Na **mesma data** ou perto dessa data.
+    - Com o **mesmo cliente** (ou partes relacionadas do cliente).
+
+- A Entidade deve **Contabilizar** os contratos **como um Único Contrato** se atendido pelo menos um dos critérios:
+    - Os contratos forem negociados como um **pacote** com um **único objetivo comercial.**
+    - O valor da contraprestação a ser paga pelo contrato **depende do preço ou do desempenho de outro contrato.**
+    - Os bens ou serviços prometidos nos contratos (ou alguns bens ou serviços prometidos em cada um dos contratos) constituem uma **única obrigação de performance.**
+
+**4.3. Identificação de Obrigação de Performance**
+
+- **Regra** → **Contrato** com cliente **declara expressamente os bens ou os serviços** que a entidade **promete transferir** ao cliente.
+    - As **Obrigações de Performance** identificadas no **contrato** com o cliente **podem não estar limitadas aos bens ou serviços** que são expressamente declarados nesse contrato.
+
+|   |
+|---|
+|🚨 **Obrigações de Performance** → **Não Incluem** **atividades** que a entidade deve realizar **para cumprir o contrato.**<br><br>- Ex.: o prestador de serviços pode precisar executar várias **tarefas administrativas** para elaborar o contrato. A execução dessas tarefas não transfere o serviço ao cliente à medida que as tarefas são executadas.<br>- **Exceção** → **Atividades que transfiram** o bem ou o serviço ao cliente.|
+
+**4.4. Satisfação de Obrigação de Performance**
+
+- A entidade deve **Reconhecer Receitas** quando (ou à medida que) a entidade **satisfizer à obrigação de performance ao transferir** o bem ou o serviço (ou seja, um ativo) prometido ao cliente.
+    - ⚠️ **Transferência do Ativo** → Quando o **Cliente obtiver o Controle** desse ativo.
+
+**5. Mensuração**
+
+- **Reconhecimento da Receita** → **Quando (ou à medida que)** uma **obrigação de performance for satisfeita.**
+    - Valor → **Preço da Transação**, o qual **exclui** estimativas de **contraprestação variável** que sejam restringidas.
+
+🚨 A entidade **deve incluir** no preço da transação a totalidade ou parte do valor da **contraprestação variável estimado,** **somente** na medida em que for **altamente provável que uma reversão significativa** no valor das receitas acumuladas reconhecidas **não deva ocorrer,** quando a incerteza associada à contraprestação variável for subsequentemente resolvida.
+
+|   |
+|---|
+|**Preço da Transação**|
+|Valor da **Contraprestação** Esperada  <br>**(-) Valores** Cobrados em Nome de **Terceiros ¹**|
+|**¹** Ex.: Impostos sobre Vendas.|
+
+**5.1. Contraprestação Variável**
+
+- O valor da **contraprestação pode variar:**
+    - Em razão de descontos, abatimentos, restituições, créditos, concessões de preços, incentivos, bônus de desempenho, penalidades ou outros itens similares.
+
+- - Se o **direito** da entidade à contraprestação **depender da ocorrência** ou não ocorrência de **evento futuro.**
+        - Ex.: Se o produto for vendido com direito de retorno ou se o valor fixo for prometido como bônus de desempenho em caso de ser atingido um marco especificado.
+
+|   |
+|---|
+|🚨 **Contraprestação inclui Valor Variável → Valor** da Contraprestação deve ser **Estimado:**<br><br>- Método do **Valor Esperado** ⇒ **Soma de valores ponderados** em função da **probabilidade** de uma gama de possíveis valores de contraprestação.<br>    - Pode ser uma estimativa **apropriada** se a entidade tiver grande número de **contratos com características similares.**<br><br>- Método do **Valor Mais Provável** ⇒ **Valor Único** mais provável de uma gama de possíveis valores de contraprestação **(o resultado único mais provável do contrato).**<br>    - Pode ser uma estimativa **apropriada** se o contrato tiver **apenas dois possíveis resultados.** Ex.: A entidade atingir um bônus de desempenho ou não.|
+
+**5.2. Passivo de Restituição**
+
+- Passivo de Restituição ⇒ valores referentes a produtos ou serviços vendidos que a entidade **espera** que haja **devolução ou pedido de reembolso.**
+    - **Reconhecimento** → Se a entidade **receber contraprestação** do cliente **e esperar restituir** a totalidade ou parte dessa contraprestação ao cliente.
+
+- - **Mensuração** → **Valor da Contraprestação** Recebida (ou a receber) em relação à qual a **entidade não espera ter direito** (Valores **não incluídos no preço da transação).**
+        - **Atualizado ao final de cada período** de relatório para refletir alterações nas circunstâncias.
+
+|   |
+|---|
+|🚨 **Contraprestação Não Monetária** -> Mensurada ao **Valor Justo** (se razoavelmente estimável)<br><br>- **Não possível** estimar → **Preço de Venda.**|
+
+⚠️ Para contabilizar a transferência de produtos ou serviços com **direito à devolução ou reembolso,** a entidade deve **reconhecer** todos os itens:
+
+- **Receita** para os produtos transferidos → **Valor da contraprestação** ao qual a entidade **espera ter direito** (portanto, a receita **não** seria reconhecida para os produtos **que se espera que sejam devolvidos).**
+- **Obrigação de Restituição.**
+- **Ativo** (e correspondente **ajuste ao Custo de Vendas)** por seu direito de recuperar produtos de clientes ao liquidar a obrigação de restituição.
+
+🔍 _Ex.: A entidade vende um conjunto de produtos por R$ 1.000,00, cujo custo foi de R$ 700,00, mas espera que haja devolução de 5%._
+
+✏️ Reconhecimento da **Receita****:**
+
+  D – Disponibilidades  1.000
+
+  C – Receita de Vendas  950
+
+  C – Passivo de Restituição  50 _[5% de 1.000]_
+
+✏️ Reconhecimento do **CMV:**
+
+  D – CMV  700
+
+  C – Estoques  700
+
+  D – Direito a Recuperar  35 _[5% de 700]_
+
+  C – Ajuste do CMV  35
+
 
 # Bloco B:
 
@@ -177,6 +325,8 @@ A entidade só deve reconhecer um passivo de empréstimo quando do recebimento d
 ## - Provisões (CPC 25);
 
 ## - Tributos sobre Lucro (CPC 32); e
+
+(https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4723)
 
 **Lucro Antes IR   (lucro contábil)**
 Receita      500.000

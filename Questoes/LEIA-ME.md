@@ -11,21 +11,21 @@ Os dados ficam nas propriedades (frontmatter) da nota — não em texto solto �
 o Obsidian mostra, no topo da nota, uma tabela real com o nome de cada campo e um
 espaço para o valor, com o tipo certo (número, data, lista):
 
-| Propriedade | O que colocar |
-| --- | --- |
-| `tipo` | sempre `caderno` (não mexa) |
-| `data` | data em que você resolveu o caderno |
-| `materia` | nome exato da matéria (tabela abaixo) |
-| `bloco` | bloco de pontuação da matéria (copia da tabela abaixo) |
-| `assuntos` | um ou mais assuntos cobrados (clique em "+" para adicionar mais de um) |
-| `slot` | S2, S3, S4 ou S5 |
-| `total` | quantas questões tinha o caderno |
-| `acertos` | quantas você acertou |
+| Propriedade | O que colocar                                                            |
+| ----------- | ------------------------------------------------------------------------ |
+| `tipo`      | sempre `caderno` (não mexa)                                              |
+| `data`      | data em que você resolveu o caderno                                      |
+| `materia`   | nome exato da matéria (tabela abaixo)                                    |
+| `bloco`     | bloco de pontuação da matéria (copia da tabela abaixo)                   |
+| `assuntos`  | um ou mais assuntos cobrados (clique em "+" para adicionar mais de um)   |
+| `slot`      | S2, S3, S4 ou S5                                                         |
+| `total`     | quantas questões tinha o caderno                                         |
+| `acertos`   | quantas você acertou                                                     |
 | `tempo_min` | minutos gastos no caderno inteiro (o painel calcula o ritmo por questão) |
 | `erro_tipo` | `desconhecimento`, `desatencao` ou `excecao` — a causa dominante do erro |
-| `banca` | opcional: FCC, FGV, Cebraspe ou mista |
-| `origem` | `caderno` (padrão), `simulado` ou `revisao` |
-| `obs` | observação livre e curta, se sobrar algo que `erro_tipo` não capturou |
+| `banca`     | opcional: FCC, FGV, Cebraspe ou mista                                    |
+| `origem`    | `caderno` (padrão), `simulado` ou `revisao`                              |
+| `obs`       | observação livre e curta, se sobrar algo que `erro_tipo` não capturou    |
 
 Abaixo do frontmatter fica a seção **Erros a revisar**, para anotar em texto livre
 a regra ou pegadinha que causou o erro.
@@ -90,28 +90,28 @@ Veja [[_exemplo-caderno]] para um exemplo já preenchido.
 Os nomes abaixo são os mesmos das colunas B e C da aba Tópicos da planilha
 `Cronograma_SEFAZ_CE_2027.xlsx`, para que os dois sistemas cruzem sem tradução.
 
-| matéria | bloco | pontos |
-| --- | --- | --- |
-| Contabilidade Avançada | Cont. Avançada e de Custos | 40 |
-| Contabilidade Custos | Cont. Avançada e de Custos | 40 |
-| Direito Tributário | Direito Tributário | 40 |
-| Legislação Tributária Estadual | Legislação Tributária | 40 |
-| Finanças Públicas | Finanças Públicas | 20 |
-| Ciências De Dados | Fluência de Dados | 20 |
-| Segurança Da Informação E Proteção De Dados | Fluência de Dados | 20 |
-| Matemática Financeira/Estatística E Raciocínio Lógico | Mat. Fin./Estat./RLM | 12 |
-| Direito Constitucional | Const./Adm./Civil/Penal | 12 |
-| Direito Administrativo | Const./Adm./Civil/Penal | 12 |
-| Direito Civil | Const./Adm./Civil/Penal | 12 |
-| Direito Penal | Const./Adm./Civil/Penal | 12 |
-| Língua Portuguesa | Língua Portuguesa | 10 |
-| Administração Pública E Governança Pública | Adm. e Governança | 10 |
-| Microeconomia | Economia | 10 |
-| Macroeconomia | Economia | 10 |
-| Contabilidade Geral | Cont. Geral e Pública | 10 |
-| Contabilidade Pública | Cont. Geral e Pública | 10 |
-| Direito Financeiro | Direito Financeiro | 8 |
-| Auditoria | Auditoria | 8 |
+| matéria                                               | bloco                      | pontos |
+| ----------------------------------------------------- | -------------------------- | ------ |
+| Contabilidade Avançada                                | Cont. Avançada e de Custos | 40     |
+| Contabilidade Custos                                  | Cont. Avançada e de Custos | 40     |
+| Direito Tributário                                    | Direito Tributário         | 40     |
+| Legislação Tributária Estadual                        | Legislação Tributária      | 40     |
+| Finanças Públicas                                     | Finanças Públicas          | 20     |
+| Ciências De Dados                                     | Fluência de Dados          | 20     |
+| Segurança Da Informação E Proteção De Dados           | Fluência de Dados          | 20     |
+| Matemática Financeira/Estatística E Raciocínio Lógico | Mat. Fin./Estat./RLM       | 12     |
+| Direito Constitucional                                | Const./Adm./Civil/Penal    | 12     |
+| Direito Administrativo                                | Const./Adm./Civil/Penal    | 12     |
+| Direito Civil                                         | Const./Adm./Civil/Penal    | 12     |
+| Direito Penal                                         | Const./Adm./Civil/Penal    | 12     |
+| Língua Portuguesa                                     | Língua Portuguesa          | 10     |
+| Administração Pública E Governança Pública            | Adm. e Governança          | 10     |
+| Microeconomia                                         | Economia                   | 10     |
+| Macroeconomia                                         | Economia                   | 10     |
+| Contabilidade Geral                                   | Cont. Geral e Pública      | 10     |
+| Contabilidade Pública                                 | Cont. Geral e Pública      | 10     |
+| Direito Financeiro                                    | Direito Financeiro         | 8      |
+| Auditoria                                             | Auditoria                  | 8      |
 
 ## Painéis
 

@@ -163,6 +163,8 @@ Na auditoria de demonstrações contábeis, o gabarito está correto porque **a
 
 
 ## - Testes e Procedimentos em Auditoria;
+(https://www.tecconcursos.com.br/aulas/materias/29/assuntos/2736)
+
 
 ## - Evidência em Auditoria;
 ## Tipos de evidências 

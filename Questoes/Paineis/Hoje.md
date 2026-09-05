@@ -8,7 +8,7 @@ tipo: painel
 TABLE WITHOUT ID
   materia AS "Matéria", assuntos AS "Assuntos", slot AS "Slot",
   total AS "Q", acertos AS "Ac",
-  round(100 * acertos / total, 1) AS "%", obs AS "Observação"
+  round(100 * acertos / total, 1) AS "%", tec AS "Observação"
 FROM "Questoes/Diario"
 WHERE materia AND data = date(today)
 SORT slot ASC

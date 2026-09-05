@@ -8,7 +8,7 @@ aliases:
 prioridade: crítico
 ---
 # Reforma Tributária
-
+[[ERRO REFORMA TRIBUTÁRIA]]
 
 ## 📚Os Blocos são:
 

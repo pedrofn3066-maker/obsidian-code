@@ -16,3 +16,6 @@ SORT key DESC
 
 > [!note]- Se a coluna Data vier vazia
 > Depois de `GROUP BY data`, o campo agrupador passa a se chamar `key` — `data` deixa de existir como campo simples. Por isso a primeira coluna e o `SORT` usam `key`. Se ainda assim vier vazio, confirmar que a propriedade `data` nas notas de `Diario` está tipada como data, e não como texto.
+
+
+

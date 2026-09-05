@@ -460,8 +460,8 @@
       "aestheticStyle": "default"
     },
     "following": {
-      "toolbarBackgroundColor": "#1A2F28",
-      "toolbarIconColor": "#D4AF37",
+      "toolbarBackgroundColor": "#F5F8FA",
+      "toolbarIconColor": "#4A5568",
       "toolbarIconSize": 18,
       "aestheticStyle": "glass"
     },
@@ -478,8 +478,8 @@
       "aestheticStyle": "default"
     }
   },
-  "toolbarBackgroundColor": "#1A2F28",
-  "toolbarIconColor": "#D4AF37",
+  "toolbarBackgroundColor": "#F5F8FA",
+  "toolbarIconColor": "#4A5568",
   "toolbarIconSize": 18,
   "useCurrentLineForRegex": false,
   "ai": {

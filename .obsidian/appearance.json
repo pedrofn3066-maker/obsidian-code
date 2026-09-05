@@ -1,7 +1,9 @@
 {
-  "cssTheme": "Simply Colorful",
+  "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "painel"
+    "painel",
+    "custom-background",
+    "extended-colorschemes"
   ],
   "theme": "moonstone",
   "baseFontSize": 16,

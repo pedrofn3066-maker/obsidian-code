@@ -146,6 +146,21 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 # Bloco D:
 
 ## - Agentes públicos.
+
+### Conceito para Agentes Públicos
+(https://www.tecconcursos.com.br/aulas/materias/1/assuntos/2220?indice=1&materia=537)
+    
+### Classificação dos Agentes Públicos
+(https://www.tecconcursos.com.br/aulas/materias/1/assuntos/1165?indice=1&materia=537)
+    
+### Funções, Cargos e Empregos Públicos
+(https://www.tecconcursos.com.br/aulas/materias/1/assuntos/2221?indice=1&materia=537)
+    
+### Criação, Transformação e Extinção de Cargos Públicos
+(https://www.tecconcursos.com.br/aulas/materias/1/assuntos/1967?indice=1&materia=537)
+
+
+
 ## - Regime Jurídico dos Servidores Públicos Civis da União (Lei nº 8.112/1990).
 ## - Improbidade administrativa (Lei nº 8.429/1992).
 ## - Integridade e Combate à Corrupção. Lei Anticorrupção (Lei nº 12.846/2013).

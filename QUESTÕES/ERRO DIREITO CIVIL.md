@@ -40,9 +40,17 @@ tags:
 	d) Art. 193. A prescrição **pode ser alegada em qualquer grau de jurisdição**, pela parte a quem aproveita.
 	e) Art. 202. A interrupção da prescrição, que **somente poderá ocorrer uma vez**, dar-se-á:
 
+- AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - **ASSÉDIO SEXUAL EM TRANSPORTE COLETIVO** - APLICAÇÃO DO ENTENDIMENTO FIRMADO NO ÂMBITO DA SEGUNDA SEÇÃO DO STJ. INCONFORMISMO DA AUTORA.  
+1. A Segunda Seção do Superior Tribunal de Justiça uniformizou a orientação jurisprudencial no sentido de que "**não há responsabilidade da empresa de transporte coletivo na hipótese de ocorrência de prática de ilícito alheio à atividade fim, pois o ato doloso de terceiro afasta a responsabilidade civil da concessionária por estar situado fora do desenvolvimento normal do contrato de transporte (fortuito externo), não tendo com ele conexão"** (REsp 1.853.361/PB, Segunda Seção, Rel. Min. MARCO BUZZI, data de julgamento: 03/12/2020).  
+2. Agravo interno desprovido.  
+(AgInt no REsp 1805474/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
 
 # FCC
 - #banca/fcc 
+
+- Art. 1.428. É **nula** a cláusula que autoriza o credor pignoratício, anticrético ou hipotecário a ficar com o objeto da garantia, se a dívida não for paga no vencimento.
+Parágrafo único. *Após o vencimento, poderá o devedor dar a coisa em pagamento da dívida.*
+
 
 # FGV
 - #banca/fgv 

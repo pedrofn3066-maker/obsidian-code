@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAxe",
       "LiArrowUpToLine",
       "LiBackpack",
       "LiAtom",
-      "LiAsteriskSquare",
-      "LiAstroid"
+      "LiAsteriskSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "QUESTÕES": "LiAsteriskSquare",
   "MATERIAL": "LiBackpack",
   "TEMPLATE": "LiArrowUpToLine",
-  "MATERIAS": "LiAward"
+  "MATERIAS": "LiAward",
+  "Questoes": "LiAxe"
 }

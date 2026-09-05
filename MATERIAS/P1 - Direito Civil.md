@@ -823,7 +823,45 @@ Vejamos o art. 202 do CC.
 ## - Atos ilícitos;
 ## - Responsabilidade Civil;
 ## - Direito das Coisas;
+### Dos Direitos Reais (arts. 1.225 a 1.510)
 
+#### Princípios Gerais dos Direitos Reais
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3373?indice=1&materia=5929)
+    
+#### Disposições Gerais dos Direitos Reais (arts. 1.225 a 1.227)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3374?indice=1&materia=5929)
+
+#### Da Propriedade (arts. 1.228 a 1.368-F)
+
+##### Da Propriedade em Geral (arts. 1.228 a 1.237)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3383?indice=1&materia=5929)
+    
+##### Da Aquisição da Propriedade Imóvel - Usucapião, Acessão e Registro (arts. 1.238 a 1.259)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3385?indice=1&materia=5929)
+    
+##### Da Aquisição da Propriedade Móvel (arts. 1.260 a 1.274) - Usucapião, Ocupação, Tradição, etc.
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3389?indice=1&materia=5929)
+![[Pasted image 20260903140317.png|893]]
+
+##### Da Perda da Propriedade Móvel e Imóvel (arts. 1.275 a 1.276)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3397?indice=1&materia=5929)
+
+#### Direitos Reais Sobre a Coisa Alheia (arts. 1.419 a 1.510)
+
+##### Disposições Gerais do Penhor, Hipoteca e Anticrese (arts. 1.419 a 1.430)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/4614?indice=1&materia=5929)
+    
+##### Do Penhor (arts. 1.431 a 1.472)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3418?indice=1&materia=5929)
+    
+##### Da Hipoteca (arts. 1.473 a 1.505)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3419?indice=1&materia=5929)
+    
+##### Da Anticrese (arts. 1.506 a 1.510)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3420?indice=1&materia=5929)
+    
+##### Da Laje (arts. 1.510-A a 1.510-E)
+(https://www.tecconcursos.com.br/aulas/materias/6/assuntos/6362?indice=1&materia=5929)
 # Bloco D:
 
 ## - Direito de Família;
