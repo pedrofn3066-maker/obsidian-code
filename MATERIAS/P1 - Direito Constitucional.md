@@ -11,6 +11,27 @@ prioridade: importante
  
 # Direito Constitucional 
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE.*
+
+| Tópico | % |
+| --- | --- |
+| Jurisprudência em Matéria Constitucional | 20,3% |
+| Dos Direitos e Deveres Individuais e Coletivos (art. 5º CF/88) | 11,0% |
+| Controle de Constitucionalidade | 9,2% |
+| Sistema Tributário Nacional | 6,9% |
+| Poder Judiciário | 6,5% |
+| Processo Legislativo | 6,4% |
+| Administração Pública | 6,0% |
+| Poder Legislativo | 4,7% |
+| Funções Essenciais à Justiça | 4,6% |
+| Direitos Políticos | 3,2% |
+| Competências da União | 3,2% |
+| Eficácia das Normas Constitucionais | 2,8% |
+| Nacionalidade | 2,3% |
+| Poder Executivo | 2,3% |
+
 > **15 questões · peso 2 · **30 pontos** · 9,1% da nota**
 > Prioridade: **importante**
 

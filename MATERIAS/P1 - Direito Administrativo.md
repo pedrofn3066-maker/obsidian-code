@@ -11,6 +11,26 @@ prioridade: importante
 
 # Direito Administrativo
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE.*
+
+| Tópico | % |
+| --- | --- |
+| Licitações | 17,4% |
+| Jurisprudência em Matéria Administrativa | 10,9% |
+| Serviços Públicos | 8,7% |
+| Contratos Administrativos | 7,3% |
+| Improbidade Administrativa | 6,9% |
+| Lei Geral de Proteção de Dados Pessoais (LGPD) | 6,9% |
+| Servidores Públicos | 6,7% |
+| Organização Administrativa | 5,8% |
+| Processo Administrativo (Estaduais e Federais) | 5,7% |
+| Atos Administrativos | 5,5% |
+| Poderes e Deveres da Administração | 3,6% |
+| Lei de Acesso à Informação | 3,6% |
+| Responsabilidade Civil do Estado | 3,3% |
+
 > **15 questões · peso 2 · **30 pontos** · 9,1% da nota**
 > Prioridade: **importante**
 

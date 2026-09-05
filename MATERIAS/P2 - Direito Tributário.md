@@ -11,6 +11,27 @@ prioridade: crítico
 
 # Direito Tributário
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE.*
+
+| Tópico | % |
+| --- | --- |
+| Jurisprudência em Matéria Tributária | 14,6% |
+| Limitações Constitucionais ao Poder de Tributar | 10,5% |
+| Legislação Tributária | 9,2% |
+| Tributos | 8,2% |
+| Responsabilidade Tributária | 6,5% |
+| Extinção do Crédito Tributário | 6,5% |
+| Lançamento e Constituição do Crédito Tributário | 5,8% |
+| Impostos Estaduais | 5,8% |
+| Administração Tributária | 4,1% |
+| Competência Tributária | 3,7% |
+| Repartição Constitucional de Receitas Tributárias | 3,1% |
+| Suspensão do Crédito Tributário | 3,1% |
+| Impostos Municipais | 3,1% |
+| Introdução ao Direito Tributário | 2,0% |
+
 > **15 questões · 30 pontos na âncora BA 2019 — mas em **CE 2026 são 20 questões de peso 2**, na prova específica**
 > Prioridade: **crítico**
 

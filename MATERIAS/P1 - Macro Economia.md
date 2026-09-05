@@ -11,6 +11,25 @@ prioridade: complementar
 
 # Macro Economia
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Economia" no guia (mistura Macro, Micro e Finanças Públicas — o maior bloco isolado, 24,3%, é Dívida Pública/NFSP/Federalismo Fiscal, tema de Finanças Públicas).*
+
+| Tópico | % |
+| --- | --- |
+| Dívida Pública, NFSP e Tipos de Déficit Público no Brasil | 12,7% |
+| Bem-Estar e Funções do Governo | 8,6% |
+| Incidência Tributária — Impacto da Carga Tributária sobre a Economia | 5,1% |
+| Monopólio | 4,8% |
+| Conceitos e Identidades Macroeconômicos | 4,8% |
+| Bens Públicos (Economia) | 4,1% |
+| Balanço de Pagamentos | 4,1% |
+| Economia Comportamental | 3,8% |
+| Economia Fechada | 3,4% |
+| Federalismo Fiscal | 3,1% |
+| Princípios Teóricos da Tributação | 3,1% |
+| Política Fiscal | 3,1% |
+
 > ****Zero na âncora BA 2019** — disciplina autônoma em CE 2026**
 > Prioridade: **complementar**
 

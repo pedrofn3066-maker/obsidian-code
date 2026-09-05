@@ -14,6 +14,22 @@ status: 🔴 1ª leitura
 # Legislação Tributária Estadual
 [[ERRO P2 - Legislação Tributária Estadual (BA)]]
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE.*
+
+| Tópico | % |
+| --- | --- |
+| LC nº 87/1996 — Lei Kandir | 22,0% |
+| LC nº 123/2006 — Simples Nacional | 18,0% |
+| ICMS — Imposto sobre Circulação de Mercadorias e Serviços | 15,5% |
+| ITCMD — Imposto sobre Transmissão Causa Mortis e Doação | 15,5% |
+| IPVA — Imposto sobre Veículos Automotores | 8,0% |
+| LC nº 24/1975 e CONFAZ | 8,0% |
+| LC nº 105/2001 — Sigilo de Instituições Financeiras | 6,0% |
+| LC nº 160/2017 | 5,0% |
+| LC nº 192/2022 | 2,0% |
+
 > **25 questões · peso 3 · **75 pontos** · 22,8% da nota (âncora BA 2019) — em CE 2026 são 20 questões de peso 2**
 > Prioridade: **crítico**
 

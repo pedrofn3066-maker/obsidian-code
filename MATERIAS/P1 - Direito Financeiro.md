@@ -11,6 +11,21 @@ prioridade: importante
 
 # Direito Financeiro
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Direito Financeiro (AFO)" no guia.*
+
+| Tópico | % |
+| --- | --- |
+| Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa) | 16,0% |
+| Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência) | 13,5% |
+| Instrumentos Orçamentários (PPA, LDO e LOA) | 12,3% |
+| Classificação da Despesa e Estágios da Despesa Pública | 10,3% |
+| Dívida Pública, Despesas de Exercícios Anteriores e Suprimento de Fundos | 9,8% |
+| Princípios Orçamentários | 9,0% |
+| Créditos Adicionais | 6,6% |
+| Classificações do Orçamento Público | 5,3% |
+
 > ****Zero na âncora BA 2019** — disciplina autônoma em CE 2026**
 > Prioridade: **importante**
 

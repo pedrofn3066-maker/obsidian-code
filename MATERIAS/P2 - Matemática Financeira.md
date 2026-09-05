@@ -11,6 +11,24 @@ prioridade: importante
 
 # Matemática e Raciocínio Lógico
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Matemática Financeira" no guia.*
+
+| Tópico | % |
+| --- | --- |
+| Juros Compostos | 11,5% |
+| Sistema de Amortização Constante (SAC) | 8,9% |
+| Inflação, Juros Reais e Juros Aparentes | 8,3% |
+| Taxa Interna de Retorno (TIR) e Taxa Mínima de Atratividade (TMA) | 8,3% |
+| Juros Simples | 7,6% |
+| Valor Presente Líquido (VPL) | 7,6% |
+| Sistema de Amortização Francês (Price) | 7,0% |
+| Desconto Comercial Simples | 5,7% |
+| Equivalência de Capitais | 5,7% |
+| Taxas Efetivas, Nominais e Equivalentes no Regime Composto | 4,5% |
+| Comparação entre Juros Simples e Juros Compostos | 4,5% |
+
 > **10 questões · peso 3 · **30 pontos** · 9,1% da nota**
 > Prioridade: **importante**
 

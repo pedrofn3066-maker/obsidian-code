@@ -11,6 +11,22 @@ prioridade: complementar
 
 # Língua Portuguesa
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE.*
+
+| Tópico | % |
+| --- | --- |
+| Interpretação de Textos (compreensão) | 32,8% |
+| Reescrita de Frases / Substituição de palavras ou trechos de texto | 13,4% |
+| Semântica | 6,6% |
+| Sintaxe | 5,8% |
+| Coerência e Coesão | 5,8% |
+| Clareza e Correção | 5,1% |
+| Verbo | 4,8% |
+| Concordância (Verbal e Nominal) | 4,3% |
+| Pontuação | 4,0% |
+
 > **10 questões · peso 2 · **20 pontos** · 6,1% da nota**
 > Prioridade: **complementar**
 

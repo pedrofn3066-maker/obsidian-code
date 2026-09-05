@@ -8,6 +8,24 @@ pontos: 0
 origem: "CE 2026 (20 q) · SP 2026"
 prioridade: crítico
 ---
+
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Contabilidade de Custos" no guia (a parte "Avançada" desta nota fica coberta pela tabela em `P1 - Contabilidade Geral.md`).*
+
+| Tópico | % |
+| --- | --- |
+| Ponto de equilíbrio: relação custo/volume/resultado | 20,1% |
+| Custeio por absorção: caso geral sem departamentalização | 15,9% |
+| Classificação de custos: variável, fixo, direto, indireto | 11,9% |
+| Definições — diferença entre gastos, despesas, custos e perdas | 11,4% |
+| Margem de contribuição | 9,3% |
+| Custo Padrão | 7,2% |
+| Custeio Baseado em Atividades (ABC) | 5,8% |
+| Custeio Direto/Variável | 4,9% |
+| Departamentalização | 3,6% |
+| Equivalente de Produção | 2,3% |
+
 # Bloco A:
 
 ## - Contabilidade Básica;

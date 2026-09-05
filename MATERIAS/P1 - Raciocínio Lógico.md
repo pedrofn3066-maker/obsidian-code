@@ -11,6 +11,24 @@ prioridade: importante
 
 # RACLOG
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Raciocínio Lógico-Matemático" no guia.*
+
+| Tópico | % |
+| --- | --- |
+| Equivalências Lógicas | 15,0% |
+| Associação de Informações | 8,2% |
+| Raciocínio Crítico | 8,0% |
+| Tabela Verdade das Proposições Compostas | 7,4% |
+| Sequências de Números, Figuras, Letras e Palavras | 6,6% |
+| Conjuntos e suas operações, diagramas | 6,5% |
+| Argumentos — Métodos Decorrentes da Tabela Verdade | 6,0% |
+| RL envolvendo problemas matemáticos | 6,0% |
+| Orientação no Plano, no Espaço e no Tempo | 5,7% |
+| Porcentagem | 5,2% |
+| Proporções. Grandezas Proporcionais | 5,1% |
+
 
 Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a que o candidato mais adia por parecer menos urgente que a legislação.
 

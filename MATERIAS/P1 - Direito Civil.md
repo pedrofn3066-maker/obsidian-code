@@ -11,6 +11,22 @@ prioridade: complementar
 
 # Direito Civil 
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE.*
+
+| Tópico | % |
+| --- | --- |
+| Das Pessoas Jurídicas | 11,1% |
+| Lei de Introdução às Normas do Direito Brasileiro (LINDB) | 11,1% |
+| Do Direito das Coisas | 10,4% |
+| Prescrição e Decadência | 9,6% |
+| Negócio Jurídico | 8,9% |
+| Do Direito das Obrigações | 8,2% |
+| Do Direito de Família | 7,4% |
+| Dos Contratos em Geral | 6,7% |
+| Da Responsabilidade Civil | 6,7% |
+
 > ****Zero na âncora BA 2019** — cobrado em CE 2026 junto com Constitucional e Administrativo**
 > Prioridade: **complementar**
 

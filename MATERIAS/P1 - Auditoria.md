@@ -12,6 +12,22 @@ tags:
 
 # Auditoria
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Auditoria Fiscal" no guia.*
+
+| Tópico | % |
+| --- | --- |
+| Testes em Áreas Específicas das Demonstrações Contábeis | 21,7% |
+| Testes e Procedimentos em Auditoria | 14,6% |
+| Fraude e Erro | 11,3% |
+| Amostragem em Auditoria | 9,9% |
+| Normas Profissionais do Auditor Independente | 8,5% |
+| Materialidade, Relevância e Risco em Auditoria Independente | 7,1% |
+| Evidência em Auditoria | 6,6% |
+| Auditoria Interna e Controle Interno | 6,6% |
+| Tópicos de Auditoria Fiscal (NF-e e EFD) | 4,3% |
+
 > **5 questões · **15 pontos** na âncora BA 2019 (Prova II) — em CE 2026 aparece em conhecimentos gerais**
 > Prioridade: **importante**
 

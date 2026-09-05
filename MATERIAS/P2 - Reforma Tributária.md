@@ -12,6 +12,24 @@ prioridade: crítico
 # Reforma Tributária
 [[ERRO REFORMA TRIBUTÁRIA]]
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM). Sem percentual publicado (tema novo) — a VINTEUM só dá ordem de prioridade dentro de cada faixa.*
+
+| Bloco | Assunto | Prioridade |
+| --- | --- | --- |
+| Bloco II | EC nº 132/2023 (IBS) | ALTA |
+| Bloco I | EC nº 132/2023 (geral) | ALTA |
+| Bloco III | Disposições Preliminares. IBS/CBS sobre Operações I | ALTA |
+| Bloco X | Administração do IBS/CBS. Comitê Gestor | ALTA |
+| Bloco IV | IBS/CBS sobre Operações II | ALTA |
+| Bloco V/VI | IBS/CBS sobre Operações III/IV | ALTA |
+| Bloco XI | Comitê Gestor — LC nº 227/2026 | ALTA |
+| Bloco Extra | Imposto Seletivo. Avaliação Quinquenal | MÉDIA |
+| Bloco IX | Regimes Específicos | MÉDIA |
+| Bloco XII | PAT. Distribuição. Transição do ICMS | MÉDIA |
+| Bloco VII/VIII | Operacionalização/Importações-Exportações. Cashback. Regimes Diferenciados | MÉDIA |
+
 ## 📚Os Blocos são:
 
 | BLOCO | CONTEÚDO                                                                                                                                                                           |

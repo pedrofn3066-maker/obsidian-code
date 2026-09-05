@@ -8,6 +8,26 @@ pontos: 0
 origem: CE 2026 (20 q) · SP 2026
 prioridade: crítico
 ---
+
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Contabilidade Pública" no guia.*
+
+| Tópico | % |
+| --- | --- |
+| Conceitos, Objeto, Objetivos e Campo de Aplicação | 10,9% |
+| NBC TSP 34 — Custos no Setor Público | 10,9% |
+| Provisões, Passivos e Ativos Contingentes | 6,3% |
+| Plano de Contas (PCASP) | 6,3% |
+| Balanço Orçamentário | 6,3% |
+| Demonstração de Fluxo de Caixa | 5,6% |
+| Regimes Orçamentário e Patrimonial e Exercício Financeiro | 4,9% |
+| Redução ao Valor Recuperável | 4,0% |
+| Balanço Patrimonial | 4,0% |
+| Ativo Imobilizado | 3,6% |
+| Depreciação, Amortização e Exaustão | 3,6% |
+| Patrimônio Público | 3,3% |
+
 # Bloco A:
 
 ## - NBC TSP - Estrutura Conceitual

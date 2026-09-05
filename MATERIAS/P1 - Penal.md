@@ -11,6 +11,20 @@ prioridade: complementar
 
 # Direito Civil e Penal
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Direito Penal" no guia.*
+
+| Tópico | % |
+| --- | --- |
+| Crimes Praticados por Funcionário Público contra a Administração em Geral | 23,1% |
+| Lei nº 8.137/1990 (Crimes contra a Ordem Tributária) | 16,7% |
+| Crimes contra a Fé Pública | 12,8% |
+| Teoria do Crime | 11,5% |
+| Crimes contra as Finanças Públicas | 9,0% |
+| Princípios de Direito Penal | 5,1% |
+| Lei Penal (aplicação) | 5,1% |
+
 > ****Zero na âncora BA 2019** — cobrado em CE 2026 junto com Constitucional e Administrativo**
 > Prioridade: **complementar**
 

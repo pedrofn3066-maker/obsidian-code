@@ -11,6 +11,20 @@ prioridade: importante
 
 # Estatística Aplicada
 
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
+
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Mesma tabela em `P1 - Estatística.md` (o guia trata como uma disciplina só).*
+
+| Tópico | % |
+| --- | --- |
+| Probabilidades | 20,1% |
+| Regressão | 14,0% |
+| Medidas de Posição | 11,6% |
+| Distribuições Contínuas | 9,9% |
+| Testes de Hipóteses | 9,9% |
+| Distribuições Discretas | 9,3% |
+| Intervalos de Confiança | 7,6% |
+
 > **5 questões · peso 3 · **15 pontos** · 4,6% da nota**
 > Prioridade: **importante**
 
