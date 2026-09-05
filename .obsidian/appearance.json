@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "painel",
     "custom-background",
-    "extended-colorschemes"
+    "extended-colorschemes",
+    "outline-heading-colors"
   ],
   "theme": "moonstone",
   "baseFontSize": 16,

@@ -1,0 +1,22 @@
+/* Colore os itens do painel Sumário (Outline) com a mesma cor de cada
+   nível de título no editor, usando as variáveis --h1-color a --h6-color
+   já definidas pelo tema ativo (nenhuma cor fixa aqui). */
+
+.workspace-leaf-content[data-type="outline"] .tree-item-inner {
+  color: var(--h1-color);
+}
+.workspace-leaf-content[data-type="outline"] .tree-item .tree-item .tree-item-inner {
+  color: var(--h2-color);
+}
+.workspace-leaf-content[data-type="outline"] .tree-item .tree-item .tree-item .tree-item-inner {
+  color: var(--h3-color);
+}
+.workspace-leaf-content[data-type="outline"] .tree-item .tree-item .tree-item .tree-item .tree-item-inner {
+  color: var(--h4-color);
+}
+.workspace-leaf-content[data-type="outline"] .tree-item .tree-item .tree-item .tree-item .tree-item .tree-item-inner {
+  color: var(--h5-color);
+}
+.workspace-leaf-content[data-type="outline"] .tree-item .tree-item .tree-item .tree-item .tree-item .tree-item .tree-item-inner {
+  color: var(--h6-color);
+}
