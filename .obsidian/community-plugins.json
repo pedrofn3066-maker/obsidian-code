@@ -1,7 +1,6 @@
 [
   "templater-obsidian",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-style-settings",
   "obsidian-git",
@@ -23,13 +22,10 @@
   "url-into-selection",
   "pretty-properties",
   "typewriter-mode",
-  "study-pdf",
   "obsidian-spaced-repetition",
   "obsidian-outliner",
-  "waypoint",
-  "cloze",
   "smart-context",
-  "obsidian-annotator",
   "pdf-plus",
-  "pdf-writer"
+  "realclaudian",
+  "obsidian-tasks-plugin"
 ]
