@@ -27,6 +27,18 @@ prioridade: complementar
 | Dos Contratos em Geral | 6,7% |
 | Da Responsabilidade Civil | 6,7% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Das Pessoas Jurídicas [dom:: 4] [peso:: 11.1]
+- [ ] Lei de Introdução às Normas do Direito Brasileiro (LINDB) [dom:: 0] [peso:: 11.1]
+- [ ] Do Direito das Coisas [dom:: 4] [peso:: 10.4]
+- [ ] Prescrição e Decadência [dom:: 3] [peso:: 9.6]
+- [ ] Negócio Jurídico [dom:: 4] [peso:: 8.9]
+- [ ] Do Direito das Obrigações [dom:: 3] [peso:: 8.2]
+- [ ] Do Direito de Família [dom:: 3] [peso:: 7.4]
+- [ ] Dos Contratos em Geral [dom:: 4] [peso:: 6.7]
+- [ ] Da Responsabilidade Civil [dom:: 3] [peso:: 6.7]
+
 > ****Zero na âncora BA 2019** — cobrado em CE 2026 junto com Constitucional e Administrativo**
 > Prioridade: **complementar**
 

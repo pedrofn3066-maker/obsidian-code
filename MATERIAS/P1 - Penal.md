@@ -25,6 +25,16 @@ prioridade: complementar
 | Princípios de Direito Penal | 5,1% |
 | Lei Penal (aplicação) | 5,1% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Crimes Praticados por Funcionário Público contra a Administração em Geral [dom:: 0] [peso:: 23.1]
+- [ ] Lei nº 8.137/1990 (Crimes contra a Ordem Tributária) [dom:: 0] [peso:: 16.7]
+- [ ] Crimes contra a Fé Pública [dom:: 0] [peso:: 12.8]
+- [ ] Teoria do Crime [dom:: 3] [peso:: 11.5]
+- [ ] Crimes contra as Finanças Públicas [dom:: 0] [peso:: 9.0]
+- [ ] Princípios de Direito Penal [dom:: 4] [peso:: 5.1]
+- [ ] Lei Penal (aplicação) [dom:: 4] [peso:: 5.1]
+
 > ****Zero na âncora BA 2019** — cobrado em CE 2026 junto com Constitucional e Administrativo**
 > Prioridade: **complementar**
 

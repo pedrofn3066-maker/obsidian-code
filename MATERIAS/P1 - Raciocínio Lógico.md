@@ -29,6 +29,20 @@ prioridade: importante
 | Porcentagem | 5,2% |
 | Proporções. Grandezas Proporcionais | 5,1% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Equivalências Lógicas [dom:: 3] [peso:: 15.0]
+- [ ] Associação de Informações [dom:: 3] [peso:: 8.2]
+- [ ] Raciocínio Crítico [dom:: 4] [peso:: 8.0]
+- [ ] Tabela Verdade das Proposições Compostas [dom:: 2] [peso:: 7.4]
+- [ ] Sequências de Números, Figuras, Letras e Palavras [dom:: 3] [peso:: 6.6]
+- [ ] Conjuntos e suas operações, diagramas [dom:: 0] [peso:: 6.5]
+- [ ] Argumentos — Métodos Decorrentes da Tabela Verdade [dom:: 2] [peso:: 6.0]
+- [ ] RL envolvendo problemas matemáticos [dom:: 0] [peso:: 6.0]
+- [ ] Orientação no Plano, no Espaço e no Tempo [dom:: 0] [peso:: 5.7]
+- [ ] Porcentagem [dom:: 0] [peso:: 5.2]
+- [ ] Proporções. Grandezas Proporcionais [dom:: 0] [peso:: 5.1]
+
 
 Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a que o candidato mais adia por parecer menos urgente que a legislação.
 

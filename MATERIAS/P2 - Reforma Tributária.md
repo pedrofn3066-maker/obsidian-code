@@ -30,6 +30,22 @@ prioridade: crítico
 | Bloco XII | PAT. Distribuição. Transição do ICMS | MÉDIA |
 | Bloco VII/VIII | Operacionalização/Importações-Exportações. Cashback. Regimes Diferenciados | MÉDIA |
 
+## Checklist por importância (VINTEUM)
+
+*Sem percentual publicado pela VINTEUM para este tema (novo) — peso aqui é só ALTA=2 / MÉDIA=1, não um percentual real.*
+
+- [ ] EC nº 132/2023 (IBS) [dom:: 0] [peso:: 2]
+- [ ] EC nº 132/2023 (geral) [dom:: 0] [peso:: 2]
+- [ ] Disposições Preliminares. IBS/CBS sobre Operações I [dom:: 0] [peso:: 2]
+- [ ] Administração do IBS/CBS. Comitê Gestor [dom:: 0] [peso:: 2]
+- [ ] IBS/CBS sobre Operações II [dom:: 0] [peso:: 2]
+- [ ] IBS/CBS sobre Operações III/IV [dom:: 0] [peso:: 2]
+- [ ] Comitê Gestor — LC nº 227/2026 [dom:: 0] [peso:: 2]
+- [ ] Imposto Seletivo. Avaliação Quinquenal [dom:: 0] [peso:: 1]
+- [ ] Regimes Específicos [dom:: 0] [peso:: 1]
+- [ ] PAT. Distribuição. Transição do ICMS [dom:: 0] [peso:: 1]
+- [ ] Operacionalização/Importações-Exportações. Cashback. Regimes Diferenciados [dom:: 0] [peso:: 1]
+
 Facilitadores de leitura da lei seca: [[Resumo EC 132-2023 Reforma Tributaria (VINTEUM)]] · [[Resumo LC 214-2025 Titulo I Reforma Tributaria (VINTEUM)]] · [[Pontos de Atencao - Reforma Tributaria (VINTEUM)]]
 
 ## 📚Os Blocos são:

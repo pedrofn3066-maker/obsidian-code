@@ -38,6 +38,19 @@ Trinta pontos que a maioria trata como periférico — valia o mesmo que Matemá
 | Planejamento Estratégico de TI | 3,9% |
 | Conceitos de Governança de TI | 3,5% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Metodologias de Desenvolvimento Ágeis [dom:: 0] [peso:: 13.9]
+- [ ] Gestão de Projetos (PMBOK) [dom:: 0] [peso:: 13.7]
+- [ ] ITIL [dom:: 2] [peso:: 10.2]
+- [ ] Gerenciamento de Processos de Negócio (BPM/BPMN) [dom:: 3] [peso:: 9.4]
+- [ ] COBIT [dom:: 3] [peso:: 9.0]
+- [ ] Criptografia (Segurança da Informação) [dom:: 0] [peso:: 8.8]
+- [ ] Gestão da Segurança da Informação [dom:: 4] [peso:: 7.8]
+- [ ] Gestão por Processos (PETI, SWOT, PDCA e BSC) [dom:: 0] [peso:: 7.6]
+- [ ] Planejamento Estratégico de TI [dom:: 4] [peso:: 3.9]
+- [ ] Conceitos de Governança de TI [dom:: 4] [peso:: 3.5]
+
 ---
 
 > [!info]- Como preencher

@@ -28,6 +28,21 @@ prioridade: crítico
 | Depreciação, Amortização e Exaustão | 3,6% |
 | Patrimônio Público | 3,3% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Conceitos, Objeto, Objetivos e Campo de Aplicação [dom:: 3] [peso:: 10.9]
+- [ ] NBC TSP 34 — Custos no Setor Público [dom:: 3] [peso:: 10.9]
+- [ ] Provisões, Passivos e Ativos Contingentes [dom:: 3] [peso:: 6.3]
+- [ ] Plano de Contas (PCASP) [dom:: 2] [peso:: 6.3]
+- [ ] Balanço Orçamentário [dom:: 1] [peso:: 6.3]
+- [ ] Demonstração de Fluxo de Caixa [dom:: 2] [peso:: 5.6]
+- [ ] Regimes Orçamentário e Patrimonial e Exercício Financeiro [dom:: 2] [peso:: 4.9]
+- [ ] Redução ao Valor Recuperável [dom:: 1] [peso:: 4.0]
+- [ ] Balanço Patrimonial [dom:: 1] [peso:: 4.0]
+- [ ] Ativo Imobilizado [dom:: 3] [peso:: 3.6]
+- [ ] Depreciação, Amortização e Exaustão [dom:: 3] [peso:: 3.6]
+- [ ] Patrimônio Público [dom:: 4] [peso:: 3.3]
+
 # Bloco A:
 
 ## - NBC TSP - Estrutura Conceitual

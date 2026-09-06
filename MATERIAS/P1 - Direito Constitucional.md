@@ -32,6 +32,23 @@ prioridade: importante
 | Nacionalidade | 2,3% |
 | Poder Executivo | 2,3% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Jurisprudência em Matéria Constitucional [dom:: 0] [peso:: 20.3]
+- [ ] Dos Direitos e Deveres Individuais e Coletivos (art. 5º CF/88) [dom:: 4] [peso:: 11.0]
+- [ ] Controle de Constitucionalidade [dom:: 3] [peso:: 9.2]
+- [ ] Sistema Tributário Nacional [dom:: 4] [peso:: 6.9]
+- [ ] Poder Judiciário [dom:: 0] [peso:: 6.5]
+- [ ] Processo Legislativo [dom:: 3] [peso:: 6.4]
+- [ ] Administração Pública [dom:: 4] [peso:: 6.0]
+- [ ] Poder Legislativo [dom:: 0] [peso:: 4.7]
+- [ ] Funções Essenciais à Justiça [dom:: 3] [peso:: 4.6]
+- [ ] Direitos Políticos [dom:: 3] [peso:: 3.2]
+- [ ] Competências da União [dom:: 0] [peso:: 3.2]
+- [ ] Eficácia das Normas Constitucionais [dom:: 3] [peso:: 2.8]
+- [ ] Nacionalidade [dom:: 0] [peso:: 2.3]
+- [ ] Poder Executivo [dom:: 0] [peso:: 2.3]
+
 Jurisprudência (Súmulas Vinculantes + julgados STF/STJ): [[Resumo Jurisprudencia - Direito Constitucional (VINTEUM)]] · [[Sumulas Vinculantes - Direito Constitucional]]
 
 > **15 questões · peso 2 · **30 pontos** · 9,1% da nota**

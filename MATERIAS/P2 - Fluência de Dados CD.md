@@ -31,6 +31,22 @@ prioridade: importante
 | Ferramentas de BI e Visualização de Dados | 3,2% |
 | Fundamentos e Princípios da Ciência de Dados | 3,0% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Linguagem SQL [dom:: 3] [peso:: 14.2]
+- [ ] Aprendizado de Máquina (Machine Learning) [dom:: 0] [peso:: 9.9]
+- [ ] Big Data [dom:: 4] [peso:: 9.6]
+- [ ] Data Warehouse e Data Mart [dom:: 4] [peso:: 7.0]
+- [ ] Modelo Relacional [dom:: 4] [peso:: 4.8]
+- [ ] Conceitos Iniciais e Gerais de IA [dom:: 0] [peso:: 4.8]
+- [ ] Governança de Dados [dom:: 0] [peso:: 4.5]
+- [ ] Data Mining [dom:: 0] [peso:: 4.5]
+- [ ] LGPD [dom:: 0] [peso:: 4.2]
+- [ ] Processamento de Linguagem Natural (IA) [dom:: 4] [peso:: 4.0]
+- [ ] Python [dom:: 2] [peso:: 3.5]
+- [ ] Ferramentas de BI e Visualização de Dados [dom:: 0] [peso:: 3.2]
+- [ ] Fundamentos e Princípios da Ciência de Dados [dom:: 4] [peso:: 3.0]
+
 > ****Zero na âncora BA 2019** — disciplina nova, introduzida pela FCC em CE 2026**
 > Prioridade: **importante**
 

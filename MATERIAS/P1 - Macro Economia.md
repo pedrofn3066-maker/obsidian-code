@@ -30,6 +30,21 @@ prioridade: complementar
 | Princípios Teóricos da Tributação | 3,1% |
 | Política Fiscal | 3,1% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Dívida Pública, NFSP e Tipos de Déficit Público no Brasil [dom:: 3] [peso:: 12.7]
+- [ ] Bem-Estar e Funções do Governo [dom:: 4] [peso:: 8.6]
+- [ ] Incidência Tributária — Impacto da Carga Tributária sobre a Economia [dom:: 3] [peso:: 5.1]
+- [ ] Monopólio [dom:: 4] [peso:: 4.8]
+- [ ] Conceitos e Identidades Macroeconômicos [dom:: 3] [peso:: 4.8]
+- [ ] Bens Públicos (Economia) [dom:: 4] [peso:: 4.1]
+- [ ] Balanço de Pagamentos [dom:: 1] [peso:: 4.1]
+- [ ] Economia Comportamental [dom:: 0] [peso:: 3.8]
+- [ ] Economia Fechada [dom:: 2] [peso:: 3.4]
+- [ ] Federalismo Fiscal [dom:: 3] [peso:: 3.1]
+- [ ] Princípios Teóricos da Tributação [dom:: 4] [peso:: 3.1]
+- [ ] Política Fiscal [dom:: 2] [peso:: 3.1]
+
 > ****Zero na âncora BA 2019** — disciplina autônoma em CE 2026**
 > Prioridade: **complementar**
 

@@ -29,6 +29,20 @@ prioridade: importante
 | Taxas Efetivas, Nominais e Equivalentes no Regime Composto | 4,5% |
 | Comparação entre Juros Simples e Juros Compostos | 4,5% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Juros Compostos [dom:: 4] [peso:: 11.5]
+- [ ] Sistema de Amortização Constante (SAC) [dom:: 4] [peso:: 8.9]
+- [ ] Inflação, Juros Reais e Juros Aparentes [dom:: 5] [peso:: 8.3]
+- [ ] Taxa Interna de Retorno (TIR) e Taxa Mínima de Atratividade (TMA) [dom:: 2] [peso:: 8.3]
+- [ ] Juros Simples [dom:: 3] [peso:: 7.6]
+- [ ] Valor Presente Líquido (VPL) [dom:: 4] [peso:: 7.6]
+- [ ] Sistema de Amortização Francês (Price) [dom:: 3] [peso:: 7.0]
+- [ ] Desconto Comercial Simples [dom:: 4] [peso:: 5.7]
+- [ ] Equivalência de Capitais [dom:: 4] [peso:: 5.7]
+- [ ] Taxas Efetivas, Nominais e Equivalentes no Regime Composto [dom:: 4] [peso:: 4.5]
+- [ ] Comparação entre Juros Simples e Juros Compostos [dom:: 3] [peso:: 4.5]
+
 > **10 questões · peso 3 · **30 pontos** · 9,1% da nota**
 > Prioridade: **importante**
 

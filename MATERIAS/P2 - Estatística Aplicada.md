@@ -25,6 +25,16 @@ prioridade: importante
 | Distribuições Discretas | 9,3% |
 | Intervalos de Confiança | 7,6% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Probabilidades [dom:: 0] [peso:: 20.1]
+- [ ] Regressão [dom:: 3] [peso:: 14.0]
+- [ ] Medidas de Posição [dom:: 3] [peso:: 11.6]
+- [ ] Distribuições Contínuas [dom:: 0] [peso:: 9.9]
+- [ ] Testes de Hipóteses [dom:: 0] [peso:: 9.9]
+- [ ] Distribuições Discretas [dom:: 0] [peso:: 9.3]
+- [ ] Intervalos de Confiança [dom:: 2] [peso:: 7.6]
+
 > **5 questões · peso 3 · **15 pontos** · 4,6% da nota**
 > Prioridade: **importante**
 

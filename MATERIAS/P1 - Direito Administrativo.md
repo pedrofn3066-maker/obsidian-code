@@ -31,6 +31,22 @@ prioridade: importante
 | Lei de Acesso à Informação | 3,6% |
 | Responsabilidade Civil do Estado | 3,3% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Licitações [dom:: 4] [peso:: 17.4]
+- [ ] Jurisprudência em Matéria Administrativa [dom:: 0] [peso:: 10.9]
+- [ ] Serviços Públicos [dom:: 4] [peso:: 8.7]
+- [ ] Contratos Administrativos [dom:: 3] [peso:: 7.3]
+- [ ] Improbidade Administrativa [dom:: 4] [peso:: 6.9]
+- [ ] Lei Geral de Proteção de Dados Pessoais (LGPD) [dom:: 0] [peso:: 6.9]
+- [ ] Servidores Públicos [dom:: 0] [peso:: 6.7]
+- [ ] Organização Administrativa [dom:: 4] [peso:: 5.8]
+- [ ] Processo Administrativo (Estaduais e Federais) [dom:: 3] [peso:: 5.7]
+- [ ] Atos Administrativos [dom:: 4] [peso:: 5.5]
+- [ ] Poderes e Deveres da Administração [dom:: 4] [peso:: 3.6]
+- [ ] Lei de Acesso à Informação [dom:: 0] [peso:: 3.6]
+- [ ] Responsabilidade Civil do Estado [dom:: 4] [peso:: 3.3]
+
 Jurisprudência (Súmulas Vinculantes + julgados STF/STJ): [[Resumo Jurisprudencia - Direito Administrativo (VINTEUM)]] · [[Sumulas Vinculantes - Direito Administrativo]]
 
 > **15 questões · peso 2 · **30 pontos** · 9,1% da nota**

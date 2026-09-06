@@ -28,6 +28,18 @@ tags:
 | Auditoria Interna e Controle Interno | 6,6% |
 | Tópicos de Auditoria Fiscal (NF-e e EFD) | 4,3% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Testes em Áreas Específicas das Demonstrações Contábeis [dom:: 3] [peso:: 21.7]
+- [ ] Testes e Procedimentos em Auditoria [dom:: 4] [peso:: 14.6]
+- [ ] Fraude e Erro [dom:: 5] [peso:: 11.3]
+- [ ] Amostragem em Auditoria [dom:: 4] [peso:: 9.9]
+- [ ] Normas Profissionais do Auditor Independente [dom:: 4] [peso:: 8.5]
+- [ ] Materialidade, Relevância e Risco em Auditoria Independente [dom:: 3] [peso:: 7.1]
+- [ ] Evidência em Auditoria [dom:: 4] [peso:: 6.6]
+- [ ] Auditoria Interna e Controle Interno [dom:: 0] [peso:: 6.6]
+- [ ] Tópicos de Auditoria Fiscal (NF-e e EFD) [dom:: 0] [peso:: 4.3]
+
 > **5 questões · **15 pontos** na âncora BA 2019 (Prova II) — em CE 2026 aparece em conhecimentos gerais**
 > Prioridade: **importante**
 

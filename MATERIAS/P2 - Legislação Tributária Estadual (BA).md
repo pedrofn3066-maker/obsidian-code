@@ -30,6 +30,18 @@ status: 🔴 1ª leitura
 | LC nº 160/2017 | 5,0% |
 | LC nº 192/2022 | 2,0% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] LC nº 87/1996 — Lei Kandir [dom:: 0] [peso:: 22.0]
+- [ ] LC nº 123/2006 — Simples Nacional [dom:: 0] [peso:: 18.0]
+- [ ] ICMS — Imposto sobre Circulação de Mercadorias e Serviços [dom:: 0] [peso:: 15.5]
+- [ ] ITCMD — Imposto sobre Transmissão Causa Mortis e Doação [dom:: 0] [peso:: 15.5]
+- [ ] IPVA — Imposto sobre Veículos Automotores [dom:: 0] [peso:: 8.0]
+- [ ] LC nº 24/1975 e CONFAZ [dom:: 0] [peso:: 8.0]
+- [ ] LC nº 105/2001 — Sigilo de Instituições Financeiras [dom:: 0] [peso:: 6.0]
+- [ ] LC nº 160/2017 [dom:: 0] [peso:: 5.0]
+- [ ] LC nº 192/2022 [dom:: 0] [peso:: 2.0]
+
 > **25 questões · peso 3 · **75 pontos** · 22,8% da nota (âncora BA 2019) — em CE 2026 são 20 questões de peso 2**
 > Prioridade: **crítico**
 
@@ -55,9 +67,36 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
 
 - **Uma vez adotada a seletividade no ICMS**  (quando a tributação é diferenciada de acordo com a essencialidade dos produtos e mercadorias), **o estado não pode estabelecer alíquotas sobre as operações de energia elétrica e os serviços de comunicação mais elevadas que a alíquota das operações em geral**.
 
+<mark style="background:#fff88f">Seguindo a previsão constitucional, em matéria de ICMS, cabe à lei complementar:</mark>
 
+> Art. 155, § 2º O imposto previsto no inciso II atenderá ao seguinte:
+> 
+> XII - cabe à lei complementar:
+> 
+> a) **definir seus contribuintes;**
+> 
+> b) dispor sobre substituição tributária;
+> 
+> c) **disciplinar o regime de compensação do imposto;**
+> 
+> d) **fixar, para efeito de sua cobrança e definição do estabelecimento responsável, o local das operações relativas à circulação de mercadorias e das prestações de serviços;**
+> 
+> e) excluir da incidência do imposto, nas exportações para o exterior, serviços e outros produtos além dos mencionados no inciso X, "a"
+> 
+> f) prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias;
+> 
+> g) regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.
+> 
+> h) definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que não se aplicará o disposto no inciso X, b ; 
+> 
+> i) fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço.
 
 ## - Lei Complementar nº 87/96  
+
+
+
+
+
 ## ICMS - Lei 7.014/96
 
 1. <mark style="background:rgba(140, 140, 140, 0.12)">O resultado financeiro obtido com a prestação de serviços de comunicação é irrelevante para a caracterização do fato gerador do ICMS.</mark>

@@ -27,6 +27,18 @@ prioridade: complementar
 | Concordância (Verbal e Nominal) | 4,3% |
 | Pontuação | 4,0% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Interpretação de Textos (compreensão) [dom:: 4] [peso:: 32.8]
+- [ ] Reescrita de Frases / Substituição de palavras ou trechos de texto [dom:: 3] [peso:: 13.4]
+- [ ] Semântica [dom:: 4] [peso:: 6.6]
+- [ ] Sintaxe [dom:: 4] [peso:: 5.8]
+- [ ] Coerência e Coesão [dom:: 0] [peso:: 5.8]
+- [ ] Clareza e Correção [dom:: 4] [peso:: 5.1]
+- [ ] Verbo [dom:: 4] [peso:: 4.8]
+- [ ] Concordância (Verbal e Nominal) [dom:: 3] [peso:: 4.3]
+- [ ] Pontuação [dom:: 4] [peso:: 4.0]
+
 > **10 questões · peso 2 · **20 pontos** · 6,1% da nota**
 > Prioridade: **complementar**
 

@@ -32,6 +32,23 @@ prioridade: crítico
 | Impostos Municipais | 3,1% |
 | Introdução ao Direito Tributário | 2,0% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Jurisprudência em Matéria Tributária [dom:: 0] [peso:: 14.6]
+- [ ] Limitações Constitucionais ao Poder de Tributar [dom:: 4] [peso:: 10.5]
+- [ ] Legislação Tributária [dom:: 4] [peso:: 9.2]
+- [ ] Tributos [dom:: 0] [peso:: 8.2]
+- [ ] Responsabilidade Tributária [dom:: 4] [peso:: 6.5]
+- [ ] Extinção do Crédito Tributário [dom:: 4] [peso:: 6.5]
+- [ ] Lançamento e Constituição do Crédito Tributário [dom:: 3] [peso:: 5.8]
+- [ ] Impostos Estaduais [dom:: 4] [peso:: 5.8]
+- [ ] Administração Tributária [dom:: 4] [peso:: 4.1]
+- [ ] Competência Tributária [dom:: 4] [peso:: 3.7]
+- [ ] Repartição Constitucional de Receitas Tributárias [dom:: 4] [peso:: 3.1]
+- [ ] Suspensão do Crédito Tributário [dom:: 0] [peso:: 3.1]
+- [ ] Impostos Municipais [dom:: 4] [peso:: 3.1]
+- [ ] Introdução ao Direito Tributário [dom:: 4] [peso:: 2.0]
+
 Jurisprudência (Súmulas Vinculantes + julgados STF/STJ): [[Resumo Jurisprudencia - Direito Tributario (VINTEUM)]] · [[Sumulas Vinculantes - Direito Tributario]]
 
 > **15 questões · 30 pontos na âncora BA 2019 — mas em **CE 2026 são 20 questões de peso 2**, na prova específica**

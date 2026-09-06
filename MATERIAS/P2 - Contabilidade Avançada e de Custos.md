@@ -13,19 +13,69 @@ prioridade: crítico
 
 *Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Contabilidade de Custos" no guia (a parte "Avançada" desta nota fica coberta pela tabela em `P1 - Contabilidade Geral.md`).*
 
-| Tópico | % |
-| --- | --- |
-| Ponto de equilíbrio: relação custo/volume/resultado | 20,1% |
-| Custeio por absorção: caso geral sem departamentalização | 15,9% |
-| Classificação de custos: variável, fixo, direto, indireto | 11,9% |
-| Definições — diferença entre gastos, despesas, custos e perdas | 11,4% |
-| Margem de contribuição | 9,3% |
-| Custo Padrão | 7,2% |
-| Custeio Baseado em Atividades (ABC) | 5,8% |
-| Custeio Direto/Variável | 4,9% |
-| Departamentalização | 3,6% |
-| Equivalente de Produção | 2,3% |
+| Tópico                                                         | %    |
+| -------------------------------------------------------------- | ---- |
+| Provisões, Passivos e Ativos Contingentes (CPC 25)             | 7,1% |
+| Investimentos Avaliados pelo Custo ou MEP                      | 6,9% |
+| Demonstração de Fluxo de Caixa (DFC)                           | 6,6% |
+| Balanço Patrimonial (BP)                                       | 5,6% |
+| CPC 16 — Tratamento Contábil para os Estoques                  | 4,6% |
+| Depreciação, Amortização e Exaustão                            | 4,6% |
+| Ativo Imobilizado                                              | 4,4% |
+| Estrutura Conceitual Básica da Contabilidade (CPC 00)          | 4,1% |
+| Instrumentos Financeiros                                       | 4,1% |
+| Ativos Intangíveis                                             | 3,9% |
+| Redução ao Valor Recuperável de Ativos                         | 3,9% |
+| Escrituração. Balancete de Verificação, Atos e Fatos Contábeis | 3,7% |
+| Demonstração do Valor Adicionado (DVA)                         | 3,7% |
+| Patrimônio Líquido                                             | 3,6% |
+| CPC 12 — Ajuste a Valor Presente                               | 3,4% |
+| Demonstração de Resultados Abrangentes (DRA)                   | 2,4% |
+| Empréstimos e Financiamentos                                   | 2,2% |
+| Demonstração do Resultado do Exercício (DRE)                   | 2,2% |
+| CPC 02 — Efeitos de Mudanças/Taxas de Câmbio                   | 2,2% |
+| CPC 46 — Mensuração a Valor Justo                              | 2,2% |
+| Operações com Mercadorias                                      | 2,0% |
+| Debêntures e Títulos de Dívida                                 | 1,7% |
+| CPC 07 — Subvenção e Assistência Governamentais                | 1,7% |
+| Elaboração e Apresentação das Demonstrações Contábeis          | 1,5% |
+| CPC 23 — Políticas Contábeis                                   | 1,5% |
+| Dividendos                                                     | 1,2% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Provisões, Passivos e Ativos Contingentes (CPC 25) [dom:: 4] [peso:: 7.1]
+- [ ] Investimentos Avaliados pelo Custo ou MEP [dom:: 3] [peso:: 6.9]
+- [ ] Demonstração de Fluxo de Caixa (DFC) [dom:: 2] [peso:: 6.6]
+- [ ] Balanço Patrimonial (BP) [dom:: 2] [peso:: 5.6]
+- [ ] CPC 16 — Tratamento Contábil para os Estoques [dom:: 4] [peso:: 4.6]
+- [ ] Depreciação, Amortização e Exaustão [dom:: 4] [peso:: 4.6]
+- [ ] Ativo Imobilizado [dom:: 4] [peso:: 4.4]
+- [ ] Estrutura Conceitual Básica da Contabilidade (CPC 00) [dom:: 4] [peso:: 4.1]
+- [ ] Instrumentos Financeiros [dom:: 4] [peso:: 4.1]
+- [ ] Ativos Intangíveis [dom:: 4] [peso:: 3.9]
+- [ ] Redução ao Valor Recuperável de Ativos [dom:: 4] [peso:: 3.9]
+- [ ] Escrituração. Balancete de Verificação, Atos e Fatos Contábeis [dom:: 0] [peso:: 3.7]
+- [ ] Demonstração do Valor Adicionado (DVA) [dom:: 3] [peso:: 3.7]
+- [ ] Patrimônio Líquido [dom:: 3] [peso:: 3.6]
+- [ ] CPC 12 — Ajuste a Valor Presente [dom:: 4] [peso:: 3.4]
+- [ ] Demonstração de Resultados Abrangentes (DRA) [dom:: 1] [peso:: 2.4]
+- [ ] Empréstimos e Financiamentos [dom:: 0] [peso:: 2.2]
+- [ ] Demonstração do Resultado do Exercício (DRE) [dom:: 0] [peso:: 2.2]
+- [ ] CPC 02 — Efeitos de Mudanças/Taxas de Câmbio [dom:: 0] [peso:: 2.2]
+- [ ] CPC 46 — Mensuração a Valor Justo [dom:: 4] [peso:: 2.2]
+- [ ] Operações com Mercadorias [dom:: 3] [peso:: 2.0]
+- [ ] Debêntures e Títulos de Dívida [dom:: 3] [peso:: 1.7]
+- [ ] CPC 07 — Subvenção e Assistência Governamentais [dom:: 4] [peso:: 1.7]
+- [ ] Elaboração e Apresentação das Demonstrações Contábeis [dom:: 3] [peso:: 1.5]
+- [ ] CPC 23 — Políticas Contábeis [dom:: 0] [peso:: 1.5]
+- [ ] Dividendos [dom:: 4] [peso:: 1.2]
+> **10 questões · peso 2 · **20 pontos** · 6,1% da nota**
+> Prioridade: **importante**
+
+Matéria de **acúmulo lento**: duas sessões por semana desde já, não um bloco concentrado depois. Sustenta Auditoria e Contabilidade Avançada, e é matéria-prima da discursiva.
+
+Nos editais FCC recentes vem como "Contabilidade Geral e Pública" — se a Bahia seguir, entra CASP junto.
 # Bloco A:
 
 ## - Contabilidade Básica;
@@ -1036,7 +1086,22 @@ Um exemplo ocorre quando materiais adquiridos para revenda são utilizados na co
 
 ___
 # CONTABILIDADE DE CUSTOS
+## Percentual de cobrança (VINTEUM Fiscal 4.0)
 
+*Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Contabilidade de Custos" no guia (a parte "Avançada" desta nota fica coberta pela tabela em `P1 - Contabilidade Geral.md`).*
+
+| Tópico                                                         | %     |
+| -------------------------------------------------------------- | ----- |
+| Ponto de equilíbrio: relação custo/volume/resultado            | 20,1% |
+| Custeio por absorção: caso geral sem departamentalização       | 15,9% |
+| Classificação de custos: variável, fixo, direto, indireto      | 11,9% |
+| Definições — diferença entre gastos, despesas, custos e perdas | 11,4% |
+| Margem de contribuição                                         | 9,3%  |
+| Custo Padrão                                                   | 7,2%  |
+| Custeio Baseado em Atividades (ABC)                            | 5,8%  |
+| Custeio Direto/Variável                                        | 4,9%  |
+| Departamentalização                                            | 3,6%  |
+| Equivalente de Produção                                        | 2,3%  |
 ## - Bloco A: Funções, Terminologia e Classificação de Custos. NBC TSP 34.
 ### 1. Introdução à Contabilidade de Custos
 **1.1 Contabilidade Financeira x Contabilidade Gerencial**

@@ -26,6 +26,17 @@ prioridade: importante
 | Créditos Adicionais | 6,6% |
 | Classificações do Orçamento Público | 5,3% |
 
+## Checklist por importância (VINTEUM)
+
+- [ ] Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa) [dom:: 0] [peso:: 16.0]
+- [ ] Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência) [dom:: 0] [peso:: 13.5]
+- [ ] Instrumentos Orçamentários (PPA, LDO e LOA) [dom:: 0] [peso:: 12.3]
+- [ ] Classificação da Despesa e Estágios da Despesa Pública [dom:: 0] [peso:: 10.3]
+- [ ] Dívida Pública, Despesas de Exercícios Anteriores e Suprimento de Fundos [dom:: 0] [peso:: 9.8]
+- [ ] Princípios Orçamentários [dom:: 4] [peso:: 9.0]
+- [ ] Créditos Adicionais [dom:: 4] [peso:: 6.6]
+- [ ] Classificações do Orçamento Público [dom:: 4] [peso:: 5.3]
+
 > ****Zero na âncora BA 2019** — disciplina autônoma em CE 2026**
 > Prioridade: **importante**
 
