@@ -56,3 +56,13 @@ Esse é um sistema de revisão espaçada **por tópico individual** (902 tópico
 - **Legislação Estadual**: o verticalizado lista só as cinco normas; foram acrescentados 30 subtópicos de estrutura do ICMS vindos do cofre (origem "cofre" na coluna I da aba Tópicos).
 - **LC nº 227/2026**: norma posterior ao conhecimento confiável de quem montou a planilha — ler no texto primário.
 - **Discursivas**: peso 2, corrigidas só para quem soma 150 nas objetivas. Ocupam o slot S5 de sábado.
+
+## Reordenação por domínio real (TecConcursos), 2026-09-06
+
+Depois de calcular `dom::` (0-5) nos checklists VINTEUM das notas de `MATERIAS` a partir do histórico de questões do TecConcursos, tentei casar esses tópicos com a coluna `Tópico` da aba `Tópicos` da planilha. Cobertura baixa: só **43 de 173** itens com `dom:: > 0` batem exatamente com o texto do edital usado na planilha — a maioria diverge porque o VINTEUM agrupa temas de um jeito e o edital descreve linha a linha de outro (ex.: VINTEUM "Sintaxe" não tem equivalente 1:1 nas linhas "Morfossintaxe." / "Pronomes." / "Concordância nominal e concordância verbal." do edital). Não forcei correspondência nos outros 130 — ficaram como estavam.
+
+Para os **35 tópicos únicos que bateram com certeza** (deduplicando as 4 notas de Fluência de Dados, que apontam para as mesmas linhas de "Ciências De Dados"), apliquei uma **troca dentro de cada disciplina**: peguei as datas/semanas/slots que essas linhas já ocupavam, e realoquei — tópico com `dom::` mais baixo (menos praticado no TEC) recebe a data mais cedo disponível entre elas; `dom::` mais alto (já domina) vai para a mais tarde. Nenhuma data nova foi criada e nenhuma outra linha da planilha foi tocada; é só uma permutação entre as linhas confirmadas de cada disciplina. Backup pré-troca: `Cronograma_SEFAZ_CE_2027 (backup pre-swap-slots-dom 2026-09-06).xlsx`.
+
+Disciplinas com mudança real (dom variava entre os tópicos confirmados): Direito Constitucional, Contabilidade Geral, Contabilidade Avançada, Auditoria, Matemática Financeira/Estatística/RLM. Nas demais (Direito Administrativo, Direito Tributário, Ciências De Dados) os tópicos confirmados tinham todos o mesmo `dom::`, então nada mudou. `P2 - Tecnologia da Informação.md` não tem disciplina correspondente na planilha (o bucket mais próximo, "Segurança Da Informação E Proteção De Dados", é só LGPD/criptografia) — ficou de fora.
+
+**Isso cobre só ~4% das 902 linhas.** Se quiser mais cobertura, as opções são: (a) reescrever os nomes dos tópicos do checklist VINTEUM para casar com a redação do edital, ou (b) reordenar por média de `dom::` da disciplina inteira em vez de tópico a tópico.
