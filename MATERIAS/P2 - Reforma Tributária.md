@@ -30,6 +30,8 @@ prioridade: crítico
 | Bloco XII | PAT. Distribuição. Transição do ICMS | MÉDIA |
 | Bloco VII/VIII | Operacionalização/Importações-Exportações. Cashback. Regimes Diferenciados | MÉDIA |
 
+Facilitadores de leitura da lei seca: [[Resumo EC 132-2023 Reforma Tributaria (VINTEUM)]] · [[Resumo LC 214-2025 Titulo I Reforma Tributaria (VINTEUM)]] · [[Pontos de Atencao - Reforma Tributaria (VINTEUM)]]
+
 ## 📚Os Blocos são:
 
 | BLOCO | CONTEÚDO                                                                                                                                                                           |

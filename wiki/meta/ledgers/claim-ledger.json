@@ -1,6 +1,6 @@
 {
   "schema": "claude-obsidian.claim-ledger.v1",
-  "generated_at": "2026-09-05T22:40:00Z",
+  "generated_at": "2026-09-05T23:10:00Z",
   "claims": {
     "clm-vinteum-admin-sv-count": {
       "text": "O resumo de jurisprudencia de Direito Administrativo da VINTEUM Fiscal 4.0 cataloga 10 sumulas vinculantes do STF (SV 04, 05, 06, 13, 15, 16, 42, 43, 44, 55).",
@@ -117,6 +117,46 @@
       "evidence": [
         {
           "source_id": "src-726093c2947dbea3af9d",
+          "relation": "supports",
+          "locator": null
+        }
+      ]
+    },
+    "clm-vinteum-ec132-scope": {
+      "text": "O resumo da EC 132/2023 (VINTEUM Fiscal 4.0) e um facilitador de leitura da lei seca, nao uma lista de julgados, e cobre principios do STN, IBS, CBS e repartição de receitas.",
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "location": {
+        "path": "wiki/sources/Resumo EC 132-2023 Reforma Tributaria (VINTEUM).md",
+        "anchor": "Resumo EC 132/2023 Reforma Tributaria (VINTEUM Fiscal 4.0)"
+      },
+      "reviewed_at": "2026-09-05",
+      "notes": null,
+      "supersedes": null,
+      "evidence": [
+        {
+          "source_id": "src-3e489379e8ab197359a5",
+          "relation": "supports",
+          "locator": null
+        }
+      ]
+    },
+    "clm-vinteum-lc214-scope": {
+      "text": "O resumo da LC 214/2025 Titulo I (VINTEUM Fiscal 4.0) cobre normas gerais do IBS/CBS, operacoes com bens e servicos, operacionalizacao, importacoes e exportacoes, atualizado com a LC 227/2026.",
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "location": {
+        "path": "wiki/sources/Resumo LC 214-2025 Titulo I Reforma Tributaria (VINTEUM).md",
+        "anchor": "Resumo LC 214/2025 Titulo I Reforma Tributaria (VINTEUM Fiscal 4.0)"
+      },
+      "reviewed_at": "2026-09-05",
+      "notes": null,
+      "supersedes": null,
+      "evidence": [
+        {
+          "source_id": "src-f113e5da71c6a3560136",
           "relation": "supports",
           "locator": null
         }

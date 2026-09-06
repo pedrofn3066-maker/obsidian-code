@@ -1,6 +1,6 @@
 {
   "schema": "claude-obsidian.source-ledger.v1",
-  "generated_at": "2026-09-05T22:40:00Z",
+  "generated_at": "2026-09-05T23:10:00Z",
   "sources": {
     "src-bc2562f6f70ed60b71e0": {
       "origin": {
@@ -54,6 +54,42 @@
       "independence_key": "vinteum-fiscal-4.0",
       "pages": [
         "wiki/sources/Resumo Jurisprudencia - Direito Tributario (VINTEUM).md"
+      ]
+    },
+    "src-3e489379e8ab197359a5": {
+      "origin": {
+        "kind": "file",
+        "locator": "inbox/Resumo-EC-132-2023-Reforma-Tributaria-Fiscal-4.0-V1.0.pdf"
+      },
+      "content_kind": "document",
+      "authority": "secondary",
+      "review_status": "active",
+      "title": "Resumo EC 132/2023 Reforma Tributaria (VINTEUM Fiscal 4.0)",
+      "content_sha256": "133bb146b9359e10ab8b7c620df98a6b6c2a8d769176fc9fffbaa5626353a211",
+      "ingested_at": "2026-09-05",
+      "retrieved_at": "2026-09-05",
+      "refresh_due": "2027-01-31",
+      "independence_key": "vinteum-fiscal-4.0",
+      "pages": [
+        "wiki/sources/Resumo EC 132-2023 Reforma Tributaria (VINTEUM).md"
+      ]
+    },
+    "src-f113e5da71c6a3560136": {
+      "origin": {
+        "kind": "file",
+        "locator": "inbox/Resumo-LC-214-2025-Titulo-I-Reforma-Tributaria-Fiscal-4.0-V1.1.pdf"
+      },
+      "content_kind": "document",
+      "authority": "secondary",
+      "review_status": "active",
+      "title": "Resumo LC 214/2025 Titulo I Reforma Tributaria (VINTEUM Fiscal 4.0)",
+      "content_sha256": "4170f9ea6a41337e943d02d411fcfdd13bbad39b8474b0f3ce650d34af1bdbd7",
+      "ingested_at": "2026-09-05",
+      "retrieved_at": "2026-09-05",
+      "refresh_due": "2027-01-31",
+      "independence_key": "vinteum-fiscal-4.0",
+      "pages": [
+        "wiki/sources/Resumo LC 214-2025 Titulo I Reforma Tributaria (VINTEUM).md"
       ]
     }
   }
