@@ -1,7 +1,5 @@
 {
   "masonryFolders": [
-    "SEFAZ BA/MATERIAS",
-    "IMG",
     "Z IMG",
     "QUESTÕES",
     "MATERIAS"
@@ -14,5 +12,5 @@
   "noteCardMinHeight": 100,
   "noteCardMaxHeight": 500,
   "noteCardFontSize": 14,
-  "folderCount": 8
+  "folderCount": 3
 }
