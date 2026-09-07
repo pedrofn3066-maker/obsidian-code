@@ -11,8 +11,8 @@ assuntos:
 slot: S4
 total: 4
 acertos: 2
-tempo_min:
-erro_tipo:
+tempo_min: 14
+erro_tipo: desatencao
 banca:
 origem: TEC (importado)
 obs: Amostra pequena (4 questões). Errou Sintaxe e Pontuação, acertou Coerência/Coesão e a mesclada.

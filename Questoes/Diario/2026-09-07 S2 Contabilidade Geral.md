@@ -8,10 +8,10 @@ assuntos:
   - Ativos Intangíveis (CPC 04)
   - Balanço Patrimonial
   - CPC 47 — Receita de Contrato com Cliente
-slot:
+slot: S2
 total: 9
 acertos: 6
-tempo_min:
+tempo_min: 31
 erro_tipo:
 banca:
 origem: TEC (importado)

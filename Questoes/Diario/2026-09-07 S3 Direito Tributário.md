@@ -18,9 +18,9 @@ assuntos:
 slot: S3
 total: 24
 acertos: 20
-tempo_min:
-erro_tipo:
-banca:
+tempo_min: 34
+erro_tipo: desatencao
+banca: FCC
 origem: TEC (importado)
 obs: 83% no geral. Ponto fraco real — Jurisprudência sobre Obrigação Tributária, 1/3 (33%). Simples Nacional (Regras Civis e Empresariais, arts. 68-73-A da LC 123) zerou, mas amostra de 1 questão só.
 ---
