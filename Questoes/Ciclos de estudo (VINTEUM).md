@@ -1,6 +1,9 @@
 Referência dos ciclos de estudo sugeridos pelo Guia de Estudo Regular Fiscal 4.0 (VINTEUM), extraídos dos 3 PDFs bônus "Ciclos" (Parte 1, 2 e 3). São sugestões da VINTEUM, não um cronograma fixo — ver observações no fim.
 
-## Cronograma personalizado — Fase Avançada, 36h/semana (Claude, 2026-09-05)
+## Cronograma personalizado — Fase Avançada, 36h/semana (Claude, 2026-09-05) — HISTÓRICO, superado em 2026-09-07
+
+> [!warning] Esta seção não é mais a grade ativa
+> Esta tabela e a `Grade semanal` de [[Slots (Grade Semanal)]] divergiam entre si (dias e matérias diferentes pra semana inteira) — duas fontes de verdade que não se comunicavam. A partir de 2026-09-07, **a grade ativa é só a de `Slots (Grade Semanal)`**, corrigida com a mesma lógica de Ganho Potencial usada aqui (ver seção "Reconciliação com o Ciclo VINTEUM" lá). Esta tabela abaixo fica só como registro histórico do cálculo original — não siga o dia-a-dia dela.
 
 Mesmo esqueleto de blocos de 1h/1h30 da VINTEUM, mas a frequência de cada matéria segue o Ganho Potencial real calculado a partir do `Questoes/Diario` nesta data, não a grade genérica do guia.
 
