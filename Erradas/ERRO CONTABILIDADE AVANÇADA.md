@@ -64,6 +64,8 @@ R$ 6.500.000 - R$ 4.600.000 = **R$ 1.900.000**
 **CORRETA.** O CPC 02, item 47, estabelece:
 > Qualquer ágio por expectativa de rentabilidade futura (goodwill) originado da aquisição de entidade no exterior e quaisquer ajustes de valor justo nos valores contábeis de ativos e passivos originados da aquisição dessa entidade no exterior **devem ser tratados como ativos e passivos da entidade no exterior**. Desse modo, eles devem ser **expressos na moeda funcional da entidade no exterior** e devem ser **convertidos pela taxa de câmbio de fechamento**.
 
-
+- <mark style="background:#fff88f"> Gratuidade é na perspectiva do cliente.</mark>
+Para a empresa não foi gratuito, pois o serviço de consultoria está atrelada aos serviços operacionais (no caso dessa empresa, contábeis).
+Então a receita foi gerada em março, junto com os serviços contábeis. Entretanto, este CPC exige que esta receita seja reconhecida somente quando da efetivação da prestação dos serviços (consultoria).
 # OUTRAS BANCAS 
 - #banca/outras
