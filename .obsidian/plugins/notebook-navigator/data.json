@@ -584,7 +584,19 @@
     "jur",
     "bloco",
     "ju",
-    "hu"
+    "hu",
+    "hot-cache",
+    "index",
+    "log",
+    "meta",
+    "overview",
+    "concept",
+    "direito-administrativo",
+    "direito-constitucional",
+    "direito-tributario",
+    "source",
+    "sumula-vinculante",
+    "reforma-tributaria"
   ],
   "rootPropertyOrder": []
 }

@@ -4,7 +4,8 @@
     "painel",
     "custom-background",
     "extended-colorschemes",
-    "outline-heading-colors"
+    "outline-heading-colors",
+    "vault-colors"
   ],
   "theme": "moonstone",
   "baseFontSize": 16,

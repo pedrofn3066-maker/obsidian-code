@@ -35,6 +35,30 @@ OBS: CUIDADO COM A LETRA B, ELA DIZ PREÇO DO BEM SUBSTITUTO , LOGO ELA ESTÀ D
 
 
 ## - Elasticidades;
+
+### Elasticidade Preço da Demanda
+(https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1612?indice=1&materia=1605)
+
+Matematicamente, a elasticidade da demanda é definida como a razão entre **a variação percentual** na **quantidade** e a variação percentual no **preço**. Essa equação nos mostra o quanto uma variável é sensível com relação à outra variável.
+
+![[Pasted image 20260905184536.png]]
+
+![[Pasted image 20260905184558.png]]
+
+![[Pasted image 20260905184714.png]]
+
+![[Pasted image 20260905184757.png|671]]
+
+
+### Elasticidade Renda da Demanda
+(https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1613?indice=1&materia=1605)
+    
+### Elasticidade Preço Cruzada
+(https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1614?indice=1&materia=1605)
+    
+### Elasticidade Preço da Oferta
+(https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1615?indice=1&materia=1605)
+
 # - Bloco B:
 ## - Teoria do Consumidor;
 ### -Restrição Orçamentária
