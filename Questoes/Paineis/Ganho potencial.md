@@ -41,4 +41,4 @@ dv.table(["Bloco", "Pontos", "Questões", "% acerto", "Ganho potencial"], rows);
 >
 > Se a tabela vier vazia, testar isoladamente `dv.span(dv.pages('"Questoes/Diario"').length)` numa nota nova para confirmar que o caminho da pasta está correto.
 >
-> Se um bloco aparecer com 0 em "Pontos", a grafia de `bloco` na nota diverge da chave no dicionário `PONTOS`. Conferir contra a aba **Pesos** do `Cronograma_SEFAZ_CE_2027.xlsx`.
+> Se um bloco aparecer com 0 em "Pontos", a grafia de `bloco` na nota diverge da chave no dicionário `PONTOS`. Conferir contra a aba **Pesos** do `Cronograma_SEFAZ_BA_2027.xlsx`.

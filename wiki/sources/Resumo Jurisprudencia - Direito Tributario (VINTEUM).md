@@ -49,4 +49,4 @@ Mesmo criterio de selecao e ordenacao do resumo de Direito Administrativo (ver [
 
 ## Uso
 
-Cruza com [[P2 - Direito Tributário]] - a VINTEUM identifica "Jurisprudencia em Materia Tributaria" como 14,6% da disciplina, o **maior peso isolado** dela. Esse topico nao tinha linha propria na aba `Topicos` do `Cronograma_SEFAZ_CE_2027.xlsx` antes desta ingestao (item `vinteum` no 29 acrescentado a planilha - ver `Questoes/Slots (Grade Semanal).md`).
+Cruza com [[P2 - Direito Tributário]] - a VINTEUM identifica "Jurisprudencia em Materia Tributaria" como 14,6% da disciplina, o **maior peso isolado** dela. Esse topico nao tinha linha propria na aba `Topicos` do `Cronograma_SEFAZ_BA_2027.xlsx` antes desta ingestao (item `vinteum` no 29 acrescentado a planilha - ver `Questoes/Slots (Grade Semanal).md`).

@@ -46,4 +46,4 @@ Resumo de jurisprudencia bonus do Guia de Estudo Regular Fiscal 4.0 (VINTEUM). C
 
 ## Uso
 
-Cruza com [[P1 - Direito Administrativo]] - a VINTEUM identifica "Jurisprudencia em Materia Administrativa" como 10,9% da disciplina (2o maior peso), topico que nao tinha linha propria na aba `Topicos` do `Cronograma_SEFAZ_CE_2027.xlsx` antes desta ingestao (item `vinteum` no 57 acrescentado a planilha - ver `Questoes/Slots (Grade Semanal).md`).
+Cruza com [[P1 - Direito Administrativo]] - a VINTEUM identifica "Jurisprudencia em Materia Administrativa" como 10,9% da disciplina (2o maior peso), topico que nao tinha linha propria na aba `Topicos` do `Cronograma_SEFAZ_BA_2027.xlsx` antes desta ingestao (item `vinteum` no 57 acrescentado a planilha - ver `Questoes/Slots (Grade Semanal).md`).

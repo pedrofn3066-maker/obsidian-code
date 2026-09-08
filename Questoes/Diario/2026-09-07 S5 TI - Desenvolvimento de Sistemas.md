@@ -16,7 +16,7 @@ tempo_min: 14
 erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
-obs: "PENDENTE: sem bloco no PONTOS do Ganho Potencial e sem nota em MATERIAS ainda — não entra no Ganho Potencial até você decidir se isso cai no edital SEFAZ-CE e merece nota própria. Errou Arquitetura em Camadas, Microsserviços e Hexagonal (todas 0/1); acertou MVC e SOA."
+obs: "PENDENTE: sem bloco no PONTOS do Ganho Potencial e sem nota em MATERIAS ainda — não entra no Ganho Potencial até você decidir se isso cai no edital SEFAZ-BA e merece nota própria. Errou Arquitetura em Camadas, Microsserviços e Hexagonal (todas 0/1); acertou MVC e SOA."
 ---
 
 ## Erros a revisar

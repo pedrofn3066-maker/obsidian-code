@@ -88,7 +88,7 @@ Veja [[_exemplo-caderno]] para um exemplo já preenchido.
 ### matéria → bloco de pontuação
 
 Os nomes abaixo são os mesmos das colunas B e C da aba Tópicos da planilha
-`Cronograma_SEFAZ_CE_2027.xlsx`, para que os dois sistemas cruzem sem tradução.
+`Cronograma_SEFAZ_BA_2027.xlsx`, para que os dois sistemas cruzem sem tradução.
 
 | matéria                                               | bloco                      | pontos |
 | ----------------------------------------------------- | -------------------------- | ------ |

@@ -47,4 +47,4 @@ Mesmo criterio de selecao e ordenacao do resumo de Direito Administrativo (ver [
 
 ## Uso
 
-Cruza com [[P1 - Direito Constitucional]] - a VINTEUM identifica "Jurisprudencia em Materia Constitucional" como 20,3% da disciplina, o **maior peso de topico isolado de todo o Guia Fiscal 4.0**. Esse topico nao tinha linha propria na aba `Topicos` do `Cronograma_SEFAZ_CE_2027.xlsx` antes desta ingestao (item `vinteum` no 13 acrescentado a planilha - ver `Questoes/Slots (Grade Semanal).md`).
+Cruza com [[P1 - Direito Constitucional]] - a VINTEUM identifica "Jurisprudencia em Materia Constitucional" como 20,3% da disciplina, o **maior peso de topico isolado de todo o Guia Fiscal 4.0**. Esse topico nao tinha linha propria na aba `Topicos` do `Cronograma_SEFAZ_BA_2027.xlsx` antes desta ingestao (item `vinteum` no 13 acrescentado a planilha - ver `Questoes/Slots (Grade Semanal).md`).

@@ -93,7 +93,7 @@ Variantes detalhadas: 30h, 36h e 42h semanais. A estrutura repete a da Fase Inte
 
 ## Observações da própria VINTEUM
 
-- **LTE ou LTM**: escolha do aluno conforme o edital-alvo. **Nesse cofre, a escolha já é LTE** (Legislação Tributária Estadual — SEFAZ-CE é concurso estadual).
+- **LTE ou LTM**: escolha do aluno conforme o edital-alvo. **Nesse cofre, a escolha já é LTE** (Legislação Tributária Estadual — SEFAZ-BA é concurso estadual).
 - **Fluência de Dados e Tecnologia da Informação (TI) são cumulativas, não substitutas.** A VINTEUM recomenda terminar Fluência de Dados (Parte 1) primeiro, e só depois acrescentar TI (Parte 3) — os tópicos não se repetem entre as duas. Fluência de Dados tem prioridade porque é mais cobrada.
 - **Direito Financeiro (AFO) e Contabilidade Pública recebem pouca carga de propósito** — a própria VINTEUM diz que são mais fortes na área de controle e nem sempre caem em concursos fiscais.
 - Reforma Tributária mantém carga fixa (não escala com a carga semanal total) em todas as variantes — tratamento de tema novo/ainda instabilizando.

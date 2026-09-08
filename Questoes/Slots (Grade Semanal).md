@@ -1,4 +1,4 @@
-Referência dos slots (`S1`–`S5`) usados no campo `slot` de `Questoes/Diario`. Fonte: `Cronograma_SEFAZ_CE_2027.xlsx`, abas `Grade Semanal`, `Protocolo` e `Registro Diário`.
+Referência dos slots (`S1`–`S5`) usados no campo `slot` de `Questoes/Diario`. Fonte: `Cronograma_SEFAZ_BA_2027.xlsx`, abas `Grade Semanal`, `Protocolo` e `Registro Diário`.
 
 ## O que cada slot significa
 
@@ -18,15 +18,15 @@ Grade padrão: 6h/dia, 42h/semana.
 
 *Atualizada em 2026-09-07 — ver "Reconciliação com o Ciclo VINTEUM" mais abaixo.*
 
-| Dia     | S2 · 90min                     | S3 · 90min                                  | S4 · 60min                         | S5 · 90min                                               |
-| ------- | ------------------------------ | ------------------------------------------- | ---------------------------------- | -------------------------------------------------------- |
-| Segunda | Contabilidade Avançada         | Direito Tributário                          | Língua Portuguesa                  | Ciências de Dados                                        |
-| Terça   | Legislação Tributária Estadual | Contabilidade Avançada                      | Auditoria                          | Finanças Públicas                                        |
-| Quarta  | Mat. Financeira/Estatística/RLM| Contabilidade de Custos                     | Direito Financeiro                 | Rodízio 4 (Constitucional, Administrativo, Civil, Penal) |
-| Quinta  | Contabilidade Avançada         | Legislação Tributária Estadual              | Adm. Pública e Governança          | Ciências de Dados                                        |
-| Sexta   | Direito Tributário             | Finanças Públicas                           | Segurança da Informação            | Mat. Financeira/Estatística/RLM                          |
+| Dia     | S2 · 90min                      | S3 · 90min                                  | S4 · 60min                         | S5 · 90min                                               |
+| ------- | ------------------------------- | ------------------------------------------- | ---------------------------------- | -------------------------------------------------------- |
+| Segunda | Contabilidade Avançada          | Direito Tributário                          | Língua Portuguesa                  | Ciências de Dados                                        |
+| Terça   | Legislação Tributária Estadual  | Contabilidade Avançada                      | Auditoria                          | Finanças Públicas                                        |
+| Quarta  | Mat. Financeira/Estatística/RLM | Contabilidade de Custos                     | Direito Financeiro                 | Rodízio 4 (Constitucional, Administrativo, Civil, Penal) |
+| Quinta  | Contabilidade Avançada          | Legislação Tributária Estadual              | Adm. Pública e Governança          | Ciências de Dados                                        |
+| Sexta   | Direito Tributário              | Finanças Públicas                           | Segurança da Informação            | Mat. Financeira/Estatística/RLM                          |
 | Sábado  | Ciências de Dados               | Cont. Geral (ímpares)/Cont. Pública (pares) | Micro (ímpares)/Macro (pares)      | Discursiva                                               |
-| Domingo | Simulado                       | Simulado                                    | Correção com caderno de erros — 2h | Fechamento de ciclo — 1h                                 |
+| Domingo | Simulado                        | Simulado                                    | Correção com caderno de erros — 2h | Fechamento de ciclo — 1h                                 |
 
 S1 (revisão ativa, todos os dias) e, no domingo, o simulado ocupa S1+S2+S3 (3h).
 
@@ -63,7 +63,7 @@ Esse é um sistema de revisão espaçada **por tópico individual** (902 tópico
 
 Depois de calcular `dom::` (0-5) nos checklists VINTEUM das notas de `MATERIAS` a partir do histórico de questões do TecConcursos, tentei casar esses tópicos com a coluna `Tópico` da aba `Tópicos` da planilha. Cobertura baixa: só **43 de 173** itens com `dom:: > 0` batem exatamente com o texto do edital usado na planilha — a maioria diverge porque o VINTEUM agrupa temas de um jeito e o edital descreve linha a linha de outro (ex.: VINTEUM "Sintaxe" não tem equivalente 1:1 nas linhas "Morfossintaxe." / "Pronomes." / "Concordância nominal e concordância verbal." do edital). Não forcei correspondência nos outros 130 — ficaram como estavam.
 
-Para os **35 tópicos únicos que bateram com certeza** (deduplicando as 4 notas de Fluência de Dados, que apontam para as mesmas linhas de "Ciências De Dados"), apliquei uma **troca dentro de cada disciplina**: peguei as datas/semanas/slots que essas linhas já ocupavam, e realoquei — tópico com `dom::` mais baixo (menos praticado no TEC) recebe a data mais cedo disponível entre elas; `dom::` mais alto (já domina) vai para a mais tarde. Nenhuma data nova foi criada e nenhuma outra linha da planilha foi tocada; é só uma permutação entre as linhas confirmadas de cada disciplina. Backup pré-troca: `Cronograma_SEFAZ_CE_2027 (backup pre-swap-slots-dom 2026-09-06).xlsx`.
+Para os **35 tópicos únicos que bateram com certeza** (deduplicando as 4 notas de Fluência de Dados, que apontam para as mesmas linhas de "Ciências De Dados"), apliquei uma **troca dentro de cada disciplina**: peguei as datas/semanas/slots que essas linhas já ocupavam, e realoquei — tópico com `dom::` mais baixo (menos praticado no TEC) recebe a data mais cedo disponível entre elas; `dom::` mais alto (já domina) vai para a mais tarde. Nenhuma data nova foi criada e nenhuma outra linha da planilha foi tocada; é só uma permutação entre as linhas confirmadas de cada disciplina. Backup pré-troca: `Cronograma_SEFAZ_BA_2027 (backup pre-swap-slots-dom 2026-09-06).xlsx`.
 
 Disciplinas com mudança real (dom variava entre os tópicos confirmados): Direito Constitucional, Contabilidade Geral, Contabilidade Avançada, Auditoria, Matemática Financeira/Estatística/RLM. Nas demais (Direito Administrativo, Direito Tributário, Ciências De Dados) os tópicos confirmados tinham todos o mesmo `dom::`, então nada mudou. `P2 - Tecnologia da Informação.md` não tem disciplina correspondente na planilha (o bucket mais próximo, "Segurança Da Informação E Proteção De Dados", é só LGPD/criptografia) — ficou de fora.
 
