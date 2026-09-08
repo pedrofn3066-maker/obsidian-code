@@ -18,7 +18,6 @@
   "smart-lookup",
   "folder-notes",
   "masonry-pinboards",
-  "editing-toolbar",
   "url-into-selection",
   "pretty-properties",
   "typewriter-mode",
@@ -27,5 +26,6 @@
   "smart-context",
   "pdf-plus",
   "realclaudian",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "editing-toolbar"
 ]

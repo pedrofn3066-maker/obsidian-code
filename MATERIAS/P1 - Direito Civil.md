@@ -178,7 +178,7 @@ e) histórica; 
 
 f) sociológica ou teleológica* (finalística) (é a que melhor se adapta ao estabelecido no art. 5°, LINDB): “_Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum_."
 
-### 1.5. INTEGRAÇÃO DA NORMA**
+### 1.5. INTEGRAÇÃO DA NORMA
 
 📢 Não confunda: **Interpretação** é diferente de **Integração**
 

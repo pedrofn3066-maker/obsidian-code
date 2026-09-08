@@ -34,9 +34,9 @@
     "debugMode": true,
     "useInternalPlugins": true
   },
-  "QUESTÕES": "LiAsteriskSquare",
   "MATERIAL": "LiBackpack",
   "TEMPLATE": "LiArrowUpToLine",
   "MATERIAS": "LiAward",
-  "Questoes": "LiAxe"
+  "Questoes": "LiAxe",
+  "Erradas": "LiAsteriskSquare"
 }

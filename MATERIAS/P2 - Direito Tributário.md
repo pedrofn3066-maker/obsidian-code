@@ -64,6 +64,8 @@ De qualquer forma, não é matéria separada de LTE: é a mesma matéria em outr
 > Cada `- [ ]` é um tópico. Ajuste `[dom:: N]` de 0 a 5 ao estudar; acrescente `[rev:: AAAA-MM-DD]` para
 > o painel te cobrar. Escreva o conteúdo logo abaixo do cabeçalho do tópico, no formato que quiser.
 
+# Constituição Federal
+![[Pasted image 20260907163941.png]]
 
 # Bloco A:  
 ## Conceito de Tributo;   

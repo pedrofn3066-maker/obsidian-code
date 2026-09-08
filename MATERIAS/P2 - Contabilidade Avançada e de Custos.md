@@ -5,7 +5,7 @@ revisado:
 prova: II
 peso: 3
 pontos: 0
-origem: "CE 2026 (20 q) · SP 2026"
+origem: CE 2026 (20 q) · SP 2026
 prioridade: crítico
 ---
 
@@ -214,9 +214,9 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos o
 - **Provável** que a entidade **receberá a contraprestação.**
     - O valor da contraprestação **pode ser inferior ao preço declarado** no contrato **se a contraprestação for variável.** (Entidade pode oferecer ao cliente uma redução de preço).
 
-|   |
-|---|
-|🚨 **Se** **Contrato com o Cliente** **Não atende aos Critérios** **e a** **Entidade Recebe a Contraprestação** do Cliente:<br><br>- A **Receita** só poderá ser contabilizada se:<br>    - **N****ão houver Obrigações** Restantes e a **Contraprestação Não for Restituível;** ou<br>    - **Contrato for Rescindido** e a **Contraprestação Não for Restituível.**<br><br>⚠️ **Enquanto não Atendidos** os Requisitos → Reconhecer a **Contraprestação Recebida** de Cliente como **Passivo.**|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚨 **Se** **Contrato com o Cliente** **Não atende aos Critérios** **e a** **Entidade Recebe a Contraprestação** do Cliente:<br><br>- A **Receita** só poderá ser contabilizada se:<br>    - **Não houver Obrigações** Restantes e a **Contraprestação Não for Restituível;** ou<br>    - **Contrato for Rescindido** e a **Contraprestação Não for Restituível.**<br><br>⚠️ **Enquanto não Atendidos** os Requisitos → Reconhecer a **Contraprestação Recebida** de Cliente como **Passivo.** |
 
 **4.2. Combinação de Contrato**
 
@@ -895,8 +895,7 @@ As **DC's da Controladora e de suas Controladas** utilizadas na elaboração d
 | LN~R=(Lucro da Operaca~o Intragrupo) x (% de Mercadorias em Estoque)LN~R=(Lucro da Operaca~o Intragrupo) x (% de Mercadorias em Estoque) |                                                                                          |
 
 ## - Investimentos MEP (CPC 18);
-- Resumo Tec:
-- #tec/resumo 
+- Resumo Tec
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/674). 
 
 **CPC 18 (R2)** - <mark style="background:#fff88f">Perda de influência significativa e a alienação de investimentos.</mark>
@@ -987,7 +986,13 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 ## - Balanço Patrimonial;
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/996)
 
-
+<mark style="background:#affad1">No caso:</mark>
+<mark style="background:#affad1">a intenção é negociar os ativos quando conveniente;  </mark>
+<mark style="background:#affad1">logo, não são investimentos permanentes;  </mark>
+<mark style="background:#affad1">como não há indicação de venda no curto prazo, a classificação adequada é no realizável a longo prazo.</mark>
+- **Intenção de negociar** → ativo financeiro → **AC ou RLP**
+- **Intenção de permanência** → participação societária → **Investimentos**
+- **Sem informação de curto prazo** → tende a **Realizável a Longo Prazo**
 
 
 

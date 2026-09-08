@@ -111,7 +111,16 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/3/assuntos/3818)
 
 **a)**  o verbo “prevê” recebe ~~acento diferencial para marcar o plural~~, concordando com o sujeito.
 **Incorreta**. A forma verbal <mark style="background:#fff88f">"prevê" está na 3ª pessoa do singular</mark>, portanto o acento circunflexo não marca plural, mas sim a sílaba tônica em uma palavra oxítona terminada em -E. O acento diferencial que indica plural ocorre com os verbos "ter", "vir" e respectivos derivados. Exemplos: eles vêm, eles têm, elas contêm, elas provêm etc.
-
+- <mark style="background:rgba(240, 200, 0, 0.2)">gemini</mark>
+Sua observação é excelente! Você tem toda a razão ao identificar que "afastar" está no infinitivo e que o infinitivo é, de fato, uma forma nominal do verbo.
+O "pulo do gato" da gramática aqui é o seguinte: **mesmo estando em uma forma nominal (infinitivo, gerúndio ou particípio), o verbo não perde a sua natureza verbal nem a sua transitividade.** Ele continua exigindo complementos verbais (objetos diretos e indiretos).
+Apesar de se chamarem "formas nominais" (porque podem assumir papel de substantivo, adjetivo ou advérbio dependendo do contexto da frase), dentro da própria estrutura delas, elas continuam agindo como verbos.
+Veja como a regra de regência do verbo (quem afasta, afasta **alguém**) se mantém igual, não importa a forma em que ele se encontre:
+- **Infinitivo:** O risco de afastar **usuários**. _(Afastar quem? Usuários = objeto direto)_
+- **Gerúndio:** A IA está afastando **usuários**. _(Afastando quem? Usuários = objeto direto)_
+- **Conjugado no presente:** A IA afasta **usuários**. _(Afasta quem? Usuários = objeto direto)_
+No trecho da questão, "de afastar usuários das complexidades..." forma o que chamamos de oração subordinada reduzida de infinitivo. Dentro dessa oração, "afastar" atua como o núcleo verbal, e "usuários" é o seu complemento direto.
+A banca CEBRASPE adora explorar esse detalhe para confundir o candidato, tentando fazer você pensar que, por ser uma forma nominal, o verbo deixaria de ter complementos verbais. Mas a relação de subordinação entre o verbo e o seu objeto permanece intacta!
 ## Regência e crase
 - [ ] status [dom:: 0] [peso:: 2]
 ![[Pasted image 20260823122647.png]]
@@ -120,6 +129,9 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/3/assuntos/3818)
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Sentido de "muito"<br><br>Impessoal - não se flexiona (sempre no singular)<br><br>Ex: Estamos bastante cansadas.<br><br>Ex: João acordou bastante tarde.                                                                                                                                       | Sentido de “numeroso” ou “suficiente”<br><br>Flexiona-se de acordo com o termo a que se refere<br><br>Ex: Existem bastantes pássaros no jardim. (pronome indefinido)<br><br>Ex: Haverá horas bastantes para a fazermos a prova? (adjetivo) |
 | **Dica 1:** substitua "bastante" por "muito" e observe se você precisará empregar o plural. Se sim, o "bastante" também deverá ser flexionado. <br><br>**Dica 2:** se o termo “bastante” puder ser substituído por “suficiente”, será adjetivo e deverá concordar com o termo a que se refere. |                                                                                                                                                                                                                                            |
+## Sintaxe
+
+![[Pasted image 20260907104824.png|809]]
 
 
 
@@ -129,6 +141,13 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/3/assuntos/3818)
 ## Pontuação
 - [ ] status [dom:: 0] [peso:: 2]
 
+_"Os volumes consumidos são (...) devolvidos à natureza, mas muitas vezes [são] **tão** modificados **que** seu reúso depende de grandes esforços de recuperação."_  
+Inserimos entre colchetes a forma verbal "são", que foi omitida no original. Fizemos isso apenas para que você perceba que existe uma oração aí. Pois bem, a banca propõe esta redação, com a vírgula logo após "modificados":  
+_"Os volumes consumidos são (...) devolvidos à natureza, mas muitas vezes [são] tão modificados**(,)** que seu reúso depende de grandes esforços de recuperação."_  
+Note que isolamos por parêntesis a vírgula após "modificados". Isso significa que o sinal de pontuação é FACULTATIVO após o adjetivo. Por quê? Muito simples: a oração "que seu reúso depende..." <mark style="background:#fff88f">é o que se chama de SUBORDINADA ADVERBIAL CONSECUTIVA (veja o conectivo "tão... que"). </mark>Devido ao fato de essa oração ser um adjunto adverbial em ordem direta, a presença da vírgula é facultativa. Existem vários exemplos de uso com e sem vírgula em nosso idioma. Separamos dois:  
+I) "Começava a cair uma aragenzinha leve, **tão** leve **que** apenas atenuava a força cáustica do sol (...)" (ADOLFO CAMINHA) [sem vírgula separando a oração subordinada adverbial consecutiva "que apenas atenuava a força cáustica do sol"]  
+II) "A segunda é que varria com os olhos uma linha **tão** vasta de cousas**, que** mal poderia fixar-se em qualquer delas." (MACHADO DE ASSIS) [com vírgula separando a oração subordinada adverbial consecutiva "que mal poderia fixar-se em qualquer delas"]  
+Em resumo: a inserção da vírgula após "modificados" é absolutamente correta e coerente, ficando ao gosto do escritor fazê-lo ou não.
 ## Reescrita de frases e equivalência de sentido
 - [ ] status [dom:: 0] [peso:: 2]
 
