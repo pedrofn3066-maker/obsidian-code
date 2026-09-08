@@ -136,3 +136,8 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 # BLOCO 3 . LC 214: Modalidades de Extinção, Pagamento Indevido, Ressarcimento, Não Cumulatividade e Regimes de Apuração
 # BLOCO 4 . LC 214: Operacionalização, Cashback, Cesta Básica Nacional, Importações e Exportações
+
+**Drawback**: as modalidades de isenção e restituição do drawback não se aplicam ao IBS e à CBS.
+
+> [!note] Nota
+> Os Blocos 5 a 9 (Regimes Diferenciados/Específicos, Administração do IBS/CBS, Imposto Seletivo, transição, etc. — ver tabela "📚Os Blocos são" no topo da nota) ainda não têm conteúdo próprio nesta nota, só a linha da tabela de blocos. Esse ponto do drawback ficou aqui em Bloco 4 por afinidade temática (importações/exportações), mas rigorosamente pertenceria a um Bloco 6/9 ainda não criado.

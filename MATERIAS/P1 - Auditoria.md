@@ -105,6 +105,11 @@ i) o conhecimento da missão e objetivos estratégicos da entidade.
 
 >O **programa de trabalho** é um documento que organiza as atividades da auditoria, detalhando os procedimentos a serem aplicados durante a execução e também as **questões de auditoria** que serão respondidas. 
 
+> 8. O auditor deve preparar documentação de auditoria que seja suficiente para permitir que um auditor experiente, sem nenhum envolvimento anterior com a auditoria, entenda:
+> (a) a natureza, época e extensão dos procedimentos de auditoria executados para cumprir com as normas de auditoria e exigências legais e regulamentares aplicáveis;
+> (b) os resultados dos procedimentos de auditoria executados e a evidência de auditoria obtida; e
+> (c) assuntos significativos identificados durante a auditoria, as conclusões obtidas a respeito deles e os julgamentos profissionais significativos exercidos para chegar a essas conclusões.
+
 
 
 # Bloco B:
@@ -227,6 +232,10 @@ _Representação_:
 ## - Amostragem em Auditoria;
 Resumo tec:
 (https://www.tecconcursos.com.br/aulas/materias/29/assuntos/2737)  
+
+> A7. Ao considerar as características de uma população, para testes de controles, o auditor faz uma avaliação da taxa esperada de desvio com base no entendimento do auditor dos controles relevantes ou no exame de pequena quantidade de itens da população. Essa avaliação é feita para estabelecer a amostra de auditoria e determinar o tamanho dessa amostra. Por exemplo, se a taxa esperada de desvio for inaceitavelmente alta, o auditor geralmente decide por não executar os testes de controles. Da mesma forma, para os testes de detalhes, o auditor faz uma avaliação da distorção esperada na população. Se a distorção esperada for alta, o exame completo ou o uso de amostra maior pode ser apropriado ao executar os testes de detalhes.
+
+> O emprego de amostragem estatística é recomendável quando os itens da população apresentam características homogêneas. [Auditoria Contábil: teoria e prática. 10ª ed. São Paulo: Atlas, 2016, p.110]
 
 ## - Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria;
 ## - Testes em Áreas Específicas das Demonstrações Contábeis;

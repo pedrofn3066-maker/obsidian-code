@@ -838,6 +838,10 @@ Vejamos o art. 202 do CC.
 ### Das Obrigações Solidárias (arts. 264 a 285)
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3299?indice=1&materia=3289)
 
+### Do Inadimplemento das Obrigações — Mora do Devedor (art. 394 e ss.)
+
+**Art. 399.** O devedor em mora responde pela impossibilidade da prestação, embora essa impossibilidade resulte de caso fortuito ou de força maior, se estes ocorrerem durante o atraso; salvo se provar isenção de culpa, ou que o dano sobreviria ainda quando a obrigação fosse oportunamente desempenhada.
+
 ## - Contratos em geral;
 ### Princípios Contratuais no Código Civil
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3323?indice=1&materia=3320)

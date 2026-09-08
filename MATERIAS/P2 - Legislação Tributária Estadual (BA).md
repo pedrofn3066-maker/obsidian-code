@@ -190,6 +190,8 @@ ___
 ### Incidência do ICMS — hipóteses
 - [ ] status [dom:: 0] [peso:: 3]
 
+**Definição de mercadoria** (§2º, Lei estadual de ICMS): considera-se mercadoria, para efeitos de aplicação da legislação do ICMS, qualquer bem móvel, novo ou usado, suscetível de circulação econômica, inclusive semoventes, energia elétrica, mesmo quando importado do exterior para uso ou consumo do importador ou para incorporação ao ativo permanente do estabelecimento.
+
 ### Não incidência, isenções e imunidades
 - [ ] status [dom:: 0] [peso:: 3]
 
