@@ -1,4 +1,4 @@
-Referência dos slots (`S1`–`S5`) usados no campo `slot` de `Questoes/Diario`. Fonte: `Cronograma_SEFAZ_BA_2027.xlsx`, abas `Grade Semanal`, `Protocolo` e `Registro Diário`.
+	Referência dos slots (`S1`–`S5`) usados no campo `slot` de `Questoes/Diario`. Fonte: `Cronograma_SEFAZ_BA_2027.xlsx`, abas `Grade Semanal`, `Protocolo` e `Registro Diário`.
 
 ## O que cada slot significa
 
