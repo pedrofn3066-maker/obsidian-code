@@ -111,6 +111,15 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/3/assuntos/3818)
 
 **a)**  o verbo “prevê” recebe ~~acento diferencial para marcar o plural~~, concordando com o sujeito.
 **Incorreta**. A forma verbal <mark style="background:#fff88f">"prevê" está na 3ª pessoa do singular</mark>, portanto o acento circunflexo não marca plural, mas sim a sílaba tônica em uma palavra oxítona terminada em -E. O acento diferencial que indica plural ocorre com os verbos "ter", "vir" e respectivos derivados. Exemplos: eles vêm, eles têm, elas contêm, elas provêm etc.
+## Regência e crase
+- [ ] status [dom:: 0] [peso:: 2]
+![[Pasted image 20260823122647.png]]
+
+| <center>**  Bastante**<br>**advérbio**</center><br>                                                                                                                                                                                                                                            | **Bastante** <br><br>**adjetivo ou pronome indefinido**                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sentido de "muito"<br><br>Impessoal - não se flexiona (sempre no singular)<br><br>Ex: Estamos bastante cansadas.<br><br>Ex: João acordou bastante tarde.                                                                                                                                       | Sentido de “numeroso” ou “suficiente”<br><br>Flexiona-se de acordo com o termo a que se refere<br><br>Ex: Existem bastantes pássaros no jardim. (pronome indefinido)<br><br>Ex: Haverá horas bastantes para a fazermos a prova? (adjetivo) |
+| **Dica 1:** substitua "bastante" por "muito" e observe se você precisará empregar o plural. Se sim, o "bastante" também deverá ser flexionado. <br><br>**Dica 2:** se o termo “bastante” puder ser substituído por “suficiente”, será adjetivo e deverá concordar com o termo a que se refere. |                                                                                                                                                                                                                                            |
+
 ### Forma nominal não perde transitividade
 - [ ] status [dom:: 0] [peso:: 2]
 
@@ -126,14 +135,6 @@ Em "de afastar usuários das complexidades", há oração subordinada reduzida d
 
 ⚠️ **Pegadinha CEBRASPE:** sugerir que o verbo, por estar em forma nominal, deixaria de ter complementos verbais. A subordinação entre verbo e objeto permanece.
 
-## Regência e crase
-- [ ] status [dom:: 0] [peso:: 2]
-![[Pasted image 20260823122647.png]]
-
-| <center>**  Bastante**<br>**advérbio**</center><br>                                                                                                                                                                                                                                            | **Bastante** <br><br>**adjetivo ou pronome indefinido**                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Sentido de "muito"<br><br>Impessoal - não se flexiona (sempre no singular)<br><br>Ex: Estamos bastante cansadas.<br><br>Ex: João acordou bastante tarde.                                                                                                                                       | Sentido de “numeroso” ou “suficiente”<br><br>Flexiona-se de acordo com o termo a que se refere<br><br>Ex: Existem bastantes pássaros no jardim. (pronome indefinido)<br><br>Ex: Haverá horas bastantes para a fazermos a prova? (adjetivo) |
-| **Dica 1:** substitua "bastante" por "muito" e observe se você precisará empregar o plural. Se sim, o "bastante" também deverá ser flexionado. <br><br>**Dica 2:** se o termo “bastante” puder ser substituído por “suficiente”, será adjetivo e deverá concordar com o termo a que se refere. |                                                                                                                                                                                                                                            |
 ## Sintaxe
 - [ ] status [dom:: 0] [peso:: 2]
 
