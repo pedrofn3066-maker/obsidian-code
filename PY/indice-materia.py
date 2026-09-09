@@ -29,7 +29,7 @@ def indice(caminho: Path) -> str:
 
     # --- tabela VINTEUM: linhas "- [ ] Tópico [dom:: N] [peso:: P]" dentro
     #     da seção "## Checklist por importância" ---
-    m = re.search(r"^## Checklist por importância.*?\n(.*?)(?=\n## |\Z)", txt, re.S | re.M)
+    m = re.search(r"^## Checklist por importância.*?\n(.*?)(?=\n#{1,4}\s|\Z)", txt, re.S | re.M)
     if m:
         out.append("## VINTEUM (peso do edital × domínio atual)\n")
         linhas_chk = re.findall(
@@ -44,7 +44,7 @@ def indice(caminho: Path) -> str:
     # --- árvore de headings do corpo, pulando a seção VINTEUM/Checklist ---
     out.append("## Estrutura do corpo (heading → linha → dom)\n")
     fim_meta = 0
-    m2 = re.search(r"^## Checklist por importância.*?(?=\n# |\n## (?!Checklist))", txt, re.S | re.M)
+    m2 = re.search(r"^## Checklist por importância.*?(?=\n#{1,4}\s)", txt, re.S | re.M)
     if m2:
         fim_meta = txt[: m2.end()].count("\n")
 
