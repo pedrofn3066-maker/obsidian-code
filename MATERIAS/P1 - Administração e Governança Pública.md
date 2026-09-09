@@ -22,7 +22,6 @@ Cobertura preventiva. Disciplina de leitura rápida e alto rendimento em prova o
 ## - Administração Pública do modelo racional-legal ao paradigma pós burocrático;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Evolução da administração pública no Brasil;
-- [ ] status [dom:: 0] [peso:: 2]
 ### 1. REFORMAS ADMINISTRATIVAS
 - [ ] status [dom:: 0] [peso:: 2]
 - - **Disfunções:**
@@ -250,7 +249,6 @@ Algumas informações cobradas com frequências nas provas:
 ⚠️Os principais objetivos do DASP das eram: **modernizar a administração pública e suprimir o modelo patrimonialista.**
 
 ## - Governabilidade e governança: Intermediação de interesses (clientelismo, corporativismo e neocorporativismo); Princípios de governança pública. 
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### 3. INTERMEDIAÇÃO DE INTERESSES
 - [ ] status [dom:: 0] [peso:: 2]
@@ -328,7 +326,6 @@ III - que exijam **trabalhos adicionais de análise, interpretação ou consoli
 # - Bloco B:
 
 ## - Políticas públicas no Estado brasileiro contemporâneo:
-- [ ] status [dom:: 0] [peso:: 2]
     
 ### - O ciclo das políticas públicas (construção de agenda, formulação da política, processo decisório, implementação e avaliação);
 - [ ] status [dom:: 0] [peso:: 2]
@@ -350,7 +347,6 @@ III - que exijam **trabalhos adicionais de análise, interpretação ou consoli
 ## - Empreendedorismo Governamental;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Gestão por resultado.
-- [ ] status [dom:: 0] [peso:: 2]
 
 
 

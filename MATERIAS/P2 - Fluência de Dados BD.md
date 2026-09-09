@@ -258,10 +258,8 @@ Portanto, a afirmação de que uma zona de disponibilidade é composta por um co
 ## - Sublinguagens SQL (DDL, DML, DQL, DCL e DTL)
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Procedimentos Armazenados (Stored Procedures)
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### SGBD
-- [ ] status [dom:: 0] [peso:: 3]
 
 
 #### RECUPERAÇÃO DE DADOS 

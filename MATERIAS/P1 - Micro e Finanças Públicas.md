@@ -38,7 +38,6 @@ OBS: CUIDADO COM A LETRA B, ELA DIZ PREÇO DO BEM SUBSTITUTO , LOGO ELA ESTÀ D
 
 
 ## - Elasticidades;
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### Elasticidade Preço da Demanda
 - [ ] status [dom:: 0] [peso:: 2]
@@ -69,7 +68,6 @@ Matematicamente, a elasticidade da demanda é definida como a razão entre **a 
 
 # - Bloco B:
 ## - Teoria do Consumidor;
-- [ ] status [dom:: 0] [peso:: 2]
 ### -Restrição Orçamentária
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1617?indice=1&materia=1605)
@@ -95,7 +93,6 @@ Matematicamente, a elasticidade da demanda é definida como a razão entre **a 
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/12350?indice=1&materia=1605)
 
 ## - Teoria da Produção e dos Custos;
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### Produção
 - [ ] status [dom:: 0] [peso:: 2]
@@ -110,7 +107,6 @@ Matematicamente, a elasticidade da demanda é definida como a razão entre **a 
 ## - Eficiência econômica;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Falhas de Mercado.
-- [ ] status [dom:: 0] [peso:: 2]
 
 
 

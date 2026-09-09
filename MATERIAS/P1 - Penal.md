@@ -51,9 +51,7 @@ Não constava do edital baiano de 2019. Cobertura preventiva com recorte fiscal 
 ## -Princípios
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Aplicação da lei penal
-- [ ] status [dom:: 0] [peso:: 2]
 ### Aplicação da Lei Penal no Tempo (arts. 1º a 4º e 10 a 12 do CP)
-- [ ] status [dom:: 0] [peso:: 2]
     
 #### Conflitos de Leis Penais no Tempo (arts. 1º e 2º do CP)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -90,7 +88,6 @@ Parágrafo único. A lei posterior, que de qualquer modo favorecer o agente, **
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/4235?indice=1&materia=4228)
         
 ### Aplicação da Lei Penal no Espaço (arts. 6º a 9º do CP)
-- [ ] status [dom:: 0] [peso:: 2]
     
 #### Lugar do Crime (art. 6º do CP)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -114,7 +111,6 @@ Parágrafo único. A lei posterior, que de qualquer modo favorecer o agente, **
 
 
 ## - Teoria do crime
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### 1 - CRIME 
 - [ ] status [dom:: 0] [peso:: 2]
@@ -594,7 +590,6 @@ E o  **SONAMBULISMO**? Não há unanimidade, mas o entendimento majoritário 
 
 
 ### Ilicitude e suas Excludentes (arts. 23 a 25 do CP)
-- [ ] status [dom:: 0] [peso:: 2]
 
 #### Considerações Gerais sobre a Ilicitude e suas Excludentes (art. 23 do CP)
 - [ ] status [dom:: 0] [peso:: 2]

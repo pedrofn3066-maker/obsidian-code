@@ -76,7 +76,6 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 - [ ] status [dom:: 0] [peso:: 3]
 # Bloco C
 ## - Sistemas de Amortização;
-- [ ] status [dom:: 0] [peso:: 3]
 ### Sistema de Amortização Constante (SAC)
 - [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/20/assuntos/714?indice=1&materia=713)

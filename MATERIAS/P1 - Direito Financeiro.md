@@ -80,7 +80,6 @@ Em síntese, a Atividade Financeira do Estado consiste em:
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/389?indice=1&materia=6054)
 
 ## Orçamento Público
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### -Conceito e Natureza Jurídica do Orçamento Público
 - [ ] status [dom:: 0] [peso:: 2]
@@ -89,7 +88,6 @@ Em síntese, a Atividade Financeira do Estado consiste em:
 
 
 ### Classificações do Orçamento Público
-- [ ] status [dom:: 0] [peso:: 2]
 
 #### Tipos de Orçamento Público (Executivo, Legislativo, Misto)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -150,7 +148,6 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1740)
 # Bloco B:
 
 ## - Lei orçamentárias (LDO, PPA e LOA)
-- [ ] status [dom:: 0] [peso:: 2]
 ### PPA - Plano Plurianual (CF/1988 e Lei nº 4.320/1964)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1464?indice=1&materia=4226)
@@ -231,7 +228,6 @@ Art. 165 (...)
 # Bloco C:
 
 ## - Receita: Conceitos, classificações e estágio
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### Conceitos Gerais (Orçamentária e Extraorçamentária, Afetação Patrimonial, Regularidade, Coercitividade)
 - [ ] status [dom:: 0] [peso:: 2]

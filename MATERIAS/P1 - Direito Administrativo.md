@@ -206,7 +206,6 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 # Bloco D:
 
 ## - Agentes públicos.
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### Conceito para Agentes Públicos
 - [ ] status [dom:: 0] [peso:: 2]

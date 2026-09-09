@@ -20,7 +20,6 @@ Cobertura preventiva. Disciplina de leitura rápida e alto rendimento em prova o
 # - Bloco A:
 
 ## - Introdução à Administração
-- [ ] status [dom:: 0] [peso:: 2]
 ### - Organização
 - [ ] status [dom:: 0] [peso:: 2]
 ### - Administrador e Administração
@@ -123,7 +122,6 @@ resumo de administrador
 
 
 ## - Teorias Administrativas
-- [ ] status [dom:: 0] [peso:: 2]
 ### Escola Administração Científica
 - [ ] status [dom:: 0] [peso:: 2]
 #tec/resumo 

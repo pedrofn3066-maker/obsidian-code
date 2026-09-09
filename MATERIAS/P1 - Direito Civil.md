@@ -53,7 +53,6 @@ Não constava do edital baiano de 2019. Cobertura preventiva com recorte fiscal 
 # Bloco A:
 
 ## - Lei de Introdução às Normas do Direito Brasileiro (LINDB);
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### 1. LINDB - LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO
 - [ ] status [dom:: 0] [peso:: 2]
@@ -310,7 +309,6 @@ _🔦 **Art. 6º, LINDB:** A lei em vigor terá efeito imediato e geral, respe
 ## - Pessoas naturais;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Pessoas Jurídicas;
-- [ ] status [dom:: 0] [peso:: 2]
 ### Disposições Gerais - Pessoas Jurídicas (arts. 40 a 52)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/2013?indice=1&materia=3903)
@@ -874,7 +872,6 @@ Vejamos o art. 202 do CC.
 **Art. 399.** O devedor em mora responde pela impossibilidade da prestação, embora essa impossibilidade resulte de caso fortuito ou de força maior, se estes ocorrerem durante o atraso; salvo se provar isenção de culpa, ou que o dano sobreviria ainda quando a obrigação fosse oportunamente desempenhada.
 
 ## - Contratos em geral;
-- [ ] status [dom:: 0] [peso:: 2]
 ### Princípios Contratuais no Código Civil
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3323?indice=1&materia=3320)
@@ -895,9 +892,7 @@ Vejamos o art. 202 do CC.
 ## - Responsabilidade Civil;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Direito das Coisas;
-- [ ] status [dom:: 0] [peso:: 2]
 ### Dos Direitos Reais (arts. 1.225 a 1.510)
-- [ ] status [dom:: 0] [peso:: 2]
 
 #### Princípios Gerais dos Direitos Reais
 - [ ] status [dom:: 0] [peso:: 2]

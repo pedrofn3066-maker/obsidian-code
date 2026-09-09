@@ -119,7 +119,6 @@ i) o conhecimento da missão e objetivos estratégicos da entidade.
 # Bloco B:
 
 ## - Materialidade, Relevância e Risco em Auditoria Independente;
-- [ ] status [dom:: 0] [peso:: 2]
 
 #### 1. MATERIALIDADE E RELEVÂNCIA DE AUDITORIA
 - [ ] status [dom:: 0] [peso:: 2]
@@ -276,7 +275,6 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
 # Bloco D:
 
 ## - Auditoria Fiscal;
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### 1. DECRETO Nº 6.022/2007
 - [ ] status [dom:: 0] [peso:: 2]

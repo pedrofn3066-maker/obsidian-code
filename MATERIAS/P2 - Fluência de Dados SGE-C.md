@@ -56,7 +56,6 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 # - Bloco A:
 
 ## - Business Process Management — BPM
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1. Gerenciamento de Processos de Negócio (BPM)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -150,7 +149,6 @@ Responsabilidades de alguns papéis
 
 
 ## - Business Process Model and Notation — BPMN
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1. Business Process Model and Notation (BPMN)
 - [ ] status [dom:: 0] [peso:: 3]

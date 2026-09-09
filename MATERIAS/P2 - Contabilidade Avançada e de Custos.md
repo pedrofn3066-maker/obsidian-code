@@ -79,7 +79,6 @@ Nos editais FCC recentes vem como "Contabilidade Geral e Pública" — se a Bahi
 # Bloco A:
 
 ## - Contabilidade Básica;
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### Estrutura conceitual, princípios e regimes (CPC 00);
 - [ ] status [dom:: 0] [peso:: 2]  #revisar/7dias 
@@ -315,7 +314,6 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos o
 # Bloco B:
 
 ## CONTAS DO ATIVO
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### - Disponibilidades;
 - [ ] status [dom:: 0] [peso:: 3]
@@ -1181,7 +1179,6 @@ ___
 | Departamentalização                                            | 3,6%  |
 | Equivalente de Produção                                        | 2,3%  |
 ## - Bloco A: Funções, Terminologia e Classificação de Custos. NBC TSP 34.
-- [ ] status [dom:: 0] [peso:: 3]
 ### 1. Introdução à Contabilidade de Custos
 - [ ] status [dom:: 0] [peso:: 3]
 **1.1 Contabilidade Financeira x Contabilidade Gerencial**
@@ -1318,7 +1315,6 @@ Conforme o exemplo do autor Eliseu Martins: “_o que não é controlável pelo 
 ⚠️ Dessa forma, **você deve analisar se os custos ocorrem ou não dentro do departamento que está sendo analisado**. Se ocorrem fora do departamento X, não são controláveis por este, por exemplo. No entanto, conforme a explicação acima, é controlável por um outro que não o de referência.
 
 ## - Bloco B: Custeio por Absorção; Subprodutos, Sucatas e Coprodutos
-- [ ] status [dom:: 0] [peso:: 3]
 ### Subprodutos, Sucatas e Coprodutos
 - [ ] status [dom:: 0] [peso:: 3]
 ![[Pasted image 20260825154413.png|917]]

@@ -48,7 +48,6 @@ prioridade: crítico
 ## - NBC TSP - Estrutura Conceitual
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Regimes orçamentário e patrimonial
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL 
 - [ ] status [dom:: 0] [peso:: 3]
@@ -195,7 +194,6 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 ## - Avaliação patrimonial
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Aspectos de CASP
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### 3. ASPECTOS DE CASP 
 - [ ] status [dom:: 0] [peso:: 3]

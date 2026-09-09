@@ -60,7 +60,6 @@ Cobertura preventiva. Priorize o recorte que sustenta Finanças Públicas e a an
 ## - Conceitos Básicos;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Contas Nacionais;
-- [ ] status [dom:: 0] [peso:: 2]
 ### Conceitos e Identidades Macroeconômicos
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1651?indice=1&materia=1648)
@@ -111,7 +110,6 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1654)
 
 
 ## - Modelo Clássico e Keynesiano.
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### Modelo Keynesiano.
 - [ ] status [dom:: 0] [peso:: 2]

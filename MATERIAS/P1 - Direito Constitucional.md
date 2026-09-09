@@ -65,7 +65,6 @@ Duas matérias grandes disputando quinze questões — o retorno marginal cai r�
 # Bloco A:
 
 ## - Teoria Geral do Direito Constitucional;
-- [ ] status [dom:: 0] [peso:: 2]
 ### Direito Constitucional: Conceito e Fontes. Estado, Povo, Território, etc.
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/6052?indice=1&materia=15225)
@@ -398,7 +397,6 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 ## - Princípios Fundamentais (art. 1º a 4º);
 - [ ] status [dom:: 0] [peso:: 2]
 ## Remédios Constitucionais (art. 5º, LXVIII a LXXIII e LXXVII da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### - Habeas Corpus
 - [ ] status [dom:: 0] [peso:: 2]
@@ -424,7 +422,6 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indic
 
 
 ## - Direitos e Garantias Fundamentais (art. 6º a 17);
-- [ ] status [dom:: 0] [peso:: 2]
 
 
 ### - Direitos Sociais e dos Trabalhadores (arts. 6º e 7º da CF/1988)]
@@ -437,7 +434,6 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/374?indic
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/375?indice=1&materia=370)
 
 ### - Da Nacionalidade (arts. 12 e 13 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
     
 #### Espécies de Nacionalidade (Brasileiros Natos e Naturalizados
 - [ ] status [dom:: 0] [peso:: 2]
@@ -460,7 +456,6 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/375?indic
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/6022?indice=1&materia=370)
         
 ### Direitos Políticos (arts. 14 a 16 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
     
 #### Soberania Popular (Voto, Plebiscito, Referendo, Iniciativa Popular), Alistamento e Elegibilidade
 - [ ] status [dom:: 0] [peso:: 2]
@@ -579,7 +574,6 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 
 
 ## - Administração Pública (arts. 37 a 43);
-- [ ] status [dom:: 0] [peso:: 2]
 ### Dos Servidores Públicos (arts. 39 a 41 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 Resumo tec:
@@ -760,9 +754,7 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 ## - Poder Judiciário (arts. 92 a 126);
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Funções Essenciais à Justiça (arts. 127 a 135);
-- [ ] status [dom:: 0] [peso:: 2]
 ### -  Ministério Público (arts. 127 a 130 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
         
 #### - Princípios Institucionais (Ministério Público)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -811,7 +803,6 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 ## - Controle de Constitucionalidade;
 - [ ] status [dom:: 0] [peso:: 2]
 ## Sistema Tributário Nacional (arts. 145 a 162 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
 
 ### Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -848,7 +839,6 @@ III - **a forma e o prazo para ressarcimento de créditos acumulados pelo c
 
 
 ## - Finanças Públicas (arts. 163 a 169)
-- [ ] status [dom:: 0] [peso:: 2]
 ### Normas Gerais (Finanças Públicas, arts. 163 e 164-A da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3220?indice=1&materia=457)

@@ -146,7 +146,6 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 ## Competência Tributária;   
 - [ ] status [dom:: 0] [peso:: 3]
 ## Legislação Tributária;   
-- [ ] status [dom:: 0] [peso:: 3]
 ### VIGÊNCIA DA LEGISLAÇÃO TRIBUTÁRIA(arts. 101 a 106 do CTN);
 - [ ] status [dom:: 0] [peso:: 3]
 tec resumo:
@@ -163,7 +162,6 @@ tec resumo:
 Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?indice=1&materia=589).
 
 ## Obrigação Tributária.
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### Fato Gerador (arts. 114 a 118 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -209,7 +207,6 @@ VII - os sócios, no caso de liquidação de sociedade de pessoas.
   
 # Bloco C:   
 ## Crédito Tributário;   
-- [ ] status [dom:: 0] [peso:: 3]
 ### Lançamento
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -238,7 +235,6 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 - [ ] status [dom:: 0] [peso:: 3]
 
 ## Administração Tributária;  
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### Fiscalização Tributária (arts. 194 a 200 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -269,7 +265,6 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
   
 # Bloco D:   
 ## Simples Nacional;
-- [ ] status [dom:: 0] [peso:: 3]
 ### Das Disposições Preliminares (arts. 1º e 2º da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
 - #tec/resumo 
@@ -306,7 +301,6 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 
 
 ## Impostos Federais, Estaduais, Municipais
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1. Introdução ao Imposto Predial e Territorial Urbano - IPTU
 - [ ] status [dom:: 0] [peso:: 3]
@@ -340,7 +334,6 @@ O **Direito Processual Tributário** compreende o conjunto de normas que regulam
 
 - #dominio/baixo 
 ## 1. Introdução à Execução Fiscal
-- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1.1. Constituição Definitiva do Crédito Tributário
 - [ ] status [dom:: 0] [peso:: 3]
