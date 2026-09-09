@@ -42,7 +42,7 @@ WHERE materia AND data = date(today) - dur(1 day)
 SORT slot ASC
 ```
 
-Se vier vazio, ontem foi dia de leitura e anotação, não de questões. Muda o S1: não há erro recente para atacar, então a recuperação é de conteúdo novo — mais frágil, porque nunca foi testado.
+Se vier vazio, **não conclua que ontem não teve questões** — conclua que não teve registro. Confira no TEC antes: caderno resolvido e não lançado é o modo de falha mais comum aqui, e ele esconde justamente a informação mais valiosa do S1, que é o par erro → anotação. Só depois de confirmar que o dia foi mesmo de leitura vale a leitura de "recuperação de conteúdo novo, nunca testado".
 
 ## 3. O que você escreveu (não só onde)
 
@@ -88,12 +88,14 @@ Anotação manual dos S1 em que apareceu algum padrão que valha lembrar. Não p
 
 **Não conta como terça:** Língua Portuguesa (formas nominais, "tão… que"), Cont. Avançada (classificação no BP por intenção) e Direito Tributário (imagem da CF) foram escritos na **segunda (07/09)** e só entraram no commit de recuperação das 19:09 de terça.
 
+**Cadernos da terça** (importados do TEC só em 09/09, por isso o bloco 2 aparecia vazio): 24 questões, 20 acertos, 83% — Auditoria 9/11 · Direito Civil 8/10 · Cont. Geral 2/2 · LTE 1/1.
+
 **Três padrões:**
 
-- **A segunda seguiu a grade; a terça não.** Segunda é S2 Cont. Avançada · S3 Direito Tributário · S4 Língua Portuguesa — e foi exatamente isso que o `mtime` do dia 07 mostra. Terça é S2 LTE · S3 Cont. Avançada · S4 Auditoria (60 min, o menor slot) · S5 Finanças Públicas: na prática LTE levou 1 linha, Cont. Avançada e Finanças Públicas levaram **zero**, e Auditoria — o menor slot do dia — levou cinco blocos. LTE vale 75 pontos (`crítico`); Auditoria vale 15 (`importante`).
-- **A pesquisa longa caiu no tópico mais barato.** As horas de SPED/NF-e alimentam "Tópicos de Auditoria Fiscal (NF-e e EFD)" — **4,3%**, o último da tabela VINTEUM da matéria. "Testes em Áreas Específicas" (**21,7%**, `dom:: 3`) e "Auditoria Interna e Controle Interno" (**6,6%**, `dom:: 0`) não foram tocados: são, respectivamente, o maior ganho potencial e o maior buraco da disciplina.
-- **A anotação mais valiosa do dia custou uma linha.** A definição de mercadoria (ICMS, 15,5%, `dom:: 0`) veio da captura rápida pelo Atalho, não da pesquisa longa. Tempo investido e ponto ganho não andam juntos.
+- **A escrita da terça foi correção de erro, não leitura solta.** Os dois erros de Auditoria — Contingências e Estimativas Contábeis, e Utilização do Trabalho de Outros Profissionais — são exatamente os dois tópicos anotados no mesmo dia (NBC TA 540 e A9). O erro de Direito Civil foi em "Da Mora", e a anotação do dia foi o art. 399. O ciclo errar → anotar funcionou; não é preciso corrigi-lo.
+- **O problema está a montante, na escolha do caderno.** Num dia de 24 questões, Auditoria levou 11 e LTE levou 1. Auditoria vale 15 pontos (`importante`); LTE vale 75 (`crítico`) e é o primeiro critério de desempate da área. A terça também deixou Cont. Avançada (S3, 90 min) e Finanças Públicas (S5) com zero. A segunda, em contraste, seguiu a grade à risca.
+- **Um erro não virou nota.** "Das Obrigações Alternativas (arts. 252 a 256)", 0/1, é o único erro da terça sem correção escrita em lugar nenhum. Os outros três geraram anotação no mesmo dia.
 
-**Lição de método:** este registro nasceu errado. A primeira versão atribuiu à terça três notas da segunda, porque foi montada a partir de `git log --since`, que filtra por data de commit. Foi o bloco 1 que pegou a discrepância. É a razão de o painel ter os dois blocos em vez de só o git.
+**Lição de método:** este registro nasceu errado duas vezes. Primeiro atribuiu à terça três notas da segunda, porque foi montado com `git log --since`, que filtra por data de commit — o bloco 1 pegou. Depois concluiu que a terça não teve questões, quando na verdade os cadernos existiam e só não tinham sido lançados. **Bloco 2 vazio não significa "dia sem questões", significa "dia sem registro"** — confira no TEC antes de tirar conclusão sobre o dia.
 
 **Resolvido em 2026-09-09:** o bloco SPED estava solto no fim de `MATERIAS/P1 - Auditoria.md`, fora do tópico "Auditoria Fiscal" a que pertence — o checklist não o contabilizava como progresso. Reaninhado sob `## - Auditoria Fiscal;` (commit `9609869`).
