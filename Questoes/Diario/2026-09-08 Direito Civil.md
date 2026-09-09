@@ -13,11 +13,11 @@ assuntos:
   - Exceção do Contrato Não Cumprido (arts. 476 e 477)
   - Da Compra e Venda (arts. 481 a 532)
   - Da Empreitada (arts. 610 a 626)
-slot:
+slot: S5
 total: 10
 acertos: 8
 tempo_min:
-erro_tipo:
+erro_tipo: desatencao
 banca:
 origem: TEC (importado)
 tec:

@@ -5,7 +5,7 @@ materia: Legislação Tributária Estadual
 bloco: Legislação Tributária
 assuntos:
   - Ajuste SINIEF nº 07/2005 — Nota Fiscal Eletrônica e DANFE
-slot:
+slot: S2
 total: 1
 acertos: 1
 tempo_min:

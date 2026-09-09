@@ -13,11 +13,11 @@ assuntos:
   - Documentação de Auditoria/Papéis de Trabalho
   - Controle Interno da Entidade Auditada
   - Aspectos Gerais da Auditoria Interna
-slot:
+slot: S5
 total: 11
 acertos: 9
 tempo_min:
-erro_tipo:
+erro_tipo: desatencao
 banca:
 origem: TEC (importado)
 tec:

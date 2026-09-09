@@ -6,7 +6,7 @@ bloco: Cont. Geral e Pública
 assuntos:
   - Conceitos de SPED e seus Módulos
   - Instruções Normativas da RFB sobre Escrituração Contábil Digital
-slot:
+slot: S2
 total: 2
 acertos: 2
 tempo_min:
