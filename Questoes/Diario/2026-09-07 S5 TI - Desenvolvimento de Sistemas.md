@@ -2,7 +2,7 @@
 tipo: caderno
 data: 2026-09-07
 materia: TI - Desenvolvimento de Sistemas
-bloco:
+bloco: Fluência de Dados
 assuntos:
   - Arquitetura em Camadas
   - MVC
