@@ -111,16 +111,20 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/3/assuntos/3818)
 
 **a)**  o verbo “prevê” recebe ~~acento diferencial para marcar o plural~~, concordando com o sujeito.
 **Incorreta**. A forma verbal <mark style="background:#fff88f">"prevê" está na 3ª pessoa do singular</mark>, portanto o acento circunflexo não marca plural, mas sim a sílaba tônica em uma palavra oxítona terminada em -E. O acento diferencial que indica plural ocorre com os verbos "ter", "vir" e respectivos derivados. Exemplos: eles vêm, eles têm, elas contêm, elas provêm etc.
-- <mark style="background:rgba(240, 200, 0, 0.2)">gemini</mark>
-Sua observação é excelente! Você tem toda a razão ao identificar que "afastar" está no infinitivo e que o infinitivo é, de fato, uma forma nominal do verbo.
-O "pulo do gato" da gramática aqui é o seguinte: **mesmo estando em uma forma nominal (infinitivo, gerúndio ou particípio), o verbo não perde a sua natureza verbal nem a sua transitividade.** Ele continua exigindo complementos verbais (objetos diretos e indiretos).
-Apesar de se chamarem "formas nominais" (porque podem assumir papel de substantivo, adjetivo ou advérbio dependendo do contexto da frase), dentro da própria estrutura delas, elas continuam agindo como verbos.
-Veja como a regra de regência do verbo (quem afasta, afasta **alguém**) se mantém igual, não importa a forma em que ele se encontre:
-- **Infinitivo:** O risco de afastar **usuários**. _(Afastar quem? Usuários = objeto direto)_
-- **Gerúndio:** A IA está afastando **usuários**. _(Afastando quem? Usuários = objeto direto)_
-- **Conjugado no presente:** A IA afasta **usuários**. _(Afasta quem? Usuários = objeto direto)_
-No trecho da questão, "de afastar usuários das complexidades..." forma o que chamamos de oração subordinada reduzida de infinitivo. Dentro dessa oração, "afastar" atua como o núcleo verbal, e "usuários" é o seu complemento direto.
-A banca CEBRASPE adora explorar esse detalhe para confundir o candidato, tentando fazer você pensar que, por ser uma forma nominal, o verbo deixaria de ter complementos verbais. Mas a relação de subordinação entre o verbo e o seu objeto permanece intacta!
+### Forma nominal não perde transitividade
+
+Infinitivo, gerúndio e particípio chamam-se **formas nominais** porque podem exercer papel de substantivo, adjetivo ou advérbio. <mark style="background:#fff88f">Isso não retira do verbo a natureza verbal nem a transitividade</mark> — ele continua exigindo complemento verbal, objeto direto ou indireto.
+
+*Afastar* pede objeto direto em qualquer das formas:
+
+- **Infinitivo** — o risco de afastar **usuários** *(afastar quem? → objeto direto)*
+- **Gerúndio** — a IA está afastando **usuários** *(afastando quem? → objeto direto)*
+- **Presente** — a IA afasta **usuários** *(afasta quem? → objeto direto)*
+
+Em "de afastar usuários das complexidades", há oração subordinada reduzida de infinitivo: *afastar* é o núcleo verbal, *usuários* o complemento direto.
+
+⚠️ **Pegadinha CEBRASPE:** sugerir que o verbo, por estar em forma nominal, deixaria de ter complementos verbais. A subordinação entre verbo e objeto permanece.
+
 ## Regência e crase
 - [ ] status [dom:: 0] [peso:: 2]
 ![[Pasted image 20260823122647.png]]
