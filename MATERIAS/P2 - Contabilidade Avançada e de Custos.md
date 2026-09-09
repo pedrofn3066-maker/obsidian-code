@@ -534,36 +534,16 @@ Exemplos: Reserva Legal, Reserva para Expansão, Reserva de Lucros a Realizar.
 ![[Pasted image 20260820104358.png|880]]
 
 
-### GEMINI 
+### Ágio de controlada no exterior — conversão cambial
 - [ ] status [dom:: 0] [peso:: 3]
- 1. O que é o Ágio (Goodwill)?
-A Cia Brasil descobre que a Cia EUA tem uma marca muito forte e vai dar muito lucro no futuro. Por isso, a Cia Brasil aceita pagar um valor **maior** do que a Cia EUA realmente vale no papel.
-- Esse valor pago a mais pela "expectativa de rentabilidade futura" é o famoso **Ágio (Goodwill)**.
 
- 2. De quem é esse ativo? (A regra de ouro do CPC 02)
+O ágio (goodwill) apurado na aquisição de controlada/coligada no exterior é <mark style="background:#fff88f">tratado como ativo da entidade no exterior</mark>, não da investidora — por isso é expresso na **moeda funcional** de lá, não em Reais.
 
-Aqui é onde a maioria dos candidatos erra. A tendência natural é pensar: _"Se a Cia Brasil pagou, o ágio é um ativo brasileiro, registrado em Reais"_. **Errado.**
-- O CPC 02 entende que esse potencial de lucro futuro (o ágio) está grudado, atrelado à operação que existe lá nos Estados Unidos.
-- Portanto, a norma diz: esse ágio deve ser tratado como um **ativo da entidade no exterior**.
+Na conversão para o Balanço Patrimonial consolidado, usa-se a **taxa de câmbio de fechamento** (é item patrimonial).
 
- 3. A Moeda Funcional
-Se o CPC mandou considerar o ágio como um ativo que "mora" lá nos EUA, ele precisa falar a língua de lá.
-- Por isso, o valor do ágio não fica fixo em Reais, mas sim **expresso na moeda funcional da entidade no exterior**(neste nosso exemplo, em Dólares).
- 4. A Conversão pela "Taxa de Fechamento"
-Chegou o dia 31 de dezembro. A Cia Brasil precisa fechar seu Balanço Patrimonial consolidado em Reais. Ela tem que pegar aquele ágio que está lá em Dólares e converter para Reais.
-- Qual cotação do dólar usar? Como o ágio é considerado um ativo (item patrimonial), usa-se a cotação do último dia do ano, ou seja, a **taxa de câmbio de fechamento**.
-5. Por que a variação vai para os "Outros Resultados Abrangentes" (ORA)?
+⚠️ **Pegadinha FCC:** a variação cambial resultante da conversão do ágio **não vai para a DRE** — é ganho/perda teórico, sem entrada de caixa. Vai para **Outros Resultados Abrangentes (ORA)**, dentro do PL, na conta *Ajuste Acumulado de Conversão*.
 
-Imagine que, quando a compra aconteceu, o dólar custava R$ 5,00. No fim do ano (fechamento), o dólar subiu para R$ 6,00. Ao converter o ágio para o balanço em Reais, o ativo "aumentou de valor" só por causa da alta do dólar. Houve um "ganho" cambial.
-- A Cia Brasil deve registrar esse ganho como Lucro na sua DRE? **Não.**
-- O CPC entende que a Cia Brasil não tem a intenção de vender a Cia EUA agora, então esse "ganho" com o dólar é apenas **teórico/contábil** (não é dinheiro real entrando no caixa).
-- Para não inflar a DRE com um lucro falso, a regra manda jogar essa variação cambial direta no Patrimônio Líquido, numa conta chamada **Outros Resultados Abrangentes (ORA)** (especificamente em _Ajuste Acumulado de Conversão_). Lá, esse valor fica "escondido" e não afeta o lucro líquido do exercício.
- Resumo para a Prova da FCC:
-Quando bater o olho em uma questão de **Ágio de controlada no exterior**, lembre-se do combo:
-1. **Onde fica?** É ativo da entidade lá fora.
-2. **Qual moeda?** Moeda funcional de lá.
-3. **Qual taxa para converter?** Taxa de Fechamento.
-4. **Para onde vai a diferença cambial?** ORA (Patrimônio Líquido), e nunca para a DRE.
+Combo de prova: (1) ativo da entidade no exterior — (2) moeda funcional de lá — (3) taxa de fechamento — (4) diferença cambial → ORA/PL, nunca DRE.
 
 ### 5. Resultado da Equivalência Patrimonial (REP)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -1178,7 +1158,21 @@ ___
 | Custeio Direto/Variável                                        | 4,9%  |
 | Departamentalização                                            | 3,6%  |
 | Equivalente de Produção                                        | 2,3%  |
-## - Bloco A: Funções, Terminologia e Classificação de Custos. NBC TSP 34.
+
+## Checklist por importância (VINTEUM)
+
+- [ ] Ponto de equilíbrio: relação custo/volume/resultado [dom:: 0] [peso:: 20.1]
+- [ ] Custeio por absorção: caso geral sem departamentalização [dom:: 0] [peso:: 15.9]
+- [ ] Classificação de custos: variável, fixo, direto, indireto [dom:: 0] [peso:: 11.9]
+- [ ] Definições — diferença entre gastos, despesas, custos e perdas [dom:: 0] [peso:: 11.4]
+- [ ] Margem de contribuição [dom:: 0] [peso:: 9.3]
+- [ ] Custo Padrão [dom:: 0] [peso:: 7.2]
+- [ ] Custeio Baseado em Atividades (ABC) [dom:: 0] [peso:: 5.8]
+- [ ] Custeio Direto/Variável [dom:: 0] [peso:: 4.9]
+- [ ] Departamentalização [dom:: 0] [peso:: 3.6]
+- [ ] Equivalente de Produção [dom:: 0] [peso:: 2.3]
+
+## - Bloco A: Funções, Terminologia e Classificação de Custos. NBC TSP 34.
 ### 1. Introdução à Contabilidade de Custos
 - [ ] status [dom:: 0] [peso:: 3]
 **1.1 Contabilidade Financeira x Contabilidade Gerencial**
