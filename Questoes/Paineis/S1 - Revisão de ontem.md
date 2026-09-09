@@ -48,19 +48,22 @@ Se vier vazio, **não conclua que ontem não teve questões** — conclua que n�
 
 Os blocos acima dizem em que arquivo você mexeu. Para ver o **texto** que entrou, é preciso git — o Dataview não lê histórico. Use o git pelo *conteúdo*, e o bloco 1 pela *data*: `--since` filtra por data de commit, então um commit de recuperação vai te mostrar, sob a data de ontem, coisa escrita dias antes. Cruze sempre com a tabela do bloco 1 antes de concluir que escreveu algo ontem.
 
-No Terminal, na pasta do vault:
+Está empacotado em `PY/s1-ontem.sh`. No Terminal — a aba ao lado da conversa no Claude Code, ou o Terminal.app — cole:
 
 ```
-git log --since=yesterday.midnight --until=today.midnight --name-status --format=">>> %ad %s" --date=format:"%H:%M"
+sh "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.sh"
 ```
 
-E para ler o conteúdo linha a linha, com contexto de onde caiu:
+Funciona de qualquer diretório; o script se localiza sozinho. Acrescente `-p` no fim para ver o **texto** que entrou em vez de só a lista de arquivos:
 
 ```
-git log --since=yesterday.midnight --until=today.midnight -p -- MATERIAS/
+sh "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.sh" -p
 ```
 
-Isso só funciona para o que já foi commitado. O que você escreveu ontem e ainda não commitou não aparece em nenhum dos dois — aparece em `git diff` puro, sem argumento de data.
+O script já resolve três coisas que o comando cru erra: mostra acentos em vez de `L\303\255ngua` (precisa de `core.quotepath=false`), corta o ruído de `.obsidian/` e `Z IMG/`, e lista no fim o que você escreveu mas **ainda não commitou** — que não aparece em nenhum `git log`, por definição.
+
+> [!note]- Por que não dá pra pedir lista de arquivos e conteúdo de uma vez
+> `--name-status` e `-p` são ambos formato de diff, e o `--name-status` vence seja qual for a ordem em que você escreva. Por isso o script escolhe um ou outro em vez de empilhar os dois.
 
 ## 4. Como rodar os 30 min
 
