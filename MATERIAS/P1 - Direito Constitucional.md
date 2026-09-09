@@ -65,7 +65,9 @@ Duas matérias grandes disputando quinze questões — o retorno marginal cai r�
 # Bloco A:
 
 ## - Teoria Geral do Direito Constitucional;
+- [ ] status [dom:: 0] [peso:: 2]
 ### Direito Constitucional: Conceito e Fontes. Estado, Povo, Território, etc.
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/6052?indice=1&materia=15225)
 
 ![[Pasted image 20260901165228.png]]
@@ -82,6 +84,7 @@ Este conceito busca o equilíbrio. Para o autor, a Constituição ideal é uma s
 
 
 ### Formas de Estado e Governo, Sistemas de Governo, Separação de Poderes. Freio e Contrapesos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/356?indice=1&materia=15225)
 
 ![](https://www.techconcursos.com.br/img/teoria/importante.png)
@@ -95,14 +98,18 @@ d. **Regime de Governo**: _Democracia Participativa_.
 
 
 ### Constitucionalismo e Neoconstitucionalismo
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1948?indice=1&materia=15225)
     
 ### Princípios Constitucionais Sensíveis, Estabelecidos e Extensíveis
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/357?indice=1&materia=15225)
     
 ### Histórico das Constituições no Brasil
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/4204?indice=1&materia=15225)
 ### 2. Princípios Fundamentais
+- [ ] status [dom:: 0] [peso:: 2]
 
 - - **Fundamentos da república**
 
@@ -131,6 +138,7 @@ Para que uma Constituição **não seja apenas um símbolo, ela precisa atender
  Caso não possa mudar nunca, torna-se obsoleta ou perde eficácia prática.
 
 ## - Constituição - Conceito, Estrutura e Classificação;
+- [ ] status [dom:: 0] [peso:: 2]
 
 **1. Conceitos da Constituição Federal de 1988**
 
@@ -324,6 +332,7 @@ QUANTO À EXTENSÃO:
 |**Extensão**|**Analítica (Prolixa, Longa)**|Texto **detalhado e abrangente**, trata de diversos temas além da organização estatal.|
 |**Finalidade**|**Dirigente (Programática)**|Traça **objetivos e diretrizes para a ação do Estado** com **normas programáticas**.|
 ## - Eficácia, Aplicação e Interpretação das normas constitucionais;
+- [ ] status [dom:: 0] [peso:: 2]
 
 **3. Eficácia e Aplicabilidade das Normas Constitucionais** 🔥🔥
 
@@ -368,6 +377,7 @@ A pirâmide representa bem como funciona a hierarquia das normas.
     - **4ª Normas infralegais:** instruções normativas, decretos regulamentares (não geram direitos ou deveres).
 
 ## - Poder Constituinte; 
+- [ ] status [dom:: 0] [peso:: 2]
 - #dominio/baixo [cad:: 3d] [prox:: 2026-08-24]
 
 **- Poder Constituinte Originário:** cria uma nova ordem constitucional. Segundo Pedro Lenza, também pode ser chamado de inicial, inaugural, genuíno ou de 1º grau; não se destina a alterações do texto constitucional já vigente, mas sim à criação de uma nova Constituição.
@@ -386,56 +396,74 @@ A pirâmide representa bem como funciona a hierarquia das normas.
     - **Controle Concentrado de Constitucionalidade**: a análise da constitucionalidade das normas é atribuída a um órgão específico, geralmente um tribunal ou uma corte constitucional. Nesse sistema, o i**ntérprete último da Constituição é responsável por garantir a compatibilidade das normas com os princípios e valores constitucionais**. O controle concentrado de constitucionalidade pode ser aplicado em conjunto com diferentes métodos de interpretação, dependendo das características do sistema jurídico em questão.
  
 ## - Princípios Fundamentais (art. 1º a 4º);
+- [ ] status [dom:: 0] [peso:: 2]
 ## Remédios Constitucionais (art. 5º, LXVIII a LXXIII e LXXVII da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### - Habeas Corpus
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/377?indice=1&materia=370)
     
 ### -Mandado de Segurança
+- [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indice=1&materia=370)
 - O mandado de segurança é um instrumento jurídico que visa proteger direitos líquidos e certos **que não podem ser amparados por habeas corpus ou habeas data**, quando o responsável pela ilegalidade ou pelo abuso de poder for autoridade pública ou **_agente de pessoa jurídica no exercício de atribuições do poder público_**. Ou seja, **não é qualquer direito líquido e certo**.
 • A) Correta: A CFl, no seu art. 7º, inciso XXI, estabelece como direito dos trabalhadores urbanos e rurais o "aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei".
     
 ### -Mandado de Injunção
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/379?indice=1&materia=370)
     
 ### -Habeas Data
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/380?indice=1&materia=370)
     
 ### -Ação Popular
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/2080?indice=1&materia=370)
 
 
 ## - Direitos e Garantias Fundamentais (art. 6º a 17);
+- [ ] status [dom:: 0] [peso:: 2]
 
 
 ### - Direitos Sociais e dos Trabalhadores (arts. 6º e 7º da CF/1988)]
+- [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/374?indice=1&materia=370)
 
 ### Direitos Coletivos dos Trabalhadores (arts. 8º a 11 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/375?indice=1&materia=370)
 
 ### - Da Nacionalidade (arts. 12 e 13 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
     
 #### Espécies de Nacionalidade (Brasileiros Natos e Naturalizados
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3247?indice=1&materia=370)
         
 #### Distinções Constitucionais entre Brasileiros Natos e Naturalizados
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3248?indice=1&materia=370)
         
 #### Perda da Nacionalidade
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3260?indice=1&materia=370)
         
 #### Extradição, Deportação, Expulsão e Banimento (da Nacionalidade)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1949?indice=1&materia=370)
         
 #### Dos Símbolos e Idioma da República (art. 13 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/6022?indice=1&materia=370)
         
 ### Direitos Políticos (arts. 14 a 16 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
     
 #### Soberania Popular (Voto, Plebiscito, Referendo, Iniciativa Popular), Alistamento e Elegibilidade
+- [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1878?indice=1&materia=370)
         
 > As idades mínimas para se candidatar a cargos eletivos no Brasil são:  
@@ -447,6 +475,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1878?indi
 > **Art. 14, § 5º** O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um único período subsequente.
 
 #### Inelegibilidades (Direitos Políticos)
+- [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1881?indice=1&materia=370)
 
 
@@ -467,6 +496,7 @@ Neste cenário, é importante destacar o que entende o TSE a respeito da possibi
 Em resumo, considerando a substituição ou sucessão para o cargo de titular do Executivo, temos:
 
 #### Perda e Suspensão dos Direitos Políticos
+- [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1882?indice=1&materia=370)
 
 > **Sumula 9 do TSE**: **A suspensão de direitos políticos decorrente de condenação criminal transitada em julgado cessa com o cumprimento ou a extinção da pena, independente de reabilitação ou de prova de reparação dos danos**. 
@@ -474,6 +504,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1882?indi
 Ou seja, **ao cumprir sua pena, João recuperou seus direitos políticos**, o que, obviamente, inclui sua capacidade eleitoral passiva, de modo que **poderá concorrer às eleições, desde que observadas as condições de elegibilidade previstas no  §3°, do art. 14, da Constituição Federal.**
         
 #### Partidos Políticos (art. 17 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3187?indice=1&materia=370)
 
 
@@ -484,7 +515,9 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3187?indi
 
 # Bloco B:
 ## - Organização do Estado (arts. 18 a 33);
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Intervenção Federal e Estadual (arts. 34 a 36 da CF/1988);
+- [ ] status [dom:: 0] [peso:: 2]
 Resumo tec:
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/443).
@@ -546,7 +579,9 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 
 
 ## - Administração Pública (arts. 37 a 43);
+- [ ] status [dom:: 0] [peso:: 2]
 ### Dos Servidores Públicos (arts. 39 a 41 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 Resumo tec:
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/2981).
@@ -566,6 +601,7 @@ Resumo tec:
 # Bloco C:
 
 ## - Poder Legislativo (arts. 44 a 75);
+- [ ] status [dom:: 0] [peso:: 2]
 
 Complementando o comentário do amigo: **Como será externalizada essa competência privativa do Senado Federal? Será por meio de RESOLUÇÃO.**
 **Sobre as competências exclusivas das Casas:**
@@ -575,11 +611,13 @@ Complementando o comentário do amigo: **Como será externalizada essa competê
 
 
 ### Do Congresso Nacional (arts. 44 a 47 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/396?indice=1&materia=1951)
 
 
     
 ### - Das Atribuições do Congresso Nacional (arts. 48 a 50 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/397?indice=1&materia=1951)
 
 
@@ -587,6 +625,7 @@ Complementando o comentário do amigo: **Como será externalizada essa competê
 ![[Pasted image 20260822170658.png]]
 
 #### Resumo do capítulo
+- [ ] status [dom:: 0] [peso:: 2]
 
 **📘 Funcionamento Geral do Congresso Nacional**
 
@@ -652,9 +691,11 @@ Complementando o comentário do amigo: **Como será externalizada essa competê
 
     
 ### - Da Câmara dos Deputados (art. 51 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/399?indice=1&materia=1951)
     
 ### - Do Senado Federal (art. 52 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/398?indice=1&materia=1951)
 
 Bloco 3: Função Econômica e Federativa
@@ -668,15 +709,19 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 #dica/vespera
     
 ### - Dos Deputados e Senadores (arts. 53 a 56 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/400?indice=1&materia=1951)
     
 ### - Das Reuniões (art. 57 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1883?indice=1&materia=1951)
     
 ### - Das Comissões Parlamentares - Permanentes e Temporárias (art. 58 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/2079?indice=1&materia=1951)
 
 ## Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 **Congresso Nacional (art. 49, V, CF)**
 
 **SUSTA**:
@@ -699,45 +744,61 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 <mark style="background:rgba(240, 200, 0, 0.2)">Congresso susta atos que exorbitem o regulamentar</mark>
 
 ### - Competências para Fiscalização e Tribunal de Contas da União (arts. 70 a 73 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/403?indice=1&materia=1951)
     
 ### - Sistema de Controle Interno (art. 74 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/2635?indice=1&materia=1951)
     
 ### - Tribunais de Contas Estaduais, Distrital e Municipais
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/404?indice=1&materia=1951)
 
 ## - Poder Executivo (arts. 76 a 91);
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Poder Judiciário (arts. 92 a 126);
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Funções Essenciais à Justiça (arts. 127 a 135);
+- [ ] status [dom:: 0] [peso:: 2]
 ### -  Ministério Público (arts. 127 a 130 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
         
 #### - Princípios Institucionais (Ministério Público)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3210?indice=1&materia=1951)
             
 #### - Funções Institucionais (Ministério Público)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3212?indice=1&materia=1951)
             
 #### - Composição do Ministério Público
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3211?indice=1&materia=1951)
             
 #### - Garantias e Vedações (Ministério Público)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3213?indice=1&materia=1951)
             
 #### - Ministério Público junto aos Tribunais de Contas
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3214?indice=1&materia=1951)
             
 #### - Conselho Nacional do Ministério Público - CNMP
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3222?indice=1&materia=1951)
             
 #### - Ministério Público dos Estados e Distrito Federal e Territórios
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3215?indice=1&materia=1951)
             
             
 ### - Da Advocacia Pública (arts. 131 e 132 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/454?indice=1&materia=1951)
         
 ### - Advocacia Privada e Defensoria Pública (arts. 133 a 135 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/456?indice=1&materia=1951)
         
 
@@ -748,24 +809,32 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 # Bloco D:
 
 ## - Controle de Constitucionalidade;
+- [ ] status [dom:: 0] [peso:: 2]
 ## Sistema Tributário Nacional (arts. 145 a 162 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3216?indice=1&materia=457)
     
 ### Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1963?indice=1&materia=457)
     
 ### Dos Impostos da União (arts. 153 e 154 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3217?indice=1&materia=457)
     
 ### Dos Impostos dos Estados e Distrito Federal (art. 155 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3218?indice=1&materia=457)
     
 ### Dos Impostos dos Municípios (art. 156 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3219?indice=1&materia=457)
     
 ### Do Imposto de Competência Compartilhada entre Estados, Distrito Federal e Municípios (arts. 156-A e 156-B da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/16299?indice=1&materia=457)
 
 Art. 156-A. [...]
@@ -774,21 +843,28 @@ Art. 156-A. [...]
 III - **a forma e o prazo para ressarcimento de créditos acumulados pelo contribuinte**;
 
 ### Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/2078?indice=1&materia=457)
 
 
 ## - Finanças Públicas (arts. 163 a 169)
+- [ ] status [dom:: 0] [peso:: 2]
 ### Normas Gerais (Finanças Públicas, arts. 163 e 164-A da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3220?indice=1&materia=457)
     
 ### Dos Orçamentos (Finanças Públicas, arts. 165 a 169 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3221?indice=1&materia=457)
 
 # Bloco E:
 
 ## - Defesa do Estado (art. 136 a 144); 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Ordem Econômica e Financeira (art. 170 a 192); 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Ordem Social (art. 193 a 232);
+- [ ] status [dom:: 0] [peso:: 2]
 
 
 # Jurisprudência 

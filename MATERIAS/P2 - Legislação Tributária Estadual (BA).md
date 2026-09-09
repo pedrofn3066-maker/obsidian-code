@@ -60,6 +60,7 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
 # - ICMS
     
 ## - Constituição Federal  
+- [ ] status [dom:: 0] [peso:: 3]
 
 ![[Captura de Tela 2026-08-18 às 12.01.29.png|522]]
 
@@ -92,12 +93,14 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
 > i) fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço.
 
 ## - Lei Complementar nº 87/96  
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 
 
 
 ## ICMS - Lei 7.014/96
+- [ ] status [dom:: 0] [peso:: 3]
 
 1. <mark style="background:rgba(140, 140, 140, 0.12)">O resultado financeiro obtido com a prestação de serviços de comunicação é irrelevante para a caracterização do fato gerador do ICMS.</mark>
     spoiler! -**Resposta: ERRADO**
@@ -120,6 +123,7 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
 Art. 38. Quando o reconhecimento do beneficio do imposto depender de condição, não sendo esta satisfeita, o imposto será considerado <mark style="background:#fff88f">devido no momento em que ocorreu a operação ou prestação.</mark>  (não é no FG a litaralidade)
 
 ## - Lei Complementar nº 24/75  
+- [ ] status [dom:: 0] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/2321)
 
 ![[Captura de Tela 2026-09-01 às 11.24.48.png|748]]
@@ -166,10 +170,13 @@ II - a exigibilidade do imposto não-pago ou devolvido e a i**neficácia da lei 
 
 
 ## Lei Complementar nº 160/17 
+- [ ] status [dom:: 0] [peso:: 3]
 
 ## - Lei Complementar nº 192/22  
+- [ ] status [dom:: 0] [peso:: 3]
         
 ## - Lei Complementar nº 194/22)
+- [ ] status [dom:: 0] [peso:: 3]
         
 # - ITCMD (Constituição Federal)
     
@@ -178,6 +185,7 @@ II - a exigibilidade do imposto não-pago ou devolvido e a i**neficácia da lei 
 
 
 ### JURISPRUDÊNCIA 
+- [ ] status [dom:: 0] [peso:: 3]
 
 **A imunidade tributária subjetiva aplica-se a seus beneficiários na posição de contribuinte de direito**, **mas não na de simples contribuinte de fato**, sendo irrelevante, para a verificação da existência do beneplácito constitucional, a repercussão econômica do tributo envolvido. (STF. Plenário. RE 608872/MG, Rel. Min. Dias Toffoli, julgado em 22 e 23/2/2017 (repercussão geral) (Info 855))
 

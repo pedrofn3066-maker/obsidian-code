@@ -46,9 +46,12 @@ prioridade: crítico
 # Bloco A:
 
 ## - NBC TSP - Estrutura Conceitual
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Regimes orçamentário e patrimonial
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL 
+- [ ] status [dom:: 0] [peso:: 3]
 resumo tec :(https://www.tecconcursos.com.br/aulas/materias/69/assuntos/4494)
 
 
@@ -100,6 +103,7 @@ II - empresa controlada: sociedade cuja maioria do capital social com direito a 
 
 
 ## - Variação patrimonial
+- [ ] status [dom:: 0] [peso:: 3]
 
 **2.VARIAÇÃO PATRIMONIAL**
 
@@ -181,13 +185,20 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 
 
 ## - Base de mensuração
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Patrimônio público
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Princípios de CASP
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Bens, inventário
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Avaliação patrimonial
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Aspectos de CASP
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### 3. ASPECTOS DE CASP 
+- [ ] status [dom:: 0] [peso:: 3]
 
 |   |   |   |   |
 |---|---|---|---|
@@ -199,35 +210,61 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 # Bloco B:
 
 ## - Disponibilidade
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Crédito
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Estoque
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Investimento
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Imobilizado
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Intangível
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Depreciação
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Redução ao valor recuperável
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Provisões, passivos e ativos contingentes
+- [ ] status [dom:: 0] [peso:: 3]
 ## - NBC TSP 34
+- [ ] status [dom:: 0] [peso:: 3]
 
 # Bloco C:
 
 ## - Receita de Transações
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Custos de empréstimos
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Propriedade para investimento
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Transação subsequente
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Outras NBC TSPs
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Procedimentos contábeis específicos
+- [ ] status [dom:: 0] [peso:: 3]
 ## - PCASP e escrituração contábil pública
+- [ ] status [dom:: 0] [peso:: 3]
 ## - NBC TSP 16 e 17
+- [ ] status [dom:: 0] [peso:: 3]
 
 # Bloco D:
 
 ## - Introdução às DCs
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Balanço Orçamentário
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Balanço Financeiro
+- [ ] status [dom:: 0] [peso:: 3]
 ## - BP
+- [ ] status [dom:: 0] [peso:: 3]
 ## - DVP
+- [ ] status [dom:: 0] [peso:: 3]
 ## - DFC
+- [ ] status [dom:: 0] [peso:: 3]
 ## - DMPL
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Notas explicativas
+- [ ] status [dom:: 0] [peso:: 3]
 

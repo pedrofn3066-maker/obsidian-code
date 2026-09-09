@@ -53,8 +53,10 @@ Não constava do edital baiano de 2019. Cobertura preventiva com recorte fiscal 
 # Bloco A:
 
 ## - Lei de Introdução às Normas do Direito Brasileiro (LINDB);
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### 1. LINDB - LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO
+- [ ] status [dom:: 0] [peso:: 2]
 
 **1.1. CONCEITOS INICIAIS**
 
@@ -75,6 +77,7 @@ No silêncio da lei, é de 45 dias a Vacatio Legis, **mas nada impede que a lei
 - **Contagem**: inclui-se o dia do começo (dia da publicação) e também o último dia do prazo, entrando a lei em vigor no dia subsequente à sua consumação integral, ainda que este seja domingo ou feriado (art. 8°, §1°, LC n° 95/98, alterado pela LC n° 107/01).
 
 ### 1.2. EFICÁCIA DA LEI
+- [ ] status [dom:: 0] [peso:: 2]
 
 - **Regra:** a lei é permanente (eficácia contínua).
 - **Princípio da Continuidade -** conceito do art. 2º da LINDB
@@ -117,6 +120,7 @@ Para ajudar a entender... vamos de exemplo!
 - **Obrigatoriedade da Lei -** _**Art. 3°, LINDB**. Ninguém se escusa de cumprir a lei, alegando que não a conhece._
 
 ### 1.3. ANTINOMIA E CONFLITO DE NORMAS**
+- [ ] status [dom:: 0] [peso:: 2]
 
 => **Antinomia (lacuna de conflito)** => presença de **duas normas conflitantes**, sem que a lei diga qual delas deva ser aplicada em um caso concreto. Pode ser real ou aparente.
 
@@ -145,6 +149,7 @@ Então, esquematizando:
 
   
 ### 1.4. INTERPRETAÇÃO DA NORMA**
+- [ ] status [dom:: 0] [peso:: 2]
 
 - **Principais técnicas de interpretação:**
 
@@ -179,6 +184,7 @@ e) histórica; 
 f) sociológica ou teleológica* (finalística) (é a que melhor se adapta ao estabelecido no art. 5°, LINDB): “_Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum_."
 
 ### 1.5. INTEGRAÇÃO DA NORMA
+- [ ] status [dom:: 0] [peso:: 2]
 
 📢 Não confunda: **Interpretação** é diferente de **Integração**
 
@@ -228,6 +234,7 @@ Obs.: A equidade (uso do bom senso; “**justiça do caso concreto**”) **n
     - **Ausência de norma**: Integração.
 
 ### 1.6. VIGÊNCIA DA NORMA**
+- [ ] status [dom:: 0] [peso:: 2]
 
 _🔦 **Art. 6º, LINDB:** A lei em vigor terá efeito imediato e geral, respeitados o **ato jurídico perfeito, o direito adquirido e a coisa julgada.**_
 
@@ -236,6 +243,7 @@ _🔦 **Art. 6º, LINDB:** A lei em vigor terá efeito imediato e geral, respe
 - **Coisa julgada -** quando já não cabe recurso da decisão judicial.
 
 ### 1.7. EFICÁCIA DAS LEIS NO ESPAÇO**
+- [ ] status [dom:: 0] [peso:: 2]
 
 => As disposições em relação à **eficácia das leis no espaço**, estão nos artigos 7º a 19 da LINDB. (aqui a cobrança costuma ser bastante literal!)
 
@@ -285,6 +293,7 @@ _🔦 **Art. 6º, LINDB:** A lei em vigor terá efeito imediato e geral, respe
     - **Súmula 381 STF** **_- não se homologa sentença de divórcio obtida, por procuração, em país de que os cônjuges não eram nacionais._**
 
 ### 1.8. DIREITO PÚBLICO E SEGURANÇA JURÍDICA**
+- [ ] status [dom:: 0] [peso:: 2]
 
 🔥🔥 🔥  _**Arts. 20 e seguintes, LINDB** (modificação em 2018 - a cobrança em provas tem sido alta!)_ 🔥 🔥🔥 
 
@@ -299,14 +308,19 @@ _🔦 **Art. 6º, LINDB:** A lei em vigor terá efeito imediato e geral, respe
 - Art. 27.  A decisão do processo, nas esferas administrativa, controladora ou judicial, poderá impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos.
 
 ## - Pessoas naturais;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Pessoas Jurídicas;
+- [ ] status [dom:: 0] [peso:: 2]
 ### Disposições Gerais - Pessoas Jurídicas (arts. 40 a 52)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/2013?indice=1&materia=3903)
     
 ### Das Associações (arts. 53 a 61)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/2015?indice=1&materia=3903)
     
 ### Das Fundações (arts. 62 a 69)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/2017?indice=1&materia=3903)
 ![](https://cdn.tecconcursos.com.br/img/teoria/importante.png)
 _Com a Lei 13.151/2015, houve alteração na redação do inc. III do art. 67 do CC. Antes a alteração do estatuto das fundações dependia de aprovação pelo órgão do MP, porém, não havia menção a qualquer prazo. Hoje, o órgão do MP tem o prazo máximo de 45 dias para a aprovação, findo o qual, poderá o juiz supri-la, a requerimento do interessado._
@@ -322,12 +336,15 @@ Já nos termos do art. 69 do CC, as **hipóteses de extinção de uma fundaçã
 
     
 ### Desconsideração da Personalidade Jurídica
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/2019?indice=1&materia=3903)
     
 
 ## - Domicílio;
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/2009?indice=1&materia=3903)
 ## - Bens;
+- [ ] status [dom:: 0] [peso:: 2]
 
 Art. 80 do CC - Consideram-se imóveis para os efeitos legais 🥸
 <font color="#4f81bd">I - os direitos reais sobre imóveis e as ações que os asseguram;</font>
@@ -345,6 +362,7 @@ Art. 86 do CC - São <font color="#245bdb">consumíveis</font> os bens móveis c
 
 
 ### 2.1. CLASSIFICAÇÃO DOUTRINÁRIA
+- [ ] status [dom:: 0] [peso:: 2]
 
 - **Corpóreos (materiais, tangíveis ou concretos):** são os que têm existência física; podem ser tocados (ex.: terreno, casa, carro, livro, joia).
 - **Incorpóreos (imateriais, intangíveis ou abstratos):** são os que não podem ser percebidos pelos sentidos, mas possuem valor econômico, podendo ser objeto de direito (ex.: direitos autorais, propriedade industrial).
@@ -425,6 +443,7 @@ Art. 86 do CC - São <font color="#245bdb">consumíveis</font> os bens móveis c
 - - - Sob o ponto de vista fático esse bem é consumível, pois se trata de um bem móvel, cujo uso normal importa na destruição imediata da coisa. No entanto, como foi declarado inalienável por testamento, tornou-se inconsumível sob o ponto de vista jurídico, pois aqui o que se leva em consideração é a possibilidade de alienação do bem. No caso o bem (por incrível que pareça) é ao mesmo tempo consumível e inconsumível. 
 
 ### 2.2.1.4. QUANTO À DIVISIBILIDADE
+- [ ] status [dom:: 0] [peso:: 2]
 
 - - **Divisíveis:** podem ser fracionados em porções reais e distintas, formando cada qual um todo perfeito, sem alteração de sua substância, diminuição considerável de valor ou prejuízo do uso a que se destinam.
     - **Indivisíveis:** não podem ser fracionados em porções, pois deixariam de formar um todo perfeito. A indivisibilidade pode ser:
@@ -496,6 +515,7 @@ c) a natureza do acessório é a mesma do principal. 
 ***Deixam de ser bens acessórios e passam a ser principais**: a pintura em relação à tela, a escultura em relação à matéria-prima, a escritura ou qualquer trabalho gráfico em relação à matéria-prima, qualquer trabalho gráfico em relação ao papel utilizado.
 
 ### 2.3. BENS CONSIDERADOS EM RELAÇÃO AO TITULAR DO DOMÍNIO (arts. 98/103, CC)
+- [ ] status [dom:: 0] [peso:: 2]
 
 - **Particulares:** são os que pertencem às pessoas naturais (físicas) ou às pessoas jurídicas de direito privado.
 - **_Res Nullius_:** são as coisas de ninguém (ex: as coisas abandonadas, conhecidas como _res derelictae_).
@@ -520,6 +540,7 @@ c) a natureza do acessório é a mesma do principal. 
     - Já pela desafetação permite-se que um bem de uso comum do povo ou de uso especial seja reclassificado como sendo um bem dominical.
 
 ### 2.4. BENS CONSIDERADOS EM RELAÇÃO À NEGOCIAÇÃO
+- [ ] status [dom:: 0] [peso:: 2]
 
 - **Bens que integram o comércio:** são os negociáveis, disponíveis; podem ser apropriados e transferidos, passando, gratuita ou onerosamente, de um patrimônio para outro.
 - **Bens que estão fora do comércio:** são os que não podem ser transferidos de um acervo patrimonial para outro.
@@ -528,6 +549,7 @@ c) a natureza do acessório é a mesma do principal. 
 - **Legalmente inalienáveis:** apesar de suscetíveis de apropriação, têm sua comercialidade excluída pela lei para atender a interesses econômicos- sociais, defesa social e proteção de certas pessoas. Estes bens somente podem ser alienados de forma excepcional.
 
 ## - Fatos e Negócios Jurídicos;
+- [ ] status [dom:: 0] [peso:: 2]
 
 > 											VÍCIOS DE CONSENTIMENTO E VÍCIOS SOCIAIS (arts. 138 a 165)
 Os defeitos do negócio jurídico são **imperfeições oriundas da declaração de** **vontade** das partes acarretando nos **vícios de consentimento** do agente. Entretanto, há casos em que se tem uma vontade funcionando normalmente, havendo até mesmo correspondência entre a vontade interna e sua manifestação, porém, ela se **desvia da lei ou da boa-fé, violando direitos ou prejudicando terceiros**, sendo, dessa forma, o negócio jurídico suscetível de invalidação. Trata-se dos **vícios sociais**.
@@ -546,6 +568,7 @@ Os defeitos do negócio jurídico são **imperfeições oriundas da declaraçã
 
 
 ## - Prescrição e decadência;
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/2059)
 
 | **TABELA DOS PRINCIPAIS PRAZOS PRESCRICIONAIS** |                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -625,6 +648,7 @@ Vejamos o art. 202 do CC.
 # Bloco B:
 
 ## - Obrigações;
+- [ ] status [dom:: 0] [peso:: 2]
 **1. CARACTERÍSTICAS DAS OBRIGAÇÕES (GERAIS)**
 
 1. **Patrimonialidade**: relaciona-se sempre ao patrimônio, podendo ser tanto em espécie (dinheiro), quanto na forma de bens;
@@ -821,51 +845,70 @@ Vejamos o art. 202 do CC.
     - **Assunção de DÍVIDA:** **Art. 302.** O novo devedor **NÃO PODE OPOR** ao credor as exceções pessoais que competiam ao devedor primitivo. **Quem assume a Dívida, se ferra!😭**
 
 ### Das Obrigações de Dar (arts. 233 a 246)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3294?indice=1&materia=3289)
     
 ### Das Obrigações de Fazer (arts. 247 a 249)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3295?indice=1&materia=3289)
     
 ### Das Obrigações de Não Fazer (arts. 250 a 251)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3296?indice=1&materia=3289)
     
 ### Das Obrigações Alternativas (arts. 252 a 256)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3297?indice=1&materia=3289)
     
 ### Das Obrigações Divisíveis e Indivisíveis (arts. 257 a 263)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3298?indice=1&materia=3289)
     
 ### Das Obrigações Solidárias (arts. 264 a 285)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3299?indice=1&materia=3289)
 
 ### Do Inadimplemento das Obrigações — Mora do Devedor (art. 394 e ss.)
+- [ ] status [dom:: 0] [peso:: 2]
 
 **Art. 399.** O devedor em mora responde pela impossibilidade da prestação, embora essa impossibilidade resulte de caso fortuito ou de força maior, se estes ocorrerem durante o atraso; salvo se provar isenção de culpa, ou que o dano sobreviria ainda quando a obrigação fosse oportunamente desempenhada.
 
 ## - Contratos em geral;
+- [ ] status [dom:: 0] [peso:: 2]
 ### Princípios Contratuais no Código Civil
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3323?indice=1&materia=3320)
     
 ### Classificação dos Contratos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3322?indice=1&materia=3320)
 
 ## - Contratos em espécie;
+- [ ] status [dom:: 0] [peso:: 2]
 
 # Bloco C:
 
 ## - Atos unilaterais;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Atos ilícitos;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Responsabilidade Civil;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Direito das Coisas;
+- [ ] status [dom:: 0] [peso:: 2]
 ### Dos Direitos Reais (arts. 1.225 a 1.510)
+- [ ] status [dom:: 0] [peso:: 2]
 
 #### Princípios Gerais dos Direitos Reais
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3373?indice=1&materia=5929)
     
 #### Disposições Gerais dos Direitos Reais (arts. 1.225 a 1.227)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3374?indice=1&materia=5929)
 
 #### Da Propriedade (arts. 1.228 a 1.368-F)
+- [ ] status [dom:: 0] [peso:: 2]
 
 ##### Da Propriedade em Geral (arts. 1.228 a 1.237)
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3383?indice=1&materia=5929)
@@ -881,6 +924,7 @@ Vejamos o art. 202 do CC.
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/3397?indice=1&materia=5929)
 
 #### Direitos Reais Sobre a Coisa Alheia (arts. 1.419 a 1.510)
+- [ ] status [dom:: 0] [peso:: 2]
 
 ##### Disposições Gerais do Penhor, Hipoteca e Anticrese (arts. 1.419 a 1.430)
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/4614?indice=1&materia=5929)
@@ -899,7 +943,9 @@ Vejamos o art. 202 do CC.
 # Bloco D:
 
 ## - Direito de Família;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Sucessões.
+- [ ] status [dom:: 0] [peso:: 2]
 
 ___ 
 

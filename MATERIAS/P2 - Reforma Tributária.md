@@ -49,6 +49,7 @@ prioridade: crítico
 Facilitadores de leitura da lei seca: [[Resumo EC 132-2023 Reforma Tributaria (VINTEUM)]] · [[Resumo LC 214-2025 Titulo I Reforma Tributaria (VINTEUM)]] · [[Pontos de Atencao - Reforma Tributaria (VINTEUM)]]
 
 ## 📚Os Blocos são:
+- [ ] status [dom:: 0] [peso:: 3]
 
 | BLOCO | CONTEÚDO                                                                                                                                                                           |
 | :---: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

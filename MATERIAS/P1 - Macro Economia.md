@@ -58,8 +58,11 @@ Cobertura preventiva. Priorize o recorte que sustenta Finanças Públicas e a an
 
 # - Bloco A:
 ## - Conceitos Básicos;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Contas Nacionais;
+- [ ] status [dom:: 0] [peso:: 2]
 ### Conceitos e Identidades Macroeconômicos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1651?indice=1&materia=1648)
     ![[Pasted image 20260830132042.png]]
     
@@ -73,6 +76,7 @@ Cobertura preventiva. Priorize o recorte que sustenta Finanças Públicas e a an
 ![[Pasted image 20260830132744.png]]
 
 ###  PRODUTO NOMINAL x PRODUTO REAL (DEFLATOR DO PIB)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1653?indice=1&materia=1648)
 Os preços de mercado fornecem um caminho enganoso ao comparar o produto nacional em dois anos diferentes, uma vez que o valor do dinheiro pode alterar-se no tempo como resultado da inflação. Um aumento no produto nacional a preços correntes pode refletir uma combinação de um incremento nos preços com um incremento na produção real. 
 
@@ -98,6 +102,7 @@ A fórmula padrão é:
 
 
 ## - Balanço de Pagamentos;
+- [ ] status [dom:: 0] [peso:: 2]
 - #dominio/baixo [cad:: 3d] [prox:: 2026-08-24]
 
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1654)
@@ -106,23 +111,34 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1654)
 
 
 ## - Modelo Clássico e Keynesiano.
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### Modelo Keynesiano.
+- [ ] status [dom:: 0] [peso:: 2]
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1655)
 
 
 # - Bloco B:  
 ## - Modelo IS-LM;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Inflação;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Oferta e Demanda Agregada.
+- [ ] status [dom:: 0] [peso:: 2]
 
 # - Bloco C: 
 
 ## - Política Fiscal e Monetária;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - IS/LM BP;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Crescimento econômico.
+- [ ] status [dom:: 0] [peso:: 2]
 
 # - Bloco D:  
 ## - Sistema Monetário;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Regimes Cambiais;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Curva de Phillips.
+- [ ] status [dom:: 0] [peso:: 2]

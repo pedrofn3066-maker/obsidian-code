@@ -20,12 +20,16 @@ Cobertura preventiva. Disciplina de leitura rápida e alto rendimento em prova o
 # - Bloco A:
 
 ## - Introdução à Administração
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Organização
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Administrador e Administração
+- [ ] status [dom:: 0] [peso:: 2]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/14/assuntos/4654)
 resumo de administrador
 #### Resumo do capítulo Administrador
+- [ ] status [dom:: 0] [peso:: 2]
 **1. Conceito de Administrador**
 - Pessoa responsável por gerenciar e coordenar recursos e atividades organizacionais.
 - Atua para garantir que as atividades sejam realizadas corretamente e tragam benefícios à organização.
@@ -66,6 +70,7 @@ resumo de administrador
 ![[Pasted image 20260821095739.png|571]]
 ![[Pasted image 20260821095453.png|383]]
 ### - Processo organizacional e função administrativa
+- [ ] status [dom:: 0] [peso:: 2]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/14/assuntos/3032).
 
@@ -73,6 +78,7 @@ resumo de administrador
 
 
 #### Resumo Processo organizacional e função administrativa
+- [ ] status [dom:: 0] [peso:: 2]
 
 **1. Conceito de Processo Organizacional (Processo Administrativo)**
 - Conjunto de atividades e funções para alcançar objetivos organizacionais.
@@ -117,10 +123,13 @@ resumo de administrador
 
 
 ## - Teorias Administrativas
+- [ ] status [dom:: 0] [peso:: 2]
 ### Escola Administração Científica
+- [ ] status [dom:: 0] [peso:: 2]
 #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/14/assuntos/3158).
 #### Resumo Escola Administração Científica
+- [ ] status [dom:: 0] [peso:: 2]
 
 **1. Introdução**
 - A Administração Científica tem como principal expoente **Frederick Taylor**, considerado o "pai da administração".
@@ -172,10 +181,12 @@ resumo de administrador
 
 
 ### - Teoria do Desenvolvimento Organizacional e Mudança Organizacional;
+- [ ] status [dom:: 0] [peso:: 2]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/14/assuntos/6165).
 
 #### Resumo Mudança Organizacional;
+- [ ] status [dom:: 0] [peso:: 2]
 
 **1. Conceito de Mudança Organizacional**
 - Mudança é essencial para adaptação e progresso organizacional.
@@ -200,36 +211,57 @@ resumo de administrador
 - Para que a mudança ocorra, as forças impulsionadoras devem superar as forças de resistência.
 
 ### - APO
+- [ ] status [dom:: 0] [peso:: 2]
 
 # - Bloco B:
 
 ## - Processo de planejamento
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Ferramentas estratégicas
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Indicadores de desempenho
+- [ ] status [dom:: 0] [peso:: 2]
 
 # - Bloco C:
 
 ## - Gestão de Qualidade, 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Modelo de excelência gerencial (FNQ)
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Gespública
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Gestão de conhecimento
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Gestão de pessoas. 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Gestão por competência. 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Gestão de desempenho. 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Grupos e equipes de trabalho
+- [ ] status [dom:: 0] [peso:: 2]
 
 # - Bloco D:
 
 ## - Direção
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Organização
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Controle e avaliação
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Motivação
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Clima e cultura organizacional
+- [ ] status [dom:: 0] [peso:: 2]
 
 # - Bloco E
 
 ## - Comunicação
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Processo decisório
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Gestão de processos 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Gestão de Projetos e PMBOK
+- [ ] status [dom:: 0] [peso:: 2]
 

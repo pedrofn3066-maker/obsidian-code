@@ -63,9 +63,13 @@ Duas matérias grandes disputando quinze questões — o retorno marginal cai r�
 # Bloco A:
 
 ## - Conceito de administração pública sob os aspectos orgânico, formal e material.
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Fontes do direito administrativo: doutrina e jurisprudência na formação do direito administrativo. Lei formal. Regulamentos administrativos, estatutos e regimentos; instruções; princípios gerais; tratados internacionais; costume.
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Ausência de Competência: agente de fato.
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Poderes da Administração.
+- [ ] status [dom:: 0] [peso:: 2]
 
 A avocação é o ato discricionário mediante o qual **o superior hierárquico traz para si o exercício temporário de determinada competência** atribuída por lei a um subordinado. De um modo geral, a doutrina enfatiza que a avocação de competência deve ser medida excepcional e devidamente fundamentada. Ainda, prelecionam os principais autores que a avocação não é possível quando se tratar de **competência exclusiva do subordinado**, o que nos parece irrefutavelmente lógico.
 
@@ -73,7 +77,9 @@ A avocação é o ato discricionário mediante o qual **o superior hierárquico
 
 
 ## - Centralização e descentralização da atividade administrativa do Estado. Administração pública direta e indireta.
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Ato administrativo e fatos da administração pública.
+- [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/1/assuntos/504).
 
 
@@ -112,18 +118,22 @@ Entretanto, o STF não seguiu essa linha de raciocínio. <mark style="backgroun
 ![[Pasted image 20260823125124.png]]
 
 ## - Controle da administração pública no direito brasileiro.
+- [ ] status [dom:: 0] [peso:: 2]
 
 b) **sistema da jurisdição una (unidade de jurisdição)**: de origem inglesa e norte-americana, o sistema confere ao Poder Judiciário a prerrogativa de decidir de maneira definitiva sobre a juridicidade de todos os atos praticados por particulares ou pela Administração Pública. **É o sistema adotado no Brasil por meio do princípio da inafastabilidade do controle do Poder Judiciário (art. 5.º, XXXV, da CRFB).
 
 
 ## - Terceiro Setor (OS, OSCIP, OSC, ...)
+- [ ] status [dom:: 0] [peso:: 2]
 
 ![[Pasted image 20260815133107.png|489]]
 
 
 
 ## - Processo Administrativo Federal (Lei nº 9.784/1999).
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Lei de Introdução às Normas do Direito Brasileiro (arts. 20 a 30 do Decreto-Lei nº 4.657/1942). Decreto nº 9.830/2019.
+- [ ] status [dom:: 0] [peso:: 2]
 - #status/1-leitura 
 
 Comprovação fática de tais situações no bojo dos autos do processo de responsabilização. Fundamentação: **Art. 12, § 2º, do Decreto nº 9.830/2019**.
@@ -139,12 +149,14 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 # Bloco B:
 
 ## - Responsabilidade Civil do Estado.
+- [ ] status [dom:: 0] [peso:: 2]
 
 - #jurisprudencia 
 - “<mark style="background:rgba(240, 167, 216, 0.55)">É objetiva a Responsabilidade Civil do Estado</mark> em **relação à profissional da imprensa ferido por agentes policiais durante cobertura jornalística**, em manifestações em que haja tumulto ou conflitos entre policiais e manifestantes. <mark style="background:#d3f8b6">Cabe a excludente da responsabilidade por culpa exclusiva da vítima, nas hipóteses em que o profissional de imprensa descumprir ostensiva e clara advertência sobre acesso a áreas delimitadas, em que haja grave risco à sua integridade física.”</mark> _  
     STF. Plenário. RE 1209429/SP, Rel. Min. Marco Aurélio, redator do acórdão Min. Alexandre de Moraes, julgado em 10/6/2021 (Repercussão Geral – Tema 1055) (Info 1021).
 
 ## - Direito de acesso à informação: normas constitucionais, Lei nº 12.527/2011.
+- [ ] status [dom:: 0] [peso:: 2]
 
 - **Qualquer interessado** poderá apresentar pedido de acesso a informações aos órgãos e entidades, por qualquer meio legítimo, devendo o pedido conter a **identificação do requerente e a especificação da informação requerida.**
 - Qualquer **pessoa, natural ou jurídica,** poderá formular pedido de acesso à informação. - **Decreto 7.724.**
@@ -172,38 +184,54 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
     
 ⚠️ _Os órgãos do Poder Judiciário e do Ministério Público informarão ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, respectivamente, as decisões que, em grau de recurso, negarem acesso a informações de interesse público._
 ## - Tratamento de dados pessoais pelo Poder Público: Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Bens Públicos.
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Intervenção do Estado na propriedade. 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Serviço Público.
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Convênios, Consórcios e Instrumentos Congêneres.
+- [ ] status [dom:: 0] [peso:: 2]
 
 # Bloco C:
 
 ## - Licitações e Contratos Administrativos (Lei nº 14.133/2021).
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Empresas estatais: normas constitucionais, Lei nº 13.303/2016 e Decreto nº 8.945/2016.
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Parcerias Público-Privadas (Lei nº 11.079/2004).
+- [ ] status [dom:: 0] [peso:: 2]
 
 # Bloco D:
 
 ## - Agentes públicos.
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### Conceito para Agentes Públicos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/1/assuntos/2220?indice=1&materia=537)
     
 ### Classificação dos Agentes Públicos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/1/assuntos/1165?indice=1&materia=537)
     
 ### Funções, Cargos e Empregos Públicos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/1/assuntos/2221?indice=1&materia=537)
     
 ### Criação, Transformação e Extinção de Cargos Públicos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/1/assuntos/1967?indice=1&materia=537)
 
 
 
 ## - Regime Jurídico dos Servidores Públicos Civis da União (Lei nº 8.112/1990).
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Improbidade administrativa (Lei nº 8.429/1992).
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Integridade e Combate à Corrupção. Lei Anticorrupção (Lei nº 12.846/2013).
+- [ ] status [dom:: 0] [peso:: 2]
 
 
 

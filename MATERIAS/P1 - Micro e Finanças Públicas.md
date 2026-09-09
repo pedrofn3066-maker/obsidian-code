@@ -24,8 +24,11 @@ Cobertura preventiva. Priorize o recorte que sustenta Finanças Públicas e a an
 
 # - Bloco A:
 ## - Conceitos básicos: Economia, escassez, escolha e custo de oportunidade;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Curva de Possibilidades de Produção;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Demanda e Oferta;
+- [ ] status [dom:: 0] [peso:: 2]
 
 >**Em uma batéria de de questões o caio girão (AMIGO DO TEC) disse o seguinte:**    
  VARIAVEIS ENDÒGENAS : SAO AS VARIAVEIS DO GRAFICO  = PREÇO E QUANTIDADE DO BEM   
@@ -35,8 +38,10 @@ OBS: CUIDADO COM A LETRA B, ELA DIZ PREÇO DO BEM SUBSTITUTO , LOGO ELA ESTÀ D
 
 
 ## - Elasticidades;
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### Elasticidade Preço da Demanda
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1612?indice=1&materia=1605)
 
 Matematicamente, a elasticidade da demanda é definida como a razão entre **a variação percentual** na **quantidade** e a variação percentual no **preço**. Essa equação nos mostra o quanto uma variável é sensível com relação à outra variável.
@@ -51,45 +56,61 @@ Matematicamente, a elasticidade da demanda é definida como a razão entre **a 
 
 
 ### Elasticidade Renda da Demanda
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1613?indice=1&materia=1605)
     
 ### Elasticidade Preço Cruzada
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1614?indice=1&materia=1605)
     
 ### Elasticidade Preço da Oferta
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1615?indice=1&materia=1605)
 
 # - Bloco B:
 ## - Teoria do Consumidor;
+- [ ] status [dom:: 0] [peso:: 2]
 ### -Restrição Orçamentária
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1617?indice=1&materia=1605)
     
 ### Preferências e Curvas de Indiferença
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1618?indice=1&materia=1605)
     
 ### Equilíbrio do Consumidor
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1619?indice=1&materia=1605)
     
 ### Efeitos Renda e Substituição
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1620?indice=1&materia=1605)
     
 ### Escolha Envolvendo Risco (Incerteza)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1621?indice=1&materia=1605)
     
 ### Economia Comportamental
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/12350?indice=1&materia=1605)
 
 ## - Teoria da Produção e dos Custos;
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### Produção
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1622?indice=1&materia=1605)
     
 ### Custos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1623?indice=1&materia=1605)
 # - Bloco C:
 ## - Estruturas de mercado; 
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Eficiência econômica;
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Falhas de Mercado.
+- [ ] status [dom:: 0] [peso:: 2]
 
 
 

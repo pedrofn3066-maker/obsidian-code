@@ -56,10 +56,12 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 # - Bloco A: Seg. da Inf: Principios; Malwares; Antispyware; Backup
 
 ## 1. Resumo Teórico 
+- [ ] status [dom:: 0] [peso:: 3]
 
 A Segurança da Informação (SI) é um conjunto de práticas, políticas, procedimentos e controles que visam proteger os ativos de informação de uma organização contra diversas ameaças. O objetivo é garantir a continuidade dos negócios, minimizar os riscos e maximizar o retorno sobre os investimentos e as oportunidades.
 
 ### Conceitos Fundamentais
+- [ ] status [dom:: 0] [peso:: 3]
 
 - Ativo de Informação: Qualquer informação ou recurso que tenha valor para a organização (dados, hardware, software, pessoas, imagem da empresa, etc.).
 - Ameaça: Qualquer evento ou ação potencial que possa causar dano aos ativos de informação (ex: malware, desastres naturais, erro humano, ataque intencional).
@@ -68,6 +70,7 @@ A Segurança da Informação (SI) é um conjunto de práticas, políticas, pro
 - Impacto: O prejuízo ou consequência resultante da materialização de um risco.
 
 ### Princípios Básicos (Pilares da Segurança da Informação)
+- [ ] status [dom:: 0] [peso:: 3]
 
 Os pilares fundamentais da Segurança da Informação são frequentemente lembrados pelo mnemônico CID (ou CIDA, incluindo Autenticidade):
 
@@ -79,6 +82,7 @@ Os pilares fundamentais da Segurança da Informação são frequentemente lembra
     - _Exemplo:_ Ter servidores redundantes para que um sistema continue funcionando mesmo se um servidor falhar.
 
 ### Outros Atributos Essenciais
+- [ ] status [dom:: 0] [peso:: 3]
 
 - Autenticidade: Garante que a identidade de um usuário, processo, sistema ou informação seja aquela que se alega ser. É a prova da origem ou da identidade.
     - _Exemplo:_ Um login e senha para acessar um sistema.
@@ -88,6 +92,7 @@ Os pilares fundamentais da Segurança da Informação são frequentemente lembra
 - Responsabilização (Accountability): Garante que as ações de uma entidade possam ser rastreadas unicamente até essa entidade. Permite auditoria e identificação de responsáveis.
 
 ## 2. Principais Temas Cobrados em Concursos
+- [ ] status [dom:: 0] [peso:: 3]
 
 Com base na análise de questões de diversas bancas, os seguintes tópicos são frequentemente abordados:
 
@@ -109,6 +114,7 @@ Com base na análise de questões de diversas bancas, os seguintes tópicos são
 A maioria das questões gira em torno da Tríade CID. Entender profundamente cada pilar e como eles se manifestam em situações práticas é crucial. Por exemplo, se um CPF é alterado indevidamente em um cadastro, houve falha na Integridade. Se dados sigilosos de um processo são acessados por alguém não autorizado, a Confidencialidade foi comprometida. Se um sistema fica fora do ar devido a um ataque, a Disponibilidade foi afetada.
 
 ## 3. Pontos de Atenção e Dificuldades Comuns
+- [ ] status [dom:: 0] [peso:: 3]
 
 Candidatos frequentemente encontram dificuldades em:
 
@@ -145,6 +151,7 @@ Algumas questões tentam confundir com termos que parecem relacionados, mas não
 
 
 ## 4. Estratégias de Resolução de Questões
+- [ ] status [dom:: 0] [peso:: 3]
 
 - **Identifique Palavras-Chave:**
     - "Acesso não autorizado", "vazamento", "sigilo", "privacidade": Confidencialidade.
@@ -174,6 +181,7 @@ Um único incidente pode violar múltiplos princípios. Por exemplo, um invasor 
 
 
 ## BACKUP
+- [ ] status [dom:: 0] [peso:: 3]
 
 A questão cobra o **tema backups.** Existem três tipos de backup, a saber: **completo, diferencial e incremental.** No backup completo, todos os dados são salvos, independente de quaisquer condições. No backup incremental, adiciona-se um pequeno incremento ao backup completo ou ao backup incremental anterior. Por fim  , **no backup diferencial, não são marcadas as "flags"**  de registro dos dados. Dessa maneira, ele não consegue reconhecer outros backups diferenciais e por esse motivo pega todos os dados após o último backup completo, mesmo que tenha sido executado um backup diferencial anterior.
 

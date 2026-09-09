@@ -74,21 +74,27 @@ Vale notar duas outras importantes relações:
 # - Análise Bidimensional
     
 ### Análise Bidimensional: Introdução, Tabelas de Dupla Entrada, Diagrama de Dispersão
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/61/assuntos/5957?indice=1&materia=982)
         
 ### Coeficiente de Correlação Linear entre Dois Conjuntos de Dados
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/61/assuntos/870?indice=1&materia=982)
         
 ### Coeficiente de Correlação Ordinal de Spearman
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/61/assuntos/1969?indice=1&materia=982)
         
 ### Análise Bidimensional: Outros Temas
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/61/assuntos/5956?indice=1&materia=982)
         
 ## Medidas de Desigualdade e Concentração
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/61/assuntos/3337?indice=1&materia=982)
     
 ## Números Índices
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/61/assuntos/871?indice=1&materia=982)
 
 

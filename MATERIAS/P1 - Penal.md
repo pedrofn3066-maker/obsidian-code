@@ -49,10 +49,14 @@ Não constava do edital baiano de 2019. Cobertura preventiva com recorte fiscal 
 # Bloco A
  
 ## -Princípios
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Aplicação da lei penal
+- [ ] status [dom:: 0] [peso:: 2]
 ### Aplicação da Lei Penal no Tempo (arts. 1º a 4º e 10 a 12 do CP)
+- [ ] status [dom:: 0] [peso:: 2]
     
 #### Conflitos de Leis Penais no Tempo (arts. 1º e 2º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/4231?indice=1&materia=4228)
 
 ![](https://cdn.tecconcursos.com.br/img/teoria/fique-ligado.png)
@@ -70,38 +74,50 @@ Parágrafo único. A lei posterior, que de qualquer modo favorecer o agente, **
 
         
 #### Lei Excepcional ou Temporária (art. 3º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/4232?indice=1&materia=4228)
         
 #### Tempo do Crime (art. 4º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/4234?indice=1&materia=4228)
         
 #### Da Contagem dos Prazos (arts. 10 e 11 do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/3087?indice=1&materia=4228)
         
 #### Conflito Aparente de Normas Penais (art. 12 do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/4235?indice=1&materia=4228)
         
 ### Aplicação da Lei Penal no Espaço (arts. 6º a 9º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
     
 #### Lugar do Crime (art. 6º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/4236?indice=1&materia=4228)
         
 #### Princípio da Territorialidade (art. 5º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/4237?indice=1&materia=4228)
         
 #### Princípio da Extraterritorialidade (art. 7º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/4238?indice=1&materia=4228)
         
 #### Pena Cumprida no Estrangeiro (art. 8º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/2239?indice=1&materia=4228)
         
 #### Eficácia de Sentença Penal Estrangeira (art. 9º do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/2182?indice=1&materia=4228)
 
 
 ## - Teoria do crime
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### 1 - CRIME 
+- [ ] status [dom:: 0] [peso:: 2]
 
 Pode ser definido como um **evento de cunho social** cujo entendimento se **divide em três aspectos:**
 
@@ -245,6 +261,7 @@ O crime **será excluído** **sempre que lhe faltar algum de seus elementos.**
 5. **Força da natureza e caso fortuito** - aqui, haverá exclusão do fato típico por **faltar conduta** relevante do ponto de vista penal.
 
 ### 2 - CRIME CONSUMADO, TENTADO E IMPOSSÍVEL
+- [ ] status [dom:: 0] [peso:: 2]
 
 O **_Iter_ _Criminis,_** isto é, o “caminho do crime”, divide-se em quatro etapas:
 
@@ -278,10 +295,12 @@ O **_Iter_ _Criminis,_** isto é, o “caminho do crime”, divide-se em quat
     - **C**ulposos, **C**ontravenções penais, **H**abituais, **O**missivos próprios, **U**nissubsistentes, **P**reterdolosos e **E**mpreendimento ou Atentado.
 
 ### 3 - CRIME IMPOSSÍVEL
+- [ ] status [dom:: 0] [peso:: 2]
 
 - Nos moldes do art. 17 do CP, diz-se impossível o crime em duas circunstâncias: **ineficiência absoluta do meio ou absoluta impropriedade do objeto**. Percebe-se, desse modo, que, mesmo o agente efetuando a tentativa, jamais haveria possibilidade de consumação do crime. **Nesses casos, portanto, não se pune a mera tentativa (tentativa inidônea - crime impossível).**
 
 ### 4 - DESISTÊNCIA VOLUNTÁRIA E ARREPENDIMENTO EFICAZ
+- [ ] status [dom:: 0] [peso:: 2]
 
 Esses dois institutos são causas de **exclusão da tipicidade**, segundo entendimento da doutrina majoritária. Entende-se que, não ocorrendo o resultado, bem como a não existência da tentativa, **a conduta não será punida.**
 
@@ -295,12 +314,14 @@ Esses dois institutos são causas de **exclusão da tipicidade**, segundo enten
 
 
 ### 5 - ARREPENDIMENTO POSTERIOR
+- [ ] status [dom:: 0] [peso:: 2]
 
 No caso do arrependimento posterior, **o crime já se consumou**. Portanto, o agente responderá pela conduta, **mas obrigatoriamente com uma diminuição na pena.** Para isso, importante mencionar o disposto no art. 16 do CP. 
 
 - Diz o referido art. que, **nos** **crimes sem violência ou grave ameaça, e reparado o dano ou restituída a coisa ATÉ o recebimento da DENÚNCIA ou da QUEIXA,** desde que por ato voluntário, **haverá redução de <mark style="background:rgba(240, 167, 216, 0.55)">um a dois terços da pena</mark>.**
 
 ### Erros de tipo e de proibição
+- [ ] status [dom:: 0] [peso:: 2]
 
 - Ambos os institutos jurídicos tratam de equívocos por parte do agente no momento da conduta delituosa, **mas incidem sobre elementos distintos do crime** e, por conseguinte, geram consequências diversas.
 - A base legal para esses erros encontra-se nos artigos 20 e 21 do Código Penal:
@@ -394,6 +415,7 @@ Tanto o erro de proibição direto como o indireto podem ser escusáveis ou ines
 **Sendo inescusável, o agente responde pelo crime, mas a pena pode ser diminuída de 1/6 a 1/3.**
 
 ### 2 - DESCRIMINANTES PUTATIVAS E DELITO PUTATIVO
+- [ ] status [dom:: 0] [peso:: 2]
 
 **2.1 Descriminante (exclusão da ilicitude) + Putativa ("imaginária") -** Podem ser por **ERRO DE TIPO PERMISSIVO** ou por **ERRO DE PROIBIÇÃO INDIRETO** 
 
@@ -417,6 +439,7 @@ No **ERRO DE TIPO PERMISSIVO,** o agente acredita que **os requisitos** nec
 
 
 ### 3 -  ILICITUDE OU ANTIJURIDICIDADE
+- [ ] status [dom:: 0] [peso:: 2]
 
 **1.1 - ESTADO DE NECESSIDADE - art. 24 do CP**
 
@@ -571,26 +594,34 @@ E o  **SONAMBULISMO**? Não há unanimidade, mas o entendimento majoritário 
 
 
 ### Ilicitude e suas Excludentes (arts. 23 a 25 do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 
 #### Considerações Gerais sobre a Ilicitude e suas Excludentes (art. 23 do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/3108?indice=1&materia=3089)
     
 #### Estado de Necessidade (art. 24 do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/3112?indice=1&materia=3089)
     
 #### Legítima Defesa (art. 25 do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/3113?indice=1&materia=3089)
     
 #### Estrito Cumprimento do Dever Legal (art. 23, inciso III, do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/3114?indice=1&materia=3089)
     
 #### Exercício Regular de Direito (art. 23, inciso III, do CP)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/3115?indice=1&materia=3089)
 
 # Bloco B
 
 ## - Concurso de pessoas
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Concurso de crimes
+- [ ] status [dom:: 0] [peso:: 2]
 tec resumo:
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/1226)
 **Concurso material**
@@ -603,6 +634,7 @@ Art. 70 - Quando o agente, mediante **uma só ação ou omissão, pratica dois
 
 
 ## - Extinção da punibilidade.
+- [ ] status [dom:: 0] [peso:: 2]
 
 tec resumo:
 (https://www.tecconcursos.com.br/aulas/materias/7/assuntos/3170)
@@ -613,11 +645,15 @@ tec resumo:
 # Bloco C
 
 ## - Crimes contra a fé pública
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Crimes contra a Administração Pública
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Crimes contra a Ordem Tributária
+- [ ] status [dom:: 0] [peso:: 2]
 
 
 ## Jurisprudência de Tribunais Superiores
+- [ ] status [dom:: 0] [peso:: 2]
 - #jurisprudencia 
  
 
@@ -630,10 +666,13 @@ Por essa razão, aplica-se o entendimento consolidado pelo STF na Súmula <mark 
 
 
 ## Imersão Temática 1: _Lavagem de dinheiro; Crime organizado;_
+- [ ] status [dom:: 0] [peso:: 2]
 
 ## Imersão Temática 2: _Interceptações telefônicas; e Abuso de autoridade._
+- [ ] status [dom:: 0] [peso:: 2]
 
 ## Imersão Temática 3: _Principais tópicos dos crimes contra a pessoa e contra o patrimônio._
+- [ ] status [dom:: 0] [peso:: 2]
 
 
 ___ 

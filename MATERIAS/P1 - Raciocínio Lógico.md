@@ -56,6 +56,7 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 **Bloco A**
 
 ### - Lógica de Proposição e Lógica de Argumentação.
+- [ ] status [dom:: 0] [peso:: 2]
 
 **1.5** **Tabela Verdade**
 
@@ -105,22 +106,36 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 **Bloco B**
 
 ### - Sequência de Números, Figuras, Letras;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Orientação no Plano/Espaço/Tempo;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Datas e Calendários;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Problemas diversos de lógica;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Progressão Aritmética e Progressão Geométrica.
+- [ ] status [dom:: 0] [peso:: 2]
 
 **Bloco C**
 
 ### - Problemas Aritméticos;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Teoria dos Conjuntos;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Porcentagem;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Regra de 3;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Proporcionalidade.
+- [ ] status [dom:: 0] [peso:: 2]
 
 **Bloco D**
 
 ### - Equações e Sistemas Lineares;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Geometria Plana e Espacial;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Matrizes;
+- [ ] status [dom:: 0] [peso:: 2]
 ### - Plano Cartesiano.
+- [ ] status [dom:: 0] [peso:: 2]

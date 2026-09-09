@@ -79,6 +79,7 @@ Nos editais FCC recentes vem como "Contabilidade Geral e Pública" — se a Bahi
 # Bloco A:
 
 ## - Contabilidade Básica;
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### Estrutura conceitual, princípios e regimes (CPC 00);
 - [ ] status [dom:: 0] [peso:: 2]  #revisar/7dias 
@@ -155,9 +156,13 @@ A análise <font color="#ff0000">custo-benefício</font> não depende apenas de 
 
 
 ### - Ajuste a Valor Presente (CPC 12); e
+- [ ] status [dom:: 0] [peso:: 3]
 ### - Mensuração a Valor Justo (CPC 46)
+- [ ] status [dom:: 0] [peso:: 3]
 ### - Políticas, erros e estimativas contábeis (CPC 23);
+- [ ] status [dom:: 0] [peso:: 3]
 ### - Receita com Contrato com Cliente (CPC 47)
+- [ ] status [dom:: 0] [peso:: 3]
 SEM AULA TEC. PEGAR NO ESTRATÉGIA 
 **➡️** **CPC 47 - Receita de Contrato com Cliente**
 
@@ -310,10 +315,14 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos o
 # Bloco B:
 
 ## CONTAS DO ATIVO
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### - Disponibilidades;
+- [ ] status [dom:: 0] [peso:: 3]
 ### - Ativo Realizável a Longo Prazo - ARLP;
+- [ ] status [dom:: 0] [peso:: 3]
 ### - Redução ao Valor Recuperável (CPC 01);
+- [ ] status [dom:: 0] [peso:: 3]
 **1. Definições** :: ?
 📌 **Unidade Geradora de Caixa (UGCX)** ⇒ É o <font color="#c0504d">Menor</font> **Grupo Identificável de Ativos que Gera Entradas de Caixa,** entradas essas que são em **grande parte independentes** das entradas de caixa de outros ativos ou outros grupos de ativos.
 
@@ -332,6 +341,7 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos o
 📌 **Perda por Desvalorização** ⇒ ? É o Montante pelo qual o **Valor Contábil** de um ativo ou de unidade geradora de caixa **Excede** seu **Valor Recuperável.** #flashcard 
 
 #### 2.1. Indicadores de Desvalorização do Ativo  
+- [ ] status [dom:: 0] [peso:: 3]
 
 - **Fontes Externas de Informação:**
     - Indicações observáveis de que o **valor do ativo diminuiu significativamente** durante o período, mais do que seria de se esperar como resultado da passagem do tempo ou do uso normal.
@@ -355,8 +365,11 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos o
 - do Valor Residual
 
 ### - Instrumentos Financeiros (CPC 48);
+- [ ] status [dom:: 0] [peso:: 3]
 ### - Imobilizado (CPC 27);
+- [ ] status [dom:: 0] [peso:: 3]
 ### - Intangível (CPC 04);
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4715)
 
 **Art. 179.** _As contas serão classificadas do seguinte modo:_
@@ -364,11 +377,14 @@ _(...)_
 _**VI – no intangível:**_ _os direitos que tenham por objeto **bens incorpóreos** destinados à manutenção da companhia ou exercidos com essa finalidade,_ _**inclusive o fundo de comércio adquirido**__._
 
 ### - Depreciação, Amortização e Exaustão;
+- [ ] status [dom:: 0] [peso:: 3]
 
 # Bloco C:
 
 ## - Fornecedores;
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Empréstimos; 
+- [ ] status [dom:: 0] [peso:: 3]
 
 **1) Valor de Captação Líquido (VCL)**
 = Vlr. Empréstimo - Custo de Transação  
@@ -391,10 +407,14 @@ A entidade só deve reconhecer um passivo de empréstimo quando do recebimento d
 
 
 ## - Duplicatas Descontadas;
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Debêntures
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Provisões (CPC 25);
+- [ ] status [dom:: 0] [peso:: 3]
 
 ## - Tributos sobre Lucro (CPC 32); e
+- [ ] status [dom:: 0] [peso:: 3]
 
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4723)
 
@@ -436,8 +456,10 @@ CPC 32, item 56: 
 “Os ativos e passivos fiscais diferidos devem ser classificados como não circulantes nas demonstrações contábeis.”
 
 ## - Folha de Pagamento (CPC 33).
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/671)
 ## - Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)
+- [ ] status [dom:: 0] [peso:: 3]
 
 **O que são <mark style="background:#fff88f">Reservas de Lucros</mark>?** São **parte do patrimônio líquido que representa lucros retidos** pela empresa, **podendo ser destinados a**:
 - **Reinvestimento** (expansão, capital de giro);
@@ -451,39 +473,51 @@ Exemplos: Reserva Legal, Reserva para Expansão, Reserva de Lucros a Realizar.
 - [Capital Social (Subscrito, a Realizar, Realizado)](https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4727?indice=1&materia=4726)
     
 ### - Ações (Ágio na Emissão, Reembolso, Resgate, Amortização, Gastos na Emissão)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4728?indice=1&materia=4726)
     
 ### - Reservas de Lucros
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4729?indice=1&materia=4726)
     
 ### - Reservas de Capital
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4730?indice=1&materia=4726)
     
 ### - Reserva de Reavaliação (Extinta)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4731?indice=1&materia=4726)
     
 ### - Ajuste de Avaliação Patrimonial
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3860?indice=1&materia=4726)
     
 ### - Ações em Tesouraria
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4733?indice=1&materia=4726)
     
 ### - Lucros e Prejuízos Acumulados
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4734?indice=1&materia=4726)
     
 ### - Opções Outorgadas Reconhecidas
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4735?indice=1&materia=4726)
     
 ### - Ajustes Acumulados de Conversão
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4736?indice=1&materia=4726)
     
 ### - Outras Contas do PL
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4737?indice=1&materia=4726)
 
 ## - Operações com Receitas e Despesas Antecipadas
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4706?indice=1&materia=)
     
 ## - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4724?indice=1&materia=)
 
 
@@ -491,8 +525,11 @@ Exemplos: Reserva Legal, Reserva para Expansão, Reserva de Lucros a Realizar.
 # Bloco D:
 
 ## - Propriedades para Investimento
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Ativo Não Circulante Mantido para Venda
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Ajustes de Conversão de Câmbio (CPC 02);
+- [ ] status [dom:: 0] [peso:: 3]
 -Resumo tec:
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4747).  #tec/resumo 
 
@@ -500,6 +537,7 @@ Exemplos: Reserva Legal, Reserva para Expansão, Reserva de Lucros a Realizar.
 
 
 ### GEMINI 
+- [ ] status [dom:: 0] [peso:: 3]
  1. O que é o Ágio (Goodwill)?
 A Cia Brasil descobre que a Cia EUA tem uma marca muito forte e vai dar muito lucro no futuro. Por isso, a Cia Brasil aceita pagar um valor **maior** do que a Cia EUA realmente vale no papel.
 - Esse valor pago a mais pela "expectativa de rentabilidade futura" é o famoso **Ágio (Goodwill)**.
@@ -530,6 +568,7 @@ Quando bater o olho em uma questão de **Ágio de controlada no exterior**, lem
 4. **Para onde vai a diferença cambial?** ORA (Patrimônio Líquido), e nunca para a DRE.
 
 ### 5. Resultado da Equivalência Patrimonial (REP)
+- [ ] status [dom:: 0] [peso:: 3]
 **No Cálculo da Equivalência Patrimonial:**
 
 - **Coligada** → **Eliminação do LÑR é Proporcional** à participação
@@ -551,6 +590,7 @@ Quando bater o olho em uma questão de **Ágio de controlada no exterior**, lem
     - O **Resultado Negativo** de Equivalência Patrimonial será reconhecido pelo **Valor Integral.**
 
 ### 7. Método do Custo
+- [ ] status [dom:: 0] [peso:: 3]
 
 - Método utilizado para **Investimentos Permanentes** que **não se enquadram em Coligadas, Controladas e ECC.**
     - São Avaliados → Custo de Aquisição - Provisão para perdas prováveis (comprovada como **permanente**).
@@ -568,6 +608,7 @@ Quando bater o olho em uma questão de **Ágio de controlada no exterior**, lem
 
 
 ## - Combinação de Negócios (CPC 15);
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 📌 **Combinação de Negócios** ⇒ uma operação ou outro evento por meio do qual um **Adquirente obtém o Controle** de um ou mais negócios, independentemente da forma jurídica da operação.
@@ -576,6 +617,7 @@ Quando bater o olho em uma questão de **Ágio de controlada no exterior**, lem
 - **Exemplos** de uma Combinação de Negócios → Obtenção de controle de uma Companhia, Incorporação, Fusão, Cisão.
 
 ### 1. Alcance
+- [ ] status [dom:: 0] [peso:: 3]
 
 O CPC 15 é **Aplicável** às operações ou a outros eventos que **atendam à definição de Combinação de Negócios.**
 
@@ -590,6 +632,7 @@ O CPC 15 é **Aplicável** às operações ou a outros eventos que **atendam 
         - **Não Geram** ágio por expectativa de rentabilidade futura _**(Goodwill).**_
 
 ### 2. Definições
+- [ ] status [dom:: 0] [peso:: 3]
 
 📌 **Negócio** ⇒ É um **conjunto integrado de atividades e ativos** capaz de ser conduzido e gerenciado com o objetivo de **fornecer bens ou serviços** a clientes, **gerando receita** de investimento (como dividendos ou juros) ou gerando outras receitas de atividades ordinárias.
 
@@ -611,6 +654,7 @@ O CPC 15 é **Aplicável** às operações ou a outros eventos que **atendam 
     - **Sem a transferência de nenhuma contraprestação,** inclusive por meio de acordos puramente **contratuais.**
 
 ### 4. Método de Aquisição
+- [ ] status [dom:: 0] [peso:: 3]
 
 A entidade deve **contabilizar cada combinação de negócios** pela aplicação do **Método de Aquisição.** A Aplicação do método **Exige:**
 
@@ -713,6 +757,7 @@ Goodwill=Valor Pago−Valor Justo x (% Participaca~o)Goodwill=Valor Pago�
 Em combinação de negócios realizada em estágios, o adquirente deve **mensurar novamente sua participação anterior** na adquirida **pelo valor justo** na data da aquisição e deve **reconhecer no resultado** do período **o ganho ou a perda** resultante, se houver, **ou em outros resultantes abrangentes,** conforme apropriado.
 
 ### 5. Aquisição Reversa
+- [ ] status [dom:: 0] [peso:: 3]
 
 - **O A****dquirente** contábil **normalmente** **não transfere ações nem outra forma de contraprestação para a adquirida contábil****.**
 
@@ -723,6 +768,7 @@ Em combinação de negócios realizada em estágios, o adquirente deve **mensur
     - Aquisição **Reversa** => **Adquirida** emite instrumentos de participação societária
 
 ### ➡️ Reorganização Societária
+- [ ] status [dom:: 0] [peso:: 3]
 
 **1. Transformação**
 
@@ -762,9 +808,11 @@ Em combinação de negócios realizada em estágios, o adquirente deve **mensur
 
 
 ## CPC 36 - Demonstrações Consolidadas;
+- [ ] status [dom:: 0] [peso:: 3]
 📌 Demonstrações Consolidadas ⇒ são as **DC's de grupo econômico,** em que os ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da **controladora e de suas controladas são apresentados como se fossem uma única entidade econômica.**
 
 ### 1. Alcance
+- [ ] status [dom:: 0] [peso:: 3]
 
 Se a Entidade for **Controladora** ⇒ Deve apresentar **Demonstrações Consolidadas. Exceto:**
 
@@ -791,6 +839,7 @@ O **Grupo de Sociedades** publicará → Demonstrações Consolidadas (compree
 |🚨 Nas **Demonstrações Consolidadas** serão **Excluídas:**<br><br>- **Participações** de uma **sociedade em outra.**<br>- **Saldos** de quaisquer contas **entre as sociedades.**<br>- Parcelas dos resultados do exercício, dos lucros ou prejuízos acumulados e do custo de estoques ou do ativo não circulante que corresponderem a **resultados, ainda não realizados, de negócios entre as sociedades.**|
 
 ### 2. Definições
+- [ ] status [dom:: 0] [peso:: 3]
 
 📌 **Demonstrações Consolidadas** ⇒ são as **DC's de grupo econômico,** em que os ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora e de suas controladas são apresentados **como se fossem uma única entidade** econômica.
 
@@ -855,6 +904,7 @@ Lucros e Dividendos da investida **Não Alteram** o **valor dos investimentos
         - **Qualquer Parcela** retida de investimento em coligada ou em controlada, ou em empreendimento controlado em conjunto, que **não** tenha sido **classificada como “mantido para venda”,** deve ser contabilizada por meio do uso do **MEP** até o momento da baixa efetiva da parcela classificada como mantido para venda.
 
 ### 3. Controle
+- [ ] status [dom:: 0] [peso:: 3]
 
 O Investidor **Controla** a investida **se possuir todos os atributos:**
 
@@ -877,6 +927,7 @@ A controladora deve elaborar demonstrações consolidadas utilizando **Polític
 |⚠️ A Participação dos Acionistas **Não Controladores:**<br><br>- De forma **Destacada no PL** (no Balanço Consolidado).|
 
 ### 5. Data das Demonstrações
+- [ ] status [dom:: 0] [peso:: 3]
 
 As **DC's da Controladora e de suas Controladas** utilizadas na elaboração das Demonstrações Consolidadas:
 
@@ -886,6 +937,7 @@ As **DC's da Controladora e de suas Controladas** utilizadas na elaboração d
     - A **Diferença** entre a data das DC's da Controlada e a das Demonstrações Consolidadas **não** deve ser **superior a 2 meses,**
 
 ### 6. Equivalência Patrimonial
+- [ ] status [dom:: 0] [peso:: 3]
 
 |                                                                                                                                          |                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -895,6 +947,7 @@ As **DC's da Controladora e de suas Controladas** utilizadas na elaboração d
 | LN~R=(Lucro da Operaca~o Intragrupo) x (% de Mercadorias em Estoque)LN~R=(Lucro da Operaca~o Intragrupo) x (% de Mercadorias em Estoque) |                                                                                          |
 
 ## - Investimentos MEP (CPC 18);
+- [ ] status [dom:: 0] [peso:: 3]
 - Resumo Tec
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/674). 
 
@@ -908,6 +961,7 @@ Valor justo da participação remanescente (25%): R$ 1.500.000
 R$ 6.500.000 - R$ 4.600.000 = **R$ 1.900.000**
 
 ### 4.2. Controle Direto e Indireto
+- [ ] status [dom:: 0] [peso:: 3]
 O controle pode ser exercido direta ou indiretamente:
 - **Controle direto:** a própria investidora possui os direitos que lhe asseguram poder sobre a investida;
 - **Controle indireto:** o poder é exercido por intermédio de uma ou mais sociedades controladas.
@@ -918,6 +972,7 @@ Considere que a empresa A controle a empresa B e que a empresa B controle a empr
 ![[Pasted image 20260820102949.png|582]]
 
 ### 5. Aplicação do MEP
+- [ ] status [dom:: 0] [peso:: 3]
 
 **5.1. Mudanças na Participação Societária**
 
@@ -937,6 +992,7 @@ Se a **participação societária** de entidade em coligada ou em ECC **for 
 - Em suma, o **LÑR** é o valor dos ativos que **ainda** **não foi revendido para terceiros.**
 
 ### 6. Resultado da Equivalência Patrimonial (REP)
+- [ ] status [dom:: 0] [peso:: 3]
 
 **No Cálculo da Equivalência Patrimonial:**
 - **Coligada** → **Eliminação do LÑR é Proporcional** à participação
@@ -950,12 +1006,16 @@ Se a **participação societária** de entidade em coligada ou em ECC **for 
 ![[Captura de Tela 2026-08-20 às 10.37.50.png|1182]]
 
 ## - Goodwill
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Dividendos e Juros sobre Capital Próprio; e
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Lei 6.404 e suas alterações
+- [ ] status [dom:: 0] [peso:: 3]
 
 # Bloco E:
 
 ## - Apresentação das Demonstrações Contábeis (CPC 26);
+- [ ] status [dom:: 0] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 
 **DEMONSTRATIVOS CONTÁBEIS OBRIGATÓRIOS:**
@@ -984,6 +1044,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 * O CPC 26 (R1) afirma que a DVA deve ser divulgada se exigida legalmente => Ela é exigida pela Lei 11.638/07.
 
 ## - Balanço Patrimonial;
+- [ ] status [dom:: 0] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/996)
 
 <mark style="background:#affad1">No caso:</mark>
@@ -997,14 +1058,19 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/996)
 
 
 ## - Demonstração do Resultado do Exercício;
+- [ ] status [dom:: 0] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/998)
 
 ## - Demonstração do Valor Adicionado (CPC 09);
+- [ ] status [dom:: 0] [peso:: 3]
 resumo tec: ()
 
 ## - Demonstração de Mudança do Patrimônio Líquido (DMPL);
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Demonstração de Lucro e Prejuízo Acumulado (DLPA);
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Demonstração do Resultado Abrangente (DRA); e
+- [ ] status [dom:: 0] [peso:: 3]
 tec resumo : (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3857)
 
 “Apêndice A - **Todas as mutações patrimoniais, que não as transações de capital com os sócios, integram a Demonstração do Resultado Abrangente**
@@ -1032,19 +1098,25 @@ Os componentes dos outros resultados abrangentes incluem: 
 
 ![[Pasted image 20260827164840.png|941]]
 ## - Demonstrações Consolidadas
+- [ ] status [dom:: 0] [peso:: 3]
 
 # Bloco F:
 
 ## - Demonstração de Fluxo de Caixa (CPC 03)
+- [ ] status [dom:: 0] [peso:: 3]
 
 Os equivalentes de caixa são mantidos com a finalidade de atender a compromissos de caixa de curto prazo e não para investimento ou outros fins. Para que um investimento se qualifique como equivalente de caixa, ele precisa ter conversibilidade imediata em um montante conhecido de caixa e estar sujeito a um insignificante risco de mudança de valor. **Portanto, um investimento normalmente se qualifica como equivalente de caixa somente quando tem vencimento de curto prazo, por exemplo, três meses ou menos, a contar da data de aquisição.**
 ## - Arrendamento (CPC 06);
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Partes Relacionadas (CPC 05);
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Subvenções (CPC 07);
+- [ ] status [dom:: 0] [peso:: 3]
 ![[Captura de Tela 2026-08-30 às 11.29.49.png|472]]
 
 
 ## - Estoques (CPC 16)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/2276)
 
 ![](https://www.techconcursos.com.br/img/teoria/fique-ligado.png)
@@ -1086,6 +1158,7 @@ Um exemplo ocorre quando materiais adquiridos para revenda são utilizados na co
 
 
 ## - Eventos Subsequentes (CPC 24)
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 
@@ -1108,7 +1181,9 @@ ___
 | Departamentalização                                            | 3,6%  |
 | Equivalente de Produção                                        | 2,3%  |
 ## - Bloco A: Funções, Terminologia e Classificação de Custos. NBC TSP 34.
+- [ ] status [dom:: 0] [peso:: 3]
 ### 1. Introdução à Contabilidade de Custos
+- [ ] status [dom:: 0] [peso:: 3]
 **1.1 Contabilidade Financeira x Contabilidade Gerencial**
 
 - Diferenciação Basilar:
@@ -1144,6 +1219,7 @@ ___
 
 
 ### 2. Terminologia Aplicada à Contabilidade de Custos
+- [ ] status [dom:: 0] [peso:: 3]
 
 📌 **DESEMBOLSO** ⇒ **Pagamento** que resulta da aquisição de um bem ou de um serviço (representa a **saída de caixa**).
 
@@ -1174,6 +1250,7 @@ ___
 - - ⚠️ Se o produto estiver **Acabado**, **a Perda** (independente de normal ou anormal) irá para o **Resultado (Despesa).**
 
 ### 3. Classificação dos Custos
+- [ ] status [dom:: 0] [peso:: 3]
 
 **3.1. Quanto à Apropriação aos Produtos**
 
@@ -1241,15 +1318,19 @@ Conforme o exemplo do autor Eliseu Martins: “_o que não é controlável pelo 
 ⚠️ Dessa forma, **você deve analisar se os custos ocorrem ou não dentro do departamento que está sendo analisado**. Se ocorrem fora do departamento X, não são controláveis por este, por exemplo. No entanto, conforme a explicação acima, é controlável por um outro que não o de referência.
 
 ## - Bloco B: Custeio por Absorção; Subprodutos, Sucatas e Coprodutos
+- [ ] status [dom:: 0] [peso:: 3]
 ### Subprodutos, Sucatas e Coprodutos
+- [ ] status [dom:: 0] [peso:: 3]
 ![[Pasted image 20260825154413.png|917]]
 
 
 
 ### Custeio por Absorção: Caso Geral sem Departamentalização
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1804?indice=1&materia=1952)
         
 ### Equivalente de Produção. Custo por Ordem e por Processo.
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1955?indice=1&materia=1952)
 
 --**CERTO**:  Aqui estamos diante da definição usada por Elisei Martins: _**Critério da Proporcionalidade do Custo Total**_: "A empresa verifica quanto foi incorrido em cada período como parte do custo total previsto para o contrato, apropriando também a mesma porcentagem da receita total."
@@ -1267,9 +1348,11 @@ Dessa forma, sabendo que: _**Custo de conversão ou de transformação = MOD + 
 
 
 ### Departamentalização
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1805?indice=1&materia=1952)
 
 ## - Bloco C: Custos para Decisão. Custo Padrão
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 

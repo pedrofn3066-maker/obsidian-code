@@ -66,8 +66,10 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 # Bloco A:  Teoria da Informação. Dados Abertos. Ciclo de Vida. Governança. Qualidade de Dados, DMBOK
 
 ## - 1 Teoria da Informação: entropia, redundância, ruído, comunicação e valor da informação.
+- [ ] status [dom:: 0] [peso:: 3]
 
 ## - 2 Dados Abertos: princípios (abertos por padrão, acessíveis, reutilizáveis), transparência governamental e interoperabilidade.
+- [ ] status [dom:: 0] [peso:: 3]
 
 - Segundo a Open Knowledge Foundation - OKFn, “**dados são abertos** quando qualquer pessoa pode livremente usá-los, reutilizá-los e redistribuí-los, estando sujeito a, no máximo, a exigência de creditar a sua autoria e compartilhar pela mesma licença”. Quando os dados são produzidos, coletados ou custodiados por autoridades públicas e disponibilizados em formato aberto, diz-se que são dados abertos governamentais. Ainda segundo a OKFn, dados abertos também são pautados por três leis e oito princípios:
 
@@ -94,6 +96,7 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 
 
 ## -  3 Ciclo de Vida dos Dados: coleta, armazenamento, processamento, compartilhamento, retenção e descarte.
+- [ ] status [dom:: 0] [peso:: 3]
 
  **ILM (Information Lifecycle Management)**, ou **Gestão do Ciclo de Vida da Informação**, é um conjunto de políticas, processos e tecnologias usados para gerenciar as informações (dados) ao longo de todo o seu ciclo de vida – desde a criação até a destruição. O ILM busca garantir que os dados sejam armazenados, acessados e descartados de forma eficiente, segura e em conformidade com regulamentos e políticas organizacionais.
 
@@ -157,6 +160,7 @@ A transformação de dados é um processo no qual os dados brutos são modificad
 |**Custo de aquisição**|Custo de aquisição e verificação dos dados em sua forma original.|
 
 ## -  4 Governança de Dados: papéis, políticas, accountability, stewardship e alinhamento estratégico.
+- [ ] status [dom:: 0] [peso:: 3]
 
 **De acordo com o DAMA DMBOK, a governança de dados tem como objetivo central habilitar a organização a gerenciar seus dados como ativos valiosos, exigindo _accountability_ (responsabilização), controle e regras bem definidas, de forma alinhada aos objetivos do negócio.**
 Veja os erros das outras opções:
@@ -167,8 +171,10 @@ Veja os erros das outras opções:
 
 
 ## - 5 Qualidade de Dados: completude, consistência, acurácia, unicidade, atualidade e integridade.
+- [ ] status [dom:: 0] [peso:: 3]
 
 ## - 6 DMBOK: áreas de conhecimento, governança, arquitetura de dados, metadados, qualidade, segurança e master data.
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 # Bloco B: Data mining, CSV, XML, JSON, CRISP-DM
@@ -180,6 +186,7 @@ Veja os erros das outras opções:
 **Redução -** Tenta reduzir o volume de dados sem provocar grandes alterações no resultado. Compressão de atributos e redução do número de dados.
 <mark style="background:rgba(240, 200, 0, 0.2)">Discretização</mark> – Faz parte do processo de redução, mas tem papel importante, especialmente com dados numéricos. <font color="#ff0000">Visa estabelecer valores discretos para variáveis contínuas.</font>
 ## XML
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.w3schools.com/xml/schema_facets.asp).
 
 XML é uma linguagem de <mark style="background:rgba(240, 200, 0, 0.2)">marcação</mark>, ou seja, utilizarmos para organizar a estrutura de uma página. Quando falamos em estilos em uma página a primeira linguagem que vem à mente é CSS. Também temos uma conhecida como XSLT para estilar o XML.
@@ -193,6 +200,7 @@ Define que só aceitará 3 letras minúsculas do alfabeto entre a e z
 <xs:pattern value="[a-z][a-z][a-z]"/>
 
 ## JSON
+- [ ] status [dom:: 0] [peso:: 3]
 **JSON**
 ```
 {

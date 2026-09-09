@@ -56,8 +56,10 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 # - Bloco A:
 
 ## - Business Process Management — BPM
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1. Gerenciamento de Processos de Negócio (BPM)
+- [ ] status [dom:: 0] [peso:: 3]
 
 > _“Gerenciamento de processo de negócio (BPM- Business Process Management) representa uma nova forma de visualizar as operações de negocio que vai além das estruturas funcionais tradicionais.”_ (PBM CBOK, 2013, p.33)
 
@@ -97,6 +99,7 @@ Tem o propósito de para **medir, monitorar, controlar** atividades e administ
 ![[Captura de Tela 2026-08-19 às 12.17.49.png|950]]
 
 ### 2. Modelagem de processos de negócio
+- [ ] status [dom:: 0] [peso:: 3]
 
 Modelagem de processos de negócio é o conjunto de atividades envolvidas na **criação de representações de processos de negócio** existentes ou propostos.
 
@@ -121,6 +124,7 @@ O BPM**N** é a **N**otação da modelagem de processo.
 BPM CBOK: Guia para o Gerenciamento de Processos de Negócio. Corpo Comum do Conhecimento – ABPMP BPM CBOK, Association of Business Process Management Professionals.
 
 ### 3. Análise de Processos
+- [ ] status [dom:: 0] [peso:: 3]
 
 O primeiro passo para **definir um novo processo** ou **atualizar** um que já exista é criar um entendimento comum do estado atual ("**AS-IS**") do processo e como ele cumpre seus objetivos. 
 
@@ -146,8 +150,10 @@ Responsabilidades de alguns papéis
 
 
 ## - Business Process Model and Notation — BPMN
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1. Business Process Model and Notation (BPMN)
+- [ ] status [dom:: 0] [peso:: 3]
 
 > Notação padrão para o desenho de fluxogramas em Processos de Negócios que refere-se um conjunto de regras e convenções, determinando como os fluxogramas devem ser desenhados (WHITE, 2006)
 
@@ -190,6 +196,7 @@ De acordo com Chinosi e Trombetta (2012), o BPMN pode modelar três tipos difere
 
 
 #### Materiais Complementares de Consulta
+- [ ] status [dom:: 0] [peso:: 3]
 
 - [**Guia Simplificado de Boas Práticas em Modelagem de Processos com BPMN**](https://www.ufmg.br/dti/wp-content/uploads/2019/01/POP-0001-ANEXO-A-Guia-simplificado-de-boas-praticas-em-modelagem.pdf) do departamento de TI da UFMG
 - **blog da iprocess** (Algumas postagens desse blog já foram cobradas em provas da área fiscal):
@@ -211,11 +218,14 @@ De acordo com Chinosi e Trombetta (2012), o BPMN pode modelar três tipos difere
 
 
 ## - Capability Maturity Model Integration 3.0 — CMMI 3.0
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Melhoria de Processo do Software Brasileiro 2023 — MPS.BR 2023
+- [ ] status [dom:: 0] [peso:: 3]
 
 # - Bloco B:
 
 ## - Lei Geral de Proteção de Dados Pessoais — LGPD
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 ![[Pasted image 20260829183844.png|750]]
@@ -230,7 +240,9 @@ De acordo com Chinosi e Trombetta (2012), o BPMN pode modelar três tipos difere
 ✔ **Rastreabilidade:** A guarda de registros (logs de tratamento) é dever legal.
 
 ## - ISO/IEC 27001 — Sistema de Gestão de Segurança da Informação
+- [ ] status [dom:: 0] [peso:: 3]
 ## - ISO/IEC 27002 — Controles de Segurança da Informação
+- [ ] status [dom:: 0] [peso:: 3]
 
 -- Na verdade, são 4 tipos de controles apontados na Norma ISO 27002/2022. **São eles: 1. Controles Organizacionais, 2. Controles de Pessoal, 3. Controles Físicos e 4. Controles Tecnológicos. Vejamos abaixo uma descrição sobre isso:**
 > Os controles da ISO 27002 são referenciados no Anexo da ISO 27001, para apoio à implementação de um Sistema de Gestão de Segurança da Informação (SGSI).
@@ -266,21 +278,31 @@ Responder
     Relaciona-se a falhas nos mecanismos de autenticação.
 
 ## - Open Worldwide Application Security Project — OWASP
+- [ ] status [dom:: 0] [peso:: 3]
 
 # - Bloco C:
 
 ## - Engenharia de Requisitos
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Unified Modeling Language — UML
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Testes de Software
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Arquitetura de Software
+- [ ] status [dom:: 0] [peso:: 3]
 
 # - Bloco D:
 
 ## - Web Services — Serviços Web
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Padrões de Projeto — Design Patterns
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Análise de Pontos de Função — APF
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Portais Corporativos e Institucionais
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Gerenciamento Eletrônico de Documentos — GED
+- [ ] status [dom:: 0] [peso:: 3]
 
 ---
 

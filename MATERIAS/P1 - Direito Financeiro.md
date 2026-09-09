@@ -52,11 +52,13 @@ Cobertura preventiva. Tem sobreposição forte com Finanças Públicas — estud
 # Bloco A:
 
 ## - Introdução, Orçamento Público (aspectos normativos, doutrinários e legais)
+- [ ] status [dom:: 0] [peso:: 2]
 - #dominio/baixo [cad:: 3d] [prox:: 2026-08-24]
 ART 163. lei complementar como exigência.
 [[CF88_EC135_2025.pdf#search=163|CF88_EC135_2025, p.101|]]
 
 ### A Atividade Financeira do Estado
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/4622?indice=1&materia=6054)
 
 Em síntese, a Atividade Financeira do Estado consiste em:
@@ -68,29 +70,37 @@ Em síntese, a Atividade Financeira do Estado consiste em:
 
 
 ### Normas Gerais de Direito Financeiro
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1455?indice=1&materia=6054)
 
 
 ### Funções de Governo
+- [ ] status [dom:: 0] [peso:: 2]
 
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/389?indice=1&materia=6054)
 
 ## Orçamento Público
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### -Conceito e Natureza Jurídica do Orçamento Público
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1457?indice=1&materia=4226)
 
 
 
 ### Classificações do Orçamento Público
+- [ ] status [dom:: 0] [peso:: 2]
 
 #### Tipos de Orçamento Público (Executivo, Legislativo, Misto)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/3169?indice=1&materia=4226)
     
 #### Aspectos/Dimensões do Orçamento Público (Jurídico, Político, Social, etc)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/3171?indice=1&materia=4226)
     
 #### Técnicas/Espécies Orçamentárias (Orçamento Programa, Tradicional, Participativo, Base Zero, etc)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1454?indice=1&materia=4226)
 
 
@@ -98,6 +108,7 @@ Em síntese, a Atividade Financeira do Estado consiste em:
 
 
 ## - Evolução Conceitual do Orçamento
+- [ ] status [dom:: 0] [peso:: 2]
 
 |                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                               |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -106,6 +117,7 @@ Em síntese, a Atividade Financeira do Estado consiste em:
 
 
 ### - Princípios Orçamentários
+- [ ] status [dom:: 0] [peso:: 2]
 
 ![[Pasted image 20260815174827.png]]
 
@@ -127,16 +139,20 @@ D- **D**espesa.
 **2) “CGU + débitos”** – Prestação de **C**ontragarantias ou **G**arantias à **U**nião e para pagamentos de **débitos** para com esta (art. 167, § 4º).
 
 ## - Créditos Adicionais
+- [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1740)
 
 
 
 ## - Fundos na Lei 4.320/54
+- [ ] status [dom:: 0] [peso:: 2]
 
 # Bloco B:
 
 ## - Lei orçamentárias (LDO, PPA e LOA)
+- [ ] status [dom:: 0] [peso:: 2]
 ### PPA - Plano Plurianual (CF/1988 e Lei nº 4.320/1964)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1464?indice=1&materia=4226)
 **Diretrizes:** são as normas e orientações de caráter geral/amplo e estratégico para o Governo, utilizadas para que os objetivos delineados sejam alcançados. Por exemplo, o desenvolvimento sustentável, a valorização cultural ou a melhoria contínua da qualidade dos serviços públicos podem ser considerados diretrizes para o PPA;
 
@@ -160,6 +176,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1740)
 
 
 ### LDO - Lei de Diretrizes Orçamentárias (CF/1988 e Lei nº 4.320/1964)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1465?indice=1&materia=4226)
 
 **Anexo de Riscos Fiscais (LDO):**
@@ -174,6 +191,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1740)
 
 
 ### LOA - Lei Orçamentária Anual (CF/1988 e Lei nº 4.320/1964)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1468?indice=1&materia=4226)
 
 Art. 166. Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na forma do regimento comum.
@@ -191,6 +209,7 @@ Art. 165 (...)
 § 8º A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares <mark style="background:#affad1">e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.</mark>
 
 ## - Emendas
+- [ ] status [dom:: 0] [peso:: 2]
 
 **EMENDAS INDIVIDUAIS IMPOSITIVAS**
 - **Não** podem ser utilizadas em despesa com pessoal e serviço da dívida
@@ -203,48 +222,69 @@ Art. 165 (...)
 - Aplicação obrigatória em área finalísticas de atuação do Executivo
 
 ## - Ciclo orçamentário
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Vedações orçamentárias na CF 88
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Dos orçamentos na CF 88 (Art. 163 ao Art. 169 da CF 88)
+- [ ] status [dom:: 0] [peso:: 2]
 
 # Bloco C:
 
 ## - Receita: Conceitos, classificações e estágio
+- [ ] status [dom:: 0] [peso:: 2]
 
 ### Conceitos Gerais (Orçamentária e Extraorçamentária, Afetação Patrimonial, Regularidade, Coercitividade)
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1524?indice=1&materia=1486)
     
 ### Classificação por Natureza da Receita
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1487?indice=1&materia=1486)
     
 ### Classificação da Receita por Esfera Orçamentária
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1466?indice=1&materia=1486)
     
 ### Classificação por Fonte / Destinação de Recursos
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1489?indice=1&materia=1486)
     
 ### Classificação da Receita por Identificador de Resultado Primário
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/4208?indice=1&materia=1486)
     
 ### Estágios da Receita Pública
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1503?indice=1&materia=1486)
     
 ### Dívida Ativa
+- [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1491?indice=1&materia=1486)
 
 
 ## - Despesa: Conceitos, classificações e estágio
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Despesa de exercícios anteriores
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Restos a pagar
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Suprimento de fundos
+- [ ] status [dom:: 0] [peso:: 2]
 
 # Bloco D:
 
 ## - Lei de Responsabilidade Fiscal
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Manual de demonstrativos fiscais
+- [ ] status [dom:: 0] [peso:: 2]
 ## - SIAFI, Conta única, Lei 10.180
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Outros aspectos da lei 4.320
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Programação e descentralização orçamentária e financeira
+- [ ] status [dom:: 0] [peso:: 2]
 ## - Precatórios
+- [ ] status [dom:: 0] [peso:: 2]
 
 
 

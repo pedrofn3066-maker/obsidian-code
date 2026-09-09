@@ -56,18 +56,29 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 
 # Bloco A
 ## - Juros Simples e Compostos;
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Descontos Simples e Compostos (racional e comercial);
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Taxas Efetivas, Nominais e Equivalentes;
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Convenção Linear e Exponencial;
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Capitalização Contínua.
+- [ ] status [dom:: 0] [peso:: 3]
 # Bloco B
 ## - Inflação;
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Juros Reais x Aparentes;
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Equivalência de Capitais;
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Série de Pagamentos - Rendas.
+- [ ] status [dom:: 0] [peso:: 3]
 # Bloco C
 ## - Sistemas de Amortização;
+- [ ] status [dom:: 0] [peso:: 3]
 ### Sistema de Amortização Constante (SAC)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/20/assuntos/714?indice=1&materia=713)
 
 (Esaf) Um financiamento no valor de R$ 360.000,00 deve ser pago em 180 prestações mensais, pelo Sistema de Amortizações Constantes - SAC, a uma taxa nominal de 12% ao ano, vencendo a primeira prestação ao fim do primeiro mês, a segunda ao fim do segundo mês e assim sucessivamente. Calcule o valor mais próximo da décima prestação.
@@ -94,6 +105,7 @@ Além disso, teremos o pagamento da amortização de 2.000,00. Somando tudo, a p
 2.000+3.420=5.420
 
 ### Sistema de Amortização Francês (Price)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/20/assuntos/715?indice=1&materia=713)
 
 ![[Captura de Tela 2026-09-03 às 10.13.50.png|705]]
@@ -104,16 +116,20 @@ Além disso, teremos o pagamento da amortização de 2.000,00. Somando tudo, a p
 
 
 ### Sistema de Amortização Americano
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/20/assuntos/716?indice=1&materia=713)
     
 ### Sistema de Amortização Alemão
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/20/assuntos/717?indice=1&materia=713)
     
 ### Sistemas Mistos de Amortização
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/20/assuntos/718?indice=1&materia=713)
 
 
 ## - Análise de Investimentos.
+- [ ] status [dom:: 0] [peso:: 3]
 ___
 
 

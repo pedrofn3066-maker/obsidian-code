@@ -64,19 +64,30 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 # Bloco A:
 
 ## - Conceitos Iniciais de Banco de Dados
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Conceitos e Fases de Projeto e Modelagem de Dados
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Organização de Arquivos e Métodos de Acesso
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Recuperação de Dados em SGBDs
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Transações (Locks, ACID, etc.)
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Visão (View), Triggers, Índices
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Administração de Banco de Dados (DBA) e do Administrador de Dados (DA)
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Segurança em Banco de Dados
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Outros Tipos e Modelos de Bancos de Dados
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Catálogo e Dicionário de Dados
+- [ ] status [dom:: 0] [peso:: 3]
 
 # Bloco B:
 
 ## - Conceitos e Fundamentos de Modelo Relacional;
+- [ ] status [dom:: 0] [peso:: 3]
 
 - A principal diferença entre as restrições **PRIMARY KEY** e **UNIQUE** está no tratamento de valores NULL. Ambas impõem unicidade aos valores armazenados, impedindo a ocorrência de duplicidades. Entretanto, a chave primária também exige que todos os seus atributos sejam obrigatoriamente preenchidos, ou seja, não admite valores NULL.
 
@@ -100,6 +111,7 @@ Onde,
 Assim, cada uma dessas dependências é "não trivial" pois não é uma repetição da mesma informação. Além disso, tanto **A** quanto **B** são superchaves, porque são únicos e não nulos. Logo, todas as quatro dependências atendem à condição da **FNBC**.
 
 ### 1.6 AS REGRAS DE CODD
+- [ ] status [dom:: 0] [peso:: 3]
 Foram criadas para definir o que é necessário para que um SGBD seja considerado relacional:
 
 - #1: as regras para informações
@@ -133,6 +145,7 @@ Foram criadas para definir o que é necessário para que um SGBD seja considerad
 - #12: A regra de não subversão
 
 ## - Modelo Entidade-Relacionamento (MER)
+- [ ] status [dom:: 0] [peso:: 3]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/141/assuntos/4953). 
 
@@ -141,8 +154,11 @@ Foram criadas para definir o que é necessário para que um SGBD seja considerad
 
 
 ## - Modelagem e Mapeamento ER-relacional
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Álgebra Relacional
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Normalização
+- [ ] status [dom:: 0] [peso:: 3]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/141/assuntos/2380).
 
@@ -155,12 +171,14 @@ Foram criadas para definir o que é necessário para que um SGBD seja considerad
 # Bloco C:
 
 ## - Modelagem Dimensional
+- [ ] status [dom:: 0] [peso:: 3]
 
 **A tabela de fatos armazena os fatos ocorridos e as chave para as características correspondentes, nas tabelas dimensionais**.
 As **chaves primárias** das tabelas <font color="#548dd4">Dimensão</font> são **chaves estrangeiras** na tabela <font color="#9bbb59">Fato</font>.
 
 
 ## - OLAP e suas diferenças com OLTP
+- [ ] status [dom:: 0] [peso:: 3]
 
 _O OLAP (On-Line Analytical Processing) é uma ferramenta de análise de dados usada para examinar grandes volumes de informações armazenadas em Data Warehouses → seu foco é permitir análises multidimensionais baseadas em **cubos de dados** → cada cubo contém **dimensões** (como tempo, produto, região) e **medidas** (como vendas ou lucro)._
 
@@ -191,12 +209,14 @@ A pergunta pede que se identifique, entre as opções, o tipo de aplicação que
 
 
 ## - Otimização (Tuning) em Banco de Dados
+- [ ] status [dom:: 0] [peso:: 3]
 
 **Resumo para concurso:** B-tree = consultas gerais e `LIKE 'prefixo%'`; Full-text = busca textual por palavras; Hash = igualdade exata; Bitmap = baixa cardinalidade e BI/Data Warehouse; Espacial = dados geográficos.
 
 
 
 ## - Cloud Computing (Computação em Nuvem)
+- [ ] status [dom:: 0] [peso:: 3]
 O termo **computação em nuvem** _**(cloud computing)**_ define um tipo de serviço disponibilizado por organizações a fim de entregar tipos específicos de recursos de computação conforme demanda do cliente através da internet, podendo haver definição de preço, tempo de uso, quantidade de dados trafegados, capacidade computacional, armazenamento de dados, limitação de tipos ou características em determinados serviços, etc. conforme contratado pelo cliente. Ou seja, é possível comprar a disponibilização de serviços como _datacenters_, servidores, máquinas virtuais, etc., de forma remota, aumentando e diminuindo os recursos disponíveis rapidamente, conforme acordo entre as partes ou conforme disponibilizado pelo locador do serviço.
 
 De forma geral, existem muitas formas de classificar os modelos de abordagens em nuvem, embora as mais comuns são as que se referem ao modelo de serviços e são classificadas em 3 tipos:
@@ -223,21 +243,29 @@ Portanto, a afirmação de que uma zona de disponibilidade é composta por um co
 # Bloco D:
 
 ## - Big Data
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Business Intelligence e Analytics
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Definições e Funções de Data Warehouse e Data Mart
+- [ ] status [dom:: 0] [peso:: 3]
 ## - ETL (Extração, Transformação e Carga)
+- [ ] status [dom:: 0] [peso:: 3]
 
 # Bloco E:
 
 ## - Consultas e Comandos em SQL
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Sublinguagens SQL (DDL, DML, DQL, DCL e DTL)
+- [ ] status [dom:: 0] [peso:: 3]
 ## - Procedimentos Armazenados (Stored Procedures)
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### SGBD
 - [ ] status [dom:: 0] [peso:: 3]
 
 
 #### RECUPERAÇÃO DE DADOS 
+- [ ] status [dom:: 0] [peso:: 3]
 
 A **paginação de sombra** é uma técnica utilizada em sistemas de banco de dados para recuperação de transações, que evita a necessidade de logs complexos, garantindo a integridade e consistência dos dados em caso de falhas. Essa técnica é baseada na manutenção de uma cópia "sombra" da página de dados antes de qualquer modificação, permitindo uma recuperação confiável caso a transação não seja concluída com sucesso.
 
@@ -258,6 +286,7 @@ A **paginação de sombra** é uma técnica utilizada em sistemas de banco de 
 
 
 ## Banco de dados relacional; modelo entidade-relacionamento; normalização
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 >O **modelo relacional** representa um banco de dados como uma **coleção de tabelas** **bidimensionais**(linhas x colunas), onde cada tabela pode ser armazenada como um arquivo separado. As tabelas (relações) representam tanto os dados como os relacionamentos entre esses dados.
@@ -274,9 +303,11 @@ C)** **Exclusive lock**: um bloqueio exclusivo previne outros usuários de aces
 
 
 ## SQL: consulta, agregação, junção
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 ## NoSQL
+- [ ] status [dom:: 0] [peso:: 3]
 
 |Tipo de banco NoSQL|Estrutura|Melhor uso|
 |---|---|---|

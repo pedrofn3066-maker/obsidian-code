@@ -69,13 +69,16 @@ De qualquer forma, não é matéria separada de LTE: é a mesma matéria em outr
 
 # Bloco A:  
 ## Conceito de Tributo;   
+- [ ] status [dom:: 0] [peso:: 3]
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5886?indice=1&materia=3680)
 
 **O poder público tem o dever de lançar e cobrar o tributo devido, não há análise de conveniência e de oportunidade, não há discricionariedade.**
 
 
 ## Classificação dos Tributos;   
+- [ ] status [dom:: 0] [peso:: 3]
 ## Natureza Jurídica dos Tributos;   
+- [ ] status [dom:: 0] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/3679?indice=1&materia=3680)
 ![[Pasted image 20260823173037.png]]
 Ocorre que a CF/88 previu a instituição de dois novos tributos, que passaram a integrar o sistema tributários brasileiro, quais sejam: <mark style="background:rgba(163, 67, 31, 0.2)">as contribuições especiais e os empréstimos compulsórios.</mark> **Para esses dois novos tributos, torna-se relevante a destinação legal do produto da sua arrecadação, pois tratam-se de tributos finalísticos.** Tributos finalísticos são aqueles onde a destinação do produto da arrecadação é relevante para identificar a natureza jurídica da espécie tributária, uma vez que a Constituição afetou a arrecadação da exação a determinados fins.
@@ -85,6 +88,7 @@ Ocorre que a CF/88 previu a instituição de dois novos tributos, que passaram a
 
 
 ## Espécies de Tributos;   
+- [ ] status [dom:: 0] [peso:: 3]
 ![[Pasted image 20260823173612.png]]
 
 	taxa:
@@ -135,12 +139,16 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 
 
 ## Limitações ao Poder de Tributar; 
+- [ ] status [dom:: 0] [peso:: 3]
 
   
 # Bloco B:  
 ## Competência Tributária;   
+- [ ] status [dom:: 0] [peso:: 3]
 ## Legislação Tributária;   
+- [ ] status [dom:: 0] [peso:: 3]
 ### VIGÊNCIA DA LEGISLAÇÃO TRIBUTÁRIA(arts. 101 a 106 do CTN);
+- [ ] status [dom:: 0] [peso:: 3]
 tec resumo:
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/590).
 ![[Pasted image 20260821145018.png|832]]
@@ -151,11 +159,14 @@ tec resumo:
 
 
 ### Interpretação e Integração da Legislação Tributária (arts. 107 a 112 do CTN);
+- [ ] status [dom:: 0] [peso:: 3]
 Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?indice=1&materia=589).
 
 ## Obrigação Tributária.
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### Fato Gerador (arts. 114 a 118 do CTN)
+- [ ] status [dom:: 0] [peso:: 3]
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?indice=1&materia=592)
 
 - #jurisprudencia 
@@ -166,13 +177,17 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?ind
 **3. ADI 2.446 (STF):** O STF disse "sim" à constitucionalidade do artigo, mas disse "não" à sua aplicação imediata. Sem lei ordinária local regulamentando o rito, o fiscal de tributos **não pode** utilizar o parágrafo único do art. 116 para desconsiderar o planejamento do contribuinte.
 
 ### Responsabilidade Tributária (arts. 128 a 138 do CTN);
+- [ ] status [dom:: 0] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
 
 ![[Pasted image 20260821150618.png]]
 
 ## Sujeito Ativo 
+- [ ] status [dom:: 0] [peso:: 3]
 ## Sujeito Passivo 
+- [ ] status [dom:: 0] [peso:: 3]
 ## Responsabilidade Tributária
+- [ ] status [dom:: 0] [peso:: 3]
 
 >Art. 97. **Somente a lei pode estabelecer:** 
   III - a definição do fato gerador da obrigação tributária principal, ressalvado o disposto no inciso I do § 3º do art. 52, e do seu **sujeito passivo;**
@@ -194,7 +209,9 @@ VII - os sócios, no caso de liquidação de sociedade de pessoas.
   
 # Bloco C:   
 ## Crédito Tributário;   
+- [ ] status [dom:: 0] [peso:: 3]
 ### Lançamento
+- [ ] status [dom:: 0] [peso:: 3]
 
 Art. 149. O lançamento **é efetuado e revisto de ofício pela autoridade administrativa** nos seguintes casos:  
 [...]  
@@ -207,7 +224,9 @@ VII - quando se comprove que o sujeito passivo, ou terceiro em benefício daquel
 <mark style="background:rgba(3, 135, 102, 0.2)">Note que não há vedação pelo CTN para realização de denúncia espontânea no caso de cometimento de dolo, fraude ou simulação pelo sujeito passivo.</mark>
 
 ### Suspensão do Crédito tributário 
+- [ ] status [dom:: 0] [peso:: 3]
 ### Extinção do Crédito tributário
+- [ ] status [dom:: 0] [peso:: 3]
 Art. 161. O crédito não integralmente pago no vencimento **é acrescido de juros de mora, seja qual for o motivo determinante da falta, sem prejuízo da imposição das penalidades cabíveis** e da aplicação de quaisquer medidas de garantia previstas nesta Lei ou em lei tributária.
 § 1º Se a lei não dispuser de modo diverso, os juros de mora são calculados à taxa de um por cento ao mês.
 <mark style="background:rgba(240, 200, 0, 0.2)"> § 2º O disposto neste artigo não se aplica na pendência de consulta formulada pelo devedor dentro do prazo legal para pagamento do crédito.</mark>
@@ -216,10 +235,13 @@ Pagamento indevido:
 Art. 168 O direito de pleitear a restituição extingue-se com o decurso do prazo de 5 (cinco) anos , contados: I - nas hipóteses dos incisos I e II do artigo 165, da data da extinção do crédito tributário; [[MATERIAL/DIREITO TRIBUTÁRIO/Codigo_Tributario_Nacional_-_Lei_5172-1966_2col_8f3279.pdf#page=70|Codigo_Tributario_Nacional_-_Lei_5172-1966_2col_8f3279, p.70]]
 
 ### Exclusão do Crédito tributário
+- [ ] status [dom:: 0] [peso:: 3]
 
 ## Administração Tributária;  
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### Fiscalização Tributária (arts. 194 a 200 do CTN)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/603?indice=1&materia=602)
 
 _Art. 197. Mediante intimação escrita, são obrigados a prestar à autoridade administrativa todas as informações de que disponham com relação aos bens, negócios ou atividades de terceiros
@@ -233,30 +255,38 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 ![[Pasted image 20260827133809.png|865]]
 
 ### Dívida Ativa Tributária (arts. 201 a 204 do CTN)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/604?indice=1&materia=602)
     
 ### Certidão Negativa (arts. 205 a 208 do CTN)
+- [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/605?indice=1&materia=602)
 
 
 ## Repartição Constitucional de Receitas Tributárias.
+- [ ] status [dom:: 0] [peso:: 3]
 
   
 # Bloco D:   
 ## Simples Nacional;
+- [ ] status [dom:: 0] [peso:: 3]
 ### Das Disposições Preliminares (arts. 1º e 2º da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12729).
 
 ### Da Definição de Microempresa e de Empresa de Pequeno Porte (arts. 3º a 3º-B da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12730?indice=1&materia=1978)
 
 ### Da Inscrição e da Baixa (arts. 4º a 11 da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12731?indice=1&materia=1978)
 
 ### Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12732?indice=1&materia=1978)
 
@@ -276,8 +306,10 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 
 
 ## Impostos Federais, Estaduais, Municipais
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1. Introdução ao Imposto Predial e Territorial Urbano - IPTU
+- [ ] status [dom:: 0] [peso:: 3]
 
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5897)
@@ -289,11 +321,13 @@ I – ser progressivo em razão do valor do imóvel; e 
 **II – ter alíquotas diferentes de acordo com a localização e o uso do imóvel.**
 
 ## Planejamento Tributário: Elisão, Evasão e Elusão Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 **Art. 116, Parágrafo único do CTN:**
 "Parágrafo único. A autoridade administrativa poderá desconsiderar atos ou negócios jurídicos praticados com a finalidade de dissimular a ocorrência do fato gerador do tributo ou a natureza dos elementos constitutivos da obrigação tributária, **observados os procedimentos a serem estabelecidos em lei %%ordinária%%**."
 - O **Supremo Tribunal Federal (STF)**, ao julgar a **ADI 2.446**, confirmou a constitucionalidade do dispositivo, mas fixou o entendimento de que se trata de uma **norma de eficácia limitada**. Isso significa que o parágrafo único **não é autoaplicável**: cada ente federativo (União, Estados, Distrito Federal e Municípios) deve obrigatoriamente editar uma **lei ordinária específica** para regulamentar o procedimento de desconsideração antes que a fiscalização possa aplicá-lo.
 ## Reforma Tributária: EC 132/2023, LC 214/2025 e LC 227/2026
+- [ ] status [dom:: 0] [peso:: 3]
 
 # Imersão Temática: Processo Tributário I
  Ações Judiciais de Iniciativa do Fisco
@@ -306,8 +340,10 @@ O **Direito Processual Tributário** compreende o conjunto de normas que regulam
 
 - #dominio/baixo 
 ## 1. Introdução à Execução Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 ### 1.1. Constituição Definitiva do Crédito Tributário
+- [ ] status [dom:: 0] [peso:: 3]
 
 A **constituição definitiva do crédito tributário** é condição essencial para o início da execução fiscal e pode ocorrer nas seguintes hipóteses:
 
@@ -321,10 +357,12 @@ A **constituição definitiva do crédito tributário** é condição essencial 
 ✏️Lembre-se: durante o **processo administrativo**, ocorre o **controle interno de legalidade** pela Administração Tributária.
 
 ### 1.2. Inscrição em Dívida Ativa e CDA
+- [ ] status [dom:: 0] [peso:: 3]
 
 O objetivo da inscrição em dívida ativa é extrair a **Certidão de Dívida Ativa (CDA)**, que é um **título executivo extrajudicial** que viabiliza a **propositura da ação de execução fiscal.**
 
 #### 1.2.1. Presunção de Certeza e Liquidez
+- [ ] status [dom:: 0] [peso:: 3]
 
 A dívida regularmente inscrita goza de **presunção relativa** (_juris tantum_) de **certeza** e **liquidez**, conforme estabelece o art. 204 do CTN:
 
@@ -335,6 +373,7 @@ A dívida regularmente inscrita goza de **presunção relativa** (_juris tantum_
 💡 A presunção relativa admite prova em contrário, cabendo ao sujeito passivo apresentar provas inequívocas que afastem a certeza ou liquidez do crédito.
 
 #### 1.2.2. Requisitos do Termo de Inscrição da Dívida Ativa
+- [ ] status [dom:: 0] [peso:: 3]
 
 O CTN estabelece os **requisitos obrigatórios** que devem constar no termo de inscrição da dívida ativa, conforme o art. 202:
 
@@ -355,26 +394,31 @@ O CTN estabelece os **requisitos obrigatórios** que devem constar no termo de i
 ⚠️ A omissão ou erro nos requisitos acima são causas de **nulidade da inscrição** e do processo de cobrança dela decorrente, conforme o art. 203 do CTN.
 
 #### 1.2.3. Substituição da CDA
+- [ ] status [dom:: 0] [peso:: 3]
 
 Segundo a **Súmula 392 do STJ**: _“a Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução”_.
 
 🚨 A substituição da CDA só é admitida para corrigir erro material ou formal, não sendo possível para alterar o próprio lançamento tributário.
 
 ### 1.3. Inscrição em Dívida Ativa e Suspensão da Prescrição
+- [ ] status [dom:: 0] [peso:: 3]
 
 O art. 2º, § 3º, da LEF estabelece que a inscrição do crédito em Dívida Ativa **suspende a prescrição** pelo prazo de **180 dias**, ou **até a distribuição da execução fiscal**, se esta ocorrer antes.
 
 ⚠️ Entretanto, o STJ entende que esse dispositivo da LEF se aplica apenas às **dívidas de natureza não tributária**, uma vez que a regulamentação da prescrição em matéria tributária está sujeita à **reserva de lei complementar** (art. 146, III, b, da CF/88).
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > “A norma contida no art. 2º, § 3º da Lei 6.830/80, segundo a qual a inscrição em dívida ativa suspende a prescrição por 180 (cento e oitenta) dias ou até a distribuição da execução fiscal, se anterior àquele prazo, aplica-se tão-somente às dívidas de natureza não-tributárias, porque a prescrição das dívidas tributárias regula-se por lei complementar, no caso o art. 174 do CTN.” (STJ, REsp 881.607/MG, Segunda Turma, Rel Min. Eliana Calmon, Julgamento em 10/06/2008)
 
 ## 2. Noções Gerais Sobre Execução Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 A execução fiscal é regida pela **Lei 6.830/1980 (LEF)** e, **subsidiariamente**, pelo **Código de Processo Civil (CPC).**
 
 ### 2.1. Legitimidade Ativa
+- [ ] status [dom:: 0] [peso:: 3]
 
 São **legitimados ativamente para promover a execução fiscal:**
 
@@ -390,6 +434,7 @@ São **legitimados ativamente para promover a execução fiscal:**
 ⚠️ A **OAB**, por ser entidade sui generis e não um conselho de fiscalização profissional propriamente dito, **não tem legitimidade ativa para ajuizar execução fiscal**.
 
 ### 2.2. Características da Execução Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 A execução fiscal é ação ajuizada pela Fazenda Pública para satisfazer seu direito de receber o crédito tributário.
 
@@ -401,6 +446,7 @@ A execução fiscal é ação ajuizada pela Fazenda Pública para satisfazer seu
 |**Inscrição em dívida ativa**|Crédito se torna **exequível** (judicialmente)|
 
 ### 2.3. Competência para Julgamento
+- [ ] status [dom:: 0] [peso:: 3]
 
 A **competência para julgar a execução fiscal** depende da Fazenda Pública autora da ação:
 
@@ -412,14 +458,17 @@ A **competência para julgar a execução fiscal** depende da Fazenda Pública a
 🚨 O art. 5º da LEF estabelece que a competência para processar e julgar a execução da Dívida Ativa **exclui a de qualquer outro Juízo**, **inclusive o da falência, concordata, liquidação, insolvência ou inventário.**
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada. (Súmula 58 do STJ)
 
 ### 2.4. Título Executivo
+- [ ] status [dom:: 0] [peso:: 3]
 
 A **Certidão de Dívida Ativa (CDA)** é o título executivo extrajudicial que fundamenta a execução fiscal (art. 784, IX, do CPC). Ela é elaborada **unilateralmente pelo credor** (Fazenda Pública).
 
 #### 2.4.1. Requisitos para a Execução Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 Para **promover a ação de execução fiscal**, são necessários **dois requisitos**:
 
@@ -429,6 +478,7 @@ Para **promover a ação de execução fiscal**, são necessários **dois requis
     
 
 ### 2.5. Procedimento da Execução Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 O **processo de execução fiscal** se distingue do processo de conhecimento, pois nele **não há dúvidas sobre a existência da dívida**, já que a Fazenda Pública possui um título executivo (CDA).
 
@@ -442,12 +492,14 @@ O **processo de execução fiscal** se distingue do processo de conhecimento, po
     
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > Em ações de execução fiscal, a **petição inicial não pode ser indeferida sob o argumento da falta de indicação do CPF e/ou RG ou CNPJ da parte executada**. (Súmula 558 do STJ)
 
 > Em ações de execução fiscal, é **desnecessária a instrução da petição inicial com o demonstrativo de cálculo do débito**, por tratar-se de requisito não previsto no artigo 6º da Lei 6.830/1980. (Súmula 559 do STJ)
 
 #### 2.5.1. Despacho Inicial e Citação
+- [ ] status [dom:: 0] [peso:: 3]
 
 Admitindo a ação proposta pela Fazenda Pública, **o despacho do juiz importa em ordem para** (art. 7º, LEF):
 
@@ -465,6 +517,7 @@ Admitindo a ação proposta pela Fazenda Pública, **o despacho do juiz importa 
 🚨 O despacho do juiz que **ordena a citação** em execução fiscal **interrompe o curso do prazo prescricional** (art. 174, I, do CTN e art. 8º, § 2º, da LEF).
 
 #### 2.5.2. Modalidades de Citação
+- [ ] status [dom:: 0] [peso:: 3]
 
 A **citação** do devedor deverá ocorrer nas seguintes **modalidades** (art. 8º, LEF):
 
@@ -476,10 +529,12 @@ A **citação** do devedor deverá ocorrer nas seguintes **modalidades** (art. 8
     
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > A citação por **edital** na execução fiscal é cabível **quando frustradas as demais modalidades.** (STJ - Súmula 414)
 
 #### 2.5.3. Garantia da Execução
+- [ ] status [dom:: 0] [peso:: 3]
 
 O **devedor pode garantir a execução** das seguintes maneiras (art. 9º da LEF):
 
@@ -502,6 +557,7 @@ O **devedor pode garantir a execução** das seguintes maneiras (art. 9º da LEF
 ⚠️ Somente o **depósito em dinheiro** suspende a exigibilidade do crédito tributário (art. 151, II, do CTN).
 
 #### 2.5.4. Penhora de Bens
+- [ ] status [dom:: 0] [peso:: 3]
 
 Não ocorrendo o pagamento nem a garantia da execução, a penhora poderá recair em qualquer bem do executado, exceto os absolutamente impenhoráveis (como o bem de família - Lei 8.009/90).
 
@@ -527,6 +583,7 @@ Não ocorrendo o pagamento nem a garantia da execução, a penhora poderá recai
 ⚠️ Excepcionalmente, a penhora poderá recair sobre estabelecimento comercial, industrial ou agrícola, bem como em plantações ou edifícios em construção.
 
 #### 2.5.5. Suspensão da Execução Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 Se o executado não possuir bens penhoráveis ou não for localizado, a execução fiscal deverá ser **suspensa** (art. 40 da LEF). Nesse caso, **não correrá o prazo de prescrição**.
 
@@ -535,10 +592,12 @@ Se o executado não possuir bens penhoráveis ou não for localizado, a execuç�
 Com o arquivamento, retoma-se a contagem do prazo prescricional, findo o qual o Juiz poderá reconhecer a **prescrição intercorrente**.
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente. (Súmula 314 do STJ)
 
 ### 2.6. Penhora Online na Execução Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 A penhora online está prevista no art. 185-A do CTN, acrescentado pela LC 118/2005:
 
@@ -547,20 +606,24 @@ A penhora online está prevista no art. 185-A do CTN, acrescentado pela LC 118/2
 🚨 A penhora online só pode ser utilizada após o esgotamento de todas as diligências na tentativa de encontrar bens suficientes à garantia da execução.
 
 ### 2.7. ADPF 357: O Concurso de Preferência Entre os Entes Políticos
+- [ ] status [dom:: 0] [peso:: 3]
 
 Em junho de 2021, o STF decidiu pela **não recepção** do art. 29 da LEF e do art. 187 do CTN pela Constituição Federal de 1988, que estabeleciam a preferência da União sobre os demais entes federativos.
 
 ❗ O Supremo também cancelou a Súmula 563 que tratava do concurso de preferência entre os entes federados.
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > A definição de hierarquia na cobrança judicial dos créditos da dívida pública da União aos Estados e Distrito Federal e esses aos Municípios descumpre o princípio federativo e contraria o inc. III do art. 19 da Constituição da República de 1988. (STF, ADPF 357, julgada em 24/06/2021)
 
 ## 3. Embargos à Execução Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 Os **embargos à execução fiscal** constituem a principal modalidade de **defesa do contribuinte** na execução fiscal.
 
 ### 3.1. Características Gerais
+- [ ] status [dom:: 0] [peso:: 3]
 
 - São distribuídos por **dependência** ao **juízo da execução fiscal**
     
@@ -570,6 +633,7 @@ Os **embargos à execução fiscal** constituem a principal modalidade de **defe
     
 
 ### 3.2. Prazo e Requisitos
+- [ ] status [dom:: 0] [peso:: 3]
 
 O **prazo para oposição** dos embargos é de **30 dias**, contados:
 
@@ -585,10 +649,12 @@ O **prazo para oposição** dos embargos é de **30 dias**, contados:
 💡 O STJ entende que, se o executado não possui condições de efetuar a penhora no valor integral, não tem seu direito aos embargos restringido.
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > Circunstância de o bem penhorado ser insuficiente para garantir a satisfação integral do crédito, não retira do devedor a faculdade de embargar a execução. (STJ, Primeira Turma, REsp 79.097/SP, Rel. Min. Humberto Gomes de Barros, Julgamento em 18/03/1996)
 
 ### 3.3. Efeitos dos Embargos
+- [ ] status [dom:: 0] [peso:: 3]
 
 Como regra, os embargos à execução fiscal **não têm efeito suspensivo**, conforme o art. 919 do CPC, aplicado subsidiariamente.
 
@@ -604,10 +670,12 @@ O juiz **poderá atribuir efeito suspensivo** aos embargos quando:
         
 
 ## 4. Exceção de Pré-Executividade
+- [ ] status [dom:: 0] [peso:: 3]
 
 A **exceção de pré-executividade** é um mecanismo de defesa utilizado pelo executado nos próprios autos da execução, nos casos em que a matéria alegada **possa ser conhecida de ofício** e **não demande dilação probatória**.
 
 ### 4.1. Características Gerais
+- [ ] status [dom:: 0] [peso:: 3]
 
 - Não possui previsão legal, sendo fruto de **construção doutrinária e jurisprudencial**
     
@@ -621,10 +689,12 @@ A **exceção de pré-executividade** é um mecanismo de defesa utilizado pelo e
     
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória. (Súmula 393 do STJ)
 
 ### 4.2. Processamento e Recursos
+- [ ] status [dom:: 0] [peso:: 3]
 
 O processamento da exceção de pré-executividade segue o seguinte rito:
 
@@ -643,14 +713,17 @@ Quanto aos recursos cabíveis:
     
 
 #### Jurisprudência ⚖️
+- [ ] status [dom:: 0] [peso:: 3]
 
 > A simples manifestação da exceção de pré-executividade não tem o poder de suspender o processo de execução. (STJ, REsp 450.852/RS, Rel. Ministro Carlos Alberto Menezes Direito, Data de Julgamento: 28/06/2005)
 
 ## 5. Medida Cautelar Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 A **medida cautelar fiscal** está prevista na **Lei 8.397/92** como ação judicial a ser interposta pela Fazenda Pública para **tornar indisponíveis os bens do devedor para garantia do crédito tributário**, quando há **risco no sucesso da cobrança.**
 
 ### 5.1. Hipóteses de Cabimento
+- [ ] status [dom:: 0] [peso:: 3]
 
 O art. 2º da Lei 8.397/92 apresenta um rol exemplificativo de situações que justificam o requerimento da cautelar fiscal, quando o devedor:
 
@@ -674,6 +747,7 @@ O art. 2º da Lei 8.397/92 apresenta um rol exemplificativo de situações que j
     
 
 ### 5.2. Requisitos para Concessão
+- [ ] status [dom:: 0] [peso:: 3]
 
 Para a concessão da medida cautelar fiscal, são essenciais **dois requisitos** (art. 3º):
 
@@ -683,6 +757,7 @@ Para a concessão da medida cautelar fiscal, são essenciais **dois requisitos**
     
 
 ### 5.3. Momento de Requerimento
+- [ ] status [dom:: 0] [peso:: 3]
 
 - **Regra**: **após a constituição do crédito**, inclusive no curso da execução judicial
     
@@ -694,6 +769,7 @@ Para a concessão da medida cautelar fiscal, são essenciais **dois requisitos**
         
 
 ### 5.4. Efeitos da Medida Cautelar Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 A decretação da medida cautelar fiscal produz a **indisponibilidade imediata** dos bens do requerido, até o limite da satisfação da obrigação (art. 4º).
 
@@ -707,6 +783,7 @@ Quando proposta contra pessoa jurídica, a indisponibilidade recai **somente sob
 ⚠️ O STJ entende que, nos casos de fraude, a indisponibilidade não se limita ao ativo permanente, podendo atingir quaisquer bens da pessoa jurídica.
 
 ### 5.5. Procedimento
+- [ ] status [dom:: 0] [peso:: 3]
 
 - A medida deve ser requerida ao juiz competente para a execução judicial da Dívida Ativa
     
@@ -718,6 +795,7 @@ Quando proposta contra pessoa jurídica, a indisponibilidade recai **somente sob
     
 
 ### 5.6. Eficácia da Medida Cautelar Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
 
 A medida cautelar fiscal **conserva sua eficácia**:
 
@@ -727,6 +805,7 @@ A medida cautelar fiscal **conserva sua eficácia**:
     
 
 ### 5.7. Cessação da Eficácia
+- [ ] status [dom:: 0] [peso:: 3]
 
 A **eficácia** da medida cautelar fiscal **cessa** (art. 13):
 
@@ -741,12 +820,14 @@ A **eficácia** da medida cautelar fiscal **cessa** (art. 13):
 
 
 ## Ricardo Alexandre
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 A questão não está perguntando quem pode criar tributo, mas para que serve a repartição constitucional das receitas já arrecadadas. O tema mora nos arts. 157 a 162 da Constituição. A lógica é federativa: **a Constituição distribui parcelas de receita entre União, estados, DF e municípios para dar sustentação financeira à autonomia desses entes e reduzir desequilíbrios regionais.** O próprio art. 161, II, fala em critérios de rateio “**objetivando promover o equilíbrio socioeconômico**” entre estados e entre municípios.
 
 
 ## Jurisprudência dos tribunais superiores
+- [ ] status [dom:: 0] [peso:: 3]
 
 **Súmula nº 554 do Superior Tribunal de Justiça (STJ)**
 "**Na hipótese de sucessão empresarial, a responsabilidade da sucessora abrange as multas moratórias e punitivas a ela aplicadas no período anterior à sucessão.**" 
