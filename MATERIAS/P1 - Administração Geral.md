@@ -215,10 +215,41 @@ resumo de administrador
 
 ## - Processo de planejamento
 - [ ] status [dom:: 0] [peso:: 2]
+
+**Desdobramento hierárquico dos objetivos** — as <mark style="background:#fff88f">normas ocupam o nível mais restrito e detalhado</mark>, por tratarem das regras a seguir em cada procedimento para alcançar o objetivo.
+
+**Planejamento operacional** (Chiavenato) — preocupa-se com **o que fazer** e **como fazer**; caracteriza-se pelo detalhamento com que estabelece tarefas e operações. São planos de ação que especificam recursos, prazos, responsáveis e procedimentos.
+
+O **plano**, resultado do planejamento, responde: *o quê, quando, como, onde e por quem*.
+
 ## - Ferramentas estratégicas
 - [ ] status [dom:: 0] [peso:: 2]
+
+**BSC — as 4 perspectivas**, na sequência clássica de causa e efeito:
+
+1. **Aprendizado e Crescimento** (base, causa inicial) — ativos intangíveis: pessoas treinadas, cultura, sistemas, inovação. É onde entram competências, motivação e capacitação dos colaboradores, sustentando a estratégia no longo prazo.
+2. **Processos Internos** — eficiência operacional: produção, logística, qualidade.
+3. **Clientes** — satisfação e fidelidade: market share, reclamações.
+4. **Financeira** (resultado final) — lucro, ROI, custo.
+
+**Papéis na implantação do BSC:**
+
+| Papel | Função | Como cai em prova |
+| --- | --- | --- |
+| **Arquiteto** | Desenha e conduz a construção do BSC; traduz a estratégia em objetivos, indicadores, metas, iniciativas e mapas estratégicos. Alto executivo ou alguém com legitimidade interna | "responsável por conduzir a construção do BSC" |
+| **Agente de mudanças** | Faz o BSC virar prática: mexe em processos, alinha rotinas, incorpora o modelo à gestão diária | "responsável por promover a mudança organizacional" |
+| **Comunicador** | Dissemina a estratégia, explica o BSC, reduz resistência, conecta o trabalho de cada um aos objetivos | "responsável por comunicar a estratégia e incentivar adesão" |
+
+Arquiteto **constrói** · Agente de mudanças **faz entrar na rotina** · Comunicador **espalha e engaja**.
+
 ## - Indicadores de desempenho
 - [ ] status [dom:: 0] [peso:: 2]
+
+Segundo **Mauriti e Macieira (2010)**, os indicadores são a face mais representativa das medições e avaliações nas organizações. **Indicadores de desempenho (KPI)** são dados objetivos ou numéricos coletados sobre os resultados dos processos — isolados ou combinados — capazes de descrever quantitativamente uma situação de interesse.
+
+**Paranhos Filho (2007)** — o **indicador de produtividade** associa-se à otimização dos recursos empregados (*inputs*) para maximizar os resultados desejados (*outputs*).
+
+⚠️ **Pegadinha:** afirmar que *indicador de desempenho* é "medida em geral quantitativa dotada de significado social substantivo" está **errado** — essa é a definição de **indicador social** (Januzzi), que substitui ou operacionaliza um conceito social abstrato. Para **Ferreira, Cassiolato e Gonzales (2009)**, o indicador é medida <mark style="background:#fff88f">de ordem quantitativa **ou qualitativa**</mark>, usada para organizar e captar informações relevantes do objeto observado. Os dois conceitos não se equivalem.
 
 # - Bloco C:
 
