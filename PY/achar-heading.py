@@ -24,7 +24,7 @@ def acha(caminho: Path, trecho: str):
     alvo = normaliza(trecho)
     achados = []
     for i, l in enumerate(linhas):
-        m = re.match(r"^(#{1,4})\s+(.+)$", l)
+        m = re.match(r"^(#{1,6})\s+(.+)$", l)
         if not m:
             continue
         if alvo in normaliza(m.group(2)):

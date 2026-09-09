@@ -69,12 +69,12 @@ Trinta pontos que a maioria trata como periférico — valia o mesmo que Matemá
 ### Segurança da informação; malwares; backup
 - [ ] status [dom:: 0] [peso:: 3]
 
-## 1. Resumo Teórico 
+#### 1. Resumo Teórico 
 - [ ] status [dom:: 0] [peso:: 3]
 
 A Segurança da Informação (SI) é um conjunto de práticas, políticas, procedimentos e controles que visam proteger os ativos de informação de uma organização contra diversas ameaças. O objetivo é garantir a continuidade dos negócios, minimizar os riscos e maximizar o retorno sobre os investimentos e as oportunidades.
 
-### Conceitos Fundamentais
+##### Conceitos Fundamentais
 - [ ] status [dom:: 0] [peso:: 3]
 
 - Ativo de Informação: Qualquer informação ou recurso que tenha valor para a organização (dados, hardware, software, pessoas, imagem da empresa, etc.).
@@ -83,7 +83,7 @@ A Segurança da Informação (SI) é um conjunto de práticas, políticas, proce
 - Risco: A probabilidade de uma ameaça explorar uma vulnerabilidade e o impacto resultante para a organização.
 - Impacto: O prejuízo ou consequência resultante da materialização de um risco.
 
-### Princípios Básicos (Pilares da Segurança da Informação)
+##### Princípios Básicos (Pilares da Segurança da Informação)
 - [ ] status [dom:: 0] [peso:: 3]
 
 Os pilares fundamentais da Segurança da Informação são frequentemente lembrados pelo mnemônico CID (ou CIDA, incluindo Autenticidade):
@@ -95,7 +95,7 @@ Os pilares fundamentais da Segurança da Informação são frequentemente lembra
 - **Disponibilidade:** Garante que os usuários autorizados tenham acesso à informação e aos ativos associados sempre que necessário. A informação deve estar acessível quando solicitada. Pense em "acesso garantido".
     - _Exemplo:_ Ter servidores redundantes para que um sistema continue funcionando mesmo se um servidor falhar.
 
-### Outros Atributos Essenciais
+##### Outros Atributos Essenciais
 - [ ] status [dom:: 0] [peso:: 3]
 
 - Autenticidade: Garante que a identidade de um usuário, processo, sistema ou informação seja aquela que se alega ser. É a prova da origem ou da identidade.
@@ -105,7 +105,7 @@ Os pilares fundamentais da Segurança da Informação são frequentemente lembra
 - Conformidade (Legalidade): Garante que as ações e os controles de segurança estejam de acordo com as leis, regulamentos, normas e obrigações contratuais.
 - Responsabilização (Accountability): Garante que as ações de uma entidade possam ser rastreadas unicamente até essa entidade. Permite auditoria e identificação de responsáveis.
 
-## 2. Principais Temas Cobrados em Concursos
+#### 2. Principais Temas Cobrados em Concursos
 - [ ] status [dom:: 0] [peso:: 3]
 
 Com base na análise de questões de diversas bancas, os seguintes tópicos são frequentemente abordados:
@@ -127,7 +127,7 @@ Com base na análise de questões de diversas bancas, os seguintes tópicos são
 
 A maioria das questões gira em torno da Tríade CID. Entender profundamente cada pilar e como eles se manifestam em situações práticas é crucial. Por exemplo, se um CPF é alterado indevidamente em um cadastro, houve falha na Integridade. Se dados sigilosos de um processo são acessados por alguém não autorizado, a Confidencialidade foi comprometida. Se um sistema fica fora do ar devido a um ataque, a Disponibilidade foi afetada.
 
-## 3. Pontos de Atenção e Dificuldades Comuns
+#### 3. Pontos de Atenção e Dificuldades Comuns
 - [ ] status [dom:: 0] [peso:: 3]
 
 Candidatos frequentemente encontram dificuldades em:
@@ -164,7 +164,7 @@ Algumas questões tentam confundir com termos que parecem relacionados, mas não
 - Risco: é a probabilidade de uma ameaça se concretizar e causas danos.
 
 
-## 4. Estratégias de Resolução de Questões
+#### 4. Estratégias de Resolução de Questões
 - [ ] status [dom:: 0] [peso:: 3]
 
 - **Identifique Palavras-Chave:**
@@ -194,7 +194,7 @@ Um único incidente pode violar múltiplos princípios. Por exemplo, um invasor 
 
 
 
-## BACKUP
+#### BACKUP
 - [ ] status [dom:: 0] [peso:: 3]
 
 A questão cobra o **tema backups.** Existem três tipos de backup, a saber: **completo, diferencial e incremental.** No backup completo, todos os dados são salvos, independente de quaisquer condições. No backup incremental, adiciona-se um pequeno incremento ao backup completo ou ao backup incremental anterior. Por fim  , **no backup diferencial, não são marcadas as "flags"**  de registro dos dados. Dessa maneira, ele não consegue reconhecer outros backups diferenciais e por esse motivo pega todos os dados após o último backup completo, mesmo que tenha sido executado um backup diferencial anterior.
@@ -226,12 +226,12 @@ Fazer _backups_ regularmente também é essencial para proteger os seus dados po
 
 
 ### Gerenciamento de Processos de Negócio (BPM/BPMN)
-- [ ] status [dom:: 0] [peso:: 9.4]
+- [ ] status [dom:: 0] [peso:: 3]
 
 
-## - Business Process Management — BPM
+#### - Business Process Management — BPM
 
-### 1. Gerenciamento de Processos de Negócio (BPM)
+##### 1. Gerenciamento de Processos de Negócio (BPM)
 - [ ] status [dom:: 0] [peso:: 3]
 
 > _“Gerenciamento de processo de negócio (BPM- Business Process Management) representa uma nova forma de visualizar as operações de negocio que vai além das estruturas funcionais tradicionais.”_ (PBM CBOK, 2013, p.33)
@@ -271,7 +271,7 @@ Tem o propósito de para **medir, monitorar, controlar** atividades e administra
 
 ![[Captura de Tela 2026-08-19 às 12.17.49.png|950]]
 
-### 2. Modelagem de processos de negócio
+##### 2. Modelagem de processos de negócio
 - [ ] status [dom:: 0] [peso:: 3]
 
 Modelagem de processos de negócio é o conjunto de atividades envolvidas na **criação de representações de processos de negócio** existentes ou propostos.
@@ -296,7 +296,7 @@ O BPM**N** é a **N**otação da modelagem de processo.
 
 BPM CBOK: Guia para o Gerenciamento de Processos de Negócio. Corpo Comum do Conhecimento – ABPMP BPM CBOK, Association of Business Process Management Professionals.
 
-### 3. Análise de Processos
+##### 3. Análise de Processos
 - [ ] status [dom:: 0] [peso:: 3]
 
 O primeiro passo para **definir um novo processo** ou **atualizar** um que já exista é criar um entendimento comum do estado atual ("**AS-IS**") do processo e como ele cumpre seus objetivos. 
@@ -322,9 +322,9 @@ ou FOFA ( **F**orças, **O**portunidades, **F**raquezas e **A**meaças)
 Responsabilidades de alguns papéis
 
 
-## - Business Process Model and Notation — BPMN
+#### - Business Process Model and Notation — BPMN
 
-### 1. Business Process Model and Notation (BPMN)
+##### 1. Business Process Model and Notation (BPMN)
 - [ ] status [dom:: 0] [peso:: 3]
 
 > Notação padrão para o desenho de fluxogramas em Processos de Negócios que refere-se um conjunto de regras e convenções, determinando como os fluxogramas devem ser desenhados (WHITE, 2006)
@@ -367,7 +367,7 @@ De acordo com Chinosi e Trombetta (2012), o BPMN pode modelar três tipos difere
 ![[Pasted image 20260821153917.png]]
 
 
-#### Materiais Complementares de Consulta
+###### Materiais Complementares de Consulta
 - [ ] status [dom:: 0] [peso:: 3]
 
 - [**Guia Simplificado de Boas Práticas em Modelagem de Processos com BPMN**](https://www.ufmg.br/dti/wp-content/uploads/2019/01/POP-0001-ANEXO-A-Guia-simplificado-de-boas-praticas-em-modelagem.pdf) do departamento de TI da UFMG
@@ -390,7 +390,7 @@ De acordo com Chinosi e Trombetta (2012), o BPMN pode modelar três tipos difere
 
 
 ### Conceitos de Governança de TI
-- [ ] status [dom:: 0] [peso:: 3.5]
+- [ ] status [dom:: 0] [peso:: 3]
 
 
 Os seguintes atores são comumente mencionados em frameworks de governança de TI e segurança da informação, como o COBIT ou a ISO/IEC 27001:
@@ -409,7 +409,7 @@ Os seguintes atores são comumente mencionados em frameworks de governança de T
 |**Analista de Segurança**|Implementa controles de segurança e monitora o acesso aos sistemas para detectar violações ou irregularidades.|
 |**Dono do Processo**|Responsável por garantir que os processos sob sua responsabilidade estejam alinhados com as políticas de segurança, incluindo o acesso lógico.|
 
-## - ISO/IEC 27002 — Controles de Segurança da Informação
+#### - ISO/IEC 27002 — Controles de Segurança da Informação
 - [ ] status [dom:: 0] [peso:: 3]
 
 -- Na verdade, são 4 tipos de controles apontados na Norma ISO 27002/2022. **São eles: 1. Controles Organizacionais, 2. Controles de Pessoal, 3. Controles Físicos e 4. Controles Tecnológicos. Vejamos abaixo uma descrição sobre isso:**
@@ -445,5 +445,5 @@ Responder
 - **Identification and Authentication Failures** → **1. Permitir ataques por força bruta ou outros ataques automatizados.**  
     Relaciona-se a falhas nos mecanismos de autenticação.
 
-## - Open Worldwide Application Security Project — OWASP
+#### - Open Worldwide Application Security Project — OWASP
 - [ ] status [dom:: 0] [peso:: 3]

@@ -31,7 +31,7 @@ function parseChecklist(txt) {
   let dentro = false;
   for (const l of linhas) {
     if (/^## Checklist por importância/.test(l)) { dentro = true; continue; }
-    if (dentro && /^#{1,4}\s/.test(l)) break;
+    if (dentro && /^#{1,6}\s/.test(l)) break;
     if (!dentro) continue;
     const m = l.match(re);
     if (m) rows.push([m[1], parseInt(m[2]), parseFloat(m[3])]);
@@ -46,7 +46,7 @@ function parseBody(txt) {
     if (/^## Checklist por importância/.test(linhas[i])) {
       skipUntil = i;
       for (let j = i + 1; j < linhas.length; j++) {
-        if (/^#{1,4}\s/.test(linhas[j])) break;
+        if (/^#{1,6}\s/.test(linhas[j])) break;
         skipUntil = j;
       }
       break;
@@ -55,15 +55,18 @@ function parseBody(txt) {
   const out = [];
   for (let i = 0; i < linhas.length; i++) {
     if (i <= skipUntil) continue;
-    const hm = linhas[i].match(/^(#{1,4})\s+(.+)$/);
+    const hm = linhas[i].match(/^(#{1,6})\s+(.+)$/);
     if (!hm) continue;
     const titulo = normaliza(hm[2]);
     const prox = (linhas[i + 1] || "").trim();
     const dm = prox.match(/^- \[.\] status \[dom::\s*(\d+)\]/);
+    const nivelAtual = hm[1].length;
     let j = i + (dm ? 2 : 1);
     let temConteudo = false;
-    while (j < linhas.length && !/^#{1,4}\s/.test(linhas[j])) {
-      if (linhas[j].trim()) { temConteudo = true; break; }
+    while (j < linhas.length) {
+      const hm2 = linhas[j].match(/^(#{1,6})\s+(.+)$/);
+      if (hm2 && hm2[1].length <= nivelAtual) break; // heading do mesmo nível ou mais raso: fim do escopo
+      if (linhas[j].trim()) { temConteudo = true; break; } // linha real OU heading mais fundo (que também conta como conteúdo)
       j++;
     }
     out.push([titulo, dm ? parseInt(dm[1]) : null, temConteudo]);
