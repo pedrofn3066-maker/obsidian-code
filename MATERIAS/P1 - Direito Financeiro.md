@@ -136,6 +136,19 @@ D- **D**espesa.
 (+)
 **2) “CGU + débitos”** – Prestação de **C**ontragarantias ou **G**arantias à **U**nião e para pagamentos de **débitos** para com esta (art. 167, § 4º).
 
+**Universalidade** — art. 2º, *caput*, Lei nº 4.320/1964, recepcionado pelo art. 165 §5º da CF/88: a LOA de cada ente deve conter <mark style="background:#fff88f">todas as receitas e despesas de todos os poderes, órgãos, entidades, fundos e fundações instituídas e mantidas pelo Poder Público</mark>.
+
+⚠️ **Pegadinha:** despesa orçamentária depende de autorização legislativa — **exceto** as despesas urgentes e imprevistas, abertas por **créditos extraordinários**. Isso não fere a Universalidade; é a própria exceção que a norma prevê.
+
+**Exclusividade** — ver [[#LOA - Lei Orçamentária Anual (CF/1988 e Lei nº 4.320/1964)|seção LOA]], art. 165 §8º: a LOA não pode conter matéria estranha à previsão da receita e à fixação da despesa, salvo a autorização para créditos suplementares e operações de crédito por ARO.
+
+**Não Vinculação — dois complementos ao mnemônico "iFOD"/GATES/CGU acima:**
+- É **permitida** a vinculação de receitas **próprias** geradas pelos impostos — a vedação atinge a receita do imposto em si, não as receitas próprias do ente decorrentes dele.
+- Facultado a Estados e ao DF vincular **até 0,5% da receita tributária líquida** a fundo estadual de fomento à cultura, vedada a aplicação em: (I) pessoal e encargos sociais; (II) serviço da dívida; (III) despesa corrente não vinculada diretamente aos investimentos/ações apoiados.
+
+> Art. 2º, Lei nº 4.320/1964: "A Lei do Orçamento conterá a discriminação da receita e despesa de forma a evidenciar a política econômica financeira e o programa de trabalho do Governo, obedecidos os princípios de unidade, universalidade e anualidade."
+
+
 ## - Créditos Adicionais
 - [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1740)
@@ -203,7 +216,12 @@ b) com os **dispositivos do texto do projeto de lei.**
 
 CF/88
 Art. 165 (...)
-§ 8º A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares <mark style="background:#affad1">e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.</mark>
+§ 8º A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares <mark style="background:#affad1">e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.</mark> — este é o **Princípio da Exclusividade**.
+
+CF/88, Art. 165 §7º — <mark style="background:#fff88f">os orçamentos fiscal e de investimento terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério populacional.</mark>
+
+*(A consonância dos planos e programas setoriais/regionais/nacionais é com o **PPA**, não com a LOA — ver mnemônico "SeReNa" na seção de PPA acima.)*
+
 
 ## - Emendas
 - [ ] status [dom:: 0] [peso:: 2]

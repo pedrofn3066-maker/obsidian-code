@@ -126,6 +126,15 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 
 ![[Pasted image 20260823180654.png]]
 
+**FUSEX (Fundo de Saúde do Exército)** — constituído por contribuições obrigatórias dos militares da ativa, da inatividade e de pensionistas militares, mais indenizações por atendimentos médico-hospitalares.
+⚠️ TRF da 3ª Região: as contribuições ao FUSEX são **tributos sujeitos a lançamento de ofício**, com prazo de **5 anos** para devolução (repetição de indébito).
+
+**FGTS** — <mark style="background:#fff88f">não é tributo</mark>: STJ, Súmula 353 — "As disposições do Código Tributário Nacional não se aplicam às contribuições para o FGTS."
+
+**Art. 149, CF** — competência **exclusiva da União** para instituir contribuições sociais, de intervenção no domínio econômico (CIDE) e de interesse das categorias profissionais/econômicas (corporativas), observados os arts. 146, III, e 150, I e III, sem prejuízo do art. 195 §6º.
+§ 1º-A — havendo **déficit atuarial**, a contribuição ordinária de aposentados e pensionistas pode incidir sobre a parcela dos proventos/pensões que **supere o salário-mínimo**.
+
+
 	IMPOSTO SOBRE IMPORTAÇÃO:
 - **Competência**: **União**
 - **Fato** **Gerador**: **Entrada** de produtos estrangeiros no *território nacional*
@@ -140,6 +149,19 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 
 ## Limitações ao Poder de Tributar; 
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Capacidade contributiva** — art. 145 §1º, CF: sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte.
+⚠️ STF (RE 562.045): <mark style="background:#fff88f">todos os impostos estão sujeitos ao princípio da capacidade contributiva</mark>, especialmente os diretos — independentemente de serem classificados como de caráter real ou pessoal.
+
+**Imunidade — contribuição previdenciária sobre aposentadoria/pensão** — art. 195, II, CF: não incide contribuição do trabalhador/segurado sobre aposentadoria e pensão concedidas pelo Regime Geral de Previdência Social. É hipótese de **não incidência constitucionalmente qualificada** (imunidade), não mera isenção.
+
+**Imunidade cultural (art. 150, VI, "d")**:
+- Aplica-se à importação e comercialização do **livro eletrônico (e-book)** e dos suportes exclusivos para fixá-lo (e-readers), ainda que com funcionalidades acessórias. [STF, Súmula Vinculante 57]
+- Abrange filmes e papéis fotográficos necessários à publicação de jornais e periódicos. [STF, Súmula 657]
+- Alcança componentes eletrônicos destinados exclusivamente a integrar unidade didática com fascículos. [STF, RE 595.676]
+
+**Imunidade subjetiva (art. 150, VI, "c")** — vedado instituir impostos sobre patrimônio, renda ou serviços de: partidos políticos (inclusive suas fundações), entidades sindicais **dos trabalhadores**, instituições de educação e de assistência social sem fins lucrativos — atendidos os requisitos de lei.
+
 
   
 # Bloco B:  
