@@ -259,18 +259,8 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
 # Bloco D:
 
 ## - Auditoria Fiscal;
-## - Perícia Contábil;
-## - Controle Interno da Entidade Auditada;
-## - Contingências e Estimativas Contábeis;
 
-> NBC TA 540 — a estimativa contábil é conceituada como o "valor monetário para o qual a mensuração, de acordo com os requisitos da estrutura de relatório financeiro aplicável, está sujeita à incerteza da estimativa".
-
-> O auditor **deve** revisar o resultado das estimativas contábeis anteriores ou, quando aplicável, sua reestimativa subsequente — é procedimento **obrigatório** de avaliação de risco (entender como a administração trabalha e se há tendenciosidade), **não condicionado a suspeita prévia de erro/fraude**. Essa revisão retrospectiva serve para auxiliar na identificação e na avaliação dos riscos de distorção relevante no período corrente.
-## - Continuidade Normal das Atividades da Entidade;
-## - Utilização do Trabalho de Outros Profissionais.
-
-> A9. Quando a administração utilizou um especialista da administração na elaboração das demonstrações contábeis, a decisão do auditor sobre a utilização de especialista do auditor também pode ser influenciada por fatores como: a natureza, o alcance e os objetivos do trabalho do especialista da administração; se o especialista da administração é empregado da entidade, ou é contratado para prestar serviços relevantes; até que ponto a administração pode exercer controle ou influência sobre o trabalho do especialista da administração; a competência e habilidades do especialista da administração; se o especialista da administração está sujeito a padrões de desempenho técnico ou outros requisitos profissionais ou da área de atuação; quaisquer controles na entidade sobre o trabalho do especialista da administração.
-## 1. DECRETO Nº 6.022/2007
+### 1. DECRETO Nº 6.022/2007
 
 - **SPED:** Unifica as atividades de **RECEPÇÃO**, **VALIDAÇÃO**, **ARMAZENAMENTO** e **AUTENTICAÇÃO** de livros e documentos que integram a escrituração contábil e fiscal dos empresários e das pessoas jurídicas, **inclusive imunes ou isentas,** mediante fluxo **único**, computadorizado, de informações.   
     ⚠️ Este sistema **não dispensa** o empresário e as pessoas jurídicas, inclusive imunes ou isentas, de **manter sob sua guarda e responsabilidade os livros e documentos** na forma e prazos previstos na legislação aplicável.
@@ -287,7 +277,7 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
     - **Compatibilizar** as necessidades dos usuários do SPED.
     - **Estabelecer** a política de segurança e de acesso às informações armazenadas no SPED.
 
-## 2. AJUSTE SINIEF Nº 02/2009
+### 2. AJUSTE SINIEF Nº 02/2009 — EFD
 
 - Poderão utilizar a **EFD** os contribuintes do **ICMS** e/ou do **IPI**.
     
@@ -382,7 +372,7 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
     2. Cujo débito constante da EFD objeto da retificação tenha sido enviado para **inscrição em Dívida Ativa**, nos casos em que **importe alteração desse débito**.
     3. Transmitida em **desacordo** com as disposições desta cláusula.
 
-### 3. AJUSTE SINIEF Nº 07/2005
+### 3. AJUSTE SINIEF Nº 07/2005 — NF-e
 
 - ⭐ **NF-e:** Documento emitido e armazenado **eletronicamente**, de existência **apenas digital**, com o intuito de **documentar operações e prestações**, cuja **validade jurídica** é garantida por uma assinatura eletrônica qualificada e pela autorização de uso por parte da administração tributária da UF do contribuinte, **ANTES da ocorrência do fato gerador**.
 - - A **NF-e**, **modelo 55**, poderá ser utilizada pelos contribuintes do **IPI ou ICMS** em substituição à:
@@ -450,10 +440,22 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
 
 - ✏️ **Carta de Correção Eletrônica (CC-e):** depois da Autorização de Uso, corrige erros em campos específicos — mas **NÃO pode alterar**: (I) variáveis que determinam o valor do imposto (base de cálculo, alíquota, quantidade, valor da operação); (II) dados cadastrais que impliquem mudança do remetente/destinatário; (III) data de emissão ou de saída. Havendo mais de uma CC-e pra mesma NF-e, a última consolida todas as retificações anteriores.
 
-## 3. ECD e ECF (outros módulos do SPED)
+### 4. ECD e ECF (outros módulos do SPED)
 
 - **ECD — Escrituração Contábil Digital:** parte integrante do projeto SPED, tem por objetivo a substituição da escrituração em papel pela escrituração transmitida via arquivo — corresponde à obrigação de transmitir, em versão digital: I - Livro Diário e seus auxiliares, se houver; II - Livro Razão e seus auxiliares, se houver; III - Livro Balancetes Diários, Balanços e fichas de lançamento comprobatórias dos assentamentos neles transcritos. (Fonte: [SPED — Perguntas Frequentes](http://sped.rfb.gov.br/pagina/show/499))
 
 - **ECF — Escrituração Contábil Fiscal:** Art. 1º A ECF será apresentada, a partir do ano-calendário de 2014, por todas as pessoas jurídicas, inclusive as equiparadas, de forma centralizada pela matriz.
     - § 1º A obrigatoriedade **não se aplica**: II - aos órgãos públicos, às autarquias e às **fundações públicas**.
     - ⚠️ Diferente da EFD (ICMS/IPI, item 2 acima), a ECD/ECF são módulos do SPED **contábil/fiscal federal**, não estadual.
+
+## - Perícia Contábil;
+## - Controle Interno da Entidade Auditada;
+## - Contingências e Estimativas Contábeis;
+
+> NBC TA 540 — a estimativa contábil é conceituada como o "valor monetário para o qual a mensuração, de acordo com os requisitos da estrutura de relatório financeiro aplicável, está sujeita à incerteza da estimativa".
+
+> O auditor **deve** revisar o resultado das estimativas contábeis anteriores ou, quando aplicável, sua reestimativa subsequente — é procedimento **obrigatório** de avaliação de risco (entender como a administração trabalha e se há tendenciosidade), **não condicionado a suspeita prévia de erro/fraude**. Essa revisão retrospectiva serve para auxiliar na identificação e na avaliação dos riscos de distorção relevante no período corrente.
+## - Continuidade Normal das Atividades da Entidade;
+## - Utilização do Trabalho de Outros Profissionais.
+
+> A9. Quando a administração utilizou um especialista da administração na elaboração das demonstrações contábeis, a decisão do auditor sobre a utilização de especialista do auditor também pode ser influenciada por fatores como: a natureza, o alcance e os objetivos do trabalho do especialista da administração; se o especialista da administração é empregado da entidade, ou é contratado para prestar serviços relevantes; até que ponto a administração pode exercer controle ou influência sobre o trabalho do especialista da administração; a competência e habilidades do especialista da administração; se o especialista da administração está sujeito a padrões de desempenho técnico ou outros requisitos profissionais ou da área de atuação; quaisquer controles na entidade sobre o trabalho do especialista da administração.
