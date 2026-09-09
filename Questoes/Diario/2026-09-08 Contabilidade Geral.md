@@ -10,7 +10,7 @@ slot: S2
 total: 2
 acertos: 2
 tempo_min:
-erro_tipo:
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

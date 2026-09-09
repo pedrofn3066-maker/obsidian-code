@@ -9,7 +9,7 @@ slot: S2
 total: 1
 acertos: 1
 tempo_min:
-erro_tipo:
+erro_tipo: excecao
 banca:
 origem: TEC (importado)
 tec:
