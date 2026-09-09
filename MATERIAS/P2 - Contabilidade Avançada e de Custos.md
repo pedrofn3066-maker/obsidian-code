@@ -1347,13 +1347,76 @@ Dessa forma, sabendo que: _**Custo de conversão ou de transformação = MOD + 
 - [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1805?indice=1&materia=1952)
 
-## - Bloco C: Custos para Decisão. Custo Padrão
+## - Bloco C: Custos para Decisão. Custo Padrão
+
+### Ponto de Equilíbrio
 - [ ] status [dom:: 0] [peso:: 3]
 
+⚠️ Quando o ponto de equilíbrio contábil resulta em valor fracionário (ex.: 7,5 dias) mas a unidade de medida do enunciado só admite valores inteiros (ex.: aluguel cobrado por diária integral), **arredonda-se para cima** — não é possível "empatar o jogo" com fração de diária, então o ponto de equilíbrio real passa a ser 8,0 dias.
 
+### Margem de Contribuição
+- [ ] status [dom:: 0] [peso:: 3]
 
+**MCu (Margem de Contribuição Unitária)** = Preço de Venda Unitário − Custo Variável Unitário − Despesa Variável Unitária
 
+### Alavancagem Operacional (GAO)
+- [ ] status [dom:: 0] [peso:: 3]
 
+O **Grau de Alavancagem Operacional (GAO)** mede o efeito de um aumento no volume de vendas sobre o lucro do período.
+
+Fórmulas alternativas:
+- GAO = 1 + (Custos Fixos / Lucro)
+- GAO = 1 / Margem de Segurança
+
+- Quanto maiores os custos fixos em relação aos custos totais, maior o GAO.
+- GAO maior = risco maior: ganhos expressivos com aumento de vendas, mas perdas expressivas com queda de vendas.
+- O GAO é mais alto perto do ponto de equilíbrio e diminui à medida que vendas e lucro aumentam.
+
+### Custo Padrão
+- [ ] status [dom:: 0] [peso:: 3]
+
+Finalidade: planejamento e controle de custos via orçamento — permite comparar o custo real com o padrão ao longo do período.
+
+**Variações:**
+- Variação de Quantidade: VQ = Preço Padrão × (Quantidade Real − Quantidade Padrão)
+- Variação de Preço: VP = Quantidade Padrão × (Preço Real − Preço Padrão)
+- Variação Mista: VM = (Quantidade Real − Quantidade Padrão) × (Preço Real − Preço Padrão)
+
+Exemplo — variação total de custos indiretos de produção no mês:
+- Custo indireto estimado: R$ 500.000,00 · Volume estimado: 200.000 · taxa de aplicação padrão: 2,5 (500.000/200.000)
+- Custo indireto real: R$ 516.600,00 · Volume real: 180.000
+- Variação Total dos Custos Indiretos = taxa de aplicação padrão × volume real
+
+> [!warning]- Pendência de autoria
+> A captura original termina no meio da fórmula acima — o cálculo final e a conclusão numérica não vieram. Refazer as contas ou colar o restante da questão antes de estudar por aqui.
+
+⚠️ Variação desfavorável no custo de matéria-prima **não** significa necessariamente desperdício — significa que o custo **real** foi maior que o **projetado**. Variação favorável não significa necessariamente economia de recursos. Nenhuma das duas pode ser tomada como verdade absoluta sem mais dados do enunciado.
+
+### Custeio Baseado em Atividades (ABC)
+- [ ] status [dom:: 0] [peso:: 3]
+
+O método ABC reduz as distorções do rateio de custos indiretos de fabricação — por isso é indicado para esse tipo de custo. A apropriação é feita por **rastreamento**, não por rateio simples.
+
+Fluxo: **Custo → Departamento → Atividade → Produto**
+
+- Entre departamentos e atividades: **direcionadores de custos de Recursos** (1º estágio).
+- Entre atividades e produto: **direcionadores de custos de Atividades** (2º estágio).
+
+Sequência mais cobrada em prova: Direcionador de Recurso → Atividade, depois Direcionador de Atividade → Produto. Mnemônico: **RAAP** (R→A, A→P).
+
+### Custeio Direto/Variável — comparação com Absorção, RKW e ABC
+- [ ] status [dom:: 0] [peso:: 3]
+
+| Método | O que apropria ao produto | Aceito no Brasil |
+| --- | --- | --- |
+| **Absorção** | Todos os custos de produção, diretos e indiretos. NÃO apropria despesas administrativas/comerciais | Sim |
+| **RKW** | Todos os custos **e** todas as despesas — produção, administração, vendas — sem distinção | Não |
+| **Direto/Variável** | Só custos variáveis; custos fixos viram despesa do período | — |
+| **ABC** | Rastreia por atividade; não necessariamente apropria todas as despesas ao produto | — |
+
+⚠️ **Pegadinha:** dizer que a diferença entre custo fixo e variável no custeio por absorção gera "distorção" está **errado** — o custeio por absorção considera todos os custos (fixos, variáveis, diretos, indiretos) ao produto, e essa variação é quase sempre idêntica ao custo real.
+
+✏️ O custeio variável descarrega os custos fixos imediatamente no resultado, sem respeitar a competência — ainda assim, o **lucro pelo custeio variável pode ser maior** que pelo absorção. Isso ocorre quando o estoque do período anterior é **menor**: no absorção, a baixa de estoque leva ao resultado os custos fixos de unidades antigas, reduzindo o lucro do período.
 
 ---
 
