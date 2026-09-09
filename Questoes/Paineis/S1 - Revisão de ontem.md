@@ -88,13 +88,22 @@ Anotação manual dos S1 em que apareceu algum padrão que valha lembrar. Não p
 
 **Não conta como terça:** Língua Portuguesa (formas nominais, "tão… que"), Cont. Avançada (classificação no BP por intenção) e Direito Tributário (imagem da CF) foram escritos na **segunda (07/09)** e só entraram no commit de recuperação das 19:09 de terça.
 
-**Cadernos da terça** (importados do TEC só em 09/09, por isso o bloco 2 aparecia vazio): 24 questões, 20 acertos, 83% — Auditoria 9/11 · Direito Civil 8/10 · Cont. Geral 2/2 · LTE 1/1.
+**Cadernos da terça** (importados do TEC só em 09/09, por isso o bloco 2 aparecia vazio): 24 questões, 20 acertos, 83%.
+
+| Slot | Matéria | Resultado | `erro_tipo` |
+| --- | --- | --- | --- |
+| S5 | Auditoria | 9/11 · 82% | desatencao |
+| S5 | Direito Civil | 8/10 · 80% | desatencao |
+| S2 | Contabilidade Geral | 2/2 | — |
+| S2 | Legislação Tributária Estadual | 1/1 | — |
 
 **Três padrões:**
 
-- **A escrita da terça foi correção de erro, não leitura solta.** Os dois erros de Auditoria — Contingências e Estimativas Contábeis, e Utilização do Trabalho de Outros Profissionais — são exatamente os dois tópicos anotados no mesmo dia (NBC TA 540 e A9). O erro de Direito Civil foi em "Da Mora", e a anotação do dia foi o art. 399. O ciclo errar → anotar funcionou; não é preciso corrigi-lo.
-- **O problema está a montante, na escolha do caderno.** Num dia de 24 questões, Auditoria levou 11 e LTE levou 1. Auditoria vale 15 pontos (`importante`); LTE vale 75 (`crítico`) e é o primeiro critério de desempate da área. A terça também deixou Cont. Avançada (S3, 90 min) e Finanças Públicas (S5) com zero. A segunda, em contraste, seguiu a grade à risca.
+- **O erro foi de desatenção, e anotar conteúdo não é o remédio para isso.** A escrita da terça pareou com os erros topico a tópico — NBC TA 540 e A9 para os dois erros de Auditoria, art. 399 para o erro em "Da Mora". Parece o ciclo virtuoso errar → anotar, mas os dois cadernos estão marcados como `desatencao`, não `desconhecimento`. Se o conteúdo já estava sabido e a questão caiu por leitura apressada, escrever o conteúdo de novo trata o sintoma errado: o remédio é procedimental — reler o enunciado, marcar negativas, desacelerar — não mais anotação. O S1 de hoje reforça: NBC TA 540 voltou de memória, limpo.
+- **A grade foi cumprida no papel, não na prática.** S2 é LTE, 90 min, a matéria `crítico` de 75 pontos: recebeu **3 questões** no dia todo (1 de LTE, 2 de Cont. Geral). S5, que era Finanças Públicas, foi ocupado inteiro por Auditoria e Direito Civil — 21 das 24 questões do dia. S3 (Cont. Avançada, 90 min) e S4 (Auditoria, 60 min) não registraram nada. A segunda, em contraste, seguiu a grade à risca.
 - **Um erro não virou nota.** "Das Obrigações Alternativas (arts. 252 a 256)", 0/1, é o único erro da terça sem correção escrita em lugar nenhum. Os outros três geraram anotação no mesmo dia.
+
+**Limite do schema, notado aqui:** `erro_tipo` é um campo por **caderno**, mas os dois erros de Auditoria não são do mesmo tipo. No S1 de hoje, NBC TA 540 voltou limpo (compatível com desatenção) e A9 voltou parcial (mais parecido com desconhecimento). O frontmatter não comporta essa distinção; quando ela importar, o lugar dela é a lista "Erros a revisar" da própria nota de caderno.
 
 **Lição de método:** este registro nasceu errado duas vezes. Primeiro atribuiu à terça três notas da segunda, porque foi montado com `git log --since`, que filtra por data de commit — o bloco 1 pegou. Depois concluiu que a terça não teve questões, quando na verdade os cadernos existiam e só não tinham sido lançados. **Bloco 2 vazio não significa "dia sem questões", significa "dia sem registro"** — confira no TEC antes de tirar conclusão sobre o dia.
 
