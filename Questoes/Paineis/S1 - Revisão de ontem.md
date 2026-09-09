@@ -23,8 +23,12 @@ WHERE file.mtime >= date(today) - dur(1 day) AND file.mtime < date(today)
 SORT file.mtime ASC
 ```
 
-> [!warning]- Esta tabela subestima o dia
-> `file.mtime` é a **última** modificação, não todas. Uma nota que você editou ontem e voltou a editar hoje some daqui — ela conta como "hoje". Para o dia fechado, a tabela é fiel; para o dia corrente, ela vaza. O bloco 3 (git) não tem esse problema.
+> [!warning]- O que esta tabela erra — e o que ela acerta
+> `file.mtime` guarda a **última** modificação, não todas. Nota editada ontem e reaberta hoje some daqui: conta como "hoje". Esse é o furo, e ele só tira linhas — nunca inventa uma.
+>
+> Em compensação, `mtime` é a **única** fonte do momento real da escrita. O git (bloco 3) registra o momento do *commit*, que é outra coisa: um commit de recuperação empacota dias de trabalho numa data só e atribui tudo ao dia em que você lembrou de commitar. Verificado em 2026-09-08 — o commit das 19:09 daquele dia carregava três notas escritas na véspera.
+>
+> Regra prática: **mtime diz quando você escreveu, git diz o que você escreveu.** Um não substitui o outro, e quando discordarem sobre a data, o mtime está certo.
 
 ## 2. Cadernos de ontem
 
@@ -42,7 +46,9 @@ Se vier vazio, ontem foi dia de leitura e anotação, não de questões. Muda o 
 
 ## 3. O que você escreveu (não só onde)
 
-Os blocos acima dizem em que arquivo você mexeu. Para ver o **texto** que entrou, é preciso git — o Dataview não lê histórico. No Terminal, na pasta do vault:
+Os blocos acima dizem em que arquivo você mexeu. Para ver o **texto** que entrou, é preciso git — o Dataview não lê histórico. Use o git pelo *conteúdo*, e o bloco 1 pela *data*: `--since` filtra por data de commit, então um commit de recuperação vai te mostrar, sob a data de ontem, coisa escrita dias antes. Cruze sempre com a tabela do bloco 1 antes de concluir que escreveu algo ontem.
+
+No Terminal, na pasta do vault:
 
 ```
 git log --since=yesterday.midnight --until=today.midnight --name-status --format=">>> %ad %s" --date=format:"%H:%M"
@@ -51,10 +57,10 @@ git log --since=yesterday.midnight --until=today.midnight --name-status --format
 E para ler o conteúdo linha a linha, com contexto de onde caiu:
 
 ```
-git diff @{yesterday} -- MATERIAS/
+git log --since=yesterday.midnight --until=today.midnight -p -- MATERIAS/
 ```
 
-Isso só funciona para o que já foi commitado. Captura de ontem ainda não commitada aparece em `git diff` sem argumento de data.
+Isso só funciona para o que já foi commitado. O que você escreveu ontem e ainda não commitou não aparece em nenhum dos dois — aparece em `git diff` puro, sem argumento de data.
 
 ## 4. Como rodar os 30 min
 
@@ -78,12 +84,16 @@ Anotação manual dos S1 em que apareceu algum padrão que valha lembrar. Não p
 
 ## 2026-09-08 (terça)
 
-**Entrou:** definição de mercadoria (§2º) → LTE-BA · drawback não se aplica a IBS/CBS → Reforma Tributária · A7 amostragem e NBC TA 230 §8 → Auditoria · NBC TA 540 estimativas e A9 especialista → Auditoria · NF-e (cancelamento 24h, inutilização até o 10º dia, limites da CC-e) e ECD/ECF → bloco SPED da Auditoria · Art. 399 CC (mora) → Direito Civil · formas nominais mantêm transitividade e "tão… que" com vírgula facultativa → Português.
+**Entrou de fato na terça** (confirmado por `mtime`, não por data de commit): definição de mercadoria (§2º) → LTE-BA · drawback não se aplica a IBS/CBS → Reforma Tributária · Art. 399 CC, mora do devedor → Direito Civil · NBC TA 230 §8 (documentação), A7 (amostragem), NBC TA 540 (estimativas), A9 (especialista) e o bloco SPED — NF-e com cancelamento em 24h, inutilização até o 10º dia, limites da CC-e, mais ECD/ECF → Auditoria.
+
+**Não conta como terça:** Língua Portuguesa (formas nominais, "tão… que"), Cont. Avançada (classificação no BP por intenção) e Direito Tributário (imagem da CF) foram escritos na **segunda (07/09)** e só entraram no commit de recuperação das 19:09 de terça.
 
 **Três padrões:**
 
-- **O dia inverteu a grade.** Terça é S2 LTE · S3 Cont. Avançada · S4 Auditoria (60 min, o menor slot) · S5 Finanças Públicas. Na prática Auditoria levou 5 blocos, LTE levou 1 linha, Finanças Públicas levou zero. Auditoria vale 15 pontos (`importante`); LTE vale 75 (`crítico`).
-- **A pesquisa longa caiu no tópico mais barato.** As ~3h de SPED/NF-e alimentam "Tópicos de Auditoria Fiscal (NF-e e EFD)" — **4,3%**, o último da tabela VINTEUM da matéria. "Testes em Áreas Específicas" (**21,7%**, `dom:: 3`) e "Auditoria Interna e Controle Interno" (**6,6%**, `dom:: 0`) não foram tocados: são, respectivamente, o maior ganho potencial e o maior buraco da disciplina.
-- **A anotação mais valiosa do dia custou uma linha.** A definição de mercadoria (ICMS, 15,5%, `dom:: 0`) veio da captura rápida pelo Atalho, não da pesquisa longa. Vale como calibragem: tempo investido e ponto ganho não andam juntos.
+- **A segunda seguiu a grade; a terça não.** Segunda é S2 Cont. Avançada · S3 Direito Tributário · S4 Língua Portuguesa — e foi exatamente isso que o `mtime` do dia 07 mostra. Terça é S2 LTE · S3 Cont. Avançada · S4 Auditoria (60 min, o menor slot) · S5 Finanças Públicas: na prática LTE levou 1 linha, Cont. Avançada e Finanças Públicas levaram **zero**, e Auditoria — o menor slot do dia — levou cinco blocos. LTE vale 75 pontos (`crítico`); Auditoria vale 15 (`importante`).
+- **A pesquisa longa caiu no tópico mais barato.** As horas de SPED/NF-e alimentam "Tópicos de Auditoria Fiscal (NF-e e EFD)" — **4,3%**, o último da tabela VINTEUM da matéria. "Testes em Áreas Específicas" (**21,7%**, `dom:: 3`) e "Auditoria Interna e Controle Interno" (**6,6%**, `dom:: 0`) não foram tocados: são, respectivamente, o maior ganho potencial e o maior buraco da disciplina.
+- **A anotação mais valiosa do dia custou uma linha.** A definição de mercadoria (ICMS, 15,5%, `dom:: 0`) veio da captura rápida pelo Atalho, não da pesquisa longa. Tempo investido e ponto ganho não andam juntos.
 
-**Pendência estrutural:** o bloco SPED em `MATERIAS/P1 - Auditoria.md` está solto no fim da nota, depois de "Utilização do Trabalho de Outros Profissionais", em vez de aninhado sob "## - Auditoria Fiscal;". Como está, o checklist não contabiliza esse conteúdo como progresso no tópico a que ele pertence.
+**Lição de método:** este registro nasceu errado. A primeira versão atribuiu à terça três notas da segunda, porque foi montada a partir de `git log --since`, que filtra por data de commit. Foi o bloco 1 que pegou a discrepância. É a razão de o painel ter os dois blocos em vez de só o git.
+
+**Resolvido em 2026-09-09:** o bloco SPED estava solto no fim de `MATERIAS/P1 - Auditoria.md`, fora do tópico "Auditoria Fiscal" a que pertence — o checklist não o contabilizava como progresso. Reaninhado sob `## - Auditoria Fiscal;` (commit `9609869`).
