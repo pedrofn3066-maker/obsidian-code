@@ -13,13 +13,13 @@ Existe porque a divisão em notas não corresponde à divisão em disciplinas. T
 
 | Nota | Linhas | Checklist que carrega | Conteúdo |
 | --- | --- | --- | --- |
-| [[P1 - Contabilidade Geral]] | 120 | 26 tópicos, "Contabilidade Geral e Avançada" | <mark style="background:#ffb8b8">nenhum — 10 headings, todos vazios</mark> |
+| [[P1 - Contabilidade Geral]] | 218 | 26 tópicos, "Contabilidade Geral e Avançada" | roteador da **Prova I** — os 10 headings apontam para a Avançada e o CASP, sem duplicar conteúdo |
 | [[P2 - Contabilidade Avançada e de Custos]] | 1432 | **os mesmos 26 tópicos** + 10 próprios de Custos | quase todo o conteúdo de contabilidade do vault |
 | [[P2 - CASP]] | 268 | 12 tópicos próprios | parcial |
 
 <mark style="background:#fff88f">Contabilidade Geral e Contabilidade Avançada carregam a mesma lista de 26 tópicos</mark> — mesmos percentuais, mesmos `dom`, zero divergência. O guia VINTEUM trata "Contabilidade Geral e Avançada" como uma disciplina só; o vault a partiu em duas notas e duplicou o checklist. A nota de Geral ficou com a lista e sem o conteúdo.
 
-Consequência prática: **estudar pelo checklist de `P1 - Contabilidade Geral` não leva a lugar nenhum.** Os 26 tópicos dela apontam para conteúdo que, quando existe, está na nota da Avançada.
+Consequência prática: **o checklist de 26 tópicos de `P1 - Contabilidade Geral` não leva a lugar nenhum** — é cópia do da Avançada. Desde 2026-09-10 o corpo da nota resolve isso por outro caminho: seus 10 headings próprios viraram um **roteador da Prova I**, que diz o que a P1 cobra em cada tema e aponta para onde a profundidade mora. Conteúdo de contabilidade continua morando só na Avançada.
 
 ## Onde cada tópico tem conteúdo
 
@@ -97,7 +97,9 @@ De [[Leitura de provas anteriores]] — as três provas separam contabilidade de
 Levantados em 2026-09-10. Este mapa é curado, não calculado — confira antes de tratar como definitivo.
 
 - **Checklist duplicado:** os mesmos 26 tópicos vivem em duas notas. Atualizar um `dom` em uma não atualiza a outra. Decidir qual é a fonte única.
-- **`P1 - Contabilidade Geral` é casca:** 10 headings, nenhum com conteúdo. Ou vira o lugar da parte "Geral" de verdade, ou deixa de carregar o checklist.
+- **`P1 - Contabilidade Geral` virou roteador**, não casca — mas ainda **carrega o checklist duplicado** de 26 tópicos. Atualizar um `dom` lá não atualiza o da Avançada. A fonte única deveria ser a Avançada.
+- **Análise das demonstrações não tem fonte alguma** — nem no vault, nem no guia VINTEUM de Contabilidade. É o único tópico da P1 sem lastro; falta um material de Análise de Balanços.
+- **DRE, DVA, DMPL, provisões e reservas são stubs** — heading e link do TEC, sem conteúdo. Não apareciam como gap porque a linha do link conta como conteúdo.
 - **Um arquivo, duas disciplinas:** [[P2 - Contabilidade Avançada e de Custos]] tem 1432 linhas e duas tabelas VINTEUM. Dividir facilitaria navegação e faria os painéis medirem Avançada e Custos separadamente — hoje ambas caem no mesmo `bloco`.
 - **Duas lacunas de lastro:** hierarquia de níveis do CPC 46 e atos e fatos administrativos não existem no guia VINTEUM; precisam vir do TEC ou do Estratégia.
 - **Depreciação no CASP** continua vazia, embora a ótica privada já esteja escrita.
