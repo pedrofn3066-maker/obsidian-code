@@ -1379,10 +1379,23 @@ Finalidade: planejamento e controle de custos via orçamento — permite compara
 Exemplo — variação total de custos indiretos de produção no mês:
 - Custo indireto estimado: R$ 500.000,00 · Volume estimado: 200.000 · taxa de aplicação padrão: 2,5 (500.000/200.000)
 - Custo indireto real: R$ 516.600,00 · Volume real: 180.000
-- Variação Total dos Custos Indiretos = taxa de aplicação padrão × volume real
+- **Variação Total dos CIF** = Custo Real − Custo Aplicado, sendo Custo Aplicado = taxa padrão × volume real
 
-> [!warning]- Pendência de autoria
-> A captura original termina no meio da fórmula acima — o cálculo final e a conclusão numérica não vieram. Refazer as contas ou colar o restante da questão antes de estudar por aqui.
+<mark style="background:#fff88f">2,50 × 180.000 = R$ 450.000 aplicado → 516.600 − 450.000 = **R$ 66.600 desfavorável**</mark>
+
+A decomposição fecha no mesmo número por outro caminho:
+
+| Componente | Cálculo | Valor |
+| --- | --- | --- |
+| Variação de orçamento (gasto) | 516.600 − 500.000 | 16.600 D |
+| Variação de volume (capacidade) | 2,50 × (200.000 − 180.000) | 50.000 D |
+| **Total** | | **66.600 D** |
+
+⚠️ A variação de volume **não é desperdício de gasto**: são R$ 50.000 de custo fixo que deixaram de ser absorvidos porque se produziu 180.000 em vez das 200.000 orçadas. É capacidade ociosa. Só os R$ 16.600 da variação de orçamento representam gasto acima do previsto.
+
+> [!note]- Fronteira do que veio da captura
+> Da captura do TEC vieram: as três fórmulas de variação, os dados do exemplo (500.000 · 200.000 · 2,5 · 516.600 · 180.000) e o início da fórmula do total — ela terminava em "× volume real", sem resultado.
+> São **derivação minha**, não do gabarito: os R$ 450.000 aplicados, os R$ 66.600, a tabela de decomposição e a leitura de capacidade ociosa. Confira contra a resolução oficial do TEC antes de fixar como verdade — dois caminhos independentes batem, mas isso não substitui o gabarito.
 
 ⚠️ Variação desfavorável no custo de matéria-prima **não** significa necessariamente desperdício — significa que o custo **real** foi maior que o **projetado**. Variação favorável não significa necessariamente economia de recursos. Nenhuma das duas pode ser tomada como verdade absoluta sem mais dados do enunciado.
 
