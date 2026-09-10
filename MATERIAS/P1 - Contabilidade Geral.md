@@ -187,11 +187,11 @@ Nível P1: separar **provisão** (passivo de prazo ou valor incertos) de **reser
 | | Onde | Estado |
 | --- | --- | --- |
 | Provisões e contingências | [[P2 - Contabilidade Avançada e de Custos#- Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)\|Avançada]] | provável/possível/remoto, provisão × reserva de contingência |
-| Reservas de lucros | [[P2 - Contabilidade Avançada e de Custos#- Reservas de Lucros\|Avançada]] | <mark style="background:#ffb8b8">só link do TEC</mark> |
-| Reservas de capital | [[P2 - Contabilidade Avançada e de Custos#- Reservas de Capital\|Avançada]] | <mark style="background:#ffb8b8">só link do TEC</mark> |
+| Reservas de lucros | [[P2 - Contabilidade Avançada e de Custos#- Reservas de Lucros\|Avançada]] | as sete pelo mnemônico LECORE+ID |
+| Reservas de capital | [[P2 - Contabilidade Avançada e de Custos#- Reservas de Capital\|Avançada]] | RAEA, PAPB, PABS, LVAT |
 | Provisões públicas | [[P2 - CASP#- Provisões, passivos e ativos contingentes\|CASP]] | <mark style="background:#ffb8b8">vazio</mark> |
 
-O CPC 25 — maior peso do checklist compartilhado (7,1%) — foi preenchido em 2026-09-10. **Reservas de lucros e de capital continuam sem lastro escrito**, nas duas notas.
+O CPC 25 e as reservas de lucros e de capital foram preenchidos em 2026-09-10. Restam os stubs em **DVA e DMPL**.
 
 
 ## Análise das demonstrações

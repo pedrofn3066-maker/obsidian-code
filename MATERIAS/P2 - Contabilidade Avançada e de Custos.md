@@ -761,10 +761,138 @@ Exemplos: Reserva Legal, Reserva para Expansão, Reserva de Lucros a Realizar.
     
 ### - Reservas de Lucros
 - [ ] status [dom:: 0] [peso:: 3]
+
+São **parte do PL** que representa lucro retido, **não distribuído** como dividendo. O guia organiza as sete pelo mnemônico **LECORE + I e D**, e o somatório de **L·E·C·O** não pode ultrapassar o **Capital Social** — atingido o limite, a assembleia delibera entre integralizar/aumentar o CS ou distribuir dividendos.
+
+| Sigla | Reserva | Pode ultrapassar o CS? |
+| --- | --- | --- |
+| **L** | Legal | não |
+| **E** | Estatutária | não |
+| **C** | Contingência | **sim** |
+| **O** | Orçamentária (retenção de lucros) | não |
+| **R** | Lucros a Realizar | **sim** |
+| **E** | Especial p/ dividendos obrigatórios não distribuídos | não |
+| **I** | Incentivos fiscais (RIF) | **sim** |
+| **D** | Prêmio na Emissão de Debêntures (RPED) | **sim** |
+
+**Lançamento-padrão**, igual para qualquer uma das sete:
+
+```
+Constituição   D – Lucros Acumulados (PL) / C – Reserva XXX (PL)
+Reversão       D – Reserva XXX (PL) / C – Lucros Acumulados (PL)
+```
+
+Para compensar **Prejuízos Acumulados**, a ordem é obrigatória: **1º Lucros Acumulados → 2º Reservas de Lucros (todas) → 3º Reserva Legal**.
+
+#### Reserva Legal
+
+Garante a integridade do Capital Social — serve só para **compensar prejuízo** ou **aumentar o CS**. **Vedado** usá-la para distribuir dividendos.
+
+- **5% mínimo** do (LLE − Prejuízo Acumulado), antes de qualquer outra destinação.
+- **Teto**: RLegal atual + RLegal a constituir = **20% do CS Realizado**.
+- **Dispensa** de constituir no exercício se RLegal + Reservas de Capital já somam **30% do CS**.
+
+#### Reserva Estatutária
+
+O estatuto cria reservas próprias, desde que defina para cada uma: **finalidade**, **parcela anual do LL** destinada, e **limite máximo**.
+
+#### Reserva de Contingência
+
+Compensa, em exercício **futuro**, a queda de lucro por perda **provável** (fato gerador ainda não ocorreu — ex.: geadas, secas, cheias). **Não** serve para contingência trabalhista, porque ali o fato já ocorreu — isso é [[#- Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)\|Provisão]], não Reserva.
+
+```
+Constituição            D Lucros Acumulados / C Reserva para Contingência
+Reversão (perda não     D Reserva para Contingência / C Lucros Acumulados
+  ocorreu) ou compensação
+  (perda ocorreu)
+```
+
+#### Reserva Orçamentária
+
+Assembleia retém parcela do LL prevista em **orçamento**, com duração de até **5 exercícios** (salvo projeto de investimento de prazo maior). Não pode prejudicar a destinação a outras reservas — reter R$ 100 para um investimento de R$ 100 não é a mesma coisa que reter **a totalidade** como reserva.
+
+#### Reserva de Lucros a Realizar (RLR)
+
+Existe porque **lucro é valor econômico, não financeiro** — parte dele pode ainda não ter virado caixa.
+
+- **Resultado Financeiro ≥ Dividendos** → **não constitui**.
+- **Resultado Financeiro < Dividendos** → constitui pelo **excesso**, para não destinar lucro ainda não realizado.
+
+```
+Lucro NÃO Realizado = (+) Equivalência Patrimonial positiva + (+) Receitas a Longo Prazo
+Lucro Realizado      = LLE − Equivalência Patrimonial positiva − Ganhos de Longo Prazo
+```
+
+Só pode ser usada para **dividendo obrigatório** ou **absorção de prejuízos**.
+
+#### Reserva Especial para Dividendos Obrigatórios Não Distribuídos
+
+Quando o dividendo obrigatório deixa de ser exigível por incompatibilidade com a situação financeira da companhia (recuperação judicial, alto endividamento), o lucro não distribuído vai para esta reserva — e será pago como dividendo assim que a situação permitir, se não for absorvido por prejuízos futuros. ⚠️ Não confundir com a RLR.
+
+#### Reserva de Incentivos Fiscais (RIF) e RPED
+
+Ambas seguem o mesmo mecanismo: a parcela do lucro vinda de **doações/subvenções governamentais** (RIF) ou de **prêmio na emissão de debêntures** (RPED) vai para a reserva; **constituída e não distribuída como dividendo**, pode ser **excluída da base de cálculo de IR/CSLL**.
+
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4729?indice=1&materia=4726)
     
 ### - Reservas de Capital
 - [ ] status [dom:: 0] [peso:: 3]
+
+Ao contrário das [[#- Reservas de Lucros\|Reservas de Lucros]], **não vêm do resultado** — são formadas por valores que **não transitam pela DRE**. As quatro espécies:
+
+| Reserva | Origem |
+| --- | --- |
+| **RAEA** — Reserva de Ágio na Emissão de Ações | ágio sobre o valor nominal na emissão de ações |
+| **PAPB** — Produto da Alienação de Partes Beneficiárias | venda de partes beneficiárias |
+| **PABS** — Produto da Alienação de Bônus de Subscrição | venda de bônus de subscrição |
+| **LVAT** — Lucro na Venda de Ações em Tesouraria | lucro/prejuízo na alienação de [[#- Ações em Tesouraria\|ações em tesouraria]] |
+
+**Uso exclusivo** — as reservas de capital só podem ser aplicadas em:
+- absorção de prejuízos que **ultrapassem** Lucros Acumulados + Reservas de Lucros;
+- resgate, reembolso ou compra de ações;
+- resgate de partes beneficiárias;
+- incorporação ao Capital Social;
+- dividendos de ações **preferenciais**, quando essa vantagem estiver assegurada.
+
+#### PAPB — Partes Beneficiárias
+
+Títulos negociáveis de emissão exclusiva de companhias **fechadas**, valor nominal **zero**, estranhos ao Capital Social — a alienação não altera o CS, só o PL. Atribuídas a fundadores, acionistas ou terceiros como remuneração de serviços, dão direito **eventual** a participação nos lucros, **máximo 10%**. Vedado direito privativo de acionista, salvo fiscalizar a administração.
+
+Só gera lançamento se a alienação for **onerosa**: `D Caixa / C PAPB`.
+
+#### PABS — Bônus de Subscrição
+
+Título emitido no limite do **Capital Social Autorizado** (deduzido o Subscrito), dando direito de preferência para subscrever ações ainda não subscritas.
+
+⚠️ **A emissão do bônus não altera as contas de Capital Social** — ele só dá preferência de compra, não há subscrição em si. Só gera lançamento na alienação **onerosa**: `D Caixa / C PABS`.
+
+#### RAEA — Ágio na Emissão de Ações
+
+Ágio é o valor que **ultrapassa o valor nominal** das ações na subscrição:
+
+```
+D Caixa 110 / C Capital Social 100 (100 ações × $1 nominal) / C RAEA 10 (ágio)
+```
+
+Se o valor nominal for **zero**, o ágio é o que ultrapassar a parcela que a própria empresa destinar ao Capital Social — a divisão é escolha da companhia.
+
+**Conversão de debêntures ou partes beneficiárias em ações**, quando gera ágio — a companhia paga a dívida em ações mais valorizadas que o valor de face:
+
+```
+D Debêntures a Resgatar 100 / C Capital Social 80 (valor nominal das ações entregues) / C RAEA 20 (ágio)
+```
+
+⚠️ **Custo de transação na emissão de ações** é absorvido pelo ágio — se o CT for maior que o ágio, "o maior engole o menor" e o excedente retifica o Capital Social.
+
+#### LVAT — Lucro na Venda de Ações em Tesouraria
+
+Lucro ou prejuízo na alienação **não transita pelo resultado**:
+
+```
+Venda com lucro       D Caixa / C (−) Ações em Tesouraria (pelo custo) / C Reserva LVAT (o ganho)
+Venda com prejuízo     D Caixa / C (−) Ações em Tesouraria / D Reserva LVAT (até esgotar) / D a reserva de origem (o restante)
+```
+
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4730?indice=1&materia=4726)
     
 ### - Reserva de Reavaliação (Extinta)
