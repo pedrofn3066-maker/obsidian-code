@@ -64,7 +64,7 @@ O script já resolve três coisas que o comando cru erra: mostra acentos em vez 
 
 > [!note]- Por que não dá pra pedir lista de arquivos e conteúdo de uma vez
 > `--name-status` e `-p` são ambos formato de diff, e o `--name-status` vence seja qual for a ordem em que você escreva. Por isso o script escolhe um ou outro em vez de empilhar os dois.
-
+	
 ## 4. Como rodar os 30 min
 
 1. **Leia só a coluna "Nota"** dos blocos 1 e 2. Não abra nada ainda.

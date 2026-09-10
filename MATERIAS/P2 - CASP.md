@@ -221,6 +221,14 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Depreciação
 - [ ] status [dom:: 0] [peso:: 3]
+
+> [!warning] Lacuna de lastro — sem fonte licenciada
+> Não há material de Contabilidade Aplicada ao Setor Público licenciado no vault. O guia VINTEUM usado para preencher [[P2 - Contabilidade Avançada e de Custos#- Depreciação, Amortização e Exaustão;\|Depreciação na ótica privada]] é só de contabilidade societária — não cobre NBC TSP nem MCASP.
+>
+> A ótica pública de depreciação difere da privada em pontos que a FCC cobra: **bens de uso comum** não depreciam (ex.: praças, ruas); vida útil e valor residual seguem **tabelas do MCASP**, não estimativa da entidade; a depreciação de ativos **em concessão/permissão de uso** tem regra própria. Nenhum desses pontos deve ser escrito de memória — precisam vir do NBC TSP 07 (Ativo Imobilizado) ou do MCASP (STN), que não estão no vault.
+>
+> `dom` aqui não deve passar de 0 até esse material chegar.
+
 ## - Redução ao valor recuperável
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Provisões, passivos e ativos contingentes
@@ -261,6 +269,12 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 - [ ] status [dom:: 0] [peso:: 3]
 ## - DFC
 - [ ] status [dom:: 0] [peso:: 3]
+
+> [!warning] Lacuna de lastro — sem fonte licenciada
+> Mesma lacuna que em [[#- Depreciação\|Depreciação]] acima: nenhum material de CASP no vault cobre a DFC pública. A DFC privada, já escrita em [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|Avançada (CPC 03)]], não serve de lastro — a pública usa as **mesmas três atividades (FCO/FCI/FCF)**, mas classificadas por **natureza orçamentária** (receitas e despesas correntes/de capital), o que muda o que cai em cada grupo.
+>
+> Precisa vir da NBC TSP ou do MCASP (STN). `dom` aqui não deve passar de 0 até esse material chegar.
+
 ## - DMPL
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Notas explicativas
