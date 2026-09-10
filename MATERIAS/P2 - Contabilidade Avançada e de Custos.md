@@ -508,6 +508,95 @@ Exemplo do guia — título de $400 rendendo 5% ao mês, valor justo de $435 no 
 
 ### - Imobilizado (CPC 27);
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Art. 179, IV da LSA c/c CPC 27** — imobilizado são os direitos que tenham por objeto **bens corpóreos (tangíveis)** destinados a:
+
+- manutenção das atividades da companhia;
+- operações que transfiram à companhia os **benefícios, riscos e controle** (arrendamento mercantil financeiro);
+- **uso** na produção ou fornecimento de mercadorias e serviços;
+- **aluguel a outros** vinculados à empresa — empregados, controladas — **sem fim de lucro**;
+- fins **administrativos**.
+
+Em todos os casos, espera-se utilizar por **mais de um período**.
+
+#### Itens peculiares
+
+Cada linha abaixo já foi o enunciado inteiro de uma questão:
+
+| Item | Classificação |
+| --- | --- |
+| **Terreno sem destinação definida** | <mark style="background:#fff88f">**Investimentos**</mark>, não imobilizado |
+| **Imobilizado biológico** | animais e plantas **vivos** mantidos para uso por mais de um exercício — vacas leiteiras |
+| **Software** ligado ao corpóreo, sem o qual a máquina não funciona (Windows) | **imobilizado** |
+| **Software** identificável e separável (Photoshop) | [[#- Intangível (CPC 04);\|intangível]] |
+| **Sobressalentes e peças de reposição**, uso por +1 período | imobilizado — e **não depreciam** |
+| Sobressalentes sem essa menção | **despesa** |
+
+⚠️ Para sobressalente virar ativo, a questão precisa dizer **expressamente** "uso por mais de um período".
+
+#### Reconhecimento e avaliação
+
+Reconhece quando for **provável** que os benefícios econômicos futuros fluirão para a entidade **e** o custo puder ser mensurado confiavelmente. Duas subcontas: **bens em operação** (já em uso) e **imobilizado em andamento** (ainda não operando).
+
+```
+Valor Contábil = Custo (preço à vista na data do reconhecimento)
+               − Depreciação acumulada
+               − Perdas por Redução ao Valor Recuperável (PRVR)
+```
+
+Juros, em regra, **não** entram no custo — são despesa pelo regime de competência. A exceção são os **ativos qualificáveis** (CPC 08).
+
+#### O que entra e o que não entra no custo
+
+<mark style="background:#fff88f">É aqui que a FCC monta a questão de cálculo: dá uma lista de gastos e pede o custo do imobilizado.</mark>
+
+| **Compõe o custo** | **É despesa do período** |
+| --- | --- |
+| custo de aquisição + imposto de importação + tributos **não recuperáveis** sobre a compra | **propaganda** e atividades promocionais |
+| **(−)** descontos comerciais e abatimentos | transferência das atividades para novo local |
+| AVP dos custos de **desmontagem e restauração** do local | abertura de nova instalação |
+| preparação do local, taxas de registro | custos administrativos e indiretos — luz, água, telefone |
+| frete e seguro **do frete**, manuseio | **treinamento** |
+| instalação, montagem e **testes** | **garantia estendida** |
+| honorários profissionais diretamente relacionados | |
+| benefícios a empregados decorrentes da aquisição (CPC 33) — vale-refeição, vale-transporte | |
+
+⚠️ **Seguro do frete** entra; **seguro anual** não — é serviço, despesa.
+
+⚠️ O custo de **remoção/desmontagem de móveis e máquinas antigos** pertence ao custo do imobilizado **que será removido**, não ao novo.
+
+#### Gastos depois de o ativo estar em operação
+
+| Gasto | Tratamento |
+| --- | --- |
+| Manutenção **periódica** ou **corretiva** | **despesa** do período |
+| Paradas **programadas** e **inspeções** | **ativados** ao valor contábil quando efetuadas |
+| Gastos que **aumentem vida útil ou capacidade** | **ativados** |
+
+Lucro na venda de imobilizado vai para **"Outras Receitas"**.
+
+#### Reavaliação
+
+Depois do reconhecimento, o item cujo valor justo possa ser mensurado confiavelmente pode ser apresentado pelo **valor reavaliado — se permitido por lei**. Reavaliado uma vez, exige nova reavaliação sempre que o valor justo divergir materialmente do contábil.
+
+```
+V reavaliado = Valor justo − depreciações subsequentes − PRVR subsequentes
+```
+
+<mark style="background:#fff88f">A assimetria é o que cai:</mark> **aumento** por reavaliação **não passa pelo resultado** — vai para [[#- Ajuste de Avaliação Patrimonial\|AAP]], conta do PL, compondo [[#- Demonstração do Resultado Abrangente (DRA); e\|Outros Resultados Abrangentes]]. **Diminuição** vai para o resultado, mas só depois de consumir a AAP existente.
+
+| Situação | Lançamento |
+| --- | --- |
+| Aumento | `D Imobilizado 100 / C AAP (PL) 100` |
+| Reversão da reserva | `D AAP 100 / C Reversão da AAP (receita) 100` |
+| Queda, **sem** AAP | `C Imobilizado 10 / D Despesa de Reavaliação 10` |
+| Queda, **com** AAP suficiente | `C Imobilizado 10 / D AAP (PL) 10` |
+| Queda **maior** que a AAP | `C Imobilizado 20 / D AAP 10 / D Despesa de Reavaliação 10` |
+
+O texto do CPC e provas antigas ainda falam em **"Reserva de Reavaliação"** — tratar como sinônimo de AAP. No Brasil a reavaliação de ativos próprios está [[#- Reserva de Reavaliação (Extinta)\|vedada desde a Lei 11.638/2007]]; o modelo acima é o do CPC, cobrado como teoria.
+
+Depreciação do imobilizado: [[#- Depreciação, Amortização e Exaustão;\|seção própria]]. Impairment: [[#- Redução ao Valor Recuperável (CPC 01);\|CPC 01]].
+
 ### - Intangível (CPC 04);
 - [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4715)

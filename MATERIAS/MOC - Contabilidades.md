@@ -33,7 +33,7 @@ Os 26 tópicos da lista compartilhada, em ordem de peso. "Avançada" é sempre [
 | Balanço Patrimonial (BP) | 5,6% | [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|Avançada]] · [[P2 - CASP#- BP\|CASP]] |
 | CPC 16 — Estoques | 4,6% | [[P2 - Contabilidade Avançada e de Custos#- Estoques (CPC 16)\|Avançada]] |
 | Depreciação, Amortização e Exaustão | 4,6% | [[P2 - Contabilidade Avançada e de Custos#- Depreciação, Amortização e Exaustão;\|Avançada]] · <mark style="background:#ffb8b8">CASP ainda vazio</mark> |
-| Ativo Imobilizado | 4,4% | <mark style="background:#ffb8b8">gap</mark> — heading existe, vazio (o mapa afirmava conteúdo; conferido em 2026-09-10) |
+| Ativo Imobilizado | 4,4% | [[P2 - Contabilidade Avançada e de Custos#- Imobilizado (CPC 27);\|Avançada]] |
 | Estrutura Conceitual Básica (CPC 00) | 4,1% | [[P2 - Contabilidade Avançada e de Custos#- Contabilidade Básica;\|Avançada]] |
 | Instrumentos Financeiros | 4,1% | [[P2 - Contabilidade Avançada e de Custos#- Instrumentos Financeiros (CPC 48);\|Avançada]] |
 | Ativos Intangíveis | 3,9% | [[P2 - Contabilidade Avançada e de Custos#- Intangível (CPC 04);\|Avançada]] |
@@ -56,7 +56,9 @@ Os 26 tópicos da lista compartilhada, em ordem de peso. "Avançada" é sempre [
 
 **Os doze gaps de 33,3% foram preenchidos em 2026-09-10**, com lastro no guia VINTEUM de Contabilidade Geral e Avançada. Um heading novo foi criado (Escrituração, Balancete, Atos e Fatos); os outros onze já existiam vazios.
 
-O que sobrou, e é o gap real hoje: **Ativo Imobilizado (4,4%)** — o maior peso da disciplina sem uma linha de conteúdo. Mais duas lacunas parciais dentro de tópicos já preenchidos: a **hierarquia de níveis do CPC 46** e **atos e fatos administrativos**, nenhum dos dois no guia VINTEUM.
+**Ativo Imobilizado (4,4%)** foi preenchido no mesmo dia — o mapa afirmava que já tinha conteúdo, mas o heading estava vazio.
+
+Com isso, <mark style="background:#fff88f">os 26 tópicos do checklist compartilhado têm conteúdo</mark>. Sobram duas lacunas parciais dentro de tópicos já escritos: a **hierarquia de níveis do CPC 46** e **atos e fatos administrativos** — nenhum dos dois existe no guia VINTEUM, e ambos estão sinalizados em callout no próprio tópico.
 
 ## Contabilidade de Custos
 
@@ -97,7 +99,6 @@ Levantados em 2026-09-10. Este mapa é curado, não calculado — confira antes 
 - **Checklist duplicado:** os mesmos 26 tópicos vivem em duas notas. Atualizar um `dom` em uma não atualiza a outra. Decidir qual é a fonte única.
 - **`P1 - Contabilidade Geral` é casca:** 10 headings, nenhum com conteúdo. Ou vira o lugar da parte "Geral" de verdade, ou deixa de carregar o checklist.
 - **Um arquivo, duas disciplinas:** [[P2 - Contabilidade Avançada e de Custos]] tem 1432 linhas e duas tabelas VINTEUM. Dividir facilitaria navegação e faria os painéis medirem Avançada e Custos separadamente — hoje ambas caem no mesmo `bloco`.
-- **Ativo Imobilizado (4,4%) está vazio** — o maior peso sem conteúdo, e o mapa afirmava o contrário até 2026-09-10.
 - **Duas lacunas de lastro:** hierarquia de níveis do CPC 46 e atos e fatos administrativos não existem no guia VINTEUM; precisam vir do TEC ou do Estratégia.
 - **Depreciação no CASP** continua vazia, embora a ótica privada já esteja escrita.
 
