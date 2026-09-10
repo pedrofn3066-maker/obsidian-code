@@ -136,8 +136,8 @@ Nível P1: identificar em qual demonstração cada evento aparece, e as três at
 | | Onde | Estado |
 | --- | --- | --- |
 | DFC | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|Avançada]] | só o conceito de equivalente de caixa (3 meses) |
-| DVA | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Valor Adicionado (CPC 09);\|Avançada]] | <mark style="background:#ffb8b8">stub vazio</mark> |
-| DMPL | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Mudança do Patrimônio Líquido (DMPL);\|Avançada]] | <mark style="background:#ffb8b8">vazio</mark> |
+| DVA | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Valor Adicionado (CPC 09);\|Avançada]] | estrutura completa, receitas → distribuição |
+| DMPL | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Mudança do Patrimônio Líquido (DMPL);\|Avançada]] | o que altera o saldo total do PL × o que só move de conta |
 | DFC pública | [[P2 - CASP#- DFC\|CASP]] | <mark style="background:#ffb8b8">vazio</mark> |
 
 Relacionado e já escrito: [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado Abrangente (DRA); e\|DRA]] — a diferença entre ORA e resultado é o que separa DRA de DRE.
@@ -191,7 +191,7 @@ Nível P1: separar **provisão** (passivo de prazo ou valor incertos) de **reser
 | Reservas de capital | [[P2 - Contabilidade Avançada e de Custos#- Reservas de Capital\|Avançada]] | RAEA, PAPB, PABS, LVAT |
 | Provisões públicas | [[P2 - CASP#- Provisões, passivos e ativos contingentes\|CASP]] | <mark style="background:#ffb8b8">vazio</mark> |
 
-O CPC 25 e as reservas de lucros e de capital foram preenchidos em 2026-09-10. Restam os stubs em **DVA e DMPL**.
+O CPC 25, as reservas e agora DVA e DMPL foram preenchidos em 2026-09-10. Deste tópico, resta apenas a **DFC** — só o conceito de equivalente de caixa, sem as três atividades.
 
 
 ## Análise das demonstrações

@@ -1611,10 +1611,112 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/998)
 
 ## - Demonstração do Valor Adicionado (CPC 09);
 - [ ] status [dom:: 0] [peso:: 3]
+
+Demonstra a **riqueza gerada** pela entidade e como ela é **distribuída** entre quem contribuiu para gerá-la — empregados, financiadores, acionistas, governo — e a parcela **não distribuída**.
+
+- Elaborada a partir da **DRE**, com interface com a [[#- Demonstração de Lucro e Prejuízo Acumulado (DLPA);\|DLPA]].
+- Demonstrativo **dinâmico**, de base **macroeconômica** — o guia chama de "PIB da empresa".
+- **Não** se fundamenta nos princípios contábeis fundamentais.
+- **Não avalia desempenho econômico** — isso é função da DRE. A DVA mostra **quanto a entidade agrega** de valor aos insumos comprados de terceiros.
+
+⚠️ **Não é exigida pelas normas internacionais** (IFRS) — é peculiaridade brasileira.
+
+**Obrigatoriedade:** companhias de capital **aberto**, e outras que a lei determinar; **recomendada** para as demais. A tabela completa de obrigatoriedade por demonstração (BP, DRE, DFC, DVA, DMPL, DRA, DLPA, NE) ainda não está escrita em [[#- Apresentação das Demonstrações Contábeis (CPC 26);\|CPC 26]] — heading vazio.
+
+DVA **consolidada** parte das demonstrações consolidadas e evidencia a participação dos sócios **não controladores**.
+
+#### Estrutura
+
+```
+1. RECEITAS
+   (+) Vendas (receita bruta, inclusive IPI e tributos)
+      (−) devoluções, descontos incondicionais, abatimentos
+   (−) PECLD / (+) reversão de PECLD
+   (+) receita com construção de ativos próprios
+   (±) outras receitas, inclusive resultado na alienação de ANC
+
+2. (−) INSUMOS ADQUIRIDOS DE TERCEIROS
+   (+) CMV = EI + Compras líquidas − EF + tributos (recup. ou não)
+   (+) gastos com infraestrutura, serviços de terceiros
+   (+) perdas de ativo (PRVR, PAVM) / (−) reversão dessas perdas
+
+3. = VALOR ADICIONADO BRUTO (1 − 2)
+
+4. (−) RETENÇÕES — depreciação, amortização, exaustão
+
+5. = VALOR ADICIONADO LÍQUIDO (3 − 4)
+
+6. (+) VALOR ADICIONADO RECEBIDO EM TRANSFERÊNCIA
+   (±) resultado de equivalência patrimonial
+   (+) receitas financeiras, receita de dividendos (método do custo), aluguéis, royalties
+
+7. = VALOR ADICIONADO TOTAL A DISTRIBUIR (5 + 6)
+
+8. DISTRIBUIÇÃO DO VALOR ADICIONADO
+   Pessoal        — remuneração, benefícios, FGTS
+   Governo        — impostos, taxas e contribuições PRÓPRIAS (não inclui retenção de terceiros)
+   Capital de Terceiros — juros, aluguéis, arrendamento operacional, royalties
+   Capital Próprio — dividendos do exercício, JCP, lucros retidos, prejuízo (sinal negativo)
+```
+
+⚠️ **CMV entra líquido de tributos** — mesmo cálculo da DRE, mas cuidado ao somar de volta os tributos recuperáveis na linha de insumos.
+
+⚠️ Para **tributos recuperáveis** (ICMS, IPI, PIS/COFINS), considera-se apenas o valor **devido** — débito da venda menos crédito da compra, não o bruto.
+
+A soma da distribuição (item 8) precisa **fechar** com o valor adicionado total a distribuir (item 7) — é o teste de consistência mais comum em questão de cálculo.
+
 resumo tec: ()
 
 ## - Demonstração de Mudança do Patrimônio Líquido (DMPL);
 - [ ] status [dom:: 0] [peso:: 3]
+
+Pega **todas as contas** que alteram o PL de forma **quantitativa** — é a demonstração mais abrangente do PL, superconjunto da [[#- Demonstração de Lucro e Prejuízo Acumulado (DLPA);\|DLPA]].
+
+- **Facultativa** pela Lei 6.404/76; **obrigatória** pelo CPC 26.
+- **Pode substituir definitivamente** a DLPA — quando a DMPL é apresentada, a DLPA deixa de ser necessária.
+
+#### O que altera o PL e o que não altera
+
+<mark style="background:#fff88f">A pegadinha é confundir movimento *dentro* do PL com alteração do *saldo total*.</mark>
+
+| Operação | Altera o saldo total do PL? |
+| --- | --- |
+| Constituição de [[#- Reservas de Lucros\|Reserva de Lucros]] | **NÃO** — é distribuição do LPA, só move de conta para conta |
+| Constituição de [[#- Reservas de Capital\|Reserva de Capital]] | **SIM** — tem contrapartida em Caixa ou outro ativo |
+| Reversão de Reserva de Lucros | **NÃO** — contrapartida é a própria conta de LPA |
+| Realização da [[#- Reserva de Reavaliação (Extinta)\|Reserva de Reavaliação]] | **NÃO** — contrapartida é LPA |
+
+#### Estrutura (colunas × linhas)
+
+Colunas: Capital Social · Reserva de Capital · Reserva de Lucros · Ações em Tesouraria · Lucros/Prejuízos Acumulados · Resultado Abrangente · **Total**. Linhas, na ordem em que o PL se move ao longo do exercício:
+
+```
+Saldos iniciais
+
+Aumento de Capital Social
+  recursos dos acionistas/sócios          (+ Capital Social)
+  incorporação de reservas                (+ CS / − Reserva)
+  incorporação de lucros acumulados       (+ CS / − LPA)
+
+(−) Gasto com emissão de ações
+
+Ações em Tesouraria
+  vendidas    (− saldo da conta retificadora)
+  adquiridas  (+ saldo da conta retificadora, reduzindo o PL)
+
+Propostas da diretoria
+  constituição de reservas
+  dividendos por ação (podem estar em NE ou na própria DMPL)
+
+Resultado do período e Outros Resultados Abrangentes
+
+Saldos finais
+```
+
+⚠️ A **DRA pode estar contida** na DMPL, mas é **vedada** sua apresentação **somente** na DMPL — ela precisa aparecer em algum lugar separado também (DRE ou demonstração própria).
+
+Obrigatoriedade por demonstração, do CPC 26: [[#- Apresentação das Demonstrações Contábeis (CPC 26);\|ainda não escrita]].
+
 ## - Demonstração de Lucro e Prejuízo Acumulado (DLPA);
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Demonstração do Resultado Abrangente (DRA); e
