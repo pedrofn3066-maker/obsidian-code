@@ -99,7 +99,7 @@ Levantados em 2026-09-10. Este mapa é curado, não calculado — confira antes 
 - **Checklist duplicado:** os mesmos 26 tópicos vivem em duas notas. Atualizar um `dom` em uma não atualiza a outra. Decidir qual é a fonte única.
 - **`P1 - Contabilidade Geral` virou roteador**, não casca — mas ainda **carrega o checklist duplicado** de 26 tópicos. Atualizar um `dom` lá não atualiza o da Avançada. A fonte única deveria ser a Avançada.
 - **Análise das demonstrações não tem fonte alguma** — nem no vault, nem no guia VINTEUM de Contabilidade. É o único tópico da P1 sem lastro; falta um material de Análise de Balanços.
-- **DRE, DVA, DMPL, provisões e reservas são stubs** — heading e link do TEC, sem conteúdo. Não apareciam como gap porque a linha do link conta como conteúdo.
+- **CPC 25 (Provisões) e DRE foram preenchidos em 2026-09-10.** Restam stubs — heading e link do TEC, sem conteúdo — em DVA, DMPL e nas reservas de lucros/capital.
 - **Um arquivo, duas disciplinas:** [[P2 - Contabilidade Avançada e de Custos]] tem 1432 linhas e duas tabelas VINTEUM. Dividir facilitaria navegação e faria os painéis medirem Avançada e Custos separadamente — hoje ambas caem no mesmo `bloco`.
 - **Duas lacunas de lastro:** hierarquia de níveis do CPC 46 e atos e fatos administrativos não existem no guia VINTEUM; precisam vir do TEC ou do Estratégia.
 - **Depreciação no CASP** continua vazia, embora a ótica privada já esteja escrita.

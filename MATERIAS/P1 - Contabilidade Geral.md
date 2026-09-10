@@ -122,10 +122,10 @@ Nível P1: classificar contas nos grupos certos e montar a DRE até o lucro líq
 | | Onde | Estado |
 | --- | --- | --- |
 | BP | [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|Avançada]] | fragmento sobre classificação AC/RLP/Investimentos |
-| DRE | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado do Exercício;\|Avançada]] | <mark style="background:#ffb8b8">só link do TEC</mark> |
+| DRE | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado do Exercício;\|Avançada]] | estrutura completa, participações em cascata |
 | BP público | [[P2 - CASP#- BP\|CASP]] | <mark style="background:#ffb8b8">vazio</mark> |
 
-<mark style="background:#fff88f">A DRE é o buraco mais caro deste tópico</mark> — cai em toda prova e não tem uma linha escrita em lugar nenhum do vault.
+A DRE foi preenchida em 2026-09-10 — estrutura completa e o cálculo em cascata das participações estatutárias, que é onde a FCC costuma armar a questão de cálculo.
 
 
 ## DFC, DMPL e DVA
@@ -186,12 +186,12 @@ Nível P1: separar **provisão** (passivo de prazo ou valor incertos) de **reser
 
 | | Onde | Estado |
 | --- | --- | --- |
-| Provisões e contingências | [[P2 - Contabilidade Avançada e de Custos#- Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)\|Avançada]] | <mark style="background:#ffb8b8">só link do TEC</mark> |
+| Provisões e contingências | [[P2 - Contabilidade Avançada e de Custos#- Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)\|Avançada]] | provável/possível/remoto, provisão × reserva de contingência |
 | Reservas de lucros | [[P2 - Contabilidade Avançada e de Custos#- Reservas de Lucros\|Avançada]] | <mark style="background:#ffb8b8">só link do TEC</mark> |
 | Reservas de capital | [[P2 - Contabilidade Avançada e de Custos#- Reservas de Capital\|Avançada]] | <mark style="background:#ffb8b8">só link do TEC</mark> |
 | Provisões públicas | [[P2 - CASP#- Provisões, passivos e ativos contingentes\|CASP]] | <mark style="background:#ffb8b8">vazio</mark> |
 
-<mark style="background:#fff88f">Tópico inteiro sem lastro escrito, nas duas notas.</mark> O CPC 25 é o item de maior peso do checklist compartilhado (7,1%) — vale atacar pela Avançada, não por aqui.
+O CPC 25 — maior peso do checklist compartilhado (7,1%) — foi preenchido em 2026-09-10. **Reservas de lucros e de capital continuam sem lastro escrito**, nas duas notas.
 
 
 ## Análise das demonstrações

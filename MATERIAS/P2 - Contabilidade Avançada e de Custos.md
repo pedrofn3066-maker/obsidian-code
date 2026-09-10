@@ -801,6 +801,67 @@ Exemplos: Reserva Legal, Reserva para Expansão, Reserva de Lucros a Realizar.
     
 ## - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Passivo de prazo ou valor incertos.** Três condições, todas exigidas ao mesmo tempo, para registrar uma **provisão**:
+
+1. **Obrigação presente**, derivada de evento **passado** — legal (contrato ou lei) ou **não formalizada** (práticas passadas, políticas publicadas, declaração de responsabilidade que criam expectativa válida de que a empresa cumprirá);
+2. **Provável** (>50%) que haverá saída de recursos;
+3. **Estimativa confiável** do valor.
+
+<mark style="background:#fff88f">Roteiro de identificação:</mark> houve evento passado? Ele gerou obrigação presente (venda → garantia; acidente de trabalho → processo)? O prazo ou valor são incertos? Dá para estimar com confiabilidade? **Sim para tudo → registra provisão.**
+
+Se o efeito do valor do dinheiro no tempo for material, a provisão é o **valor presente** dos desembolsos. Se não for possível estimar com confiança, **não se constitui** — só se **divulga** em Notas Explicativas.
+
+#### Provisão × passivo contingente × ativo contingente
+
+A única variável que muda entre as três é a **probabilidade**:
+
+| Probabilidade | Registro contábil | Notas explicativas |
+| --- | --- | --- |
+| **Provável** (>50%) | **SIM** | SIM |
+| **Possível** | NÃO | SIM |
+| **Remota** | NÃO | NÃO |
+
+Isso vale tanto para o lado do **passivo** (provisão × passivo contingente) quanto do **ativo**: ativo contingente só é **reconhecido** quando **praticamente certo**; quando apenas **provável**, só se divulga; possível/remoto nem isso.
+
+⚠️ Ativo contingente **nunca** se registra pelo simples fato de ser "provável" — o reconhecimento exige um grau acima: **praticamente certo**. É a assimetria clássica entre ativo e passivo contingente.
+
+#### Lançamentos
+
+```
+Constituição          D – Despesa com Provisão / C – Provisão para XYZ
+Reversão (deixa        C – Reversão (receita) / D – Provisão para XYZ
+  de ser provável)
+```
+
+As provisões **devem ser reavaliadas em toda data de balanço**.
+
+> [!warning] Pegadinha de quadro comparativo — comum na FCC
+> Quando a questão dá uma tabela com o valor provisionado num ano e a reestimativa no ano seguinte, a reação **não é revertir a diferença** — é revertida **a provisão inteira** se a probabilidade deixou de ser provável, mesmo que o novo valor estimado seja maior que zero.
+>
+> | Processo | Provisão em T0 | Probabilidade em T1 | Reestimativa em T1 | Ação |
+> | --- | --- | --- | --- | --- |
+> | A1 | 100.000 | Provável | 80.000 | reverte **20.000** (ajusta ao novo valor) |
+> | A2 | 180.000 | **Possível** | 100.000 | reverte os **180.000 inteiros** — não os 100.000 |
+> | A3 | 0 | Possível | 50.000 | nada — possível não registra |
+> | A4 | 0 | Provável | 40.000 | **constitui** 40.000 |
+
+#### Casos peculiares
+
+- **Perdas operacionais futuras:** não são reconhecidas como provisão — não satisfazem a definição de passivo. Já são capturadas pelo teste de [[#- Redução ao Valor Recuperável (CPC 01);|impairment]].
+- **Contrato oneroso:** obrigação maior que o benefício esperado. A obrigação presente **deve** ser reconhecida como provisão. Ex.: locação de 2 anos sem sublocação permitida, cuja rescisão em 1 ano geraria obrigação maior que o benefício.
+- **Reestruturação:** venda ou extinção de linha de negócio, fechamento de unidades, reorganização com efeito material na natureza dos negócios.
+- **Legislação posterior:** um evento que ainda não gera obrigação pode gerar em data futura, por alteração legal — mas só quando for **praticamente certo** que a lei será promulgada.
+
+#### Provisão para contingência × Reserva de contingência
+
+<mark style="background:#fff88f">Nomes parecidos, fato gerador oposto.</mark>
+
+| | Fato gerador | Lançamento |
+| --- | --- | --- |
+| **Provisão** para contingência | **PASSADO** — já ocorreu | `C Provisão para Contingência (passivo) / D Despesa com Provisão (adição no LALUR)` |
+| **Reserva** de contingência | **FUTURO** — perda ainda não ocorreu, só é provável | `C Reserva de Contingência — destinação do lucro (exclusão no LALUR) / D Lucros Acumulados` |
+
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4724?indice=1&materia=)
 
 
@@ -1362,6 +1423,62 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/996)
 
 ## - Demonstração do Resultado do Exercício;
 - [ ] status [dom:: 0] [peso:: 3]
+
+Obrigatória para **todas** as empresas. Demonstrativo **dinâmico** (cobre um período, não uma data).
+
+#### Estrutura
+
+```
+Receita Bruta                                = Faturamento bruto − IPI
+(−) Devoluções e cancelamentos do exercício
+(−) Descontos incondicionais/comerciais
+(−) Abatimentos
+(−) Tributos incidentes sobre vendas (ICMS, ISS, PIS/COFINS, IPI)
+(−) AVP de vendas/clientes
+= Receita Líquida                            ⟵ ponto de partida da DRE pelo CPC 26
+(−) CMV / CSP
+= Lucro Bruto
+(−) Despesas com vendas
+(−) Despesas gerais e administrativas
+(±) Resultado de equivalência patrimonial
+(±) Outras receitas/despesas operacionais
+= Lucro ou Prejuízo antes do Resultado Financeiro
+(±) Receitas/despesas financeiras
+= Resultado Antes dos Tributos sobre o Lucro (LAIR)
+(−) Provisão para IRPJ e CSLL                ⟵ prejuízo acumulado NÃO reduz essa base, só a de participações
+(±) Resultado das Operações Descontinuadas (CPC 31), em linha única
+(−) Provisão para IR/CSLL sobre Operações Descontinuadas
+= Resultado Antes das Participações (LADIR)
+(−) Participações estatutárias, em cascata (ver abaixo)
+= Resultado Líquido do Exercício (RLE)
+```
+
+CMV: cálculo e lançamento em [[#- Estoques (CPC 16)\|Estoques]].
+
+#### Participações estatutárias — cálculo em cascata
+
+Cada participação incide sobre o que **sobra** depois da anterior, na ordem legal:
+
+```
+Base = LADIR − Prejuízo Acumulado
+1º Debêntures         10% da Base
+2º Empregados         10% da (Base − Debêntures)
+3º Administradores    10% da (Base − Debêntures − Empregados)
+4º Partes Beneficiárias  10% da (Base − as três anteriores)
+```
+
+⚠️ **Debêntures e Empregados**, quando dados em **valor absoluto** (ex.: R$ 10.000 fixos, não %), são **deduzidos da base do IR/CSLL** — tratamento diferente do padrão em cascata.
+
+**Fundos de assistência ou previdência de empregados** que não configuram despesa fixa — isto é, quando o valor é um **percentual sobre o lucro**, não um montante fixo — entram na mesma cascata, na sequência.
+
+#### Aspectos teóricos
+
+- **DRE e DRA são sempre apresentadas separadamente** no Brasil — nunca combinadas.
+- **JCP (Juros sobre Capital Próprio)** são tratados como **dividendos**, isto é, distribuição do lucro — **não entram na DRE**.
+- **Classificação de despesas**: por **natureza** (transporte, depreciação, benefícios a empregados, publicidade) ou por **função** (despesas de venda, custo dos produtos, despesas administrativas). No Brasil, a prática comum é a classificação por **função** — mas quando usada, a lei **exige divulgação adicional por natureza** em nota explicativa.
+
+Relacionado: [[#- Demonstração do Resultado Abrangente (DRA); e\|DRA]], que carrega os itens que a DRE não reconhece; [[#- Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)\|Reservas de Lucros]], destino do RLE.
+
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/998)
 
 ## - Demonstração do Valor Adicionado (CPC 09);
