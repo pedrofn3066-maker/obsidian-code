@@ -244,12 +244,111 @@ Portanto, a afirmação de que uma zona de disponibilidade é composta por um co
 
 ## - Big Data
 - [ ] status [dom:: 0] [peso:: 3]
+
+Conjunto de dados que supera a capacidade de processamento dos sistemas convencionais, com alta variedade (estruturados e não estruturados) e que exige escalabilidade horizontal.
+
+**Os 5 V's:**
+
+| V | O que mede |
+| --- | --- |
+| **Volume** | quantidade de dados gerados |
+| **Velocidade** | ritmo de geração e necessidade de processamento |
+| **Variedade** | estruturados, semiestruturados, não estruturados |
+| **Veracidade** | qualidade e confiabilidade — grande volume aumenta o risco de dados imprecisos, incompletos ou de fonte questionável |
+| **Valor** | capacidade de extrair conhecimento e benefício da análise — é o objetivo final |
+
+<mark style="background:#fff88f">Distinguir de conceitos vizinhos que a banca gosta de confundir:</mark>
+
+- **Big Data ≠ BI.** BI trabalha dados estruturados e predefinidos, com foco em análise descritiva de eventos passados (KPIs). Big Data lida com volume e variedade que superam a capacidade dos sistemas convencionais.
+- **Big Data ≠ Streaming.** Streaming é o processamento de fluxos com alta velocidade, cujo valor depende de reagir em tempo (quase) real — é a dimensão "velocidade" do Big Data isolada como conceito próprio.
+- **Big Data ≠ Ciência de Dados.** Ciência de Dados usa métodos científicos, estatísticos e modelos computacionais para análise preditiva e prescritiva — descoberta de padrões, antecipação de tendências.
+
+#### Hadoop
+
+Framework de código aberto, implementado em Java, para processamento e armazenamento em larga escala usando máquinas comuns (*commodity hardware*). Fornece armazenamento, processamento, acesso, governança, segurança e operações de dados.
+
+⚠️ **Processamento distribuído, não centralizado** — é a característica de design que a banca inverte. O Hadoop distribui os dados num cluster de hardware comum e processa em paralelo em vários servidores ao mesmo tempo. É justamente rodar em hardware comum, com grande ecossistema de ferramentas, que torna o Hadoop uma opção de baixo custo para armazenar e gerenciar Big Data.
+
+Aplicação típica: cruzar e processar grandes volumes de dados de forma distribuída para identificar dados fora do padrão e inconsistências — por exemplo, identificação de fraude e evasão fiscal.
+
+**MapReduce** processa dados em paralelo para consultas complexas sobre datasets massivos, quando a consulta direta não é viável em tempo real. Os resultados ficam armazenados separadamente dos dados brutos, para consulta posterior — a desvantagem é a **latência**: se o processamento demora horas, a consulta retorna um resultado de horas atrás.
+
+#### Arquiteturas de processamento — Lambda × Kappa
+
+**Lambda** (Nathan Marz) resolve a latência do MapReduce combinando dois fluxos:
+
+| Camada | Também chamada | Função |
+| --- | --- | --- |
+| **Lote (batch)** | caminho frio | armazena dados brutos, processa em lote, prioriza **precisão** sem pressa — resulta na visão de lote |
+| **Velocidade (speed)** | caminho quente | processa em tempo real, baixa latência, **sacrifica precisão** — visão temporária, atualizada depois pela camada de lote |
+
+A camada de lote alimenta uma camada de serviço que indexa a visão de lote para consultas eficientes; a camada de velocidade mantém essa camada atualizada com os dados mais recentes. O aplicativo final escolhe: dados rápidos vêm do caminho quente, dados precisos vêm do caminho frio.
+
+⚠️ Os dados da camada de lote são **imutáveis e sempre acrescidos, nunca substituídos** — uma alteração vira um novo evento com marca temporal, o que permite recálculo histórico conforme o sistema evolui.
+
+**Kappa** é a simplificação da Lambda: um único fluxo de streaming contínuo trata dados em tempo real e históricos da mesma forma, sem duas camadas separadas. Ideal quando o processamento em tempo real é a única preocupação e não há benefício relevante em manter uma camada de lote à parte.
+
+#### Kafka
+
+Um **broker** Kafka é o servidor que gerencia armazenamento e recuperação de dados num cluster — recebe dados dos produtores, grava em disco e particiona para acesso.
+
+⚠️ **Cada broker gerencia múltiplas partições**, não uma só. Garante replicação para tolerância a falhas, atende leitura e escrita, e distribui a carga pelo cluster — é essa distribuição que mantém alta taxa de transferência e baixa latência.
+
 ## - Business Intelligence e Analytics
 - [ ] status [dom:: 0] [peso:: 3]
+
+Conjunto de ferramentas, processos e aplicações que, a partir de um repositório de dados, extrai e apresenta informações úteis para suporte à análise e à tomada de decisão em ambientes organizacionais.
+
+Via ferramentas como **OLAP**, transforma dados em relatórios, dashboards e análises que subsidiam decisão gerencial. Uma das qualidades centrais do BI atual é o **acesso interativo** aos dados — o usuário manipula os dados conforme a necessidade de análise, com painéis dinâmicos, filtros e análises multidimensionais (OLAP) em tempo real.
+
+⚠️ **BI ≠ Data Lake.** Armazenamento de dados brutos num repositório centralizado é [[#- Definições e Funções de Data Warehouse e Data Mart\|Data Lake]], não BI.
+
+⚠️ **Criptografia de dados confidenciais não é ferramenta de BI** — é campo de segurança da informação e governança de dados, sem relação direta com as ferramentas de Business Intelligence.
+
 ## - Definições e Funções de Data Warehouse e Data Mart
 - [ ] status [dom:: 0] [peso:: 3]
+
+> [!warning]- Pendência de autoria
+> As capturas trazem Data Lake — conceito vizinho e frequentemente contrastado com Data Warehouse — mas não descrevem Data Warehouse nem Data Mart diretamente. O núcleo do heading (definição e função de DW/DM propriamente ditos) ainda precisa de captura própria.
+
+**Data Lake** é um repositório centralizado que armazena **todos os tipos de dados** — estruturados, semiestruturados e não estruturados — geralmente em sua forma bruta/original.
+
+⚠️ Não é necessário usar plataformas diferentes para cada tipo de dado — um dos principais benefícios do Data Lake é justamente centralizar volumes variados (logs de servidor, vídeos, CSV, dados de sensores) para processamento e análise posteriores. Tecnologias típicas: Hadoop, Amazon S3, Azure Data Lake.
+
 ## - ETL (Extração, Transformação e Carga)
 - [ ] status [dom:: 0] [peso:: 3]
+
+#### Extração
+
+Pode impactar negativamente o desempenho do sistema de origem quando mal planejada — sobretudo com grande volume de dados extraídos em tempo real, já que acessar e transferir dados sobrecarrega o processamento e a latência do sistema de origem.
+
+**Apache NiFi** é uma plataforma de orquestração de fluxos de dados, de código aberto, que automatiza o fluxo entre sistemas — processa e orquestra dados em tempo real, em grande escala e ambientes distribuídos. Configuração via interface gráfica baseada em fluxo: não exige escrever código nem usar Python.
+
+#### Transformação
+
+| Operação | O que faz |
+| --- | --- |
+| **Agregação** (GROUP BY) | agrupa dados por variável(is); funções: soma, média, contagem, máximo, mínimo |
+| **Pivotamento** | transforma linhas em colunas (tabela dinâmica) |
+| **Derretimento** | inverso do pivotamento — colunas em linhas |
+| **Junção** | combina tabelas por chaves (JOIN) |
+| **Normalização** | ajusta a escala dos dados (ex.: 0 a 1) ou a estrutura em bancos |
+
+<mark style="background:#fff88f">Junção, Transformação e Derivação não são sinônimos:</mark>
+
+- **Junção** só une registros de fontes diferentes por um campo-chave (ex.: ID do cliente) — não é, por si, responsável por criar novos valores com lógica de negócio.
+- **Transformação** é a etapa em que se aplicam as regras de negócio: enriquecer, limpar ou alterar dados para o formato desejado.
+- **Derivação** é a técnica específica de aplicar regra de negócio aos dados para obter **novos valores** a partir de valores já existentes.
+
+⚠️ Junção ≠ Derivação — a junção une, a derivação calcula.
+
+#### Carga (Load)
+
+Insere os dados extraídos e transformados no destino final — geralmente um Data Warehouse. O desafio técnico é otimizar a inserção massiva sem estourar a janela de carga disponível.
+
+- **Gerenciamento de índices:** índices aceleram leitura, mas degradam escrita — precisam ser atualizados a cada registro inserido. Prática comum: desabilitar ou remover índices antes do *bulk load* e recriá-los depois.
+- **Particionamento:** particionar a tabela de fato (ex.: por data) permite carregar só a partição específica, ou usar *partition switching* — reduz bloqueio (*locking*) e facilita manutenção sem afetar toda a tabela histórica.
+
 
 # Bloco E:
 

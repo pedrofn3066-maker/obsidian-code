@@ -245,6 +245,17 @@ O item está correto e faz uma interpretação perfeita dos coeficientes da equa
 
 # Bloco E: Power BI, AED, Ferramentas de BI e Visualização de Dados, Ferramentas de análise de dados e observabilidade
 
+## - Análise Exploratória de Dados (AED) — variáveis qualitativas e quantitativas
+- [ ] status [dom:: 0] [peso:: 3]
+
+Na classificação de variáveis em AED, os valores não numéricos são **qualitativos**, subdivididos em:
+
+- **nominais** — categorias sem ordem (ex.: raça, cor);
+- **ordinais** — categorias com ordem (ex.: tamanho de roupa, classe social).
+
+⚠️ **Discreta não é subtipo de qualitativa** — é classificação de variável **quantitativa** (valores inteiros e contáveis). O erro clássico de banca troca "nominal" por "discreta" dentro da árvore de variáveis qualitativas.
+
+
 
 
 
