@@ -5,11 +5,11 @@ materia: Direito Financeiro
 bloco: Direito Financeiro
 assuntos:
   - Princípios Orçamentários
-slot:
+slot: S4
 total: 24
 acertos: 19
-tempo_min:
-erro_tipo:
+tempo_min: 34
+erro_tipo: desatencao
 banca:
 origem: TEC (importado)
 tec:

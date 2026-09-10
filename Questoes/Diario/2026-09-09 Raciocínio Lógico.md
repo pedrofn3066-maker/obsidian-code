@@ -6,15 +6,15 @@ bloco: Mat. Fin./Estat./RLM
 assuntos:
   - Equações de Primeiro Grau
   - Sistemas Lineares
-  - Triângulos: Conceito, Elementos e Classificação (Equilátero, Equiângulo, Isósceles, etc)
+  - "Triângulos: Conceito, Elementos e Classificação (Equilátero, Equiângulo, Isósceles, etc)"
   - Cálculo de Seno e Cosseno no Triângulo Retângulo
   - Quadriláteros (Propriedades, Área, Perímetro, Soma dos Ângulos, etc)
   - Geometria Espacial
-slot:
+slot: S2
 total: 19
 acertos: 18
-tempo_min:
-erro_tipo:
+tempo_min: 59
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

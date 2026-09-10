@@ -62,6 +62,7 @@ obs: <análise curta — ver abaixo>
 Regras que não são óbvias:
 
 - **`assuntos` recebe só as folhas.** As linhas-pai da hierarquia (`01`, `01.01`) são agregados dos filhos; incluí-las inflaria a lista com o mesmo assunto em dois níveis. O script já separa.
+- **Todo valor com dois-pontos vai entre aspas.** Nomes de tópico do TEC frequentemente têm `: ` no meio (`Ponto de Equilíbrio: Relação Custo/Volume/Resultado`, `Triângulos: Conceito, Elementos e Classificação`). Sem aspas, o editor de propriedades do Obsidian lê aquilo como mapa YAML e reescreve o item como `"[object Object]"` — perda silenciosa, que só aparece quando alguém relê a nota. Aconteceu em 2026-09-09; a regra é citar sempre, não só quando parecer arriscado.
 - **Campos do Pedro ficam vazios:** `slot`, `erro_tipo`, `tempo_min`, `banca`, `tec`. Não preencha por inferência.
 - **Caderno sem erro fica com `erro_tipo` vazio, obrigatoriamente.** O painel `Diagnóstico de erro` filtra por `WHERE materia AND erro_tipo` — preencher o campo num caderno 100% faz a matéria aparecer na coluna "Onde" como lacuna de conhecimento, sem nenhum erro pra contabilizar. Se o Pedro preencher mesmo assim, respeite a escolha dele mas avise uma vez.
 - **`obs` é análise, não resumo do número.** O percentual já está em `total`/`acertos`. Use a `obs` pro que os números não mostram: onde o erro se concentra dentro da matéria, se a amostra é grande o bastante pra concluir algo (1-2 questões não é), e contraste de peso quando ele saltar aos olhos.

@@ -12,10 +12,10 @@ assuntos:
   - Contribuições Especiais (CF/1988)
   - Princípios Tributários
   - Imunidades Tributárias
-slot:
+slot: S3
 total: 17
 acertos: 17
-tempo_min:
+tempo_min: 22
 erro_tipo:
 banca:
 origem: TEC (importado)

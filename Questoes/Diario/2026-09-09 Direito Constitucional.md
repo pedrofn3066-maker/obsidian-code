@@ -5,10 +5,10 @@ materia: Direito Constitucional
 bloco: Const./Adm./Civil/Penal
 assuntos:
   - Disposições Gerais (Seguridade Social, arts. 194 e 195 da CF/1988)
-slot:
+slot: S4
 total: 1
 acertos: 1
-tempo_min:
+tempo_min: 2
 erro_tipo:
 banca:
 origem: TEC (importado)

@@ -5,17 +5,17 @@ materia: Contabilidade de Custos
 bloco: Cont. Avançada e de Custos
 assuntos:
   - Margem de Contribuição
-  - Ponto de Equilíbrio: Relação Custo/Volume/Resultado
+  - "Ponto de Equilíbrio: Relação Custo/Volume/Resultado"
   - Alavancagem Operacional
   - Custeio Baseado em Atividades (ABC)
   - Custeio Pleno (RKW)
   - Tópicos Mesclados de Custos para Decisão
   - Custo Padrão
-slot:
+slot: S3
 total: 18
 acertos: 9
-tempo_min:
-erro_tipo:
+tempo_min: 39
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

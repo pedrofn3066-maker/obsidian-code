@@ -12,12 +12,12 @@ assuntos:
   - Indicadores de Desempenho
   - Balanced Scorecard (BSC)
   - Planejamento e Estratégia no Setor Público
-slot:
+slot: S4
 total: 24
 acertos: 16
-tempo_min:
+tempo_min: 36
 banca:
-erro_tipo:
+erro_tipo: desconhecimento
 origem: TEC (importado)
 tec:
 obs: O erro se concentra em planejamento e medição — Planejamento (2/4), Indicadores (1/3), BSC (4/7) e Planejamento no Setor Público (0/1) somam 7 dos 8 erros. O que já estava firme veio limpo - SWOT 5/5, GUT 1/1, Eficiência/Eficácia/Efetividade 2/2. BSC e Indicadores são exatamente os dois assuntos que você capturou pelo Atalho hoje de manhã (11h55-12h22) e que eu triei para a nota; a captura foi na mesma direção do erro.
