@@ -31,30 +31,32 @@ Os 26 tópicos da lista compartilhada, em ordem de peso. "Avançada" é sempre [
 | Investimentos Avaliados pelo Custo ou MEP | 6,9% | [[P2 - Contabilidade Avançada e de Custos#- Investimentos MEP (CPC 18);\|Avançada]] |
 | Demonstração de Fluxo de Caixa (DFC) | 6,6% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|Avançada]] · [[P2 - CASP#- DFC\|CASP]] |
 | Balanço Patrimonial (BP) | 5,6% | [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|Avançada]] · [[P2 - CASP#- BP\|CASP]] |
-| CPC 16 — Estoques | 4,6% | <mark style="background:#ffb8b8">gap</mark> |
-| Depreciação, Amortização e Exaustão | 4,6% | <mark style="background:#ffb8b8">gap</mark> — headings existem na Avançada e no CASP, ambos vazios |
-| Ativo Imobilizado | 4,4% | [[P2 - Contabilidade Avançada e de Custos#- Imobilizado (CPC 27);\|Avançada]] |
+| CPC 16 — Estoques | 4,6% | [[P2 - Contabilidade Avançada e de Custos#- Estoques (CPC 16)\|Avançada]] |
+| Depreciação, Amortização e Exaustão | 4,6% | [[P2 - Contabilidade Avançada e de Custos#- Depreciação, Amortização e Exaustão;\|Avançada]] · <mark style="background:#ffb8b8">CASP ainda vazio</mark> |
+| Ativo Imobilizado | 4,4% | <mark style="background:#ffb8b8">gap</mark> — heading existe, vazio (o mapa afirmava conteúdo; conferido em 2026-09-10) |
 | Estrutura Conceitual Básica (CPC 00) | 4,1% | [[P2 - Contabilidade Avançada e de Custos#- Contabilidade Básica;\|Avançada]] |
-| Instrumentos Financeiros | 4,1% | <mark style="background:#ffb8b8">gap</mark> — heading CPC 48 existe, vazio |
+| Instrumentos Financeiros | 4,1% | [[P2 - Contabilidade Avançada e de Custos#- Instrumentos Financeiros (CPC 48);\|Avançada]] |
 | Ativos Intangíveis | 3,9% | [[P2 - Contabilidade Avançada e de Custos#- Intangível (CPC 04);\|Avançada]] |
 | Redução ao Valor Recuperável | 3,9% | [[P2 - Contabilidade Avançada e de Custos#- Redução ao Valor Recuperável (CPC 01);\|Avançada]] |
-| Escrituração, Balancete, Atos e Fatos | 3,7% | <mark style="background:#ffb8b8">gap</mark> |
+| Escrituração, Balancete, Atos e Fatos | 3,7% | [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Balancete, Atos e Fatos;\|Avançada]] — <mark style="background:#fff88f">atos e fatos administrativos ainda faltam</mark> |
 | Demonstração do Valor Adicionado (DVA) | 3,7% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Valor Adicionado (CPC 09);\|Avançada]] |
 | Patrimônio Líquido | 3,6% | [[P2 - Contabilidade Avançada e de Custos#- Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)\|Avançada]] |
-| CPC 12 — Ajuste a Valor Presente | 3,4% | <mark style="background:#ffb8b8">gap</mark> — heading existe, vazio |
-| Demonstração de Resultados Abrangentes (DRA) | 2,4% | <mark style="background:#ffb8b8">gap</mark> |
+| CPC 12 — Ajuste a Valor Presente | 3,4% | [[P2 - Contabilidade Avançada e de Custos#- Ajuste a Valor Presente (CPC 12); e\|Avançada]] |
+| Demonstração de Resultados Abrangentes (DRA) | 2,4% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado Abrangente (DRA); e\|Avançada]] |
 | Empréstimos e Financiamentos | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Empréstimos;\|Avançada]] |
 | Demonstração do Resultado do Exercício (DRE) | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado do Exercício;\|Avançada]] |
-| CPC 02 — Taxas de Câmbio | 2,2% | <mark style="background:#ffb8b8">gap</mark> — heading existe com conteúdo de ágio no exterior, mas não cobre o CPC 02 em si |
-| CPC 46 — Mensuração a Valor Justo | 2,2% | <mark style="background:#ffb8b8">gap</mark> — heading existe, vazio |
+| CPC 02 — Taxas de Câmbio | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Ajustes de Conversão de Câmbio (CPC 02);\|Avançada]] |
+| CPC 46 — Mensuração a Valor Justo | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Mensuração a Valor Justo (CPC 46)\|Avançada]] — <mark style="background:#fff88f">parcial: falta a hierarquia de níveis</mark> |
 | Operações com Mercadorias | 2,0% | [[P2 - Contabilidade Avançada e de Custos#- Operações com Receitas e Despesas Antecipadas\|Avançada]] |
-| Debêntures e Títulos de Dívida | 1,7% | <mark style="background:#ffb8b8">gap</mark> — heading existe, vazio |
-| CPC 07 — Subvenção Governamental | 1,7% | <mark style="background:#ffb8b8">gap</mark> |
+| Debêntures e Títulos de Dívida | 1,7% | [[P2 - Contabilidade Avançada e de Custos#- Debêntures\|Avançada]] |
+| CPC 07 — Subvenção Governamental | 1,7% | [[P2 - Contabilidade Avançada e de Custos#- Subvenções (CPC 07);\|Avançada]] |
 | Elaboração e Apresentação das DCs | 1,5% | [[P2 - Contabilidade Avançada e de Custos#- Apresentação das Demonstrações Contábeis (CPC 26);\|Avançada]] |
-| CPC 23 — Políticas Contábeis | 1,5% | <mark style="background:#ffb8b8">gap</mark> — heading existe, vazio |
-| Dividendos | 1,2% | <mark style="background:#ffb8b8">gap</mark> — heading existe, vazio |
+| CPC 23 — Políticas Contábeis | 1,5% | [[P2 - Contabilidade Avançada e de Custos#- Políticas, erros e estimativas contábeis (CPC 23);\|Avançada]] |
+| Dividendos | 1,2% | [[P2 - Contabilidade Avançada e de Custos#- Dividendos e Juros sobre Capital Próprio; e\|Avançada]] |
 
-**Doze dos 26 tópicos não têm conteúdo em lugar nenhum. Somam 33,3% da disciplina.** A maioria já tem heading criado e vazio — o esqueleto está montado, falta escrever.
+**Os doze gaps de 33,3% foram preenchidos em 2026-09-10**, com lastro no guia VINTEUM de Contabilidade Geral e Avançada. Um heading novo foi criado (Escrituração, Balancete, Atos e Fatos); os outros onze já existiam vazios.
+
+O que sobrou, e é o gap real hoje: **Ativo Imobilizado (4,4%)** — o maior peso da disciplina sem uma linha de conteúdo. Mais duas lacunas parciais dentro de tópicos já preenchidos: a **hierarquia de níveis do CPC 46** e **atos e fatos administrativos**, nenhum dos dois no guia VINTEUM.
 
 ## Contabilidade de Custos
 
@@ -95,8 +97,9 @@ Levantados em 2026-09-10. Este mapa é curado, não calculado — confira antes 
 - **Checklist duplicado:** os mesmos 26 tópicos vivem em duas notas. Atualizar um `dom` em uma não atualiza a outra. Decidir qual é a fonte única.
 - **`P1 - Contabilidade Geral` é casca:** 10 headings, nenhum com conteúdo. Ou vira o lugar da parte "Geral" de verdade, ou deixa de carregar o checklist.
 - **Um arquivo, duas disciplinas:** [[P2 - Contabilidade Avançada e de Custos]] tem 1432 linhas e duas tabelas VINTEUM. Dividir facilitaria navegação e faria os painéis medirem Avançada e Custos separadamente — hoje ambas caem no mesmo `bloco`.
-- **12 tópicos sem conteúdo, 33,3% do peso.** A maioria com heading já criado e vazio.
-- **CPC 02:** o heading de Ajustes de Conversão de Câmbio tem conteúdo sobre ágio de controlada no exterior, mas não cobre o CPC 02 em si.
+- **Ativo Imobilizado (4,4%) está vazio** — o maior peso sem conteúdo, e o mapa afirmava o contrário até 2026-09-10.
+- **Duas lacunas de lastro:** hierarquia de níveis do CPC 46 e atos e fatos administrativos não existem no guia VINTEUM; precisam vir do TEC ou do Estratégia.
+- **Depreciação no CASP** continua vazia, embora a ótica privada já esteja escrita.
 
 ## Notas relacionadas
 

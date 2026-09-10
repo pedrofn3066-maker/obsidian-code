@@ -154,12 +154,135 @@ A análise <font color="#ff0000">custo-benefício</font> não depende apenas de 
 
 
 
+### - Escrituração, Balancete, Atos e Fatos;
+- [ ] status [dom:: 0] [peso:: 3]
+
+#### Escrituração (Lei 6.404/76)
+
+Requisitos formais que a lei impõe à escrituração — cada um já foi enunciado errado em prova:
+
+| Exigência | Detalhe |
+| --- | --- |
+| Idioma e moeda | **nacionais** |
+| Forma | **contábil** |
+| Ordem | **cronológica**, dd/mm/aaaa |
+| Aparência | sem espaços em branco, entrelinhas ou borrões |
+| Base | documentos comprobatórios |
+| Registros | **permanentes** |
+| Legislação | **comercial** |
+| Critérios | métodos **uniformes no tempo** |
+| Regime | **competência** |
+
+- Modificação de métodos ou critérios com efeitos **relevantes** deve ser indicada em **Notas Explicativas**.
+- As demonstrações financeiras são assinadas pelos **administradores E** por contabilistas legalmente habilitados — as duas assinaturas, não uma.
+- Cias. **fechadas PODEM OPTAR** por seguir as normas de DF das cias. abertas.
+
+#### Livros contábeis
+
+<mark style="background:#fff88f">A troca entre Razão e Diário é a pegadinha clássica.</mark>
+
+| | **Razão** | **Diário** |
+| --- | --- | --- |
+| Unidade de registro | **conta** contábil | **lançamento** |
+| Registro e autenticação | **DISPENSA** | **REQUER** |
+| Obrigatoriedade | facultativo (obrigatório p/ IRPJ e Res. CFC 1.330) | **obrigatório** (Código Civil) |
+| Natureza | principal, **sistemático** | principal, **cronológico** |
+| Conteúdo | título · data · histórico · débito/crédito · **saldo** | local e data · conta creditada · conta debitada · histórico · valor |
+
+Escrituração resumida do Diário: admitida desde que os totais **não excedam 30 dias**.
+
+Formalidades **extrínsecas** dos livros: encadernação e termos de abertura e encerramento.
+
+#### Balancete de verificação
+
+Demonstrativo **AUXILIAR** — <mark style="background:#fff88f">não obrigatório</mark>. Composto por todas as contas e seus saldos, extraídos do **Livro Razão**.
+
+**Objetivo:** verificar se o método das **partidas dobradas** (para cada débito há um crédito) foi obedecido ao longo da escrituração, isto é, se débitos e créditos foram efetuados corretamente.
+
+> [!warning] Pegadinha
+> É **FALSO** afirmar que a escrituração foi feita corretamente apenas com base no balancete. Ele não detecta:
+> - **omissão de registro**;
+> - **erro de título** (conta errada, valor certo — os totais continuam batendo);
+> - **registros em duplicidade**.
+>
+> Todos os três preservam a igualdade débito = crédito, que é a única coisa que o balancete testa.
+
+#### Atos e fatos — lacuna de lastro
+
+A distinção **insubsistência × superveniência** existe no guia como figura, e não foi extraída em texto. Também não há no guia a divisão clássica **atos administrativos** (sem efeito imediato no patrimônio) × **fatos administrativos** (permutativos, modificativos, mistos). Conferir no material do TEC antes de marcar `dom` acima de 1.
+
+
 ### - Ajuste a Valor Presente (CPC 12); e
 - [ ] status [dom:: 0] [peso:: 3]
+
+Valor presente é a estimativa do valor corrente de um fluxo de caixa futuro no curso normal das operações — o fluxo pode ser de entrada ou de saída.
+
+**Quando ajustar (Lei das S/A):**
+- **Ativos** (art. 183, VIII): elementos de **longo prazo** são ajustados sempre; os demais, quando houver **efeito relevante**.
+- **Passivos** (art. 184, III): obrigações, encargos e riscos no **não circulante** são ajustados; os demais, quando houver efeito relevante.
+
+**Regras do CPC 12:**
+- Quantificação por **juros compostos**, à taxa vigente na data da **origem** da transação.
+- Momento: em regra, no **reconhecimento inicial** de ativos e passivos.
+- A taxa **não** é líquida de efeitos fiscais — usa-se a taxa **antes** dos impostos.
+- <mark style="background:#fff88f">IRPJ diferido, ativo ou passivo, **não** é passível de AVP.</mark>
+- Valor justo e valor presente **podem coincidir, mas não são sinônimos**.
+- AVP de venda a longo prazo **reduz a receita bruta de vendas** na DRE.
+- Se financiar a venda for prática da empresa, a receita de juros **pode** aparecer na DRE como receita operacional.
+- Item 27: o desconto a valor presente é exigido para passivos **contratuais e não contratuais**, e a taxa deve necessariamente considerar o **risco de crédito**.
+
+Exemplo do guia — mercadoria por 100.000 a receber/pagar em 2 anos, valor à vista 90.000:
+
+| No vendedor | No comprador |
+| --- | --- |
+| D Clientes Longo Prazo (ANC) 100.000<br>C Receita Financeira a Apropriar / AVP (10.000) — retificadora de Clientes<br>C Vendas 90.000 | D Estoques 90.000<br>C Fornecedores (PNC) 100.000<br>D Encargos Financeiros a Transcorrer / AVP (10.000) |
+
+Com o tempo, apropriam-se os juros — em um ano, por juros simples: no vendedor `D Receita Financeira a Apropriar 5.000 / C Receita Financeira 5.000`; no comprador `C Encargos a Transcorrer 5.000 / D Encargos Financeiros 5.000`.
+
 ### - Mensuração a Valor Justo (CPC 46)
 - [ ] status [dom:: 0] [peso:: 3]
+
+Valor justo é o valor de **mercado**: o preço de uma transação **ordenada** entre participantes do mercado, **sem favorecimentos**, na **data de mensuração**. Não é o valor pago no passado nem uma estimativa interna da entidade.
+
+O guia trata o valor justo como uma das **bases de mensuração subsequente** ao custo histórico. Uma vez integrado ao patrimônio pelo valor original, o item pode passar a ser medido por:
+
+| Base | O que é | Referência de tempo |
+| --- | --- | --- |
+| **Custo histórico** | valor pago ou assumido na aquisição (ativo) / no curso normal (passivo) | data da aquisição |
+| **Custo corrente** | quanto custaria hoje | data do balanço |
+| **Valor realizável** | venda de forma ordenada, no curso do exercício | saída futura |
+| **Valor presente** | fluxo de caixa futuro descontado | hoje, por desconto |
+| **Valor justo** | valor de mercado | data de mensuração |
+
+<mark style="background:#fff88f">**VRL ≠ Valor Justo.**</mark> O Valor Realizável Líquido é **específico da entidade** — estimativa própria de preço de venda menos custos de conclusão e gastos de venda. O valor justo é o **valor de mercado**, que "vale para todas" as entidades. Podem coincidir; não são sinônimos. Mesma lógica vale para o [[#- Ajuste a Valor Presente (CPC 12); e|valor presente]], que pode coincidir com o valor justo sem se confundir com ele.
+
+Derivada usada em [[#- Redução ao Valor Recuperável (CPC 01);|impairment]]: **VJLV = Valor Justo − Despesas de Venda**, onde as despesas de venda são as incrementais diretamente atribuíveis à venda ou baixa, **excluídas** despesas financeiras e impostos sobre o resultado.
+
+Onde o valor justo é a mensuração obrigatória ou opcional em outros tópicos desta nota: [[#- Propriedades para Investimento|PIV]] (opção valor justo × custo — pelo valor justo **não há depreciação**), [[#- Ativo Não Circulante Mantido para Venda|ANCMV]] (menor entre valor contábil e VJLV), [[#- Instrumentos Financeiros (CPC 48);|CPC 48]], mais-valia em [[#- Combinação de Negócios (CPC 15);|combinação de negócios]].
+
+> [!warning]- Lacuna de lastro: o CPC 46 em si
+> O guia VINTEUM **não tem capítulo dedicado ao CPC 46** — só a definição de valor justo dentro das bases de mensuração e os usos espalhados acima. Falta aqui, e precisa vir de outra fonte: **mercado principal × mercado mais vantajoso**, a **hierarquia de níveis 1, 2 e 3** dos dados de entrada, as **técnicas de avaliação** (mercado, custo, receita) e a **premissa da melhor utilização possível** (*highest and best use*) para ativos não financeiros. São 2,2% do edital.
+
 ### - Políticas, erros e estimativas contábeis (CPC 23);
 - [ ] status [dom:: 0] [peso:: 3]
+
+Objetivo do CPC 23: melhorar relevância e confiabilidade das demonstrações e permitir **comparabilidade** ao longo do tempo e com outras entidades.
+
+**Política contábil** — princípios, bases, convenções, regras e práticas aplicados na elaboração das DC. Muda a forma de **reconhecimento** e/ou de **mensuração** de ativo, passivo, receita ou despesa.
+
+A entidade **deve** alterar a política se: for exigida por um CPC (obrigatória), ou se resultar em informação **confiável e mais relevante** (voluntária).
+
+**Estimativa contábil** — ajuste nos saldos contábeis decorrente da avaliação da situação atual e de obrigações e benefícios futuros. Alterações vêm de **nova informação**, e por isso **não são retificação de erro**. Exemplos: PECLD, valor justo de ativos e passivos financeiros, vida útil, obrigações de garantia, obsolescência de estoque. O uso de estimativas razoáveis é essencial e **não** reduz a confiabilidade.
+
+<mark style="background:#fff88f">A distinção que decide a questão é a forma de aplicação:</mark>
+
+| Mudança de | Aplicação |
+| --- | --- |
+| **Política** contábil | **Retrospectiva** — como se sempre tivesse sido aplicada, a tantos períodos anteriores quanto possível |
+| **Estimativa** contábil | **Prospectiva** |
+
+Quando for impraticável determinar o efeito em períodos anteriores, aplica-se a nova política ao saldo mais antigo para o qual a aplicação retrospectiva seja praticável; os ajustes vão para **Ajustes de Exercícios Anteriores**, conta do PL.
+
 ### - Receita com Contrato com Cliente (CPC 47)
 - [ ] status [dom:: 0] [peso:: 3]
 SEM AULA TEC. PEGAR NO ESTRATÉGIA 
@@ -364,6 +487,25 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos os cr
 
 ### - Instrumentos Financeiros (CPC 48);
 - [ ] status [dom:: 0] [peso:: 3]
+
+Três categorias, e o que muda entre elas é **onde a variação do valor justo vai parar**:
+
+| Categoria (CPC 48) | Intenção | Mensuração | Variação vai para |
+| --- | --- | --- | --- |
+| **Valor justo por meio do resultado** | negociação imediata | valor justo | **DRE** (receita financeira) |
+| **Valor justo por meio de ORA** | manter para fluxo de caixa **ou** vender | valor justo | **PL** — Ajuste de Avaliação Patrimonial |
+| **Custo amortizado** | manter até o vencimento, recebendo o fluxo contratual | pela **curva** | não há ajuste — o valor justo é irrelevante |
+
+A primeira categoria é o conceito **residual**: os demais títulos caem nela.
+
+Exemplo do guia — título de $400 rendendo 5% ao mês, valor justo de $435 no fim do ano. Os juros de $20 são receita financeira nas três categorias, levando o ativo a $420. A diferença aparece depois:
+
+- **VJ por resultado:** ajusta para $435 com `D Ativo Financeiro 15 / C Receita Financeira 15`. Balanço $435, DRE com $20 de juros mais $15 de ajuste.
+- **VJ por ORA:** ajusta para $435 com `D Ativo Financeiro 15 / C AAP (PL) 15`. Balanço $435 e AAP $15, DRE só com os $20 de juros.
+- **Custo amortizado:** permanece em $420. DRE só com os $20.
+
+⚠️ Só a primeira categoria leva a variação de valor justo ao resultado. Mandar variação de VJORA para a DRE é a armadilha clássica da FCC.
+
 ### - Imobilizado (CPC 27);
 - [ ] status [dom:: 0] [peso:: 3]
 ### - Intangível (CPC 04);
@@ -376,6 +518,34 @@ _**VI – no intangível:**_ _os direitos que tenham por objeto **bens incorpór
 
 ### - Depreciação, Amortização e Exaustão;
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Componentes separados.** Cada componente de um item do imobilizado com custo significativo em relação ao total **deve** ser depreciado separadamente — a turbina de um avião, por exemplo.
+
+<mark style="background:#fff88f">Início: quando o ativo está **disponível para uso**, no local e nas condições pretendidas — não quando o uso começa.</mark> Término: quando classificado como mantido para venda ou baixado, o que ocorrer primeiro.
+
+⚠️ **Ociosidade não cessa a depreciação.** Ela cessa por baixa, por transferência para ativo não circulante mantido para venda ou para estoque — e quando o valor residual passa a superar o contábil, porque aí não há o que depreciar.
+
+**Onde entra no resultado:** depreciação de imobilizado usado **diretamente na produção** é custo indireto de fabricação; de ativos fora da produção, é **despesa**.
+
+**Bens usados:** vida útil é a **maior** entre a vida útil restante e metade da vida útil do bem novo.
+
+**Benfeitorias em imóvel de terceiros:** se a vida útil é menor que o prazo do contrato, ou a locação é por tempo indeterminado, **deprecia**; se a vida útil supera o prazo do contrato em locação por tempo determinado, **amortiza**.
+
+**Métodos** — revisados pelo menos ao fim de cada exercício; havendo alteração significativa no padrão de consumo, o método muda:
+
+| Método | Fórmula |
+| --- | --- |
+| Linear | (Custo − Residual) × Período ÷ Vida útil |
+| Soma dos dígitos | (Custo − Residual) × (n + 1 − ano) ÷ soma dos dígitos |
+| Unidades produzidas | (Custo − Residual) × Produção realizada ÷ Produção total |
+| Acelerada (RIR) | (Custo − Residual) × Período ÷ (Vida útil × K) |
+
+Coeficiente **K** só se usa na vida útil **fiscal**: 1 turno (8h) K=1,0 · 2 turnos (16h) K=1,5 · 3 turnos (24h) K=2,0.
+
+Prazos fiscais, aplicáveis **só quando a questão omitir a vida útil contábil**: veículos 5 anos · móveis, utensílios, máquinas e equipamentos 10 anos · imóveis 25 anos · terrenos não depreciam.
+
+⚠️ Dada a vida útil contábil **e** a fiscal, usa-se sempre a **contábil**.
+
 
 # Bloco C:
 
@@ -408,6 +578,32 @@ A entidade só deve reconhecer um passivo de empréstimo quando do recebimento d
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Debêntures
 - [ ] status [dom:: 0] [peso:: 3]
+
+Debêntures são títulos de crédito emitidos por S/A para captar recursos, dando ao detentor direito a participação nos lucros, juros, correção monetária e, em alguns casos, conversão em ações.
+
+**Debênture × empréstimo:** na debênture a própria empresa emite os títulos e o público os compra; no empréstimo ela capta junto a um banco. A diferença muda a contabilização.
+
+**Registro inicial** — o montante captado é registrado **líquido** de juros e custos de transação; não há despesa no momento da captação, e juros e CT são apropriados conforme o fato gerador ocorre. Exemplo do guia — empréstimo de $100, juros de $10 e CT de $3:
+
+```
+D – Banco                    87    (líquido de juros e CT)
+C – Empréstimos             100    (passivo)
+D – Juros a transcorrer      10    (retificadora do passivo)
+D – Custos de transação       3    (retificadora do passivo)
+```
+
+⚠️ **Não confundir "juros a pagar" com "juros a transcorrer".** No primeiro o fato gerador já ocorreu e existe passivo; no segundo, ainda não.
+
+**Emissão de debêntures — três cenários:**
+
+| Cenário | Quando ocorre | Lançamento |
+| --- | --- | --- |
+| **Ao par** | capta exatamente o emitido | `D Caixa 100 / C Debêntures a pagar 100` |
+| **Com deságio** | difícil achar comprador — juros pouco atrativos ou risco alto | `D Caixa 95` · `D Deságio na emissão [ret. P] 5` · `C Debêntures a pagar 100` |
+| **Com ágio** | alta procura eleva o preço, gerando **prêmio (PED)** | `D Caixa 110` · `C PED a apropriar [P] 10` · `C Debêntures a pagar 100` |
+
+O prêmio na emissão é reconhecido como **receita ao longo do tempo**, conforme as debêntures vão sendo amortizadas, pelo regime de competência: `D PED a apropriar / C Receita`.
+
 ## - Provisões (CPC 25);
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -528,6 +724,23 @@ Exemplos: Reserva Legal, Reserva para Expansão, Reserva de Lucros a Realizar.
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Ajustes de Conversão de Câmbio (CPC 02);
 - [ ] status [dom:: 0] [peso:: 3]
+
+Uma entidade mantém atividades em moeda estrangeira de duas formas: **transações** em moeda estrangeira (empréstimos, importações, exportações) ou **operações** no exterior (matriz, filial, sucursal).
+
+**Moeda funcional** é a do ambiente econômico **principal** em que a entidade opera — a administração pode usar julgamento para determiná-la, e é raro mas possível que uma empresa no Brasil tenha o dólar como funcional. Havendo alteração da moeda funcional, o impacto é **prospectivo**, convertendo-se os itens pela taxa da data da alteração.
+
+**Taxas a usar no fechamento:**
+
+| O que | Taxa |
+| --- | --- |
+| Resultados (receitas e despesas) | da **transação**, se houver, ou a **média** do período — inadequada se as taxas flutuarem demais |
+| Conversão das DC (ativo, passivo e PL) | de **fechamento**, na data do balanço |
+| **Capital social** | **histórica** — a do dia da integralização |
+
+**Ajuste Acumulado de Conversão (AAC)** é a diferença originada entre a taxa de fechamento e a histórica na conversão do **capital social**, e entre a taxa de fechamento e a média na conversão dos **lucros acumulados**.
+
+⚠️ O ajuste de um investimento no exterior por variação cambial **não transita pelo resultado** — vai direto ao PL, em Ajuste Acumulado de Conversão.
+
 -Resumo tec:
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4747).  #tec/resumo 
 
@@ -987,6 +1200,29 @@ Se a **participação societária** de entidade em coligada ou em ECC **for redu
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Dividendos e Juros sobre Capital Próprio; e
 - [ ] status [dom:: 0] [peso:: 3]
+
+**De onde podem sair** (art. 201, LSA): lucro líquido do exercício, lucros acumulados, reserva de lucros e — só no caso das **ações preferenciais** — reserva de capital.
+
+Distribuir em desacordo gera responsabilidade **solidária** de administradores e fiscais, que devem repor o valor à caixa social. ⚠️ Os acionistas **não** são obrigados a restituir dividendos recebidos de **boa-fé**; presume-se má-fé quando distribuídos sem levantamento do balanço ou em desacordo com ele.
+
+**Dividendos obrigatórios (mínimos)** — <mark style="background:#fff88f">é a única destinação do resultado do exercício que altera o PL.</mark> O estatuto é livre para estabelecer a base de cálculo.
+
+Lucro líquido ajustado, que é a base de cálculo:
+
+| |
+| --- |
+| (+) Lucro líquido do exercício |
+| (+) Reversão da reserva de contingência |
+| (−) Prejuízos acumulados |
+| (−) Reserva legal |
+| (−) Reserva de contingência |
+| (−) Reserva de incentivos fiscais |
+| (−) Reserva para debêntures |
+
+⚠️ **As reservas usadas no ajuste são as constituídas no ano da distribuição** — não as que já vinham de anos anteriores. É onde a questão costuma pegar.
+
+Dividendo = 50% do lucro líquido ajustado, com **mínimo de 25%**. O pagamento pode se limitar à parcela do lucro líquido já **realizada**, desde que a diferença seja registrada como **reserva de lucros a realizar**.
+
 ## - Lei 6.404 e suas alterações
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -1049,6 +1285,27 @@ resumo tec: ()
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Demonstração do Resultado Abrangente (DRA); e
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Outros Resultados Abrangentes (ORA)** são itens de receita e despesa — incluindo ajustes de reclassificação — que **não** são reconhecidos na DRE, conforme exigido ou permitido pelos CPCs. Podem ser apresentados líquidos dos efeitos tributários, ou antes deles com o efeito tributário em montante único ou em nota explicativa.
+
+**Resultado Abrangente** é a mutação do PL que resulta de transações que **não** sejam com os sócios na qualidade de proprietários.
+
+Composição:
+
+| |
+| --- |
+| (±) Resultado líquido do exercício — a última linha da DRE |
+| (±) Variação da reserva de reavaliação, quando permitida |
+| (±) Ganhos e perdas atuariais em planos de pensão de **benefício definido** |
+| (±) Ganhos e perdas na conversão cambial de DC de operações no exterior (AAC) |
+| (±) Ganhos e perdas na remensuração de ativos financeiros disponíveis para venda (AAP) |
+| (±) Ganhos e perdas efetivos com **hedge de fluxo de caixa** |
+| (±) Participação no resultado abrangente de investida avaliada por equivalência |
+| (−) Efeito tributário dos ORA, alternativamente em nota explicativa |
+| **(=) Resultado abrangente do período** |
+
+⚠️ A DRA **deve** ser apresentada separadamente. **Pode** estar contida na DMPL, mas é **vedado** apresentá-la somente na DMPL. Os resultados abrangentes são classificados **por natureza**.
+
 tec resumo : (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3857)
 
 “Apêndice A - **Todas as mutações patrimoniais, que não as transações de capital com os sócios, integram a Demonstração do Resultado Abrangente**
@@ -1090,11 +1347,46 @@ Os equivalentes de caixa são mantidos com a finalidade de atender a compromisso
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Subvenções (CPC 07);
 - [ ] status [dom:: 0] [peso:: 3]
+
+Subvenção governamental é assistência do governo, em regra pecuniária, geralmente condicionada ao cumprimento passado ou futuro de alguma condição.
+
+<mark style="background:#fff88f">Deve ser reconhecida como **receita** ao longo do período necessário, confrontada com as despesas correspondentes pelo regime de competência — em "Outras Receitas Operacionais".</mark>
+
+⚠️ **A subvenção jamais pode ser creditada diretamente no PL.** É a pegadinha mais direta do tópico.
+
+**Reconhecimento** — não se reconhece receita até que seja razoável que a entidade cumprirá **todas** as condições e que a subvenção **será** recebida. O simples recebimento não prova que as condições foram ou serão cumpridas.
+
+| Tipo | Tratamento |
+| --- | --- |
+| **Incondicionada** | Receita reconhecida **imediatamente**: `D Caixa ou outro ativo / C Receita com Subvenção` (direto na DRE) |
+| **Condicionada** | Enquanto os requisitos não são atendidos, a contrapartida vai para **Receita Diferida** no passivo |
+
+Na condicionada, o ativo **não monetário** deve ser reconhecido pelo **valor justo**, e a receita diferida **pode** retificar o valor contábil do próprio ativo — caso em que o ativo pode iniciar com valor contábil zero. A baixa ocorre ao longo do tempo: `D Receita Diferida (P) / C Receita com Subvenção (R)`.
+
+**Base para reconhecer a receita:** em **ativo depreciável**, ao longo da vida útil do bem e na **mesma proporção da depreciação**. Se a receita diferida foi lançada como retificadora do ativo, a depreciação registrada será menor.
+
 ![[Captura de Tela 2026-08-30 às 11.29.49.png|472]]
 
 
 ## - Estoques (CPC 16)
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Conceito.** Estoques são ativos mantidos para **venda** no curso normal (acabados), **em produção** para venda, ou **insumos** a serem consumidos ou transformados (matéria-prima).
+
+<mark style="background:#fff88f">Mensuração: o **menor** entre valor de custo e valor realizável líquido (VRL).</mark> A Lei das S/A fala em valor de mercado; o CPC 16 em VRL.
+
+**Custo de aquisição** (compra para revenda):
+- (+) preço de compra · (+) imposto de importação e outros tributos **não** recuperáveis · (+) fretes, seguros e manuseio · (+) outros custos diretamente atribuíveis
+- (−) tributos **recuperáveis** · (−) descontos comerciais/incondicionais · (−) abatimentos sobre compras
+
+**Custo de transformação** (produção própria): custos diretos (mão de obra de chão de fábrica e matéria-prima) mais custos indiretos, variáveis e fixos. Os fixos são alocados pela **capacidade normal** — produção média ao longo de vários períodos, já considerando paradas programadas e férias coletivas.
+
+⚠️ **Pegadinha do volume anormal:** o custo fixo por unidade **não** pode subir por baixo volume ou ociosidade — o excedente vira **despesa**, não custo do estoque. Em volume anormalmente **alto**, o custo fixo unitário deve **diminuir**. Exemplo do guia: produção normal 100 un a $1,00/un; produzindo 20 un, mantém-se $1,00/un e os $80 restantes viram despesa; produzindo 200 un, cai para $0,50/un.
+
+**Critérios de valoração (inventário permanente):** usar o mesmo critério para estoques de natureza e uso semelhantes.
+- **PEPS** e **preço médio ponderado** — permitidos. O médio pode ser **móvel** (atualiza a cada aquisição) ou **fixo** (atualiza só no fim do período).
+- **UEPS — proibido no Brasil**, porque em economia inflacionária reduz o lucro.
+
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/2276)
 
 ![](https://www.techconcursos.com.br/img/teoria/fique-ligado.png)
