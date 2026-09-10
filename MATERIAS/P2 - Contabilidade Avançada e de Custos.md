@@ -152,6 +152,26 @@ As **características de melhoria** tornam essa informação **mais útil e mais
 
 A análise <font color="#ff0000">custo-benefício</font> não depende apenas de números objetivos. O CPC 00 destaca que essa avaliação normalmente envolve informações quantitativas e qualitativas. Assim, fatores como: transparência, confiabilidade, qualidade da informação e utilidade para os usuários também são considerados no processo decisório.
 
+⚠️ Convenção da Consistência: processo escolhido entre vários igualmente válidos para um mesmo princípio geral **não** pode ser mudado a qualquer tempo e quantas vezes forem necessárias só porque deixou de ser a melhor opção, nem dentro do mesmo exercício — isso fere a Consistência. (Iudícibus (coord.), *Contabilidade Introdutória* — FEA/USP, 11. ed., Atlas, 2010)
+
+CPC 00 (R2), item 4.56 — **contrato executório** é o contrato, ou parte de contrato, igualmente não cumprido: nenhuma das partes cumpriu qualquer de suas obrigações, ou ambas cumpriram parcialmente suas obrigações em igual extensão.
+
+> [!warning]- Lacuna de lastro: contrato executório
+> Tema pouco explorado no material — só uma questão cadastrada no TEC sobre o assunto (1441603) até o momento.
+
+**Regime de Caixa × Regime de Competência — exemplo numérico:**
+
+| Evento | Caixa | Competência |
+| --- | --- | --- |
+| Compra à vista de estoque, R$30.000 | Afeta negativamente (saída de R$30.000) | Não afeta (troca de ativos) |
+| Venda do estoque por R$100.000, recebimento em fevereiro seguinte | Não afeta no exercício (sem entrada de caixa) | Afeta positivamente em R$70.000 (receita 100.000 − custo 30.000) |
+| Despesa de salários de R$20.000, pagamento no mês seguinte | Não afeta (sem saída de caixa) | Afeta negativamente em R$20.000 |
+| **Resultado do exercício** | **−R$30.000** (só a compra à vista mexe no caixa) | **R$50.000** (70.000 − 20.000) |
+
+Diferença Competência − Caixa = R$80.000.
+
+<mark style="background:#fff88f">No regime de caixa, a compra tem como contrapartida uma conta de resultado — D Compra de Mercadorias (despesa) / C Caixa — regime que não é usado na prática contábil (usa-se Competência), mas é cobrado em prova.</mark> O pagamento de materiais é despesa no regime de caixa mesmo que o material fique em estoque; no regime de competência, vira custo só na venda.
+
 
 
 ### - Escrituração, Balancete, Atos e Fatos;
@@ -211,6 +231,16 @@ Demonstrativo **AUXILIAR** — <mark style="background:#fff88f">não obrigatóri
 
 A distinção **insubsistência × superveniência** existe no guia como figura, e não foi extraída em texto. Também não há no guia a divisão clássica **atos administrativos** (sem efeito imediato no patrimônio) × **fatos administrativos** (permutativos, modificativos, mistos). Conferir no material do TEC antes de marcar `dom` acima de 1.
 
+#### Teorias Patrimoniais (classificação das contas)
+
+| Teoria | Contas | Lógica |
+| --- | --- | --- |
+| **Materialista** | Integrais (bens, direitos, obrigações) · Diferenciais (PL, receitas e despesas) | Diferenciais vêm de *diferenças*: PL = ativo − passivo; receitas e despesas refletem no PL |
+| **Personalista** | Agentes Consignatários (bens) · Agentes Correspondentes (direitos e obrigações) · Proprietários (PL, receitas e despesas) | Consignatários: bens consignados à empresa. Correspondentes: direitos/obrigações que dependem de terceiros (ex.: um correspondente da CEF é terceiro em relação à CEF). Proprietários: PL é propriedade dos sócios |
+| **Patrimonialista** | Patrimoniais (ativo, passivo, PL) · Resultado (receita, despesa) | Teoria mais utilizada |
+
+<mark style="background:#fff88f">Só na Patrimonialista o PL fica separado de receita/despesa (categorias distintas); nas outras duas teorias, PL e resultado ficam na mesma categoria.</mark> A conta Integral (Materialista) se "divide" nas contas Consignatários e Correspondentes (Personalista).
+
 
 ### - Ajuste a Valor Presente (CPC 12); e
 - [ ] status [dom:: 0] [peso:: 3]
@@ -239,6 +269,24 @@ Exemplo do guia — mercadoria por 100.000 a receber/pagar em 2 anos, valor à v
 
 Com o tempo, apropriam-se os juros — em um ano, por juros simples: no vendedor `D Receita Financeira a Apropriar 5.000 / C Receita Financeira 5.000`; no comprador `C Encargos a Transcorrer 5.000 / D Encargos Financeiros 5.000`.
 
+**Bizu:** o CPC 12 é cobrado basicamente na parte conceitual — na relação do que pode (ou deve) ser avaliado a valor presente, no cálculo desse valor (interseção com Matemática Financeira) e na taxa a ser utilizada.
+
+**Despesa antecipada a prazo com juros embutidos:** seguro de 24 meses que custaria R$24.000 à vista (R$1.000/mês), mas contratado para pagamento só daqui a 24 meses por R$30.000:
+
+D Seguros a Apropriar (Ativo Circulante) ... R$24.000
+D Juros a Transcorrer (retificadora do Passivo) ... R$6.000
+C Seguros a Pagar (Passivo Não Circulante) ... R$30.000
+
+A despesa antecipada fica pelo valor presente, excluindo os juros; os R$6.000 são apropriados ao resultado ao longo do tempo como despesa financeira. (Manual FIPECAFI, 4ª ed.; art. 183, VIII da Lei 6.404/76 — elementos do ativo de longo prazo são ajustados a valor presente, e de curto prazo também quando relevante)
+
+**Materialidade decide o que sofre AVP:** venda de estoque por R$100.000 em duas parcelas — 5% em 60 dias (curto prazo, não material → sem AVP) e o restante em 24 meses (taxa de desconto 1,10 em 31/12/X2):
+
+Receita = 5.000 (parcela de curto prazo) + 95.000 / 1,10 = 86.364 → 91.364
+(−) CMV = 80.000
+**Lucro Bruto = 11.364**
+
+<mark style="background:#fff88f">AVP se aplica a operações de financiamento, não a operações de curto prazo sem efeito material.</mark> Evidência de juros embutidos: desconto financeiro para pagamento antecipado, ou tabela de preços distinta para pagamento à vista.
+
 ### - Mensuração a Valor Justo (CPC 46)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -260,8 +308,17 @@ Derivada usada em [[#- Redução ao Valor Recuperável (CPC 01);|impairment]]: *
 
 Onde o valor justo é a mensuração obrigatória ou opcional em outros tópicos desta nota: [[#- Propriedades para Investimento|PIV]] (opção valor justo × custo — pelo valor justo **não há depreciação**), [[#- Ativo Não Circulante Mantido para Venda|ANCMV]] (menor entre valor contábil e VJLV), [[#- Instrumentos Financeiros (CPC 48);|CPC 48]], mais-valia em [[#- Combinação de Negócios (CPC 15);|combinação de negócios]].
 
+**Bizu:** o CPC 46 é cobrado na literalidade dos termos técnicos — treinar em questões para fixar os conceitos. <mark style="background:#fff88f">Não confundir valor justo com valor de mercado.</mark>
+
+> [!warning]- Lacuna de lastro: mercado mais vantajoso
+> Bizu aponta atenção ao conceito de mercado mais vantajoso para mensuração do preço e às influências internas e externas, mas sem definir o conceito — pendência de autoria, falta capturar a definição.
+
+**Técnicas de avaliação:** o CPC 46 não limita a mensuração a técnicas de avaliação de ativos semelhantes — permite abordagem de mercado, abordagem de custo e abordagem de receita.
+
+**Perspectiva dos participantes do mercado:** a mensuração do valor justo considera a perspectiva de todos os participantes do mercado, incluindo como avaliariam passivos e dívidas relacionados ao instrumento — não se exclui o ponto de vista de passivos/dívidas de outro participante.
+
 > [!warning]- Lacuna de lastro: o CPC 46 em si
-> O guia VINTEUM **não tem capítulo dedicado ao CPC 46** — só a definição de valor justo dentro das bases de mensuração e os usos espalhados acima. Falta aqui, e precisa vir de outra fonte: **mercado principal × mercado mais vantajoso**, a **hierarquia de níveis 1, 2 e 3** dos dados de entrada, as **técnicas de avaliação** (mercado, custo, receita) e a **premissa da melhor utilização possível** (*highest and best use*) para ativos não financeiros. São 2,2% do edital.
+> O guia VINTEUM **não tem capítulo dedicado ao CPC 46** — só a definição de valor justo dentro das bases de mensuração e os usos espalhados acima. Falta aqui, e precisa vir de outra fonte: **mercado principal × mercado mais vantajoso**, a **hierarquia de níveis 1, 2 e 3** dos dados de entrada, e a **premissa da melhor utilização possível** (*highest and best use*) para ativos não financeiros. São 2,2% do edital.
 
 ### - Políticas, erros e estimativas contábeis (CPC 23);
 - [ ] status [dom:: 0] [peso:: 3]
