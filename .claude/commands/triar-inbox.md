@@ -1,8 +1,8 @@
 ---
-description: Lê Questoes/Inbox.md, distribui cada captura para a nota certa e limpa o Inbox
+description: Lê Questoes/Capturas.md, distribui cada captura para a nota certa e limpa a nota
 ---
 
-Trie as capturas rápidas acumuladas em `Questoes/Inbox.md` e mova cada uma para onde ela pertence.
+Trie as capturas rápidas acumuladas em `Questoes/Capturas.md` e mova cada uma para onde ela pertence.
 
 ## Passo 0 — orientar-se sem ler tudo
 
@@ -14,7 +14,7 @@ Notas de `MATERIAS/` variam de 100 a 1400+ linhas. Não leia o arquivo inteiro p
 
 ## Antes de mover
 
-1. Leia `Questoes/Inbox.md` inteiro. Cada item começa com `- <data>, <hora> — <texto>`, mas o texto pode ocupar várias linhas até o próximo `- <data>`.
+1. Leia `Questoes/Capturas.md` inteiro. Cada item começa com `- <data>, <hora> — <texto>`, mas o texto pode ocupar várias linhas até o próximo `- <data>`.
 2. Agrupe as capturas por assunto antes de mexer em arquivo. Várias linhas seguidas costumam ser da mesma questão ou do mesmo tópico e devem ir juntas, num bloco só.
 3. Descarte o que for lixo de captura: linha só com o nome da matéria, teste do Atalho, fragmento sem conteúdo (ex.: uma letra solta). Não crie nota para isso.
 
@@ -43,7 +43,7 @@ Respeite o registro da nota de destino: denso, direto, `<mark>` para o núcleo d
 
 ## Depois de mover
 
-1. Apague do Inbox as linhas movidas. Deixe a seção `## Capturas` vazia se tudo saiu — não apague o cabeçalho nem o texto explicativo da nota.
+1. Apague de `Capturas.md` as linhas movidas. Deixe a seção `## Capturas` vazia se tudo saiu — não apague o cabeçalho nem o texto explicativo da nota.
 2. Para cada matéria tocada, cruze os assuntos das capturas com a tabela `Percentual de cobrança (VINTEUM Fiscal 4.0)` daquela nota (via `indice-materia.py`) e diga ao Pedro **qual tópico específico** merece o próximo bloco de estudo — considerando o peso do edital e o `dom::` atual, não só o volume que ele capturou.
 3. **Verifique antes de reportar como feito.** Depois de cada edição em `MATERIAS/`, rode:
    ```
