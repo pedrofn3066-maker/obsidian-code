@@ -22,15 +22,15 @@ Rota semanal fixa ([[Slots (Grade Semanal)]]) cobrindo os 13 setores em ciclos d
 
 ## 4. Alvos prioritários (Ganho Potencial em 07/09/2026)
 
-| # | Setor | Pts | Questões (30d) | % acerto | Ganho |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Legislação Tributária | 40 | 2 | 50% | 14,0 |
-| 2 | Cont. Avançada e de Custos | 40 | 35 | 63% | 8,86 |
-| 3 | Adm. e Governança | 10 | 0 | — | 8,5 |
-| 3 | Economia | 10 | 0 | — | 8,5 |
-| 5 | Direito Financeiro | 8 | 0 | — | 6,8 |
-| 6 | Direito Tributário | 40 | 119 | 72% | 5,09 |
-| 7 | Mat. Fin./Estat./RLM | 12 | 21 | 43% | 5,06 |
+| #   | Setor                      | Pts | Questões (30d) | % acerto | Ganho |
+| --- | -------------------------- | --- | -------------- | -------- | ----- |
+| 1   | Legislação Tributária      | 40  | 2              | 50%      | 14,0  |
+| 2   | Cont. Avançada e de Custos | 40  | 35             | 63%      | 8,86  |
+| 3   | Adm. e Governança          | 10  | 0              | —        | 8,5   |
+| 3   | Economia                   | 10  | 0              | —        | 8,5   |
+| 5   | Direito Financeiro         | 8   | 0              | —        | 6,8   |
+| 6   | Direito Tributário         | 40  | 119            | 72%      | 5,09  |
+| 7   | Mat. Fin./Estat./RLM       | 12  | 21             | 43%      | 5,06  |
 
 Alvos secundários (dentro de setores acima): **CASP** (dom médio 2,33/5, dentro de Cont. Geral e Pública) e **RLM/Estatística** (dom médio 2,7-2,8/5, dentro de Mat.Fin./Estat./RLM) — os tópicos mais fracos medidos no cofre inteiro.
 

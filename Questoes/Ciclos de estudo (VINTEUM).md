@@ -9,16 +9,16 @@ Mesmo esqueleto de blocos de 1h/1h30 da VINTEUM, mas a frequência de cada maté
 
 Ganho Potencial no momento do cálculo:
 
-| Bloco | Ganho potencial | % acerto (30d) | Situação |
-| --- | --- | --- | --- |
-| Cont. Avançada e de Custos | 8,86 | 62,9% | maior ganho |
-| Mat. Fin./Estat./RLM | 5,70 | 37,5% | pior % de acerto |
-| Fluência de Dados | 4,08 | 64,6% | |
-| Direito Tributário | 3,60 | 76,0% | |
-| Cont. Geral e Pública | 2,41 | 60,9% | |
-| Const./Adm./Civil/Penal | 1,95 | 68,8% | |
-| Auditoria | 1,57 | 65,4% | |
-| Legislação Tributária, Finanças Públicas, Língua Portuguesa, Adm. e Governança, Economia, Direito Financeiro | — | sem caderno nos últimos 30 dias | prioridade escondida |
+| Bloco                                                                                                        | Ganho potencial | % acerto (30d)                  | Situação             |
+| ------------------------------------------------------------------------------------------------------------ | --------------- | ------------------------------- | -------------------- |
+| Cont. Avançada e de Custos                                                                                   | 8,86            | 62,9%                           | maior ganho          |
+| Mat. Fin./Estat./RLM                                                                                         | 5,70            | 37,5%                           | pior % de acerto     |
+| Fluência de Dados                                                                                            | 4,08            | 64,6%                           |                      |
+| Direito Tributário                                                                                           | 3,60            | 76,0%                           |                      |
+| Cont. Geral e Pública                                                                                        | 2,41            | 60,9%                           |                      |
+| Const./Adm./Civil/Penal                                                                                      | 1,95            | 68,8%                           |                      |
+| Auditoria                                                                                                    | 1,57            | 65,4%                           |                      |
+| Legislação Tributária, Finanças Públicas, Língua Portuguesa, Adm. e Governança, Economia, Direito Financeiro | —               | sem caderno nos últimos 30 dias | prioridade escondida |
 
 Lógica de alocação:
 
