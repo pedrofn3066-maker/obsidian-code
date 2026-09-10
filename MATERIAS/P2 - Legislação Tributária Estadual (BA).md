@@ -14,6 +14,8 @@ status: 🔴 1ª leitura
 # Legislação Tributária Estadual
 [[ERRO P2 - Legislação Tributária Estadual (BA)]]
 
+> Maior perda ponderada nas três provas de fazenda já prestadas — 60% no CE, 40% no MT, 40%/64% no SP. Nenhuma outra matéria aparece em primeiro lugar mais de uma vez. Ver [[Leitura de provas anteriores]].
+
 ## Percentual de cobrança (VINTEUM Fiscal 4.0)
 
 *Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE.*

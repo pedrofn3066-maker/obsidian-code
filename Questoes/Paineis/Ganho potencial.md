@@ -2,6 +2,9 @@ Cruza o acerto dos últimos 30 dias com os pontos de cada bloco no edital e devo
 
 O topo da tabela é onde a próxima semana de estudo rende mais ponto — não onde houve mais erro, nem onde a sensação é pior.
 
+> [!info]- Este painel não enxerga as provas reais
+> Ele lê só `Questoes/Diario` dos últimos 30 dias. As três provas de fazenda já prestadas — 580 questões — estão fora da janela e fora da fonte. Quando o ranking daqui divergir do que [[Leitura de provas anteriores]] mostra, a prova real tem a amostra maior e é a evidência mais forte.
+
 Requer **Enable JavaScript Queries** ativado nas configurações do Dataview.
 
 ```dataviewjs
