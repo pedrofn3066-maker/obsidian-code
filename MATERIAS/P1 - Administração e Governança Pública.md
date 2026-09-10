@@ -281,7 +281,7 @@ Em resumo:
 - **2ª linha - supervisão, monitoramento e auxílio/orientação da 1ª**
 - **3ª linha - auditoria interna (avaliação independente), alinhamento, colaboração**
 
-A <mark style="background:#fff88f">governabilidade</mark> se refere às condições sistêmicas gerais por meio das quais se dá o exercício do poder em determinada sociedade. É um conceito associado à capacidade política de governar e à legitimidade.
+A <mark style="background:#fff88f">governabilidade</mark> se refere às condições sistêmicas gerais por meio das quais se dá o exercício do poder em determinada sociedade. É um conceito associado à capacidade política de governar e à legitimidade. 
 A <mark style="background:#d3f8b6">governança</mark> trata-se da forma pela qual o Governo exerce o seu poder; ou ainda, a forma com que os recursos do Estado são gerenciados pelo Governo. Trata-se da capacidade do Governo de formular e implantar políticas públicas.
 - Legitimidade democrática do Estado + Legitimidade política do Governo = governabilidade 
 - Capacidades técnica, financeira e gerencial + Capacidade de implantar políticas públicas = governança
@@ -299,7 +299,7 @@ Resposta correta: A **) estratégico**.
 ## - Governo Aberto
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Transparência e _Accountability;_ 
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 0] [peso:: 2] ✅ 2026-09-10
 ## - Lei de Acesso à Informação (Lei n° 12.527/2011);
 - [ ] status [dom:: 0] [peso:: 2]
 
