@@ -180,8 +180,161 @@ II - a exigibilidade do imposto não-pago ou devolvido e a i**neficácia da lei 
 ## - Lei Complementar nº 194/22)
 - [ ] status [dom:: 0] [peso:: 3]
         
+
 # - ITCMD (Constituição Federal)
     
+
+# ITCMD — Lei nº 4.826/1989
+
+Lei nº 4.826, de 27 de janeiro de 1989 — consolidada até a Lei nº 14.971/2025, já com a adaptação à EC 132/2023 feita pela Lei nº 14.802/2024
+
+## Fato Gerador, Doação e Não Incidência (arts. 1º-3º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> Art. 1º O Imposto sobre Transmissão "CAUSA MORTIS" e doação de quaisquer bens ou direitos tem como fato gerador a transmissão "CAUSA MORTIS" e a doação, a qualquer título, de:
+>
+> I - propriedade ou domínio útil de bem imóvel por natureza ou acessão física, nos termos da Lei civil;
+> II - direitos reais sobre imóveis;
+> III - bens móveis, direitos, títulos e créditos.
+
+> Art. 2º Para efeito desta Lei considera-se doação qualquer ato ou fato, não oneroso, que importe ou resolva em transmissão de quaisquer bens ou direitos.
+>
+> § 1º A estipulação de condições de fazer não desvirtua a gratuidade da doação.
+> § 2º Nas transmissões "CAUSA MORTIS" e doações ocorrem tantos fatos geradores distintos quantos forem os herdeiros ou donatários.
+
+<mark style="background:#fff88f">§ 2º é a pegadinha clássica: um único inventário com três herdeiros gera três fatos geradores, não um só — cada quinhão é tributado separadamente.</mark>
+
+> Art. 3º O imposto não incide sobre a transmissão "CAUSA MORTIS" e doação de quaisquer bens ou direitos, quando:
+>
+> I - realizada para o patrimônio da União, Estados, Distrito Federal e Municípios, inclusive Autarquias e Fundações instituídas e mantidas pelo Poder Público, desde que vinculadas às suas finalidades essenciais ou delas decorrentes;
+> II - realizada para o patrimônio de entidades religiosas e dos templos de qualquer culto, inclusive de suas organizações assistenciais e beneficentes;
+> III - realizada para o patrimônio dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e assistência social, sem fins lucrativos, atendidos os requisitos da Lei.
+> IV - realizada para o patrimônio do trabalhador rural beneficiada pela desapropriação de imóvel rural, para fins do Programa de Reforma Agrária;
+> V - realizada para o patrimônio do trabalhador rural atingido por projeto de reassentamento promovido em virtude de formação de reservatórios de usinas hidroelétricas;
+> VI - realizada para o patrimônio do trabalhador rural beneficiado no processo de aquisição de imóveis entre o poder público e particulares, para fins do Programa de Reforma Agrária.
+> VII - realizada para as instituições sem fins lucrativos com finalidade de relevância pública e social, inclusive as organizações assistenciais e beneficentes de entidades religiosas e institutos científicos e tecnológicos, e por elas realizadas na consecução dos seus objetivos sociais, observadas as condições estabelecidas em lei complementar.
+
+⚠️ Art. 3º é **não incidência**, não isenção — a distinção importa: na não incidência o imposto nem chega a nascer (fora do campo de incidência); na isenção (art. 4º) o fato gerador ocorre e a lei dispensa o pagamento. Banca troca os dois termos de propósito.
+
+## Isenções (art. 4º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> Art. 4º Ficam isentas do imposto:
+>
+> I - Revogado.
+> II - as transmissões hereditárias de prédio de residência que constitua o único bem do espólio, cujo valor do imóvel seja igual ou inferior a R$ 170.000,00 (cento e setenta mil reais), desde que à sucessão concorram apenas o cônjuge ou filhos do "de cujus" e que fique comprovado não possuírem outro imóvel;
+> III - Revogado.
+> IV - as transmissões, por doação, de propriedade de bens imóveis entre as empresas públicas estaduais, bem como as transmissões, por doação, de propriedade de imóveis ou de suas parcelas para os primeiros adquirentes pessoas físicas, beneficiários de programas governamentais de moradia para população de baixa renda e as transmissões, por doação, de propriedade de imóveis, destinados à moradia, oriundos de operações de intervenção vinculadas a estado de calamidade pública e situação de emergência;
+> V - as transmissões causa mortis de bens ou direitos cujo valor do quinhão seja de até R$100.000,00 (cem mil reais).
+>
+> Parágrafo único. Nas hipóteses de transmissões de propriedades previstas no inciso IV, não será exigida, pelos serventuários que tiverem de lavrar os respectivos instrumentos translativos, a comprovação do reconhecimento de isenção.
+
+<mark style="background:#fff88f">Dois números de isenção que a banca adora trocar: **R$ 100.000** é o teto do quinhão em qualquer transmissão causa mortis (inciso V, regra geral); **R$ 170.000** é só para o imóvel residencial único do espólio, e exige cônjuge/filhos como únicos sucessores e ausência de outro imóvel (inciso II, regra específica e mais restrita).</mark> Doação não tem isenção por piso de valor — só os incisos I a IV, todos por natureza do beneficiário ou destinação do bem, nunca por valor da doação.
+
+## Contribuinte e Responsáveis (arts. 5º-7º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> Art. 5º São contribuintes do Imposto:
+>
+> I - nas transmissões "CAUSA MORTIS", os adquirentes dos bens ou direitos transmitidos;
+> II - nas doações a qualquer título, o donatário.
+
+> Art. 6º Nas transmissões e doações que se efetuarem sem o pagamento do imposto devido, são solidariamente responsáveis o doador e o inventariante, conforme o caso.
+
+> Art. 7º São subsidiariamente responsáveis pelo pagamento do imposto, nas doações e transmissões que se efetuarem sem o pagamento, o oficial público, o serventuário e auxiliar de justiça, ou qualquer servidor público cuja interferência seja essencial para sua validade e eficácia.
+
+⚠️ **Solidária (art. 6º)** = doador e inventariante, que estavam dentro do próprio negócio jurídico. **Subsidiária (art. 7º)** = quem só formalizou o ato (oficial de cartório, serventuário, servidor público) — responde depois, não no mesmo patamar do contribuinte. Trocar solidário por subsidiário é a pegadinha central do bloco.
+
+## Local da Transmissão ou Doação (art. 8º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> Art. 8º Considera-se local da transmissão "CAUSA MORTIS" ou doação:
+>
+> I - tratando-se de imóveis e de direitos a eles relativos, o da situação dos bens;
+> II - tratando-se de bens móveis, direitos, títulos e créditos, onde era domiciliado o de cujus, ou tiver domicílio o doador.
+> III - [...]
+> b) o donatário, na hipótese em que o doador tenha domicílio ou residência no exterior;
+> c) o herdeiro ou legatário, quando o inventário ou arrolamento tiver sido processado no exterior;
+> d) o herdeiro ou o legatário se o "de cujus" possuía bens, era residente ou domiciliado no exterior, ainda que o inventário ou arrolamento tenha sido processado no País.
+
+> Parágrafo único. Até que lei complementar regule o disposto no inciso III do § 1º do art. 155 da Constituição Federal, o local da transmissão será:
+>
+> I - relativamente a bens imóveis e respectivos direitos, o da situação do bem;
+> II - se o doador tiver domicílio ou residência no exterior:
+> a) onde tiver domicílio o donatário;
+> b) se o donatário tiver domicílio ou residir no exterior, onde se encontrar o bem;
+> III - relativamente aos bens do de cujus situados no exterior, onde este era domiciliado, ou, se domiciliado ou residente no exterior, onde tiver domicílio o sucessor ou legatário.
+
+> [!warning]- Lacuna de lastro: abertura do inciso III e alínea "a)"
+> A captura pula direto de "...ou tiver domicílio o doador." (fim do inciso II) para "ab) o donatário..." — falta o texto de abertura do inciso III e o texto da alínea "a)". Pelo contexto (o parágrafo único cita expressamente "o disposto no inciso III do § 1º do art. 155 da CF", que trata dos casos de conexão com o exterior) e pelas alíneas b/c/d que sobraram, o inciso III certamente cobre os casos de domicílio/residência/inventário no exterior — mas o texto exato da alínea "a)" não foi capturado. Conferir no TEC ou no texto oficial da lei antes de estudar por aqui.
+
+⚠️ Regra geral do art. 8º: **imóvel** → local do bem; **bem móvel/direito/crédito** → domicílio do de cujus ou do doador (não do herdeiro/donatário). O parágrafo único reproduz quase literalmente a regra de transição do art. 155, § 1º, III da CF — a lei estadual só replicou o texto constitucional para os casos com conexão internacional, que continuam dependendo de lei complementar federal ainda não editada.
+
+## Alíquotas (art. 9º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> Art. 9º As alíquotas do ITD são as seguintes:
+>
+> I - nas doações de quaisquer bens ou direitos:
+> a) 03% (três por cento), para doações até R$200.000,00 (duzentos mil reais);
+> b) 3,5% (três inteiros e cinco décimos por cento), para doações acima de R$200.000,00 (duzentos mil reais) a até R$300.000,00 (trezentos mil reais);
+> c) 04% (quatro por cento), para doações acima de R$300.000,00 (trezentos mil reais);
+> II - nas transmissões causa mortis, sobre o quinhão ou o legado:
+> a) 04% (quatro por cento), para valores acima de R$100.000,00 (cem mil reais) a até R$200.000,00 (duzentos mil reais);
+> b) 06% (seis por cento), para valores acima de R$200.000,00 (duzentos mil reais) a até R$300.000,00 (trezentos mil reais);
+> c) 08% (oito por cento), para valores acima de R$300.000,00 (trezentos mil reais).
+>
+> Parágrafo único. Na hipótese de sucessivas doações entre o mesmo doador e o mesmo donatário, serão consideradas todas as transmissões realizadas a esse título dentro do mesmo exercício, devendo o imposto ser recalculado a cada nova doação, adicionando-se à base de cálculo os valores dos bens anteriormente transmitidos e deduzindo-se os valores dos impostos já recolhidos.
+
+<mark style="background:#fff88f">Alíquotas progressivas por faixa, não plana — igual IR: cada faixa paga sua própria alíquota, a maior alíquota não incide sobre o valor todo.</mark> Causa mortis é sempre mais caro que doação na mesma faixa de valor (4/6/8% contra 3/3,5/4%) — reforça a lógica de desestimular herança em detrimento de doação em vida planejada. **8%** é o teto constitucional do ITCMD (Resolução do Senado nº 9/1992) — a Bahia já usa o teto máximo na faixa mais alta de causa mortis.
+
+⚠️ Parágrafo único é regra **antielisiva**: sem ela, dava para fracionar uma doação grande em várias pequenas (cada uma na faixa de 3%) para fugir da alíquota mais alta. Com o recálculo obrigatório por doador+donatário dentro do mesmo exercício, esse benefício de fracionar desaparece.
+
+## Base de Cálculo (art. 10)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> Art. 10. A base de cálculo do imposto é o valor venal dos bens ou direitos à época da ocorrência do fato gerador, apurado mediante avaliação de iniciativa da Secretaria da Fazenda, com base nos valores de mercado correspondente ao bem, ressalvado ao contribuinte o direito de requerer avaliação contraditória administrativa ou judicial.
+
+⚠️ Base de cálculo é o **valor venal na data do fato gerador** (não o valor declarado pelas partes, nem uma avaliação antiga) — a avaliação de ofício é da SEFAZ, cabendo ao contribuinte o contraditório se discordar. Combina direto com os arts. 3º e 9º: a base muda conforme a data do óbito/doação, então valorização do bem entre o fato gerador e o pagamento não deveria alterar o imposto devido.
+
+## Cálculo, Lançamento, Pagamento e Restituição (arts. 11-12)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> Art. 11. O imposto será calculado aplicando-se a alíquota cabível à base de cálculo prevista no art. 10 desta Lei, obtendo-se o valor que será pago na forma prevista em regulamento.
+>
+> Art. 12. O regulamento disporá sobre o lançamento do imposto e sua restituição.
+
+Arts. 11-12 são normas de **remissão ao regulamento** — a lei não detalha prazo nem forma de pagamento/restituição, delega ao decreto regulamentador. Pouco provável cair "decoreba" desses dois artigos isolados; o risco é a banca cobrar prazo ou forma que só está no regulamento, não na lei.
+
+## Infrações, Penalidades e Disposições Finais (arts. 13-16)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> Art. 13. O descumprimento de obrigações principais e acessórias previstas nesta Lei e em normas regulamentares sujeitará o infrator, sem prejuízo do pagamento do imposto e dos acréscimos tributários cabíveis, às seguintes penalidades:
+>
+> I - 5% (cinco por cento) sobre o valor do imposto devido, quando o inventário ou arrolamento não for requerido no prazo de 60 (sessenta) dias, a contar da data da abertura da sucessão, independentemente do recolhimento do tributo no prazo regulamentar;
+> II - 60% (sessenta por cento) do valor do imposto, quando a falta do pagamento não decorrer de fraude;
+> III - 100% (cem por cento) do valor do imposto, quando a falta do pagamento decorrer de fraude.
+
+> Art. 13-A. As multas previstas no art. 13 serão reduzidas nos seguintes percentuais:
+>
+> I - 70% (setenta por cento), se forem pagas dentro do prazo de 30 (trinta) dias, contados da intimação do lançamento de ofício;
+> II - 35% (trinta e cinco por cento), se forem pagas antes da inscrição do débito na dívida ativa tributária;
+> III - 25% (vinte e cinco por cento), se forem pagas antes do ajuizamento da execução do crédito tributário.
+>
+> § 1º Revogado.
+> § 2º O pagamento efetuado nos termos deste artigo implica renúncia à defesa ou recurso previsto na legislação e desistência aos já interpostos.
+
+> Art. 14. O pagamento de multa não dispensa o do imposto com acréscimos tributários, quando devidos, nem exime o infrator da correção do ato.
+>
+> Parágrafo único. Revogado.
+
+> Art. 15. Aplicam-se a este imposto, no que couber, as normas previstas na Lei nº 3.956/81 e suas posteriores alterações e na legislação tributária.
+>
+> Art. 16. Esta Lei entra em vigor no primeiro dia do mês de março de 1989.
+
+<mark style="background:#fff88f">Duas escalas de percentual, não confundir: a multa-base (art. 13) incide sobre o **imposto devido** (5%/60%/100%); a redução (art. 13-A) incide sobre a **própria multa**, não sobre o imposto — pagar em 30 dias após o lançamento de ofício corta 70% da multa, não 70% do imposto.</mark> A redução é degressiva conforme o processo avança: quanto mais cedo o contribuinte pagar (antes da inscrição em dívida ativa, antes do ajuizamento da execução), maior o desconto.
+
+⚠️ Art. 15 remete à **Lei nº 3.956/81** — lei geral de processo/administração tributária estadual da Bahia. Questão que cruzar ITD com essa lei é sobre norma procedimental geral (prazo, processo administrativo), não sobre o imposto em si.
 
 # - IPVA (Constituição Federal)
 
