@@ -47,6 +47,59 @@ prioridade: crítico
 
 ## - NBC TSP - Estrutura Conceitual
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Estrutura Conceitual + [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Gilmar Possati, Estratégia Concursos, 2018).
+
+**Alcance:** a Estrutura Conceitual e as demais NBC TSP aplicam-se **obrigatoriamente** às entidades do setor público na elaboração dos RCPGs — governos, poderes (inclusive tribunais de contas, defensorias, MP), autarquias, fundações públicas, fundos, consórcios públicos e **empresas estatais dependentes**. Empresas estatais **independentes** ficam fora do alcance, salvo aplicação facultativa.
+
+**Autoridade:** em conflito entre a Estrutura Conceitual e uma NBC TSP específica, **prevalece a norma específica**.
+
+#### RCPG — Relatório Contábil de Propósito Geral
+
+Componente central da transparência contábil do setor público. Engloba as demonstrações contábeis **e** as notas explicativas — não é só o conjunto de demonstrações. Elaborado para atender **usuários em geral**, não uma necessidade específica de um grupo.
+
+**Usuários primários:** usuários de serviços e seus representantes (Legislativo) + provedores de recursos e seus representantes. Outros usuários (analistas, mídia, agências de risco, entidades de auditoria) usam a informação, mas não é para eles que o RCPG é feito.
+
+#### Características qualitativas
+
+| Característica | Conceito |
+| --- | --- |
+| **Relevância** | capaz de influenciar significativamente o cumprimento dos objetivos da informação — valor confirmatório e/ou preditivo |
+| **Representação Fidedigna** | completa, neutra e livre de erro material |
+| **Comparabilidade** | identificar semelhanças e diferenças entre fenômenos |
+| **Verificabilidade** | assegura que a informação representa fielmente o fenômeno |
+| **Tempestividade** | disponível antes de perder utilidade |
+| **Compreensibilidade** | usuários compreendem o significado |
+
+⚠️ **Comparabilidade ≠ Consistência:** comparabilidade é o objetivo, consistência ajuda a atingi-lo. **Comparabilidade ≠ Uniformidade:** uniformidade em excesso pode reduzir comparabilidade, ao fazer coisas distintas parecerem semelhantes.
+
+**Restrições:** Materialidade (omissão/distorção que influencia decisão), Custo-benefício, Equilíbrio entre características qualitativas (trade-off).
+
+#### Elementos das demonstrações contábeis
+
+<mark style="background:#fff88f">Comparar com a Estrutura Conceitual privada — [[P2 - Contabilidade Avançada e de Custos#- Contabilidade Básica;\|CPC 00]] — as definições são estruturalmente parecidas, mas a pública fala em "situação patrimonial líquida", não "patrimônio líquido" como nome primário, e substitui "proprietários" por "contribuições/distribuições de proprietários" mesmo sem estrutura acionária típica.</mark>
+
+- **Ativo:** recurso controlado no presente, resultado de evento passado. Três condições cumulativas: gera benefício econômico futuro ou potencial de serviços, é controlado pela entidade, resulta de evento passado.
+- **Passivo:** obrigação presente, derivada de evento passado, cuja extinção resulta em **saída de recursos**. Obrigação legal ou não legalmente vinculada, mas inevitável pela entidade.
+- **Situação Patrimonial Líquida:** ativos − passivos (após outros recursos/obrigações). Pode ser residual positivo ou negativo.
+- **Receita:** aumento na situação líquida **não oriundo de contribuição dos proprietários**.
+- **Despesa:** diminuição na situação líquida **não oriunda de distribuição aos proprietários**.
+
+#### Reconhecimento e mensuração
+
+**Reconhecimento** exige as duas condições ao mesmo tempo: satisfazer a definição de elemento **e** poder ser mensurado observando as características qualitativas.
+
+**Objetivo da mensuração:** selecionar bases que reflitam o custo dos serviços, a capacidade operacional e a capacidade financeira da entidade.
+
+| Base (ativo) | Entrada/saída | Observável no mercado? | Específica à entidade? |
+| --- | --- | --- | --- |
+| Custo histórico | Entrada | geralmente sim | sim |
+| Valor de mercado (mercado ativo) | Entrada e saída | sim | não |
+| Valor de mercado (mercado inativo) | Saída | depende da técnica | depende da técnica |
+| Custo de reposição/substituição | Entrada | sim | sim |
+| Preço líquido de venda | Saída | sim | sim |
+| Valor em uso | Saída | não | sim |
+
 ## - Regimes orçamentário e patrimonial
 
 ### 1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL 
@@ -187,6 +240,32 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Patrimônio público
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** Lei 4.320/1964 + MCASP 11ª edição (STN), Parte I.
+
+**Patrimônio público é o próprio objeto da CASP.** A Lei 4.320/1964, no Título IX (Da Contabilidade), estabelece o que a contabilidade pública precisa evidenciar sobre ele:
+
+| Artigo | Exige |
+| --- | --- |
+| **Art. 85** | organização que permita acompanhar a execução orçamentária, conhecer a composição **patrimonial**, determinar custos, levantar balanços gerais, analisar resultados econômicos e financeiros |
+| **Art. 89** | evidenciar fatos ligados à administração orçamentária, financeira, **patrimonial** e industrial |
+| **Art. 100** | alterações da situação líquida patrimonial — resultados da execução orçamentária **e** variações independentes dela, superveniências e insubsistências — são elementos da conta patrimonial |
+| **Art. 104** | a Demonstração das Variações Patrimoniais evidencia as alterações do patrimônio, resultantes **ou** independentes da execução orçamentária, e indica o resultado patrimonial |
+
+<mark style="background:#fff88f">O ponto central: patrimônio se move por **duas vias**, não uma só.</mark> Fatos **resultantes** da execução orçamentária (a maior parte) e fatos **independentes** dela — doações não previstas, baixas por perda, reavaliações. Ambas afetam o patrimônio; só a primeira passa pelo orçamento.
+
+#### Dois regimes, dois critérios — a raiz de tudo em CASP
+
+| | Natureza orçamentária | Natureza patrimonial |
+| --- | --- | --- |
+| Receita/Despesa | Receita orçamentária / Despesa orçamentária | VPA / VPD |
+| Critério | **Arrecadação** (receita) / **Empenho** (despesa) | **Competência** |
+| Base normativa | Lei 4.320/1964, art. 35 | [[#- NBC TSP - Estrutura Conceitual\|NBC TSP Estrutura Conceitual]] |
+
+⚠️ O art. 35 da Lei 4.320/64 fala do **regime orçamentário** — mas o **regime contábil (patrimonial)** aplica-se em **integralidade**, pela competência. Isso significa: **não é preciso** que a despesa orçamentária esteja empenhada, nem que a receita orçamentária esteja arrecadada, para que o fato seja reconhecido do ponto de vista **patrimonial**.
+
+É essa dualidade que justifica a segregação de classes no [[#- PCASP e escrituração contábil pública\|PCASP]] (patrimonial × orçamentária × controle) e o tratamento diferenciado dos [[#1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL\|regimes]] já vistos acima.
+
 ## - Princípios de CASP
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Bens, inventário
@@ -217,24 +296,252 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Imobilizado
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP 07 — Ativo Imobilizado, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018).
+
+<mark style="background:#fff88f">Comparar com [[P2 - Contabilidade Avançada e de Custos#- Imobilizado (CPC 27);\|CPC 27 privado]] — o núcleo (reconhecimento, custo, modelo de custo × reavaliação) é quase idêntico. As diferenças reais: alcance específico (equipamento militar, ativos de infraestrutura), a **frequência obrigatória** de reavaliação por classe de volatilidade, e o **patrimônio cultural** como categoria própria.</mark>
+
+**Alcance:** aplica-se, além do imobilizado comum, a **equipamento militar especializado**, **ativos de infraestrutura** e ativos de contrato de concessão (após NBC TSP 05). **Não** se aplica a ativos biológicos agrícolas nem a direitos de exploração mineral.
+
+⚠️ **Patrimônio cultural:** a norma **não exige** reconhecê-lo como imobilizado. Se a entidade reconhece, aplica a divulgação obrigatoriamente, mas a mensuração é **facultativa**.
+
+#### Reconhecimento
+
+Duas condições cumulativas: (a) **provável** que benefícios econômicos futuros ou potencial de serviços fluirão para a entidade; (b) custo ou valor justo mensurável **confiavelmente**.
+
+**Custos subsequentes:**
+
+| Gasto | Tratamento |
+| --- | --- |
+| Manutenção usual (inclusive peças pequenas) | **despesa** (VPD) no resultado |
+| Substituição de peças **importantes**, em intervalo regular | **compõe o custo** — reconhece no valor contábil |
+| Inspeções regulares importantes | **compõe o custo**, como substituição |
+
+#### Mensuração — reconhecimento inicial e custo
+
+Mensurado pelo **custo de aquisição**. Se adquirido **sem contraprestação** (doação, valor simbólico), mede-se pelo **valor justo** na data da aquisição.
+
+```
+Custo = Preço de aquisição
+      + impostos de importação e não recuperáveis
+      + custos diretamente atribuíveis (preparação do local, frete, instalação, testes, honorários)
+      + estimativa inicial de desmontagem e remoção
+      − descontos comerciais e abatimentos
+```
+
+**Não compõe o custo:** abertura de nova instalação, introdução de novo produto/serviço (inclusive propaganda), transferência para novo local, custos administrativos indiretos.
+
+⚠️ O reconhecimento de custos no valor contábil **cessa** quando o item está **no local e em condições operacionais** pretendidas — gastos posteriores de uso, transferência ou reinstalação não entram no valor contábil.
+
+#### Mensuração após o reconhecimento — dois modelos, escolha por classe inteira
+
+| Modelo | Regra |
+| --- | --- |
+| **Custo** | custo − depreciação acumulada − PRVR acumulada |
+| **Reavaliação** | valor justo na data − depreciação e PRVR subsequentes |
+
+⚠️ A escolha é **por classe inteira** de imobilizado, não item a item. Reavaliado um item, **toda a classe** precisa ser reavaliada.
+
+**Frequência da reavaliação, obrigatória por classe de volatilidade:**
+- mudanças **frequentes e significativas** no valor justo → **reavaliação anual**;
+- sem variações significativas → **a cada 3 ou 5 anos**.
+
+Depreciação: seção própria em [[#- Depreciação\|Depreciação]], logo abaixo.
+
+#### Desreconhecimento (baixa)
+
+Quando: (a) alienado; ou (b) **não há mais expectativa** de benefício econômico futuro ou potencial de serviços com uso ou alienação.
+
 ## - Intangível
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Depreciação
 - [ ] status [dom:: 0] [peso:: 3]
 
-> [!warning] Lacuna de lastro — sem fonte licenciada
-> Não há material de Contabilidade Aplicada ao Setor Público licenciado no vault. O guia VINTEUM usado para preencher [[P2 - Contabilidade Avançada e de Custos#- Depreciação, Amortização e Exaustão;\|Depreciação na ótica privada]] é só de contabilidade societária — não cobre NBC TSP nem MCASP.
->
-> A ótica pública de depreciação difere da privada em pontos que a FCC cobra: **bens de uso comum** não depreciam (ex.: praças, ruas); vida útil e valor residual seguem **tabelas do MCASP**, não estimativa da entidade; a depreciação de ativos **em concessão/permissão de uso** tem regra própria. Nenhum desses pontos deve ser escrito de memória — precisam vir do NBC TSP 07 (Ativo Imobilizado) ou do MCASP (STN), que não estão no vault.
->
-> `dom` aqui não deve passar de 0 até esse material chegar.
+**Fonte:** NBC TSP 07 + MCASP 11ª edição (STN), item 11.5.
+
+> [!info]- Correção de duas suposições anteriores
+> O callout de lacuna que existia aqui apostava em duas coisas — as duas **erradas**, conferidas contra o MCASP: (1) **bens de uso comum** (ativos de infraestrutura — rodovias, redes de esgoto, pontes) **depreciam sim**, pela mesma base dos demais imobilizados, com valor justo estimado por **custo de reposição depreciado** quando não há mercado observável; (2) a vida útil e o valor residual **não** vêm de tabela fixa do MCASP — são **estimados pelo próprio ente**, conforme suas características de uso (o mesmo veículo pode ter vida útil diferente na rotina burocrática × na ronda policial). O que **não** deprecia é mais restrito do que eu supunha: só **terrenos** (salvo pedreiras/aterros) e **bens de natureza cultural**.
+
+Alocação sistemática do valor depreciável ao longo da vida útil — mesmo conceito do [[P2 - Contabilidade Avançada e de Custos#- Depreciação, Amortização e Exaustão;\|CPC 27 privado]]. Causas: deterioração física, desgaste com uso, obsolescência.
+
+#### O que não deprecia
+
+**Terrenos** (exceto pedreiras e locais usados como aterro, que têm vida útil limitada) e **bens de natureza cultural**. Terrenos e edificações são ativos **separáveis** — contabilizados separadamente mesmo quando adquiridos juntos.
+
+#### Vida útil e valor residual — estimados pelo ente, não por tabela fixa
+
+A entidade estabelece suas próprias tabelas de depreciação, considerando: desgaste físico, geração de benefícios futuros, limites legais/contratuais de uso, obsolescência tecnológica.
+
+⚠️ **Não precisa de tabela única** — bens diferentes podem ter taxas diferentes conforme o uso, desde que evidenciado em notas explicativas. Revisão pelo menos ao final de cada exercício; divergência das estimativas anteriores = mudança de estimativa contábil.
+
+#### Início, apuração e cessação
+
+- **Início:** quando o ativo está **disponível para uso** — no local e condições pretendidas pela administração.
+- **Apuração:** **mensal**, a partir da disponibilidade para uso. Pelo método de unidades produzidas, a VPD pode ser zero enquanto não há produção.
+- **Cessação:** ao fim da vida útil (valor contábil = valor residual, ou zero na falta dele) ou no desreconhecimento. ⚠️ **Não cessa** por ociosidade ou retirada temporária de uso.
+
+```
+Lançamento          D 3.3.3.x.x VPD de Depreciação, Amortização e Exaustão
+                     C 1.2.3.8.x (−) Dep./Amort./Exaustão Acumuladas
+```
+
+**Reavaliação e depreciação subsequente** — a diferença entre a depreciação sobre o valor reavaliado e a que incidiria sobre o custo histórico consome a reserva de reavaliação:
+
+```
+Exemplo: depreciação de 100 sobre ativo reavaliado; sobre custo histórico seria 70.
+D 3.3.3.x VPD de Depreciação            70
+D 2.3.6.1.x Reserva de Reavaliação      30
+C 1.2.3.8.x (−) Dep. Acumuladas        100
+```
+
+⚠️ Desde 2021, **não é mais admitido** reconhecer aumento/diminuição de reavaliação direto no resultado do exercício (era facultativo até a 7ª edição do MCASP) — precisa passar pela Reserva de Reavaliação.
+
+**Ativos de contrato de concessão** também se sujeitam normalmente a depreciação, reavaliação e redução ao valor recuperável — sem regra especial que os isente.
 
 ## - Redução ao valor recuperável
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP 09 (ativo não gerador de caixa) e NBC TSP 10 (ativo gerador de caixa), via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018).
+
+<mark style="background:#fff88f">A divisão em duas normas — inexistente no [[P2 - Contabilidade Avançada e de Custos#- Redução ao Valor Recuperável (CPC 01);\|CPC 01 privado]] — é o coração do tópico público: **a maioria dos ativos do setor público é não geradora de caixa**, porque não existe para retorno comercial.</mark>
+
+| | Ativo **não** gerador de caixa (NBC TSP 09) | Ativo gerador de caixa (NBC TSP 10) |
+| --- | --- | --- |
+| Definição | mantido **sem** objetivo de retorno comercial — a maioria dos ativos públicos | mantido **com** objetivo principal de gerar retorno comercial (ex.: hospital público com atendimento pago) |
+| Unidade de análise | ativo individual | ativo individual **ou** unidade geradora de caixa (menor grupo com entradas de caixa independentes) |
+
+#### Mecânica do teste — igual nas duas normas
+
+**Valor recuperável** = maior entre **valor justo líquido de despesas de venda** e **valor em uso**.
+
+- Não gerador de caixa: valor em uso = valor presente do **potencial de serviços remanescente**.
+- Gerador de caixa: valor em uso = valor presente dos **fluxos de caixa futuros** esperados (uso contínuo + alienação ao fim da vida útil).
+
+```
+Se Valor Contábil > Valor Recuperável → Perda por desvalorização
+D Perda por Desvalorização (VPD, resultado) / C Perda Estimada por Valor Não Recuperável (redutora do ativo)
+```
+
+Reconhecida **imediatamente** no resultado. Se o ativo está registrado por valor **inferior** ao recuperável, **nenhuma providência**.
+
+Depois da perda, a **depreciação futura** é recalculada sobre o valor contábil revisado (menos residual, se houver), ao longo da vida útil remanescente.
+
+#### Reversão
+
+Só se houve **mudança nas estimativas** desde a última perda reconhecida — reconhecida imediatamente como VPA.
+
+⚠️ **Não reverte só pela passagem do tempo.** O valor em uso pode crescer porque o valor presente de fluxos futuros aumenta conforme eles se aproximam — mas o potencial de serviços do ativo **não** aumentou, então isso **não** justifica reversão.
+
+Na unidade geradora de caixa, a reversão se **aloca proporcionalmente** ao valor contábil dos ativos da unidade.
+
+**Reclassificação** entre gerador × não gerador de caixa: só com **clara evidência** de que é adequada. A reclassificação em si **não** obriga a refazer o teste de impairment.
+
 ## - Provisões, passivos e ativos contingentes
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP 03 — Provisões, Passivos Contingentes e Ativos Contingentes, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018).
+
+<mark style="background:#fff88f">Estrutura quase idêntica ao [[P2 - Contabilidade Avançada e de Custos#- Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)\|CPC 25 privado]] — mesmo tripé de condições, mesma tabela de probabilidade. A diferença real é o **PCASP**: contas de controle específicas para contingências, que o CPC não tem.</mark>
+
+#### Provisão
+
+**Passivo de prazo ou valor incerto.** Reconhece quando as três condições coexistem:
+1. obrigação **presente** (formalizada ou não), de evento passado;
+2. **provável** saída de recursos (>50%);
+3. estimativa **confiável** do valor.
+
+```
+Constituição   D VPD de Constituição de Provisões (3.9.7.x) / C Provisões (2.x.7.x)
+```
+
+**Mensuração:** melhor estimativa do desembolso na data das DCs. **Método do valor esperado** quando envolve grande população de itens (pondera todos os resultados possíveis). **AVP** quando o efeito do tempo é material — o valor cresce a cada período, reconhecido como despesa financeira:
+
+```
+D VPD Financeiras (3.4.x) / C Provisões (2.x.7.x)
+```
+
+Reavaliada em toda data de apresentação das DCs.
+
+#### Passivo contingente × Ativo contingente
+
+| Probabilidade | Registro contábil | Notas explicativas |
+| --- | --- | --- |
+| **Provável** | Sim (é provisão) | Sim |
+| **Possível** | Não | Sim |
+| **Remota** | Não | Não |
+
+Nem passivo nem ativo contingente entram em **contas patrimoniais** — só em **contas de controle do PCASP** (⚠️ é aqui que a ótica pública diverge do CPC 25, que não tem esse mecanismo):
+
+```
+Passivo contingente   D Controle de Passivos Contingentes (7.4.1) / C Execução de Passivos Contingentes (8.4.1)
+Ativo contingente     D Atos Potenciais Ativos (7.1.1) / C Execução de Atos Potenciais Ativos (8.1.1)
+```
+
+⚠️ **Ativo contingente exige um degrau a mais** que o passivo: mesmo **provável**, só divulga — a entrada só é reconhecida (deixa de ser contingente) quando **praticamente certa**. Assimetria idêntica à do CPC 25.
+
+Se um passivo contingente antes possível/remoto se tornar **provável**, vira **provisão** no período da mudança de probabilidade.
+
+#### Situações específicas — Reestruturação
+
+Registra provisão quando for provável a saída de recursos. Obrigação **não formalizada** só surge com **plano formal** e expectativa válida criada — ao começar a implantação ou anunciar as características principais.
+
+⚠️ Envolvendo **venda ou transferência de operações**: nenhuma obrigação antes de **acordo obrigatório de venda**, mesmo com anúncio público.
+
+**Não entram** na provisão de reestruturação: novo treinamento/realocação, marketing, investimento em novos sistemas — são custos da condução **futura** da atividade, não passivos na data das DCs.
+
 ## - NBC TSP 34
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP 34, de 18/11/2021 (texto oficial do CFC) + Manual de Informações do Sistema de Custos (MIC, 2ª edição, STN).
+
+**Objetivo:** estabelecer diretrizes para implementar o **sistema de custos** como instrumento de **governança pública** — não é só técnica contábil, é ferramenta de planejamento, decisão, monitoramento, avaliação de desempenho, transparência e responsabilização (*accountability*).
+
+**Alcance:** aplica-se às entidades definidas pela [[#- NBC TSP - Estrutura Conceitual\|Estrutura Conceitual]]. Trata **principalmente** do uso da informação de custos para fins **gerenciais**.
+
+#### Definições que a banca testa por troca de termo
+
+<mark style="background:#fff88f">Custo, gasto, desembolso, investimento e perda não são sinônimos — cada um tem escopo próprio.</mark>
+
+| Termo | Definição |
+| --- | --- |
+| **Custo** | consumo ou utilização de recursos para gerar bens ou serviços |
+| **Gasto** | dispêndio de ativo ou criação de passivo, relacionado ou não à obtenção de bem/serviço — é o mais amplo |
+| **Desembolso** | o pagamento resultante do gasto |
+| **Investimento** | bens/direitos no ativo em função de benefício futuro esperado |
+| **Perda** | consumo **anormal e imprevisível**, que **não** contribui para gerar bens/serviços |
+
+**Classificações do custo**, cada par testável isoladamente:
+
+| Classificação | Direto/Indireto | Controlável/Não controlável | Fixo/Variável | Finalístico/Suporte |
+| --- | --- | --- | --- | --- |
+| Critério | identificação objetiva ao objeto de custo, ou não (exige direcionador/rateio) | gestor influencia o consumo, ou não | varia com o volume de atividade, ou permanece constante | vinculado à missão institucional (valor público), ou dá suporte a quem entrega |
+
+**Objeto de custo:** unidade para a qual se quer identificar/mensurar custo — **final** (bem/serviço entregue à sociedade) ou **intermediário** (interesse interno de gestão, atribuído ou não ao objeto final).
+
+**Centro de responsabilidade:** unidade que conduz atividades e presta contas à alta administração; onde os custos se apuram. Uma entidade que produz um único bem/serviço **pode** ter só um centro — o usual é vários, pela segregação de funções.
+
+**Regime:** custo é registrado no momento do **consumo/utilização do recurso**, pelo regime de **competência** — mesmo que o desembolso ocorra em período diferente.
+
+#### Obrigatoriedade e método de custeio
+
+Cada entidade **deve** identificar, acumular e relatar seus custos em **base regular**, via sistema de custos. Toda informação de custo deve ser **rastreável** até a fonte de dados de origem.
+
+**Métodos de custeio** — a norma recomenda progressão pela maturidade do modelo:
+
+- **Custeio direto**, em estágios iniciais — só custos diretos, indiretos irrelevantes.
+- **Absorção parcial ou integral (pleno)**, quando os indiretos passam a ser relevantes.
+- **ABC (custeio baseado em atividades)** — técnica para rastrear indiretos até o objeto final; a norma **encoraja, mas não obriga**, para entidades de maior maturidade.
+
+⚠️ Uma vez adotado, o método deve ser usado **consistentemente**, para comparabilidade intertemporal — mudanças exigem documentação e explicação dos efeitos.
+
+**Análise comparativa entre entidades:** quando a comparação incide sobre o objeto de custo **final**, recomenda-se **absorção integral (pleno)** — evita subestimar os insumos consumidos. Quando incide sobre objetos **intermediários**, o método fica a critério da entidade.
+
+#### Divulgação
+
+Recomendável relatório de custos em base regular, **periodicidade mínima anual**. Os relatórios devem vir acompanhados de **notas explicativas** sobre: o modelo de gerenciamento de custos (objetos, método, bases de mensuração), avaliação de fatores de desempenho, e predições de desempenho esperado.
+
+Relacionado: [[#- Regimes orçamentário e patrimonial\|Regimes Orçamentário e Patrimonial]], mesma lógica de regime de competência aplicada aos custos.
+
 
 # Bloco C:
 
@@ -252,6 +559,38 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 - [ ] status [dom:: 0] [peso:: 3]
 ## - PCASP e escrituração contábil pública
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** MCASP 11ª edição (STN), Parte IV — Plano de Contas Aplicado ao Setor Público.
+
+**Conceito:** estrutura básica da escrituração — relação padronizada de contas que permite registro sistematizado dos atos e fatos, e a elaboração de relatórios e demonstrações conforme a necessidade dos usuários.
+
+**Objetivos** (os testáveis): padronizar os registros das entidades públicas; **distinguir** os registros de natureza patrimonial, orçamentária e de controle; permitir a **consolidação nacional** das contas públicas; permitir a elaboração das DCASP, do RREO e do RGF; contribuir para a **transparência** da gestão fiscal.
+
+**Competência e alcance:** a **STN** é o órgão central que cria, altera, codifica e detalha as contas — atribuição da LRF. Uso **obrigatório** para toda a administração direta e indireta (inclusive empresas estatais **dependentes**); **facultativo** para as demais. Atualizado **anualmente**.
+
+#### As 3 naturezas de informação e as 8 classes
+
+<mark style="background:#fff88f">Esta segregação é o próprio motivo de existir do PCASP — é ela que impede que um lançamento orçamentário "contamine" o patrimonial, e vice-versa.</mark>
+
+| Natureza | Classes |
+| --- | --- |
+| **Patrimonial** | 1. Ativo · 2. Passivo · 3. VPD · 4. VPA |
+| **Orçamentária** | 5. Controles da Aprovação do Planejamento e Orçamento · 6. Controles da Execução do Planejamento e Orçamento |
+| **Controle** | 7. Controles Devedores · 8. Controles Credores |
+
+⚠️ É por isso que os passivos e ativos contingentes — [[#- Provisões, passivos e ativos contingentes\|vistos acima]] — entram nas **classes 7 e 8** (controle), nunca nas classes 1/2 (patrimonial): eles não satisfazem os critérios de reconhecimento patrimonial.
+
+#### Código da conta — 9 dígitos, 7 níveis
+
+```
+X . X . X . X . X . XX . XX
+1 Classe · 2 Grupo · 3 Subgrupo · 4 Título · 5 Subtítulo · 6 Item (2díg) · 7 Subitem (2díg)
+```
+
+Exemplo já usado nos lançamentos desta nota: `2.x.7.x.x.xx.xx` (Provisões, classe 2 = Passivo) e `3.9.7.x.x.xx.xx` (VPD de Constituição de Provisões, classe 3 = VPD).
+
+Escrituração: [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Balancete, Atos e Fatos;\|comparar com a Lei 6.404 privada]] — aqui não se trata de livros comerciais, mas do mesmo princípio de registro padronizado e sistemático.
+
 ## - NBC TSP 16 e 17
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -261,19 +600,123 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Balanço Orçamentário
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** MCASP 11ª edição (STN), Parte V — Demonstrações Contábeis Aplicadas ao Setor Público.
+
+**Base legal:** Lei 4.320/1964, art. 102 — demonstra receitas e despesas **previstas em confronto com as realizadas**. NBC TSP 13 exige essa comparação nas DCs de quem publica orçamento aprovado.
+
+**Composto por três quadros:**
+1. **Quadro Principal** — receitas e despesas previstas × realizadas.
+2. **Quadro da Execução de Restos a Pagar Não Processados**.
+3. **Quadro da Execução de Restos a Pagar Processados**.
+
+**Quadro Principal:** receitas por **categoria econômica e origem** (previsão inicial, atualizada, realizada, saldo) e despesas por **categoria econômica e grupo de natureza** (dotação inicial, atualizada, empenhada, liquidada, paga, saldo). Despesa também recebe classificação **funcional**, complementar à por natureza. Receitas entram pelos valores **líquidos** de deduções (restituições, descontos, Fundeb, repartição tributária).
+
+**Fonte no PCASP:** Classe 5 (Orçamento Aprovado), Grupo 2 + Classe 6 (Execução do Orçamento), Grupo 2 — [[#- PCASP e escrituração contábil pública\|ver a estrutura de classes]].
+
+#### O desequilíbrio que a FCC gosta de explorar
+
+<mark style="background:#fff88f">Previsão atualizada da receita pode divergir da dotação atualizada da despesa — sem que isso signifique erro.</mark> Duas causas:
+
+- **Superávit financeiro** de exercícios anteriores usado para abrir créditos adicionais: não é receita do exercício de referência (já foi receita no exercício anterior), mas **é fonte de recursos disponível** — as despesas pagas com ele **são** despesas do exercício atual.
+- **Reabertura de créditos adicionais** (especiais/extraordinários autorizados nos últimos 4 meses do ano anterior): aumentam a despesa fixada **sem** nova arrecadação correspondente.
+
+Ambos aparecem no campo **Saldos de Exercícios Anteriores**. Para verificar o equilíbrio sem afetar o resultado orçamentário: soma-se **Total + Saldos de Exercícios Anteriores** (coluna Previsão Atualizada) e compara-se com o total da **Dotação Atualizada**.
+
+#### Restos a pagar — os dois quadros
+
+- **Não processados:** inscritos até o exercício anterior, ainda em suas fases de execução. Se **liquidados** em exercício anterior ao de referência, migram para o quadro de processados.
+- **Processados:** já passaram pela liquidação — por isso **não** têm coluna "Liquidados".
+
+#### Notas explicativas mínimas
+
+Regime orçamentário e critério de classificação; período do orçamento; entidades abrangidas; despesas por tipo de crédito (inicial/suplementar/especial/extraordinário); uso do superávit financeiro e reabertura de créditos e seus efeitos no resultado orçamentário.
+
 ## - Balanço Financeiro
 - [ ] status [dom:: 0] [peso:: 3]
 ## - BP
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP 11 — Apresentação das Demonstrações Contábeis, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018).
+
+**Tempestividade:** a entidade deve estar **pronta para divulgar em até 6 meses** da data-base. Complexidade das operações **não justifica** atraso além do prazo — só legislação específica pode dilatar.
+
+#### Três bases de apresentação de ativos e passivos
+
+| Base | Quando |
+| --- | --- |
+| **Regra:** circulante × não circulante | padrão — grupos de contas separados |
+| **Exceção 1:** por liquidez | quando proporcionar informação mais fidedigna e relevante — **todos** os itens seguem essa base |
+| **Exceção 2:** base mista | alguns itens por circulante/não circulante, outros por liquidez — quando a entidade tem operações muito diversas |
+
+<mark style="background:#fff88f">Mesma lógica do [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|BP privado]], mas a NBC TSP 11 formaliza a base mista como opção explícita de terceira via — o CPC não trata isso como regra própria.</mark>
+
+**Ciclo operacional:** quando não claramente identificável, presume-se **12 meses**.
+
+**Critérios de classificação como circulante** (ativo ou passivo, qualquer um basta):
+- realização/exigência no ciclo operacional normal;
+- mantido essencialmente para **negociação**;
+- realização/exigência em até **12 meses** da data das DCs;
+- ativo é caixa/equivalente (salvo restrição de uso por ≥12 meses); ou, para passivo, a entidade **não tem direito incondicional** de diferir a liquidação por ≥12 meses.
+
+Tudo o que não se enquadra é **não circulante**.
+
+#### Itens mínimos do Balanço Patrimonial (NBC TSP 11)
+
+Imobilizado · propriedade para investimento · intangível · ativos financeiros · investimentos por equivalência patrimonial · estoques · valores a receber de transação **sem** contraprestação (impostos, transferências) · contas a receber de transação **com** contraprestação · caixa e equivalentes · tributos e transferências a pagar · contas a pagar de transação com contraprestação · provisões · passivos financeiros · participação de não controladores (destacada no PL) · patrimônio líquido atribuível à controladora.
+
+⚠️ A norma **não determina ordem nem formato** de apresentação das contas — só o conteúdo mínimo.
+
 ## - DVP
 - [ ] status [dom:: 0] [peso:: 3]
 ## - DFC
 - [ ] status [dom:: 0] [peso:: 3]
 
-> [!warning] Lacuna de lastro — sem fonte licenciada
-> Mesma lacuna que em [[#- Depreciação\|Depreciação]] acima: nenhum material de CASP no vault cobre a DFC pública. A DFC privada, já escrita em [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|Avançada (CPC 03)]], não serve de lastro — a pública usa as **mesmas três atividades (FCO/FCI/FCF)**, mas classificadas por **natureza orçamentária** (receitas e despesas correntes/de capital), o que muda o que cai em cada grupo.
->
-> Precisa vir da NBC TSP ou do MCASP (STN). `dom` aqui não deve passar de 0 até esse material chegar.
+**Fonte:** NBC TSP 12 — Demonstração dos Fluxos de Caixa, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018).
+
+> [!info]- Correção de uma suposição anterior
+> O callout de lacuna que existia aqui apostava que a DFC pública seria classificada por "natureza orçamentária" (corrente/capital). **Errado** — conferido contra a NBC TSP 12: a estrutura é a **mesma** da privada, três atividades (operacional/investimento/financiamento). O que muda são os itens de linha, típicos do setor público (impostos, transferências, dotações).
+
+<mark style="background:#fff88f">Estrutura igual à [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|DFC privada (CPC 03)]] — mesmas três atividades, mesmos dois métodos. O que muda são os itens de linha, típicos do setor público.</mark>
+
+**Definições:** Caixa = numerário em espécie + depósitos bancários disponíveis. Equivalentes de caixa = aplicações de curto prazo, alta liquidez, conversibilidade em valor conhecido, risco insignificante.
+
+⚠️ Uma única transação pode se dividir entre atividades — no pagamento de empréstimo, **juros** classificam como operacional, **principal** como financiamento.
+
+#### Atividades operacionais
+
+- (+) impostos, taxas, contribuições, multas
+- (+) venda de mercadorias e prestação de serviços
+- (+) **concessões, transferências e outras dotações/autorizações orçamentárias**
+- (+) royalties, honorários, comissões
+- (−) pagamentos a outras entidades públicas para financiar operações (**não** inclui empréstimo)
+- (−) fornecedores, empregados
+- (−) tributos sobre patrimônio/renda, quando aplicável à atividade operacional
+
+#### Atividades de investimento
+
+- (+) venda de imobilizado, intangível, outros ativos de longo prazo
+- (+) venda de instrumentos patrimoniais ou de dívida
+- (+) liquidação de adiantamentos ou amortização de empréstimos **concedidos**
+- (−) aquisição de imobilizado, intangível, outros ativos de longo prazo
+- (−) aquisição de instrumentos patrimoniais ou de dívida de outras entidades
+- (−) adiantamentos e empréstimos **concedidos** a terceiros (exceto os feitos por instituição financeira pública)
+
+#### Atividades de financiamento
+
+- (+) emissão de debêntures, empréstimos contraídos, notas promissórias, hipotecas
+- (−) amortização de empréstimos e financiamentos contraídos
+- (−) redução do passivo de arrendamento mercantil financeiro (pelo arrendatário)
+
+#### Métodos
+
+**Direto:** informa as principais classes de recebimentos e pagamentos **brutos**. A NBC TSP 12 **incentiva** esse método para as atividades operacionais.
+
+**Indireto:** ajusta o resultado do período pelos efeitos de itens sem efeito caixa, diferimentos/apropriações por competência, e itens de receita/despesa associados a investimento/financiamento.
+
+⚠️ A diferença entre os métodos está **só** nas atividades operacionais — investimento e financiamento seguem o mesmo raciocínio nos dois. Quem usa o direto é **incentivado** (não obrigado, diferente da regra privada) a apresentar também a conciliação com o resultado das atividades usuais.
+
+**Transações sem efeito caixa** (troca de ativos, assunção direta de passivo, arrendamento financeiro, conversão de dívida em PL): **não entram** na DFC — só em notas explicativas.
 
 ## - DMPL
 - [ ] status [dom:: 0] [peso:: 3]

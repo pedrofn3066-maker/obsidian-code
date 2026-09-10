@@ -211,8 +211,8 @@ Nível P1: índices de liquidez, endividamento, rentabilidade e atividade; anál
 Nível P1: a P1 cobra CASP em **noções**, junto com a Geral — daí o bloco `Cont. Geral e Pública`. A profundidade é [[P2 - CASP]], que tem checklist próprio de 12 tópicos.
 
 O que é exclusivo do setor público e não tem contrapartida privada:
-[[P2 - CASP#- NBC TSP 34\|NBC TSP 34]] (10,9%, o maior peso de lá) · [[P2 - CASP#- PCASP e escrituração contábil pública\|PCASP]] · [[P2 - CASP#- Balanço Orçamentário\|Balanço Orçamentário]] · [[P2 - CASP#- DVP\|DVP]] · [[P2 - CASP#- Regimes orçamentário e patrimonial\|regimes orçamentário e patrimonial]] — este último é o único bloco do CASP com conteúdo real.
+[[P2 - CASP#- NBC TSP 34\|NBC TSP 34]] (10,9%, o maior peso de lá) · [[P2 - CASP#- PCASP e escrituração contábil pública\|PCASP]] · [[P2 - CASP#- Balanço Orçamentário\|Balanço Orçamentário]] · [[P2 - CASP#- Regimes orçamentário e patrimonial\|regimes orçamentário e patrimonial]] · [[P2 - CASP#- Patrimônio público\|Patrimônio Público]].
 
-⚠️ Quase todo o CASP está vazio. Ver [[MOC - Contabilidades#CASP — o ângulo do setor público\|o mapa]].
+Os 12 tópicos do checklist do CASP têm conteúdo desde 2026-09-10. Ver [[MOC - Contabilidades#CASP — o ângulo do setor público\|o mapa]] para a tabela completa e as fontes usadas.
 
 
