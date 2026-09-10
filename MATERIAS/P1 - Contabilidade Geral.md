@@ -135,7 +135,7 @@ Nível P1: identificar em qual demonstração cada evento aparece, e as três at
 
 | | Onde | Estado |
 | --- | --- | --- |
-| DFC | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|Avançada]] | só o conceito de equivalente de caixa (3 meses) |
+| DFC | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|Avançada]] | as três atividades, direto × indireto |
 | DVA | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Valor Adicionado (CPC 09);\|Avançada]] | estrutura completa, receitas → distribuição |
 | DMPL | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Mudança do Patrimônio Líquido (DMPL);\|Avançada]] | o que altera o saldo total do PL × o que só move de conta |
 | DFC pública | [[P2 - CASP#- DFC\|CASP]] | <mark style="background:#ffb8b8">vazio</mark> |
@@ -191,7 +191,7 @@ Nível P1: separar **provisão** (passivo de prazo ou valor incertos) de **reser
 | Reservas de capital | [[P2 - Contabilidade Avançada e de Custos#- Reservas de Capital\|Avançada]] | RAEA, PAPB, PABS, LVAT |
 | Provisões públicas | [[P2 - CASP#- Provisões, passivos e ativos contingentes\|CASP]] | <mark style="background:#ffb8b8">vazio</mark> |
 
-O CPC 25, as reservas e agora DVA e DMPL foram preenchidos em 2026-09-10. Deste tópico, resta apenas a **DFC** — só o conceito de equivalente de caixa, sem as três atividades.
+O CPC 25, as reservas, DVA, DMPL e agora a DFC foram preenchidos em 2026-09-10. **Todo este tópico tem conteúdo na Avançada** — falta só a ótica pública, em [[P2 - CASP#- DFC|CASP]].
 
 
 ## Análise das demonstrações

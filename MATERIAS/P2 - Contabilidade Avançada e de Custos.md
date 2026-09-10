@@ -1777,6 +1777,72 @@ Os componentes dos outros resultados abrangentes incluem:
 - [ ] status [dom:: 0] [peso:: 3]
 
 Os equivalentes de caixa são mantidos com a finalidade de atender a compromissos de caixa de curto prazo e não para investimento ou outros fins. Para que um investimento se qualifique como equivalente de caixa, ele precisa ter conversibilidade imediata em um montante conhecido de caixa e estar sujeito a um insignificante risco de mudança de valor. **Portanto, um investimento normalmente se qualifica como equivalente de caixa somente quando tem vencimento de curto prazo, por exemplo, três meses ou menos, a contar da data de aquisição.**
+
+**Obrigatoriedade:** todas as companhias **abertas**; companhias **fechadas** com PL > R$ 2 milhões na data do balanço.
+
+**Caixa** = numerário em espécie + depósitos bancários disponíveis (BCM). Moeda estrangeira converte pelo câmbio na data da **ocorrência** do fluxo.
+
+⚠️ **Empréstimo por cheque especial** entra como **equivalente de caixa**, apesar de ser passivo circulante — e por isso aparece no FCF (financiamento), não como dívida comum.
+
+#### As três atividades
+
+```
+FC = FCO + FCI + FCF
+```
+
+**FCO — Operacionais**, ligadas à atividade **principal** da empresa:
+- (+) recebimento de vendas, clientes, royalties, honorários, comissões, aluguéis
+- (+) duplicatas descontadas — no **momento do desconto**, não do pagamento pelo cliente
+- (−) pagamento a fornecedores e compras
+- (−) pagamento de despesas operacionais
+- (±) tributos, principalmente IRPJ/CSLL
+- (±) juros recebidos/pagos, dividendos/JCP **recebidos**
+
+⚠️ Dividendos a pagar **sem saldo no ano anterior não entram** no ajuste do BP.
+
+**FCI — Investimento**, aquisição/alienação **à vista** de itens do ANC (investimentos, imobilizado, intangível) e do ARLP que não sejam atividade usual da companhia:
+- (+) recebimento de principal de empréstimo **concedido** (amortização recebida)
+- (−) empréstimos **concedidos**
+- (±) compra/venda de ações ou dívida de **outras** companhias
+- (±) recebimento/pagamento na compra e venda de imobilizado, intangível e outros ativos de longo prazo
+
+**FCF — Financiamento**, recursos recebidos de **terceiros** (PC/PNC) ou dos **sócios** (PL):
+- (+) empréstimos obtidos — inclusive entre empresas do mesmo grupo
+- (+) integralização de Capital Social **em dinheiro**
+- (−) pagamento de principal de empréstimo **tomado**
+- (±) compra/venda de ações da **própria** empresa
+- (−) pagamento de dividendos/JCP
+
+#### Método direto × indireto
+
+O **resultado final é sempre o mesmo** — só o **FCO** muda de apresentação entre os dois métodos.
+
+**Direto** — lista todos os recebimentos e pagamentos de caixa diretamente.
+- ↑Ativo ou ↓Passivo/PL = **aplicação** de recursos = consumo de caixa
+- ↓Ativo ou ↑Passivo/PL = **origem** de recursos = geração de caixa
+- Sem variação no BP, o valor pago/recebido é o mesmo da DRE.
+- ⚠️ Valor das **compras ≠ valor pago** pelas compras — as compras vêm do CMV (EI + CL − EF); Fornecedores e Adiantamento a Fornecedores é que mostram o que foi efetivamente pago.
+- Abater das despesas totais o que **não tem efeito caixa**: depreciação, amortização, PECLD, variação cambial passiva, AAP.
+
+**Indireto (reconciliação)** — parte do **Resultado Líquido do Exercício** e ajusta:
+
+```
+(+) RLE (da DRE)
+(+) despesas SEM efeito caixa: depreciação/amortização/exaustão, MEP negativo,
+    PECLD constituída, prejuízo na alienação de imobilizado/intangível/investimento,
+    variação cambial passiva, ajuste a valor justo de PIV
+(−) receitas SEM efeito caixa: MEP positivo, variação cambial ativa,
+    alienação de imobilizado/intangível/investimento
+= RESULTADO LÍQUIDO AJUSTADO PARA DFC
+(+) origens do FCO: ↓Ativo ou ↑Passivo
+(−) aplicações do FCO: ↑Ativo ou ↓Passivo
+= FCO
+```
+
+⚠️ **Só o método direto** exige, obrigatoriamente, a conciliação entre lucro líquido e o FCO — apresentar o direto sem essa conciliação é erro.
+
+A definição de equivalentes de caixa está no parágrafo acima. Relacionado: CMV em [[#- Estoques (CPC 16)\|Estoques]]; MEP em [[#- Investimentos MEP (CPC 18);\|Investimentos]].
+
 ## - Arrendamento (CPC 06);
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Partes Relacionadas (CPC 05);
