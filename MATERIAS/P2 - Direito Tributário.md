@@ -415,6 +415,19 @@ Segundo a **Súmula 392 do STJ**: _“a Fazenda Pública pode substituir a certi
 
 🚨 A substituição da CDA só é admitida para corrigir erro material ou formal, não sendo possível para alterar o próprio lançamento tributário.
 
+
+📊 O que **pode** ser corrigido na CDA (erro formal/material) × o que **não pode** (vício substancial):
+
+| Pode corrigir | Não pode corrigir |
+| --- | --- |
+| Erros de digitação, grafia de nomes, pequenos lapsos formais | Modificação do **sujeito passivo** da execução (Súmula 392/STJ) |
+| Correções de cálculo aritmético simples | Inclusão, complementação ou modificação do **fundamento legal** do tributo (Tema 1350/STJ) |
+| Falhas que não alteram o próprio lançamento originário | Alteração do **fato gerador** ou modificação profunda da natureza da exação (Tema 166/STJ) |
+
+🚨 O **Tema 166** (REsp 1.045.472, Recursos Repetitivos) fixou que mudar o fundamento legal de um imposto para outro **não é correção formal** — exige anulação da inscrição e novo lançamento administrativo, extinguindo a execução em curso. O **Tema 1350** (STJ, out/2025) reafirmou: nenhuma emenda corrige o fundamento legal do débito.
+
+Base legal: CTN art. 203 (nulidade sanável até decisão de 1ª instância) e LEF art. 2º, § 8º (CDA emendável/substituível até decisão de 1ª instância — jurisprudência estende até a sentença dos embargos).
+
 ### 1.3. Inscrição em Dívida Ativa e Suspensão da Prescrição
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -447,6 +460,29 @@ São **legitimados ativamente para promover a execução fiscal:**
     
 
 ⚠️ A **OAB**, por ser entidade sui generis e não um conselho de fiscalização profissional propriamente dito, **não tem legitimidade ativa para ajuizar execução fiscal**.
+
+
+#### 2.1.1. Legitimidade Passiva
+- [ ] status [dom:: 0] [peso:: 3]
+
+A **execução fiscal pode ser promovida contra** (art. 4º, caput, LEF):
+
+- O **devedor**
+    
+- O **fiador**
+    
+- O **espólio**
+    
+- A **massa**
+    
+- O **responsável**, nos termos da lei, por dívidas tributárias ou não, de pessoas físicas ou jurídicas de direito privado
+    
+- Os **sucessores** a qualquer título
+    
+
+💡 À Dívida Ativa da Fazenda Pública, de qualquer natureza, aplicam-se as normas de **responsabilidade da legislação tributária, civil e comercial** (art. 4º, § 2º, LEF).
+
+⚠️ Ressalvado o art. 31 da LEF, o síndico, o comissário, o liquidante, o inventariante e o administrador — nos casos de falência, concordata, liquidação, inventário, insolvência ou concurso de credores — respondem **solidariamente** pelo valor dos bens administrados se, **antes de garantidos os créditos da Fazenda Pública**, os alienarem ou derem em garantia (art. 4º, § 1º, LEF).
 
 ### 2.2. Características da Execução Fiscal
 - [ ] status [dom:: 0] [peso:: 3]
@@ -491,6 +527,9 @@ Para **promover a ação de execução fiscal**, são necessários **dois requis
     
 - **Inscrição em dívida ativa** (título executivo)
     
+
+
+🚨 O **interesse de agir não se presume ausente** só pelo valor diminuto da execução — a arrecadação tributária sustenta o financiamento do Estado, e lei que autoriza a não inscrição ou o não ajuizamento de débitos de pequeno valor não pode ser aplicada a Município, sob pena de violar sua competência tributária. (STF, RE 591033, Rel. Min. Ellen Gracie, Repercussão Geral)
 
 ### 2.5. Procedimento da Execução Fiscal
 - [ ] status [dom:: 0] [peso:: 3]
@@ -542,6 +581,11 @@ A **citação** do devedor deverá ocorrer nas seguintes **modalidades** (art. 8
     
 3. **Edital** (como última alternativa)
     
+
+    
+4. **Prazos da citação por correio**: considera-se feita na data da entrega da carta no endereço do executado ou, se essa data for omitida, **10 dias** após a entrega à agência postal
+    
+5. **Edital**: afixado na sede do Juízo e publicado **uma única vez** no órgão oficial, com prazo de **30 dias**
 
 #### Jurisprudência ⚖️
 - [ ] status [dom:: 0] [peso:: 3]
@@ -610,6 +654,18 @@ Com o arquivamento, retoma-se a contagem do prazo prescricional, findo o qual o 
 - [ ] status [dom:: 0] [peso:: 3]
 
 > Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente. (Súmula 314 do STJ)
+
+#### 2.5.6. Adjudicação de Bens
+- [ ] status [dom:: 0] [peso:: 3]
+
+A **Fazenda Pública pode adjudicar os bens penhorados** (art. 24 da LEF):
+
+- **Antes do leilão**, pelo preço da avaliação, se a execução não for embargada ou se rejeitados os embargos
+    
+- **Findo o leilão**: pelo preço da avaliação, se não houver licitante; ou, havendo licitantes, com preferência em igualdade de condições com a melhor oferta, no prazo de **30 dias**
+    
+
+⚠️ Se o preço da avaliação ou o valor da melhor oferta for **superior** ao crédito da Fazenda Pública, a adjudicação só será deferida se a **diferença for depositada** pela exequente, à ordem do Juízo, em até 30 dias.
 
 ### 2.6. Penhora Online na Execução Fiscal
 - [ ] status [dom:: 0] [peso:: 3]
@@ -707,6 +763,8 @@ A **exceção de pré-executividade** é um mecanismo de defesa utilizado pelo e
 - [ ] status [dom:: 0] [peso:: 3]
 
 > A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória. (Súmula 393 do STJ)
+
+> Não cabe exceção de pré-executividade em execução fiscal promovida contra sócio que figura como responsável na Certidão de Dívida Ativa (CDA). (STJ, Tema 108 dos Recursos Repetitivos)
 
 ### 4.2. Processamento e Recursos
 - [ ] status [dom:: 0] [peso:: 3]
