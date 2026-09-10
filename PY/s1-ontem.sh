@@ -9,12 +9,14 @@ cd "$(dirname "$0")/.." || exit 1
 if [ -n "$1" ]; then FORMATO="-p"; else FORMATO="--name-status"; fi
 
 # core.quotepath=false: sem isso o git mostra "L\303\255ngua" no lugar de "Língua".
-# Os pathspecs no fim cortam o ruído de .obsidian/ e Z IMG/.
+# Os pathspecs no fim cortam o ruído de .obsidian/, Z IMG/ e Questoes/Paineis —
+# este último espelha o -"Questoes/Paineis" do bloco 1 (Dataview), que já não
+# conta painel como "onde você mexeu".
 git -c core.quotepath=false log \
   --since=yesterday.midnight --until=today.midnight \
   "$FORMATO" --format="%n>>> %ad · %s" --date=format:"%H:%M" \
-  -- MATERIAS Questoes Erradas
+  -- MATERIAS Questoes Erradas ':!Questoes/Paineis'
 
 echo
 echo "--- ainda não commitado (não aparece acima) ---"
-git -c core.quotepath=false status --short -- MATERIAS Questoes Erradas
+git -c core.quotepath=false status --short -- MATERIAS Questoes Erradas ':!Questoes/Paineis'
