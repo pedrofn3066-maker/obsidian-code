@@ -68,16 +68,28 @@ O Bloco C foi preenchido em 2026-09-09: [[P2 - Contabilidade Avançada e de Cust
 
 ## CASP — o ângulo do setor público
 
-[[P2 - CASP]] tem checklist próprio e trata do mesmo objeto por outra ótica. Os quatro tópicos que existem nos dois lugares:
+[[P2 - CASP]] tem checklist próprio de 12 tópicos e trata o mesmo objeto por outra ótica. Conferido linha a linha em 2026-09-10: **só um dos 12 tem conteúdo real.**
 
-| Tópico | Ótica privada | Ótica pública |
+| Tópico | % | Estado |
 | --- | --- | --- |
-| Provisões e contingências | Avançada (CPC 25) | [[P2 - CASP#- Provisões, passivos e ativos contingentes\|CASP]] |
-| DFC | Avançada (CPC 03) | [[P2 - CASP#- DFC\|CASP]] |
-| Balanço Patrimonial | Avançada | [[P2 - CASP#- BP\|CASP]] |
-| Depreciação e Redução ao Valor Recuperável | Avançada (CPC 27, CPC 01) | [[P2 - CASP#- Depreciação\|CASP]] · [[P2 - CASP#- Redução ao valor recuperável\|CASP]] |
+| Regimes Orçamentário e Patrimonial e Exercício Financeiro | 4,9% | ✅ escrito — [[P2 - CASP#- Regimes orçamentário e patrimonial\|regimes]], com o bônus de [[P2 - CASP#- Variação patrimonial\|Variação Patrimonial (VPA/VPD)]] logo ao lado |
+| Demonstração de Fluxo de Caixa | 5,6% | <mark style="background:#fff88f">gap marcado</mark> — [[P2 - CASP#- DFC\|callout]] explica o que falta, sem lastro |
+| Depreciação, Amortização e Exaustão | 3,6% | <mark style="background:#fff88f">gap marcado</mark> — [[P2 - CASP#- Depreciação\|callout]] explica o que falta, sem lastro |
+| Conceitos, Objeto, Objetivos e Campo de Aplicação | 10,9% | <mark style="background:#ffb8b8">vazio</mark> — heading `NBC TSP - Estrutura Conceitual`. [[P2 - CASP#- Aspectos de CASP\|Aspectos de CASP]], fora do checklist, cobre parte adjacente (os três aspectos: orçamentário, patrimonial, fiscal) |
+| NBC TSP 34 — Custos no Setor Público | 10,9% | <mark style="background:#ffb8b8">vazio</mark> |
+| Provisões, Passivos e Ativos Contingentes | 6,3% | <mark style="background:#ffb8b8">vazio</mark> — ótica privada em [[P2 - Contabilidade Avançada e de Custos#- Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)\|Avançada]] |
+| Plano de Contas (PCASP) | 6,3% | <mark style="background:#ffb8b8">vazio</mark> |
+| Balanço Orçamentário | 6,3% | <mark style="background:#ffb8b8">vazio</mark> |
+| Redução ao Valor Recuperável | 4,0% | <mark style="background:#ffb8b8">vazio</mark> — ótica privada em [[P2 - Contabilidade Avançada e de Custos#- Redução ao Valor Recuperável (CPC 01);\|Avançada]] |
+| Balanço Patrimonial | 4,0% | <mark style="background:#ffb8b8">vazio</mark> — ótica privada em [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|Avançada]] |
+| Ativo Imobilizado | 3,6% | <mark style="background:#ffb8b8">vazio</mark> — ótica privada em [[P2 - Contabilidade Avançada e de Custos#- Imobilizado (CPC 27);\|Avançada]] |
+| Patrimônio Público | 3,3% | <mark style="background:#ffb8b8">vazio</mark> |
 
-Exclusivo do CASP, sem contrapartida privada: [[P2 - CASP#- NBC TSP 34\|NBC TSP 34 (custos no setor público)]] (10,9%), [[P2 - CASP#- PCASP e escrituração contábil pública\|PCASP]], [[P2 - CASP#- Balanço Orçamentário\|Balanço Orçamentário]], [[P2 - CASP#- DVP\|DVP]], [[P2 - CASP#- Regimes orçamentário e patrimonial\|regimes orçamentário e patrimonial]].
+<mark style="background:#fff88f">Nenhum dos nove tópicos vazios tem lastro licenciado no vault</mark> — o mesmo bloqueio documentado para Depreciação e DFC: o guia VINTEUM disponível é só de contabilidade societária, e não existe guia de NBC TSP/MCASP em `Downloads`. Escrever qualquer um deles exige material novo, não só tempo.
+
+Fora do checklist principal, com conteúdo: `Bloco A` também tem [[P2 - CASP#- Aspectos de CASP\|Aspectos de CASP]] (a tabela dos três aspectos — orçamentário, patrimonial, fiscal). Todo o `Bloco C` (Receita de Transações, Custos de empréstimos, Propriedade para investimento, Transação subsequente, Outras NBC TSPs, Procedimentos contábeis específicos, NBC TSP 16 e 17) e a maior parte do `Bloco D` (Balanço Financeiro, Introdução às DCs, DMPL, Notas explicativas) estão vazios e fora do checklist de 12 — não entram na conta acima, mas também não têm uma linha escrita.
+
+⚠️ **Vault hygiene:** [[P2 - CASP#- Regimes orçamentário e patrimonial\|Regimes orçamentário e patrimonial]] carrega uma imagem em base64 embutida de ~73 KB — infla o tamanho do arquivo e pode poluir buscas por texto na nota. Não é urgente, mas vale extrair para um arquivo de imagem se a nota crescer mais.
 
 ## O que as provas mostram
 
@@ -103,7 +115,6 @@ Levantados em 2026-09-10. Este mapa é curado, não calculado — confira antes 
 - **Depreciação e DFC no CASP não têm fonte licenciada** — nenhum material de NBC TSP/MCASP existe no vault; a Avançada não serve de lastro para a ótica pública. Marcados como gap explícito em 2026-09-10, `dom` travado em 0, em vez de escrever de memória. Precisam de um guia próprio.
 - **Um arquivo, duas disciplinas:** [[P2 - Contabilidade Avançada e de Custos]] tem 1432 linhas e duas tabelas VINTEUM. Dividir facilitaria navegação e faria os painéis medirem Avançada e Custos separadamente — hoje ambas caem no mesmo `bloco`.
 - **Duas lacunas de lastro:** hierarquia de níveis do CPC 46 e atos e fatos administrativos não existem no guia VINTEUM; precisam vir do TEC ou do Estratégia.
-- **Depreciação no CASP** continua vazia, embora a ótica privada já esteja escrita.
 
 ## Notas relacionadas
 
