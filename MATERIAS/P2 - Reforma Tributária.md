@@ -180,13 +180,10 @@ c) celebrar com órgãos ou entidades dos Poderes Executivos da União, dos Esta
 d) intervir, direta ou indiretamente, em favor de interesse privado perante órgão do <span class="g-comp">CGIBS</span> ou dos Poderes Executivos da União, dos Estados, do Distrito Federal e dos Municípios em que haja ocupado cargo, função ou emprego ou com o qual tenha estabelecido relacionamento relevante em razão do exercício do cargo, função ou emprego.
 § 6º O conflito de interesses de que tratam os §§ 3º e 5º deste artigo será precedido de manifestação de <span class="g-comp">comissão de ética</span> instituída nos termos do regimento interno, aplicando-se, <span class="g-cond">enquanto não instituído</span> pelo <span class="g-comp">CGIBS</span> procedimento próprio a ser observado, no que couber, o disposto na Lei nº 12.813, de 16 de maio de 2013, sem prejuízo da compensação remuneratória em caso de quarentena, equivalente à do cargo, função ou emprego que ocupava.
 
-## Conselho Superior do CGIBS: composição e eleições (art. 8º)
+## Conselho Superior do CGIBS: composição, eleições e competências (arts. 8º a 11)
 - [ ] status [dom:: 0] [peso:: 3]
 
 LC nº 227/26, Título I, Capítulo III, Seção II (Do Conselho Superior do CGIBS, arts. 8º a 11).
-
-> [!warning]- Pendência de autoria
-> O roteiro da captura de 11/09 (12:41) indica a leitura dos arts. 8º a 11 da Seção II, mas só o art. 8º veio colado. Faltam os arts. 9º a 11.
 
 Art. 8º O <span class="g-comp">Conselho Superior do CGIBS</span>, instância máxima de deliberação da entidade, tem a seguinte composição:
 I - <span class="g-num">27 (vinte e sete)</span> membros e respectivos suplentes, representantes de cada <span class="g-comp">Estado</span> e do <span class="g-comp">Distrito Federal</span>; e
@@ -215,3 +212,62 @@ V - caso nenhuma das chapas atinja o percentual de votos indicado no inciso IV d
 § 9º As eleições terão o acompanhamento, <span class="g-prazo">durante todo o processo eleitoral</span>, de <span class="g-num">4 (quatro)</span> membros do <span class="g-comp">Conselho Superior do CGIBS</span>, escolhidos pelos <span class="g-num">27 (vinte e sete)</span> representantes dos Municípios de que trata o inciso II do caput deste artigo.
 § 10. O regulamento eleitoral poderá definir outras atribuições dos membros de que trata o § 9º deste artigo para acompanhamento do processo eleitoral.
 § 11. O foro competente para solucionar as ações judiciais relativas aos processos eleitorais de que trata este artigo é o da <span class="g-comp">circunscrição judiciária de Brasília, no Distrito Federal</span>.
+
+Art. 9º Os membros do <span class="g-comp">Conselho Superior do CGIBS</span> serão escolhidos entre cidadãos de reputação ilibada e de notório conhecimento em administração tributária, observado o seguinte:
+I - a representação titular dos <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span> será exercida pelo ocupante, no momento da indicação, do cargo de Secretário de Fazenda, Finanças, Tributação ou cargo similar que corresponda à autoridade máxima da administração tributária dos referidos entes federativos; e
+II - a representação dos <span class="g-comp">Municípios</span> e do <span class="g-comp">Distrito Federal</span> será exercida por membro que, no momento da indicação, mantenha vínculo de subordinação hierárquica com a esfera federativa que o indicou e atenda, ao menos, a <span class="g-num">1 (um)</span> dos seguintes requisitos:
+a) ocupar o cargo de Secretário de Fazenda, Finanças, Tributação ou cargo similar que corresponda à autoridade máxima da administração tributária do <span class="g-comp">Município</span> ou do <span class="g-comp">Distrito Federal</span>;
+b) ter experiência de, no mínimo, <span class="g-prazo">10 (dez) anos</span> em cargo efetivo de autoridade fiscal integrante da administração tributária do <span class="g-comp">Município</span> ou do <span class="g-comp">Distrito Federal</span>;
+c) ter experiência de, no mínimo, <span class="g-prazo">4 (quatro) anos</span> como ocupante de cargos de direção, de chefia ou de assessoramento superiores na administração tributária do <span class="g-comp">Município</span> ou do <span class="g-comp">Distrito Federal</span>.
+§ 1º Os membros de que trata o caput deste artigo devem, cumulativamente, no momento da indicação:
+I - ter formação acadêmica em nível superior compatível com o cargo para o qual foram indicados;
+II - não se enquadrar nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990.
+§ 2º Os membros do <span class="g-comp">Conselho Superior do CGIBS</span> serão nomeados e investidos para o exercício da função pelo prazo de <span class="g-prazo">2 (dois) anos</span> e <span class="g-cond">somente</span> perderão o cargo em razão de:
+I - renúncia;
+II - condenação judicial transitada em julgado:
+a) a pena privativa de liberdade, nos termos do inciso I do caput do art. 92 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), ou de lei penal especial;
+b) por improbidade administrativa, nos termos dos incisos I e II do caput do art. 12 da Lei nº 8.429, de 2 de junho de 1992;
+III - pena demissória decorrente de processo administrativo disciplinar no ente de origem;
+IV - sanção disciplinar no âmbito do <span class="g-comp">CGIBS</span>, assegurados o contraditório e a ampla defesa, por:
+a) conflito de interesses, nos termos do § 3º do art. 7º desta Lei Complementar;
+b) falta grave, assim entendida aquela tipificada em resolução do <span class="g-comp">CGIBS</span> e que demonstre inequívoca inidoneidade para o exercício do mandato;
+V - perda de vínculo com a esfera federativa representada, na forma do regimento interno.
+§ 3º O suplente substituirá o titular em suas ausências e seus impedimentos, na forma do regimento interno.
+§ 4º Em caso de vacância, a função será exercida pelo respectivo suplente durante o período remanescente.
+§ 5º Na hipótese de morte ou perda do cargo do titular e dos respectivos suplentes, será, para o remanescente do período referido no § 2º deste artigo:
+I - realizada nova indicação pelo <span class="g-comp">Poder Executivo</span>, em se tratando de representantes dos <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span>;
+II - realizada nova eleição para a ocupação das respectivas vagas, no prazo previsto pelo regimento interno do <span class="g-comp">CGIBS</span>, no caso de representantes dos <span class="g-comp">Municípios</span> e do <span class="g-comp">Distrito Federal</span>.
+
+Art. 10. A aprovação das deliberações do <span class="g-comp">Conselho Superior do CGIBS</span> dar-se-á, cumulativamente, pelos votos:
+I - em relação ao conjunto dos <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span>:
+a) da <span class="g-num">maioria absoluta</span> de seus representantes; e
+b) de representantes de <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span> que correspondam a <span class="g-num">mais de 50% (cinquenta por cento)</span> da população do País; e
+II - em relação ao conjunto dos <span class="g-comp">Municípios</span> e do <span class="g-comp">Distrito Federal</span>, da <span class="g-num">maioria absoluta</span> de seus representantes.
+
+Art. 11. Compete ao <span class="g-comp">Conselho Superior do CGIBS</span>:
+I - eleger e destituir, a qualquer tempo, os titulares:
+a) da <span class="g-comp">Diretoria Executiva</span> e suas diretorias;
+b) da <span class="g-comp">Corregedoria</span>; e
+c) da <span class="g-comp">Auditoria Interna</span>;
+II - aprovar o regulamento único do IBS;
+III - aprovar o regimento interno do <span class="g-comp">CGIBS</span>;
+IV - aprovar ato normativo com vistas a uniformizar a interpretação e a aplicação da legislação do IBS;
+V - aprovar as propostas dos atos normativos conjuntos com o <span class="g-comp">Poder Executivo federal</span>, em matéria de interesse comum do IBS e da CBS;
+VI - propor o orçamento anual do <span class="g-comp">CGIBS</span>, para aprovação na forma dos §§ 2º a 9º do art. 47 desta Lei Complementar;
+VII - aprovar o plano de cargos e salários de seus empregados públicos, contratados sob regime celetista, mediante concurso público, observado o disposto no inciso XI do caput do art. 37 da Constituição Federal;
+VIII - dispor sobre vantagens remuneratórias ou indenizatórias aos membros do <span class="g-comp">Conselho Superior do CGIBS</span> e aos servidores de carreira cedidos ao <span class="g-comp">CGIBS</span>;
+IX - aprovar as contas relativas à execução contábil, financeira, orçamentária, operacional e patrimonial dos recursos próprios do <span class="g-comp">CGIBS</span>, bem como a prestação de contas relativa à gestão financeira dos recursos de terceiros sob sua guarda, pertencentes aos entes federativos e aos contribuintes do IBS;
+X - aprovar a metodologia e o cálculo da alíquota de referência para envio ao <span class="g-comp">Tribunal de Contas da União</span>;
+XI - divulgar as alíquotas do IBS relativas aos regimes específicos nas hipóteses previstas na Lei Complementar nº 214, de 16 de janeiro de 2025;
+XII - indicar representantes das carreiras das administrações tributárias e das <span class="g-comp">Procuradorias</span> dos <span class="g-comp">Estados</span>, do <span class="g-comp">Distrito Federal</span> e dos <span class="g-comp">Municípios</span> para atuarem, respectivamente, no <span class="g-comp">Comitê de Harmonização das Administrações Tributárias</span> e no <span class="g-comp">Fórum de Harmonização Jurídica das Procuradorias</span>;
+XIII - indicar representantes das carreiras das administrações tributárias para compor a <span class="g-comp">Comissão Tripartite</span> responsável pela análise dos projetos de reabilitação urbana de zonas históricas e de áreas críticas de recuperação e de reconversão urbanística dos <span class="g-comp">Municípios</span> ou do <span class="g-comp">Distrito Federal</span>;
+XIV - aprovar a avaliação quinquenal de que trata o inciso V do § 1º do art. 2º desta Lei Complementar;
+XV - aprovar a aplicação de sanção disciplinar ou o afastamento preventivo de empregado público;
+XVI - aprovar os planos elaborados pela <span class="g-comp">Diretoria Executiva</span> para o exercício das atividades sob sua responsabilidade, acompanhar a sua execução e avaliar os resultados alcançados, conforme periodicidade definida no regimento interno;
+XVII - aprovar a indicação de servidores a que se refere o inciso XVI do § 1º do art. 2º desta Lei Complementar para atuarem no <span class="g-comp">CGIBS</span>;
+XVIII - estabelecer diretrizes operacionais e regras para o registro e o controle administrativo das informações relativas às atividades sujeitas à tributação;
+XIX - estabelecer diretrizes relativas à cobrança a ser exercida pelos entes federativos, abrangendo as diversas modalidades de pagamento, parcelamento, autorregularização, protesto, arrolamento administrativo de bens, inscrição em cadastro de inadimplentes e de proteção ao crédito e tratamento de devedores contumazes;
+XX - estabelecer diretrizes para as atividades administrativas relacionadas às hipóteses de suspensão, de extinção e de exclusão do crédito tributário;
+XXI - avocar total ou parcialmente as competências da <span class="g-comp">Diretoria Executiva</span> e de suas diretorias, bem como rever as suas decisões; e
+XXII - deliberar sobre outras matérias relacionadas ao IBS e de harmonização com a CBS.
+Parágrafo único. O <span class="g-comp">Conselho Superior do CGIBS</span> reunir-se-á, ordinariamente, a cada <span class="g-prazo">3 (três) meses</span> e, extraordinariamente, nos termos do regimento interno.
