@@ -1,0 +1,87 @@
+/* Grifos semânticos da triagem (/triar-inbox) — quatro categorias de
+   trecho que a banca costuma trocar na alternativa errada, cada uma com
+   cor própria. Marcação: <span class="g-prazo|g-cond|g-comp|g-num">.
+
+   De propósito diferente do <mark style="background:…"> manual: fundo
+   pastel + sublinhado com traço próprio por categoria (prazo contínuo,
+   condição tracejado, competência pontilhado, número duplo), que separa
+   as categorias mesmo sem depender da cor. Dentro de um <mark> o fundo do
+   mark prevalece e o grifo fica só com o sublinhado.
+
+   Contagem e validação: python3 PY/grifos.py "MATERIAS/<nota>.md" */
+
+/* @settings
+
+name: Grifos da triagem
+id: grifos-triagem
+settings:
+    -
+        id: grifos-termico
+        title: Térmico — esconder categoria
+        description: Marcado = a categoria some da leitura (o texto fica, só perde a cor)
+        type: heading
+        level: 2
+        collapsed: false
+    -
+        id: grifos-sem-prazo
+        title: Esconder prazos
+        type: class-toggle
+    -
+        id: grifos-sem-cond
+        title: Esconder condições/ressalvas
+        type: class-toggle
+    -
+        id: grifos-sem-comp
+        title: Esconder competências
+        type: class-toggle
+    -
+        id: grifos-sem-num
+        title: Esconder números
+        type: class-toggle
+    -
+        id: grifos-sem-todos
+        title: Esconder todos (leitura limpa)
+        type: class-toggle
+
+*/
+
+body {
+  --g-prazo-bg: #d8e9cf;  --g-prazo-bd: #6f9a5e;
+  --g-cond-bg:  #d3deec;  --g-cond-bd:  #5b7fa8;
+  --g-comp-bg:  #f7e2a4;  --g-comp-bd:  #c4961a;
+  --g-num-bg:   #e8d7ec;  --g-num-bd:   #9a6aa8;
+}
+.theme-dark {
+  --g-prazo-bg: rgba(125, 175, 105, 0.24);  --g-prazo-bd: #8fbf7c;
+  --g-cond-bg:  rgba(100, 145, 200, 0.24);  --g-cond-bd:  #82a8d6;
+  --g-comp-bg:  rgba(220, 175, 50, 0.22);   --g-comp-bd:  #dcb44a;
+  --g-num-bg:   rgba(175, 125, 190, 0.26);  --g-num-bd:   #bf93cc;
+}
+
+.g-prazo { --g-bg: var(--g-prazo-bg); --g-bd: var(--g-prazo-bd); --g-traco: solid; }
+.g-cond  { --g-bg: var(--g-cond-bg);  --g-bd: var(--g-cond-bd);  --g-traco: dashed; }
+.g-comp  { --g-bg: var(--g-comp-bg);  --g-bd: var(--g-comp-bd);  --g-traco: dotted; }
+.g-num   { --g-bg: var(--g-num-bg);   --g-bd: var(--g-num-bd);   --g-traco: double; --g-esp: 3px; }
+
+.g-prazo, .g-cond, .g-comp, .g-num {
+  background: var(--g-bg);
+  border-bottom: var(--g-esp, 2px) var(--g-traco) var(--g-bd);
+  border-radius: 3px 3px 0 0;
+  padding: 0 0.12em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+mark .g-prazo, mark .g-cond, mark .g-comp, mark .g-num {
+  background: transparent;
+}
+
+body.grifos-sem-prazo .g-prazo,
+body.grifos-sem-cond  .g-cond,
+body.grifos-sem-comp  .g-comp,
+body.grifos-sem-num   .g-num,
+body.grifos-sem-todos :is(.g-prazo, .g-cond, .g-comp, .g-num) {
+  background: transparent;
+  border-bottom-color: transparent;
+  padding: 0;
+}
