@@ -45,7 +45,7 @@ Respeite o registro da nota de destino: denso, direto, `<mark>` para o núcleo d
 
 Com o texto já no registro da nota (depois do `voz-autoral`), releia o trecho que vai entrar e marque quatro tipos de dado com `<span class="g-…">`. É o que a banca troca na alternativa errada. As cores vêm de `.obsidian/snippets/grifos.css`: fundo pastel + traço próprio por categoria, diferente do `<mark>` manual. O Pedro esconde cada categoria em *Style Settings → Grifos da triagem*.
 
-| Classe | Categoria | Traço | O que grifar | Exemplo (LC 214, art. 16) |
+| Classe | Categoria | Traço | O que grifar | Exemplo (LC 227/26, art. 16) |
 | --- | --- | --- | --- | --- |
 | `g-prazo` | prazos | contínuo | a duração ou o termo, com a unidade | `<span class="g-prazo">2 (dois) anos</span>`, `<span class="g-prazo">12 (doze) meses</span>` |
 | `g-cond` | condições/ressalvas | tracejado | só a palavra-gatilho que proíbe, excepciona, restringe ou condiciona (vedado, ressalvado, somente, salvo, exceto, desde que) | `<span class="g-cond">É vedada</span>`, `<span class="g-cond">ressalvada</span>`, `<span class="g-cond">somente</span>` |
