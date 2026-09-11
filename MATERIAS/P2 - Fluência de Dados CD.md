@@ -240,8 +240,51 @@ O item está correto e faz uma interpretação perfeita dos coeficientes da equa
     - Portanto, espera-se um aumento de **8 sacas** na produção. A afirmação também está correta neste ponto
 
 
+## Detecção de Anomalias: tipos e classificação
+- [ ] status [dom:: 0] [peso:: 3]
+
+Duas categorias de anomalias, por origem: <mark style="background:#fff88f">não intencionais</mark> (desvio da norma por erro ou ruído na coleta — sensor defeituoso, erro humano) e <mark style="background:#fff88f">intencionais</mark> (desvio por ação ou evento real, ex.: pico de vendas em época festiva).
+
+Três subtipos, por escopo (podem ser intencionais ou não intencionais):
+- **Pontuais** (outliers globais) — ponto individual muito fora do restante do conjunto. Ex.: saque bancário muito acima do padrão do usuário.
+- **Contextuais** — não são outliers isolados, mas destoam dentro de um contexto específico (hora do dia, local). Ex.: pico de consumo de energia ao meio-dia, quando a casa costuma estar vazia.
+- **Coletivas** — um conjunto de instâncias que, juntas, destoam da norma, mesmo com cada instância parecendo normal isoladamente. Ex.: aumento simultâneo de tráfego de rede vindo de vários IPs.
+
+## Espaço Latente
+- [ ] status [dom:: 0] [peso:: 3]
+
+Representação abstrata e compactada dos dados, usada por algoritmos de aprendizado de máquina em vez das informações brutas e de alta dimensionalidade (ex.: cada pixel de uma imagem) — foca nas características essenciais, descobrindo padrões e relações ocultas.
+
+## LSTM (Long Short-Term Memory)
+- [ ] status [dom:: 0] [peso:: 3]
+
+Arquitetura de rede neural recorrente (RNN) que retém valores por intervalos arbitrários — adequada para classificar, processar e prever séries temporais com gaps de duração desconhecida. A insensibilidade ao comprimento do gap dá vantagem à LSTM sobre RNNs tradicionais ("vanilla"), Modelos Ocultos de Markov (MOM) e outros métodos de aprendizado de sequências.
 
 # Bloco D: PLN, IA e LLMs
+
+## Conceitos Iniciais e Gerais de IA
+- [ ] status [dom:: 0] [peso:: 3]
+
+<mark style="background:#fff88f">IA Fraca (Estreita)</mark>: modela a inteligência humana para tarefas específicas, sem habilidades cognitivas completas — opera só dentro de um conjunto de funções predefinidas, sem desviar do caminho programado. Ex.: assistentes de voz (Siri, Alexa) classificam dados e respondem consultas rapidamente, mas não realizam tarefas fora do escopo treinado.
+> [!warning]- Pendência de autoria
+> A captura original citava "8 exemplos práticos de IA fraca/estreita" mas só trouxe o primeiro (assistentes de voz). Completar com os outros 7 se for revisar o material de origem.
+
+<mark style="background:#fff88f">IA deve seguir as leis de proteção de dados do país onde for utilizada e comercializada</mark>, independentemente de onde foi desenvolvida ou fabricada — a legislação aplicável é a do local de uso, não a de origem.
+
+## IA Generativa: modelos de difusão
+- [ ] status [dom:: 0] [peso:: 3]
+
+Modelos generativos profundos: adicionam ruído gaussiano aos dados de treinamento (difusão direta) e depois invertem o processo, removendo o ruído (difusão reversa), para recuperar/gerar dados. O modelo aprende gradualmente a remover ruído, gerando novas imagens de alta qualidade a partir de sementes aleatórias.
+⚠️ Modelos de difusão não fazem classificação (tarefa tradicional de ML que atribui uma classe a um conjunto de dados) — pertencem ao âmbito da <mark style="background:#fff88f">IA generativa</mark>, focada em gerar dados novos a partir de ruído.
+> [!warning]- Pendência de autoria
+> A captura original termina cortada em "É um processo mais complexo, portanto" — sem concluir a frase.
+
+## Processamento de Linguagem Natural e LLMs
+- [ ] status [dom:: 0] [peso:: 3]
+
+LLMs avançaram o PLN e se tornaram acessíveis via interfaces como ChatGPT (GPT-3/GPT-4). Outros exemplos: Llama, e os codificadores bidirecionais BERT e RoBERTa.
+GPT-3 (OpenAI, 2020): 175 bilhões de parâmetros — ficou famoso por gerar texto preciso a partir de entradas no ChatGPT.
+Aplicações: responder perguntas, redigir textos, traduzir, resumir documentos, gerar código, chatbots e assistentes digitais — qualquer tarefa de geração ou compreensão de texto.
 
 # Bloco E: Power BI, AED, Ferramentas de BI e Visualização de Dados, Ferramentas de análise de dados e observabilidade
 
