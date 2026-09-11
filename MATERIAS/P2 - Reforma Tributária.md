@@ -152,7 +152,77 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 **Drawback**: as modalidades de isenção e restituição do drawback não se aplicam ao IBS e à CBS.
 
 > [!note] Nota
-> Os Blocos 5 a 9 (Regimes Diferenciados/Específicos, Administração do IBS/CBS, Imposto Seletivo, transição, etc. — ver tabela "📚Os Blocos são" no topo da nota) ainda não têm conteúdo próprio nesta nota, só a linha da tabela de blocos. Esse ponto do drawback ficou aqui em Bloco 4 por afinidade temática (importações/exportações), mas rigorosamente pertenceria a um Bloco 6/9 ainda não criado.
+> Os Blocos 6 a 9 (Regimes Diferenciados/Específicos, transição, etc. — ver tabela "📚Os Blocos são" no topo da nota) ainda não têm conteúdo próprio nesta nota, só a linha da tabela de blocos. Esse ponto do drawback ficou aqui em Bloco 4 por afinidade temática (importações/exportações), mas rigorosamente pertenceria a um Bloco 6/9 ainda não criado.
+
+# BLOCO 5 . LC 214: Administração do IBS e da CBS e Imposto Seletivo
+
+## Contencioso administrativo: Comitê de Harmonização e delegação do julgamento
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 214/2025, arts. 326 e ss. (contencioso administrativo do IBS/CBS).
+
+<mark style="background:#fff88f">Comitê de Harmonização das Administrações Tributárias</mark> e <mark style="background:#fff88f">Fórum de Harmonização Jurídica das Procuradorias</mark>: reuniões periódicas, quórum mínimo de <mark style="background:#fff88f">3/4 dos representantes</mark>; decisão por <mark style="background:#fff88f">unanimidade dos presentes</mark>, na forma do regimento.
+
+Convênio de delegação recíproca do julgamento do contencioso administrativo do lançamento de ofício do IBS e da CBS (art. 326): celebrado entre <mark style="background:#fff88f">Ministério da Fazenda e Comitê Gestor do IBS</mark>, limitado ao lançamento de ofício de <mark style="background:#fff88f">pequeno valor</mark>.
+⚠️ Banca troca os polos do convênio — não é entre RFB e administrações tributárias estaduais/municipais.
+
+## Fiscalização: omissão de receita e presunções (art. 335)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 214/2025, art. 335.
+
+<mark style="background:#fff88f">Caracteriza omissão de receita</mark> e ocorrência de operações sujeitas à incidência da CBS e do IBS:
+I - operação com bens materiais ou imateriais, inclusive direitos, ou com serviços sem emissão de documento fiscal ou com documento fiscal inidôneo;
+II - saldo credor na conta caixa, apresentado na escrituração ou apurado em procedimento fiscal;
+III - manutenção, no passivo, de obrigações já pagas ou cuja exigibilidade não seja comprovada;
+IV - falta de escrituração de pagamentos efetuados pela pessoa jurídica;
+V - ativo oculto, cujo registro não consta na contabilidade no período do procedimento fiscal;
+VI - falta de registro contábil de documento relativo a operações com bens ou serviços;
+VII - valores creditados em conta de depósito ou investimento sem comprovação da origem, mediante documentação idônea, pelo titular regularmente intimado;
+VIII - suprimento de caixa por administrador, sócio, titular ou acionista controlador (inclusive por terceiros) sem comprovação satisfatória de efetividade da entrega e origem dos recursos;
+IX - diferença apurada no controle quantitativo de entradas e saídas de bens/serviços em determinado período, considerados os saldos inicial e final;
+X - estoque avaliado em desacordo com a legislação tributária, para fins de inventário;
+XI - baixa de exigibilidades sem contrapartida de efetiva quitação, reversão de provisão, permuta de valores no passivo, ou conversão da obrigação em receita/transferência para o patrimônio líquido conforme normas contábeis;
+XII - valores recebidos pelo contribuinte, informados por instituições financeiras, administradoras de cartão, arranjos de pagamento, intermediação comercial virtual/e-commerce, condomínios comerciais ou outra PJ detentora de informações financeiras, superiores ao valor das operações declaradas;
+XIII - receita líquida inferior ao custo dos produtos/mercadorias vendidos ou dos serviços prestados no período analisado.
+
+§ 1º Valor da receita omitida (inclusive por presunções legais específicas) integra a BC para lançamento da CBS e do IBS — considerado também para tributos federais.
+§ 2º Ônus da prova de desconstituição das presunções é do <mark style="background:#fff88f">sujeito passivo</mark>.
+§ 3º Momento do fato gerador não identificável → presume-se ocorrido no último dia, na ordem: (I) período de apuração; (II) exercício; (III) período fiscalizado.
+§ 4º Local da operação não identificável → domicílio principal do sujeito passivo.
+
+## Imposto Seletivo: incidência única, fato gerador e base de cálculo
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 214/2025, arts. 412 e 415; EC nº 132/2023.
+
+IS incide <mark style="background:#fff88f">uma única vez</mark> sobre o bem ou serviço: veda aproveitamento de crédito de operações anteriores e geração de créditos para operações posteriores.
+⚠️ Ao contrário do ICMS e do IPI, o IS não opera na lógica débito/crédito.
+
+Fato gerador (art. 412) — ocorre no momento:
+I - primeiro fornecimento a qualquer título do bem (inclusive nos negócios do art. 4º, § 2º, I a VIII);
+II - arrematação em leilão público;
+III - transferência não onerosa de bem produzido;
+IV - incorporação do bem ao ativo imobilizado pelo fabricante;
+V - extração de bem mineral;
+VI - consumo do bem pelo fabricante;
+VII - fornecimento ou pagamento do serviço, o que ocorrer primeiro; ou
+VIII - importação de bens e serviços.
+
+Base de cálculo (art. 415):
+- <mark style="background:#fff88f">Ad valorem</mark> → percentual sobre o valor do bem (ex.: 20% sobre cigarro). BC = valor integral cobrado na operação, incluindo: ajustes de valor; juros, multas, acréscimos e encargos; descontos sob condição; transporte cobrado como parte da operação (próprio fornecedor ou por conta e ordem); tributos e preços públicos/tarifas suportados pelo fornecedor (exceto os do art. 12, § 2º); demais importâncias cobradas, inclusive seguros e taxas. Conversão em moeda estrangeira pela taxa do BACEN.
+- <mark style="background:#fff88f">Ad rem</mark> → valor fixo por quantidade (ex.: R$ 2,00/litro de diesel); a lista de inclusões da BC ad valorem não se aplica, pois o cálculo é pela quantidade.
+
+IS <mark style="background:#fff88f">não integra sua própria BC</mark>, mas integra a BC do ICMS, ISS, IBS e CBS.
+Não integram a BC do IS: IBS e CBS; bonificações e descontos incondicionais que constem do documento fiscal e não dependam de evento posterior (exceto bonificação sujeita a alíquota específica); ICMS e ISS — até 31/12/2032.
+
+## Imposto Seletivo: tabaco em folhas tratadas (regime específico)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 214/2025, art. 429.
+
+Tabaco em folhas tratadas (total ou parcialmente destaladas, aparadas ou não, mesmo cortadas em forma regular ou picadas): só pode ser <mark style="background:#fff88f">vendido ou remetido a empresa industrializadora</mark> de charutos, cigarros, cigarrilhas ou de fumo desfiado, picado, migado ou em pó, em rolo ou em corda — ressalvada a exportação.
+Exceção: comercialização permitida entre estabelecimentos que exerçam atividade de <mark style="background:#fff88f">beneficiamento e acondicionamento por enfardamento</mark>.
 
 # LC 227/26 . Comitê Gestor do IBS (CGIBS)
 
