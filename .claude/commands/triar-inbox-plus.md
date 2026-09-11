@@ -1,6 +1,8 @@
 ---
-description: Lê Questoes/Capturas.md, distribui cada captura para a nota certa e limpa a nota
+description: Versão plus do triar-inbox para capturas de texto maiores (lei seca extensa) — distribui, limpa e aplica grifos semânticos (prazos/condições/competências/números)
 ---
+
+Use este comando (e não o `/triar-inbox` normal) quando a captura for um texto maior — trechos longos de lei seca, artigos com muitos incisos/parágrafos — onde vale a pena marcar semanticamente o que a banca costuma trocar. Pra capturas curtas, use `/triar-inbox`.
 
 Trie as capturas rápidas acumuladas em `Questoes/Capturas.md` e mova cada uma para onde ela pertence.
 
@@ -41,6 +43,27 @@ Essa tabela não é exaustiva — se `achar-heading.py` ou `indice-materia.py` m
 
 Respeite o registro da nota de destino: denso, direto, `<mark>` para o núcleo da regra, ⚠️ para pegadinha de banca.
 
+## Grifos semânticos (análise obrigatória antes de salvar)
+
+Com o texto já no registro da nota (depois do `voz-autoral`), releia o trecho que vai entrar e marque quatro tipos de dado com `<span class="g-…">`. É o que a banca troca na alternativa errada. As cores vêm de `.obsidian/snippets/grifos.css`: fundo pastel + traço próprio por categoria, diferente do `<mark>` manual. O Pedro esconde cada categoria em *Style Settings → Grifos da triagem*.
+
+| Classe | Categoria | Traço | O que grifar | Exemplo (LC 227/26, art. 16) |
+| --- | --- | --- | --- | --- |
+| `g-prazo` | prazos | contínuo | a duração ou o termo, com a unidade | `<span class="g-prazo">2 (dois) anos</span>`, `<span class="g-prazo">12 (doze) meses</span>` |
+| `g-cond` | condições/ressalvas | tracejado | só a palavra-gatilho que proíbe, excepciona, restringe ou condiciona (vedado, ressalvado, somente, salvo, exceto, desde que) | `<span class="g-cond">É vedada</span>`, `<span class="g-cond">ressalvada</span>`, `<span class="g-cond">somente</span>` |
+| `g-comp` | competências | pontilhado | ente, órgão ou colegiado, toda vez que aparece | `<span class="g-comp">Conselho Superior do CGIBS</span>`, `<span class="g-comp">Distrito Federal</span>` |
+| `g-num` | números | duplo | valor que a banca pode trocar: alíquota, percentual, limite, valor, fração, quórum | `<span class="g-num">maioria absoluta</span>`, `<span class="g-num">18%</span>` |
+
+- **Um trecho, uma categoria; nunca grifo dentro de grifo.** Número que mede tempo é `g-prazo` ("2 (dois) anos"), não `g-num`.
+- **Grife a expressão mínima**: `ressalvada`, não "ressalvada a hipótese de a eleição anterior…". O olho bate no gatilho e lê o resto da frase.
+- **Não é número:** numeração de artigo, inciso, parágrafo ou lei (`art. 9º`, `incisos I e II do § 2º`, `Lei 7.014/96`).
+- **Não é competência:** remissão a norma (`desta Lei Complementar`) nem cargo interno do órgão (`o Presidente e os Vice-Presidentes`). Espécie normativa só entra quando é reserva: `mediante <span class="g-comp">lei complementar</span>`.
+- **Nunca atravesse linha** (o `grifos.py` recusa) e nunca grife heading, tracker `- [ ] status`, frontmatter, wikilink `[[…]]` ou bloco de código.
+- **Dentro de `<mark>` e de negrito pode**: o span vai por dentro, `**<span class="g-num">18%</span>**`. Dentro do `<mark>` o grifo perde o fundo e fica só com o sublinhado.
+- **Grifo não mexe no lastro**: só envolve texto que já está lá, sem reescrever nem acrescentar.
+- **Escopo: só o texto que esta triagem está colando.** Não grife conteúdo antigo da nota. Isso altera linhas existentes, e a checagem do `comm` abaixo vai acusar.
+- Se metade do parágrafo ficou colorida, o grifo parou de apontar. Corte até sobrar o que distingue a alternativa certa da errada.
+
 ## Depois de mover
 
 1. Apague de `Capturas.md` as linhas movidas. Deixe a seção `## Capturas` vazia se tudo saiu — não apague o cabeçalho nem o texto explicativo da nota.
@@ -52,6 +75,17 @@ Respeite o registro da nota de destino: denso, direto, `<mark>` para o núcleo d
    comm -23 /tmp/r.txt /tmp/a.txt
    ```
    Isso deve mostrar só linha vazia, ou só o que você removeu de propósito (ex.: uma linha normalizada por NBSP). Qualquer outra coisa ali é conteúdo perdido — pare e investigue antes de seguir.
-4. Relate em tabela: o que era a captura, para que nota e heading foi, e qual o peso VINTEUM do tópico.
+4. **Valide os grifos** de cada nota tocada:
+   ```
+   python3 PY/grifos.py "MATERIAS/<nota>.md"
+   ```
+   Tem que sair sem nenhuma linha `!` (código 0). Os `!` apontam classe errada (`g-prazos`), span não fechado na mesma linha, grifo dentro de grifo ou grifo vazio. Pra reler o texto que entrou sem os spans e conferir que é palavra por palavra o da captura:
+   ```
+   git show HEAD:"MATERIAS/<nota>.md" | python3 PY/grifos.py --limpo - > "$TMPDIR/antes.md"
+   python3 PY/grifos.py --limpo "MATERIAS/<nota>.md" > "$TMPDIR/depois.md"
+   diff "$TMPDIR/antes.md" "$TMPDIR/depois.md"
+   ```
+   O `diff` só pode ter linhas `>` (o que entrou). Linha `<` é texto antigo alterado.
+5. Relate em tabela: o que era a captura, para que nota e heading foi, qual o peso VINTEUM do tópico e a contagem de grifos por categoria que o `grifos.py` mostrou.
 
 Não commite sem o Pedro pedir.
