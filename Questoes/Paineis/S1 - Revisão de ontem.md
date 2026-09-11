@@ -60,7 +60,15 @@ Funciona de qualquer diretório; o script se localiza sozinho. Acrescente `-p` n
 sh "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.sh" -p
 ```
 
-O script já resolve quatro coisas que o comando cru erra: mostra acentos em vez de `L\303\255ngua` (precisa de `core.quotepath=false`), corta o ruído de `.obsidian/` e `Z IMG/`, no modo `-p` tira o plumbing do diff (`diff --git`, `index`, `@@`, linhas removidas) e mostra só o caminho do arquivo + o texto que entrou, e lista no fim o que você escreveu mas **ainda não commitou** — que não aparece em nenhum `git log`, por definição.
+Terminal é ruim pra ler prosa longa — monoespaçado, sem quebra de linha decente. Pra leitura de verdade (não só checagem rápida), use `PY/s1-ontem.py`: mesma consulta do `-p` acima, mas monta uma página HTML formatada (parágrafos, listas, tabelas, `[[wikilinks]]`) e abre sozinha no navegador:
+
+```
+python3 "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.py"
+```
+
+Sem argumento — não tem modo lista-só, porque essa versão existe só pra ler o texto. Pra checagem rápida "onde eu mexi" sem sair do terminal, o `.sh` sem `-p` continua sendo o mais rápido.
+
+O script `.sh` já resolve quatro coisas que o comando cru erra: mostra acentos em vez de `L\303\255ngua` (precisa de `core.quotepath=false`), corta o ruído de `.obsidian/` e `Z IMG/`, no modo `-p` tira o plumbing do diff (`diff --git`, `index`, `@@`, linhas removidas) e mostra só o caminho do arquivo + o texto que entrou, e lista no fim o que você escreveu mas **ainda não commitou** — que não aparece em nenhum `git log`, por definição.
 
 > [!note]- Por que não dá pra pedir lista de arquivos e conteúdo de uma vez
 > `--name-status` e `-p` são ambos formato de diff, e o `--name-status` vence seja qual for a ordem em que você escreva. Por isso o script escolhe um ou outro em vez de empilhar os dois.
@@ -70,8 +78,8 @@ O script já resolve quatro coisas que o comando cru erra: mostra acentos em vez
 1. **Leia só a coluna "Nota"** dos blocos 1 e 2. Não abra nada ainda.
 2. Para cada nota, escreva ou fale: *o que eu acrescentei ali ontem?* Falhar em lembrar já é o dado — é o item que precisa voltar.
 3. Só então abra e confira.
-4. **O passo que quase todo mundo pula:** abra o `Checklist por importância (VINTEUM)` da matéria e veja se o que você acrescentou cai num tópico de **peso alto**. Escrever muito num tópico de 4% enquanto um de 21% está com `dom:: 3` é o erro mais caro e mais invisível do sistema — o volume de anotação dá sensação de produtividade sem mover pontuação.
-5. Atualize o `[dom:: N]` do tópico se a recuperação mostrou que mudou.
+4. **O passo que quase todo mundo pula:** abra o `Checklist por importância (VINTEUM)` da matéria só pra **conferir o peso** — veja se o que você acrescentou cai num tópico de **peso alto**. Escrever muito num tópico de 4% enquanto um de 21% está com `dom:: 3` é o erro mais caro e mais invisível do sistema — o volume de anotação dá sensação de produtividade sem mover pontuação. **Não edite o `dom` daqui**: esse é o do checklist, calculado uma vez a partir do seu histórico real no TEC — é fato retroativo, não recall de hoje (ver [[Cobertura VINTEUM]]).
+5. No corpo da nota, sob o heading que você mexeu, atualize o `[dom:: N]` da linha `- [ ] status [dom:: N] [peso:: N]` se a recuperação mostrou que mudou — esse é o tracker manual, o que é seu de fato. Se a caixa ainda estava desmarcada, marque: ela só indica "esse tópico já foi aberto pra estudo alguma vez", não domínio — marcar aqui não exige ter lembrado tudo.
 
 Não atualize `revisado` da nota por causa do S1 — aquele campo alimenta a [[Agenda de releitura]] e mede esquecimento de resumo inteiro, não de um trecho novo.
 
