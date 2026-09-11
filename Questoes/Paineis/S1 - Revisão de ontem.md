@@ -60,7 +60,7 @@ Funciona de qualquer diretório; o script se localiza sozinho. Acrescente `-p` n
 sh "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.sh" -p
 ```
 
-O script já resolve três coisas que o comando cru erra: mostra acentos em vez de `L\303\255ngua` (precisa de `core.quotepath=false`), corta o ruído de `.obsidian/` e `Z IMG/`, e lista no fim o que você escreveu mas **ainda não commitou** — que não aparece em nenhum `git log`, por definição.
+O script já resolve quatro coisas que o comando cru erra: mostra acentos em vez de `L\303\255ngua` (precisa de `core.quotepath=false`), corta o ruído de `.obsidian/` e `Z IMG/`, no modo `-p` tira o plumbing do diff (`diff --git`, `index`, `@@`, linhas removidas) e mostra só o caminho do arquivo + o texto que entrou, e lista no fim o que você escreveu mas **ainda não commitou** — que não aparece em nenhum `git log`, por definição.
 
 > [!note]- Por que não dá pra pedir lista de arquivos e conteúdo de uma vez
 > `--name-status` e `-p` são ambos formato de diff, e o `--name-status` vence seja qual for a ordem em que você escreva. Por isso o script escolhe um ou outro em vez de empilhar os dois.
