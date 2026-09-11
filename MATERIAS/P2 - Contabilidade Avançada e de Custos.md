@@ -8,7 +8,7 @@ pontos: 0
 origem: CE 2026 (20 q) · SP 2026
 prioridade: crítico
 ---
-
+`
 ## Percentual de cobrança (VINTEUM Fiscal 4.0)
 
 *Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Contabilidade de Custos" no guia (a parte "Avançada" desta nota fica coberta pela tabela em `P1 - Contabilidade Geral.md`).*
@@ -81,7 +81,7 @@ Nos editais FCC recentes vem como "Contabilidade Geral e Pública" — se a Bahi
 ## - Contabilidade Básica;
 
 ### Estrutura conceitual, princípios e regimes (CPC 00);
-- [ ] status [dom:: 0] [peso:: 2]  #revisar/7dias 
+- [ ] status [dom:: 2] [peso:: 2] 
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3855)
 
 ![](https://www.techconcursos.com.br/img/teoria/importante.png)
@@ -172,6 +172,24 @@ Diferença Competência − Caixa = R$80.000.
 
 <mark style="background:#fff88f">No regime de caixa, a compra tem como contrapartida uma conta de resultado — D Compra de Mercadorias (despesa) / C Caixa — regime que não é usado na prática contábil (usa-se Competência), mas é cobrado em prova.</mark> O pagamento de materiais é despesa no regime de caixa mesmo que o material fique em estoque; no regime de competência, vira custo só na venda.
 
+#### Princípios Contábeis
+
+<mark style="background:#fff88f">A observância dos princípios é obrigatória e condição de legitimidade</mark> — não é escolha da entidade.
+
+⚠️ **Não confundir com as características qualitativas** vistas acima (relevância, representação fidedigna, comparabilidade etc.) — são coisas diferentes que a prova gosta de trocar.
+
+| Princípio | Núcleo |
+| --- | --- |
+| **Entidade** | o patrimônio é o objeto, a entidade (*azienda*) o campo de aplicação. A soma de patrimônios de duas entidades **não** cria uma nova entidade — é só uma unidade econômico-contábil. |
+| **Continuidade** | pressupõe que a entidade seguirá operando no futuro previsível (mínimo 12 meses). Havendo incerteza quanto a isso, **deve ser divulgada** em Notas Explicativas. |
+| **Oportunidade** | informação **íntegra e tempestiva** — a falta de tempestividade pode fazer a informação perder relevância. |
+| **Competência** | receitas e despesas reconhecidas no momento do **fato gerador**, independente de pagamento/recebimento — pressupõe a confrontação simultânea de receitas e despesas **correlatas**. Ver o exemplo numérico de regime de caixa × competência, logo acima. |
+| **Prudência** | cautela sob incerteza — entre alternativas igualmente válidas, escolher o **menor** Ativo/PL/Receita e o **maior** Passivo/Despesa. |
+| **Registro pelo Valor Original** | componentes do patrimônio são **inicialmente** registrados pelos valores originais das transações, em moeda nacional — custo histórico é o valor pago/assumido na aquisição (ativo) ou no curso normal (passivo). |
+
+Relacionado: as demais bases de mensuração **após** o registro inicial (custo corrente, valor realizável, valor presente, valor justo) estão em [[#- Mensuração a Valor Justo (CPC 46)\|Mensuração a Valor Justo]].
+
+
 
 
 ### - Escrituração, Balancete, Atos e Fatos;
@@ -243,7 +261,7 @@ A distinção **insubsistência × superveniência** existe no guia como figura,
 
 
 ### - Ajuste a Valor Presente (CPC 12); e
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 2] [peso:: 3]
 
 Valor presente é a estimativa do valor corrente de um fluxo de caixa futuro no curso normal das operações — o fluxo pode ser de entrada ou de saída.
 

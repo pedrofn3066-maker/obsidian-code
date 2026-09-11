@@ -5,11 +5,11 @@ materia: Direito Tributário
 bloco: Direito Tributário
 assuntos:
   - Lei nº 6.830/1980 - Lei de Execução Fiscal
-slot:
+slot: S3
 total: 9
 acertos: 4
-tempo_min:
-erro_tipo:
+tempo_min: 22
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

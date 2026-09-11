@@ -7,7 +7,7 @@ assuntos:
   - Auditoria Independente (Normas Profissionais, Testes e Procedimentos, Amostragem, Fraude e Erro, Opinião/Relatórios, Testes em Áreas Específicas)
   - Auditoria Interna (Controle Interno)
   - Perícia Contábil
-slot:
+slot: S4
 total: 26
 acertos: 15
 tempo_min:

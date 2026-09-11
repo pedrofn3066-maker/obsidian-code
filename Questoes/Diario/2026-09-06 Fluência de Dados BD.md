@@ -5,7 +5,7 @@ materia: Fluência de Dados BD
 bloco: Fluência de Dados
 assuntos:
   - Otimização (Tuning) em Banco de Dados
-slot:
+slot: S5
 total: 5
 acertos: 4
 tempo_min:

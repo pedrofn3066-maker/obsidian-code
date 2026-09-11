@@ -6,7 +6,7 @@ bloco: Direito Tributário
 assuntos:
   - LC nº 214/2025 — Normas Gerais do IBS e CBS (Operações com Bens e Serviços, Não Cumulatividade, Importações, Exportações)
   - LC nº 214/2025 — Devolução Personalizada (Cashback) e Cesta Básica Nacional
-slot:
+slot: S2
 total: 50
 acertos: 34
 tempo_min:

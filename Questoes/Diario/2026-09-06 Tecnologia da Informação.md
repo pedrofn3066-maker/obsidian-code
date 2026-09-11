@@ -7,7 +7,7 @@ assuntos:
   - Conceitos de Governança de TI
   - Planejamento Estratégico de TI
   - ITIL (v4)
-slot:
+slot: S5
 total: 24
 acertos: 16
 tempo_min:

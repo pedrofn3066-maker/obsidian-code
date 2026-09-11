@@ -7,7 +7,7 @@ assuntos:
   - Direito Processual Tributário (Execução Fiscal, Medida Cautelar Fiscal)
   - Impostos Federais, Estaduais e Municipais (ICMS, ITCMD, IPTU)
   - Jurisprudência dos Tribunais Superiores em Matéria Tributária
-slot:
+slot: S3
 total: 20
 acertos: 13
 tempo_min:

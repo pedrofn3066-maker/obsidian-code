@@ -6,7 +6,7 @@ bloco: Const./Adm./Civil/Penal
 assuntos:
   - Tributação e Orçamento (Sistema Tributário Nacional arts. 145-162, Finanças Públicas arts. 163-169)
   - Controle de Constitucionalidade
-slot:
+slot: S5
 total: 26
 acertos: 16
 tempo_min:

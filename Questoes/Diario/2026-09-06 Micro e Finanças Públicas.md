@@ -5,7 +5,7 @@ materia: Micro e Finanças Públicas
 bloco: Finanças Públicas
 assuntos:
   - Microeconomia (Conceitos Básicos, Demanda e Oferta, Elasticidades, Estruturas de Mercado, Eficiência e Equilíbrio Geral, Falhas de Mercado)
-slot:
+slot: S4
 total: 41
 acertos: 28
 tempo_min:

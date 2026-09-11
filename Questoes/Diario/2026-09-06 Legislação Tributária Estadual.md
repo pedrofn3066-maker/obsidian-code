@@ -6,11 +6,11 @@ bloco: Legislação Tributária
 assuntos:
   - Guia Prático da EFD-ICMS/IPI (Registros)
   - Manual de Orientação ao Contribuinte (Manifesto Eletrônico de Documentos Fiscais)
-slot:
+slot: S2
 total: 2
 acertos: 1
 tempo_min:
-erro_tipo:
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado — últimos 7 dias)
 obs: Amostra mínima (2 questões). Errou o registro de EFD-ICMS/IPI, acertou a de Manifesto Eletrônico.

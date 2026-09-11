@@ -15,10 +15,10 @@ assuntos:
   - "CPC 12: Ajuste a Valor Presente"
   - "CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro"
   - "CPC 46: Mensuração a Valor Justo (Lei 6.404, art. 183, §1º)"
-slot:
+slot: S2
 total: 19
 acertos: 15
-tempo_min:
+tempo_min: 44
 erro_tipo:
 banca:
 origem: TEC (importado)

@@ -9,7 +9,7 @@ assuntos:
   - Passivo Exigível (Empréstimos/Fornecedores, Tributos sobre o Lucro)
   - Demonstrações Contábeis (Balanço Patrimonial)
   - Patrimônio Líquido (Capital Social)
-slot:
+slot: S2
 total: 35
 acertos: 22
 tempo_min:

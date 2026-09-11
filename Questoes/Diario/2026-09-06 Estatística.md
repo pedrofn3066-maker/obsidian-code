@@ -5,11 +5,11 @@ materia: Estatística
 bloco: Mat. Fin./Estat./RLM
 assuntos:
   - Estatística Descritiva (Números Índices)
-slot:
+slot: S2
 total: 5
 acertos: 3
 tempo_min:
-erro_tipo:
+erro_tipo: excecao
 banca:
 origem: TEC (importado — últimos 7 dias)
 obs: Amostra pequena (5 questões, todas sobre Números Índices). 60% de acerto.

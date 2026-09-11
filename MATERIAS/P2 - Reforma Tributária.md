@@ -64,6 +64,17 @@ Facilitadores de leitura da lei seca: [[Resumo EC 132-2023 Reforma Tributaria (V
 |   9   | EC 132: Demais Disposições (regime de transição, ITCMD, IPVA, contribuições, etc.)                                                                                                 |
 
 # BLOCO 1 . EC 132: IBS, CBS e Comitê Gestor
+
+## Competências do IBS e da CBS
+- [ ] status [dom:: 0] [peso:: 3]
+
+CF/88, art. 156-A e art. 195; LC nº 214/25, art. 1º.
+
+| Tributo | Competência |
+| --- | --- |
+| **IBS** — Imposto sobre Bens e Serviços | <mark style="background:#fff88f">compartilhada</mark> entre Estados, Municípios e Distrito Federal |
+| **CBS** — Contribuição Social sobre Bens e Serviços | <mark style="background:#fff88f">exclusiva</mark> da União |
+
 # BLOCO 2.  LC 214: Regra-Matriz de Incidência Tributária (RMIT)
 	Então, quanto às doações sem contraprestação em benefício do doador:
 - **Regra geral:** **Não incide IBS e CBS**

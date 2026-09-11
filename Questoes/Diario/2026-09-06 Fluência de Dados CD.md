@@ -6,7 +6,7 @@ bloco: Fluência de Dados
 assuntos:
   - Inteligência Artificial (Machine Learning — conceitos gerais, algoritmos)
   - Bancos de Dados Dimensionais (Data Warehouse/Data Mart, Modelagem Dimensional, OLAP x OLTP)
-slot:
+slot: S5
 total: 36
 acertos: 25
 tempo_min:

@@ -11,15 +11,15 @@ assuntos:
   - Data Lake
   - Ecossistema Hadoop
   - Streaming de Dados (Kafka, Flink, etc.)
-slot:
+slot: S5
 total: 25
 acertos: 15
-tempo_min:
-erro_tipo:
+tempo_min: 45
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:
-obs: "TEC classificou 25 questões na disciplina, mas só 24 caem sob um subtópico (01 Bancos de Dados Dimensionais) — 1 questão certa ficou sem tópico no export do TEC e não entra em `assuntos`. total/acertos aqui refletem a disciplina inteira (25/15), não a soma dos tópicos abaixo (24/14)."
+obs: TEC classificou 25 questões na disciplina, mas só 24 caem sob um subtópico (01 Bancos de Dados Dimensionais) — 1 questão certa ficou sem tópico no export do TEC e não entra em `assuntos`. total/acertos aqui refletem a disciplina inteira (25/15), não a soma dos tópicos abaixo (24/14).
 ---
 
 ## Erros a revisar
