@@ -121,6 +121,9 @@ Entretanto, o STF não seguiu essa linha de raciocínio. <mark style="backgroun
 - [ ] status [dom:: 0] [peso:: 2]
 
 b) **sistema da jurisdição una (unidade de jurisdição)**: de origem inglesa e norte-americana, o sistema confere ao Poder Judiciário a prerrogativa de decidir de maneira definitiva sobre a juridicidade de todos os atos praticados por particulares ou pela Administração Pública. **É o sistema adotado no Brasil por meio do princípio da inafastabilidade do controle do Poder Judiciário (art. 5.º, XXXV, da CRFB).
+- #jurisprudencia 
+- <mark style="background:rgba(240, 167, 216, 0.55)">A intervenção do Judiciário em políticas públicas de direitos fundamentais, havendo ausência ou deficiência grave do serviço, não viola a separação dos poderes</mark>. Em regra, a decisão judicial não deve determinar medidas pontuais, e sim fixar as finalidades a alcançar e determinar que a Administração apresente plano/meios adequados.
+- Ex.: déficit de profissionais em serviços de saúde pode ser suprido por concurso público, remanejamento de recursos humanos ou contratação de OS/OSCIP.
 
 
 ## - Terceiro Setor (OS, OSCIP, OSC, ...)
@@ -154,6 +157,7 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 - #jurisprudencia 
 - “<mark style="background:rgba(240, 167, 216, 0.55)">É objetiva a Responsabilidade Civil do Estado</mark> em **relação à profissional da imprensa ferido por agentes policiais durante cobertura jornalística**, em manifestações em que haja tumulto ou conflitos entre policiais e manifestantes. <mark style="background:#d3f8b6">Cabe a excludente da responsabilidade por culpa exclusiva da vítima, nas hipóteses em que o profissional de imprensa descumprir ostensiva e clara advertência sobre acesso a áreas delimitadas, em que haja grave risco à sua integridade física.”</mark> _  
     STF. Plenário. RE 1209429/SP, Rel. Min. Marco Aurélio, redator do acórdão Min. Alexandre de Moraes, julgado em 10/6/2021 (Repercussão Geral – Tema 1055) (Info 1021).
+- ⚠️ **Reserva do possível não é excludente de responsabilidade civil do Estado**: o dever de ressarcir danos (inclusive morais) efetivamente causados por agentes estatais decorre diretamente do art. 37, § 6º, CF — dispositivo **autoaplicável**, que não depende de intermediação legislativa/administrativa. Ocorrendo o dano e comprovado o nexo causal, nasce a responsabilidade civil do Estado; os recursos para o pagamento são providos na forma do art. 100 da CF (precatórios) — não antes, pela via da reserva do possível ou da insuficiência de recursos (STJ).
 
 ## - Direito de acesso à informação: normas constitucionais, Lei nº 12.527/2011.
 - [ ] status [dom:: 0] [peso:: 2]

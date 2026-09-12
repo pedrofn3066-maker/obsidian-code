@@ -6,11 +6,11 @@ bloco: Língua Portuguesa
 assuntos:
   - Interpretação de Textos (Compreensão)
   - Tipologia e Gênero Textual
-slot:
+slot: S4
 total: 4
 acertos: 3
-tempo_min:
-erro_tipo:
+tempo_min: 8
+erro_tipo: excecao
 banca:
 origem: TEC (importado)
 tec:

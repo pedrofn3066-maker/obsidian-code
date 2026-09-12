@@ -407,10 +407,14 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indice=1&materia=370)
 - O mandado de segurança é um instrumento jurídico que visa proteger direitos líquidos e certos **que não podem ser amparados por habeas corpus ou habeas data**, quando o responsável pela ilegalidade ou pelo abuso de poder for autoridade pública ou **_agente de pessoa jurídica no exercício de atribuições do poder público_**. Ou seja, **não é qualquer direito líquido e certo**.
 • A) Correta: A CFl, no seu art. 7º, inciso XXI, estabelece como direito dos trabalhadores urbanos e rurais o "aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei".
+- #jurisprudencia 
+- <mark style="background:rgba(240, 167, 216, 0.55)">Súmula 429/STF: a existência de recurso administrativo com efeito suspensivo não impede o uso do mandado de segurança contra omissão da autoridade</mark>. Não confundir com o art. 5º, I, da Lei nº 12.016/2009 (não cabe MS quando existir recurso administrativo com efeito suspensivo) — essa vedação é para **atos comissivos**; no caso de **omissão**, a suspensão de um ato que não existe não produz efeito algum, logo o MS continua cabível.
     
 ### -Mandado de Injunção
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/379?indice=1&materia=370)
+- <mark style="background:rgba(240, 167, 216, 0.55)">Pressuposto indeclinável do MI (art. 5º, LXXI, CF)</mark>: a efetiva inviabilidade do exercício do direito fundamental por falta de regulamentação.
+- ⚠️ O direito à licença-paternidade (art. 7º, XIX, CF, complementado pelo art. 10, § 1º, ADCT, que fixa 5 dias até lei regulamentadora) já é **exercitável diretamente via ADCT** — logo, falta interesse processual para impetrar MI individual sobre ele.
     
 ### -Habeas Data
 - [ ] status [dom:: 0] [peso:: 2]
@@ -432,6 +436,8 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/374?indic
 - [ ] status [dom:: 0] [peso:: 2]
 
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/375?indice=1&materia=370)
+- #jurisprudencia 
+- STF, RE 883642 (Tema 823, repercussão geral): <mark style="background:rgba(240, 167, 216, 0.55)">os sindicatos têm ampla legitimidade extraordinária (substituição processual) para defender em juízo direitos e interesses coletivos ou individuais da categoria que representam</mark>, inclusive nas liquidações e execuções de sentença, **independentemente de autorização dos substituídos** (art. 8º, III, CF).
 
 ### - Da Nacionalidade (arts. 12 e 13 da CF/1988)
     
@@ -450,6 +456,8 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/375?indic
 #### Extradição, Deportação, Expulsão e Banimento (da Nacionalidade)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1949?indice=1&materia=370)
+- #jurisprudencia 
+- STF, HC 101.269/DF: <mark style="background:rgba(240, 167, 216, 0.55)">não implica disposição de competência legal a delegação, pelo Presidente da República, do ato de expulsão de estrangeiro</mark> ao Ministro de Estado da Justiça — o STF sempre reputou válido o decreto de expulsão firmado por delegação. Cabe ao Judiciário apenas controlar a **legalidade** do ato, não sua oportunidade e conveniência.
         
 #### Dos Símbolos e Idioma da República (art. 13 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -489,6 +497,8 @@ Neste cenário, é importante destacar o que entende o TSE a respeito da possibi
 - **Substituição**: se ocorrer nos seis meses anteriores ao pleito, o vice, caso eleito para o cargo do titular, não poderá concorrer à reeleição;
 - **Sucessão**: se ocorrer em qualquer tempo do mandato, o vice não poderá concorrer à reeleição
 Em resumo, considerando a substituição ou sucessão para o cargo de titular do Executivo, temos:
+- <mark style="background:rgba(240, 167, 216, 0.55)">Súmula Vinculante 18</mark>: a dissolução do vínculo conjugal no curso do mandato não afasta a inelegibilidade reflexa (art. 14, § 7º, CF), **exceto** no caso de falecimento do chefe do Executivo.
+- ⚠️ Vedação à segunda reeleição de Prefeito mesmo que para **Município diverso** ("Prefeito itinerante") — a jurisprudência do STF veda a itinerância para impedir uma terceira eleição consecutiva ao mesmo tipo de cargo.
 
 #### Perda e Suspensão dos Direitos Políticos
 - [ ] status [dom:: 0] [peso:: 2]
@@ -501,6 +511,7 @@ Ou seja, **ao cumprir sua pena, João recuperou seus direitos políticos**, o q
 #### Partidos Políticos (art. 17 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3187?indice=1&materia=370)
+- A formação de **coligação** é faculdade dos partidos políticos para a disputa do pleito (art. 6º, caput, Lei nº 9.504/97), com existência **temporária**, restrita ao processo eleitoral.
 
 
 
@@ -570,6 +581,9 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 | Justiça Militar                    | **Constitucional** | **Infraconstitucional** | Supremo Tribunal Federal     |
 | Justiça do Trabalho                | **Constitucional** | **Infraconstitucional** | Supremo Tribunal Federal     |
 | Tribunal Superior Eleitoral        | **Eleitoral**      |                         | Tribunal Superior Eleitoral  |
+- #jurisprudencia 
+- <mark style="background:rgba(240, 167, 216, 0.55)">Súmula 637/STF</mark>: não cabe recurso extraordinário contra acórdão de TJ que defere pedido de intervenção estadual em município — hipótese do art. 35, IV, CF (TJ dá provimento a representação para assegurar princípios da Constituição Estadual, mediante provocação do PGJ).
+- ⚠️ A **União** só intervém diretamente em Município se este estiver situado em **Território Federal**; em Município de Estado, quem intervém é o **próprio Estado** (art. 35, caput, CF) — a União nunca intervém diretamente em Município de Estado.
 
 
 

@@ -13,11 +13,11 @@ assuntos:
   - Da Sujeição Passiva (arts. 424 e 425 da LC nº 214/2025)
   - Da Empresa Comercial Exportadora (arts. 426 e 427 da LC nº 214/2025)
   - Da Pena de Perdimento (arts. 428 e 429 da LC nº 214/2025)
-slot:
+slot: S2
 total: 22
 acertos: 14
-tempo_min:
-erro_tipo:
+tempo_min: 25
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

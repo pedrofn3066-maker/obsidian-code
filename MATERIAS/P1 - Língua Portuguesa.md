@@ -111,6 +111,8 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/3/assuntos/3818)
 
 **a)**  o verbo “prevê” recebe ~~acento diferencial para marcar o plural~~, concordando com o sujeito.
 **Incorreta**. A forma verbal <mark style="background:#fff88f">"prevê" está na 3ª pessoa do singular</mark>, portanto o acento circunflexo não marca plural, mas sim a sílaba tônica em uma palavra oxítona terminada em -E. O acento diferencial que indica plural ocorre com os verbos "ter", "vir" e respectivos derivados. Exemplos: eles vêm, eles têm, elas contêm, elas provêm etc.
+**b)** "Num prazo máximo de dois anos, cada um desses modelos estarão mostrando, na prática, suas qualidades e seus defeitos."
+**Incorreta**. Com a construção <mark style="background:#fff88f">"cada um"</mark>, o verbo concorda no **singular**: "cada um desses modelos **estará** mostrando".
 
 ### Bastante — advérbio vs adjetivo
 - [ ] status [dom:: 0] [peso:: 2]

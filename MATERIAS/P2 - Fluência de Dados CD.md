@@ -69,34 +69,34 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 - [ ] status [dom:: 0] [peso:: 3]
 
 ## - 2 Dados Abertos: princípios (abertos por padrão, acessíveis, reutilizáveis), transparência governamental e interoperabilidade.
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 1] [peso:: 3] ✅ 2026-09-12
 
 - Segundo a Open Knowledge Foundation - OKFn, “**dados são abertos** quando qualquer pessoa pode livremente usá-los, reutilizá-los e redistribuí-los, estando sujeito a, no máximo, a exigência de creditar a sua autoria e compartilhar pela mesma licença”. Quando os dados são produzidos, coletados ou custodiados por autoridades públicas e disponibilizados em formato aberto, diz-se que são dados abertos governamentais. Ainda segundo a OKFn, dados abertos também são pautados por três leis e oito princípios:
 
 	Em 2007, um grupo de trabalho de 30 pessoas reuniu-se na Califórnia, Estados Unidos da América, para definir os princípios dos Dados Abertos Governamentais. Chegaram num consenso sobre os seguintes 8 princípios:
 1. **Completos.** Todos os dados públicos são disponibilizados. Dados são informações eletronicamente gravadas, incluindo, mas não se limitando a, documentos, bancos de dados, transcrições e gravações audiovisuais. Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos.
-2. **Primários.** Os dados são publicados na forma coletada na fonte, **com a mais fina granularidade possível, e não de forma agregada ou transformada.**
+2. **Primários.** Os dados são publicados na forma coletada na fonte, **com a mais<span class="cloze-span"> fina granularidade</span> possível, e não de forma agregada ou transformada.**
 3. **Atuais.** Os dados são disponibilizados o quão rapidamente seja necessário para preservar o seu valor.
 4. **Acessíveis.** Os dados são disponibilizados para o público mais amplo possível e para os propósitos mais variados possíveis.
-5. **Processáveis por máquina.** Os dados são **razoavelmente estruturados para possibilitar o seu processamento automatizado.**
+5. **Processáveis por máquina.** Os dados são **<span class="cloze-span">razoavelmente</span> estruturados para possibilitar o seu processamento automatizado.**
 6. **Acesso não discriminatório.** Os dados estão disponíveis a todos, sem que seja necessária identificação ou registro.
-7. **Formatos não proprietários.** Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle exclusivo.
-8. **Licenças livres.** Os dados não estão sujeitos a restrições por regulações de direitos autorais, marcas, patentes ou segredo industrial. Restrições razoáveis de privacidade, segurança e controle de acesso podem ser permitidas na forma regulada por estatutos.
+7. **Formatos não proprietários.** Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle <span class="cloze-span">exclusivo</span>.
+8. **Licenças livres.** Os dados não estão sujeitos a restrições por regulações de direitos autorais, marcas, patentes ou segredo industrial. Restrições razoáveis de privacidade, segurança e controle de acesso <span class="cloze-span">podem</span> ser permitidas na forma regulada por estatutos.
 
 	**Descreva as características de dados abertos:** 1)Reuso e redistribuição:; 2)isponibilidade e acesso; 3)articipação universal.
 - **Reuso e Redistribuição**: Dados abertos são disponibilizados de forma a permitir seu uso e redistribuição sem restrições, desde que respeitados os direitos autorais e outras leis aplicáveis. Isso significa que qualquer pessoa pode utilizar, modificar e compartilhar os dados abertos sem precisar de autorização prévia ou pagar taxas adicionais.
-- **Disponibilidade e Acesso:** Dados abertos devem estar disponíveis de forma acessível e fácil, sem barreiras técnicas ou comerciais que impeçam o acesso. Isso inclui a disponibilidade de metadados, documentação e formatos de arquivo apropriados para seu uso e reutilização.
+- **Disponibilidade e Acesso:** Dados abertos devem estar disponíveis de forma <span class="cloze-span">acessível</span> e <span class="cloze-span">fácil</span>, <mark style="background:#fff88f">sem barreiras técnicas ou comerciais </mark>que impeçam o acesso. Isso inclui a disponibilidade de metadados, documentação e formatos de arquivo apropriados para seu uso e reutilização.
 - **Participação Universal:** A ideia por trás dos dados abertos é fomentar a colaboração, a inovação e a participação universal na sociedade. Todos devem ter acesso e liberdade para utilizar, compartilhar e contribuir com os dados abertos, independentemente de sua localização, capacidade financeira ou outros fatores. Essa abertura e acessibilidade permitem que todos tenham a chance de aprender, colaborar e construir soluções juntos, independentemente das fronteiras.
 
 >**accessURL → acesso direto ao dado**  
-**landingPage → página explicativa**  
-**contactPoint → contato**  
-**endpointURL → API/serviço**
+ **landingPage → página explicativa**  
+ **contactPoint → contato**  
+ **endpointURL → API/serviço**
 
 
 
 ## -  3 Ciclo de Vida dos Dados: coleta, armazenamento, processamento, compartilhamento, retenção e descarte.
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 
  **ILM (Information Lifecycle Management)**, ou **Gestão do Ciclo de Vida da Informação**, é um conjunto de políticas, processos e tecnologias usados para gerenciar as informações (dados) ao longo de todo o seu ciclo de vida – desde a criação até a destruição. O ILM busca garantir que os dados sejam armazenados, acessados e descartados de forma eficiente, segura e em conformidade com regulamentos e políticas organizacionais.
 
@@ -108,7 +108,7 @@ Aqui estão os principais **estágios do ciclo de vida da informação** no IL
     
 3. **Uso/Distribuição:** Os dados são utilizados em operações, decisões, relatórios e análises.
     
-4. **Retenção:** Os dados são mantidos conforme requisitos legais, regulatórios e de negócios. Aqui entram políticas de compliance e auditoria.
+4. **Retenção:** Os dados são mantidos conforme <mark style="background:rgba(3, 135, 102, 0.2)">requisitos legais, regulatórios e de negócios</mark>. Aqui entram políticas de compliance e auditoria.
     
 5. **Arquivamento:** Dados que não são mais ativos, mas que precisam ser retidos <mark style="background:rgba(240, 200, 0, 0.2)">por motivos legais ou históricos,</mark> são movidos para armazenamento de longo prazo.
     
@@ -125,17 +125,17 @@ Benefícios do ILM:
 ==1.4 Transformação dos Dados
 A transformação de dados é um processo no qual os dados brutos são modificados ou manipulados de alguma forma para se adequar às necessidades específicas de análise. No contexto de data literacy, a transformação de dados é uma habilidade crucial para trabalhar eficientemente com grandes conjuntos de dados e extrair insights valiosos. Algumas tarefas comuns de transformação de dados incluem:==
 
-| Tarefa                          | Descrição                                                                          | Quando Usar                                                                         | Benefícios                                                                               | Exemplo                                                                               |
-| ------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **Anonimização**                | Remoção ou substituição de informações identificáveis para proteger a privacidade. | Usar ao trabalhar com dados sensíveis para cumprir regulamentos de privacidade.     | Protege a privacidade dos indivíduos, conforme GDPR ou outras leis de proteção de dados. | Remoção de nomes e endereços de um conjunto de dados de pacientes.                    |
-| **Discretização**               | Transformação de variáveis contínuas em categorias discretas.                      | Usar quando variáveis contínuas precisam ser agrupadas em intervalos ou categorias. | Facilita a análise de dados categóricos e a construção de modelos de classificação.      | Transformação de idades em grupos etários (0-18, 19-35, 36-50, etc.).                 |
-| **Normalização**                | Ajuste dos valores das variáveis para um intervalo comum.                          | Usar quando variáveis têm escalas diferentes e precisam ser comparáveis.            | Melhora o desempenho de algoritmos de aprendizado de máquina.                            | Escalonamento de dados de renda anual para um intervalo de 0 a 1.                     |
-| **Padronização**                | Transformação de dados para ter média zero e desvio padrão de um.                  | Usar quando variáveis precisam ter distribuição normal.                             | Necessário para algoritmos que assumem normalidade dos dados, como PCA.                  | Ajuste de notas de teste para terem média zero e desvio padrão de um.                 |
-| **Imputação**                   | Substituição de valores ausentes por estimativas.                                  | Usar quando há dados ausentes que precisam ser preenchidos.                         | Mantém a integridade do conjunto de dados, evitando a perda de informações.              | Preenchimento de valores ausentes de renda com a média da renda conhecida.            |
-| **Agregação**                   | Combinação de múltiplas observações em resumos estatísticos.                       | Usar para simplificar grandes volumes de dados.                                     | Facilita a visualização e a análise de grandes conjuntos de dados.                       | Cálculo da média mensal de vendas a partir de dados diários.                          |
-| **Codificação**                 | Transformação de dados categóricos em formatos numéricos.                          | Usar quando variáveis categóricas precisam ser usadas em modelos matemáticos.       | Permite a inclusão de dados categóricos em algoritmos de aprendizado de máquina.         | One-hot encoding de variáveis de gênero (masculino, feminino).                        |
-| **Redução de Dimensionalidade** | Simplificação de conjuntos de dados reduzindo o número de variáveis.               | Usar para melhorar a performance e a interpretabilidade de modelos.                 | Reduz a complexidade do modelo, prevenindo overfitting.                                  | PCA (Análise de Componentes Principais) para reduzir variáveis de entrada.            |
-| **Remoção de Outliers**         | Identificação e eliminação de valores anômalos que distorcem a análise.            | Usar quando outliers prejudicam a precisão do modelo ou análise.                    | Melhora a precisão dos modelos e a qualidade da análise.                                 | Remoção de valores de temperatura extremamente altos/baixos que são erros de medição. |
+| Tarefa                          | Descrição                                                                                                            | Quando Usar                                                                                                                             | Benefícios                                                                                      | Exemplo                                                                               |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Anonimização**                | Remoção ou substituição de informações identificáveis para proteger a privacidade.                                   | Usar ao trabalhar com dados <mark style="background:rgba(136, 49, 204, 0.2)">sensíveis</mark> para cumprir regulamentos de privacidade. | Protege a privacidade dos indivíduos, conforme GDPR ou outras leis de proteção de dados.        | Remoção de nomes e endereços de um conjunto de dados de pacientes.                    |
+| **Discretização**               | Transformação de variáveis <mark style="background:rgba(240, 200, 0, 0.2)">contínuas</mark> em categorias discretas. | Usar quando variáveis contínuas precisam ser agrupadas em intervalos ou categorias.                                                     | Facilita a análise de dados categóricos e a construção de modelos de classificação.             | Transformação de idades em grupos etários (0-18, 19-35, 36-50, etc.).                 |
+| **Normalização**                | Ajuste dos valores das variáveis para um intervalo comum.                                                            | <font color="#366092">Usar quando variáveis têm escalas diferentes e precisam ser comparáveis.</font>                                   | Melhora o desempenho de algoritmos de aprendizado de máquina.                                   | Escalonamento de dados de renda anual para um intervalo de 0 a 1.                     |
+| **Padronização**                | <font color="#de7802">Transformação de dados para ter média zero e desvio padrão de um.</font>                       | Usar quando variáveis precisam ter distribuição normal.                                                                                 | Necessário para algoritmos que assumem normalidade dos dados, como PCA.                         | Ajuste de notas de teste para terem média zero e desvio padrão de um.                 |
+| **Imputação**                   | Substituição de valores ausentes por estimativas.                                                                    | Usar quando há dados ausentes que precisam ser preenchidos.                                                                             | Mantém a integridade do conjunto de dados, evitando a perda de informações.                     | Preenchimento de valores ausentes de renda com a média da renda conhecida.            |
+| **Agregação**                   | Combinação de múltiplas observações em resumos estatísticos.                                                         | Usar para simplificar grandes volumes de dados.                                                                                         | Facilita a visualização e a análise de grandes conjuntos de dados.                              | Cálculo da média mensal de vendas a partir de dados diários.                          |
+| **Codificação**                 | Transformação de dados categóricos em formatos numéricos.                                                            | Usar quando variáveis categóricas precisam ser usadas em modelos matemáticos.                                                           | Permite a inclusão de dados categóricos em algoritmos de aprendizado de máquina.                | One-hot encoding de variáveis de gênero (masculino, feminino).                        |
+| **Redução de Dimensionalidade** | Simplificação de conjuntos de dados reduzindo o número de variáveis.                                                 | Usar para melhorar a performance e a interpretabilidade de modelos.                                                                     | Reduz a complexidade do modelo, <mark style="background:#fff88f">prevenindo overfitting.</mark> | PCA (Análise de Componentes Principais) para reduzir variáveis de entrada.            |
+| **Remoção de Outliers**         | Identificação e eliminação de valores anômalos que distorcem a análise.                                              | Usar quando outliers prejudicam a precisão do modelo ou análise.                                                                        | Melhora a precisão dos modelos e a qualidade da análise.                                        | Remoção de valores de temperatura extremamente altos/baixos que são erros de medição. |
 **1.5 Tipos de Dados Ausentes**
 
 |Tipo de Dados Ausentes|Características|Métodos Recomendados|Exemplos|
@@ -148,19 +148,19 @@ A transformação de dados é um processo no qual os dados brutos são modificad
 
 - **Relevância, Cobertura, Profundidade, Custo, História (duração), Frequência, Processamento, Custo de aquisição**: Estes atributos ajudam a avaliar a utilidade, aplicabilidade, custo e qualidade dos dados. São essenciais para entender o valor e as limitações dos dados em diferentes contextos.
 
-|Atributo|Definição|
-|---|---|
-|**Relevância**|Utilidade de um conjunto de dados para propósitos específicos.|
-|**Cobertura**|Área geográfica abrangida pelo conjunto de dados.|
-|**Profundidade**|Variedade e número de diferentes pontos de dados no conjunto.|
-|**Custo de Dados**|Custo de acesso e processamento do conjunto de dados.|
-|**História**|Alcance histórico do conjunto de dados.|
-|**Frequência**|Intervalo de tempo entre pontos de dados e frequência de atualização.|
-|**Processamento**|Quantidade de correção de erros e rotulagem antes da distribuição.|
-|**Custo de aquisição**|Custo de aquisição e verificação dos dados em sua forma original.|
+| Atributo               | Definição                                                                                       |
+| ---------------------- | ----------------------------------------------------------------------------------------------- |
+| **Relevância**         | Utilidade de um conjunto de dados para propósitos específicos.                                  |
+| **Cobertura**          | Área geográfica abrangida pelo conjunto de dados.                                               |
+| **Profundidade**       | Variedade e número de diferentes pontos de dados no conjunto.                                   |
+| **Custo de Dados**     | Custo de acesso e processamento do conjunto de dados.                                           |
+| **História**           | Alcance histórico do conjunto de dados.                                                         |
+| **Frequência**         | Intervalo de tempo entre pontos de dados e frequência de atualização.                           |
+| **Processamento**      | <font color="#de7802">Quantidade de correção de erros e rotulagem antes da distribuição</font>. |
+| **Custo de aquisição** | Custo de aquisição e verificação dos dados em sua forma original.                               |
 
 ## -  4 Governança de Dados: papéis, políticas, accountability, stewardship e alinhamento estratégico.
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 
 **De acordo com o DAMA DMBOK, a governança de dados tem como objetivo central habilitar a organização a gerenciar seus dados como ativos valiosos, exigindo _accountability_ (responsabilização), controle e regras bem definidas, de forma alinhada aos objetivos do negócio.**
 Veja os erros das outras opções:
@@ -181,12 +181,12 @@ Veja os erros das outras opções:
  **Ténicas de Pré-Processamento:**
 
 **Limpeza dos Dados –** Preenche valores faltantes, suaviza dados ruidosos, identifica ou remove “outliers” e resolve inconsistências.
-**Integração –** Dados de origens diferentes devem ser integrados. Resolver conflitos e redundância
+**Integração –** Dados de origens diferentes devem ser integrados. <mark style="background:rgba(240, 200, 0, 0.2)">Resolver conflitos e redundância</mark>
 **Transformação –** Normalização e agregação dos dados.
 **Redução -** Tenta reduzir o volume de dados sem provocar grandes alterações no resultado. Compressão de atributos e redução do número de dados.
 <mark style="background:rgba(240, 200, 0, 0.2)">Discretização</mark> – Faz parte do processo de redução, mas tem papel importante, especialmente com dados numéricos. <font color="#ff0000">Visa estabelecer valores discretos para variáveis contínuas.</font>
 ## XML
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 (https://www.w3schools.com/xml/schema_facets.asp).
 
 XML é uma linguagem de <mark style="background:rgba(240, 200, 0, 0.2)">marcação</mark>, ou seja, utilizarmos para organizar a estrutura de uma página. Quando falamos em estilos em uma página a primeira linguagem que vem à mente é CSS. Também temos uma conhecida como XSLT para estilar o XML.
@@ -200,7 +200,7 @@ Define que só aceitará 3 letras minúsculas do alfabeto entre a e z
 <xs:pattern value="[a-z][a-z][a-z]"/>
 
 ## JSON
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 **JSON**
 ```
 {
@@ -216,7 +216,7 @@ JSON é leve, com sintaxe simples (pares chave-valor), fácil de gerar e interpr
 
 - Em JSON, quando há múltiplos valores para uma mesma chave, eles devem ser representados como um array >>>entre colchetes [ ] "telefones": [  "(71) 98765-8976","(71) 98756-4678"  ]}}
 
---**b)**  o XML _Schema_ é adequado para validar tanto a estrulura quanlo os valores dos elementos em um documento XML.
+-**b)**  o XML _Schema_ é adequado para validar tanto a estrulura quanto os valores dos elementos em um documento XML.
 **Correta**. O XML Schema é realmente adequado para validar tanto a estrutura quanto os valores dos elementos em um documento XML. Isso porque é possível definir regras de negócio específicas.
 
 
@@ -241,7 +241,7 @@ O item está correto e faz uma interpretação perfeita dos coeficientes da equa
 
 
 ## Detecção de Anomalias: tipos e classificação
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 
 Duas categorias de anomalias, por origem: <mark style="background:#fff88f">não intencionais</mark> (desvio da norma por erro ou ruído na coleta — sensor defeituoso, erro humano) e <mark style="background:#fff88f">intencionais</mark> (desvio por ação ou evento real, ex.: pico de vendas em época festiva).
 
@@ -251,19 +251,19 @@ Três subtipos, por escopo (podem ser intencionais ou não intencionais):
 - **Coletivas** — um conjunto de instâncias que, juntas, destoam da norma, mesmo com cada instância parecendo normal isoladamente. Ex.: aumento simultâneo de tráfego de rede vindo de vários IPs.
 
 ## Espaço Latente
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-12
 
 Representação abstrata e compactada dos dados, usada por algoritmos de aprendizado de máquina em vez das informações brutas e de alta dimensionalidade (ex.: cada pixel de uma imagem) — foca nas características essenciais, descobrindo padrões e relações ocultas.
 
 ## LSTM (Long Short-Term Memory)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-12
 
 Arquitetura de rede neural recorrente (RNN) que retém valores por intervalos arbitrários — adequada para classificar, processar e prever séries temporais com gaps de duração desconhecida. A insensibilidade ao comprimento do gap dá vantagem à LSTM sobre RNNs tradicionais ("vanilla"), Modelos Ocultos de Markov (MOM) e outros métodos de aprendizado de sequências.
 
 # Bloco D: PLN, IA e LLMs
 
 ## Conceitos Iniciais e Gerais de IA
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 
 <mark style="background:#fff88f">IA Fraca (Estreita)</mark>: modela a inteligência humana para tarefas específicas, sem habilidades cognitivas completas — opera só dentro de um conjunto de funções predefinidas, sem desviar do caminho programado. Ex.: assistentes de voz (Siri, Alexa) classificam dados e respondem consultas rapidamente, mas não realizam tarefas fora do escopo treinado.
 > [!warning]- Pendência de autoria
@@ -272,7 +272,7 @@ Arquitetura de rede neural recorrente (RNN) que retém valores por intervalos ar
 <mark style="background:#fff88f">IA deve seguir as leis de proteção de dados do país onde for utilizada e comercializada</mark>, independentemente de onde foi desenvolvida ou fabricada — a legislação aplicável é a do local de uso, não a de origem.
 
 ## IA Generativa: modelos de difusão
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 
 Modelos generativos profundos: adicionam ruído gaussiano aos dados de treinamento (difusão direta) e depois invertem o processo, removendo o ruído (difusão reversa), para recuperar/gerar dados. O modelo aprende gradualmente a remover ruído, gerando novas imagens de alta qualidade a partir de sementes aleatórias.
 ⚠️ Modelos de difusão não fazem classificação (tarefa tradicional de ML que atribui uma classe a um conjunto de dados) — pertencem ao âmbito da <mark style="background:#fff88f">IA generativa</mark>, focada em gerar dados novos a partir de ruído.
@@ -280,16 +280,16 @@ Modelos generativos profundos: adicionam ruído gaussiano aos dados de treinamen
 > A captura original termina cortada em "É um processo mais complexo, portanto" — sem concluir a frase.
 
 ## Processamento de Linguagem Natural e LLMs
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 
-LLMs avançaram o PLN e se tornaram acessíveis via interfaces como ChatGPT (GPT-3/GPT-4). Outros exemplos: Llama, e os codificadores bidirecionais BERT e RoBERTa.
+LLMs avançaram o PLN e se tornaram acessíveis via interfaces como ChatGPT (GPT-3/GPT-4). Outros exemplos: <u>Llama, e os codificadores bidirecionais BERT e RoBERTa</u>.
 GPT-3 (OpenAI, 2020): 175 bilhões de parâmetros — ficou famoso por gerar texto preciso a partir de entradas no ChatGPT.
 Aplicações: responder perguntas, redigir textos, traduzir, resumir documentos, gerar código, chatbots e assistentes digitais — qualquer tarefa de geração ou compreensão de texto.
 
 # Bloco E: Power BI, AED, Ferramentas de BI e Visualização de Dados, Ferramentas de análise de dados e observabilidade
 
 ## - Análise Exploratória de Dados (AED) — variáveis qualitativas e quantitativas
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 
 Na classificação de variáveis em AED, os valores não numéricos são **qualitativos**, subdivididos em:
 
