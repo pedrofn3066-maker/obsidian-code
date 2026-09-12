@@ -364,6 +364,9 @@ Quando: (a) alienado; ou (b) **não há mais expectativa** de benefício econôm
 
 Alocação sistemática do valor depreciável ao longo da vida útil — mesmo conceito do [[P2 - Contabilidade Avançada e de Custos#- Depreciação, Amortização e Exaustão;\|CPC 27 privado]]. Causas: deterioração física, desgaste com uso, obsolescência.
 
+
+⚠️ CPC 27 (privado): se o valor residual subsequente aumentar até igualar ou superar o valor contábil, a despesa de depreciação zera — a depreciação nunca reduz o valor contábil abaixo do valor residual.
+
 #### O que não deprecia
 
 **Terrenos** (exceto pedreiras e locais usados como aterro, que têm vida útil limitada) e **bens de natureza cultural**. Terrenos e edificações são ativos **separáveis** — contabilizados separadamente mesmo quando adquiridos juntos.
@@ -426,9 +429,13 @@ Reconhecida **imediatamente** no resultado. Se o ativo está registrado por valo
 
 Depois da perda, a **depreciação futura** é recalculada sobre o valor contábil revisado (menos residual, se houver), ao longo da vida útil remanescente.
 
+**Exemplo:** ativo intangível recebido sem contraprestação (direitos autorais), valor justo inicial de R$ 30.000 — reconhecido pelo valor justo na data de aquisição, conforme NBC TSP 01. Ao fim do período: valor realizável líquido de R$ 28.000, valor em uso de R$ 32.000. Valor recuperável = maior entre os dois = R$ 32.000. Como R$ 32.000 > valor contábil de R$ 30.000, nenhuma perda é registrada.
+
 #### Reversão
 
 Só se houve **mudança nas estimativas** desde a última perda reconhecida — reconhecida imediatamente como VPA.
+
+O valor contábil após a reversão não pode exceder o que teria sido apurado — líquido de depreciação/amortização — caso nenhuma perda tivesse sido reconhecida em períodos anteriores (MCASP 10ª edição).
 
 ⚠️ **Não reverte só pela passagem do tempo.** O valor em uso pode crescer porque o valor presente de fluxos futuros aumenta conforme eles se aproximam — mas o potencial de serviços do ativo **não** aumentou, então isso **não** justifica reversão.
 
@@ -498,6 +505,8 @@ Registra provisão quando for provável a saída de recursos. Obrigação **não
 
 **Alcance:** aplica-se às entidades definidas pela [[#- NBC TSP - Estrutura Conceitual\|Estrutura Conceitual]]. Trata **principalmente** do uso da informação de custos para fins **gerenciais**.
 
+Já foi cobrada em peso no concurso da SEFAZ/PI.
+
 #### Definições que a banca testa por troca de termo
 
 <mark style="background:#fff88f">Custo, gasto, desembolso, investimento e perda não são sinônimos — cada um tem escopo próprio.</mark>
@@ -541,6 +550,20 @@ Cada entidade **deve** identificar, acumular e relatar seus custos em **base reg
 Recomendável relatório de custos em base regular, **periodicidade mínima anual**. Os relatórios devem vir acompanhados de **notas explicativas** sobre: o modelo de gerenciamento de custos (objetos, método, bases de mensuração), avaliação de fatores de desempenho, e predições de desempenho esperado.
 
 Relacionado: [[#- Regimes orçamentário e patrimonial\|Regimes Orçamentário e Patrimonial]], mesma lógica de regime de competência aplicada aos custos.
+
+#### Hierarquia de atribuição de custos (ordem de preferência)
+
+Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a capacidade de estabelecer relação direta ou causal com o objeto de custo — busca o maior grau de precisão e confiabilidade, evitando estimativas e rateios arbitrários sempre que possível.
+
+1. **Apropriação direta** — identificação direta do insumo no objeto, sem rateio.
+2. **Rastreamento** — relação de causa e efeito, via direcionadores (ex.: horas de voo para custo de combustível).
+3. **Alocação (rateio)** — sem relação direta nem causal clara; usa base razoável (ex.: área para conta de luz).
+
+#### Implantação do modelo de custos (itens 63 e 64)
+
+⚠️ Não confundir os dois processos:
+- **Modelo de gerenciamento de custos** (item 63) — sistemático e gradual; considera a estrutura e os objetivos organizacionais, os processos decisórios dos diferentes grupos de usuários da informação, e os critérios de transparência e controle social.
+- **Sistema de informação de custos** (item 64) — baseia-se no detalhamento da definição dos sistemas/bases de dados a integrar, da viabilidade prática de compilação e processamento dos dados, da disponibilidade de ferramentas de tratamento, e da estimativa do custo de instalação, treinamento, operação e manutenção.
 
 
 # Bloco C:

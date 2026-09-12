@@ -24,5 +24,11 @@ Captura rápida — apontamentos de questões e estudo mandados pelo Atalho "Env
 
 
 
+
+
+
+
+
+
  
 
