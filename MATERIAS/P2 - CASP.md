@@ -154,6 +154,16 @@ II - empresa controlada: sociedade cuja maioria do capital social com direito a 
 **3.32 A informação é material se a sua omissão ou distorção puder influenciar o cumprimento do dever de prestação de contas e responsabilização (accountability), ou as decisões que os usuários tomam com base nos RCPGs elaborados para aquele exercício.** A materialidade depende tanto da natureza quanto do montante do item analisado dentro das particularidades de cada entidade.
 
 
+#### Exemplo — enfoque orçamentário × patrimonial
+
+| Fato | Enfoque orçamentário | Enfoque patrimonial |
+| --- | --- | --- |
+| I. Aprovação da LOA em R$ 400 mil (50% corrente, 50% capital) | Previsão da Receita e Fixação da Despesa em R$ 400.000 | Não afeta o patrimônio — é fato orçamentário puro |
+| II. Lançamento de impostos R$ 200 mil, arrecadados 70% | Arrecadação da Receita em R$ 140.000 (200.000 × 0,70) | VPA de R$ 200.000 no lançamento; saldo a arrecadar (crédito tributário) de R$ 60.000 |
+| III. Operação de crédito de R$ 200 mil recebida à vista e usada na compra à vista de um imóvel | Arrecadação de receita de capital de R$ 200.000; depois, liquidação de despesa de capital de R$ 200.000 | Dois fatos permutativos: primeiro +Bancos/+Empréstimos; depois +Imobilizado/−Bancos — nenhum altera o PL (o segundo é variação qualitativa) |
+| IV. Empenho, liquidação e pagamento de folha de pessoal de R$ 120 mil | Despesa reconhecida em R$ 120.000 | VPD por causa da liquidação da despesa com pessoal |
+| V. Recebimento de garantia de R$ 20 mil, passível de devolução | Ingresso extraorçamentário de R$ 20.000 | Variação patrimonial qualitativa (não é receita) |
+
 ## - Variação patrimonial
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -655,8 +665,67 @@ Ambos aparecem no campo **Saldos de Exercícios Anteriores**. Para verificar o e
 
 Regime orçamentário e critério de classificação; período do orçamento; entidades abrangidas; despesas por tipo de crédito (inicial/suplementar/especial/extraordinário); uso do superávit financeiro e reabertura de créditos e seus efeitos no resultado orçamentário.
 
+#### Resultado Orçamentário
+
+**Resultado Orçamentário = Receita Arrecadada − Despesa Empenhada** — compara receitas realizadas (arrecadadas) com despesas executadas (empenhadas), conforme MCASP.
+
+**Exemplo 1:** receita arrecadada de R$ 100 mil, despesa empenhada de R$ 140 mil → 100 − 140 = **−40 mil (déficit)**.
+
+**Exemplo 2:** receitas arrecadadas de R$ 300 mil (impostos R$ 180 mil + operação de crédito R$ 120 mil) e despesas empenhadas de R$ 300 mil (imóvel R$ 200 mil, metade à vista e metade em restos a pagar + pessoal R$ 100 mil) → 300 − 300 = **resultado nulo**.
+
 ## - Balanço Financeiro
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Atributos de classificação — Financeiro (F) × Permanente (P):**
+
+| Grupo | Financeiro (F) | Permanente (P) |
+| --- | --- | --- |
+| Ativo Circulante | numerários ($) | direitos e outros bens que não sejam numerários |
+| Passivo Circulante | já passou pelo empenho | ainda precisa ser empenhado (anterior ao empenho) |
+| ANC / PNC | — | sempre Permanente |
+
+⚠️ Ativos e passivos que **não** se submetem a execução orçamentária (depósitos, cauções, ARO) são sempre **Financeiros**.
+
+<mark style="background:#fff88f">Não confundir resultado financeiro com saldo financeiro</mark>: saldo financeiro é o quantitativo de recursos que passa para o exercício seguinte (variável **estoque**); resultado financeiro é o quantitativo apurado pelas movimentações (ingressos e dispêndios) do próprio exercício (variável **fluxo**) — o resultado do exercício está contido no saldo.
+
+**Cálculo do resultado financeiro do exercício:**
+
+```
+  Receitas orçamentárias
+(+) transferências financeiras recebidas
+(+) recebimentos extraorçamentários
+(-) despesa orçamentária
+(-) transferências financeiras concedidas
+(-) pagamentos extraorçamentários
+(=) resultado financeiro do exercício
+```
+
+**Exemplo (padrão MCASP — despesas pela ótica de empenhadas):**
+
+| Fato | Efeito no cálculo |
+| --- | --- |
+| II. Contribuições R$ 1.900.000 (FG em jan/2022) | Receita orçamentária de 1.900.000 |
+| III. Serviços R$ 351.200 (FG dez/2021) | Receita orçamentária de 351.200 |
+| X. Doação em dinheiro R$ 68.000, sem condições atreladas | Receita orçamentária de 68.000 |
+| XI. Transferências correntes R$ 2.140.000 (FG nov/2021) | Receita orçamentária de 2.140.000 |
+| **Receitas Orçamentárias = R$ 4.459.200** | soma dos 4 itens acima |
+| VIII. Operação de crédito por ART R$ 980.000 (jan/2022); amortização/juros pagos só em out/2022 | Ingresso extraorçamentário de 980.000 |
+| IV. Consultoria empenhada e liquidada em R$ 500.000 (mar-ago/2022); desembolso só em out/2022 | Também conta como ingresso extraorçamentário de 500.000 (inscrição em restos a pagar) — compensa a despesa orçamentária do mesmo item |
+| **Ingressos Extraorçamentários + Transferências Recebidas = R$ 1.480.000** | soma dos 2 itens acima |
+| IV. (mesmo fato acima) | Despesa orçamentária de 500.000 (reconhecida pelo empenho, apesar do desembolso posterior) |
+| V. Pessoal — empenho, liquidação e pagamento de R$ 3.100.000 | Despesa orçamentária de 3.100.000 |
+| **Despesas Orçamentárias = R$ 3.600.000** | soma dos 2 itens acima |
+| I. Alienação de imóvel por R$ 350.000 (custo 310.000, deprec./impairment acum. 110.000), arrecadada em jul/2022 | Receita orçamentária só em jul/2022; enfoque patrimonial: receita de 150.000 (lucro na alienação) |
+| VI. Lançamento de impostos/contrib. de melhoria R$ 4.850.000, arrecadado fev-out/2022 | Enfoque patrimonial no lançamento; receita orçamentária só quando arrecadada |
+| VII. Restos a pagar não processados (dez/2021) de R$ 19.000, material usado e pago em abr/2022 | Despesa orçamentária já em 2021 (ano do empenho); a VPD (enfoque patrimonial) só ocorre em abr/2022 |
+| IX. Suprimento de fundos de R$ 300, concedido e usado em dez/2021 | Não interfere no resultado da execução orçamentária; é VPD independente, reduz o ativo |
+| XII. Depreciação mensal do imobilizado, R$ 160.000 | Não interfere no resultado orçamentário; VPD independente, reduz o ativo |
+| XIII. Reversão de provisões trabalhistas, R$ 400.000 (reconhecidas fev/2021) | Não interfere no resultado orçamentário; VPA independente, reduz o passivo |
+| XIV. Utilização de material de consumo, R$ 4.000 (adquirido ago/2020) | Não interfere no resultado orçamentário; VPD independente, reduz o ativo |
+
+**Resultado Financeiro = 4.459.200 + 1.480.000 − 3.600.000 = R$ 2.339.200**
+
+⚠️ O item IV admite duas leituras: se só o **desembolso financeiro** (pagamento) contasse, ele não entraria em despesas orçamentárias — e a fórmula usaria receitas arrecadadas e despesas **pagas**. O padrão do MCASP usa despesas **empenhadas**: receitas arrecadadas + ingressos extraorçamentários + transferências recebidas − despesas empenhadas − dispêndios extraorçamentários − transferências concedidas.
 ## - BP
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -740,6 +809,21 @@ Imobilizado · propriedade para investimento · intangível · ativos financeiro
 ⚠️ A diferença entre os métodos está **só** nas atividades operacionais — investimento e financiamento seguem o mesmo raciocínio nos dois. Quem usa o direto é **incentivado** (não obrigado, diferente da regra privada) a apresentar também a conciliação com o resultado das atividades usuais.
 
 **Transações sem efeito caixa** (troca de ativos, assunção direta de passivo, arrendamento financeiro, conversão de dívida em PL): **não entram** na DFC — só em notas explicativas.
+
+#### Efeitos de variação cambial (NBC TSP 12, item 39)
+
+Ganhos e perdas não realizados de variação cambial **não são fluxos de caixa** — mas o efeito da variação cambial sobre caixa e equivalentes de caixa mantidos ou devidos em moeda estrangeira deve aparecer **separadamente**, na DFC, das atividades operacionais/investimento/financiamento, para conciliar o caixa no início e no fim do período.
+
+#### Exemplo — apuração da geração líquida de caixa
+
+| Atividade | Ingressos | Desembolsos | Líquido |
+| --- | --- | --- | --- |
+| Operacionais | 25.647.320 (impostos/taxas/contrib. 23.654.320 + contribuições 880.000 + patrimonial 963.000 + transferências recebidas 150.000) | 6.675.000 (pessoal 745.000 + juros/encargos da dívida 25.000 + outros desembolsos operacionais 625.000 + transferências concedidas 5.280.000) | 18.972.320 |
+| Investimento | 20.000.000 (alienação de bens 5.000.000 + amortização de empréstimos concedidos 15.000.000) | 800.000 (aquisição de ativo imobilizado) | 19.200.000 |
+| Financiamento | 16.000.000 (operações de crédito contratadas) | 5.400.000 (refinanciamento de dívida) | 10.600.000 |
+
+**Geração líquida de caixa** = 18.972.320 + 19.200.000 + 10.600.000 = **R$ 48.772.320**
+**Saldo final** = geração líquida + saldo inicial = 48.772.320 + 12.000.000 = **R$ 60.772.320**
 
 ## - DMPL
 - [ ] status [dom:: 0] [peso:: 3]
