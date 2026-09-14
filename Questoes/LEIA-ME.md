@@ -123,6 +123,9 @@ Mês por bloco, Evolução, Por slot.
 **Visão de decisão** — Ganho potencial, Fila de reforço, Diagnóstico de erro
 (este último só rende dado depois que `erro_tipo` começa a ser preenchido).
 
+**Visão de execução** — Plano do dia: dentro de cada slot, quais subtópicos
+ler, praticar em questões e revisar (roda `PY/plano-dia.py`).
+
 Abra qualquer um deles com o Dataview ativo.
 
 ## O ritual que fecha a alça
@@ -131,6 +134,7 @@ Painel que ninguém abre é enfeite.
 
 | Painel | Frequência |
 | --- | --- |
+| Plano do dia | Todo dia, antes do S2 |
 | Dia | Ao fechar o dia, para conferir se todos os cadernos foram registrados |
 | Ganho potencial | Domingo, no fechamento de ciclo |
 | Fila de reforço | Domingo, na sequência |
