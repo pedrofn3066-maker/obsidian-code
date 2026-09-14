@@ -5,7 +5,7 @@ revisado:
 prova: II
 peso: 3
 pontos: 30
-origem: "BA 2019 (Prova I) · CE 2026 · SP 2026"
+origem: BA 2019 (Prova I) · CE 2026 · SP 2026
 prioridade: crítico
 ---
 
@@ -69,16 +69,16 @@ De qualquer forma, não é matéria separada de LTE: é a mesma matéria em outr
 
 # Bloco A:  
 ## Conceito de Tributo;   
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5886?indice=1&materia=3680)
 
 **O poder público tem o dever de lançar e cobrar o tributo devido, não há análise de conveniência e de oportunidade, não há discricionariedade.**
 
 
 ## Classificação dos Tributos;   
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 ## Natureza Jurídica dos Tributos;   
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/3679?indice=1&materia=3680)
 ![[Pasted image 20260823173037.png]]
 Ocorre que a CF/88 previu a instituição de dois novos tributos, que passaram a integrar o sistema tributários brasileiro, quais sejam: <mark style="background:rgba(163, 67, 31, 0.2)">as contribuições especiais e os empréstimos compulsórios.</mark> **Para esses dois novos tributos, torna-se relevante a destinação legal do produto da sua arrecadação, pois tratam-se de tributos finalísticos.** Tributos finalísticos são aqueles onde a destinação do produto da arrecadação é relevante para identificar a natureza jurídica da espécie tributária, uma vez que a Constituição afetou a arrecadação da exação a determinados fins.
@@ -169,7 +169,7 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 - [ ] status [dom:: 0] [peso:: 3]
 ## Legislação Tributária;   
 ### VIGÊNCIA DA LEGISLAÇÃO TRIBUTÁRIA(arts. 101 a 106 do CTN);
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-14
 tec resumo:
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/590).
 ![[Pasted image 20260821145018.png|832]]
@@ -180,13 +180,13 @@ tec resumo:
 
 
 ### Interpretação e Integração da Legislação Tributária (arts. 107 a 112 do CTN);
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?indice=1&materia=589).
 
 ## Obrigação Tributária.
 
 ### Fato Gerador (arts. 114 a 118 do CTN)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?indice=1&materia=592)
 
 - #jurisprudencia 
@@ -207,7 +207,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
 ## Sujeito Passivo 
 - [ ] status [dom:: 0] [peso:: 3]
 ## Responsabilidade Tributária
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 
 >Art. 97. **Somente a lei pode estabelecer:** 
   III - a definição do fato gerador da obrigação tributária principal, ressalvado o disposto no inciso I do § 3º do art. 52, e do seu **sujeito passivo;**
@@ -230,7 +230,7 @@ VII - os sócios, no caso de liquidação de sociedade de pessoas.
 # Bloco C:   
 ## Crédito Tributário;   
 ### Lançamento
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 
 Art. 149. O lançamento **é efetuado e revisto de ofício pela autoridade administrativa** nos seguintes casos:  
 [...]  
@@ -358,7 +358,7 @@ O **Direito Processual Tributário** compreende o conjunto de normas que regulam
 ## 1. Introdução à Execução Fiscal
 
 ### 1.1. Constituição Definitiva do Crédito Tributário
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 1] [peso:: 3] ✅ 2026-09-14
 
 A **constituição definitiva do crédito tributário** é condição essencial para o início da execução fiscal e pode ocorrer nas seguintes hipóteses:
 
@@ -372,7 +372,7 @@ A **constituição definitiva do crédito tributário** é condição essencial 
 ✏️Lembre-se: durante o **processo administrativo**, ocorre o **controle interno de legalidade** pela Administração Tributária.
 
 ### 1.2. Inscrição em Dívida Ativa e CDA
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-14
 
 O objetivo da inscrição em dívida ativa é extrair a **Certidão de Dívida Ativa (CDA)**, que é um **título executivo extrajudicial** que viabiliza a **propositura da ação de execução fiscal.**
 

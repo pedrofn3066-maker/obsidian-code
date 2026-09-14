@@ -261,7 +261,7 @@ A distinção **insubsistência × superveniência** existe no guia como figura,
 
 
 ### - Ajuste a Valor Presente (CPC 12); e
-- [ ] status [dom:: 2] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-14
 
 Valor presente é a estimativa do valor corrente de um fluxo de caixa futuro no curso normal das operações — o fluxo pode ser de entrada ou de saída.
 
@@ -306,7 +306,7 @@ Receita = 5.000 (parcela de curto prazo) + 95.000 / 1,10 = 86.364 → 91.364
 <mark style="background:#fff88f">AVP se aplica a operações de financiamento, não a operações de curto prazo sem efeito material.</mark> Evidência de juros embutidos: desconto financeiro para pagamento antecipado, ou tabela de preços distinta para pagamento à vista.
 
 ### - Mensuração a Valor Justo (CPC 46)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-14
 
 Valor justo é o valor de **mercado**: o preço de uma transação **ordenada** entre participantes do mercado, **sem favorecimentos**, na **data de mensuração**. Não é o valor pago no passado nem uma estimativa interna da entidade.
 
@@ -339,7 +339,7 @@ Onde o valor justo é a mensuração obrigatória ou opcional em outros tópicos
 > O guia VINTEUM **não tem capítulo dedicado ao CPC 46** — só a definição de valor justo dentro das bases de mensuração e os usos espalhados acima. Falta aqui, e precisa vir de outra fonte: **mercado principal × mercado mais vantajoso**, a **hierarquia de níveis 1, 2 e 3** dos dados de entrada, e a **premissa da melhor utilização possível** (*highest and best use*) para ativos não financeiros. São 2,2% do edital.
 
 ### - Políticas, erros e estimativas contábeis (CPC 23);
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 
 Objetivo do CPC 23: melhorar relevância e confiabilidade das demonstrações e permitir **comparabilidade** ao longo do tempo e com outras entidades.
 
