@@ -1,9 +1,12 @@
 /* Intentionally minimal for now. The rewrite will add styles only when needed. */
 
 /* Render-preview: keep ==highlight== and {{cN::body}} visually unified. */
+/* Theme-owned colours: a hardcoded light background leaves the inherited
+   (light) text unreadable in dark themes. */
 .markdown-rendered mark,
 .markdown-rendered .ff-cloze {
-  background: #fff3a8;
+  background: var(--text-highlight-bg);
+  color: var(--text-normal);
   padding: 0 0.1em;
   border-radius: 2px;
 }
@@ -31,7 +34,8 @@
 /* Live Preview surfaces inside the CM6 editor. */
 .cm-editor .ff-cloze,
 .cm-editor mark {
-  background: #fff3a8;
+  background: var(--text-highlight-bg);
+  color: var(--text-normal);
   padding: 0 0.1em;
   border-radius: 2px;
 }
@@ -81,10 +85,13 @@
   padding: var(--metadata-input-padding);
 }
 
-.metadata-property[data-property-key="flashcards"]
+/* `body` is here purely to out-specify Obsidian's own
+   `.metadata-property-value > *` rule without resorting to `!important`. */
+body
+  .metadata-property[data-property-key="flashcards"]
   .metadata-property-value
   > * {
-  display: none !important;
+  display: none;
 }
 
 .metadata-property[data-property-key="flashcards"]
@@ -99,4 +106,18 @@
   font-weight: var(--font-normal);
   line-height: var(--line-height-tight);
   padding: var(--size-2-1) var(--size-4-2);
+}
+
+/* Status-bar items. Kept in the stylesheet rather than set inline so themes
+   and snippets can override them. `hidden` is declared last so it wins over
+   `pending` if an element ever carries both. */
+.flashcards-status-pending {
+  align-items: center;
+  color: var(--text-warning);
+  display: inline-flex;
+  gap: var(--size-2-1);
+}
+
+.flashcards-status-hidden {
+  display: none;
 }

@@ -1,3 +1,7 @@
 2026-09-11T17:35:51.353Z [INFO] plugin loaded {"version":"2.0.1"}
 2026-09-11T17:43:47.992Z [INFO] plugin loaded {"version":"2.0.1"}
 2026-09-12T14:39:47.916Z [INFO] plugin loaded {"version":"2.0.1"}
+2026-09-14T17:37:14.625Z [INFO] plugin unloading
+2026-09-14T17:37:14.683Z [INFO] plugin loaded {"version":"2.1.1"}
+2026-09-14T17:37:45.798Z [INFO] plugin loaded {"version":"2.1.1"}
+2026-09-14T18:42:42.505Z [INFO] plugin loaded {"version":"2.1.1"}
