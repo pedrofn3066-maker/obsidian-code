@@ -75,6 +75,22 @@ CF/88, art. 156-A e art. 195; LC nº 214/25, art. 1º.
 | **IBS** — Imposto sobre Bens e Serviços | <mark style="background:#fff88f">compartilhada</mark> entre Estados, Municípios e Distrito Federal |
 | **CBS** — Contribuição Social sobre Bens e Serviços | <mark style="background:#fff88f">exclusiva</mark> da União |
 
+## Comitê Gestor do IBS: distribuição do produto da arrecadação
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Papel da lei complementar (LC nº 214/2025)** — para o IBS, cabe à LC dispor sobre:
+1. distribuição do produto da arrecadação: forma de cálculo, tratamento de operações com imposto não recolhido, distribuição em regimes favorecidos/específicos/diferenciados;
+2. processo administrativo fiscal;
+3. hipóteses de devolução do imposto a pessoas físicas (cashback), inclusive limites e beneficiários, para reduzir desigualdade de renda.
+
+Uma única lei complementar institui IBS e CBS — LC nº 214/2025, promulgada em 16/01/2025.
+
+**Distribuição do produto da arrecadação (art. 156-A, § 4º, CF)** — o Comitê Gestor do IBS:
+> I - reterá montante equivalente ao saldo acumulado de créditos do imposto não compensados pelos contribuintes e não ressarcidos ao final de cada período de apuração e aos valores decorrentes do cumprimento do § 5º, VIII (cashback);
+> II - distribuirá o produto da arrecadação do imposto, deduzida a retenção do inciso I, ao ente federativo de destino das operações que não tenham gerado creditamento.
+
+Mecânica da distribuição: (+) total arrecadado de IBS no período (-) reserva para saldo credor/ressarcimento das empresas (-) reserva para cashback da população (=) saldo distribuído a Estados e Municípios.
+
 # BLOCO 2.  LC 214: Regra-Matriz de Incidência Tributária (RMIT)
 	Então, quanto às doações sem contraprestação em benefício do doador:
 - **Regra geral:** **Não incide IBS e CBS**
@@ -165,6 +181,12 @@ LC nº 214/2025, arts. 326 e ss. (contencioso administrativo do IBS/CBS).
 
 Convênio de delegação recíproca do julgamento do contencioso administrativo do lançamento de ofício do IBS e da CBS (art. 326): celebrado entre <mark style="background:#fff88f">Ministério da Fazenda e Comitê Gestor do IBS</mark>, limitado ao lançamento de ofício de <mark style="background:#fff88f">pequeno valor</mark>.
 ⚠️ Banca troca os polos do convênio — não é entre RFB e administrações tributárias estaduais/municipais.
+
+## Representação administrativa e judicial do IBS (art. 156-B, § 2º, V, CF)
+- [ ] status [dom:: 0] [peso:: 3]
+
+Fiscalização, lançamento, cobrança, representação administrativa e representação judicial relativos ao IBS são exercidos, no âmbito de suas competências, pelas administrações tributárias e procuradorias dos Estados, DF e Municípios — não por órgão federal ou pelo próprio Comitê Gestor.
+> Art. 156-B, § 2º, V, CF. [...] a fiscalização, o lançamento, a cobrança, a representação administrativa e a representação judicial relativos ao imposto serão realizados, no âmbito de suas respectivas competências, pelas administrações tributárias e procuradorias dos Estados, do Distrito Federal e dos Municípios, que poderão definir hipóteses de delegação ou de compartilhamento de competências, cabendo ao Comitê Gestor a coordenação dessas atividades administrativas com vistas à integração entre os entes federativos.
 
 ## Fiscalização: omissão de receita e presunções (art. 335)
 - [ ] status [dom:: 0] [peso:: 3]

@@ -97,6 +97,10 @@ Art. 78. Parágrafo único. Considera-se regular o **exercício do poder de pol�
 ![](https://cdn.tecconcursos.com.br/img/teoria/importante.png)
 **O regime jurídico servirá como principal parâmetro para diferenciar as taxas das tarifas.** As taxas, por serem tributos, estão sujeitas ao direito público e seus princípios. Já as tarifas, seguem os princípios do direito privado.
 
+⚠️ Taxa pela emissão de guia/carnê de recolhimento é inconstitucional (STF): a emissão do carnê (ex.: IPTU) não é serviço público prestado ao contribuinte, mas atividade administrativa de arrecadação no interesse exclusivo do Fisco.
+
+A taxa **municipal** pelos serviços de prevenção e combate a incêndio é inconstitucional; já a taxa **estadual** equivalente — prestada pelos Corpos de Bombeiros Militares — foi declarada constitucional pelo STF (Tema 1.282/RE 1.417.155), julgamento mais recente que distingue as duas esferas.
+
 ![[Pasted image 20260823174420.png]]
 
 	Contribuição de Melhoria 
@@ -162,6 +166,13 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 
 **Imunidade subjetiva (art. 150, VI, "c")** — vedado instituir impostos sobre patrimônio, renda ou serviços de: partidos políticos (inclusive suas fundações), entidades sindicais **dos trabalhadores**, instituições de educação e de assistência social sem fins lucrativos — atendidos os requisitos de lei.
 
+**Princípio da anualidade tributária — extinto pela CF/88.** Antes de 1988, um tributo só podia ser cobrado se constasse da Lei Orçamentária Anual (Súmula STF 545). A CF/88 não repetiu essa exigência: hoje a previsão na LOA não é condição para a cobrança do tributo.
+> Súmula STF 545. Preços de serviços públicos e taxas não se confundem, porque estas, diferentemente daqueles, são compulsórias e têm sua cobrança condicionada à prévia autorização orçamentária, em relação à lei que as instituiu.
+
+Mesmo sem a anualidade, a legalidade tributária estrita permanece: não há tributação sem representação democrática (STF, RE 414.249 AgR).
+
+Distinção de regime: preço público/tarifa é facultativo; taxa é compulsória e pressupõe serviço público de prestação obrigatória ou exercício de poder de polícia (STF, STA 710 MC).
+
 
   
 # Bloco B:  
@@ -206,6 +217,10 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
 - [ ] status [dom:: 0] [peso:: 3]
 ## Sujeito Passivo 
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Convenções particulares não vinculam a Fazenda Pública** — contrato de locação que atribui ao locatário a responsabilidade pelo IPTU não produz efeito perante o Fisco; o contribuinte continua sendo o proprietário (locador).
+> Art. 123, CTN. Salvo disposições de lei em contrário, as convenções particulares, relativas à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a definição legal do sujeito passivo das obrigações tributárias correspondentes.
+> Art. 34, CTN. Contribuinte do imposto [IPTU] é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor a qualquer título.
 ## Responsabilidade Tributária
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 
@@ -335,6 +350,22 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 **§ 1º** Sem prejuízo da progressividade no tempo a que se refere o art. 182, § 4º, inciso II, **o imposto previsto no inciso I poderá:** 
 I – ser progressivo em razão do valor do imóvel; e 
 **II – ter alíquotas diferentes de acordo com a localização e o uso do imóvel.**
+
+**Jurisprudência — IPTU**
+
+⚠️ Progressividade de alíquotas × alíquotas diferenciadas: antes da EC 29/2000, lei municipal que instituísse alíquotas *progressivas* de IPTU era inconstitucional, salvo para assegurar a função social da propriedade (Súmula STF 668). Mas alíquotas *diferenciadas* por localização/uso (edificado × não edificado, residencial × não residencial) já eram constitucionais mesmo antes da EC 29/2000 (STF, Plenário, 11/05/2020).
+
+Legitimidade passiva: o promitente comprador é legitimado a figurar no polo passivo da execução fiscal de IPTU **junto com** o proprietário registrado no Registro de Imóveis — cabe ao legislador municipal eleger o sujeito passivo entre as hipóteses do CTN.
+> Súmula STF 583. Promitente comprador de imóvel residencial transcrito em nome de autarquia é contribuinte do imposto predial territorial urbano.
+
+Área urbanizável/de expansão urbana: a lei municipal que assim classifica a área afasta, por si só, a exigência dos melhoramentos do art. 32, § 1º, CTN.
+> Súmula STJ 626. A incidência do IPTU sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana não está condicionada à existência dos melhoramentos elencados no art. 32, § 1º, do CTN.
+
+### 2. Imposto sobre Serviços - ISS
+- [ ] status [dom:: 0] [peso:: 3]
+
+Jurisprudência: incidência do ISS sobre leasing financeiro e lease-back, mas não sobre leasing operacional.
+> RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ISS. ARRENDAMENTO MERCANTIL. OPERAÇÃO DE LEASING FINANCEIRO. ARTIGO 156, III, DA CONSTITUIÇÃO DO BRASIL. O arrendamento mercantil compreende três modalidades, [i] o leasing operacional, [ii] o leasing financeiro e [iii] o chamado lease-back. No primeiro caso há locação, nos outros dois, serviço. A lei complementar não define o que é serviço, apenas o declara, para os fins do inciso III do artigo 156 da Constituição. Não inventa, simplesmente descobre o que é serviço para os efeitos do inciso III do artigo 156 da Constituição. No arrendamento mercantil (leasing financeiro), contrato autônomo que não é misto, o núcleo é o financiamento, não uma prestação de dar. E financiamento é serviço, sobre o qual o ISS pode incidir, resultando irrelevante a existência de uma compra nas hipóteses do leasing financeiro e do lease-back. (STF – RE 592.905, Rel. Min. Eros Grau, Tribunal Pleno, j. 02/12/2009, repercussão geral).
 
 ## Planejamento Tributário: Elisão, Evasão e Elusão Fiscal
 - [ ] status [dom:: 0] [peso:: 3]
