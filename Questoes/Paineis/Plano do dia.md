@@ -15,6 +15,8 @@ Este painel responde, para cada slot do dia, **quais subtópicos ler, quais prat
 
 ## Como rodar
 
+**[▶ Gerar o plano de hoje](obsidian://shell-commands/?vault=vault-ba&execute=planodia01)** — ou `Cmd+P` → *Execute: Plano do dia*. Os dois rodam o script pelo plugin Shell commands e abrem a página no navegador; erro do script aparece como notificação no Obsidian. Só funciona no Mac (o iPhone não roda Python).
+
 O Dataview não lê histórico do git, então o cálculo mora em `PY/plano-dia.py` — mesmo arranjo do bloco 3 de [[S1 - Revisão de ontem]]. No Terminal (a aba ao lado da conversa no Claude Code, ou o Terminal.app):
 
 ```
