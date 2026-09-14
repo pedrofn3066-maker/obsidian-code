@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Resumo Jurisprudencia - Direito Constitucional (VINTEUM Fiscal 4.0)"
+title: Resumo Jurisprudencia - Direito Constitucional (VINTEUM Fiscal 4.0)
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -12,16 +12,16 @@ related:
   - "[[P1 - Direito Constitucional]]"
 sources: []
 source_type: compilation
-author: "VINTEUM Concursos"
+author: VINTEUM Concursos
 date_published: ""
 url: ""
-source_id: "4653b4d7288a"
-sha256: "4653b4d7288a6e04902f70c4236ef0d7e15438062a5c719303db9c757848c135"
+source_id: 4653b4d7288a
+sha256: 4653b4d7288a6e04902f70c4236ef0d7e15438062a5c719303db9c757848c135
 authority: secondary
-independence_key: "vinteum-fiscal-4.0"
+independence_key: vinteum-fiscal-4.0
 review_state: active
 key_claims:
-  - "Compilacao de 30 sumulas vinculantes e cerca de 25 sumulas comuns (STF/STJ) em materia de Direito Constitucional."
+  - Compilacao de 30 sumulas vinculantes e cerca de 25 sumulas comuns (STF/STJ) em materia de Direito Constitucional.
   - "Compilacao de julgados organizados em 9 blocos tematicos: Direitos e Garantias Fundamentais, Organizacao do Estado, Competencias Legislativas, Poder Legislativo, Processo Legislativo, Fiscalizacao Contabil/Financeira/Orcamentaria, Poder Executivo, Poder Judiciario, Funcoes Essenciais a Justica."
 ---
 

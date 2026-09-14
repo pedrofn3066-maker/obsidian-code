@@ -4,17 +4,17 @@ data: 2026-09-12
 materia: Direito Constitucional
 bloco: Const./Adm./Civil/Penal
 assuntos:
-  - "Questões Mescladas de Remédios Constitucionais"
-  - "Jurisprudência dos Tribunais Superiores sobre Direitos e Deveres Individuais e Coletivos"
-  - "Jurisprudência dos Tribunais Superiores sobre Remédios Constitucionais"
-  - "Jurisprudência dos Tribunais Superiores sobre Direitos Sociais e dos Trabalhadores"
-  - "Jurisprudência dos Tribunais Superiores sobre Nacionalidade"
-  - "Jurisprudência dos Tribunais Superiores sobre Direitos Políticos"
-  - "Jurisprudência dos Tribunais Superiores sobre Partidos Políticos"
-  - "Jurisprudência dos Tribunais Superiores sobre Organização Político-Administrativa"
-  - "Jurisprudência dos Tribunais Superiores sobre Organização, Competências e Bens dos Entes Federativos"
-  - "Jurisprudência dos Tribunais Superiores sobre Intervenção Federal e Estadual"
-  - "Jurisprudência dos Tribunais Superiores sobre Administração Pública"
+  - Questões Mescladas de Remédios Constitucionais
+  - Jurisprudência dos Tribunais Superiores sobre Direitos e Deveres Individuais e Coletivos
+  - Jurisprudência dos Tribunais Superiores sobre Remédios Constitucionais
+  - Jurisprudência dos Tribunais Superiores sobre Direitos Sociais e dos Trabalhadores
+  - Jurisprudência dos Tribunais Superiores sobre Nacionalidade
+  - Jurisprudência dos Tribunais Superiores sobre Direitos Políticos
+  - Jurisprudência dos Tribunais Superiores sobre Partidos Políticos
+  - Jurisprudência dos Tribunais Superiores sobre Organização Político-Administrativa
+  - Jurisprudência dos Tribunais Superiores sobre Organização, Competências e Bens dos Entes Federativos
+  - Jurisprudência dos Tribunais Superiores sobre Intervenção Federal e Estadual
+  - Jurisprudência dos Tribunais Superiores sobre Administração Pública
 slot:
 total: 20
 acertos: 8

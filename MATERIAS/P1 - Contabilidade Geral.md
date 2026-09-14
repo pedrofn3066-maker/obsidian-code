@@ -5,7 +5,7 @@ revisado:
 prova: I
 peso: 2
 pontos: 20
-origem: "BA 2019 · CE 2026 (Geral e Pública)"
+origem: BA 2019 · CE 2026 (Geral e Pública)
 prioridade: importante
 ---
 

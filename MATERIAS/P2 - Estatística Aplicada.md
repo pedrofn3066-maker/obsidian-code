@@ -5,7 +5,7 @@ revisado:
 prova: II
 peso: 3
 pontos: 15
-origem: "BA 2019"
+origem: BA 2019
 prioridade: importante
 ---
 

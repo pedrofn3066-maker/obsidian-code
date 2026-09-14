@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Resumo LC 214/2025 Titulo I Reforma Tributaria (VINTEUM Fiscal 4.0)"
+title: Resumo LC 214/2025 Titulo I Reforma Tributaria (VINTEUM Fiscal 4.0)
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -13,16 +13,16 @@ related:
   - "[[P2 - Direito Tributário]]"
 sources: []
 source_type: compilation
-author: "VINTEUM Concursos"
+author: VINTEUM Concursos
 date_published: ""
 url: ""
-source_id: "4170f9ea6a41"
-sha256: "4170f9ea6a41337e943d02d411fcfdd13bbad39b8474b0f3ce650d34af1bdbd7"
+source_id: 4170f9ea6a41
+sha256: 4170f9ea6a41337e943d02d411fcfdd13bbad39b8474b0f3ce650d34af1bdbd7
 authority: secondary
-independence_key: "vinteum-fiscal-4.0"
+independence_key: vinteum-fiscal-4.0
 review_state: active
 key_claims:
-  - "Facilitador de leitura da lei seca do Titulo I da LC 214/2025 (IBS e CBS), atualizado com as alteracoes da LC 227/2026, que aparecem destacadas em verde no PDF original."
+  - Facilitador de leitura da lei seca do Titulo I da LC 214/2025 (IBS e CBS), atualizado com as alteracoes da LC 227/2026, que aparecem destacadas em verde no PDF original.
 ---
 
 # Resumo LC 214/2025 Titulo I Reforma Tributaria (VINTEUM Fiscal 4.0)

@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Resumo Jurisprudencia - Direito Administrativo (VINTEUM Fiscal 4.0)"
+title: Resumo Jurisprudencia - Direito Administrativo (VINTEUM Fiscal 4.0)
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -12,17 +12,17 @@ related:
   - "[[P1 - Direito Administrativo]]"
 sources: []
 source_type: compilation
-author: "VINTEUM Concursos"
+author: VINTEUM Concursos
 date_published: ""
 url: ""
-source_id: "927498a8b9cb"
-sha256: "927498a8b9cb7d345d2dd8197a2490cef29372775475dd115149b48c02b24812"
+source_id: 927498a8b9cb
+sha256: 927498a8b9cb7d345d2dd8197a2490cef29372775475dd115149b48c02b24812
 authority: secondary
-independence_key: "vinteum-fiscal-4.0"
+independence_key: vinteum-fiscal-4.0
 review_state: active
 key_claims:
-  - "Compilacao de 10 sumulas vinculantes do STF em materia de Direito Administrativo, em ordem numerica crescente."
-  - "Compilacao de julgados do STF/STJ organizados em 9 blocos tematicos, ordenados do mais recente ao mais antigo dentro de cada bloco."
+  - Compilacao de 10 sumulas vinculantes do STF em materia de Direito Administrativo, em ordem numerica crescente.
+  - Compilacao de julgados do STF/STJ organizados em 9 blocos tematicos, ordenados do mais recente ao mais antigo dentro de cada bloco.
 ---
 
 # Resumo Jurisprudencia - Direito Administrativo (VINTEUM Fiscal 4.0)

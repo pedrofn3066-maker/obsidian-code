@@ -1,6 +1,6 @@
 ---
 type: concept
-title: "Sumulas Vinculantes - Direito Administrativo"
+title: Sumulas Vinculantes - Direito Administrativo
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -13,7 +13,7 @@ related:
   - "[[P1 - Direito Administrativo]]"
 sources:
   - "[[Resumo Jurisprudencia - Direito Administrativo (VINTEUM)]]"
-domain: "Direito Administrativo"
+domain: Direito Administrativo
 complexity: intermediate
 ---
 

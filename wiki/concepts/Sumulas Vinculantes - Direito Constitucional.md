@@ -1,6 +1,6 @@
 ---
 type: concept
-title: "Sumulas Vinculantes - Direito Constitucional"
+title: Sumulas Vinculantes - Direito Constitucional
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -13,7 +13,7 @@ related:
   - "[[P1 - Direito Constitucional]]"
 sources:
   - "[[Resumo Jurisprudencia - Direito Constitucional (VINTEUM)]]"
-domain: "Direito Constitucional"
+domain: Direito Constitucional
 complexity: intermediate
 ---
 

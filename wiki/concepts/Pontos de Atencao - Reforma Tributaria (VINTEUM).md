@@ -1,6 +1,6 @@
 ---
 type: concept
-title: "Pontos de Atencao - Reforma Tributaria (VINTEUM)"
+title: Pontos de Atencao - Reforma Tributaria (VINTEUM)
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -13,7 +13,7 @@ related:
   - "[[P2 - Reforma Tributária]]"
 sources:
   - "[[Resumo EC 132-2023 Reforma Tributaria (VINTEUM)]]"
-domain: "Direito Tributario"
+domain: Direito Tributario
 complexity: intermediate
 ---
 

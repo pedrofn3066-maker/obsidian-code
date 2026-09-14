@@ -5,7 +5,7 @@ revisado:
 prova: II
 peso: 3
 pontos: 0
-origem: "CE 2026 · SP 2026"
+origem: CE 2026 · SP 2026
 prioridade: importante
 ---
 

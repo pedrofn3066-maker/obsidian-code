@@ -4,11 +4,11 @@ data: 2026-09-12
 materia: Língua Portuguesa
 bloco: Língua Portuguesa
 assuntos:
-  - "Sinônimos e Antônimos"
-  - "Concordância (Verbal e Nominal)"
-  - "Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc)"
-  - "Tipologia e Gênero Textual"
-  - "Reescrita de Frases. Substituição de Palavras ou Trechos de Texto."
+  - Sinônimos e Antônimos
+  - Concordância (Verbal e Nominal)
+  - Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc)
+  - Tipologia e Gênero Textual
+  - Reescrita de Frases. Substituição de Palavras ou Trechos de Texto.
 slot:
 total: 22
 acertos: 14

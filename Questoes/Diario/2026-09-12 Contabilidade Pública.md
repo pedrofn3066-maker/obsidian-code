@@ -4,16 +4,16 @@ data: 2026-09-12
 materia: Contabilidade Pública
 bloco: Cont. Geral e Pública
 assuntos:
-  - "Redução ao Valor Recuperável (MCASP, NBC TSP 09 e 10)"
-  - "Depreciação, Amortização e Exaustão (NBC TSP 07, MCASP, etc.)"
-  - "Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)"
-  - "Introdução às DCASP (Parte V, Capítulo 1 do MCASP e NBC TSP 11)"
-  - "Balanço Orçamentário (MCASP e NBC TSP 13)"
-  - "Balanço Financeiro"
-  - "Balanço Patrimonial (AFO e CPU)"
-  - "Demonstração das Variações Patrimoniais (DVP)"
-  - "Demonstração de Fluxo de Caixa (MCASP e NBC TSP 12)"
-  - "NBC TSP 34 - Custos no Setor Público"
+  - Redução ao Valor Recuperável (MCASP, NBC TSP 09 e 10)
+  - Depreciação, Amortização e Exaustão (NBC TSP 07, MCASP, etc.)
+  - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+  - Introdução às DCASP (Parte V, Capítulo 1 do MCASP e NBC TSP 11)
+  - Balanço Orçamentário (MCASP e NBC TSP 13)
+  - Balanço Financeiro
+  - Balanço Patrimonial (AFO e CPU)
+  - Demonstração das Variações Patrimoniais (DVP)
+  - Demonstração de Fluxo de Caixa (MCASP e NBC TSP 12)
+  - NBC TSP 34 - Custos no Setor Público
 slot:
 total: 21
 acertos: 9

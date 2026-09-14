@@ -5,7 +5,7 @@ revisado:
 prova: I
 peso: 2
 pontos: 0
-origem: "CE 2026"
+origem: CE 2026
 prioridade: complementar
 ---
 

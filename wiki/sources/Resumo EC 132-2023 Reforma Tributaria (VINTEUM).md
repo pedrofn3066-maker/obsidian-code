@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Resumo EC 132/2023 Reforma Tributaria (VINTEUM Fiscal 4.0)"
+title: Resumo EC 132/2023 Reforma Tributaria (VINTEUM Fiscal 4.0)
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -13,16 +13,16 @@ related:
   - "[[P2 - Direito Tributário]]"
 sources: []
 source_type: compilation
-author: "VINTEUM Concursos"
+author: VINTEUM Concursos
 date_published: ""
 url: ""
-source_id: "133bb146b935"
-sha256: "133bb146b9359e10ab8b7c620df98a6b6c2a8d769176fc9fffbaa5626353a211"
+source_id: 133bb146b935
+sha256: 133bb146b9359e10ab8b7c620df98a6b6c2a8d769176fc9fffbaa5626353a211
 authority: secondary
-independence_key: "vinteum-fiscal-4.0"
+independence_key: vinteum-fiscal-4.0
 review_state: active
 key_claims:
-  - "Facilitador de leitura da lei seca da Emenda Constitucional no 132/2023, reorganizando os dispositivos constitucionais da Reforma Tributaria com anotacoes de atencao e mnemonicos."
+  - Facilitador de leitura da lei seca da Emenda Constitucional no 132/2023, reorganizando os dispositivos constitucionais da Reforma Tributaria com anotacoes de atencao e mnemonicos.
 ---
 
 # Resumo EC 132/2023 Reforma Tributaria (VINTEUM Fiscal 4.0)

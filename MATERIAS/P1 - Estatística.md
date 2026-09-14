@@ -5,7 +5,7 @@ revisado:
 prova: I
 peso: 2
 pontos: 14
-origem: "BA 2019 · CE 2026 (com Mat. Financeira e RL)"
+origem: BA 2019 · CE 2026 (com Mat. Financeira e RL)
 prioridade: importante
 ---
 

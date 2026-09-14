@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Resumo Jurisprudencia - Direito Tributario (VINTEUM Fiscal 4.0)"
+title: Resumo Jurisprudencia - Direito Tributario (VINTEUM Fiscal 4.0)
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -12,16 +12,16 @@ related:
   - "[[P2 - Direito Tributário]]"
 sources: []
 source_type: compilation
-author: "VINTEUM Concursos"
+author: VINTEUM Concursos
 date_published: ""
 url: ""
-source_id: "7237a5e21b12"
-sha256: "7237a5e21b1223166b6536a2f9bf06eff6029596f453ba5ee5b17a7fdb71e0a6"
+source_id: 7237a5e21b12
+sha256: 7237a5e21b1223166b6536a2f9bf06eff6029596f453ba5ee5b17a7fdb71e0a6
 authority: secondary
-independence_key: "vinteum-fiscal-4.0"
+independence_key: vinteum-fiscal-4.0
 review_state: active
 key_claims:
-  - "Compilacao de 15 sumulas vinculantes do STF em materia de Direito Tributario."
+  - Compilacao de 15 sumulas vinculantes do STF em materia de Direito Tributario.
   - "Compilacao de sumulas comuns e julgados organizados por instituto: Principios Constitucionais Tributarios, Imunidades, Taxas, Contribuicoes, Obrigacao Tributaria, Credito Tributario, Compensacao, Administracao Tributaria, ICMS, ITCMD, IPVA, Outros Temas."
 ---
 

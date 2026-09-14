@@ -1,6 +1,6 @@
 ---
 type: concept
-title: "Sumulas Vinculantes - Direito Tributario"
+title: Sumulas Vinculantes - Direito Tributario
 created: 2026-09-05
 updated: 2026-09-05
 status: active
@@ -13,7 +13,7 @@ related:
   - "[[P2 - Direito Tributário]]"
 sources:
   - "[[Resumo Jurisprudencia - Direito Tributario (VINTEUM)]]"
-domain: "Direito Tributario"
+domain: Direito Tributario
 complexity: intermediate
 ---
 
