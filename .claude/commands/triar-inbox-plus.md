@@ -87,5 +87,6 @@ Com o texto já no registro da nota (depois do `voz-autoral`), releia o trecho q
    ```
    O `diff` só pode ter linhas `>` (o que entrou). Linha `<` é texto antigo alterado.
 5. Relate em tabela: o que era a captura, para que nota e heading foi, qual o peso VINTEUM do tópico e a contagem de grifos por categoria que o `grifos.py` mostrou.
+6. **Plano do dia atualizado.** Rode `python3 PY/plano-dia.py --texto` e mostre ao Pedro só os slots de hoje, apontando os tópicos que esta triagem mudou de seção (ex.: saiu de Ler e foi para Fazer questões). Se a matéria tocada não está na grade de hoje, rode `python3 PY/plano-dia.py --diag "<matéria>"` e diga em uma linha em que seção os tópicos triados caíram. Critérios em `Questoes/Paineis/Plano do dia.md`.
 
 Não commite sem o Pedro pedir.

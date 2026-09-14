@@ -81,5 +81,6 @@ Depois de criar as notas, faça a análise que os números sozinhos não dão:
 1. **Concilie o total.** A soma de `total`/`acertos` das notas criadas tem que bater com o `TOTAL A CONCILIAR` do script. Se não bater, alguma folha foi contada duas vezes ou ficou de fora.
 2. Se o dia importado for anterior a hoje, o registro daquele dia no painel [[S1 - Revisão de ontem]] pode estar errado — ele pode ter concluído "dia sem questões" quando na verdade era "dia sem registro". Corrija o registro se existir.
 3. Relate em tabela: matéria, acertos/total, %, erros e onde cada erro cai no peso VINTEUM.
+4. **Plano do dia atualizado.** Rode `python3 PY/plano-dia.py --texto` e mostre ao Pedro só os slots de hoje, apontando os tópicos que os cadernos importados mudaram de seção (erro com acerto abaixo de 70% vai para Revisar, ou para Ler se o heading está vazio; acerto tira o tópico de Ler). Se a matéria importada não está na grade de hoje, rode `python3 PY/plano-dia.py --diag "<matéria>"` e diga em uma linha em que seção os tópicos errados caíram. Se um erro não casou com nenhum tópico no `--diag`, diga isso — é assunto do TEC que o plano não enxerga. Critérios em `Questoes/Paineis/Plano do dia.md`.
 
 Não commite sem o Pedro pedir.

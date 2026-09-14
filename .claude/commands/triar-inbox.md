@@ -53,5 +53,6 @@ Respeite o registro da nota de destino: denso, direto, `<mark>` para o núcleo d
    ```
    Isso deve mostrar só linha vazia, ou só o que você removeu de propósito (ex.: uma linha normalizada por NBSP). Qualquer outra coisa ali é conteúdo perdido — pare e investigue antes de seguir.
 4. Relate em tabela: o que era a captura, para que nota e heading foi, e qual o peso VINTEUM do tópico.
+5. **Plano do dia atualizado.** Rode `python3 PY/plano-dia.py --texto` e mostre ao Pedro só os slots de hoje, apontando os tópicos que esta triagem mudou de seção (ex.: saiu de Ler e foi para Fazer questões). Se a matéria tocada não está na grade de hoje, rode `python3 PY/plano-dia.py --diag "<matéria>"` e diga em uma linha em que seção os tópicos triados caíram. Critérios em `Questoes/Paineis/Plano do dia.md`.
 
 Não commite sem o Pedro pedir.
