@@ -135,6 +135,8 @@ b) **sistema da jurisdição una (unidade de jurisdição)**: de origem inglesa
 
 ## - Processo Administrativo Federal (Lei nº 9.784/1999).
 - [ ] status [dom:: 0] [peso:: 2]
+- #jurisprudencia 
+- STF: embora os entes federativos tenham competência para legislar sobre processo administrativo, <mark style="background:rgba(240, 167, 216, 0.55)">não podem fixar prazo decadencial diverso do previsto na Lei nº 9.784/1999 (art. 54, prazo geral de 5 anos)</mark>, sob pena de ofensa à isonomia entre entes federativos. ⚠️ Declarou inconstitucional o art. 10, I, da Lei paulista nº 10.177/1998, que previa prazo de 10 anos para a Administração anular atos administrativos favoráveis ao administrado.
 ## - Lei de Introdução às Normas do Direito Brasileiro (arts. 20 a 30 do Decreto-Lei nº 4.657/1942). Decreto nº 9.830/2019.
 - [ ] status [dom:: 0] [peso:: 2]
 - #status/1-leitura 
@@ -202,6 +204,12 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 
 ## - Licitações e Contratos Administrativos (Lei nº 14.133/2021).
 - [ ] status [dom:: 0] [peso:: 2]
+- #jurisprudencia 
+- <mark style="background:rgba(240, 167, 216, 0.55)">É constitucional a vedação à recontratação de empresa contratada por dispensa de licitação emergencial</mark>, quando fundada na mesma situação emergencial que extrapola o prazo legal de 1 ano (Lei nº 14.133/2021) — STF. ⚠️ Isso não impede a empresa de participar de licitação substitutiva, uma vez encerrada a emergência ou calamidade.
+- <mark style="background:rgba(240, 167, 216, 0.55)">Aditivos não são admissíveis em contratos no regime de empreitada por preço global</mark>, dada a cláusula de concordância do contratado com o projeto básico e o conhecimento prévio da variação natural de quantitativos. ⚠️ Não confundir com **contratação integrada** (o contratado elabora projeto básico e executivo) — mesmo na empreitada por preço global, cabe alteração quando: (i) modificação do projeto a pedido da Administração, sem decorrer de erro/omissão do contratado; (ii) evento superveniente alocado na matriz de riscos como responsabilidade da Administração; (iii) recomposição do equilíbrio econômico-financeiro por fato imprevisível, fortuito ou força maior.
+- **Patrocínio não é espécie de contrato administrativo sujeita a licitação** — é apoio financeiro ou promocional a eventos (culturais, esportivos, educacionais), distinto dos contratos administrativos, que envolvem prestação de serviço ou fornecimento de bens ao poder público.
+- Responsabilidade subsidiária da Administração por encargos trabalhistas de empresa terceirizada **não é automática**: exige comprovação de comportamento negligente ou nexo causal entre o dano e a conduta comissiva/omissiva do poder público — não basta a inversão do ônus da prova. Há negligência quando a Administração permanece inerte após notificação formal de descumprimento trabalhista (do trabalhador, sindicato, MTE, MP, Defensoria etc.). A Administração responde também por garantir condições de segurança, higiene e salubridade quando o trabalho ocorrer em suas dependências ou local convencionado em contrato (art. 5º-A, § 3º, Lei nº 6.019/74). Nos contratos de terceirização, deve ainda: exigir capital social integralizado compatível com o nº de empregados (art. 4º-B, Lei nº 6.019/74) e condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior (art. 121, § 3º, Lei nº 14.133/2021).
+- STF, Tema 725 (repercussão geral): <mark style="background:rgba(240, 167, 216, 0.55)">é lícita a terceirização de qualquer atividade</mark>, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante.
 ## - Empresas estatais: normas constitucionais, Lei nº 13.303/2016 e Decreto nº 8.945/2016.
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Parcerias Público-Privadas (Lei nº 11.079/2004).

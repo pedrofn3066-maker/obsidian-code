@@ -765,6 +765,8 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 
 ## - Poder Executivo (arts. 76 a 91);
 - [ ] status [dom:: 0] [peso:: 2]
+- #jurisprudencia 
+- STF, ADI 4728/DF: <mark style="background:rgba(240, 167, 216, 0.55)">ofende os arts. 2º e 84, II, CF, norma de legislação estadual que estabelece prazo para o chefe do Poder Executivo apresentar a regulamentação de disposições legais</mark> — viola a separação dos poderes e a competência privativa do Executivo para regulamentar e administrar. O chefe do Executivo tem discricionariedade quanto ao momento oportuno para editar regulamentos.
 ## - Poder Judiciário (arts. 92 a 126);
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Funções Essenciais à Justiça (arts. 127 a 135);
