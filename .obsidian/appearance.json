@@ -1,12 +1,13 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Cupertino",
   "enabledCssSnippets": [
     "custom-background",
     "extended-colorschemes",
     "grifos",
     "outline-heading-colors",
     "painel",
-    "vault-colors"
+    "vault-colors",
+    "topazio"
   ],
   "theme": "moonstone",
   "baseFontSize": 16,

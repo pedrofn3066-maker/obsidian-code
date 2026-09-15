@@ -1,12 +1,27 @@
-/* Topázio — cores de headings, negrito, itálico, citações, links e
-   tarefas concluídas, harmonizadas com o tema Blue Topaz: azul do
-   próprio tema nos headings (do navy no H1 ao azul claro no H6) e um
-   dourado de "topázio imperial" só nos pontos de destaque (negrito e
-   check concluído), pra dar aquele empurrão visual de progresso.
+/* Topázio — headings coloridos + tipografia de leitura.
 
-   Sobrescreve --h1-color..--h6-color — o mesmo token que
-   outline-heading-colors.css já lê pra colorir o painel Sumário — então
-   o Outline acompanha sem precisar duplicar nada aqui. */
+   Paleta triádica (azul · vermelho · âmbar-oliva, ~120° na roda de
+   cores) escolhida por função, não só estética:
+     - Azul (H1-H2)  → cor associada a calma/concentração, reduz fadiga
+       visual em leitura longa. Ancora a estrutura macro do documento.
+     - Vermelho (H3-H4) → cor de maior saliência perceptual, puxa o
+       olho pro nível "meio" da hierarquia onde normalmente mora a
+       regra que a banca cobra.
+     - Âmbar-oliva (H5-H6) → nível mais fino/granular; deliberadamente
+       dessaturado e puxado pro verde-oliva (não pro dourado) pra não
+       se confundir com --tz-gold (negrito/tarefa concluída).
+   Cada família tem dois tons — mais escuro/âncora no nível de cima,
+   mais claro no de baixo — então dá pra inferir a "dupla" só pela cor.
+
+   Overrides --h1-color..--h6-color, o token que qualquer tema do
+   Obsidian lê (inclusive Cupertino) e que outline-heading-colors.css
+   já reaproveita pro painel Sumário — nada duplicado.
+
+   Além dos headings, o arquivo cobre "aumentar a vontade de ler":
+   medida de linha confortável, respiro entre blocos, hierarquia de
+   peso em negrito/itálico, tabelas e listas mais escaneáveis, e um
+   pouco mais de "corpo" (padding, cantos, sombra sutil) em qualquer
+   <mark> manual — sem mexer no significado de nenhuma cor de grifo. */
 
 /* @settings
 name: Topázio
@@ -20,22 +35,26 @@ settings:
         id: topazio-sem-glow
         title: Sem brilho no negrito e nas tarefas concluídas
         type: class-toggle
+    -
+        id: topazio-serif-leitura
+        title: Corpo do texto em serifa (parágrafos/listas/citações)
+        description: Headings continuam na fonte do tema — só o texto corrido muda, pareamento clássico serifa-corpo/sem-serifa-título pra sessões de leitura longa
+        type: class-toggle
+    -
+        id: topazio-largura-total
+        title: Desligar medida de leitura (usar 100% da largura)
+        description: Por padrão o snippet limita parágrafos/listas a ~72 caracteres por linha (faixa confortável de leitura); tabelas e blocos de código continuam full-width sempre
+        type: class-toggle
 */
 
-/* Paleta triádica clássica (azul + vermelho + amarelo, ~120° afastadas
-   na roda de cores) — dois níveis por família, do mais escuro/saturado
-   pro mais claro: H1-H2 azul (âncora do tema), H3-H4 vermelho, H5-H6
-   amarelo-mostarda (puxado pra oliva, não pro dourado do negrito, pra
-   não se confundir com ele). Contraste forte e ainda assim previsível:
-   sabendo a cor, já dá pra saber a "dupla" de nível. */
 :root,
 .theme-light {
-  --tz-h1: hsl(220, 65%, 28%);
-  --tz-h2: hsl(208, 72%, 40%);
-  --tz-h3: hsl(355, 60%, 38%);
-  --tz-h4: hsl(8, 68%, 48%);
-  --tz-h5: hsl(50, 55%, 32%);
-  --tz-h6: hsl(45, 62%, 40%);
+  --tz-h1: hsl(220, 65%, 26%);
+  --tz-h2: hsl(206, 70%, 38%);
+  --tz-h3: hsl(354, 58%, 40%);
+  --tz-h4: hsl(14, 65%, 46%);
+  --tz-h5: hsl(58, 46%, 28%);
+  --tz-h6: hsl(52, 52%, 36%);
 
   --tz-gold: #b8860b;
   --tz-gold-glow: rgba(184, 134, 11, 0.25);
@@ -43,15 +62,18 @@ settings:
   --tz-quote-a: var(--tz-h2);
   --tz-link: #157e78;
   --tz-done-glow: rgba(184, 134, 11, 0.4);
+  --tz-table-stripe: rgba(20, 96, 150, 0.04);
+  --tz-table-head: rgba(20, 96, 150, 0.09);
+  --tz-mark-shadow: rgba(0, 0, 0, 0.14);
 }
 
 .theme-dark {
   --tz-h1: hsl(220, 70%, 68%);
-  --tz-h2: hsl(208, 85%, 66%);
-  --tz-h3: hsl(355, 70%, 66%);
-  --tz-h4: hsl(8, 75%, 68%);
-  --tz-h5: hsl(50, 60%, 58%);
-  --tz-h6: hsl(45, 70%, 64%);
+  --tz-h2: hsl(206, 80%, 64%);
+  --tz-h3: hsl(354, 65%, 66%);
+  --tz-h4: hsl(14, 72%, 66%);
+  --tz-h5: hsl(58, 45%, 58%);
+  --tz-h6: hsl(52, 55%, 62%);
 
   --tz-gold: #f0c14f;
   --tz-gold-glow: rgba(240, 193, 79, 0.35);
@@ -59,6 +81,9 @@ settings:
   --tz-quote-a: var(--tz-h2);
   --tz-link: #4fd1c5;
   --tz-done-glow: rgba(240, 193, 79, 0.45);
+  --tz-table-stripe: rgba(140, 190, 240, 0.05);
+  --tz-table-head: rgba(140, 190, 240, 0.1);
+  --tz-mark-shadow: rgba(0, 0, 0, 0.35);
 }
 
 /* Headings: reaproveita os tokens h1..h6-color do próprio tema, então
@@ -84,11 +109,21 @@ settings:
   font-style: italic;
 }
 
+/* Respiro: cada heading empurra o bloco anterior pra longe, então uma
+   nova seção sempre começa com uma pausa visual clara — ajuda a "querer
+   continuar" em vez de ver um muro de texto contínuo. */
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) {
+  margin-top: 1.6em;
+}
+.markdown-rendered :is(h1, h2, h3) {
+  margin-top: 2em;
+}
+
 /* Cada nível tem seu próprio traço — sólido, tracejado, pontilhado —
    no mesmo espírito das categorias de grifos.css: a forma do traço
-   ajuda a distinguir o nível sem depender só da cor. */
+   ajuda a distinguir o nível sem depender só da cor.
 
-/* Cada regra vale tanto pro Modo de leitura (.markdown-rendered h*)
+   Cada regra vale tanto pro Modo de leitura (.markdown-rendered h*)
    quanto pro Live Preview (.HyperMD-header-* é a linha do heading no
    editor) — sem isso, a decoração só aparecia ao ler, não ao editar. */
 
@@ -180,6 +215,7 @@ body:not(.topazio-sem-glow) .markdown-rendered strong {
   border-left: 3px solid var(--tz-quote-a);
   border-image: linear-gradient(180deg, var(--tz-quote-a), var(--tz-gold)) 1;
   background: color-mix(in srgb, var(--tz-h2) 6%, transparent);
+  padding: 0.4em 0.9em;
 }
 
 /* Links internos: teal, sublinhado acende no hover. */
@@ -206,4 +242,87 @@ body:not(.topazio-sem-glow) .markdown-rendered strong {
 body:not(.topazio-sem-glow) input.task-list-item-checkbox:checked {
   box-shadow: 0 0 5px var(--tz-done-glow);
   border-radius: 3px;
+}
+
+/* ---------------------------------------------------------------- */
+/* Leitura: medida de linha, ritmo de parágrafo/lista, tabelas       */
+/* ---------------------------------------------------------------- */
+
+/* ~72 caracteres por linha é a faixa que a tipografia editorial usa
+   pra maximizar velocidade de leitura sem perder o início da linha —
+   o vault está com "readableLineLength" desligado no app, então quem
+   segura essa medida agora é o snippet (só em prosa: tabela, código e
+   imagem continuam ocupando a largura toda, onde a medida atrapalha). */
+body:not(.topazio-largura-total) .markdown-rendered > :is(p, ul, ol, blockquote) {
+  max-width: 72ch;
+}
+
+.markdown-rendered p {
+  line-height: 1.65;
+  margin-block: 0.85em;
+}
+
+.markdown-rendered li {
+  line-height: 1.55;
+}
+.markdown-rendered ul > li,
+.markdown-rendered ol > li {
+  margin-block: 0.25em;
+}
+/* Checklist denso (- [ ] status [dom::] [peso::]) ganha mais ar entre
+   itens do que texto corrido, porque cada linha é uma unidade própria
+   de "tópico", não uma frase contínua. */
+.markdown-rendered .task-list-item {
+  margin-block: 0.45em;
+}
+
+/* Tabelas (VINTEUM, COTEB): cabeçalho tingido na família do H2 e
+   zebra sutil — sem isso uma tabela de 10+ linhas vira ruído visual
+   e ninguém quer parar pra ler. */
+.markdown-rendered table {
+  border-collapse: collapse;
+  margin-block: 1em;
+}
+.markdown-rendered thead th {
+  background: var(--tz-table-head);
+  color: var(--tz-h2);
+  font-weight: 700;
+}
+.markdown-rendered tbody tr:nth-child(even) {
+  background: var(--tz-table-stripe);
+}
+.markdown-rendered td,
+.markdown-rendered th {
+  padding: 0.35em 0.7em;
+}
+
+/* Linha horizontal (---): em vez do traço cinza padrão, um degradê
+   que ecoa a paleta — funciona como ponto de respiro entre blocos de
+   captura dentro da mesma nota. */
+.markdown-rendered hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, var(--tz-h1), var(--tz-h3) 50%, var(--tz-h5));
+  opacity: 0.5;
+  margin-block: 1.8em;
+}
+
+/* Corpo em serifa (opt-in): título continua na fonte do tema, só o
+   texto corrido troca — pareamento clássico pra sessões de leitura
+   longa, sem mexer em código/tabela/UI. */
+body.topazio-serif-leitura .markdown-rendered :is(p, li, blockquote) {
+  font-family: "New York", ui-serif, Georgia, "Times New Roman", serif;
+}
+
+/* ---------------------------------------------------------------- */
+/* Grifos manuais (<mark style="background:…">): mais corpo visual,  */
+/* mesma cor de sempre — clone de decoração garante que um grifo que  */
+/* atravessa quebra de linha continue com cantos e sombra inteiros.   */
+/* ---------------------------------------------------------------- */
+.markdown-rendered mark {
+  padding: 0.05em 0.25em;
+  border-radius: 4px;
+  box-shadow: inset 0 -1.5px 0 var(--tz-mark-shadow);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
