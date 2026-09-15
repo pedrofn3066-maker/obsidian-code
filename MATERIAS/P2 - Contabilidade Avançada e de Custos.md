@@ -193,7 +193,7 @@ Relacionado: as demais bases de mensuração **após** o registro inicial (custo
 
 
 ### - Escrituração, Balancete, Atos e Fatos;
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-15
 
 #### Escrituração (Lei 6.404/76)
 
@@ -214,6 +214,7 @@ Requisitos formais que a lei impõe à escrituração — cada um já foi enunci
 - Modificação de métodos ou critérios com efeitos **relevantes** deve ser indicada em **Notas Explicativas**.
 - As demonstrações financeiras são assinadas pelos **administradores E** por contabilistas legalmente habilitados — as duas assinaturas, não uma.
 - Cias. **fechadas PODEM OPTAR** por seguir as normas de DF das cias. abertas.
+- ITG 2000 (CFC): a terminologia do registro contábil deve expressar a **essência econômica** da transação.
 
 #### Livros contábeis
 
@@ -229,7 +230,7 @@ Requisitos formais que a lei impõe à escrituração — cada um já foi enunci
 
 Escrituração resumida do Diário: admitida desde que os totais **não excedam 30 dias**.
 
-Formalidades **extrínsecas** dos livros: encadernação e termos de abertura e encerramento.
+Formalidades **extrínsecas** dos livros: encadernação, **numeração sequencial das folhas** e termos de abertura e encerramento assinados pelo titular/representante legal e pelo contabilista habilitado no CRC.
 
 #### Balancete de verificação
 
@@ -248,6 +249,26 @@ Demonstrativo **AUXILIAR** — <mark style="background:#fff88f">não obrigatóri
 #### Atos e fatos — lacuna de lastro
 
 A distinção **insubsistência × superveniência** existe no guia como figura, e não foi extraída em texto. Também não há no guia a divisão clássica **atos administrativos** (sem efeito imediato no patrimônio) × **fatos administrativos** (permutativos, modificativos, mistos). Conferir no material do TEC antes de marcar `dom` acima de 1.
+
+<mark style="background:#fff88f">Fatos administrativos (fatos contábeis)</mark> alteram o patrimônio (bens, direitos, obrigações) e se classificam em:
+- **Modificativo** — altera os elementos patrimoniais e o Patrimônio Líquido.
+  - Aumentativo — aumenta o PL.
+  - Diminutivo — diminui o PL.
+- **Permutativo** — altera os elementos patrimoniais sem alterar o valor do PL.
+- **Misto** — simultaneamente modificativo e permutativo (afeta quantitativamente Ativo, Passivo e PL ao mesmo tempo).
+
+<mark style="background:#fff88f">Atos administrativos (atos contábeis)</mark> são atos relevantes que **não** alteram o patrimônio.
+
+⚠️ Diminuição de Ativo com diminuição de Passivo e diminuição de PL é fato **misto diminutivo** — não "permutativo modificativo diminutivo": permutativo e modificativo são categorias mutuamente excludentes; afetar os dois efeitos ao mesmo tempo é justamente a definição de misto.
+
+**Exemplo — efeito líquido de quatro operações:**
+
+| Operação | Lançamento | Efeito |
+| --- | --- | --- |
+| Recebimento de clientes a prazo | D Caixa / C Contas a Receber | Permutativo — ativo por ativo, PL neutro |
+| Pagamento de duplicatas a fornecedores | D Fornecedores / C Caixa | Permutativo — ativo e passivo caem juntos, PL neutro |
+| Recebimento à vista de receitas diversas | D Caixa / C Receitas Diversas | Modificativo aumentativo — ativo e PL sobem |
+| Pagamento à vista de despesas diversas | D Despesas Diversas / C Caixa | Modificativo diminutivo — ativo e PL caem |
 
 #### Teorias Patrimoniais (classificação das contas)
 
@@ -304,6 +325,18 @@ Receita = 5.000 (parcela de curto prazo) + 95.000 / 1,10 = 86.364 → 91.364
 **Lucro Bruto = 11.364**
 
 <mark style="background:#fff88f">AVP se aplica a operações de financiamento, não a operações de curto prazo sem efeito material.</mark> Evidência de juros embutidos: desconto financeiro para pagamento antecipado, ou tabela de preços distinta para pagamento à vista.
+
+⚠️ Ordem importa: em compra a prazo com juros embutidos, primeiro traz-se o valor a valor presente (CPC 12); só depois se monta o custo do estoque (CPC 16) sobre esse valor presente — nunca sobre o valor nominal da compra.
+
+**Exemplo:** mercadoria por R$ 2.890.800, a pagar em 19 meses, juros de 0,5% a.m. (10% no período).
+
+VP da compra = 2.890.800 / 1,10 = R$ 2.628.000
+
+Custo do estoque = 2.628.000 (VP) + 30.000 (frete à vista) − 138.000 (tributos recuperáveis) = **R$ 2.520.000**. Os tributos não recuperáveis (R$ 96.000) já estão embutidos no valor da compra e permanecem no custo; só os recuperáveis (ICMS/PIS/COFINS recuperáveis) são excluídos, porque serão ressarcidos depois.
+
+Compra em 01/12, balanço em 31/12 → 1 mês de juros já incorrido sobre o saldo: Fornecedores = 2.628.000 × 1,005 = **R$ 2.641.140**, no Passivo Não Circulante (faltam 18 meses para o vencimento).
+
+<mark style="background:#fff88f">Resultado: Estoques (Ativo Circulante) R$ 2.520.000 · Fornecedores (Passivo Não Circulante) R$ 2.641.140.</mark>
 
 ### - Mensuração a Valor Justo (CPC 46)
 - [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-14
@@ -740,6 +773,15 @@ A entidade só deve reconhecer um passivo de empréstimo quando do recebimento d
 
 ## - Duplicatas Descontadas;
 - [ ] status [dom:: 0] [peso:: 3]
+
+Duplicatas descontadas junto ao banco são **obrigação da entidade**, classificada no **Passivo Circulante ou Não Circulante** conforme o prazo de exigibilidade — não é conta redutora do ativo.
+
+O desconto antecipa o recebimento, mas o risco de crédito permanece com a empresa. Por isso:
+- a duplicata **continua no ativo** (Duplicatas a Receber);
+- cria-se uma **obrigação no passivo** (Duplicatas Descontadas).
+
+⚠️ Distratores clássicos da mesma questão: Juros Ativos são receita (ganho financeiro); Ações de Controladas e Coligadas vão para o Ativo Não Circulante — Investimentos; Seguros a Vencer (prêmio pago antecipadamente) é despesa antecipada no **Ativo Circulante**.
+
 ## - Debêntures
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -1853,17 +1895,21 @@ Os componentes dos outros resultados abrangentes incluem:
 
 Os equivalentes de caixa são mantidos com a finalidade de atender a compromissos de caixa de curto prazo e não para investimento ou outros fins. Para que um investimento se qualifique como equivalente de caixa, ele precisa ter conversibilidade imediata em um montante conhecido de caixa e estar sujeito a um insignificante risco de mudança de valor. **Portanto, um investimento normalmente se qualifica como equivalente de caixa somente quando tem vencimento de curto prazo, por exemplo, três meses ou menos, a contar da data de aquisição.**
 
+<mark style="background:#fff88f">Instrumentos patrimoniais em regra NÃO se qualificam como equivalentes de caixa</mark> — exceto quando substancialmente equivalentes a caixa, como ações preferenciais resgatáveis com prazo curto definido de resgate.
+
 **Obrigatoriedade:** todas as companhias **abertas**; companhias **fechadas** com PL > R$ 2 milhões na data do balanço.
 
 **Caixa** = numerário em espécie + depósitos bancários disponíveis (BCM). Moeda estrangeira converte pelo câmbio na data da **ocorrência** do fluxo.
 
 ⚠️ **Empréstimo por cheque especial** entra como **equivalente de caixa**, apesar de ser passivo circulante — e por isso aparece no FCF (financiamento), não como dívida comum.
 
-#### As três atividades
+### As três atividades
 
 ```
 FC = FCO + FCI + FCF
 ```
+
+⚠️ Item com **"não pode"**/**"nunca"** sobre classificação de atividade costuma estar errado: **uma única transação pode ter fluxos de caixa em mais de uma atividade** — ex.: pagamento de prestação de financiamento, em que os juros vão para Operacional (ou Financiamento, a critério da entidade) e a amortização do principal vai para Financiamento.
 
 **FCO — Operacionais**, ligadas à atividade **principal** da empresa:
 - (+) recebimento de vendas, clientes, royalties, honorários, comissões, aluguéis
@@ -1874,6 +1920,7 @@ FC = FCO + FCI + FCF
 - (±) juros recebidos/pagos, dividendos/JCP **recebidos**
 
 ⚠️ Dividendos a pagar **sem saldo no ano anterior não entram** no ajuste do BP.
+⚠️ Valores de terceiros sob guarda (cauções, depósitos em garantia, consignações, valores para repasse) que a entidade **não** usa pra financiar suas próprias operações — apenas custodia, devolvendo depois — entram em **Atividades Operacionais**, mesmo sem representar receita própria. Só viram Financiamento se a entidade efetivamente os usa como fonte de recursos (endividamento real).
 
 **FCI — Investimento**, aquisição/alienação **à vista** de itens do ANC (investimentos, imobilizado, intangível) e do ARLP que não sejam atividade usual da companhia:
 - (+) recebimento de principal de empréstimo **concedido** (amortização recebida)
@@ -1888,7 +1935,16 @@ FC = FCO + FCI + FCF
 - (±) compra/venda de ações da **própria** empresa
 - (−) pagamento de dividendos/JCP
 
-#### Método direto × indireto
+<mark style="background:#fff88f">Juros e dividendos/JCP têm classificação principal e alternativa (item 34) — a entidade escolhe e divulga qual usa:</mark>
+
+| Item | Principal | Alternativa |
+| --- | --- | --- |
+| Juros pagos | Operacionais | Financiamento |
+| Juros recebidos | Operacionais | Investimento |
+| Dividendos/JCP pagos | Financiamento | Operacionais |
+| Dividendos/JCP recebidos | Operacionais | Investimento |
+
+### Método direto × indireto
 
 O **resultado final é sempre o mesmo** — só o **FCO** muda de apresentação entre os dois métodos.
 
