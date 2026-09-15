@@ -1,12 +1,13 @@
 {
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
-    "painel",
     "custom-background",
     "extended-colorschemes",
+    "grifos",
     "outline-heading-colors",
+    "painel",
     "vault-colors",
-    "grifos"
+    "topazio"
   ],
   "theme": "moonstone",
   "baseFontSize": 16,

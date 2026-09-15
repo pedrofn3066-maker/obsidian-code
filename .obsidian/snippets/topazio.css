@@ -1,0 +1,203 @@
+/* Topázio — cores de headings, negrito, itálico, citações, links e
+   tarefas concluídas, harmonizadas com o tema Blue Topaz: azul do
+   próprio tema nos headings (do navy no H1 ao azul claro no H6) e um
+   dourado de "topázio imperial" só nos pontos de destaque (negrito e
+   check concluído), pra dar aquele empurrão visual de progresso.
+
+   Sobrescreve --h1-color..--h6-color — o mesmo token que
+   outline-heading-colors.css já lê pra colorir o painel Sumário — então
+   o Outline acompanha sem precisar duplicar nada aqui. */
+
+/* @settings
+name: Topázio
+id: tema-topazio
+settings:
+    -
+        id: topazio-sem-decoracao
+        title: Modo limpo — sem ícone/linha nos headings (H1/H2)
+        type: class-toggle
+    -
+        id: topazio-sem-glow
+        title: Sem brilho no negrito e nas tarefas concluídas
+        type: class-toggle
+*/
+
+:root,
+.theme-light {
+  --tz-h1: hsl(216, 80%, 24%);
+  --tz-h2: hsl(212, 82%, 32%);
+  --tz-h3: hsl(206, 78%, 40%);
+  --tz-h4: hsl(200, 70%, 46%);
+  --tz-h5: hsl(194, 62%, 52%);
+  --tz-h6: hsl(190, 50%, 60%);
+
+  --tz-gold: #b8860b;
+  --tz-gold-glow: rgba(184, 134, 11, 0.25);
+  --tz-italic: #4a6b82;
+  --tz-quote-a: var(--tz-h3);
+  --tz-link: #157e78;
+  --tz-done-glow: rgba(184, 134, 11, 0.4);
+}
+
+.theme-dark {
+  --tz-h1: hsl(206, 100%, 74%);
+  --tz-h2: hsl(206, 90%, 68%);
+  --tz-h3: hsl(202, 82%, 62%);
+  --tz-h4: hsl(198, 70%, 66%);
+  --tz-h5: hsl(196, 62%, 72%);
+  --tz-h6: hsl(194, 50%, 80%);
+
+  --tz-gold: #f0c14f;
+  --tz-gold-glow: rgba(240, 193, 79, 0.35);
+  --tz-italic: #9fb8d9;
+  --tz-quote-a: var(--tz-h3);
+  --tz-link: #4fd1c5;
+  --tz-done-glow: rgba(240, 193, 79, 0.45);
+}
+
+/* Headings: reaproveita os tokens h1..h6-color do próprio tema, então
+   editor, leitura e Outline ficam consistentes automaticamente. */
+:root {
+  --h1-color: var(--tz-h1);
+  --h2-color: var(--tz-h2);
+  --h3-color: var(--tz-h3);
+  --h4-color: var(--tz-h4);
+  --h5-color: var(--tz-h5);
+  --h6-color: var(--tz-h6);
+}
+
+.markdown-rendered h1,
+.markdown-rendered h2 {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.markdown-rendered h3 {
+  font-weight: 650;
+}
+.markdown-rendered h6 {
+  font-style: italic;
+}
+
+/* Cada nível tem seu próprio traço — sólido, tracejado, pontilhado —
+   no mesmo espírito das categorias de grifos.css: a forma do traço
+   ajuda a distinguir o nível sem depender só da cor. */
+
+/* Cada regra vale tanto pro Modo de leitura (.markdown-rendered h*)
+   quanto pro Live Preview (.HyperMD-header-* é a linha do heading no
+   editor) — sem isso, a decoração só aparecia ao ler, não ao editar. */
+
+body:not(.topazio-sem-decoracao) :is(.markdown-rendered h1, .HyperMD-header-1) {
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(90deg, var(--tz-h1), var(--tz-gold) 65%, transparent) 1;
+}
+body:not(.topazio-sem-decoracao) .markdown-rendered h1::before {
+  content: "◆ ";
+  color: var(--tz-gold);
+  font-size: 0.7em;
+}
+
+body:not(.topazio-sem-decoracao) :is(.markdown-rendered h2, .HyperMD-header-2) {
+  padding-bottom: 0.15em;
+  border-bottom: 1.5px solid var(--tz-h2);
+}
+body:not(.topazio-sem-decoracao) .markdown-rendered h2::before {
+  content: "✦ ";
+  color: var(--tz-h2);
+  font-size: 0.65em;
+  opacity: 0.85;
+}
+
+body:not(.topazio-sem-decoracao) :is(.markdown-rendered h3, .HyperMD-header-3) {
+  border-left: 4px solid var(--tz-h3);
+  padding-left: 0.5em;
+}
+body:not(.topazio-sem-decoracao) .markdown-rendered h3::before {
+  content: "▹ ";
+  color: var(--tz-h3);
+  opacity: 0.8;
+}
+
+body:not(.topazio-sem-decoracao) :is(.markdown-rendered h4, .HyperMD-header-4) {
+  border-left: 3px dashed var(--tz-h4);
+  padding-left: 0.5em;
+}
+body:not(.topazio-sem-decoracao) .markdown-rendered h4::before {
+  content: "‣ ";
+  color: var(--tz-h4);
+  opacity: 0.8;
+}
+
+body:not(.topazio-sem-decoracao) :is(.markdown-rendered h5, .HyperMD-header-5) {
+  width: fit-content;
+  border-bottom: 1px dotted var(--tz-h5);
+  padding-bottom: 0.1em;
+}
+
+body:not(.topazio-sem-decoracao) :is(.markdown-rendered h6, .HyperMD-header-6) {
+  width: fit-content;
+  font-style: normal;
+  background: color-mix(in srgb, var(--tz-h6) 18%, transparent);
+  padding: 0.05em 0.6em;
+  border-radius: 999px;
+}
+
+/* Negrito: dourado de topázio, com leve brilho — o "achou o ponto
+   importante" fica visualmente óbvio, sem gritar. */
+.markdown-rendered strong,
+.cm-strong {
+  color: var(--tz-gold);
+}
+body:not(.topazio-sem-glow) .markdown-rendered strong {
+  text-shadow: 0 0 6px var(--tz-gold-glow);
+}
+
+/* Itálico: azul-acinzentado discreto, só pra diferenciar sem competir
+   com o negrito. */
+.markdown-rendered em,
+.cm-em {
+  color: var(--tz-italic);
+}
+
+/* Negrito+itálico junto herda o dourado com um sublinhado fino. */
+.markdown-rendered strong em,
+.markdown-rendered em strong,
+.cm-strong.cm-em {
+  color: var(--tz-gold);
+  text-decoration: underline;
+  text-decoration-color: var(--tz-italic);
+  text-decoration-thickness: 1px;
+}
+
+/* Citações: borda em degradê azul → dourado, como um corte de gema. */
+.markdown-rendered blockquote {
+  border-left: 3px solid var(--tz-quote-a);
+  border-image: linear-gradient(180deg, var(--tz-quote-a), var(--tz-gold)) 1;
+  background: color-mix(in srgb, var(--tz-h4) 6%, transparent);
+}
+
+/* Links internos: teal, sublinhado acende no hover. */
+.markdown-rendered a.internal-link,
+.cm-hmd-internal-link {
+  color: var(--tz-link);
+  text-decoration-color: color-mix(in srgb, var(--tz-link) 35%, transparent);
+}
+.markdown-rendered a.internal-link:hover,
+.cm-hmd-internal-link:hover {
+  text-decoration-color: var(--tz-link);
+}
+
+/* Tarefa concluída: check dourado com brilho — um empurrãozinho visual
+   de "conquista" a cada item de estudo fechado. */
+:is(.markdown-preview-view, .markdown-rendered, .markdown-reading-view) li.task-list-item[data-task="x"],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] {
+  color: var(--text-muted);
+}
+:is(.markdown-preview-view, .markdown-rendered, .markdown-reading-view) input.task-list-item-checkbox:checked,
+.markdown-source-view.mod-cm6 input.task-list-item-checkbox:checked {
+  accent-color: var(--tz-gold);
+}
+body:not(.topazio-sem-glow) input.task-list-item-checkbox:checked {
+  box-shadow: 0 0 5px var(--tz-done-glow);
+  border-radius: 3px;
+}
