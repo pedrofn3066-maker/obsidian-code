@@ -22,35 +22,41 @@ settings:
         type: class-toggle
 */
 
+/* Paleta triádica clássica (azul + vermelho + amarelo, ~120° afastadas
+   na roda de cores) — dois níveis por família, do mais escuro/saturado
+   pro mais claro: H1-H2 azul (âncora do tema), H3-H4 vermelho, H5-H6
+   amarelo-mostarda (puxado pra oliva, não pro dourado do negrito, pra
+   não se confundir com ele). Contraste forte e ainda assim previsível:
+   sabendo a cor, já dá pra saber a "dupla" de nível. */
 :root,
 .theme-light {
-  --tz-h1: hsl(216, 80%, 24%);
-  --tz-h2: hsl(212, 82%, 32%);
-  --tz-h3: hsl(206, 78%, 40%);
-  --tz-h4: hsl(200, 70%, 46%);
-  --tz-h5: hsl(194, 62%, 52%);
-  --tz-h6: hsl(190, 50%, 60%);
+  --tz-h1: hsl(220, 65%, 28%);
+  --tz-h2: hsl(208, 72%, 40%);
+  --tz-h3: hsl(355, 60%, 38%);
+  --tz-h4: hsl(8, 68%, 48%);
+  --tz-h5: hsl(50, 55%, 32%);
+  --tz-h6: hsl(45, 62%, 40%);
 
   --tz-gold: #b8860b;
   --tz-gold-glow: rgba(184, 134, 11, 0.25);
   --tz-italic: #4a6b82;
-  --tz-quote-a: var(--tz-h3);
+  --tz-quote-a: var(--tz-h2);
   --tz-link: #157e78;
   --tz-done-glow: rgba(184, 134, 11, 0.4);
 }
 
 .theme-dark {
-  --tz-h1: hsl(206, 100%, 74%);
-  --tz-h2: hsl(206, 90%, 68%);
-  --tz-h3: hsl(202, 82%, 62%);
-  --tz-h4: hsl(198, 70%, 66%);
-  --tz-h5: hsl(196, 62%, 72%);
-  --tz-h6: hsl(194, 50%, 80%);
+  --tz-h1: hsl(220, 70%, 68%);
+  --tz-h2: hsl(208, 85%, 66%);
+  --tz-h3: hsl(355, 70%, 66%);
+  --tz-h4: hsl(8, 75%, 68%);
+  --tz-h5: hsl(50, 60%, 58%);
+  --tz-h6: hsl(45, 70%, 64%);
 
   --tz-gold: #f0c14f;
   --tz-gold-glow: rgba(240, 193, 79, 0.35);
   --tz-italic: #9fb8d9;
-  --tz-quote-a: var(--tz-h3);
+  --tz-quote-a: var(--tz-h2);
   --tz-link: #4fd1c5;
   --tz-done-glow: rgba(240, 193, 79, 0.45);
 }
@@ -173,7 +179,7 @@ body:not(.topazio-sem-glow) .markdown-rendered strong {
 .markdown-rendered blockquote {
   border-left: 3px solid var(--tz-quote-a);
   border-image: linear-gradient(180deg, var(--tz-quote-a), var(--tz-gold)) 1;
-  background: color-mix(in srgb, var(--tz-h4) 6%, transparent);
+  background: color-mix(in srgb, var(--tz-h2) 6%, transparent);
 }
 
 /* Links internos: teal, sublinhado acende no hover. */
