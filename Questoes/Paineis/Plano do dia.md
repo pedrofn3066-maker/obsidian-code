@@ -20,15 +20,15 @@ Este painel responde, para cada slot do dia, **quais subtópicos ler, quais prat
 O Dataview não lê histórico do git, então o cálculo mora em `PY/plano-dia.py` — mesmo arranjo do bloco 3 de [[S1 - Revisão de ontem]]. No Terminal (a aba ao lado da conversa no Claude Code, ou o Terminal.app):
 
 ```
-python3 "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/plano-dia.py"
+python3 "$HOME/Documents/vault-ba/PY/plano-dia.py"
 ```
 
 Abre uma página no navegador com o plano de hoje. Cada tópico é um link que abre a nota **direto no heading** (via Advanced URI). Variações:
 
 ```
-python3 "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/plano-dia.py" --data 2026-09-16
-python3 "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/plano-dia.py" --texto
-python3 "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/plano-dia.py" --diag Penal
+python3 "$HOME/Documents/vault-ba/PY/plano-dia.py" --data 2026-09-16
+python3 "$HOME/Documents/vault-ba/PY/plano-dia.py" --texto
+python3 "$HOME/Documents/vault-ba/PY/plano-dia.py" --diag Penal
 ```
 
 `--data` planeja outro dia (útil no domingo, para ver a semana). `--texto` imprime no terminal. `--diag` mostra, para uma matéria, cada tópico com o heading que o script escolheu, o conteúdo contado, os cadernos casados e a ação resultante — é o comando para desconfiar de uma recomendação.

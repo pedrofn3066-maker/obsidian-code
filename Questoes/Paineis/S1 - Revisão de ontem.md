@@ -53,19 +53,19 @@ Os blocos acima dizem em que arquivo você mexeu. Para ver o **texto** que entro
 Está empacotado em `PY/s1-ontem.sh`. No Terminal — a aba ao lado da conversa no Claude Code, ou o Terminal.app — cole:
 
 ```
-sh "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.sh"
+sh "$HOME/Documents/vault-ba/PY/s1-ontem.sh"
 ```
 
 Funciona de qualquer diretório; o script se localiza sozinho. Acrescente `-p` no fim para ver o **texto** que entrou em vez de só a lista de arquivos:
 
 ```
-sh "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.sh" -p
+sh "$HOME/Documents/vault-ba/PY/s1-ontem.sh" -p
 ```
 
 Terminal é ruim pra ler prosa longa — monoespaçado, sem quebra de linha decente. Pra leitura de verdade (não só checagem rápida), use `PY/s1-ontem.py`: mesma consulta do `-p` acima, mas monta uma página HTML formatada (parágrafos, listas, tabelas, `[[wikilinks]]`) e abre sozinha no navegador:
 
 ```
-python3 "$HOME/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.py"
+python3 "$HOME/Documents/vault-ba/PY/s1-ontem.py"
 ```
 
 Sem argumento — não tem modo lista-só, porque essa versão existe só pra ler o texto. Pra checagem rápida "onde eu mexi" sem sair do terminal, o `.sh` sem `-p` continua sendo o mais rápido.

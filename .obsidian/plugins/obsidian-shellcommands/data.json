@@ -26,7 +26,7 @@
     {
       "id": "planodia01",
       "platform_specific_commands": {
-        "default": "/usr/bin/python3 \"/Users/pedrohenriquedavila/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/plano-dia.py\""
+        "default": "/usr/bin/python3 \"/Users/pedrohenriquedavila/Documents/vault-ba/PY/plano-dia.py\""
       },
       "shells": {},
       "alias": "Plano do dia",
@@ -62,7 +62,7 @@
     {
       "id": "s1ontem01",
       "platform_specific_commands": {
-        "default": "/usr/bin/python3 \"/Users/pedrohenriquedavila/Library/Mobile Documents/com~apple~CloudDocs/vault-ba/PY/s1-ontem.py\""
+        "default": "/usr/bin/python3 \"/Users/pedrohenriquedavila/Documents/vault-ba/PY/s1-ontem.py\""
       },
       "shells": {},
       "alias": "S1 - Revisão de ontem",
