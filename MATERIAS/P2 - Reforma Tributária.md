@@ -347,6 +347,10 @@ a) da <span class="g-num">maioria absoluta</span> de seus representantes; e
 b) de representantes de <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span> que correspondam a <span class="g-num">mais de 50% (cinquenta por cento)</span> da população do País; e
 II - em relação ao conjunto dos <span class="g-comp">Municípios</span> e do <span class="g-comp">Distrito Federal</span>, da <span class="g-num">maioria absoluta</span> de seus representantes.
 
+⚠️ No art. 10, o Distrito Federal soma voto nos dois conjuntos (I — Estados e DF; II — Municípios e DF) para aprovar deliberações do Conselho Superior. Não confundir com o art. 8º, § 8º: ali o DF não pode votar nas eleições dos representantes municipais.
+
+<mark style="background:#fff88f">Regras de reeleição (§ 2º — conferir na LC 227/26 a qual artigo este parágrafo pertence, não veio identificado na captura): regra geral, vedada para o mesmo cargo na eleição imediatamente subsequente; exceção, permite-se a reeleição se o mandato anterior teve duração igual ou inferior a 12 (doze) meses.</mark>
+
 Art. 11. Compete ao <span class="g-comp">Conselho Superior do CGIBS</span>:
 I - eleger e destituir, a qualquer tempo, os titulares:
 a) da <span class="g-comp">Diretoria Executiva</span> e suas diretorias;
@@ -374,3 +378,33 @@ XX - estabelecer diretrizes para as atividades administrativas relacionadas às 
 XXI - avocar total ou parcialmente as competências da <span class="g-comp">Diretoria Executiva</span> e de suas diretorias, bem como rever as suas decisões; e
 XXII - deliberar sobre outras matérias relacionadas ao IBS e de harmonização com a CBS.
 Parágrafo único. O <span class="g-comp">Conselho Superior do CGIBS</span> reunir-se-á, ordinariamente, a cada <span class="g-prazo">3 (três) meses</span> e, extraordinariamente, nos termos do regimento interno.
+
+## Corregedoria do CGIBS (art. 21)
+- [ ] status [dom:: 0] [peso:: 3]
+
+Art. 21. A <span class="g-comp">Corregedoria</span>, órgão subordinado ao Conselho Superior do CGIBS, é responsável pela orientação, apuração e correição disciplinar dos servidores públicos cedidos e dos empregados públicos do CGIBS, mediante a adoção de ações preventivas e a instauração de sindicância e de processo administrativo disciplinar.
+§ 3º O cargo de Corregedor-Geral, os cargos diretivos e as estruturas da Corregedoria observarão a paridade e, nos termos do regimento interno, a alternância entre os representantes do conjunto dos Estados e do Distrito Federal e os do conjunto dos Municípios e do Distrito Federal.
+
+## Diretoria Executiva do CGIBS: competências (art. 27)
+- [ ] status [dom:: 0] [peso:: 3]
+
+Art. 27. Compete à <span class="g-comp">Diretoria Executiva</span>, conforme disposto no regimento interno:
+I - planejar, gerir e supervisionar a execução das atividades relativas à elaboração e à divulgação da legislação tributária relativa ao IBS, especialmente no que concerne ao regulamento único do IBS e aos atos normativos editados conjuntamente com o Poder Executivo federal e com os seus órgãos;
+XIX - coordenar as atividades relacionadas à elaboração, para fins de aprovação pelo Conselho Superior do CGIBS:
+a) dos demonstrativos periódicos de resultados gerenciais do CGIBS;
+b) da proposta orçamentária do CGIBS, obedecidos os parâmetros estabelecidos nesta Lei Complementar; e
+c) da proposta de fixação do percentual da arrecadação do IBS destinado à manutenção do CGIBS;
+XXIII - promover a interlocução com as administrações tributárias e as Procuradorias dos Estados, do Distrito Federal e dos Municípios, com a RFB e com a PGFN;
+
+⚠️ Pegadinha de banca: essa competência (interlocução com administrações tributárias e Procuradorias) é da <span class="g-comp">Diretoria Executiva</span> — não da <span class="g-comp">Assessoria de Relações Institucionais e Interfederativas</span>, mesmo o nome desta sugerindo o contrário.
+
+Compete também a uma das diretorias vinculadas à Diretoria Executiva (art. 7º, III — "a Diretoria Executiva e as suas diretorias"; artigo específico da Diretoria de Arrecadação e Cobrança não veio identificado na captura) coordenar as atividades de cobrança, abrangendo as diversas modalidades de pagamento, parcelamento, protesto, arrolamento administrativo de bens, inscrição em cadastro de inadimplentes e de proteção ao crédito e tratamento de devedores contumazes.
+
+## Execução orçamentária e gestão fiscal do CGIBS (art. 42 e correlatos)
+- [ ] status [dom:: 0] [peso:: 3]
+
+Faz parte do relatório resumido da execução orçamentária do CGIBS o demonstrativo da execução das receitas, por categoria econômica e fonte, especificando a previsão inicial, a previsão atualizada para o exercício, a receita realizada no bimestre, a receita realizada no exercício e a previsão da receita a realizar. (artigo não identificado na captura.)
+
+Art. 42. O CGIBS elaborará, ao final de cada quadrimestre, o relatório de gestão fiscal de que tratam os arts. 54 e 55 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), adaptado às especificidades do CGIBS.
+§ 1º O limite de despesa total com pessoal do CGIBS será definido na forma do seu regimento interno.
+§ 2º Os limites globais e as condições para as operações de crédito externa e interna do CGIBS, bem como o limite global para o montante de sua dívida consolidada, serão definidos por resolução do Senado Federal.

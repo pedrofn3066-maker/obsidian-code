@@ -34,8 +34,8 @@ status: 🔴 1ª leitura
 
 ## Checklist por importância (VINTEUM)
 
-- [ ] LC nº 87/1996 — Lei Kandir [dom:: 0] [peso:: 22.0]
-- [ ] LC nº 123/2006 — Simples Nacional [dom:: 0] [peso:: 18.0]
+- [ ] LC nº 87/1996 — Lei Kandir [dom:: 3] [peso:: 22.0]
+- [ ] LC nº 123/2006 — Simples Nacional [dom:: 2] [peso:: 18.0]
 - [ ] ICMS — Imposto sobre Circulação de Mercadorias e Serviços [dom:: 0] [peso:: 15.5]
 - [ ] ITCMD — Imposto sobre Transmissão Causa Mortis e Doação [dom:: 0] [peso:: 15.5]
 - [ ] IPVA — Imposto sobre Veículos Automotores [dom:: 0] [peso:: 8.0]
@@ -95,8 +95,8 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
 > i) fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço.
 
 ## - Lei Complementar nº 87/96  
-- [ ] status [dom:: 0] [peso:: 3]
-
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-15
+parei no artigo 7, antes de substituicao tributaria
 
 
 
@@ -114,11 +114,17 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
     IV - o cumprimento de exigências legais, regulamentares ou administrativas, referentes às operações ou prestações;
     V - o resultado financeiro obtido com a operação ou com a prestação do serviço, <mark style="background:#ff4d4f">exceto o de comunicação.</mark>
 
+<mark style="background:#fff88f">Súmula 334: o ICMS não incide no serviço dos provedores de acesso à Internet.</mark>
+
 2. <mark style="background:rgba(140, 140, 140, 0.12)">Equipara-se às operações de exportação destinadas ao exterior a saída de mercadoria realizada com o fim específico de exportação destinada a armazém alfandegado ou entreposto aduaneiro.</mark>
     spoiler! - **Resposta: ERRADO**
 	Art. 3º O imposto não incide sobre:
     II - operações e prestações que destinem ao exterior mercadorias e serviços, observado o seguinte:
     a) equipara-se às operações de que trata este inciso a saída de mercadoria realizada com o fim específico de exportação para o exterior, <mark style="background:rgba(240, 200, 0, 0.2)">destinada à empresa comercial exportadora, inclusive trading, ou outro estabelecimento da mesma empresa;</mark>
+    b) armazém alfandegado ou entreposto aduaneiro.
+
+    <mark style="background:rgba(140, 140, 140, 0.12)">Empresas comerciais exportadoras</mark> são as que adquirem mercadoria no mercado interno para depois exportá-la — mero "elo de ligação" entre o contribuinte do ICMS e o mercado externo, por isso não incide o imposto na saída para elas.
+    <mark style="background:rgba(140, 140, 140, 0.12)">Armazéns alfandegados</mark> são os recintos em portos, aeroportos e pontos de fronteira que recebem e armazenam cargas de exportação (e também de importação) enquanto aguardam transporte ou desembaraço aduaneiro pela Receita Federal.
 
 	Art. 37. [...]
 § 3º A isenção para operação com determinada mercadoria **não alcança a prestação de serviço de transporte com ela relacionada**, <mark style="background:rgba(240, 200, 0, 0.2)">salvo disposição em contrário.</mark>
@@ -189,7 +195,7 @@ II - a exigibilidade do imposto não-pago ou devolvido e a i**neficácia da lei 
 Lei nº 4.826, de 27 de janeiro de 1989 — consolidada até a Lei nº 14.971/2025, já com a adaptação à EC 132/2023 feita pela Lei nº 14.802/2024
 
 ## Fato Gerador, Doação e Não Incidência (arts. 1º-3º)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 1] [peso:: 3] ✅ 2026-09-15
 
 > Art. 1º O Imposto sobre Transmissão "CAUSA MORTIS" e doação de quaisquer bens ou direitos tem como fato gerador a transmissão "CAUSA MORTIS" e a doação, a qualquer título, de:
 >
@@ -338,6 +344,19 @@ Arts. 11-12 são normas de **remissão ao regulamento** — a lei não detalha p
 
 # - IPVA (Constituição Federal)
 
+#  IPVA Bahia — Lei nº 6.348/1991
+- [ ] status [dom:: 0] [peso:: 3]
+
+<mark style="background:#fff88f">Regra geral: FG do IPVA ocorre em 1º de janeiro de cada exercício.</mark> Exceções pelo momento: veículo novo → alienação ao consumidor final (ou incorporação ao ativo por empresa fabricante, revendedora ou importadora); veículo registrado em outro estado → uso ou locação não eventual no território da Bahia; veículo de procedência estrangeira importado diretamente por consumidor final → desembaraço aduaneiro.
+
+LEI Nº 6.348/1991, ARTS. 1º — DO FATO GERADOR
+
+Art. 1º O IPVA, devido anualmente, tem como fato gerador a propriedade de veículos automotores terrestres, aquáticos e aéreos.
+§ 1º Considera-se ocorrido o fato gerador do imposto em 1º de janeiro de cada exercício.
+§ 2º Em se tratando de veículo novo, considera-se ocorrido o fato gerador na data da sua alienação para consumidor final ou quando da incorporação ao ativo por empresa fabricante, revendedora ou importadora de veículo.
+§ 3º Em se tratando de veículo registrado em outra unidade da Federação, considera-se ocorrido o fato gerador a partir do uso ou da locação não eventual no território deste Estado.
+§ 4º Em se tratando de veículo de procedência estrangeira, novo ou usado, importado diretamente por consumidor final, considera-se ocorrido o fato gerador na data do desembaraço aduaneiro.
+§ 5º Para os efeitos desta Lei, entende-se por veículo novo aquele que ainda não foi objeto de uso em suas finalidades precípuas.
 
 ### JURISPRUDÊNCIA 
 - [ ] status [dom:: 0] [peso:: 3]
