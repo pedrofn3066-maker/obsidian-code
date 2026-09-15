@@ -46,6 +46,8 @@ Se vier vazio, **não conclua que ontem não teve questões** — conclua que n�
 
 ## 3. O que você escreveu (não só onde)
 
+**[▶ Ver o que entrou ontem](obsidian://shell-commands/?vault=vault-ba&execute=s1ontem01)** — ou `Cmd+P` → *Execute: S1 - Revisão de ontem*. Roda `PY/s1-ontem.py` pelo plugin Shell commands e abre a página no navegador; erro do script aparece como notificação no Obsidian. Só funciona no Mac (o iPhone não roda Python).
+
 Os blocos acima dizem em que arquivo você mexeu. Para ver o **texto** que entrou, é preciso git — o Dataview não lê histórico. Use o git pelo *conteúdo*, e o bloco 1 pela *data*: `--since` filtra por data de commit, então um commit de recuperação vai te mostrar, sob a data de ontem, coisa escrita dias antes. Cruze sempre com a tabela do bloco 1 antes de concluir que escreveu algo ontem.
 
 Está empacotado em `PY/s1-ontem.sh`. No Terminal — a aba ao lado da conversa no Claude Code, ou o Terminal.app — cole:
