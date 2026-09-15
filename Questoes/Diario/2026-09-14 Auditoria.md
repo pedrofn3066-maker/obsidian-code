@@ -4,12 +4,12 @@ data: 2026-09-14
 materia: Auditoria
 bloco: Auditoria
 assuntos:
-  - "Testes em Áreas Específicas das Demonstrações Contábeis"
-slot:
+  - Testes em Áreas Específicas das Demonstrações Contábeis
+slot: S4
 total: 15
 acertos: 7
-tempo_min:
-erro_tipo:
+tempo_min: 22
+erro_tipo: excecao
 banca:
 origem: TEC (importado)
 tec:

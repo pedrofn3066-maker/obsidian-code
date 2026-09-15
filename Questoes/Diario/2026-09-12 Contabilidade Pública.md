@@ -14,11 +14,11 @@ assuntos:
   - Demonstração das Variações Patrimoniais (DVP)
   - Demonstração de Fluxo de Caixa (MCASP e NBC TSP 12)
   - NBC TSP 34 - Custos no Setor Público
-slot:
+slot: S3
 total: 21
 acertos: 9
-tempo_min:
-erro_tipo:
+tempo_min: 45
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

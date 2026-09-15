@@ -4,29 +4,29 @@ data: 2026-09-14
 materia: Direito Tributário
 bloco: Direito Tributário
 assuntos:
-  - "Conceito de Tributo"
-  - "Classificação Doutrinária dos Tributos"
-  - "A Natureza Jurídica Específica dos Tributos"
-  - "Taxas (CF/1988 e CTN)"
-  - "Contribuições de Melhoria (CF/1988 e CTN)"
-  - "Empréstimo Compulsório (CF/1988 e CTN)"
-  - "Contribuições Especiais (CF/1988)"
-  - "Princípios Tributários"
-  - "Imunidades Tributárias"
+  - Conceito de Tributo
+  - Classificação Doutrinária dos Tributos
+  - A Natureza Jurídica Específica dos Tributos
+  - Taxas (CF/1988 e CTN)
+  - Contribuições de Melhoria (CF/1988 e CTN)
+  - Empréstimo Compulsório (CF/1988 e CTN)
+  - Contribuições Especiais (CF/1988)
+  - Princípios Tributários
+  - Imunidades Tributárias
   - "Competência Tributária: Conceitos e Características"
-  - "Repartição da Competência Tributária (Privativa, Comum, Cumulativa, Residual, Extraordinária e Compartilhada)"
-  - "Imposto sobre Serviços - ISS (CF/1988 e CTN)"
-  - "Imposto Predial e Territorial Urbano - IPTU (CF/1988 e CTN)"
-  - "Imposto sobre Transmissão de Bens Imóveis - ITBI (CF/1988 e CTN)"
-  - "Contribuição sobre Bens e Serviços - CBS (CF/1988, EC 132)"
-  - "Comitê Gestor do IBS (CF 1988, EC 132)"
-  - "Repartição Constitucional de Receitas Tributárias (arts. 157 a 162 da CF/1988)"
-  - "Jurisprudência dos Tribunais Superiores sobre IPTU"
-slot:
+  - Repartição da Competência Tributária (Privativa, Comum, Cumulativa, Residual, Extraordinária e Compartilhada)
+  - Imposto sobre Serviços - ISS (CF/1988 e CTN)
+  - Imposto Predial e Territorial Urbano - IPTU (CF/1988 e CTN)
+  - Imposto sobre Transmissão de Bens Imóveis - ITBI (CF/1988 e CTN)
+  - Contribuição sobre Bens e Serviços - CBS (CF/1988, EC 132)
+  - Comitê Gestor do IBS (CF 1988, EC 132)
+  - Repartição Constitucional de Receitas Tributárias (arts. 157 a 162 da CF/1988)
+  - Jurisprudência dos Tribunais Superiores sobre IPTU
+slot: S3
 total: 56
 acertos: 46
-tempo_min:
-erro_tipo:
+tempo_min: 110
+erro_tipo: excecao
 banca:
 origem: TEC (importado)
 tec:

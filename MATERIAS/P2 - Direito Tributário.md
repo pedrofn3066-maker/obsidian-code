@@ -303,23 +303,86 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 # Bloco D:   
 ## Simples Nacional;
 ### Das Disposições Preliminares (arts. 1º e 2º da LC nº 123/2006)
-- [ ] status [dom:: 0] [peso:: 3]
-- #tec/resumo 
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-15
+
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12729).
+
+CF - Art. 179. **Art. 179 - U, E, DF e M** dispensarão às ME e às EPP, assim definidas em lei, **tratamento jurídico diferenciado**, visando a incentivá-las pela **simplificação** ou pela **eliminação** ou **redução** de suas obrigações: 
+=> administrativas 
+=> tributárias _(_**_não é_** _trabalhista - pegadinha)_ 
+=> previdenciárias 
+=> creditícias
+No art. 146, a CF prevê que **cabe à lei complementar** estabelecer normas gerais sobre esse tratamento diferenciado:
+
+Art. 146. Cabe à **LEI COMPLEMENTAR**: (...) 
+
+Estabelecer **normas gerais** em matéria de legislação tributária, especialmente sobre: 
+
+- **definição** de tratamento **diferenciado e favorecido** para as ME e para as EPP, **inclusive** regimes especiais ou simplificados (...) 
+    
+
+A **LEI COMPLEMENTAR** também **poderá** **instituir** um regime único de arrecadação dos **impostos e contribuições** da U, E, DF e M, observado que: 
+
+- será **opcional** para o **contribuinte** 
+    
+- **poderão** ser estabelecidas **condições de enquadramento** **diferenciadas** **por Estado** 
+    
+- o **recolhimento** será **unificado + centralizado** 
+    
+- a **distribuição** da parcela de recursos pertencentes aos respectivos entes federados **será imediata**, **vedada** qualquer **retenção** ou **condicionamento**
+    
+- a **arrecadação**, a **fiscalização** e a **cobrança** **poderão** ser compartilhadas pelos entes federados, adotado **cadastro nacional único** de contribuintes.
+
+Características principais do Regime do Simples Nacional: ser facultativo; ser irretratável para todo o ano-calendário; abrange os seguintes tributos: IRPJ, CSLL, PIS/Pasep, Cofins, IPI, ICMS, ISS e a Contribuição para a Seguridade Social destinada à Previdência Social a cargo da pessoa jurídica (CPP);
+
+O Simples Nacional **NÃO é facultativo para Estados e Municípios**!!!
+
+- Todos os Estados e Municípios participam obrigatoriamente do Simples Nacional. 
+
+Entretanto, a depender da participação de cada Estado no Produto Interno Bruto (PIB) brasileiro, poderão ser adotados pelos Estados limites diferenciados de receita bruta de EPP (sublimites), para efeitos de recolhimento de ICMS e ISS, conforme o caso. 
+
+O sublimite adotado por um Estado aplica-se obrigatoriamente ao recolhimento do ISS dos Municípios nele localizados. 
+
+A relação dos Estados que adotam sublimites é publicada a cada ano por meio de Resolução do Comitê Gestor do Simples Nacional (CGSN).
+![[Pasted image 20260915105538.png]]
+
+![[Pasted image 20260915105548.png]]
+**Art. 1. (...)** **Normas gerais** relativas ao: 
+
+§ Tratamento **diferenciado** e **favorecido** a ser dispensado às **ME e EPP** 
+
+§ No **âmbito** dos Poderes da U, E, DF e M, especialmente no que se refere: 
+
+1) à **apuração e recolhimento** dos impostos e contribuições da U, E, DF e M, **mediante** **regime único de arrecadação**, inclusive obrigações acessórias; 
+
+2) ao **cumprimento** de obrigações **trabalhistas** e **previdenciárias**, inclusive obrigações acessórias; 
+
+3) ao **acesso:** 
+
+- _a **crédito** e_ 
+- _ao **mercado**, inclusive quanto à preferência nas aquisições de bens e serviços pelos Poderes Públicos_ 
+- _à **tecnologia**_ 
+- _ao **associativismo** e_ 
+- _às **regras de inclusão**._ 
+
+4) ao **cadastro nacional único** de contribuintes
+
+
+
 
 ### Da Definição de Microempresa e de Empresa de Pequeno Porte (arts. 3º a 3º-B da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
-- #tec/resumo 
+
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12730?indice=1&materia=1978)
 
 ### Da Inscrição e da Baixa (arts. 4º a 11 da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
-- #tec/resumo 
+
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12731?indice=1&materia=1978)
 
 ### Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
-- #tec/resumo 
+
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12732?indice=1&materia=1978)
 
 <mark style="background:rgba(255, 183, 139, 0.55)">Ademais, a prestação de serviço de transporte interestadual e intermunicipal de passageiros na modalidade rodoviária comum é atividade expressamente vedada de enquadramento na Lei do Regime Simples. O legislador proíbe o recolhimento unificado para essas modalidades de transporte de passageiros de longo curso por envolverem complexas relações de ICMS interestadual e regulamentações específicas de transporte, permitindo apenas situações excepcionais que não se aplicam ao transporte rodoviário convencional de passageiros sugerido.</mark>
@@ -342,7 +405,7 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 ### 1. Introdução ao Imposto Predial e Territorial Urbano - IPTU
 - [ ] status [dom:: 0] [peso:: 3]
 
-- #tec/resumo 
+
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5897)
 
 **Art. 156.** Compete aos Municípios instituir impostos sobre:

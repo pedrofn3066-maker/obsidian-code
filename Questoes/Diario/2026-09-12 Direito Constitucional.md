@@ -15,11 +15,11 @@ assuntos:
   - Jurisprudência dos Tribunais Superiores sobre Organização, Competências e Bens dos Entes Federativos
   - Jurisprudência dos Tribunais Superiores sobre Intervenção Federal e Estadual
   - Jurisprudência dos Tribunais Superiores sobre Administração Pública
-slot:
+slot: S5
 total: 20
 acertos: 8
-tempo_min:
-erro_tipo:
+tempo_min: 44
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

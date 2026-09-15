@@ -25,34 +25,34 @@ Consequência prática: **o checklist de 26 tópicos de `P1 - Contabilidade Gera
 
 Os 26 tópicos da lista compartilhada, em ordem de peso. "Avançada" é sempre [[P2 - Contabilidade Avançada e de Custos]].
 
-| Tópico | % | Onde |
-| --- | --- | --- |
+| Tópico                                             | %    | Onde                                                                                                                                                                                                      |
+| -------------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Provisões, Passivos e Ativos Contingentes (CPC 25) | 7,1% | [[P2 - Contabilidade Avançada e de Custos#- Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)\|Avançada]] · ângulo público em [[P2 - CASP#- Provisões, passivos e ativos contingentes\|CASP]] |
-| Investimentos Avaliados pelo Custo ou MEP | 6,9% | [[P2 - Contabilidade Avançada e de Custos#- Investimentos MEP (CPC 18);\|Avançada]] |
-| Demonstração de Fluxo de Caixa (DFC) | 6,6% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|Avançada]] · [[P2 - CASP#- DFC\|CASP]] |
-| Balanço Patrimonial (BP) | 5,6% | [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|Avançada]] · [[P2 - CASP#- BP\|CASP]] |
-| CPC 16 — Estoques | 4,6% | [[P2 - Contabilidade Avançada e de Custos#- Estoques (CPC 16)\|Avançada]] |
-| Depreciação, Amortização e Exaustão | 4,6% | [[P2 - Contabilidade Avançada e de Custos#- Depreciação, Amortização e Exaustão;\|Avançada]] · [[P2 - CASP#- Depreciação\|CASP]] |
-| Ativo Imobilizado | 4,4% | [[P2 - Contabilidade Avançada e de Custos#- Imobilizado (CPC 27);\|Avançada]] |
-| Estrutura Conceitual Básica (CPC 00) | 4,1% | [[P2 - Contabilidade Avançada e de Custos#- Contabilidade Básica;\|Avançada]] |
-| Instrumentos Financeiros | 4,1% | [[P2 - Contabilidade Avançada e de Custos#- Instrumentos Financeiros (CPC 48);\|Avançada]] |
-| Ativos Intangíveis | 3,9% | [[P2 - Contabilidade Avançada e de Custos#- Intangível (CPC 04);\|Avançada]] |
-| Redução ao Valor Recuperável | 3,9% | [[P2 - Contabilidade Avançada e de Custos#- Redução ao Valor Recuperável (CPC 01);\|Avançada]] |
-| Escrituração, Balancete, Atos e Fatos | 3,7% | [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Balancete, Atos e Fatos;\|Avançada]] — <mark style="background:#fff88f">atos e fatos administrativos ainda faltam</mark> |
-| Demonstração do Valor Adicionado (DVA) | 3,7% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Valor Adicionado (CPC 09);\|Avançada]] |
-| Patrimônio Líquido | 3,6% | [[P2 - Contabilidade Avançada e de Custos#- Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)\|Avançada]] |
-| CPC 12 — Ajuste a Valor Presente | 3,4% | [[P2 - Contabilidade Avançada e de Custos#- Ajuste a Valor Presente (CPC 12); e\|Avançada]] |
-| Demonstração de Resultados Abrangentes (DRA) | 2,4% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado Abrangente (DRA); e\|Avançada]] |
-| Empréstimos e Financiamentos | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Empréstimos;\|Avançada]] |
-| Demonstração do Resultado do Exercício (DRE) | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado do Exercício;\|Avançada]] |
-| CPC 02 — Taxas de Câmbio | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Ajustes de Conversão de Câmbio (CPC 02);\|Avançada]] |
-| CPC 46 — Mensuração a Valor Justo | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Mensuração a Valor Justo (CPC 46)\|Avançada]] — <mark style="background:#fff88f">parcial: falta a hierarquia de níveis</mark> |
-| Operações com Mercadorias | 2,0% | [[P2 - Contabilidade Avançada e de Custos#- Operações com Receitas e Despesas Antecipadas\|Avançada]] |
-| Debêntures e Títulos de Dívida | 1,7% | [[P2 - Contabilidade Avançada e de Custos#- Debêntures\|Avançada]] |
-| CPC 07 — Subvenção Governamental | 1,7% | [[P2 - Contabilidade Avançada e de Custos#- Subvenções (CPC 07);\|Avançada]] |
-| Elaboração e Apresentação das DCs | 1,5% | [[P2 - Contabilidade Avançada e de Custos#- Apresentação das Demonstrações Contábeis (CPC 26);\|Avançada]] |
-| CPC 23 — Políticas Contábeis | 1,5% | [[P2 - Contabilidade Avançada e de Custos#- Políticas, erros e estimativas contábeis (CPC 23);\|Avançada]] |
-| Dividendos | 1,2% | [[P2 - Contabilidade Avançada e de Custos#- Dividendos e Juros sobre Capital Próprio; e\|Avançada]] |
+| Investimentos Avaliados pelo Custo ou MEP          | 6,9% | [[P2 - Contabilidade Avançada e de Custos#- Investimentos MEP (CPC 18);\|Avançada]]                                                                                                                       |
+| Demonstração de Fluxo de Caixa (DFC)               | 6,6% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|Avançada]] · [[P2 - CASP#- DFC\|CASP]]                                                                               |
+| Balanço Patrimonial (BP)                           | 5,6% | [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|Avançada]] · [[P2 - CASP#- BP\|CASP]]                                                                                                   |
+| CPC 16 — Estoques                                  | 4,6% | [[P2 - Contabilidade Avançada e de Custos#- Estoques (CPC 16)\|Avançada]]                                                                                                                                 |
+| Depreciação, Amortização e Exaustão                | 4,6% | [[P2 - Contabilidade Avançada e de Custos#- Depreciação, Amortização e Exaustão;\|Avançada]] · [[P2 - CASP#- Depreciação\|CASP]]                                                                          |
+| Ativo Imobilizado                                  | 4,4% | [[P2 - Contabilidade Avançada e de Custos#- Imobilizado (CPC 27);\|Avançada]]                                                                                                                             |
+| Estrutura Conceitual Básica (CPC 00)               | 4,1% | [[P2 - Contabilidade Avançada e de Custos#- Contabilidade Básica;\|Avançada]]                                                                                                                             |
+| Instrumentos Financeiros                           | 4,1% | [[P2 - Contabilidade Avançada e de Custos#- Instrumentos Financeiros (CPC 48);\|Avançada]]                                                                                                                |
+| Ativos Intangíveis                                 | 3,9% | [[P2 - Contabilidade Avançada e de Custos#- Intangível (CPC 04);\|Avançada]]                                                                                                                              |
+| Redução ao Valor Recuperável                       | 3,9% | [[P2 - Contabilidade Avançada e de Custos#- Redução ao Valor Recuperável (CPC 01);\|Avançada]]                                                                                                            |
+| Escrituração, Balancete, Atos e Fatos              | 3,7% | [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Balancete, Atos e Fatos;\|Avançada]] — <mark style="background:#fff88f">atos e fatos administrativos ainda faltam</mark>                        |
+| Demonstração do Valor Adicionado (DVA)             | 3,7% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Valor Adicionado (CPC 09);\|Avançada]]                                                                                                        |
+| Patrimônio Líquido                                 | 3,6% | [[P2 - Contabilidade Avançada e de Custos#- Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)\|Avançada]]                                                                                 |
+| CPC 12 — Ajuste a Valor Presente                   | 3,4% | [[P2 - Contabilidade Avançada e de Custos#- Ajuste a Valor Presente (CPC 12); e\|Avançada]]                                                                                                               |
+| Demonstração de Resultados Abrangentes (DRA)       | 2,4% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado Abrangente (DRA); e\|Avançada]]                                                                                                     |
+| Empréstimos e Financiamentos                       | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Empréstimos;\|Avançada]]                                                                                                                                      |
+| Demonstração do Resultado do Exercício (DRE)       | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado do Exercício;\|Avançada]]                                                                                                           |
+| CPC 02 — Taxas de Câmbio                           | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Ajustes de Conversão de Câmbio (CPC 02);\|Avançada]]                                                                                                          |
+| CPC 46 — Mensuração a Valor Justo                  | 2,2% | [[P2 - Contabilidade Avançada e de Custos#- Mensuração a Valor Justo (CPC 46)\|Avançada]] — <mark style="background:#fff88f">parcial: falta a hierarquia de níveis</mark>                                 |
+| Operações com Mercadorias                          | 2,0% | [[P2 - Contabilidade Avançada e de Custos#- Operações com Receitas e Despesas Antecipadas\|Avançada]]                                                                                                     |
+| Debêntures e Títulos de Dívida                     | 1,7% | [[P2 - Contabilidade Avançada e de Custos#- Debêntures\|Avançada]]                                                                                                                                        |
+| CPC 07 — Subvenção Governamental                   | 1,7% | [[P2 - Contabilidade Avançada e de Custos#- Subvenções (CPC 07);\|Avançada]]                                                                                                                              |
+| Elaboração e Apresentação das DCs                  | 1,5% | [[P2 - Contabilidade Avançada e de Custos#- Apresentação das Demonstrações Contábeis (CPC 26);\|Avançada]]                                                                                                |
+| CPC 23 — Políticas Contábeis                       | 1,5% | [[P2 - Contabilidade Avançada e de Custos#- Políticas, erros e estimativas contábeis (CPC 23);\|Avançada]]                                                                                                |
+| Dividendos                                         | 1,2% | [[P2 - Contabilidade Avançada e de Custos#- Dividendos e Juros sobre Capital Próprio; e\|Avançada]]                                                                                                       |
 
 **Os doze gaps de 33,3% foram preenchidos em 2026-09-10**, com lastro no guia VINTEUM de Contabilidade Geral e Avançada. Um heading novo foi criado (Escrituração, Balancete, Atos e Fatos); os outros onze já existiam vazios.
 

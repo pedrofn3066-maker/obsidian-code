@@ -46,7 +46,7 @@ prioridade: importante
 - [ ] Ferramentas de BI e Visualização de Dados [dom:: 0] [peso:: 3.2]
 - [ ] Fundamentos e Princípios da Ciência de Dados [dom:: 4] [peso:: 3.0]
 
-> ****Zero na âncora BA 2019** — disciplina nova, introduzida pela FCC em CE 2026**
+> ***Zero na âncora BA 2019** — disciplina nova, introduzida pela FCC em CE 2026**
 > Prioridade: **importante**
 
 A grande novidade dos editais fiscais recentes. Substitui a antiga "Noções de Informática" por algo bem mais próximo do trabalho real de um auditor: análise de dados aplicada à seleção de contribuintes e ao cruzamento de informações fiscais.

@@ -9,11 +9,11 @@ assuntos:
   - Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc)
   - Tipologia e Gênero Textual
   - Reescrita de Frases. Substituição de Palavras ou Trechos de Texto.
-slot:
+slot: S4
 total: 22
 acertos: 14
-tempo_min:
-erro_tipo:
+tempo_min: 39
+erro_tipo: desatencao
 banca:
 origem: TEC (importado)
 tec:

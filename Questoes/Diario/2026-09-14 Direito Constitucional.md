@@ -4,13 +4,13 @@ data: 2026-09-14
 materia: Direito Constitucional
 bloco: Const./Adm./Civil/Penal
 assuntos:
-  - "Do Imposto de Competência Compartilhada entre Estados, Distrito Federal e Municípios (arts. 156-A e 156-B da CF/1988)"
-  - "Emenda Constitucional nº 132/2023 (arts. 6º a 23) - Reforma Tributária"
-slot:
+  - Do Imposto de Competência Compartilhada entre Estados, Distrito Federal e Municípios (arts. 156-A e 156-B da CF/1988)
+  - Emenda Constitucional nº 132/2023 (arts. 6º a 23) - Reforma Tributária
+slot: S5
 total: 8
 acertos: 6
-tempo_min:
-erro_tipo:
+tempo_min: 22
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

@@ -219,13 +219,13 @@ Requisitos formais que a lei impõe à escrituração — cada um já foi enunci
 
 <mark style="background:#fff88f">A troca entre Razão e Diário é a pegadinha clássica.</mark>
 
-| | **Razão** | **Diário** |
-| --- | --- | --- |
-| Unidade de registro | **conta** contábil | **lançamento** |
-| Registro e autenticação | **DISPENSA** | **REQUER** |
-| Obrigatoriedade | facultativo (obrigatório p/ IRPJ e Res. CFC 1.330) | **obrigatório** (Código Civil) |
-| Natureza | principal, **sistemático** | principal, **cronológico** |
-| Conteúdo | título · data · histórico · débito/crédito · **saldo** | local e data · conta creditada · conta debitada · histórico · valor |
+|                         | **Razão**                                              | **Diário**                                                          |
+| ----------------------- | ------------------------------------------------------ | ------------------------------------------------------------------- |
+| Unidade de registro     | **conta** contábil                                     | **lançamento**                                                      |
+| Registro e autenticação | **DISPENSA**                                           | **REQUER**                                                          |
+| Obrigatoriedade         | facultativo (obrigatório p/ IRPJ e Res. CFC 1.330)     | **obrigatório** (Código Civil)                                      |
+| Natureza                | principal, **sistemático**                             | principal, **cronológico**                                          |
+| Conteúdo                | título · data · histórico · débito/crédito · **saldo** | local e data · conta creditada · conta debitada · histórico · valor |
 
 Escrituração resumida do Diário: admitida desde que os totais **não excedam 30 dias**.
 
@@ -320,7 +320,7 @@ O guia trata o valor justo como uma das **bases de mensuração subsequente** ao
 | **Valor presente** | fluxo de caixa futuro descontado | hoje, por desconto |
 | **Valor justo** | valor de mercado | data de mensuração |
 
-<mark style="background:#fff88f">**VRL ≠ Valor Justo.**</mark> O Valor Realizável Líquido é **específico da entidade** — estimativa própria de preço de venda menos custos de conclusão e gastos de venda. O valor justo é o **valor de mercado**, que "vale para todas" as entidades. Podem coincidir; não são sinônimos. Mesma lógica vale para o [[#- Ajuste a Valor Presente (CPC 12); e|valor presente]], que pode coincidir com o valor justo sem se confundir com ele.
+<mark style="background:#fff88f">VRL ≠ Valor Justo.</mark> O Valor Realizável Líquido é **específico da entidade** — estimativa própria de preço de venda menos custos de conclusão e gastos de venda. O valor justo é o **valor de mercado**, que "vale para todas" as entidades. Podem coincidir; não são sinônimos. Mesma lógica vale para o [[#- Ajuste a Valor Presente (CPC 12); e|valor presente]], que pode coincidir com o valor justo sem se confundir com ele.
 
 Derivada usada em [[#- Redução ao Valor Recuperável (CPC 01);|impairment]]: **VJLV = Valor Justo − Despesas de Venda**, onde as despesas de venda são as incrementais diretamente atribuíveis à venda ou baixa, **excluídas** despesas financeiras e impostos sobre o resultado.
 
@@ -2000,9 +2000,86 @@ O CPC 16 admite exceções quando o *armazenamento for uma etapa necessária do 
 Um exemplo ocorre quando materiais adquiridos para revenda são utilizados na construção ou ampliação de ativos da própria empresa. Imagine uma loja de materiais de construção que possua em estoque: tijolos, cimento, areia e outros materiais destinados à venda. Se esses materiais forem utilizados para ampliar o prédio da própria empresa, eles deixam de ser estoques e passam a compor o valor do ativo imobilizado construído.
 <mark style="background:rgba(240, 200, 0, 0.2)">Nessa situação, o reconhecimento como despesa ocorrerá gradualmente ao longo da vida útil do ativo, por meio dos mecanismos normais de apropriação contábil, como a depreciação.</mark>
 
+## Operações com Mercadoria(CMV, RCM, Tributos, Frete, etc.)
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-15
+(https://www.tecconcursos.com.br/aulas/materias/21/assuntos/2251?indice=1&materia=4607)
 
+![](https://www.techconcursos.com.br/img/teoria/fique-ligado.png)
+As **operações com mercadorias** compõem a **parte inicial da Demonstração do Resultado do Exercício (DRE)**, sendo fundamentais para a **apuração do lucro ou prejuízo das atividades operacionais** da empresa.
 
+**MERCADORIA:** **bem mantido pela entidade com a finalidade de venda no curso normal de suas atividades**.
+![](https://www.techconcursos.com.br/img/teoria/importante.png)
+Para que um bem seja considerado **mercadoria**, ele deve estar relacionado à **atividade principal** da empresa e **destinado à venda**.
+### 1.2.1. Entrada das Mercadorias no Estoque
 
+As mercadorias ingressam no estoque pelo seu valor de **custo**. Esse custo representa o total de **gastos necessários** para que a **mercadoria esteja disponível** para venda.
+ Assim, o **custo da mercadoria não é composto apenas pelo preço pago ao fornecedor**. Também **integram esse valor todos os gastos necessáriospara colocar a mercadoria em condições de uso ou venda**.
+
+### 1.2.2. Saída das Mercadorias do Estoque
+Quando ocorre a venda de uma mercadoria, ela deixa o estoque pelo valor correspondente ao seu custo. Esse valor é registrado contabilmente como **Custo das Mercadorias Vendidas (CMV)**. O CMV representa exatamente **quanto aquela mercadoria custou para a empresa antes de ser vendida**. Em outras palavras, quando a venda ocorre, a entidade reconhece simultaneamente:
+
+1. A receita obtida com a venda;
+2. O custo da mercadoria que saiu do estoque.
+
+Assim, o valor registrado como **CMV** corresponde ao **mesmo valor pelo qual a mercadoria foi originalmente registrada no estoque**, considerando os **critérios de mensuração**adotados pela empresa.
+
+### 1.3. Devolução de Vendas e Vendas Canceladas
+
+Outro conceito fundamental para o estudo das operações com mercadorias é o de devolução de vendas e vendas canceladas. Embora exista uma diferença técnica entre os dois eventos, **seus efeitos contábeis são essencialmente os mesmos**, razão pela qual são tratados como **sinônimos**.
+
+**Devolução de Vendas**
+
+A devolução de vendas ocorre quando <mark style="background:#fff88f">a mercadoria já foi entregue ao cliente</mark>, **mas posteriormente é devolvida** ao vendedor.
+
+Isso pode acontecer por diversos motivos, como:
+
+- Defeito no produto;
+- Erro no pedido;
+- Insatisfação do cliente;
+- Descumprimento de especificações contratadas.
+
+**Vendas Canceladas**
+
+A venda cancelada ocorre quando o **<font color="#ff0000">negócio é desfeito antes da efetiva entrega da mercadoria ao comprador</font>**. Nesse caso, a mercadoria sequer chega a sair definitivamente da posse do vendedor.
+
+Independentemente de se tratar de devolução ou cancelamento, o **efeito** é semelhante: a **empresa perde o direito de receber o valor** da venda ou **passa a ter a obrigação de devolver o valor** eventualmente já recebido.
+
+### 1.4. Abatimento
+
+O abatimento corresponde ao **valor que o fornecedor concorda em reduzir do preço a receber**, para evitar uma devolução. **Não aparece na nota fiscal**, pois é posterior à venda.
+
+No **abatimento concedido** pela empresa a clientes haverá uma **redução no valor a receber**. Já no **abatimento obtido** pela empresa junto a fornecedores haverá uma **redução no valor a pagar**.
+Resumidamente, as características do Abatimento são:
+
+- Ocorre após a venda ter sido realizada;
+- Não consta na nota fiscal original;
+- Tem como finalidade evitar a devolução da mercadoria;
+- Reduz o valor a receber do cliente ou o valor a pagar ao fornecedor.
+![](https://www.techconcursos.com.br/img/teoria/importante.png)
+O **abatimento** sempre ocorre **após a realização da operação** original e, por essa razão, **não aparece na nota fiscal** da venda.
+
+### 1.5. Desconto Incondicional
+O **desconto incondicional** recebe este nome porque **não depende das condições de pagamento**. O desconto incondicional é dado sempre **no momento da venda** das mercadorias, podendo ser concedido, por exemplo, para compras em grande quantidade, por interesse promocional, para clientes preferenciais ou mesmo por “pechincha” do comprador.
+Suas principais características são:.
+
+- É concedido no <mark style="background:#fff88f">momento</mark> da venda;
+- Não depende da forma ou da data de pagamento;
+- <font color="#17365d">Consta na nota fiscal;</font>
+- Reduz diretamente o valor da operação comercial.
+![](https://www.techconcursos.com.br/img/teoria/importante.png)
+**Se o desconto é concedido no momento da venda**, ele é classificado como desconto **incondicional**, **independentemente da razão** que motivou sua concessão.
+
+###   1.6. Desconto Condicional
+
+O **desconto condicional** é aquele cuja concessão **depende do cumprimento de uma condição futura pelo comprador**, normalmente relacionada à antecipação do pagamento. Nesse caso, **o desconto não é concedido** no **momento da venda**. Ele somente será efetivamente concedido se o cliente cumprir a condição estabelecida.
+Suas principais características são:.
+
+- Depende de um evento futuro;
+- Está vinculado ao pagamento antecipado ou dentro de determinado prazo;
+- <mark style="background:#fff88f">Não consta na nota fiscal da venda;</mark>
+- Possui natureza <font color="#e36c09">financeira</font>.
+
+*$* Continua em tópico consignação
 
 ## - Eventos Subsequentes (CPC 24)
 - [ ] status [dom:: 0] [peso:: 3]

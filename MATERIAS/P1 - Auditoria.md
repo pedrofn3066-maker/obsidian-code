@@ -37,8 +37,8 @@ tags:
 - [ ] Normas Profissionais do Auditor Independente [dom:: 4] [peso:: 8.5]
 - [ ] Materialidade, Relevância e Risco em Auditoria Independente [dom:: 3] [peso:: 7.1]
 - [ ] Evidência em Auditoria [dom:: 4] [peso:: 6.6]
-- [ ] Auditoria Interna e Controle Interno [dom:: 0] [peso:: 6.6]
-- [ ] Tópicos de Auditoria Fiscal (NF-e e EFD) [dom:: 0] [peso:: 4.3]
+- [x] Auditoria Interna e Controle Interno [dom:: 0] [peso:: 6.6] ✅ 2026-09-15
+- [x] Tópicos de Auditoria Fiscal (NF-e e EFD) [dom:: 0] [peso:: 4.3] ✅ 2026-09-15
 
 > **5 questões · **15 pontos** na âncora BA 2019 (Prova II) — em CE 2026 aparece em conhecimentos gerais**
 > Prioridade: **importante**
@@ -54,11 +54,11 @@ Concentre na metade **aplicada** — é o que o cargo faz e o que alimenta a dis
 # Bloco A:
 
 ## Normas Profissionais do Auditor Independente;
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 0] [peso:: 2] ✅ 2026-09-15
 
 ## Auditoria Interna;
-- [ ] status [dom:: 0] [peso:: 2]
-#revisar [cad:: 7d] [prox:: 2026-08-28]
+- [ ] status [dom:: 3.5] [peso:: 2]
+ [cad:: 7d] [prox:: 2026-08-28]
 - **A auditoria interna é ~~dependente~~ e subordinada ao conselho de administração.**
 
 - **12.3.4 – A Auditoria Interna deve avaliar a necessidade de emissão de relatório parcial, na hipótese de constatar impropriedades/irregularidades/ ilegalidades que necessitem providências imediatas da administração da entidade, e que não possam aguardar o final dos exames, considerando o disposto no item 12.1.3.1.**
@@ -252,7 +252,9 @@ Resumo tec:
 ## - Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Testes em Áreas Específicas das Demonstrações Contábeis;
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2]
+
+
 ## - Transações com Partes Relacionadas;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Transações e Eventos Subsequentes.
@@ -277,7 +279,7 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
 ## - Auditoria Fiscal;
 
 ### 1. DECRETO Nº 6.022/2007
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 2] [peso:: 2] ✅ 2026-09-15
 
 - **SPED:** Unifica as atividades de **RECEPÇÃO**, **VALIDAÇÃO**, **ARMAZENAMENTO** e **AUTENTICAÇÃO** de livros e documentos que integram a escrituração contábil e fiscal dos empresários e das pessoas jurídicas, **inclusive imunes ou isentas,** mediante fluxo **único**, computadorizado, de informações.   
     ⚠️ Este sistema **não dispensa** o empresário e as pessoas jurídicas, inclusive imunes ou isentas, de **manter sob sua guarda e responsabilidade os livros e documentos** na forma e prazos previstos na legislação aplicável.
@@ -295,7 +297,7 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
     - **Estabelecer** a política de segurança e de acesso às informações armazenadas no SPED.
 
 ### 2. AJUSTE SINIEF Nº 02/2009 — EFD
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 1] [peso:: 2] ✅ 2026-09-15
 
 - Poderão utilizar a **EFD** os contribuintes do **ICMS** e/ou do **IPI**.
     
@@ -361,7 +363,7 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
     - **Eventos consequentes:**
         - **Falha ou recusa** na recepção, hipótese em que a **causa será informada**.
         - **Regular recepção** do arquivo, hipótese em que será emitido **recibo de entrega**. _(a **emissão** do recibo define o **momento** da escrituração)_
-- A recepção do arquivo digital da EFD **não implicará no reconhecimento da veracidade e legitimidade** das informações prestadas, **nem na homologação da apuração** do imposto efetuada pelo contribuinte.
+- <mark style="background:rgba(163, 67, 31, 0.2)">A recepção do arquivo digital da EFD</mark> **não implicará no reconhecimento da veracidade e legitimidade** das informações prestadas, **nem na homologação da apuração** do imposto efetuada pelo contribuinte.
     
 - **Em regra**, o arquivo digital da EFD deverá ser enviado **até o 5º dia do mês subsequente** ao **encerramento** do mês da apuração. Contudo, **a administração tributária da unidade federada poderá alterar este prazo**.
     

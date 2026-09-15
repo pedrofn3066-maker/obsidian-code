@@ -6,8 +6,7 @@
     "grifos",
     "outline-heading-colors",
     "painel",
-    "vault-colors",
-    "topazio"
+    "vault-colors"
   ],
   "theme": "moonstone",
   "baseFontSize": 16,

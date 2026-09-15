@@ -4,17 +4,17 @@ data: 2026-09-14
 materia: Direito Administrativo
 bloco: Const./Adm./Civil/Penal
 assuntos:
-  - "Jurisprudência dos Tribunais Superiores sobre Administração Indireta"
-  - "Jurisprudência dos Tribunais Superiores sobre Controle da Administração Pública"
-  - "Jurisprudência dos Tribunais Superiores sobre Licitações e Contratos Administrativos"
-  - "Jurisprudência dos Tribunais Superiores sobre Poderes da Administração"
-  - "Jurisprudência dos Tribunais Superiores sobre Princípios da Administração"
-  - "Jurisprudência dos Tribunais Superiores sobre Processo Administrativo"
-slot:
+  - Jurisprudência dos Tribunais Superiores sobre Administração Indireta
+  - Jurisprudência dos Tribunais Superiores sobre Controle da Administração Pública
+  - Jurisprudência dos Tribunais Superiores sobre Licitações e Contratos Administrativos
+  - Jurisprudência dos Tribunais Superiores sobre Poderes da Administração
+  - Jurisprudência dos Tribunais Superiores sobre Princípios da Administração
+  - Jurisprudência dos Tribunais Superiores sobre Processo Administrativo
+slot: S5
 total: 19
 acertos: 12
-tempo_min:
-erro_tipo:
+tempo_min: 31
+erro_tipo: excecao
 banca:
 origem: TEC (importado)
 tec:
