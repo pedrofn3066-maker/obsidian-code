@@ -93,6 +93,7 @@ RODIZIOS = {
 # `materia` do Diario (normalizada) -> notas, quando o nome não casa sozinho.
 DIARIO_PARA_NOTAS = {
     "contabilidade publica": [("P2 - CASP", None)],
+    "contabilidade geral": [("P1 - Contabilidade Geral", None), ("P2 - Contabilidade Avançada e de Custos", None)],
     "contabilidade avancada": [("P2 - Contabilidade Avançada e de Custos", None)],
     "contabilidade de custos": [("P2 - Contabilidade Avançada e de Custos", CUSTOS)],
     "ciencias de dados": FLUENCIA,
