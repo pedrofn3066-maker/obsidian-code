@@ -81,7 +81,7 @@ Nos editais FCC recentes vem como "Contabilidade Geral e Pública" — se a Bahi
 ## - Contabilidade Básica;
 
 ### Estrutura conceitual, princípios e regimes (CPC 00);
-- [ ] status [dom:: 2] [peso:: 2] 
+- [x] status [dom:: 2] [peso:: 2] ✅ 2026-09-14
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3855)
 
 ![](https://www.techconcursos.com.br/img/teoria/importante.png)
@@ -1849,7 +1849,7 @@ Os componentes dos outros resultados abrangentes incluem:
 # Bloco F:
 
 ## - Demonstração de Fluxo de Caixa (CPC 03)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-14
 
 Os equivalentes de caixa são mantidos com a finalidade de atender a compromissos de caixa de curto prazo e não para investimento ou outros fins. Para que um investimento se qualifique como equivalente de caixa, ele precisa ter conversibilidade imediata em um montante conhecido de caixa e estar sujeito a um insignificante risco de mudança de valor. **Portanto, um investimento normalmente se qualifica como equivalente de caixa somente quando tem vencimento de curto prazo, por exemplo, três meses ou menos, a contar da data de aquisição.**
 
