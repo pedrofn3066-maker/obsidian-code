@@ -185,6 +185,22 @@ Veja os erros das outras opções:
 **Transformação –** Normalização e agregação dos dados.
 **Redução -** Tenta reduzir o volume de dados sem provocar grandes alterações no resultado. Compressão de atributos e redução do número de dados.
 <mark style="background:rgba(240, 200, 0, 0.2)">Discretização</mark> – Faz parte do processo de redução, mas tem papel importante, especialmente com dados numéricos. <font color="#ff0000">Visa estabelecer valores discretos para variáveis contínuas.</font>
+## Data Mining: fases do KDD (Knowledge Discovery in Databases)
+- [ ] status [dom:: 0] [peso:: 3]
+
+Processo de descoberta de conhecimento em bancos de dados (Navathe), em seis fases:
+
+1. Seleção de dados — escolha de itens ou categorias específicas.
+2. Limpeza de dados — correção de dados e tratamento de valores nulos.
+3. Enriquecimento — adição de novas informações a partir de fontes externas, integração de dados de origens diferentes ou aplicação de regras de negócio, para melhorar qualidade e relevância dos dados.
+4. Transformação/codificação de dados — agregação, discretização ou redução de dimensionalidade.
+5. Mineração de dados — identificação de padrões e relacionamentos (agrupamento, regressão, classificação, associação etc.).
+6. Relatório e exibição da informação descoberta — resultados apresentados em listas, gráficos, tabelas etc.
+
+As quatro primeiras fases compõem o pré-processamento.
+
+⚠️ Não confundir enriquecimento com fases vizinhas: seleção de amostras pertence à fase de seleção; deduplicação de registros pertence à limpeza; integração de bases diferentes é combinar dados de fontes distintas numa única base; tratamento de valores nulos é técnica de limpeza — nenhuma dessas é enriquecimento.
+
 ## XML
 - [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 (https://www.w3schools.com/xml/schema_facets.asp).

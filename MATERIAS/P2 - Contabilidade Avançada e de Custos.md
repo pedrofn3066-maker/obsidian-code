@@ -2016,6 +2016,8 @@ Na condicionada, o ativo **não monetário** deve ser reconhecido pelo **valor j
 
 ⚠️ **Pegadinha do volume anormal:** o custo fixo por unidade **não** pode subir por baixo volume ou ociosidade — o excedente vira **despesa**, não custo do estoque. Em volume anormalmente **alto**, o custo fixo unitário deve **diminuir**. Exemplo do guia: produção normal 100 un a $1,00/un; produzindo 20 un, mantém-se $1,00/un e os $80 restantes viram despesa; produzindo 200 un, cai para $0,50/un.
 
+Outro formato de cobrança: quando a capacidade ociosa é dada em percentual de um custo fixo (ex.: 50% do aluguel da fábrica correspondendo a capacidade ociosa), essa parcela ociosa vai a resultado como despesa, e só o restante (os outros 50%) é ativado ao custo do estoque.
+
 **Critérios de valoração (inventário permanente):** usar o mesmo critério para estoques de natureza e uso semelhantes.
 - **PEPS** e **preço médio ponderado** — permitidos. O médio pode ser **móvel** (atualiza a cada aquisição) ou **fixo** (atualiza só no fim do período).
 - **UEPS — proibido no Brasil**, porque em economia inflacionária reduz o lucro.
@@ -2243,7 +2245,7 @@ ___
 - - ⚠️ Se o produto estiver **Acabado**, **a Perda** (independente de normal ou anormal) irá para o **Resultado (Despesa).**
 
 ### 3. Classificação dos Custos
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-16
 
 **3.1. Quanto à Apropriação aos Produtos**
 
@@ -2259,10 +2261,13 @@ ___
 
 Para ser classificado como **Custo Direto,** um elemento de custo **não precisa, necessariamente, estar incorporado fisicamente ao produto**, basta que haja uma medição objetiva do seu consumo ou utilização. Ex.: mão de obra direta e energia.
 
+⚠️ A classificação em fixo/variável e direto/indireto é própria de **custos**, não de despesas — mas bancas por vezes aplicam a mesma lógica a uma despesa. Ex.: o aluguel do espaço onde produtos já finalizados de várias linhas são expostos para venda é despesa fixa (não varia com o volume) e indireta (rateada entre os produtos expostos, não atribuída a um produto específico).
+
 **3.2. Quanto ao Nível de Atividade (Volume de Produção)**
 
 - **FIXOS** **⇒** Custos cujos valores **não se alteram quando o volume de produção aumenta ou diminui,** permanecendo estáveis até o limite da capacidade instalada.
     - ⚠️ **Não** quer dizer que **são imutáveis!** Mudanças em seus valores são decorrentes de outros fatores que não a variação no volume de produção. Ex.: Aluguéis, seguros, segurança etc.
+    - Exemplo do limite de capacidade: o aluguel de uma fábrica com capacidade para 1.000 unidades é custo fixo entre 0 e 1.000 unidades — o valor é o mesmo produzindo 0 ou 1.000. Para produzir 1.500 unidades, seria necessário alugar outro imóvel, e o custo deixa de ser fixo.
 
 - **VARIÁVEIS** **⇒** Custos cujos valores **variam de acordo com o nível de produção** da empresa, pois são utilizados diretamente na produção. Quanto maior a produção, maiores serão os custos variáveis totais. Ex.: materiais e a mão de obra utilizados no processo produtivo.
 
@@ -2322,7 +2327,7 @@ Conforme o exemplo do autor Eliseu Martins: “_o que não é controlável pelo 
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1804?indice=1&materia=1952)
         
 ### Equivalente de Produção. Custo por Ordem e por Processo.
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1955?indice=1&materia=1952)
 
 --**CERTO**:  Aqui estamos diante da definição usada por Elisei Martins: _**Critério da Proporcionalidade do Custo Total**_: "A empresa verifica quanto foi incorrido em cada período como parte do custo total previsto para o contrato, apropriando também a mesma porcentagem da receita total."
@@ -2369,7 +2374,7 @@ Fórmulas alternativas:
 - O GAO é mais alto perto do ponto de equilíbrio e diminui à medida que vendas e lucro aumentam.
 
 ### Custo Padrão
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 2] [peso:: 3]
 
 Finalidade: planejamento e controle de custos via orçamento — permite comparar o custo real com o padrão ao longo do período.
 
@@ -2414,7 +2419,7 @@ Fluxo: **Custo → Departamento → Atividade → Produto**
 Sequência mais cobrada em prova: Direcionador de Recurso → Atividade, depois Direcionador de Atividade → Produto. Mnemônico: **RAAP** (R→A, A→P).
 
 ### Custeio Direto/Variável — comparação com Absorção, RKW e ABC
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-16
 
 | Método | O que apropria ao produto | Aceito no Brasil |
 | --- | --- | --- |

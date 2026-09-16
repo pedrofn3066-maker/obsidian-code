@@ -305,6 +305,17 @@ Via ferramentas como **OLAP**, transforma dados em relatórios, dashboards e an�
 
 ⚠️ **Criptografia de dados confidenciais não é ferramenta de BI** — é campo de segurança da informação e governança de dados, sem relação direta com as ferramentas de Business Intelligence.
 
+**Tipos de Análise de Dados** — quatro níveis, em ordem crescente de complexidade e de valor estratégico:
+
+| Tipo | Pergunta-chave | Foco | Exemplo |
+| --- | --- | --- | --- |
+| Descritiva | O que aconteceu? | Dados históricos | Relatório de vendas do ano passado |
+| Diagnóstica | Por que isso aconteceu? | Causas e correlações | Análise do motivo de queda nas vendas |
+| Preditiva | O que pode acontecer? | Previsão de eventos futuros | Estimar o lucro do próximo trimestre |
+| Prescritiva | O que devemos fazer? | Recomendações e ações | Planejar estratégias para aumentar vendas |
+
+O Gartner define Data and Analytics (D&A) como a forma como as organizações gerenciam e analisam dados para melhorar a tomada de decisão, otimizar processos e identificar novos desafios e oportunidades de negócio. Ferramentas como Qlik e Alteryx transformam dados brutos em informação estratégica para essa tomada de decisão.
+
 ## - Definições e Funções de Data Warehouse e Data Mart
 - [ ] status [dom:: 0] [peso:: 3]
 
