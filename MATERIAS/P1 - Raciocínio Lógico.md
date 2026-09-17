@@ -58,6 +58,11 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 ### - Lógica de Proposição e Lógica de Argumentação.
 - [ ] status [dom:: 0] [peso:: 2]
 
+**1.4 Sentenças Abertas e Fechadas**
+
+- **Sentença fechada** — já pode ser classificada como verdadeira ou falsa (ex.: 3 + 8 = 11 → falsa).
+- **Sentença aberta** — contém incógnita; não pode ser julgada V/F até que o valor seja atribuído (ex.: x + 4 = 12).
+
 **1.5** **Tabela Verdade**
 
 |   |   |   |   |   |   |   |   |
@@ -67,6 +72,8 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 |V|F|F|F|V|F|F|V|
 |F|V|V|F|V|V|F|V|
 |F|F|V|F|F|V|V|F|
+
+<mark>Número de linhas da tabela verdade = 2ⁿ</mark>, onde n é a quantidade de proposições simples **diferentes** (não importa se se repetem na fórmula).
 
 **Negação da Condicional**:
 
@@ -87,11 +94,23 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 - Todo A é B : _A → B_
 - Nenhum A é B: _A → ~ B_
 
+**Negação de Quantificadores**
+- **Todo** se nega por **Algum / Existe um / Pelo menos um** (nunca por "nenhum") — nega-se o quantificador **e** o predicado.
+
+Ex.: "Todo funcionário daquela loja é atencioso" → "Existe pelo menos um funcionário daquela loja que não é atencioso."
+
+Ex. (quantificador + disjunção exclusiva): "Todas as empresas têm filiais no Brasil ou no exterior" (universal afirmativa, disjunção exclusiva) → negação: "Existe empresa que tem filial no exterior se, e somente se, tem filial no Brasil" (particular negativa; a negação da disjunção exclusiva vira bicondicional).
+
 **1.6 Equivalências Lógicas  Fundamentais**
 - _p → q_ _≡_ _~q →_ _~__p_ (Contrapositiva)
 - _p → q_ _≡_ _~__p ∨ q_ (Transformação da condicional em disjunção inclusiva)
 - _p ∨ q_ _≡_ _~__p → q_ (Transformação da disjunção inclusiva em condicional)
 - _p ↔ q_ _≡_ _(p → q) ∧ (q → p)_ (Transformação da bicondicional em condicional/conjunção)
+
+**Aplicação:** "Se todas as bancas estão no lugar correto, então não há motivo para reclamação" (todo B → ¬M) ≡ M → algum B ≡ algum ¬B ∨ ¬M → "Pelo menos uma banca não está no lugar correto ou não há motivo para reclamação."
+
+> [!warning]- Pendência de autoria
+> A captura original tem "M → ALGUM B" no passo intermediário (sem negar B), o que não bate com o resultado final "ALGUM ¬B v ¬M". Conferir a derivação.
 
 **1.7** **Negação de proposições**
 - _~(~p)_ _≡_ _p_ (Dupla negação da proposição simples)
