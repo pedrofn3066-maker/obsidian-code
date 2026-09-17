@@ -62,7 +62,7 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
 # - ICMS
     
 ## - Constituição Federal  
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3] [peso:: 3]
 
 ![[Captura de Tela 2026-08-18 às 12.01.29.png|522]]
 
@@ -95,7 +95,7 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
 > i) fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço.
 
 ## - Lei Complementar nº 87/96  
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-15
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-15
 parei no artigo 7, antes de substituicao tributaria
 
 
@@ -345,7 +345,7 @@ Arts. 11-12 são normas de **remissão ao regulamento** — a lei não detalha p
 # - IPVA (Constituição Federal)
 
 #  IPVA Bahia — Lei nº 6.348/1991
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-17
 
 <mark style="background:#fff88f">Regra geral: FG do IPVA ocorre em 1º de janeiro de cada exercício.</mark> Exceções pelo momento: veículo novo → alienação ao consumidor final (ou incorporação ao ativo por empresa fabricante, revendedora ou importadora); veículo registrado em outro estado → uso ou locação não eventual no território da Bahia; veículo de procedência estrangeira importado diretamente por consumidor final → desembaraço aduaneiro.
 
@@ -353,13 +353,73 @@ LEI Nº 6.348/1991, ARTS. 1º — DO FATO GERADOR
 
 Art. 1º O IPVA, devido anualmente, tem como fato gerador a propriedade de veículos automotores terrestres, aquáticos e aéreos.
 § 1º Considera-se ocorrido o fato gerador do imposto em 1º de janeiro de cada exercício.
-§ 2º Em se tratando de veículo novo, considera-se ocorrido o fato gerador na data da sua alienação para consumidor final ou quando da incorporação ao ativo por empresa fabricante, revendedora ou importadora de veículo.
+§ 2º Em se tratando de veículo novo, considera-se ocorrido <mark style="background:rgba(255, 183, 139, 0.55)">o fato gerador na data da sua alienação para consumidor final </mark>ou <mark style="background:rgba(5, 117, 197, 0.2)">quando da incorporação ao ativo</mark> por empresa fabricante, revendedora ou importadora de veículo.
 § 3º Em se tratando de veículo registrado em outra unidade da Federação, considera-se ocorrido o fato gerador a partir do uso ou da locação não eventual no território deste Estado.
 § 4º Em se tratando de veículo de procedência estrangeira, novo ou usado, importado diretamente por consumidor final, considera-se ocorrido o fato gerador na data do desembaraço aduaneiro.
 § 5º Para os efeitos desta Lei, entende-se por veículo novo aquele que ainda não foi objeto de uso em suas finalidades precípuas.
 
+## Imunidades (art. 3º)
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-17
+
+Art. 3º são imunes ao imposto embarcações e plataformas que se locomovem na água por meios próprios, inclusive as destinadas à exploração econômica em águas territoriais e na zona econômica exclusiva. ⚠️A imunidade alcança tanto a plataforma quanto embarcações com essa mesma finalidade — extensão menos óbvia do dispositivo.
+
+Reprodução das imunidades do art. 150, VI, CF/88, com a mesma limitação finalística.
+
+⚠️Tratores e máquinas agrícolas estão na **imunidade** (art. 3º); já máquinas agrícolas e **de terraplanagem** estão na **isenção** (art. 4º), condicionada a não circularem em vias públicas. Os tratores também aparecem na **alíquota de 1%** (art. 6º) — o legislador trata a mesma categoria em três lugares diferentes.
+
+## Isenções e Reconhecimento de Imunidades/Isenções (arts. 4º-5º)
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-17
+
+<mark>Imunidades têm eficácia imediata; o reconhecimento das isenções depende do regulamento</mark> (art. 5º, caput).
+- Perda da condição que fundamentava isenção, não incidência ou imunidade → imposto devido por duodécimo ou fração que falte para o término do exercício (art. 5º § 1º).
+- Fiscalização constata que o requerente não preenchia (ou deixou de preencher) as condições, sem dolo, fraude ou simulação → interessado é intimado a recolher o imposto em 30 dias (art. 5º § 2º).
+
+⚠️Carro elétrico: até R$ 300.000,00 é **isenção** (art. 4º); acima disso, tributado a 2,5% — mesma alíquota dos automóveis movidos a combustíveis que não o diesel (art. 6º). Os dois dispositivos precisam ser lidos juntos, senão cada um sugere uma resposta diferente.
+
+## Alíquotas (art. 6º)
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-17
+
+- **3,0%** — automóveis e utilitários movidos a óleo diesel
+- **2,5%** — automóveis e utilitários movidos a outros combustíveis; e veículos 100% elétricos **acima de R$ 300.000,00**
+- **1,0%** — ônibus, microônibus, caminhões, tratores, motos, motonetas, motocicletas e triciclos (nacionais e estrangeiros)
+- **1,5%** — embarcações e aeronaves
+
+⚠️Exceção: caminhão com capacidade de carga **inferior a 2.000 kg** segue a alíquota de automóveis e utilitários, conforme o combustível (art. 6º § 1º) — não entra no 1% dos caminhões.
+
+**Locadoras de veículos** — alíquota de 1% para automóveis/utilitários novos, se (art. 6º § 2º):
+- o faturamento ocorrer diretamente para estabelecimento na Bahia (Convênio ICMS 51/2000); e
+- a locadora tiver frota própria mínima de **20 veículos**, credenciada na forma do regulamento.
+
+A mesma alíquota reduzida vale para veículos na posse da locadora por arrendamento mercantil ou propriedade fiduciária (art. 6º § 3º).
+
+A EC 132/2023 permitiu alíquota diferenciada por impacto ambiental e proibiu o IPVA sobre certas embarcações e aeronaves.
+
+## Base de Cálculo (art. 7º)
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-17
+
+- **Veículo novo** — valor venal da Nota Fiscal (ou documento de transmissão da propriedade), acrescido de opcionais, acessórios, frete e seguro.
+- **Veículo usado** — valor venal de tabela anual da Secretaria da Fazenda (preços médios de mercado), publicada até dezembro para vigorar no exercício seguinte; a SEFAZ pode adotar tabela do CONFAZ para uniformização.
+- **Importado por consumidor final** (primeiro lançamento) — valor do documento de desembaraço aduaneiro, acrescido de tributos e demais gravames devidos (art. 7º § 1º). ⚠️Mesma lógica do fato gerador do importado (art. 1º § 4º) — os dois dispositivos ancoram no desembaraço aduaneiro.
+- **Perda total do veículo** — BC proporcional ao número de meses em que o veículo permaneceu na propriedade, domínio ou posse; em novo licenciamento posterior, volta à regra do usado (art. 7º § 5º-6º).
+- Para veículo novo, o imposto é devido proporcionalmente aos meses restantes do exercício, a partir do mês de aquisição (art. 7º § 4º).
+
+A EC 132/2023 manteve o IPVA fora da anterioridade nonagesimal quanto à fixação da base de cálculo.
+
+## Lançamento e Prazos (arts. 10º-11º)
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-17
+
+- Ciência do lançamento é **coletiva e eletrônica** — publicação do prazo mais consulta individualizada por RENAVAM. O contribuinte pode impugnar até a data de vencimento do imposto (art. 10).
+- Veículo novo: lançado e o sujeito passivo cientificado no dia do registro no órgão competente (art. 10).
+- Dispensa de cobrança quando o valor do imposto for **igual ou inferior a R$ 50,00** por exercício — valor irrisório, cuja cobrança custaria mais do que renderia (art. 11).
+- Desconto de até 20% para recolhimento em cota única, quando o Executivo estabelecer pagamento parcelado; prazo de 30 dias da nota fiscal para veículo novo (art. 11).
+
+## Vinculação ao Veículo e Responsabilidade (art. 13)
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-17
+
+<mark>O IPVA é vinculado ao veículo, não à pessoa</mark>: pago o imposto do exercício, a transferência não gera nova exigência, e o comprovante acompanha o bem para efeito de registro, matrícula ou averbação. O adquirente responde solidariamente pelos débitos de exercícios anteriores — a dívida segue o veículo.
+
 ### JURISPRUDÊNCIA 
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 2.5] [peso:: 3]
 
 **A imunidade tributária subjetiva aplica-se a seus beneficiários na posição de contribuinte de direito**, **mas não na de simples contribuinte de fato**, sendo irrelevante, para a verificação da existência do beneplácito constitucional, a repercussão econômica do tributo envolvido. (STF. Plenário. RE 608872/MG, Rel. Min. Dias Toffoli, julgado em 22 e 23/2/2017 (repercussão geral) (Info 855))
 
