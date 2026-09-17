@@ -804,6 +804,12 @@ O desconto antecipa o recebimento, mas o risco de crédito permanece com a empre
 
 ⚠️ Distratores clássicos da mesma questão: Juros Ativos são receita (ganho financeiro); Ações de Controladas e Coligadas vão para o Ativo Não Circulante — Investimentos; Seguros a Vencer (prêmio pago antecipadamente) é despesa antecipada no **Ativo Circulante**.
 
+**Exemplo de lançamento** — duplicata de 50.000 descontada, banco credita 48.000 (encargos de 2.000 retidos na fonte):
+
+`D Caixa 48.000 / D Encargos Financeiros (retifica o passivo) 2.000 / C Duplicatas Descontadas (passivo) 50.000`
+
+O ativo (duplicata a receber) permanece intacto; o passivo nasce pelo valor de face (50.000), e os encargos entram como conta retificadora do próprio passivo, não do ativo.
+
 ## - Debêntures
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -877,9 +883,32 @@ C - Receita IR Diferido  3.40
 CPC 32, item 56: 
 “Os ativos e passivos fiscais diferidos devem ser classificados como não circulantes nas demonstrações contábeis.”
 
+**Adições ao Lucro Real (LALUR)** — despesa considerada na DRE mas indedutível para fins fiscais é adição; receita não considerada na DRE mas tributável no período também é adição. Compõem adições ao lucro antes do IR (contábil):
+- despesas com multas;
+- despesas com alimentação de sócios, acionistas e administradores;
+- despesas com brindes;
+- despesas com perdas estimadas em créditos de liquidação duvidosa;
+- despesas com ajustes a valor de mercado;
+- despesa com provisões;
+- despesas de equivalência patrimonial;
+- despesas de excesso de depreciação.
+
+⚠️ Nem toda provisão é indedutível: provisão para férias, para 13º salário e despesas com participações de debenturistas e empregados são dedutíveis também para a legislação fiscal.
+
+**Lucros de filial/sucursal no exterior** — pelo Decreto nº 9.580/2018 (RIR), art. 446, § 3º, os lucros apurados por filial ou sucursal no exterior são considerados **disponibilizados para a empresa no País na data do balanço em que foram apurados** (regime de bases universais).
+
+**Presunção de omissão de receita** — art. 293 do RIR (Decreto nº 9.580/2018) caracteriza omissão no registro de receita, ressalvada a prova de improcedência pelo contribuinte, quando há: saldo credor de caixa; falta de escrituração de pagamentos efetuados; ou manutenção no passivo de obrigações já pagas ou cuja exigibilidade não seja comprovada. A lógica: se um passivo já foi liquidado (ou não pode ser comprovado), presume-se que houve entrada de recursos correspondente — e se essa entrada não está registrada, a receita pode não ter sido declarada.
+
 ## - Folha de Pagamento (CPC 33).
 - [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/671)
+
+**Exemplo de provisionamento** — salário bruto 3.000, adiantamento 1.500, contribuição sindical 100, INSS 250, IRRF 70 (líquido a pagar: 1.080):
+
+`D Despesa de Salários 3.000 / C Adiantamento de Salários 1.500 / C Contribuição Sindical a Recolher 100 / C INSS a Recolher 250 / C IRRF a Recolher 70 / C Salários a Pagar 1.080`
+
+⚠️ O adiantamento **não** gera passivo — é conta do ativo sendo baixada. O incremento efetivo no passivo é só a soma das obrigações a recolher/pagar (100 + 250 + 70 + 1.080 = 1.500), não o salário bruto.
+
 ## - Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -1555,7 +1584,7 @@ As **DC's da Controladora e de suas Controladas** utilizadas na elaboração das
 | LN~R=(Lucro da Operaca~o Intragrupo) x (% de Mercadorias em Estoque)LN~R=(Lucro da Operaca~o Intragrupo) x (% de Mercadorias em Estoque) |                                                                                          |
 
 ## - Investimentos MEP (CPC 18);
-- [ ] status [dom:: 4] [peso:: 3]
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-17
 - Resumo Tec
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/674). 
 
@@ -1571,7 +1600,7 @@ Valor justo da participação remanescente (25%): R$ 1.500.000
 R$ 6.500.000 - R$ 4.600.000 = **R$ 1.900.000**
 
 ### 4.2. Controle Direto e Indireto
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3] [peso:: 3]
 O controle pode ser exercido direta ou indiretamente:
 - **Controle direto:** a própria investidora possui os direitos que lhe asseguram poder sobre a investida;
 - **Controle indireto:** o poder é exercido por intermédio de uma ou mais sociedades controladas.
@@ -1582,7 +1611,7 @@ Considere que a empresa A controle a empresa B e que a empresa B controle a empr
 ![[Pasted image 20260820102949.png|582]]
 
 ### 5. Aplicação do MEP
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3] [peso:: 3]
 
 **5.1. Mudanças na Participação Societária**
 
@@ -1614,7 +1643,7 @@ Fatos subsequentes, aplicando os 80%:
 Saldo do investimento no balanço individual: 240.000 + 72.000 − 18.000 = **294.000**.
 
 ### 6. Resultado da Equivalência Patrimonial (REP)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3.5] [peso:: 3]
 
 **No Cálculo da Equivalência Patrimonial:**
 - **Coligada** → **Eliminação do LÑR é Proporcional** à participação
@@ -1628,7 +1657,16 @@ Saldo do investimento no balanço individual: 240.000 + 72.000 − 18.000 = **29
 ![[Captura de Tela 2026-08-20 às 10.37.50.png|1182]]
 
 ## - Goodwill
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 4] [peso:: 3]
+
+<mark style="background:#fff88f">Goodwill × fundo de comércio × capital humano — a banca mistura as três definições numa questão de alternativas:</mark>
+- Localização estratégica do estabelecimento + carteira de clientes → **fundo de comércio** (valor do estabelecimento, capacidade de atrair freguesia), não goodwill.
+- Conjunto de capacidades técnicas e intelectuais dos empregados → **capital humano** (subconjunto do capital intelectual).
+- Soma dos bens incorpóreos ligados ao funcionamento da empresa (segurança, freguesia) → também **fundo de comércio**.
+- Elementos incorpóreos + boa reputação + capacidade de gerar lucros futuros + expectativa de rentabilidade **acima** do que os ativos identificáveis explicam sozinhos → **goodwill**.
+
+⚠️ O traço distintivo do goodwill não é "ter reputação" — é a expectativa de rentabilidade **superior** à explicada pelos ativos identificáveis.
+
 ## - Dividendos e Juros sobre Capital Próprio; e
 - [ ] status [dom:: 0] [peso:: 3]
 

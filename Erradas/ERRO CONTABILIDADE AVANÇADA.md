@@ -69,3 +69,17 @@ Para a empresa não foi gratuito, pois o serviço de consultoria está atrelada 
 Então a receita foi gerada em março, junto com os serviços contábeis. Entretanto, este CPC exige que esta receita seja reconhecida somente quando da efetivação da prestação dos serviços (consultoria).
 # OUTRAS BANCAS 
 - #banca/outras
+
+- **Provisão de treinamento (CPC 25): mensuração pelo custo, não pelo preço de mercado, e classificação temporal.** Entidade vendeu 50 cursos; 50% farão o treinamento em 2026 (circulante), 30% em 2027 (não circulante), 20% não farão (sem provisão, sem saída de recursos esperada).
+Passivo não circulante = 15 clientes × custo de R$ 1.000 = **R$ 15.000**.
+**Onde caí:** usei o valor de venda/mercado (R$ 3.000) para provisionar, em vez do custo de produção do serviço (R$ 1.000) — falta de atenção.
+**A Regra:** provisão (CPC 25) é sempre pela melhor estimativa do **desembolso** necessário para liquidar a obrigação — o custo da entidade, nunca o valor de mercado ou de venda do que será entregue.
+
+- **Mudança de estimativa de provisão (provável ↔ possível ↔ remoto) entre exercícios — efeito na DRE e no Balanço.** Quatro processos reavaliados de um ano para o outro:
+reclassificado de provável para possível → reverte toda a provisão (vira receita no ano da reversão, some do balanço);
+continua provável, valor maior → complementa só a diferença (despesa adicional, balanço com o novo saldo);
+não existia, virou provável → constitui a provisão pelo valor total (despesa cheia, entra no balanço);
+continua possível → sem provisão, sem efeito.
+Um quinto processo, considerado remoto no ano anterior, foi condenado em última instância e pago no próprio período: vai inteiro para despesa da DRE (não havia provisão para reverter) e não sobra nada no balanço (já foi pago).
+**Onde caí:** não tinha entendido que a primeira parcela dos valores já vinha classificada como provável e, portanto, já estava provisionada — tratei como se fosse tudo novo.
+**A Regra:** o efeito na DRE nunca é o valor total do processo — é sempre a **variação** em relação ao saldo já provisionado (reversão, complemento ou constituição). Um processo que pula direto de remoto para pago não passa por conta de provisão: vira despesa cheia de uma vez.
