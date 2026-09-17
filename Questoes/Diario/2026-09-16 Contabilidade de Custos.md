@@ -4,9 +4,9 @@ data: 2026-09-16
 materia: Contabilidade de Custos
 bloco: Cont. Avançada e de Custos
 assuntos:
-  - "Definições - Diferença entre Gastos, Despesas, Custos e Perdas"
+  - Definições - Diferença entre Gastos, Despesas, Custos e Perdas
   - "Classificação de Custos: Variável, Fixo, Direto, Indireto, Primário, etc"
-slot:
+slot: S3
 total: 20
 acertos: 14
 tempo_min:

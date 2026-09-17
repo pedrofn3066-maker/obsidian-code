@@ -5,10 +5,10 @@ materia: Matematica Financeira
 bloco: Mat. Fin./Estat./RLM
 assuntos:
   - Sistema de Amortização Constante (SAC)
-slot:
+slot: S2
 total: 6
 acertos: 6
-tempo_min:
+tempo_min: 31
 erro_tipo:
 banca:
 origem: TEC (importado)

@@ -5,15 +5,15 @@ materia: Contabilidade Pública
 bloco: Cont. Geral e Pública
 assuntos:
   - Conceito e Natureza Jurídica do Orçamento Público
-  - "Técnicas/Espécies Orçamentárias (Orçamento Programa, Tradicional, Participativo, Base Zero, etc)"
+  - Técnicas/Espécies Orçamentárias (Orçamento Programa, Tradicional, Participativo, Base Zero, etc)
   - Princípios Orçamentários
-  - "PPA - Plano Plurianual (CF/1988 e Lei nº 4.320/1964)"
-  - "LDO - Lei de Diretrizes Orçamentárias (CF/1988 e Lei nº 4.320/1964)"
-  - "LOA - Lei Orçamentária Anual (CF/1988 e Lei nº 4.320/1964)"
-  - "Tópicos Mesclados de PPA, LDO e LOA"
+  - PPA - Plano Plurianual (CF/1988 e Lei nº 4.320/1964)
+  - LDO - Lei de Diretrizes Orçamentárias (CF/1988 e Lei nº 4.320/1964)
+  - LOA - Lei Orçamentária Anual (CF/1988 e Lei nº 4.320/1964)
+  - Tópicos Mesclados de PPA, LDO e LOA
   - Ciclo Orçamentário
   - Créditos Adicionais
-slot:
+slot: S3
 total: 20
 acertos: 15
 tempo_min:
