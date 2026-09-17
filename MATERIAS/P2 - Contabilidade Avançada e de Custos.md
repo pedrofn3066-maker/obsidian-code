@@ -550,6 +550,9 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos os cr
 - [ ] status [dom:: 0] [peso:: 3]
 ### - Ativo Realizável a Longo Prazo - ARLP;
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Crédito tributário diferido (IR/CSLL sobre prejuízo fiscal)** — ativo fiscal diferido originado de prejuízo fiscal (IRPJ) e base negativa (CSLL) compensáveis com lucros tributáveis futuros. Classificação pela expectativa de realização: até 12 meses → Ativo Circulante; acima de 12 meses → ARLP. Como a compensação normalmente depende de lucros futuros, a classificação típica é ARLP.
+
 ### - Redução ao Valor Recuperável (CPC 01);
 - [ ] status [dom:: 0] [peso:: 3]
 **1. Definições** :: ?
@@ -573,8 +576,8 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos os cr
 - [ ] status [dom:: 0] [peso:: 3]
 
 - **Fontes Externas de Informação:**
-    - Indicações observáveis de que o **valor do ativo diminuiu significativamente** durante o período, mais do que seria de se esperar como resultado da passagem do tempo ou do uso normal.
-    - **Mudanças significativas (efeito adverso)** ocorreram/ocorrerão no ambiente tecnológico, de mercado, econômico ou legal.
+    - Indicações observáveis de que o **valor do ativo diminuiu significativamente** durante o período, mais do que seria de se esperar como resultado da passagem do tempo ou do uso normal (ex.: cotação de um veículo caindo muito além da desvalorização comum).
+    - **Mudanças significativas (efeito adverso)** ocorreram/ocorrerão no ambiente tecnológico, de mercado, econômico ou legal (ex.: máquinas de datilografar perderam valor com a difusão dos computadores).
     - **Taxas Aumentaram** durante o período, e esses aumentos **afetarão a taxa de desconto** utilizada no cálculo **do valor em uso** de um ativo **e diminuirão materialmente o valor recuperável** do ativo.
     - O **Valor Contábil do PL** da entidade é **Maior** do que o **Valor de Suas Ações** no mercado.
 
@@ -592,6 +595,23 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos os cr
 - da Vida Útil Remanescente
 - do Método de Depreciação, Amortização e Exaustão
 - do Valor Residual
+
+#### 2.2. Teste Anual Obrigatório (independente de indicação)
+- [ ] status [dom:: 0] [peso:: 3]
+
+<mark style="background:#fff88f">Três casos exigem o teste ao menos anualmente, mesmo sem qualquer indicação de desvalorização:</mark>
+- ativo intangível com vida útil **indefinida**;
+- ativo intangível **ainda não disponível para uso**;
+- **goodwill** (ágio por expectativa de rentabilidade futura) adquirido em combinação de negócios.
+
+#### 2.3. Roteiro de Cálculo e Reconhecimento da Perda
+- [ ] status [dom:: 0] [peso:: 3]
+
+Sequência que evita comparar grandezas incompatíveis:
+1. **Valor contábil** → custo menos depreciação/amortização/exaustão acumulada e perdas por desvalorização já registradas.
+2. **Valor recuperável** → maior entre valor em uso e valor justo líquido de despesas de venda.
+3. **Comparação** → contábil > recuperável: reconhece perda pela diferença; contábil = recuperável: sem ajuste; contábil < recuperável: sem nova perda; havendo perda anterior e requisitos de reversão atendidos, avalia a reversão dentro do teto normativo.
+4. **Atualização prospectiva** → após perda ou reversão, recalcula a depreciação/amortização/exaustão futura pelo valor contábil revisado, líquido do residual, ao longo da vida útil remanescente.
 
 ### - Instrumentos Financeiros (CPC 48);
 - [ ] status [dom:: 0] [peso:: 3]
@@ -713,6 +733,8 @@ Depreciação do imobilizado: [[#- Depreciação, Amortização e Exaustão;\|se
 _(...)_
 _**VI – no intangível:**_ _os direitos que tenham por objeto **bens incorpóreos** destinados à manutenção da companhia ou exercidos com essa finalidade,_ _**inclusive o fundo de comércio adquirido**__._
 
+**Amortização (item 97, CPC 04 R1)** — intangível com vida útil **definida** é amortizado de forma sistemática ao longo da vida útil estimada. A amortização começa quando o ativo está **disponível para uso**, isto é, no local e nas condições necessárias para funcionar do modo pretendido pela administração.
+
 ### - Depreciação, Amortização e Exaustão;
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -749,7 +771,7 @@ Prazos fiscais, aplicáveis **só quando a questão omitir a vida útil contábi
 ## - Fornecedores;
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Empréstimos; 
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 4] [peso:: 3]
 
 **1) Valor de Captação Líquido (VCL)**
 = Vlr. Empréstimo - Custo de Transação  
@@ -1533,9 +1555,11 @@ As **DC's da Controladora e de suas Controladas** utilizadas na elaboração das
 | LN~R=(Lucro da Operaca~o Intragrupo) x (% de Mercadorias em Estoque)LN~R=(Lucro da Operaca~o Intragrupo) x (% de Mercadorias em Estoque) |                                                                                          |
 
 ## - Investimentos MEP (CPC 18);
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 4] [peso:: 3]
 - Resumo Tec
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/674). 
+
+**Classificação (Art. 179, III, Lei 6.404/76)** — participações permanentes em outras sociedades, não classificáveis no ativo circulante e não destinadas à manutenção da atividade da companhia, entram no Ativo Não Circulante – Investimentos, avaliadas por MEP.
 
 **CPC 18 (R2)** - <mark style="background:#fff88f">Perda de influência significativa e a alienação de investimentos.</mark>
 **Valor do ganho:** **Valor recebido pela venda** +  **valor justo do que sobrou** +/- **Ajustes Acumulados de Conversão.**
@@ -1576,6 +1600,18 @@ Se a **participação societária** de entidade em coligada ou em ECC **for redu
 
 - O Lucro só será considerado **Realizado** quando os ativos forem **revendidos para terceiros.**
 - Em suma, o **LÑR** é o valor dos ativos que **ainda** **não foi revendido para terceiros.**
+
+**5.3. Exemplo — aquisição de controle sem mais-valia nem goodwill**
+
+Investidura adquire 80% da Investida (controlada, MEP). PL da investida = 300.000 → 80% = 240.000, valor exatamente pago: sem reconhecimento de valor justo dos ativos/passivos identificáveis (não há mais-valia) e sem diferença entre preço pago e PL adquirido (não há goodwill nem ganho por compra vantajosa).
+
+`D Investimento – Participação Societária 240.000 / C Caixa 240.000`
+
+Fatos subsequentes, aplicando os 80%:
+- Lucro líquido de 90.000 → `D Investimento 72.000 / C Resultado de Equivalência Patrimonial 72.000`
+- Dividendos de 22.500 → `D Dividendos a Receber 18.000 / C Investimento 18.000`
+
+Saldo do investimento no balanço individual: 240.000 + 72.000 − 18.000 = **294.000**.
 
 ### 6. Resultado da Equivalência Patrimonial (REP)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -1653,7 +1689,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 * O CPC 26 (R1) afirma que a DVA deve ser divulgada se exigida legalmente => Ela é exigida pela Lei 11.638/07.
 
 ## - Balanço Patrimonial;
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3.5] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/996)
 
 <mark style="background:#affad1">No caso:</mark>
@@ -1667,7 +1703,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/996)
 
 
 ## - Demonstração do Resultado do Exercício;
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 4] [peso:: 3]
 
 Obrigatória para **todas** as empresas. Demonstrativo **dinâmico** (cobre um período, não uma data).
 
@@ -2327,7 +2363,7 @@ Conforme o exemplo do autor Eliseu Martins: “_o que não é controlável pelo 
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1804?indice=1&materia=1952)
         
 ### Equivalente de Produção. Custo por Ordem e por Processo.
-- [ ] status [dom:: 3] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-16
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1955?indice=1&materia=1952)
 
 --**CERTO**:  Aqui estamos diante da definição usada por Elisei Martins: _**Critério da Proporcionalidade do Custo Total**_: "A empresa verifica quanto foi incorrido em cada período como parte do custo total previsto para o contrato, apropriando também a mesma porcentagem da receita total."
@@ -2343,7 +2379,34 @@ Por exemplo, a matéria-prima pode significar grande parte dos custos totais, ma
 Dessa forma, sabendo que: _**Custo de conversão ou de transformação = MOD + CIF** (Custos indiretos de fabricação)._ Podemos fazer as seguintes observações:
 
 
+**Produção por Ordem**:
+- Empresa programa sua atividade produtiva a partir de encomendas específicas de cada cliente. Ex: Indústria naval.
+- Custos são acumulados numa conta específica para cada ordem de produção, deixando de receber custos quando a ordem estiver finalizada. => Custos são acumulados até a finalização da ordem, sendo transferidos posteriormente para estoque de produtos acabados.
 
+**Produção Contínua:**
+
+- Produção em série de um produto ou linha de produtos;
+- Empresa produz para estoques e não para atender encomendas específicas de clientes. Ex: Industria Têxtil, Farmacêutica, Aço;
+- Custos são acumulados em contas representativas dos produtos ou linha de produtos, nunca havendo o encerramento dessas contas. => Ao final de cada mês os custos de produção são transferidos para estoques acabados
+
+ **Produção Equivalente ou Equivalente de Produção**:
+
+- Utilizado quando a produção é contínua;
+- 10 Produtos em elaboração (50% produzidos) = 5 produtos acabados;
+
+**Produção equivalente com estoque inicial**
+
+– No **Custo Médio**, temos o seguinte:
+![[Pasted image 20260916204309.png]]
+
+Os R$ 19.600,00 são distribuídos entre tudo o que está em amarelo e em azul.
+
+– No **PEPS** temos o seguinte:
+
+![[Pasted image 20260916204327.png]]
+
+Os R$ 18.000,00 são distribuídos só entre o que está em amarelo. Os R$ 1.600,00 são distribuídos só entre o que está em azul.
+ 
 ### Departamentalização
 - [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/38/assuntos/1805?indice=1&materia=1952)
@@ -2351,7 +2414,7 @@ Dessa forma, sabendo que: _**Custo de conversão ou de transformação = MOD + C
 ## - Bloco C: Custos para Decisão. Custo Padrão
 
 ### Ponto de Equilíbrio
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-16
 
 ⚠️ Quando o ponto de equilíbrio contábil resulta em valor fracionário (ex.: 7,5 dias) mas a unidade de medida do enunciado só admite valores inteiros (ex.: aluguel cobrado por diária integral), **arredonda-se para cima** — não é possível "empatar o jogo" com fração de diária, então o ponto de equilíbrio real passa a ser 8,0 dias.
 
@@ -2374,7 +2437,7 @@ Fórmulas alternativas:
 - O GAO é mais alto perto do ponto de equilíbrio e diminui à medida que vendas e lucro aumentam.
 
 ### Custo Padrão
-- [ ] status [dom:: 2] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-16
 
 Finalidade: planejamento e controle de custos via orçamento — permite comparar o custo real com o padrão ao longo do período.
 
@@ -2388,7 +2451,7 @@ Exemplo — variação total de custos indiretos de produção no mês:
 - Custo indireto real: R$ 516.600,00 · Volume real: 180.000
 - **Variação Total dos CIF** = Custo Real − Custo Aplicado, sendo Custo Aplicado = taxa padrão × volume real
 
-<mark style="background:#fff88f">2,50 × 180.000 = R$ 450.000 aplicado → 516.600 − 450.000 = **R$ 66.600 desfavorável**</mark>
+<mark style="background:#fff88f">2,50 × 180.000 = R$ 450.000 aplicado → 516.600 − 450.000 = R$ 66.600 desfavorável</mark>
 
 A decomposição fecha no mesmo número por outro caminho:
 
@@ -2407,7 +2470,7 @@ A decomposição fecha no mesmo número por outro caminho:
 ⚠️ Variação desfavorável no custo de matéria-prima **não** significa necessariamente desperdício — significa que o custo **real** foi maior que o **projetado**. Variação favorável não significa necessariamente economia de recursos. Nenhuma das duas pode ser tomada como verdade absoluta sem mais dados do enunciado.
 
 ### Custeio Baseado em Atividades (ABC)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-16
 
 O método ABC reduz as distorções do rateio de custos indiretos de fabricação — por isso é indicado para esse tipo de custo. A apropriação é feita por **rastreamento**, não por rateio simples.
 
