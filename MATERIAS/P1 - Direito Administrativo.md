@@ -66,6 +66,7 @@ Duas matérias grandes disputando quinze questões — o retorno marginal cai r�
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Fontes do direito administrativo: doutrina e jurisprudência na formação do direito administrativo. Lei formal. Regulamentos administrativos, estatutos e regimentos; instruções; princípios gerais; tratados internacionais; costume.
 - [ ] status [dom:: 0] [peso:: 2]
+
 ## - Ausência de Competência: agente de fato.
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Poderes da Administração.
@@ -190,7 +191,25 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
     
 ⚠️ _Os órgãos do Poder Judiciário e do Ministério Público informarão ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, respectivamente, as decisões que, em grau de recurso, negarem acesso a informações de interesse público._
 ## - Tratamento de dados pessoais pelo Poder Público: Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 3] [peso:: 2]
+
+**Alcance (art. 1º):** aplica-se ao tratamento de dados por pessoa natural ou jurídica, de direito público ou privado, inclusive nos meios digitais. Parágrafo único (EC 115/2022 + Lei nº 13.853): as normas gerais são de interesse nacional e devem ser observadas pela União, Estados, DF e Municípios.
+
+<mark style="background:#fff88f">Hipóteses de NÃO aplicação (art. 4º)</mark>:
+- pessoa natural, para fins exclusivamente particulares e não econômicos;
+- fins exclusivamente jornalísticos e artísticos, ou acadêmicos (aplicam-se, neste último caso, os arts. 7º e 11);
+- fins exclusivos de segurança pública, defesa nacional, segurança do Estado, ou investigação e repressão de infrações penais — regidos por legislação específica (§1º); vedado o tratamento por pessoa de direito privado (§2º e §4º), salvo sob tutela de pessoa jurídica de direito público ou entidade com capital integralmente público;
+- dados provenientes de fora do território nacional, sem comunicação ou uso compartilhado com agentes de tratamento brasileiros, desde que o país de proveniência assegure grau de proteção adequado.
+
+⚠️ **FUNDAMENTOS** da disciplina (art. 2º) são sete incisos — não confundir com os **PRINCÍPIOS** do art. 6º (dez incisos) nem com os requisitos do art. 7º. A troca entre essas três listas é a pegadinha mais frequente da lei.
+
+**Aplicação extraterritorial (art. 3º)** — hipóteses alternativas (basta uma): a operação de tratamento ocorre no território nacional; ou a atividade tem por objetivo ofertar bens ou serviços a indivíduos no Brasil; ou os dados foram coletados no território nacional.
+
+**Glossário (art. 5º):** <mark style="background:rgba(240, 200, 0, 0.2)">dado pessoal</mark> — informação relacionada a pessoa natural identificada ou identificável; <mark style="background:rgba(240, 200, 0, 0.2)">dado pessoal sensível</mark> — origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico vinculado a pessoa natural; anonimização; <mark style="background:rgba(240, 200, 0, 0.2)">controlador</mark> (decide sobre o tratamento) × <mark style="background:rgba(240, 200, 0, 0.2)">operador</mark> (trata em nome do controlador) × <mark style="background:rgba(240, 200, 0, 0.2)">encarregado</mark> (canal de comunicação); consentimento deve ser livre, informado e inequívoco.
+
+**Dez princípios (art. 6º), além da boa-fé:** finalidade, adequação, necessidade (limitação ao mínimo necessário), livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas (accountability). ⚠️ Os três últimos são os mais esquecidos.
+
+
 ## - Bens Públicos.
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Intervenção do Estado na propriedade. 
@@ -203,7 +222,7 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 # Bloco C:
 
 ## - Licitações e Contratos Administrativos (Lei nº 14.133/2021).
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 2.5] [peso:: 2] ✅ 2026-09-16
 - #jurisprudencia 
 - <mark style="background:rgba(240, 167, 216, 0.55)">É constitucional a vedação à recontratação de empresa contratada por dispensa de licitação emergencial</mark>, quando fundada na mesma situação emergencial que extrapola o prazo legal de 1 ano (Lei nº 14.133/2021) — STF. ⚠️ Isso não impede a empresa de participar de licitação substitutiva, uma vez encerrada a emergência ou calamidade.
 - <mark style="background:rgba(240, 167, 216, 0.55)">Aditivos não são admissíveis em contratos no regime de empreitada por preço global</mark>, dada a cláusula de concordância do contratado com o projeto básico e o conhecimento prévio da variação natural de quantitativos. ⚠️ Não confundir com **contratação integrada** (o contratado elabora projeto básico e executivo) — mesmo na empreitada por preço global, cabe alteração quando: (i) modificação do projeto a pedido da Administração, sem decorrer de erro/omissão do contratado; (ii) evento superveniente alocado na matriz de riscos como responsabilidade da Administração; (iii) recomposição do equilíbrio econômico-financeiro por fato imprevisível, fortuito ou força maior.
@@ -243,6 +262,15 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Integridade e Combate à Corrupção. Lei Anticorrupção (Lei nº 12.846/2013).
 - [ ] status [dom:: 0] [peso:: 2]
+
+
+# Jurisprudência em Matéria Administrativa
+- [ ] status [dom:: 0] [peso:: 10.9]
+
+[[MATERIAL/JURISPRUDENCIAS /Resumo-Jurisprudencia-D.-Administrativo-Fiscal-4.0-V1.0.pdf|Resumo-Jurisprudencia-D.-Administrativo-Fiscal-4.0-V1.0]]
+parei na pag 12
+
+
 
 
 
