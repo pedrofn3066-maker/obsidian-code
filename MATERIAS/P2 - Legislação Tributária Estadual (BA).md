@@ -530,3 +530,35 @@ ___
 ### Transição do ICMS para o IBS
 - [ ] status [dom:: 0] [peso:: 3]
 
+---
+
+# - IRPJ — Lucro Real (RIR/2018, Título VIII, arts. 257 a 586)
+
+> [!warning] Fora do escopo desta matéria
+> Este bloco é imposto **federal** (IRPJ), não tributo estadual — não aparece no VINTEUM de LTE (Lei Kandir, Simples, ICMS, ITCMD, IPVA, LC 24/75, LC 105/2001, LC 160/2017, LC 192/2022) e não conta pra `dom`/prioridade desta nota. Entrou aqui porque a disciplina "Legislação Tributária Federal" do TEC caiu no mesmo caderno de LTE (caderno de 17/09) e o Pedro optou por manter o mapeamento. Guardado sem tracker de dom/peso de propósito, pra não distorcer o plano do dia desta matéria.
+
+## Conceito e obrigatoriedade (arts. 257 a 259)
+
+> Art. 257. Ficam obrigadas à apuração do lucro real as pessoas jurídicas: I - cuja receita total no ano-calendário anterior seja superior a R$ 78.000.000,00 (ou proporcional ao nº de meses, se período < 12 meses); II - bancos, financeiras, corretoras, seguradoras, entidades de previdência complementar aberta e afins; III - que tiverem lucros, rendimentos ou ganhos de capital oriundos do exterior; IV - que usufruam de isenção/redução de IR como benefício fiscal; V - que tenham feito pagamento mensal por estimativa no ano-calendário; VI - factoring; VII - securitizadoras de créditos imobiliários/financeiros/agronegócio; VIII - SPE de ME/EPP (LC 123/2006, art. 56); IX - emissoras de ações nos termos do art. 16 da Lei 13.043/2014.
+
+> Art. 258. O lucro real é o lucro líquido do período de apuração ajustado pelas adições, exclusões ou compensações prescritas ou autorizadas pelo RIR. §1º A apuração do lucro real é sempre precedida da apuração do lucro líquido pelas normas contábeis (lei comercial) — a contabilidade vem primeiro, o ajuste fiscal vem depois. §2º Valor que compete a outro período de apuração e foi ajustado (add/excl) no período errado deve ser revertido no período certo — regra de competência do ajuste, não do fato em si.
+
+> Art. 259. O lucro líquido do período é a soma algébrica do lucro operacional + demais receitas/despesas + participações, apurado pela lei comercial.
+
+⚠️ **Pegadinha clássica:** "lucro real" ≠ "lucro líquido contábil". Lucro real = lucro líquido **já ajustado** pelas adições/exclusões/compensações fiscais. A banca gosta de trocar os dois conceitos entre si nas alternativas.
+
+## Ajustes do lucro líquido — adições e exclusões (arts. 260 e 261)
+
+**Adições (art. 260)** — regra geral: voltam ao lucro (I) custo/despesa/encargo/perda/provisão que a lei fiscal não deixa deduzir; (II) receita que não entrou na contabilidade mas a lei manda tributar. Casos frequentes em prova: CSLL lançada como despesa (sempre indedutível, volta a adicionar); despesas com brindes; despesas com alimentação de sócios/administradores (fora a exceção de refeição-convênio); doações fora das hipóteses de dedutibilidade (incentivos culturais/Pronas-Pronon); perdas em day-trade; perdas em renda variável/swap que excedem os ganhos da mesma espécie.
+
+**Exclusões e compensações (art. 261)** — podem ser excluídos: (I) valor dedutível pela lei fiscal mas não lançado na contabilidade; (II) receita que entrou na contabilidade mas a lei fiscal não tributa; (III) **prejuízo fiscal de período anterior, limitado a 30% do lucro líquido já ajustado pelas adições/exclusões** — a "trava dos 30%" (regra central de compensação, ver Cap. XIV abaixo).
+
+## Compensação de prejuízos fiscais (arts. 579 a 586)
+
+- **Art. 580 — a trava dos 30%.** Prejuízo fiscal só compensa até 30% do lucro líquido ajustado do período — mesmo que o prejuízo acumulado seja maior, sobra pra períodos seguintes (não há prazo de decadência pra usar o saldo, só o limite de 30% por período). Exige manter livros/documentos comprobatórios do prejuízo.
+- **Art. 581 — prejuízo não operacional só compensa com lucro da mesma natureza** (venda de imobilizado/investimento/intangível com prejuízo só abate contra lucro de mesma origem, não contra o lucro operacional normal), ainda sujeito à trava de 30%. Não se aplica a baixa por bem imprestável/obsoleto/em desuso (isso é perda normal, não "prejuízo não operacional").
+- **Art. 583 — atividade rural é exceção à trava de 30%**: prejuízo de atividade rural compensa integralmente com lucro da mesma atividade em períodos futuros, sem limite percentual.
+- **Art. 584 — mudança de controle societário + ramo de atividade.** ⚠️ Pegadinha de prova: a vedação só vale se as **duas** mudanças ocorrerem **cumulativamente** entre a apuração e a compensação. Mudar só o controle, ou só o ramo, não impede compensar o prejuízo próprio.
+- **Art. 585 — sucessão (incorporação/fusão/cisão).** A sucessora **nunca** compensa prejuízo fiscal da sucedida. Na cisão **parcial**, a própria cindida pode compensar os seus próprios prejuízos, mas só proporcionalmente à parcela do patrimônio líquido que restou com ela.
+- **Art. 586 — Sociedade em Conta de Participação (SCP).** Prejuízo da SCP só compensa com lucro real da mesma SCP — vedada a compensação cruzada entre SCPs diferentes ou entre a SCP e o sócio ostensivo.
+

@@ -12,7 +12,7 @@ tags:
 
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
-- 
+- **IRPJ — Lucro Real, RIR/2018 arts. 257-586 (2/3 no caderno de 17/09).** Tópico federal, fora do VINTEUM de LTE — sem detalhe da questão em si (só o placar do TEC), então sem "onde caí" específico. Conteúdo de referência (conceito, adições/exclusões, compensação de prejuízos) já escrito em [[P2 - Legislação Tributária Estadual (BA)#- IRPJ — Lucro Real (RIR/2018, Título VIII, arts. 257 a 586)]].
 - 
 
 ---

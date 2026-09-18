@@ -15,7 +15,7 @@ erro_tipo:
 banca:
 origem: TEC (importado)
 tec:
-obs: Caderno pequeno e conteúdo fora do escopo real da matéria — LC 116/2003 é ISS (tributo municipal) e "Lucro Real"/RIR é IRPJ (federal); nenhum dos dois aparece no VINTEUM de Legislação Tributária Estadual (BA), que só cobre ICMS, ITCMD, IPVA, Simples Nacional, Lei Kandir e CONFAZ. Mapeei aqui por decisão do Pedro, mas isso não move o painel de peso/dom desta matéria — sem prioridade acionável a tirar daqui. Único erro (Lucro Real, 2/3) não tem nenhuma nota no vault, em nenhuma matéria.
+obs: Caderno pequeno e conteúdo fora do escopo real da matéria — LC 116/2003 é ISS (tributo municipal) e "Lucro Real"/RIR é IRPJ (federal); nenhum dos dois aparece no VINTEUM de Legislação Tributária Estadual (BA), que só cobre ICMS, ITCMD, IPVA, Simples Nacional, Lei Kandir e CONFAZ. Mapeei aqui por decisão do Pedro, mas isso não move o painel de peso/dom desta matéria — sem prioridade acionável a tirar daqui. Único erro (Lucro Real, 2/3) triado em 17/09: conteúdo de referência (conceito, adições/exclusões, compensação de prejuízos fiscais) escrito na própria nota, num bloco à parte sem tracker de dom/peso pra não distorcer o plano do dia.
 ---
 
 ## Erros a revisar
