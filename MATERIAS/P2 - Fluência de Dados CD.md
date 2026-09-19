@@ -160,7 +160,7 @@ A transformação de dados é um processo no qual os dados brutos são modificad
 | **Custo de aquisição** | Custo de aquisição e verificação dos dados em sua forma original.                               |
 
 ##  4 Governança de Dados: papéis, políticas, accountability, stewardship e alinhamento estratégico.
-- [ ] status [dom:: 3] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-19
 
 **De acordo com o DAMA DMBOK, a governança de dados tem como objetivo central habilitar a organização a gerenciar seus dados como ativos valiosos, exigindo _accountability_ (responsabilização), controle e regras bem definidas, de forma alinhada aos objetivos do negócio.**
 Veja os erros das outras opções:

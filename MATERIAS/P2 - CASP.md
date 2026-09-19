@@ -635,7 +635,7 @@ Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a cap
 ## - Procedimentos contábeis específicos
 - [ ] status [dom:: 0] [peso:: 3]
 ## - PCASP e escrituração contábil pública
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 1] [peso:: 3] ✅ 2026-09-19
 
 **Fonte:** MCASP 11ª edição (STN), Parte IV — Plano de Contas Aplicado ao Setor Público.
 
@@ -685,7 +685,7 @@ Escrituração: [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Bal
 ## - Introdução às DCs
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Balanço Orçamentário
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 1] [peso:: 3] ✅ 2026-09-19
 
 **Fonte:** MCASP 11ª edição (STN), Parte V — Demonstrações Contábeis Aplicadas ao Setor Público.
 
@@ -780,7 +780,7 @@ Regime orçamentário e critério de classificação; período do orçamento; en
 
 ⚠️ O item IV admite duas leituras: se só o **desembolso financeiro** (pagamento) contasse, ele não entraria em despesas orçamentárias — e a fórmula usaria receitas arrecadadas e despesas **pagas**. O padrão do MCASP usa despesas **empenhadas**: receitas arrecadadas + ingressos extraorçamentários + transferências recebidas − despesas empenhadas − dispêndios extraorçamentários − transferências concedidas.
 ## - BP
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 1] [peso:: 3]
 
 **Fonte:** NBC TSP 11 — Apresentação das Demonstrações Contábeis, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018).
 
@@ -794,7 +794,7 @@ Regime orçamentário e critério de classificação; período do orçamento; en
 | **Exceção 1:** por liquidez | quando proporcionar informação mais fidedigna e relevante — **todos** os itens seguem essa base |
 | **Exceção 2:** base mista | alguns itens por circulante/não circulante, outros por liquidez — quando a entidade tem operações muito diversas |
 
-<mark style="background:#fff88f">Mesma lógica do [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|BP privado]], mas a NBC TSP 11 formaliza a base mista como opção explícita de terceira via — o CPC não trata isso como regra própria.</mark>
+Mesma lógica do [[P2 - Contabilidade Avançada e de Custos#- Balanço Patrimonial;\|BP privado]], mas a NBC TSP 11 formaliza a base mista como opção explícita de terceira via — o CPC não trata isso como regra própria.
 
 **Ciclo operacional:** quando não claramente identificável, presume-se **12 meses**.
 
@@ -822,7 +822,7 @@ Imobilizado · propriedade para investimento · intangível · ativos financeiro
 > [!info]- Correção de uma suposição anterior
 > O callout de lacuna que existia aqui apostava que a DFC pública seria classificada por "natureza orçamentária" (corrente/capital). **Errado** — conferido contra a NBC TSP 12: a estrutura é a **mesma** da privada, três atividades (operacional/investimento/financiamento). O que muda são os itens de linha, típicos do setor público (impostos, transferências, dotações).
 
-<mark style="background:#fff88f">Estrutura igual à [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|DFC privada (CPC 03)]] — mesmas três atividades, mesmos dois métodos. O que muda são os itens de linha, típicos do setor público.</mark>
+Estrutura igual à [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|DFC privada (CPC 03)]] — mesmas três atividades, mesmos dois métodos. O que muda são os itens de linha, típicos do setor público.
 
 **Definições:** Caixa = numerário em espécie + depósitos bancários disponíveis. Equivalentes de caixa = aplicações de curto prazo, alta liquidez, conversibilidade em valor conhecido, risco insignificante.
 

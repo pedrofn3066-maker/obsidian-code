@@ -15,21 +15,21 @@ prioridade: importante
 
 *Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Mesma tabela vale para as 4 notas "Fluência de Dados" (BD/CD/SGE/SGE-C) — o guia trata como uma disciplina só.*
 
-| Tópico | % |
-| --- | --- |
-| Linguagem SQL | 14,2% |
-| Aprendizado de Máquina (Machine Learning) | 9,9% |
-| Big Data | 9,6% |
-| Data Warehouse e Data Mart | 7,0% |
-| Modelo Relacional | 4,8% |
-| Conceitos Iniciais e Gerais de IA | 4,8% |
-| Governança de Dados | 4,5% |
-| Data Mining | 4,5% |
-| LGPD | 4,2% |
-| Processamento de Linguagem Natural (IA) | 4,0% |
-| Python | 3,5% |
-| Ferramentas de BI e Visualização de Dados | 3,2% |
-| Fundamentos e Princípios da Ciência de Dados | 3,0% |
+| Tópico                                       | %     |
+| -------------------------------------------- | ----- |
+| Linguagem SQL                                | 14,2% |
+| Aprendizado de Máquina (Machine Learning)    | 9,9%  |
+| Big Data                                     | 9,6%  |
+| Data Warehouse e Data Mart                   | 7,0%  |
+| Modelo Relacional                            | 4,8%  |
+| Conceitos Iniciais e Gerais de IA            | 4,8%  |
+| Governança de Dados                          | 4,5%  |
+| Data Mining                                  | 4,5%  |
+| LGPD                                         | 4,2%  |
+| Processamento de Linguagem Natural (IA)      | 4,0%  |
+| Python                                       | 3,5%  |
+| Ferramentas de BI e Visualização de Dados    | 3,2%  |
+| Fundamentos e Princípios da Ciência de Dados | 3,0%  |
 
 ## Checklist por importância (VINTEUM)
 
@@ -435,6 +435,17 @@ Mais especificamente, '`preferencias'` é um **atributo composto** (ou docume
 > A afirmativa está **CORRETA**, pois o armazenamentos **key–value** (pares chave-valor) são extremamente rápidos e escaláveis, mas oferecem apenas acesso simples, através da **recuperação direta pela chave**.
 Isso significa que não oferecem consultas complexas. Essas consultas simples não permitem junções complexas em diferentes locais de armazenamento contendo referências, como nos modelos relacionais, por exemplo. Além disso, não há filtragens por atributos internos (além da chave) e não há padronização entre diferentes bancos key–value.
 **Os armazenamentos de pares chave-valor são os menos adequados para uso em sistemas que precisam consultar dados em diferentes armazenamentos de pares chave-valor.**
+
+
+## Python
+
+
+
+
+
+
+
+
 ---
 
 
