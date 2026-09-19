@@ -60,6 +60,10 @@ Componente central da transparência contábil do setor público. Engloba as dem
 
 **Usuários primários:** usuários de serviços e seus representantes (Legislativo) + provedores de recursos e seus representantes. Outros usuários (analistas, mídia, agências de risco, entidades de auditoria) usam a informação, mas não é para eles que o RCPG é feito.
 
+**Regime:** os RCPGs devem ser elaborados com base no **regime de competência** (Estrutura Conceitual, item 1.1). O CFC aplica esses conceitos no desenvolvimento das NBCs TSP e das demais disposições sobre elaboração e divulgação dos RCPGs.
+
+⚠️ Não confundir com o regime **orçamentário**, que seria misto (ver [[#1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL|regimes]]).
+
 #### Características qualitativas
 
 | Característica | Conceito |
@@ -75,11 +79,16 @@ Componente central da transparência contábil do setor público. Engloba as dem
 
 **Restrições:** Materialidade (omissão/distorção que influencia decisão), Custo-benefício, Equilíbrio entre características qualitativas (trade-off).
 
+**Compreensibilidade:** qualidade que permite aos usuários compreender o significado da informação. As demonstrações devem apresentá-la de modo que corresponda às necessidades e à base de conhecimento dos usuários e à natureza da informação apresentada. A compreensão é aprimorada quando a informação é classificada e apresentada de maneira **clara e sucinta**.
+
 #### Elementos das demonstrações contábeis
 
 <mark style="background:#fff88f">Comparar com a Estrutura Conceitual privada — [[P2 - Contabilidade Avançada e de Custos#- Contabilidade Básica;\|CPC 00]] — as definições são estruturalmente parecidas, mas a pública fala em "situação patrimonial líquida", não "patrimônio líquido" como nome primário, e substitui "proprietários" por "contribuições/distribuições de proprietários" mesmo sem estrutura acionária típica.</mark>
 
 - **Ativo:** recurso controlado no presente, resultado de evento passado. Três condições cumulativas: gera benefício econômico futuro ou potencial de serviços, é controlado pela entidade, resulta de evento passado.
+    - **Recurso** (5.7): item com **potencial de serviços** ou com **capacidade de gerar benefícios econômicos**. A **forma física não é condição necessária**. O potencial ou a capacidade podem surgir do próprio recurso ou dos **direitos de sua utilização**, o que inclui o direito de usá-lo para prestar serviços ou de convertê-lo em caixa por alienação. Item que copia esse conceito foi dado como CERTO.
+    - **Potencial de serviços** (5.8 e 5.9): capacidade de prestar serviços que contribuam para os objetivos da entidade, permitindo alcançá-los **sem necessariamente gerar entrada líquida de caixa**. Podem ser ativos de recreação, do patrimônio cultural, comunitários, de defesa nacional e outros mantidos pelos governos para prestar serviços a terceiros.
+    - **Benefícios econômicos** (5.10): **entradas de caixa ou reduções das saídas de caixa**, derivadas (a) da utilização do ativo na produção e na venda de serviços ou (b) da troca direta do ativo por caixa ou por outros recursos.
 - **Passivo:** obrigação presente, derivada de evento passado, cuja extinção resulta em **saída de recursos**. Obrigação legal ou não legalmente vinculada, mas inevitável pela entidade.
 - **Situação Patrimonial Líquida:** ativos − passivos (após outros recursos/obrigações). Pode ser residual positivo ou negativo.
 - **Receita:** aumento na situação líquida **não oriundo de contribuição dos proprietários**.
@@ -99,6 +108,8 @@ Componente central da transparência contábil do setor público. Engloba as dem
 | Custo de reposição/substituição | Entrada | sim | sim |
 | Preço líquido de venda | Saída | sim | sim |
 | Valor em uso | Saída | não | sim |
+
+**Desreconhecimento** (item 6.10): processo de avaliar se ocorreram mudanças, desde a data do relatório anterior, que justifiquem a **remoção** de elemento previamente reconhecido nas demonstrações contábeis, e de remover o item se tais mudanças ocorrerem.
 
 ## - Regimes orçamentário e patrimonial
 
@@ -198,6 +209,16 @@ a. Quando deixar de existir o correspondente valor ativo, por **transferência 
 b. **Diminuição ou extinção** do valor **econômico** de um ativo;  
 c. Pelo surgimento de um passivo, **sem o correspondente ativo**.
 
+**Exemplos de classificação (questões)**
+
+- **Alienação de bens do ativo público:** pode ser de qualquer das três espécies, conforme o valor de venda:
+    - valor de venda = valor contábil líquido: variação **qualitativa**;
+    - valor de venda > valor contábil líquido: variação quantitativa **aumentativa**;
+    - valor de venda < valor contábil líquido: variação quantitativa **diminutiva**.
+- **Recebimento de depósitos em caução:** variação **qualitativa** (`D - Caixa` / `C - Valores restituíveis`).
+
+Gabarito da questão: alienação = incorreta; caução = correta (enunciado não capturado).
+
 **2.3. APROPRIAÇÃO**
 
 **2.3.1. APROPRIAÇÃO DA VPD**
@@ -222,11 +243,27 @@ Considere que o fato gerador do Imposto sobre a Propriedade Predial e Territoria
 
 FOTO
 
+Arrecadação na **natureza patrimonial** (MCASP 10ª ed.):
+
+```
+D 1.1.1.1.x.xx.xx Caixa e Equivalentes de Caixa em Moeda Nacional (F)   1.000
+C 1.1.2.1.x.xx.xx Créditos Tributários a Receber (P)                    1.000
+```
+
+A mesma lógica vale para transferências: `D 1.1.1.1.x.xx.xx Caixa e Equivalentes de Caixa em Moeda Nacional (F)` / `C 1.1.2.3.x.xx.xx Créditos de Transferências a Receber (P)`. Em questão, esse lançamento foi dado como correto.
+
 - **Reconhecimento da VPA após a ocorrência da arrecadação da receita orçamentária**
 
 Considere o recebimento antecipado de valores provenientes da venda a termo de serviços. Nesse caso, a receita orçamentária é registrada antes da ocorrência do fato gerador, ou seja, a VPA ocorre em momento posterior à arrecadação da receita orçamentária. Há troca de um direito (entrada antecipada dos valores) por uma obrigação de prestar o serviço, constituindo uma variação patrimonial qualitativa.
 
 FOTO
+
+Lançamento na **natureza orçamentária** (MCASP 11ª ed., 2.4.2.2):
+
+```
+D 6.2.1.1.x.xx.xx Receita a Realizar
+C 6.2.1.2.x.xx.xx Receita Realizada
+```
 
 - **Reconhecimento da VPA junto com a ocorrência da arrecadação da receita orçamentária**
 
@@ -278,6 +315,13 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 
 ## - Princípios de CASP
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Princípio da Oportunidade:** base indispensável à integridade e à fidedignidade dos processos de reconhecimento, mensuração e evidenciação da informação contábil, dos atos e dos fatos que afetam ou possam afetar o patrimônio da entidade pública, observadas as NBC aplicadas ao Setor Público.
+
+Integridade e fidedignidade: as variações devem ser reconhecidas **na sua totalidade**, independentemente do cumprimento das formalidades legais para sua ocorrência, visando ao completo atendimento da **essência sobre a forma**.
+
+⚠️ A Resolução CFC 1.111/2007 foi **revogada** pela NBC TSP Estrutura Conceitual.
+
 ## - Bens, inventário
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Avaliação patrimonial
@@ -599,6 +643,8 @@ Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a cap
 
 **Objetivos** (os testáveis): padronizar os registros das entidades públicas; **distinguir** os registros de natureza patrimonial, orçamentária e de controle; permitir a **consolidação nacional** das contas públicas; permitir a elaboração das DCASP, do RREO e do RGF; contribuir para a **transparência** da gestão fiscal.
 
+**Objetivo cobrado em prova:** contribuir para a adequada tomada de decisão e para a **racionalização de custos** no setor público (MCASP 11ª ed., objetivo *h*). Item CERTO.
+
 **Competência e alcance:** a **STN** é o órgão central que cria, altera, codifica e detalha as contas — atribuição da LRF. Uso **obrigatório** para toda a administração direta e indireta (inclusive empresas estatais **dependentes**); **facultativo** para as demais. Atualizado **anualmente**.
 
 #### As 3 naturezas de informação e as 8 classes
@@ -612,6 +658,13 @@ Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a cap
 | **Controle** | 7. Controles Devedores · 8. Controles Credores |
 
 ⚠️ É por isso que os passivos e ativos contingentes — [[#- Provisões, passivos e ativos contingentes\|vistos acima]] — entram nas **classes 7 e 8** (controle), nunca nas classes 1/2 (patrimonial): eles não satisfazem os critérios de reconhecimento patrimonial.
+
+#### Lançamento da fixação da despesa (classes 5 e 6)
+
+A fixação da despesa ocorre com a aprovação da **LOA**, que é a autorização legislativa para realizar despesas até o limite fixado. O registro é feito em contas de natureza **orçamentária**:
+
+- **Débito:** conta da classe 5 (dotação inicial aprovada);
+- **Crédito:** conta da classe 6 (crédito disponível para execução).
 
 #### Código da conta — 9 dígitos, 7 níveis
 
