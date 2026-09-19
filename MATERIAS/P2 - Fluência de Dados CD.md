@@ -287,6 +287,34 @@ Arquitetura de rede neural recorrente (RNN) que retém valores por intervalos ar
 
 <mark style="background:#fff88f">IA deve seguir as leis de proteção de dados do país onde for utilizada e comercializada</mark>, independentemente de onde foi desenvolvida ou fabricada — a legislação aplicável é a do local de uso, não a de origem.
 
+#### Discriminação algorítmica e viés
+
+<mark style="background:#fff88f">Discriminação algorítmica</mark>: o sistema de IA usa, numa tomada de decisão e sem justificativa válida, a informação de que alguém pertence a um grupo social (ou características que funcionam como **proxies**), gerando desvantagens sistemáticas para esse grupo em contextos em que esse critério não deveria influenciar a decisão.
+
+**Viés (Algorithmic Bias):** o sistema reflete, reproduz ou **amplifica** preconceitos históricos ou sociais, tratando indivíduos de forma injusta com base em características inerentes a eles. Costuma ocorrer porque os **dados de treinamento** (o histórico do passado) já contêm essas injustiças humanas. A máquina não tem bússola moral nem analisa o contexto real das situações para filtrar as nuances que dados históricos podem carregar.
+
+**Atributos protegidos:** características sensíveis que, por lei ou ética, não devem ser usadas para negar oportunidades (ex.: raça, gênero, religião, orientação sexual, origem nacional).
+
+⚠️ **Variável proxy:** remover a coluna "Raça" não neutraliza o modelo. Se ele mantiver "CEP" ou "Histórico Escolar" com forte correlação histórica com grupos raciais marginalizados, a IA usa o CEP como <mark style="background:#fff88f">substituto disfarçado da raça</mark> e discrimina da mesma forma.
+
+**Viés de automação:** tendência de confiar nas decisões automatizadas da IA como sempre precisas ou imparciais, mesmo quando estão incorretas.
+
+> [!warning]- Pendência de autoria
+> A captura trazia a dúvida "discriminação algorítmica é a mesma coisa que viés algorítmico?" sem resposta. O material de origem escreve "Discriminação Algorítmica (Viés/Bias)", tratando os termos lado a lado. Confirmar se a banca os distingue.
+
+⚠️ **Pegadinha CEBRASPE (item ERRADO):** um auditor usa IA generativa (IAG) na análise de informações de diferentes fontes e na redação dos achados de uma auditoria operacional em programa social para comunidades quilombolas. O item afirma que a IAG contribui para a imparcialidade porque, **desde que treinadas com grandes volumes de dados**, as ferramentas **não reproduzem** tendências humanas discriminatórias, como o racismo.
+
+- A IA **pode** contribuir com a imparcialidade, mas reflete os dados com que foi treinada. Não está imune a reproduzir tendências discriminatórias, mesmo programada com essa diretriz.
+- A IAG **herda** os vieses dos dados de treinamento, não os elimina.
+- A imparcialidade em auditoria exige **julgamento humano crítico**, sobretudo em contextos sensíveis como políticas sociais.
+
+O erro veio de tomar o enunciado por genérico demais e supor que a banca o aceitaria. O item é categórico ("não reproduzem").
+
+#### Agentes de IA
+
+- **Agente reativo simples (de reflexo simples):** realiza tarefas que **não exigem aprendizado**, previamente projetadas. Exemplos: redefinição de senhas; acionar o ar condicionado quando a temperatura ultrapassa a pré-programada.
+- **Agente baseado em aprendizado:** o agente de IA que utiliza dados anteriores.
+
 ## IA Generativa: modelos de difusão
 - [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
 
@@ -302,6 +330,8 @@ LLMs avançaram o PLN e se tornaram acessíveis via interfaces como ChatGPT (GPT
 GPT-3 (OpenAI, 2020): 175 bilhões de parâmetros — ficou famoso por gerar texto preciso a partir de entradas no ChatGPT.
 Aplicações: responder perguntas, redigir textos, traduzir, resumir documentos, gerar código, chatbots e assistentes digitais — qualquer tarefa de geração ou compreensão de texto.
 
+**Incorporações de palavras (word embeddings):** os LLMs representam as palavras por <mark style="background:#fff88f">vetores multidimensionais</mark>, de modo que palavras com significados contextuais semelhantes ou com outras relações fiquem **próximas entre si no espaço vetorial**. Com isso, os transformadores pré-processam o texto como representações numéricas por meio do **codificador** e entendem o contexto de palavras e frases de significado semelhante, bem como outras relações entre palavras, como partes do discurso. Os LLMs aplicam esse conhecimento da linguagem por meio do **decodificador** para produzir um resultado exclusivo. Item que descreve isso foi dado como CORRETO.
+
 # Bloco E: Power BI, AED, Ferramentas de BI e Visualização de Dados, Ferramentas de análise de dados e observabilidade
 
 ## - Análise Exploratória de Dados (AED) — variáveis qualitativas e quantitativas
@@ -313,6 +343,84 @@ Na classificação de variáveis em AED, os valores não numéricos são **quali
 - **ordinais** — categorias com ordem (ex.: tamanho de roupa, classe social).
 
 ⚠️ **Discreta não é subtipo de qualitativa** — é classificação de variável **quantitativa** (valores inteiros e contáveis). O erro clássico de banca troca "nominal" por "discreta" dentro da árvore de variáveis qualitativas.
+
+## - Integração de Sistemas
+- [ ] status [dom:: 0] [peso:: 3]
+
+Integração de sistemas permite que aplicações distintas troquem dados e utilizem funcionalidades de maneira coordenada. Na administração tributária é fundamental porque as informações fiscais normalmente estão distribuídas entre diferentes sistemas internos, órgãos públicos e fontes externas.
+
+```
+SISTEMA A ↔ API / SERVIÇO / MENSAGERIA ↔ SISTEMA B
+                    ↓
+            TROCA DE INFORMAÇÕES
+```
+
+#### APIs
+
+Uma <mark style="background:#fff88f">API (Application Programming Interface)</mark> estabelece regras e interfaces para que sistemas se comuniquem. Permite integração sem que uma aplicação precise ter acesso direto à implementação interna da outra.
+
+| Benefício | Resultado |
+| --- | --- |
+| **Interoperabilidade** | Sistemas diferentes conseguem trocar informações. |
+| **Automação** | Redução de tarefas manuais de transferência e redigitação. |
+| **Atualização** | Possibilidade de fluxos de dados mais tempestivos. |
+| **Reutilização** | Serviços podem ser consumidos por diferentes aplicações autorizadas. |
+
+⚠️ **Pegadinha:** integração **não** significa simplesmente colocar todos os dados em um único banco. Sistemas podem permanecer independentes e interoperar por APIs, serviços, eventos ou outros mecanismos.
+
+#### ETL × API
+
+| ETL | API |
+| --- | --- |
+| Extrai, transforma e carrega dados; muito associado à integração de dados e a ambientes analíticos. | Define uma interface de comunicação entre aplicações e serviços. |
+| Foco no fluxo e na preparação dos dados. | Foco na interação entre sistemas. |
+
+## - Inteligência Fiscal
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Inteligência fiscal** é o uso organizado de dados, técnicas analíticas e conhecimento especializado para produzir informação útil à gestão do risco tributário, à seleção de casos, à fiscalização e à promoção da conformidade.
+
+```
+COLETA
+  ↓
+INTEGRAÇÃO
+  ↓
+TRATAMENTO E QUALIDADE
+  ↓
+ANÁLISE / CRUZAMENTO / IA
+  ↓
+IDENTIFICAÇÃO DE RISCOS
+  ↓
+PRODUÇÃO DE INTELIGÊNCIA
+  ↓
+DECISÃO / AÇÃO
+```
+
+É mais ampla que uma tecnologia específica: pode usar BI, mineração de dados, inteligência artificial, geoprocessamento, cruzamentos, indicadores e conhecimento de especialistas.
+
+⚠️ Inteligência fiscal ≠ simples acúmulo de dados. Os dados precisam ser tratados, contextualizados e analisados para virar informação útil à decisão.
+
+| Nível | Conceito |
+| --- | --- |
+| **Dado** | Registro bruto de um fato. |
+| **Informação** | Dado tratado e contextualizado. |
+| **Conhecimento / Inteligência** | Interpretação capaz de apoiar decisões e ações. |
+
+⭐ Pense como um ciclo: coletar → integrar → analisar → identificar riscos → priorizar → agir → avaliar resultados.
+
+## - Mapa de Fixação
+- [ ] status [dom:: 0] [peso:: 3]
+
+| Se a questão falar em... | Pense em... |
+| --- | --- |
+| Aprender padrões, classificar ou prever | IA / Machine Learning |
+| Comparar informações de fontes distintas | Cruzamento de Dados |
+| Gráficos, KPIs, filtros e acompanhamento visual | Painel Gerencial |
+| Medir desempenho, arrecadação, conformidade ou risco | Indicador Fiscal |
+| Coordenadas, parcelas, mapas e análise espacial | Georreferenciamento / SIG |
+| Comunicação e troca de dados entre aplicações | Integração de Sistemas / APIs |
+| Transformar dados e análises em apoio à ação fiscal | Inteligência Fiscal |
+| Regras automáticas que identificam divergências | Automação de Malhas Fiscais |
 
 
 
