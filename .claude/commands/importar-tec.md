@@ -63,6 +63,7 @@ Regras que não são óbvias:
 
 - **`assuntos` recebe só as folhas.** As linhas-pai da hierarquia (`01`, `01.01`) são agregados dos filhos; incluí-las inflaria a lista com o mesmo assunto em dois níveis. O script já separa.
 - **Todo valor com dois-pontos vai entre aspas.** Nomes de tópico do TEC frequentemente têm `: ` no meio (`Ponto de Equilíbrio: Relação Custo/Volume/Resultado`, `Triângulos: Conceito, Elementos e Classificação`). Sem aspas, o editor de propriedades do Obsidian lê aquilo como mapa YAML e reescreve o item como `"[object Object]"` — perda silenciosa, que só aparece quando alguém relê a nota. Aconteceu em 2026-09-09; a regra é citar sempre, não só quando parecer arriscado.
+- **`obs` vai inteiro entre aspas duplas, com as aspas internas escapadas (`\"`).** É texto livre e quase sempre cita nome de tópico entre aspas — `obs: "Tópico" é o erro...` **quebra o YAML** (abre aspas, fecha, e continua com texto). Foi o que deixou o caderno de Auditoria de 18/09 ilegível, depois de LTE em 17/09: quase todo dia vinha um. Escreva `obs: "\"Tópico\" é o erro ... texto."` — ou, mais simples, cite os tópicos com aspas simples dentro do valor. O mesmo vale pra qualquer outro valor com `: ` ou ` #`.
 - **Campos do Pedro ficam vazios:** `slot`, `erro_tipo`, `tempo_min`, `banca`, `tec`. Não preencha por inferência.
 - **Caderno sem erro fica com `erro_tipo` vazio, obrigatoriamente.** O painel `Diagnóstico de erro` filtra por `WHERE materia AND erro_tipo` — preencher o campo num caderno 100% faz a matéria aparecer na coluna "Onde" como lacuna de conhecimento, sem nenhum erro pra contabilizar. Se o Pedro preencher mesmo assim, respeite a escolha dele mas avise uma vez.
 - **`obs` é análise, não resumo do número.** O percentual já está em `total`/`acertos`. Use a `obs` pro que os números não mostram: onde o erro se concentra dentro da matéria, se a amostra é grande o bastante pra concluir algo (1-2 questões não é), e contraste de peso quando ele saltar aos olhos.
@@ -78,6 +79,7 @@ Depois de criar as notas, faça a análise que os números sozinhos não dão:
 
 ## Antes de reportar como feito
 
+0. **Valide o YAML.** `python3 PY/validar-cadernos.py` — tem que terminar em `OK`. Se apontar `nota:linha`, corrija antes de seguir: nota com frontmatter inválido perde as propriedades e some dos painéis sem aviso.
 1. **Concilie o total.** A soma de `total`/`acertos` das notas criadas tem que bater com o `TOTAL A CONCILIAR` do script. Se não bater, alguma folha foi contada duas vezes ou ficou de fora.
 2. Se o dia importado for anterior a hoje, o registro daquele dia no painel [[S1 - Revisão de ontem]] pode estar errado — ele pode ter concluído "dia sem questões" quando na verdade era "dia sem registro". Corrija o registro se existir.
 3. Relate em tabela: matéria, acertos/total, %, erros e onde cada erro cai no peso VINTEUM.
