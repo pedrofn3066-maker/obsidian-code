@@ -19,7 +19,7 @@ assuntos:
   - Operações com Duplicatas
   - Operações com Folha de Pagamento e Benefícios a Empregados (CPC 33)
   - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)
-slot:
+slot: S3
 total: 21
 acertos: 16
 tempo_min:

@@ -9,7 +9,7 @@ assuntos:
   - Equivalências Lógicas (Inclui Negação de Proposições Compostas)
   - Argumentos - Métodos Decorrentes da Tabela Verdade
   - Diagramas Lógicos, Proposições Categóricas, Negação de Quantificadores
-slot:
+slot: S2
 total: 16
 acertos: 11
 tempo_min:

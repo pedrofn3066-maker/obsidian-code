@@ -15,7 +15,7 @@ assuntos:
   - Capacidade Tributária (art. 126 do CTN)
   - Responsabilidade Tributária (arts. 128 a 138 do CTN)
   - Jurisprudência dos Tribunais Superiores sobre ISS
-slot:
+slot: S2
 total: 29
 acertos: 20
 tempo_min:
