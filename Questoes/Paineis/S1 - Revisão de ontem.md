@@ -62,7 +62,7 @@ Funciona de qualquer diretório; o script se localiza sozinho. Acrescente `-p` n
 sh "$HOME/Documents/vault-ba/PY/s1-ontem.sh" -p
 ```
 
-Terminal é ruim pra ler prosa longa — monoespaçado, sem quebra de linha decente. Pra leitura de verdade (não só checagem rápida), use `PY/s1-ontem.py`: mesma consulta do `-p` acima, mas monta uma página HTML formatada (parágrafos, listas, tabelas, `[[wikilinks]]`) e abre sozinha no navegador:
+Terminal é ruim pra ler prosa longa — monoespaçado, sem quebra de linha decente. Pra leitura de verdade (não só checagem rápida), use `PY/s1-ontem.py`: mesma consulta do `-p` acima, mas monta uma página HTML formatada (parágrafos, listas, tabelas, `[[wikilinks]]`, fórmulas `$…$` renderizadas com KaTeX) e abre sozinha no navegador. Ela já vem pensada pro S1: cada nota fechada, só com hora e nome — tente lembrar e só então abra. Atalhos: `j`/`k` navegam, `1` lembrei, `2` parcial, `3` não lembrei (a marca fica salva no dia), `e` abre/fecha tudo, `c` liga o modo cloze (borra os termos em negrito; clique pra revelar). Cada nota tem o link *Abrir no Obsidian*. Sem internet as fórmulas aparecem como LaTeX cru:
 
 ```
 python3 "$HOME/Documents/vault-ba/PY/s1-ontem.py"

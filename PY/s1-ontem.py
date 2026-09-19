@@ -14,6 +14,12 @@ QUAL texto: linhas acrescentadas nesses arquivos nos
 commits desde ontem 00:00 (sem limite superior, pra pegar commit de recuperação
 feito hoje) + o que ainda não foi commitado.
 
+A página é feita pra RECUPERAR antes de reler (regra do painel): cada nota vem
+fechada, só com hora e nome; o texto aparece ao clicar. Fórmulas $…$ e $$…$$ são
+renderizadas com KaTeX (CDN) — sem internet, aparecem como LaTeX cru. Marcas
+"lembrei / parcial / não lembrei" ficam no localStorage do navegador, por dia.
+Atalhos: j/k navegam, 1/2/3 marcam, e abre/fecha tudo, c liga o modo cloze.
+
 Uso:  python3 ~/…/vault-ba/PY/s1-ontem.py
 """
 
@@ -24,6 +30,7 @@ import tempfile
 import webbrowser
 from datetime import datetime, time, timedelta
 from html import escape
+from urllib.parse import quote
 from pathlib import Path
 
 VAULT = Path(__file__).resolve().parent.parent
@@ -172,7 +179,59 @@ def render_frontmatter(linhas):
     return "\n".join(html)
 
 
+# --------------------------------------------------------------------------
+# matemática: protegida antes do markdown-lite, renderizada no navegador
+# --------------------------------------------------------------------------
+
+MI, MF = "\ue000", "\ue001"  # delimitam o marcador de uma fórmula guardada
+RE_MATH_BLOCO = re.compile(r"\$\$(.+?)\$\$", re.S)
+# $…$ em linha, regra do pandoc: sem espaço logo após o $ de abertura nem antes do de
+# fechamento, e o de fechamento não vem seguido de dígito/letra. Isso deixa "R$ 100 e
+# R$ 200" em paz. O (?<![\w\\$]) impede abrir depois de letra (R$) ou de \$.
+RE_MATH_LINHA = re.compile(r"(?<![\w\\$])\$(?=[^\s$])((?:[^$\n\\]|\\.)*?(?:[^\s$\\]|\\\S))\$(?![\w$])")
+RE_CODIGO_INLINE = re.compile(r"(`[^`\n]*`)")
+RE_MARCADOR = re.compile(rf"{MI}([di])(\d+){MF}")
+
+
+def proteger_matematica(texto):
+    """Troca cada fórmula por um marcador que o markdown-lite não sabe mexer.
+    Devolve (texto_com_marcadores, [latex, ...]). Fórmula dentro de `crase` não conta."""
+    guardadas = []
+
+    def guardar(tipo, tabela=False):
+        def _sub(m):
+            tex = m.group(1).strip()
+            if tabela:  # em célula de tabela o Obsidian lê \| como um | literal
+                tex = tex.replace("\\|", "|")
+            guardadas.append(tex)
+            return f"{MI}{tipo}{len(guardadas) - 1}{MF}"
+        return _sub
+
+    texto = RE_MATH_BLOCO.sub(guardar("d"), texto)
+    linhas = []
+    for linha in texto.split("\n"):
+        sub = guardar("i", tabela=linha.lstrip().startswith("|"))
+        partes = RE_CODIGO_INLINE.split(linha)  # índices ímpares são os trechos em `crase`
+        linhas.append("".join(
+            p if i % 2 else RE_MATH_LINHA.sub(sub, p) for i, p in enumerate(partes)
+        ))
+    return "\n".join(linhas), guardadas
+
+
+def restaurar_matematica(html, guardadas):
+    """Marcador -> <span class="m" data-tex=…> com o LaTeX cru dentro. Se o KaTeX não
+    carregar (sem internet) o leitor ainda vê a fórmula, só não formatada."""
+    def _sub(m):
+        display = m.group(1) == "d"
+        tex = guardadas[int(m.group(2))]
+        delim = "$$" if display else "$"
+        return (f'<span class="m{" d" if display else ""}" data-tex="{escape(tex)}">'
+                f'{escape(delim + tex + delim)}</span>')
+    return RE_MARCADOR.sub(_sub, html)
+
+
 def render_markdown(texto):
+    texto, formulas = proteger_matematica(texto)
     linhas = texto.split("\n")
     out = []
 
@@ -233,6 +292,9 @@ def render_markdown(texto):
 
         if not s:
             flush()
+        elif re.fullmatch(rf"{MI}d\d+{MF}", s):  # $$…$$ sozinho: bloco próprio
+            flush()
+            out.append(s)
         elif h:
             flush()
             nivel = min(6, len(h.group(1)) + 2)
@@ -266,7 +328,7 @@ def render_markdown(texto):
                 modo = "p"
             buf.append(s)
     flush()
-    return "\n".join(out)
+    return restaurar_matematica("\n".join(out), formulas)
 
 
 # --------------------------------------------------------------------------
@@ -283,12 +345,45 @@ body {
 @media (prefers-color-scheme: dark) { body { color: #e7e7e5; background: #16161a; } }
 h1 { font-size: 1.5rem; margin-bottom: .2rem; }
 .sub { opacity: .6; margin-bottom: 2.5rem; }
-.arquivo .hora { font-weight: 400; }
-.arquivo { margin: 1.6rem 0 0; }
-.arquivo h3 {
-  font-size: .8rem; text-transform: uppercase; letter-spacing: .03em;
-  opacity: .55; margin: 0 0 .5rem; font-weight: 600;
+.barra {
+  position: sticky; top: 0; z-index: 5; display: flex; flex-wrap: wrap; gap: .5rem .8rem;
+  align-items: center; padding: .6rem 0; margin-bottom: .4rem;
+  background: inherit; border-bottom: 1px solid rgba(128,128,128,.25); font-size: .9rem;
 }
+.barra .sp { flex: 1; }
+button, .acoes a {
+  font: inherit; font-size: .82rem; padding: .25rem .7rem; border-radius: 6px; cursor: pointer;
+  border: 1px solid rgba(128,128,128,.4); background: transparent; color: inherit; text-decoration: none;
+}
+button:hover, .acoes a:hover { background: rgba(128,128,128,.15); }
+button.on { background: rgba(74,125,187,.25); border-color: #4a7dbb; }
+.ajuda { font-size: .78rem; opacity: .55; margin: .3rem 0 1.4rem; }
+details.nota { border-bottom: 1px solid rgba(128,128,128,.2); }
+details.nota > summary {
+  list-style: none; cursor: pointer; padding: .7rem .2rem; display: flex; gap: .7rem;
+  align-items: baseline; border-radius: 6px;
+}
+details.nota > summary::-webkit-details-marker { display: none; }
+details.nota > summary::before { content: "▸"; opacity: .5; }
+details.nota[open] > summary::before { content: "▾"; }
+details.nota > summary:focus-visible { outline: 2px solid #4a7dbb; }
+.hora { opacity: .55; font-size: .85rem; white-space: nowrap; }
+.nome { font-weight: 600; }
+.badge { font-size: .78rem; opacity: .65; }
+.marca { margin-left: auto; font-size: .78rem; white-space: nowrap; }
+details.nota[data-m="l"] .marca { color: #2f9e58; }
+details.nota[data-m="p"] .marca { color: #c9a227; }
+details.nota[data-m="n"] .marca { color: #c0392b; }
+details.nota[data-m="l"] > summary .nome { opacity: .55; }
+.conteudo { padding: .2rem .4rem .6rem 1.4rem; }
+.acoes { display: flex; flex-wrap: wrap; gap: .5rem; padding: .3rem 0 1.1rem 1.6rem; }
+.m.d { display: block; text-align: center; margin: .8rem 0; overflow-x: auto; }
+.conteudo { overflow-wrap: anywhere; }
+.conteudo table { display: block; max-width: 100%; overflow-x: auto; }
+body.cloze .conteudo strong:not(.aberto) {
+  filter: blur(.4em); cursor: pointer; user-select: none; transition: filter .15s;
+}
+body.cloze .conteudo strong.aberto { background: rgba(201,162,39,.25); border-radius: 3px; }
 h4, h5, h6 { margin: 1.2rem 0 .4rem; }
 h4 { font-size: 1.05rem; } h5 { font-size: .95rem; } h6 { font-size: .9rem; opacity: .8; }
 p { margin: .6rem 0; }
@@ -314,28 +409,167 @@ dl.frontmatter dd { margin: 0; }
 """
 
 
+RE_TOTAL = re.compile(r"^total:\s*(\d+)", re.M)
+RE_ACERTOS = re.compile(r"^acertos:\s*(\d+)", re.M)
+
+KATEX = """<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>"""
+JS = r"""
+(function () {
+  var DIA = "__DIA__";
+  var ROT = { l: "✓ lembrei", p: "~ parcial", n: "✗ não lembrei" };
+  var notas = [].slice.call(document.querySelectorAll("details.nota"));
+
+  function ler(k) { try { return localStorage.getItem("s1:" + DIA + ":" + k); } catch (e) { return null; } }
+  function gravar(k, v) {
+    try { if (v) localStorage.setItem("s1:" + DIA + ":" + k, v); else localStorage.removeItem("s1:" + DIA + ":" + k); }
+    catch (e) {}
+  }
+
+  function pintar(d) {
+    var m = ler(d.dataset.k) || "";
+    d.dataset.m = m;
+    d.querySelector(".marca").textContent = m ? ROT[m] : "";
+  }
+  function contar() {
+    var c = { l: 0, p: 0, n: 0 };
+    notas.forEach(function (d) { if (d.dataset.m) c[d.dataset.m]++; });
+    document.getElementById("cont").textContent =
+      (c.l + c.p + c.n) + "/" + notas.length + " revisadas · ✓ " + c.l + " · ~ " + c.p + " · ✗ " + c.n;
+  }
+
+  function foco(d) {
+    var s = d.querySelector("summary");
+    s.focus();
+    s.scrollIntoView({ block: "center", behavior: "smooth" });
+  }
+  function atual() {
+    var a = document.activeElement, d = a && a.closest ? a.closest("details.nota") : null;
+    return d || notas.filter(function (x) { return x.open; })[0] || notas[0];
+  }
+  // Depois de marcar: fecha a nota e leva o foco pra próxima SEM marca — sem abrir, pra
+  // manter recuperar-antes-de-reler.
+  function marcar(d, m) {
+    gravar(d.dataset.k, d.dataset.m === m ? "" : m);
+    pintar(d); contar(); d.open = false;
+    var i = notas.indexOf(d), prox = null;
+    for (var j = 1; j <= notas.length; j++) {
+      var x = notas[(i + j) % notas.length];
+      if (!x.dataset.m) { prox = x; break; }
+    }
+    foco(prox || d);
+  }
+
+  function tudo() {
+    var abrir = notas.some(function (d) { return !d.open; });
+    notas.forEach(function (d) { d.open = abrir; });
+    document.getElementById("b-tudo").textContent = abrir ? "Recolher tudo" : "Expandir tudo";
+  }
+  function cloze() {
+    document.getElementById("b-cloze").classList.toggle("on", document.body.classList.toggle("cloze"));
+  }
+
+  notas.forEach(function (d) {
+    pintar(d);
+    [].forEach.call(d.querySelectorAll(".acoes button"), function (b) {
+      b.addEventListener("click", function () { marcar(d, b.dataset.m); });
+    });
+  });
+  contar();
+  document.getElementById("b-tudo").addEventListener("click", tudo);
+  document.getElementById("b-cloze").addEventListener("click", cloze);
+  document.getElementById("b-limpar").addEventListener("click", function () {
+    if (!confirm("Limpar as marcas de hoje?")) return;
+    notas.forEach(function (d) { gravar(d.dataset.k, ""); pintar(d); });
+    contar();
+  });
+  document.addEventListener("click", function (e) {
+    var t = e.target;
+    if (document.body.classList.contains("cloze") && t.tagName === "STRONG" && t.closest(".conteudo"))
+      t.classList.toggle("aberto");
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.metaKey || e.ctrlKey || e.altKey || !notas.length) return;
+    var k = e.key;
+    if (k === "j" || k === "k") {
+      e.preventDefault();
+      var i = notas.indexOf(atual());
+      foco(notas[k === "j" ? Math.min(notas.length - 1, i + 1) : Math.max(0, i - 1)]);
+    } else if (k === "1" || k === "2" || k === "3") {
+      marcar(atual(), { "1": "l", "2": "p", "3": "n" }[k]);
+    } else if (k === "e") { tudo(); }
+    else if (k === "c") { cloze(); }
+  });
+
+  // KaTeX: renderiza cada .m pelo LaTeX guardado (não varre o texto atrás de $, então
+  // "R$ 100" nunca vira fórmula). Se o KaTeX não carregar, o LaTeX cru continua legível.
+  window.addEventListener("load", function () {
+    if (!window.katex) return;
+    [].forEach.call(document.querySelectorAll(".m"), function (el) {
+      try {
+        katex.render(el.dataset.tex, el, { displayMode: el.classList.contains("d"), throwOnError: false });
+      } catch (e) {}
+    });
+  });
+})();
+"""
+
+
+def resumo_caderno(texto):
+    """'20/23 · 87%' para nota de caderno (frontmatter acrescentado com total/acertos)."""
+    t, a = RE_TOTAL.search(texto), RE_ACERTOS.search(texto)
+    if not (t and a) or int(t.group(1)) == 0:
+        return ""
+    total, acertos = int(t.group(1)), int(a.group(1))
+    return f"{acertos}/{total} · {round(100 * acertos / total)}%"
+
+
 def montar_pagina(itens):
     ontem = (datetime.now().date() - timedelta(days=1)).isoformat()
-    partes = [f"<!doctype html><meta charset=utf-8><title>S1 — ontem</title><style>{CSS}</style>",
+    partes = [f'<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">'
+              f"<title>S1 — ontem</title>{KATEX}<style>{CSS}</style>",
               "<h1>S1 — o que entrou ontem</h1>",
-              f'<div class="sub">bloco 3 · arquivos com mtime de {ontem} + cadernos com data {ontem} · gerado por s1-ontem.py</div>']
+              f'<div class="sub">arquivos com mtime de {ontem} + cadernos com data {ontem} · gerado por s1-ontem.py</div>']
 
     if not itens:
         partes.append(
             f'<div class="vazio">Nenhum arquivo com mtime de {ontem} em MATERIAS, Questoes ou Erradas. '
             "Nota editada ontem e reaberta hoje conta como hoje — ver aviso do bloco 1.</div>"
         )
+        return "\n".join(partes)
+
+    partes.append(
+        '<div class="barra"><strong id="cont"></strong><span class="sp"></span>'
+        '<button id="b-tudo">Expandir tudo</button><button id="b-cloze">Cloze</button>'
+        '<button id="b-limpar">Limpar marcas</button></div>'
+        '<div class="ajuda">Leia só os nomes e tente lembrar o que você acrescentou; abra depois. '
+        "j/k navegam · Enter abre · 1 lembrei · 2 parcial · 3 não lembrei · e abre/fecha tudo · "
+        "c cloze (borra os termos em negrito; clique para revelar)</div>"
+    )
 
     for hora, caminho, texto in itens:
-        partes.append('<div class="arquivo">')
-        partes.append(f'<h3><span class="hora">{escape(hora)}</span> · {escape(caminho)}</h3>')
+        nome = caminho[:-3] if caminho.endswith(".md") else caminho
+        obsidian = f"obsidian://open?vault={quote(VAULT.name)}&file={quote(nome, safe='')}"
+        badge = resumo_caderno(texto)
+        partes.append(f'<details class="nota" data-k="{escape(caminho)}">')
+        partes.append(
+            f'<summary><span class="hora">{escape(hora)}</span><span class="nome">{escape(nome)}</span>'
+            + (f'<span class="badge">{escape(badge)}</span>' if badge else "")
+            + '<span class="marca"></span></summary>'
+        )
         if texto.strip():
-            partes.append(render_markdown(texto))
+            partes.append(f'<div class="conteudo">{render_markdown(texto)}</div>')
         else:
-            partes.append('<div class="vazio">Sem texto novo no git desde ontem 00:00 '
+            partes.append('<div class="conteudo vazio">Sem texto novo no git desde ontem 00:00 '
                           "(commitado antes, ou só reformatado).</div>")
-        partes.append("</div>")
+        partes.append(
+            '<div class="acoes"><button data-m="l">1 · Lembrei</button>'
+            '<button data-m="p">2 · Parcial</button><button data-m="n">3 · Não lembrei</button>'
+            f'<a href="{escape(obsidian)}">Abrir no Obsidian ↗</a></div>'
+        )
+        partes.append("</details>")
 
+    partes.append(f"<script>{JS.replace('__DIA__', ontem)}</script>")
     return "\n".join(partes)
 
 
