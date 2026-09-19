@@ -2,9 +2,17 @@
 """
 s1-ontem.py — versão legível do bloco 3 do painel "S1 - Revisão de ontem".
 
-Mesma consulta git do PY/s1-ontem.sh -p, mas em vez de despejar diff no
+Mesma consulta do PY/s1-ontem.sh -p, mas em vez de despejar diff no
 terminal, monta uma página HTML (markdown-lite renderizado) e abre no
 navegador padrão. Resolve só a leitura — nenhuma fonte nova de dado.
+
+QUAIS arquivos: por mtime (mesma regra do bloco 1 do painel) — é a única fonte
+do momento real da escrita; a data de commit atribui tudo ao dia em que você
+lembrou de commitar. Também entram os cadernos de Questoes/Diario com `data:` de ontem no frontmatter,
+mesmo com mtime de hoje (importação/reescrita) — espelha o bloco 2 do painel.
+QUAL texto: linhas acrescentadas nesses arquivos nos
+commits desde ontem 00:00 (sem limite superior, pra pegar commit de recuperação
+feito hoje) + o que ainda não foi commitado.
 
 Uso:  python3 ~/…/vault-ba/PY/s1-ontem.py
 """
@@ -14,12 +22,13 @@ import subprocess
 import sys
 import tempfile
 import webbrowser
+from datetime import datetime, time, timedelta
 from html import escape
 from pathlib import Path
 
 VAULT = Path(__file__).resolve().parent.parent
-PATHSPEC = ["MATERIAS", "Questoes", "Erradas", ":!Questoes/Paineis"]
-RS, FS = "\x1e", "\x1f"  # separadores que não aparecem em texto normal
+PASTAS = ["MATERIAS", "Questoes", "Erradas"]
+IGNORAR = "Questoes/Paineis"  # espelha o -"Questoes/Paineis" do bloco 1
 
 
 def git(*args):
@@ -29,16 +38,49 @@ def git(*args):
     ).stdout
 
 
-def commits_de_ontem():
-    out = git(
-        "log", "--since=yesterday.midnight", "--until=today.midnight", "-p",
-        f"--format={RS}%ad{FS}%s", "--date=format:%H:%M",
-        "--", *PATHSPEC,
-    )
-    for chunk in out.split(RS)[1:]:
-        header, _, body = chunk.partition("\n")
-        hora, _, assunto = header.partition(FS)
-        yield hora, assunto, parse_diff(body)
+def arquivos_de_ontem():
+    """[(hora, caminho_relativo)]: mtime de ontem em ordem de horário, depois os
+    cadernos de ontem (data no frontmatter) que o mtime deixou de fora."""
+    ontem = datetime.now().date() - timedelta(days=1)
+    ini = datetime.combine(ontem, time.min)
+    fim = ini + timedelta(days=1)
+    achados, vistos = [], set()
+    for pasta in PASTAS:
+        for f in (VAULT / pasta).rglob("*.md"):
+            rel = f.relative_to(VAULT).as_posix()
+            if rel.startswith(IGNORAR + "/"):
+                continue
+            m = datetime.fromtimestamp(f.stat().st_mtime)
+            if ini <= m < fim:
+                achados.append((m, rel))
+                vistos.add(rel)
+    achados.sort()
+    itens = [(m.strftime("%H:%M"), rel) for m, rel in achados]
+
+    marca = re.compile(rf"^data:\s*{ontem.isoformat()}\s*$", re.M)
+    extras = []
+    for f in (VAULT / "Questoes" / "Diario").glob("*.md"):
+        rel = f.relative_to(VAULT).as_posix()
+        if rel in vistos:
+            continue
+        cabeca = f.read_text(encoding="utf-8").split("\n---", 2)[0]
+        if marca.search(cabeca):
+            m = datetime.fromtimestamp(f.stat().st_mtime)
+            extras.append((rel, f"hoje {m:%H:%M}" if m >= fim else m.strftime("%d/%m %H:%M")))
+    return itens + sorted((h, rel) for rel, h in extras)
+
+
+def texto_acrescentado(rel):
+    """Linhas acrescentadas em `rel` nos commits desde ontem 00:00 + não commitado."""
+    if not git("ls-files", "--", rel).strip():  # não rastreado: o arquivo inteiro é novo
+        return (VAULT / rel).read_text(encoding="utf-8")
+    pedacos = []
+    for out in (
+        git("log", "--since=yesterday.midnight", "-p", "--format=", "--", rel),
+        git("diff", "HEAD", "--no-color", "--", rel),
+    ):
+        pedacos += [t for _, t in parse_diff(out)]
+    return "\n\n".join(pedacos)
 
 
 def parse_diff(body):
@@ -64,21 +106,6 @@ def parse_diff(body):
     if caminho is not None:
         arquivos.append((caminho, "\n".join(linhas)))
     return [(c, t) for c, t in arquivos if t.strip()]
-
-
-def nao_commitado():
-    out = git("status", "--short", "--", *PATHSPEC)
-    linhas = [l for l in out.splitlines() if l.strip()]
-    rotulo = {"M": "modificado", "A": "novo", "D": "apagado", "R": "renomeado",
-              "??": "não rastreado"}
-    itens = []
-    for l in linhas:
-        cod, caminho = l[:2].strip(), l[3:]
-        # git aspeia (C-style) caminho com acento/parênteses mesmo com
-        # core.quotepath=false — isso só evita o escape \NNN, não a aspa.
-        caminho = caminho.strip('"')
-        itens.append((rotulo.get(cod, cod), caminho))
-    return itens
 
 
 # --------------------------------------------------------------------------
@@ -256,9 +283,7 @@ body {
 @media (prefers-color-scheme: dark) { body { color: #e7e7e5; background: #16161a; } }
 h1 { font-size: 1.5rem; margin-bottom: .2rem; }
 .sub { opacity: .6; margin-bottom: 2.5rem; }
-.commit { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid rgba(128,128,128,.25); }
-.commit h2 { font-size: 1.05rem; margin: 0 0 1.2rem; }
-.commit h2 .hora { opacity: .55; font-weight: 400; }
+.arquivo .hora { font-weight: 400; }
 .arquivo { margin: 1.6rem 0 0; }
 .arquivo h3 {
   font-size: .8rem; text-transform: uppercase; letter-spacing: .03em;
@@ -285,49 +310,38 @@ dl.frontmatter {
 }
 dl.frontmatter dt { font-weight: 600; }
 dl.frontmatter dd { margin: 0; }
-.pendente { margin-top: 3.5rem; }
-.pendente h2 { font-size: 1.05rem; opacity: .7; }
-.pendente ul { list-style: none; padding: 0; }
-.pendente li { font-family: ui-monospace, monospace; font-size: .9rem; opacity: .8; }
 .vazio { opacity: .5; font-style: italic; margin-top: 3rem; }
 """
 
 
-def montar_pagina(blocos, pendentes):
+def montar_pagina(itens):
+    ontem = (datetime.now().date() - timedelta(days=1)).isoformat()
     partes = [f"<!doctype html><meta charset=utf-8><title>S1 — ontem</title><style>{CSS}</style>",
               "<h1>S1 — o que entrou ontem</h1>",
-              '<div class="sub">bloco 3 · gerado por s1-ontem.py</div>']
+              f'<div class="sub">bloco 3 · arquivos com mtime de {ontem} + cadernos com data {ontem} · gerado por s1-ontem.py</div>']
 
-    if not blocos:
-        partes.append('<div class="vazio">Nenhum commit tocou MATERIAS, Questoes ou Erradas ontem.</div>')
+    if not itens:
+        partes.append(
+            f'<div class="vazio">Nenhum arquivo com mtime de {ontem} em MATERIAS, Questoes ou Erradas. '
+            "Nota editada ontem e reaberta hoje conta como hoje — ver aviso do bloco 1.</div>"
+        )
 
-    for hora, assunto, arquivos in blocos:
-        partes.append('<div class="commit">')
-        partes.append(f'<h2><span class="hora">{escape(hora)}</span> · {inline(assunto)}</h2>')
-        for caminho, texto in arquivos:
-            partes.append('<div class="arquivo">')
-            partes.append(f"<h3>{escape(caminho)}</h3>")
+    for hora, caminho, texto in itens:
+        partes.append('<div class="arquivo">')
+        partes.append(f'<h3><span class="hora">{escape(hora)}</span> · {escape(caminho)}</h3>')
+        if texto.strip():
             partes.append(render_markdown(texto))
-            partes.append("</div>")
+        else:
+            partes.append('<div class="vazio">Sem texto novo no git desde ontem 00:00 '
+                          "(commitado antes, ou só reformatado).</div>")
         partes.append("</div>")
-
-    partes.append('<div class="pendente">')
-    partes.append("<h2>Ainda não commitado (não aparece acima)</h2>")
-    if pendentes:
-        partes.append("<ul>" + "".join(
-            f"<li>{rotulo} · {escape(caminho)}</li>" for rotulo, caminho in pendentes
-        ) + "</ul>")
-    else:
-        partes.append('<div class="vazio">Nada pendente.</div>')
-    partes.append("</div>")
 
     return "\n".join(partes)
 
 
 def main():
-    blocos = list(commits_de_ontem())
-    pendentes = nao_commitado()
-    html = montar_pagina(blocos, pendentes)
+    itens = [(h, rel, texto_acrescentado(rel)) for h, rel in arquivos_de_ontem()]
+    html = montar_pagina(itens)
 
     destino = Path(tempfile.gettempdir()) / "s1-ontem.html"
     destino.write_text(html, encoding="utf-8")
