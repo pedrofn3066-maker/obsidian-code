@@ -16,27 +16,27 @@ prioridade: crítico
 
 *Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM). Sem percentual publicado (tema novo) — a VINTEUM só dá ordem de prioridade dentro de cada faixa.*
 
-| Bloco | Assunto | Prioridade |
-| --- | --- | --- |
-| Bloco II | EC nº 132/2023 (IBS) | ALTA |
-| Bloco I | EC nº 132/2023 (geral) | ALTA |
-| Bloco III | Disposições Preliminares. IBS/CBS sobre Operações I | ALTA |
-| Bloco X | Administração do IBS/CBS. Comitê Gestor | ALTA |
-| Bloco IV | IBS/CBS sobre Operações II | ALTA |
-| Bloco V/VI | IBS/CBS sobre Operações III/IV | ALTA |
-| Bloco XI | Comitê Gestor — LC nº 227/2026 | ALTA |
-| Bloco Extra | Imposto Seletivo. Avaliação Quinquenal | MÉDIA |
-| Bloco IX | Regimes Específicos | MÉDIA |
-| Bloco XII | PAT. Distribuição. Transição do ICMS | MÉDIA |
-| Bloco VII/VIII | Operacionalização/Importações-Exportações. Cashback. Regimes Diferenciados | MÉDIA |
+| Bloco          | Assunto                                                                    | Prioridade |
+| -------------- | -------------------------------------------------------------------------- | ---------- |
+| Bloco II       | EC nº 132/2023 (IBS)                                                       | ALTA       |
+| Bloco I        | EC nº 132/2023 (geral)                                                     | ALTA       |
+| Bloco III      | Disposições Preliminares. IBS/CBS sobre Operações I                        | ALTA       |
+| Bloco X        | Administração do IBS/CBS. Comitê Gestor                                    | ALTA       |
+| Bloco IV       | IBS/CBS sobre Operações II                                                 | ALTA       |
+| Bloco V/VI     | IBS/CBS sobre Operações III/IV                                             | ALTA       |
+| Bloco XI       | Comitê Gestor — LC nº 227/2026                                             | ALTA       |
+| Bloco Extra    | Imposto Seletivo. Avaliação Quinquenal                                     | MÉDIA      |
+| Bloco IX       | Regimes Específicos                                                        | MÉDIA      |
+| Bloco XII      | PAT. Distribuição. Transição do ICMS                                       | MÉDIA      |
+| Bloco VII/VIII | Operacionalização/Importações-Exportações. Cashback. Regimes Diferenciados | MÉDIA      |
 
 ## Checklist por importância (VINTEUM)
 
 *Sem percentual publicado pela VINTEUM para este tema (novo) — peso aqui é só ALTA=2 / MÉDIA=1, não um percentual real.*
 
-- [ ] EC nº 132/2023 (IBS) [dom:: 0] [peso:: 2]
-- [ ] EC nº 132/2023 (geral) [dom:: 0] [peso:: 2]
-- [ ] Disposições Preliminares. IBS/CBS sobre Operações I [dom:: 0] [peso:: 2]
+- [ ] EC nº 132/2023 (IBS) [dom:: 4] [peso:: 2]
+- [ ] EC nº 132/2023 (geral) [dom:: 3] [peso:: 2]
+- [x] Disposições Preliminares. IBS/CBS sobre Operações I [dom:: 2] [peso:: 2] ✅ 2026-09-18
 - [ ] Administração do IBS/CBS. Comitê Gestor [dom:: 0] [peso:: 2]
 - [ ] IBS/CBS sobre Operações II [dom:: 0] [peso:: 2]
 - [ ] IBS/CBS sobre Operações III/IV [dom:: 0] [peso:: 2]
@@ -65,7 +65,13 @@ Facilitadores de leitura da lei seca: [[Resumo EC 132-2023 Reforma Tributaria (V
 
 # BLOCO 1 . EC 132: IBS, CBS e Comitê Gestor
 
-## Competências do IBS e da CBS
+## EC nº 132/2023 (IBS)
+
+## EC nº 132/2023 (geral)
+
+## Disposições Preliminares. IBS/CBS sobre Operações I
+
+## Competências do IBS e da CBS (**GURUJA**)
 - [ ] status [dom:: 0] [peso:: 3]
 
 CF/88, art. 156-A e art. 195; LC nº 214/25, art. 1º.
@@ -75,7 +81,7 @@ CF/88, art. 156-A e art. 195; LC nº 214/25, art. 1º.
 | **IBS** — Imposto sobre Bens e Serviços | <mark style="background:#fff88f">compartilhada</mark> entre Estados, Municípios e Distrito Federal |
 | **CBS** — Contribuição Social sobre Bens e Serviços | <mark style="background:#fff88f">exclusiva</mark> da União |
 
-## Comitê Gestor do IBS: distribuição do produto da arrecadação
+## Comitê Gestor do IBS: distribuição do produto da arrecadação (**GURUJA**)
 - [ ] status [dom:: 0] [peso:: 3]
 
 **Papel da lei complementar (LC nº 214/2025)** — para o IBS, cabe à LC dispor sobre:
@@ -164,7 +170,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 # BLOCO 3 . LC 214: Modalidades de Extinção, Pagamento Indevido, Ressarcimento, Não Cumulatividade e Regimes de Apuração
 # BLOCO 4 . LC 214: Operacionalização, Cashback, Cesta Básica Nacional, Importações e Exportações
-
+- [x] status [dom:: 2] [peso:: 1] ✅ 2026-09-18
 **Drawback**: as modalidades de isenção e restituição do drawback não se aplicam ao IBS e à CBS.
 
 > [!note] Nota
@@ -173,7 +179,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 # BLOCO 5 . LC 214: Administração do IBS e da CBS e Imposto Seletivo
 
 ## Contencioso administrativo: Comitê de Harmonização e delegação do julgamento
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3.5] [peso:: 3]
 
 LC nº 214/2025, arts. 326 e ss. (contencioso administrativo do IBS/CBS).
 

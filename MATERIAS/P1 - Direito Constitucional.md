@@ -36,14 +36,14 @@ prioridade: importante
 
 - [ ] Jurisprudência em Matéria Constitucional [dom:: 0] [peso:: 20.3]
 - [ ] Dos Direitos e Deveres Individuais e Coletivos (art. 5º CF/88) [dom:: 4] [peso:: 11.0]
-- [ ] Controle de Constitucionalidade [dom:: 3] [peso:: 9.2]
+- [ ] Controle de Constitucionalidade [dom:: 2] [peso:: 9.2]
 - [ ] Sistema Tributário Nacional [dom:: 4] [peso:: 6.9]
 - [ ] Poder Judiciário [dom:: 0] [peso:: 6.5]
 - [ ] Processo Legislativo [dom:: 3] [peso:: 6.4]
-- [ ] Administração Pública [dom:: 4] [peso:: 6.0]
+- [ ] Administração Pública [dom:: 3] [peso:: 6.0]
 - [ ] Poder Legislativo [dom:: 0] [peso:: 4.7]
 - [ ] Funções Essenciais à Justiça [dom:: 3] [peso:: 4.6]
-- [ ] Direitos Políticos [dom:: 3] [peso:: 3.2]
+- [ ] Direitos Políticos [dom:: 2] [peso:: 3.2]
 - [ ] Competências da União [dom:: 0] [peso:: 3.2]
 - [ ] Eficácia das Normas Constitucionais [dom:: 3] [peso:: 2.8]
 - [ ] Nacionalidade [dom:: 0] [peso:: 2.3]
@@ -396,11 +396,96 @@ A pirâmide representa bem como funciona a hierarquia das normas.
  
 ## - Princípios Fundamentais (art. 1º a 4º);
 - [ ] status [dom:: 0] [peso:: 2]
+
+## Dos Direitos e Deveres Individuais e Coletivos (art. 5º CF/88)
+- [ ] status [dom:: 0] [peso:: 2]
+
+**Isonomia** (art. 5º, caput): tem como fundamento a dignidade da pessoa humana — busca tratamento igualitário para os iguais e diferenciado para os desiguais, tanto na feitura quanto na aplicação do sistema normativo, até se alcançar a igualdade material.
+
+**Princípio da legalidade x princípio da reserva legal** (Marcelo Novelino): a legalidade tem abrangência mais ampla, incidindo sobre todas as espécies normativas elaboradas em conformidade com o processo legislativo constitucional (leis em sentido amplo); a reserva legal incide apenas sobre campos materiais específicos, submetidos exclusivamente ao tratamento do Poder Legislativo (leis em sentido estrito, exigidas por norma constitucional expressa).
+
+→ **Direito à Vida** - art. 5º, caput. Abrange vida intrauterina e extrauterina e o direito a uma vida digna; não é absoluto:
+- STF: possibilidade de aborto de feto anencéfalo.
+- STF: possibilidade de pesquisa com células-tronco de embriões descartados.
+- CF/88 admite pena de morte em caso de guerra declarada.
+
+→ **Direito à Igualdade** - art. 5º, caput e I. Igualdade formal (todos iguais perante a lei) x igualdade material (tratamento diferenciado para equilibrar desigualdades históricas). STF: ações afirmativas, como cotas raciais, são aceitas.
+
+→ **Vedação à tortura** - art. 5º, III. Decorre diretamente da dignidade da pessoa humana. ⚠️ Direito relativizável em regra, mas aqui a CF não previu exceção — em nenhuma situação é admitida tortura ou tratamento desumano ou degradante.
+
+→ **Liberdade de Consciência, Crença e Convicção Filosófica** - art. 5º, VI a VIII. Liberdade religiosa (exercício dos cultos, VI); assistência religiosa garantida em entidades civis e militares (VII); escusa de consciência pode ser invocada, mas o indivíduo que não cumprir prestação alternativa pode ser privado de direitos (VIII).
+
+→ **Liberdade de Expressão e Direito de Resposta** - art. 5º, IV, V e IX. STF tem posicionamento pacífico quanto à inexistência de autorização prévia para o exercício da liberdade de expressão, sendo constitucionais os arts. 20 e 21 do Código Civil — o que enseja direito de resposta e eventual indenização.
+
+→ **Intimidade, vida privada, honra e imagem** - art. 5º, X. Violação fora dos casos legais ou autorizados judicialmente gera indenização por dano material ou moral.
+- STF: é constitucional a publicação do nome e dos vencimentos dos servidores públicos — a privacidade dos agentes públicos é relativa.
+- STF: não é necessária autorização prévia do biografado ou de sua família para publicação de biografia; biografias não autorizadas são admitidas.
+- STF: sigilo bancário pode ser quebrado, mediante fundamentação, por Poder Judiciário; CPIs federais e estaduais (as municipais não podem); autoridades fiscais (Lei nº 105), havendo processo administrativo instaurado ou procedimento fiscal em curso, ou quando as informações forem indispensáveis; Ministério Público (STJ, em conta de entes públicos; STF, em defesa do patrimônio público).
+
+→ **Inviolabilidade domiciliar** - art. 5º, XI. Regra: não se entra em casa sem consentimento do morador. STF: conceito de casa abrange compartimento habitado, aposento de ocupação coletiva, aposento privado não aberto ao público, e o domicílio profissional. Exceções: com consentimento do morador, a qualquer hora; sem consentimento, sob ordem judicial durante o dia, ou em flagrante delito, desastre ou para prestar socorro, a qualquer hora.
+
+→ **Sigilo da correspondência e das comunicações** - art. 5º, XII. Quebra de sigilo das comunicações telefônicas (acesso ao histórico de ligações): autorizada por Poder Judiciário ou CPI. Interceptação (acesso às gravações): autorizada apenas por Poder Judiciário. Requisitos: ordem judicial, investigação criminal ou instrução processual penal em curso, e lei que preveja hipóteses e forma.
+
+→ **Direito de reunião** - art. 5º, XVI. Não exige autorização, apenas prévio aviso; fins pacíficos; local aberto ao público, sem atrapalhar reunião avisada antes. Elementos: pluralidade de participantes, tempo (duração limitada), finalidade (lícita, pacífica, sem armas) e lugar (determinado, podendo ser móvel, como em passeatas). ⚠️ Uma pessoa armada durante a reunião não é motivo, por si só, para sua dissolução.
+
+→ **Liberdade de associação** - art. 5º, XVII a XXI. Independe de autorização estatal e de personalidade jurídica; ninguém é obrigado a se associar ou a permanecer associado; suspensão só por decisão judicial, dissolução só por decisão judicial transitada em julgado; vedada associação de caráter paramilitar.
+- Representação judicial (XXI): associação, em regra, precisa de autorização expressa dos associados para defender seus interesses em juízo — exceto o mandado de segurança coletivo (substituição processual, autorização genérica, Súmula 629/STF). Apenas os associados que autorizaram a representação ficam sujeitos à execução do título judicial.
+- 🚨 Sindicato não precisa de autorização dos filiados.
+
+→ **Direito à Informação** - art. 5º, XXXIII. Titulares: pessoas físicas e jurídicas, nacionais e estrangeiras. Abrange órgãos públicos e, excepcionalmente, órgãos privados que prestem serviços públicos. O indivíduo só pode requisitar informações suas ou de interesse coletivo, nunca de terceiros. A informação é a regra; o sigilo, exceção apenas quando imprescindível à segurança da sociedade e do Estado. Negativa cabe mandado de segurança. ✅ STF: pode haver publicação de remuneração, cargos, funções e órgãos de lotação dos servidores públicos.
+
+→ **Direito de petição e obtenção de certidões** - art. 5º, XXXIV. Titulares: pessoas físicas e jurídicas, nacionais e estrangeiras; gratuito. Petição: defesa de direitos contra ilegalidade e abuso de poder. Certidão: defesa de direitos e esclarecimento de situações de interesse particular. ⚠️ Não confundir: negativa de certidão cabe mandado de segurança; habeas data serve para requisitar informações pessoais em órgãos públicos, não para obter certidão.
+
+→ **Inafastabilidade de jurisdição** - art. 5º, XXXV. Brasil adota o sistema inglês de jurisdição (jurisdição una): só o Poder Judiciário faz coisa julgada material — diferente do sistema francês, com duas cortes (judiciário e administrativo). Decisões de outros Poderes sempre podem ser levadas ao Judiciário. STF: duplo grau de jurisdição não é garantia constitucional nem obrigatório.
+
+→ **Direito adquirido, ato jurídico perfeito e coisa julgada** - art. 5º, XXXVI. Direito adquirido: ato consumado, incorporado ao patrimônio do titular por ter cumprido todos os requisitos da lei vigente à época — não pode mais ser alterado. STF: aplica-se a atos normativos de direito público ou privado. Ato jurídico perfeito: exercido conforme a lei vigente ao tempo do ato; situação consolidada, não desconstituível por lei posterior (não confundir com expectativa de direito, em que os requisitos não foram todos cumpridos). Coisa julgada: decisão final irrecorrível.
+
+→ **Princípio do juiz natural** - art. 5º, XXXVII. Veda tribunal ou juízo de exceção; só julga quem tem competência prevista constitucionalmente.
+
+→ **Júri popular** - art. 5º, XXXVIII. Características: plenitude de defesa, sigilo das votações, soberania dos veredictos, competência para julgar crimes dolosos contra a vida.
+- STF: legislação estadual não pode criar órgão que invada a competência do júri.
+- STF: foro especial delimitado pela CF afasta a competência do júri; foro delimitado por Constituição Estadual não afasta.
+- STF: vereadores que cometem crimes dolosos contra a vida são julgados pelo júri, mesmo com foro especial de origem estadual.
+- STF: a soberania do júri não afasta a recorribilidade de decisão manifestamente contrária às provas dos autos.
+
+→ **Irretroatividade da lei** - art. 5º, XL. Leis penais incriminadoras não atingem fatos pretéritos; lei benéfica pode retroagir.
+
+→ **Imprescritibilidade e inafiançabilidade** - art. 5º, XLII a XLIV. Inafiançáveis: racismo, ação de grupos armados, tráfico, terrorismo, tortura, crimes hediondos. Imprescritíveis: racismo e ação de grupos armados (bizu: RAÇÃO). Insuscetíveis de graça/anistia: tráfico, terrorismo, tortura, hediondos (bizu: 3TH não tem graça).
+- STF: omissão legislativa quanto à tipificação de homofobia e transfobia — até tipificação, aplicam-se as penas do crime de racismo.
+- STF: injúria racial é espécie do crime de racismo, também imprescritível.
+
+→ **Intranscendência da pena** - art. 5º, XLV. Efeitos penais não se transmitem a terceiros; já a reparação de danos e o perdimento de bens podem ser transmitidos aos sucessores, no limite do patrimônio transferido. ⚠️ Não confundir reparação de dano/perda de bem (transmissíveis) com pena de multa ou de prestação pecuniária (intransmissíveis, por serem penas).
+
+→ **Individualização da pena, penas proibidas, execução da pena e direitos dos detentos** - art. 5º, XLVI a L. Características pessoais do agente (idade, gênero, natureza do delito) definem a individualização — crianças, mulheres e idosos ficam em estabelecimento diferenciado. Penas proibidas: morte (exceto guerra declarada), caráter perpétuo, trabalhos forçados, banimento, cruéis.
+- STF: inconstitucional vedar progressão de regime a crimes hediondos.
+- STF: sem estabelecimento adequado, o agente não pode permanecer em regime mais gravoso.
+- STF cunhou a expressão "estado de coisas inconstitucional" para as falhas estruturais das penitenciárias brasileiras (violação massiva e persistente de direitos fundamentais).
+- STF: Estado responde por danos, inclusive morais, decorrentes de condições de encarceramento insuficientes.
+- Inciso L: garante às mães o direito à amamentação e ao contato com o filho, observado o princípio do melhor interesse da criança.
+
+→ **Devido processo legal, contraditório e ampla defesa** - art. 5º, LIII a LV. Ninguém é condenado, judicial ou administrativamente, sem chance de defesa perante autoridade competente; a ampla defesa permite o uso de todos os meios lícitos de prova; o contraditório assegura contradizer o que foi levantado contra o acusado.
+- STF: sindicância preparatória que resulta em PAD não exige ampla defesa e contraditório; se a sindicância for encerrada com aplicação de pena sem virar PAD, exige-se ampla defesa e contraditório.
+- STF: não é obrigatória a presença de advogado no PAD.
+
+→ **Direitos do preso** - art. 5º, LXI a LXVI. Prisão só em flagrante delito ou por mandado judicial escrito e fundamentado (ressalva: transgressão militar ou crime propriamente militar). Direito à comunicação imediata da prisão a juiz e família; direito de ser informado de seus direitos (silêncio, assistência familiar e de advogado) e de saber a identidade do responsável pela prisão/interrogatório, sem ressalvas constitucionais. Prisão ilegal deve ser relaxada de imediato pelo juiz — "relaxar" (prisão ilegal) não é o mesmo que "revogar" (prisão legal e legítima). Havendo previsão de liberdade provisória ou fiança, a regra é não manter a prisão.
+- STF: falta de comunicação do direito ao silêncio torna nulo o depoimento; o silêncio não prejudica o réu.
+- STF: o réu pode negar, ainda que falsamente, a prática da conduta (autodefesa), mas não pode mentir sobre outros fatos para atrapalhar a justiça.
+- STF: algemas só em casos especiais, como risco de fuga ou perigo a si mesmo.
+- STF: audiência de custódia deve ocorrer em até 24 horas da prisão.
+
+→ **Prisão civil por dívida** - art. 5º, LXVII. Único caso adotado no Brasil: inadimplemento voluntário e inescusável de obrigação alimentícia. STF: ilícita a prisão civil do depositário infiel, em qualquer modalidade de depósito. ⚠️ A literalidade do inciso (que também prevê a prisão do depositário infiel) subsiste no texto constitucional, mas o Pacto de San Jose da Costa Rica (efeito supralegal) afasta sua aplicação — apenas a prisão por dívida alimentícia é válida hoje.
+
+→ **Documentos gratuitos para a defesa do cidadão** - art. 5º, LXXVI. Literalidade: gratuitos aos reconhecidamente pobres (registro civil de nascimento e certidão de óbito); STF pacificou que a gratuidade, incluindo a primeira certidão, vale para todos os cidadãos. Habeas corpus e habeas data são gratuitos a todos. Aos que comprovarem insuficiência de recursos: assistência jurídica gratuita.
 ## Remédios Constitucionais (art. 5º, LXVIII a LXXIII e LXXVII da CF/1988)
 
 ### - Habeas Corpus
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/377?indice=1&materia=370)
+
+- Finalidade: proteger a liberdade de locomoção contra ilegalidade ou abuso de poder; formas repressiva (violência/coação em curso) ou preventiva (ameaça). Natureza penal.
+- Legitimidade ativa: qualquer pessoa física ou jurídica, MP, Defensoria Pública (legitimidade universal). Legitimidade passiva: autoridade pública ou privada responsável pela violência/coação. Sujeito paciente: apenas pessoa física — HC não pode ser impetrado em favor de pessoa jurídica, mas pessoa jurídica pode impetrar em favor de pessoa física.
+- Juiz pode concedê-lo de ofício. Único remédio que dispensa advogado; gratuito.
+- STF: admite habeas corpus coletivo. STJ: cabe HC quanto a medidas protetivas da Lei Maria da Penha.
     
 ### -Mandado de Segurança
 - [ ] status [dom:: 0] [peso:: 2]
@@ -409,20 +494,40 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indic
 • A) Correta: A CFl, no seu art. 7º, inciso XXI, estabelece como direito dos trabalhadores urbanos e rurais o "aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei".
 - #jurisprudencia 
 - <mark style="background:rgba(240, 167, 216, 0.55)">Súmula 429/STF: a existência de recurso administrativo com efeito suspensivo não impede o uso do mandado de segurança contra omissão da autoridade</mark>. Não confundir com o art. 5º, I, da Lei nº 12.016/2009 (não cabe MS quando existir recurso administrativo com efeito suspensivo) — essa vedação é para **atos comissivos**; no caso de **omissão**, a suspensão de um ato que não existe não produz efeito algum, logo o MS continua cabível.
+
+- Prova pré-constituída; natureza civil; oneroso, mas sem condenação em honorários da parte vencida. Prazo: 120 dias da ciência do fato que obstou o direito líquido e certo — vencido o prazo, resta a via ordinária.
+- Legitimidade ativa: pessoa física ou jurídica, nacional ou estrangeira, universalidades (espólio, massa falida), alguns órgãos públicos, MP. Legitimidade passiva: autoridade pública, representantes de partidos políticos, administradores de autarquias, particulares no exercício de função pública (só quanto a essas atribuições).
+- Art. 21, Lei nº 12.016/09 — **Mandado de Segurança Coletivo**: pode ser impetrado por partido político com representação no Congresso Nacional (defesa de interesses legítimos relativos a seus integrantes ou à finalidade partidária) ou por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos 1 ano (defesa de direitos líquidos e certos da totalidade ou parte de seus membros/associados, conforme seus estatutos e pertinentes às suas finalidades), dispensada autorização especial. Natureza civil, oneroso. Marca-o o instituto da substituição processual — não há necessidade de autorização específica de cada membro. ⚠️ As associações, especificamente, precisam estar constituídas e em funcionamento há pelo menos 1 ano (item muito cobrado).
     
 ### -Mandado de Injunção
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/379?indice=1&materia=370)
 - <mark style="background:rgba(240, 167, 216, 0.55)">Pressuposto indeclinável do MI (art. 5º, LXXI, CF)</mark>: a efetiva inviabilidade do exercício do direito fundamental por falta de regulamentação.
 - ⚠️ O direito à licença-paternidade (art. 7º, XIX, CF, complementado pelo art. 10, § 1º, ADCT, que fixa 5 dias até lei regulamentadora) já é **exercitável diretamente via ADCT** — logo, falta interesse processual para impetrar MI individual sobre ele.
+
+- Objetiva a regulamentação de normas constitucionais de eficácia limitada quando a falta de regulamentação inviabiliza direitos e liberdades constitucionais e prerrogativas de nacionalidade, soberania e cidadania. ⚠️ Normas de eficácia contida não cabem em MI, por já terem aplicabilidade direta e imediata. Omissão pode ser total ou parcial.
+- Legitimidade ativa: pessoa física ou jurídica inviabilizada de exercer direito constitucional por falta de norma. Legitimidade passiva: entidade responsável pela norma omitida.
+- **Mandado de Injunção Coletivo**: representa coletividade (classe, grupo, categoria); legitimados: os mesmos do mandado de segurança coletivo (partido político com representação no CN; organização sindical/entidade de classe/associação constituída há 1 ano), acrescidos de Ministério Público e Defensoria Pública.
+- STF adota a posição concretista: julgada a omissão, a Corte determina prazo para elaboração da norma e a forma de exercício do direito até a regulamentação, com efeito inter partes ou erga omnes.
     
 ### -Habeas Data
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/380?indice=1&materia=370)
+
+- Finalidade: conhecimento de informações relativas ao próprio impetrante em bancos de dados de entidades governamentais ou de caráter público, ou retificação desses dados quando não se prefira via sigilosa (judicial ou administrativa). Natureza civil; gratuito.
+- Legitimidade ativa: qualquer pessoa física ou jurídica, nacional ou estrangeira. Legitimidade passiva: autoridade pública ou privada detentora do banco de dados de caráter público.
+- Não serve para acesso a autos de processo administrativo, nem para informações de terceiros. Exige negativa prévia da instituição em fornecer os dados.
+- STF: cônjuge sobrevivente pode impetrar habeas data em prol do cônjuge falecido.
     
 ### -Ação Popular
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/2080?indice=1&materia=370)
+
+- Qualquer cidadão é parte legítima para anular ato lesivo ao patrimônio público (ou de entidade de que o Estado participe), à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural; autor isento de custas e do ônus da sucumbência, salvo má-fé comprovada.
+- Legitimidade passiva: administração pública, beneficiários do ato lesivo e pessoas jurídicas em cujo nome o ato foi praticado.
+- Competência: juízo de primeiro grau da Justiça Federal ou Estadual, conforme a esfera do ato; acompanhada sempre pelo MP.
+- MP não pode propor ação popular (só o cidadão pode), mas atua como substituto processual em caso de omissão do autor, ou como sucessor em caso de desistência.
+- STF: não exige dano pecuniário — basta o dano decorrente do ato lesivo.
 
 
 ## - Direitos e Garantias Fundamentais (art. 6º a 17);
@@ -432,6 +537,14 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indic
 - [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/374?indice=1&materia=370)
 
+- Direitos sociais são de 2ª geração e exigem prestação positiva do Estado. Reserva do possível: alegável pela Administração para justificar a falta de prestação, mediante demonstração objetiva de inexistência de recursos ou ausência de previsão orçamentária — tem como limite o mínimo existencial. STF: "a teoria da reserva do possível não é oponível ao mínimo existencial."
+- Direitos sociais do art. 6º: educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância, assistência aos desamparados.
+- Art. 6º, parágrafo único: todo brasileiro em situação de vulnerabilidade social tem direito a renda básica familiar, garantida pelo poder público em programa **permanente** de transferência de renda (⚠️ banca pode trocar "permanente" por "temporário"), com normas e requisitos definidos em lei, observada a legislação fiscal e orçamentária.
+- Destaques do art. 7º: proteção contra despedida arbitrária (I); desemprego involuntário (II); salário mínimo nacionalmente unificado e vedada sua vinculação (IV — Súmula Vinculante 4: salário-mínimo não serve de indexador de vantagem de servidor/empregado, nem pode ser substituído por decisão judicial; STF admite fixação de pensão alimentícia com base no salário-mínimo e remuneração de conscritos inferior a ele; reajuste por decreto presidencial é possível, mas a fixação do salário só por lei); piso proporcional à extensão e complexidade (V); retenção dolosa de salário é crime (X); trabalho preferencialmente aos domingos (XV); aviso prévio mínimo de 30 dias (XXI); assistência gratuita a filhos/dependentes em creches e pré-escolas até 5 anos (XXV); indenização cabível mesmo com seguro de acidente, se houver dolo/culpa do empregador (XXVIII); prescrição de 5 anos para créditos trabalhistas, até o limite de 2 anos após a extinção do contrato — 5 anos quando há vínculo, 2 anos quando não há (XXIX).
+- Proibições ao trabalho do menor (XXXIII): menores de 18 anos, trabalho noturno/perigoso/insalubre; menores de 16, qualquer trabalho, exceto aprendiz a partir dos 14; menores de 14, nenhum trabalho.
+- **Trabalhadores domésticos** — direitos estendidos pela EC 72/2013 (parágrafo único do art. 7º): limitação da duração do trabalho normal a 8h diárias/44h semanais (XIII), remuneração superior do trabalho noturno (IX) e do serviço extraordinário em ao menos 50% (XVI), entre outros incisos listados no parágrafo único, condicionados à simplificação das obrigações tributárias da relação de trabalho.
+  - Não estendidos aos domésticos: piso salarial proporcional à extensão e complexidade; participação nos lucros/resultados e na gestão da empresa; jornada de 6h em turnos ininterruptos de revezamento; proteção do mercado de trabalho da mulher; adicional para atividades penosas/insalubres/perigosas; proteção em face da automação; prescrição de 5 anos (2 após extinção do contrato); vedação de distinção entre trabalho manual/técnico/intelectual; igualdade entre vínculo permanente e trabalho avulso.
+
 ### Direitos Coletivos dos Trabalhadores (arts. 8º a 11 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 
@@ -439,25 +552,49 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/375?indic
 - #jurisprudencia 
 - STF, RE 883642 (Tema 823, repercussão geral): <mark style="background:rgba(240, 167, 216, 0.55)">os sindicatos têm ampla legitimidade extraordinária (substituição processual) para defender em juízo direitos e interesses coletivos ou individuais da categoria que representam</mark>, inclusive nas liquidações e execuções de sentença, **independentemente de autorização dos substituídos** (art. 8º, III, CF).
 
+- Sindicatos (art. 8º): criação sem autorização estatal, mas com registro em órgão competente; princípio da unicidade sindical (não mais de uma organização na base de um Município); obrigatória a participação em negociações coletivas; dirigente/candidato à direção sindical não pode ser demitido do registro da candidatura até um ano após o fim do mandato (se eleito), salvo falta grave. Contribuição sindical perdeu a natureza tributária e é facultativa; diferente da contribuição confederativa.
+- Direito de greve (art. 9º): em serviços essenciais, regulado por lei especial.
+- Empresas com mais de 200 empregados devem eleger representante dos empregados para diálogo com o empregador.
+
 ### - Da Nacionalidade (arts. 12 e 13 da CF/1988)
     
 #### Espécies de Nacionalidade (Brasileiros Natos e Naturalizados
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3247?indice=1&materia=370)
+
+Brasileiro nato:
+- Nascido na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país (⚠️ se estiverem, o filho é estrangeiro mesmo nascendo em solo brasileiro).
+- Nascido no estrangeiro, de pai ou mãe brasileira, desde que um deles esteja a serviço do Brasil (nesse caso, nato mesmo nascendo fora).
+- Nascido no estrangeiro, de pai ou mãe brasileira sem estarem a serviço do Brasil (nacionalidade potestativa) — nato se: registrado em repartição brasileira competente, ou vier residir no Brasil e optar pela nacionalidade brasileira a qualquer tempo após a maioridade (requisitos não cumulativos).
+
+Brasileiro naturalizado (nacionalidade secundária/derivada):
+- Naturalização ordinária: originários de países de língua portuguesa — residência de 1 ano ininterrupto + idoneidade moral.
+- Naturalização extraordinária: estrangeiros de qualquer nacionalidade, residentes há mais de 15 anos ininterruptos, sem condenação penal, mediante requerimento.
+- STF: cumpridos os requisitos, há direito subjetivo à nacionalidade; o reconhecimento tem efeito declaratório, não constitutivo.
         
 #### Distinções Constitucionais entre Brasileiros Natos e Naturalizados
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3248?indice=1&materia=370)
+
+Privativos de brasileiro nato: Presidente e Vice-Presidente da República; Presidente da Câmara dos Deputados; Presidente do Senado Federal; Ministro do STF; carreira diplomática; oficial das Forças Armadas; Ministro de Estado da Defesa — além do Presidente do CNJ e do TSE (por serem, respectivamente, o Presidente do STF e um ministro do STF). A CF veda que lei infraconstitucional crie outras distinções entre natos e naturalizados.
         
 #### Perda da Nacionalidade
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3260?indice=1&materia=370)
+
+Art. 5º, § 4º: perda declarada quando o brasileiro (i) tiver a naturalização cancelada por sentença judicial, por fraude no processo ou atentado contra a ordem constitucional/Estado Democrático (EC 131/23); (ii) fizer pedido expresso de perda da nacionalidade perante autoridade competente, ressalvada situação de apatridia (EC 131/23). A perda não ocorre por ato do Presidente da República, só por sentença judicial (na hipótese de naturalização) ou pelo próprio pedido.
+- § 5º: a renúncia não impede readquirir a nacionalidade originária, nos termos da lei.
+- Reaquisição da nacionalidade por brasileiro nato que a perdeu: doutrina majoritária diz que volta como naturalizado; STF (desde 1986) entende que volta como nato.
         
 #### Extradição, Deportação, Expulsão e Banimento (da Nacionalidade)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1949?indice=1&materia=370)
 - #jurisprudencia 
 - STF, HC 101.269/DF: <mark style="background:rgba(240, 167, 216, 0.55)">não implica disposição de competência legal a delegação, pelo Presidente da República, do ato de expulsão de estrangeiro</mark> ao Ministro de Estado da Justiça — o STF sempre reputou válido o decreto de expulsão firmado por delegação. Cabe ao Judiciário apenas controlar a **legalidade** do ato, não sua oportunidade e conveniência.
+- Brasileiro nato nunca é extraditado. Naturalizado só em duas hipóteses: crime comum antes da naturalização, ou envolvimento comprovado em tráfico de entorpecentes a qualquer tempo.
+- ⚠️ Quem perde a nacionalidade nata por pedido expresso (art. 12, § 4º, II) deixa de ser "brasileiro nato" para esse efeito e passa a estar sujeito à extradição (entendimento do STF).
+- Não cabe extradição por crime político ou de opinião — cabe ao STF definir o que é crime político.
+- Asilo político (art. 4º, X): acolhimento de estrangeiro perseguido por seu país ou por terceiro. Refúgio: instituto mais amplo, por fundados temores de perseguição (raça, religião, nacionalidade, grupo social, opinião política).
         
 #### Dos Símbolos e Idioma da República (art. 13 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -476,6 +613,16 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1878?indi
 - **35** anos: Presidente da República, vice-presidente da República e <font color="#ff0000">senador</font>
 
 > **Art. 14, § 5º** O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um único período subsequente.
+
+- Direitos políticos positivos: participação ativa via plebiscito, referendo, iniciativa popular. Negativos: inelegibilidade, perda e suspensão dos direitos políticos.
+- Plebiscito: consulta antes da edição da norma. Referendo: consulta depois. Iniciativa popular (art. 61, § 2º): projeto de lei subscrito por no mínimo 1% do eleitorado nacional, distribuído por pelo menos 5 Estados, com não menos de 0,3% dos eleitores em cada um (bizu: 1 – 5 – 0,3).
+- Sufrágio = capacidade ativa (alistabilidade, votar) + capacidade passiva (elegibilidade, ser votado).
+- Alistamento e voto (art. 14, § 1º e § 2º): obrigatório para maiores de 18 anos; facultativo para analfabetos, maiores de 70 anos e maiores de 16 e menores de 18; vedado a estrangeiros e, durante o serviço militar obrigatório, a conscritos.
+  - TSE: médicos, dentistas, farmacêuticos e veterinários em serviço militar obrigatório são considerados conscritos.
+  - TSE: pessoa com deficiência que não possa cumprir as obrigações eleitorais não se sujeita a sanção.
+- § 4º: são inelegíveis os inalistáveis e os analfabetos — analfabetos são alistáveis (podem votar) mas não elegíveis (não podem ser votados).
+- Domicílio eleitoral (onde está o título) é diferente de domicílio civil.
+- STF: desfiliação e infidelidade partidária geram perda de mandato apenas no sistema proporcional.
 
 #### Inelegibilidades (Direitos Políticos)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -500,6 +647,21 @@ Em resumo, considerando a substituição ou sucessão para o cargo de titular do
 - <mark style="background:rgba(240, 167, 216, 0.55)">Súmula Vinculante 18</mark>: a dissolução do vínculo conjugal no curso do mandato não afasta a inelegibilidade reflexa (art. 14, § 7º, CF), **exceto** no caso de falecimento do chefe do Executivo.
 - ⚠️ Vedação à segunda reeleição de Prefeito mesmo que para **Município diverso** ("Prefeito itinerante") — a jurisprudência do STF veda a itinerância para impedir uma terceira eleição consecutiva ao mesmo tipo de cargo.
 
+- Inelegibilidade absoluta: para todos os cargos (ex.: inalistáveis, analfabetos). Relativa: para alguns cargos.
+- Reeleição (§ 5º): Presidente, Governadores, Prefeitos e quem os houver sucedido/substituído no curso do mandato podem se reeleger para um único período subsequente. STF veda o "prefeito itinerante" — impossibilidade de terceiro mandato consecutivo mesmo em Município diferente; quem exerceu dois mandatos consecutivos de chefe do Executivo não pode se candidatar a vice; vices que assumiram o mandato em curso podem se candidatar a mais um mandato.
+- Desincompatibilização (§ 6º): Presidente, Governadores e Prefeitos devem renunciar ao mandato até 6 meses antes do pleito para concorrer a outros cargos (não precisa se for para o mesmo cargo; vices não precisam se desincompatibilizar). Em desmembramento de municípios, exige-se desincompatibilização do município de origem para concorrer no derivado.
+- Inelegibilidade reflexa (§ 7º): cônjuge e parentes consanguíneos/afins até 2º grau (ou por adoção) do Presidente, Governador ou Prefeito são inelegíveis no território de jurisdição do titular, salvo se já titulares de mandato eletivo e candidatos à reeleição. Restrita aos cargos de chefe do Executivo. STF: atinge relações homoafetivas; não se aplica em caso de falecimento. Súmula Vinculante 18: dissolução do vínculo conjugal no curso do mandato não afasta a inelegibilidade reflexa.
+- Inelegibilidade do militar (§ 8º): com menos de 10 anos de serviço, deve se afastar da atividade; com mais de 10 anos, é agregado e, se eleito, passa à inatividade na diplomação.
+- Só lei complementar nacional cria novas hipóteses de inelegibilidade (condições de elegibilidade podem vir de lei ordinária federal).
+- Mandato impugnado: Justiça Eleitoral, 15 dias da diplomação, em segredo de justiça.
+- Sucessão x substituição no Executivo, e efeito sobre a reeleição:
+
+| Assunção | Momento (em relação ao pleito) | Configura 1º mandato de titular? | Eleições ao cargo que ainda pode disputar |
+| --- | --- | --- | --- |
+| Sucessão (definitiva) | qualquer período | Sim | 1 (pleito imediato) |
+| Substituição (temporária) | mais de 6 meses | Não | 2 (eleição + reeleição) |
+| Substituição (temporária) | menos de 6 meses | Sim (ficção jurídica) | 1 (pleito imediato) |
+
 #### Perda e Suspensão dos Direitos Políticos
 - [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1882?indice=1&materia=370)
@@ -507,11 +669,25 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1882?indi
 > **Sumula 9 do TSE**: **A suspensão de direitos políticos decorrente de condenação criminal transitada em julgado cessa com o cumprimento ou a extinção da pena, independente de reabilitação ou de prova de reparação dos danos**. 
 
 Ou seja, **ao cumprir sua pena, João recuperou seus direitos políticos**, o que, obviamente, inclui sua capacidade eleitoral passiva, de modo que **poderá concorrer às eleições, desde que observadas as condições de elegibilidade previstas no  §3°, do art. 14, da Constituição Federal.**
+
+- Art. 15: veda a cassação de direitos políticos; perda ou suspensão só nos casos do artigo.
+- Perda: cancelamento de naturalização por sentença transitada em julgado; recusa de cumprir obrigação a todos imposta ou prestação alternativa (art. 5º, VIII).
+- Suspensão: incapacidade civil absoluta; condenação criminal transitada em julgado, enquanto durarem seus efeitos (suspensão imediata); improbidade administrativa (art. 37, § 4º).
+- Perda tem prazo indeterminado e reaquisição não automática; suspensão tem prazo determinado ou indeterminado e reaquisição automática.
+- Súmula 9/TSE: a suspensão por condenação criminal transitada em julgado cessa com o cumprimento ou extinção da pena, independentemente de reabilitação ou reparação do dano.
+- Art. 16 (anterioridade eleitoral): lei que altera o processo eleitoral entra em vigor na publicação, mas não se aplica a eleição ocorrida até um ano da data de sua vigência.
         
 #### Partidos Políticos (art. 17 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3187?indice=1&materia=370)
 - A formação de **coligação** é faculdade dos partidos políticos para a disputa do pleito (art. 6º, caput, Lei nº 9.504/97), com existência **temporária**, restrita ao processo eleitoral.
+
+- Livre criação, fusão, incorporação e extinção, respeitados soberania nacional, regime democrático, pluripartidarismo e direitos fundamentais; pessoas jurídicas de direito privado, com liberdade para estruturação interna.
+- Requisitos (art. 17): caráter nacional; proibição de recursos de entidade ou governo estrangeiro, ou subordinação a estes; prestação de contas à Justiça Eleitoral; funcionamento parlamentar conforme a lei.
+- Vedadas coligações em eleições proporcionais; não há obrigação de vinculação entre candidaturas em âmbito nacional, estadual, distrital e municipal.
+- Personalidade jurídica: com o registro do ato constitutivo no registro competente. Capacidade política: com o registro do estatuto no TSE.
+- Cláusula de barreira (EC 97/2017): acesso gratuito a rádio e TV condicionado a mínimo de 3% dos votos válidos, distribuídos em pelo menos 1/3 dos Estados com no mínimo 2% em cada um, ou eleição de ao menos 15 deputados distribuídos em 1/3 dos Estados.
+- **Janela partidária** (EC 91/2016, regulamentada pela Lei 13.165/15): permite ao detentor de mandato eletivo desligar-se do partido pelo qual foi eleito, em prazo de 30 dias, sem prejuízo do mandato — a desfiliação nesse prazo não conta para a distribuição dos recursos do Fundo Partidário nem para o acesso gratuito a rádio e TV (art. 1º da EC 91).
 
 
 
@@ -588,6 +764,11 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 
 
 ## - Administração Pública (arts. 37 a 43);
+- [ ] status [dom:: 0] [peso:: 2]
+
+### Disposições Gerais (Administração Pública - arts. 37 e 38 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
+
 ### Dos Servidores Públicos (arts. 39 a 41 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 Resumo tec:
@@ -605,6 +786,47 @@ Resumo tec:
 5. Limitação de funções: O STF tem reiteradamente decidido que cargos em comissão não podem ser criados para o desempenho de funções meramente técnicas ou operacionais.
 6. Ausência de estabilidade: Os ocupantes de cargos em comissão não adquirem estabilidade, podendo ser exonerados a qualquer momento.
 7. Controle jurisdicional: O STF tem exercido controle sobre a criação indiscriminada de cargos em comissão, exigindo que haja justificativa plausível para sua existência e que suas atribuições sejam compatíveis com a natureza do cargo.
+
+
+- Art. 39, § 7º: os entes (inclusive Municípios) podem usar a economia de despesas correntes em cada esfera de governo para aplicar em programas de qualidade e produtividade, incluindo prêmios ou incentivos.
+- Art. 39, § 9º (EC 103/2019): proíbe a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de cargo em comissão ou de função de confiança à remuneração do cargo efetivo.
+- **Reintegração** (art. 41, § 2º): forma de provimento derivado pela qual o servidor estável, invalidada por sentença judicial sua demissão, retorna ao cargo. O eventual ocupante da vaga, se estável, é reconduzido ao cargo de origem sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço.
+- **Mandato eletivo do servidor** (art. 38): mandato eletivo federal, estadual ou distrital afasta o servidor do cargo, que passa a receber a remuneração do mandato. Mandato municipal: Prefeito é afastado e opta pela remuneração (cargo ou mandato); Vereador acumula cargo e mandato se houver compatibilidade de horários (recebendo as duas remunerações) ou opta por uma, afastando-se do cargo, se não houver. Em qualquer caso de afastamento para mandato eletivo, o tempo de serviço conta para todos os efeitos legais, exceto para promoção por merecimento (art. 38, IV).
+
+### Organização da Administração Pública (Direta e Indireta)
+- [ ] status [dom:: 0] [peso:: 2]
+- Administração Direta: órgãos públicos, sem personalidade jurídica, atuando junto aos entes políticos — centralização.
+- Administração Indireta: entidades administrativas, com personalidade jurídica — descentralização. Autarquias e fundações públicas de direito público, criadas por lei, pessoas jurídicas de direito público; fundações públicas também podem ter personalidade de direito privado, quando autorizadas por lei. Empresas públicas: pessoas jurídicas de direito privado, autorizadas por lei, capital 100% público, exercem atividade econômica (algumas prestam serviço público). Sociedades de economia mista: pessoas jurídicas de direito privado, autorizadas por lei, capital majoritariamente público, exercem atividade econômica.
+
+### Agentes Públicos e Concurso Público (art. 37)
+- [ ] status [dom:: 0] [peso:: 2]
+- Art. 37, I: cargos, empregos e funções públicas acessíveis a brasileiros que preencham os requisitos legais, e a estrangeiros na forma da lei.
+- Súmula Vinculante 44/STF: só por lei pode-se sujeitar a exame psicotécnico a habilitação de candidato a cargo público. Súmula 14/STF: inadmissível restringir por idade, via ato administrativo, inscrição em concurso.
+- Requisitos para o cargo verificam-se na data da posse; limite de idade, na data da inscrição.
+- STF: aprovação dentro do número de vagas gera direito subjetivo à nomeação; a Administração só pode deixar de nomear em situação excepcional, superveniente, imprevisível e grave, devidamente comprovada.
+- STF: é constitucional remarcar teste de aptidão física para candidata grávida à época da prova, independentemente de previsão no edital; cabem provas em horário diferente por escusa de consciência religiosa.
+- Edital só pode ser alterado para corrigir erro material ou por ordem legal; controle judicial do certame se limita a retificar conteúdo não previsto no edital, sem alcançar critérios de correção/avaliação da banca.
+- Deve haver concurso de remoção dos servidores antes de nomear novos candidatos. Cláusula de barreira e cláusulas eliminatórias em concurso são constitucionais.
+- Súmula Vinculante 43/STF: é inconstitucional toda modalidade de provimento que dispense prévia aprovação em concurso para cargo que não integra a carreira em que o servidor foi originalmente investido.
+- Súmula 15/STF: dentro do prazo de validade do concurso, candidato aprovado tem direito à nomeação se o cargo for preenchido sem observância da classificação.
+- STJ: candidato nomeado após longo período não tem direito a indenização pelo tempo em que não trabalhou.
+
+### Acumulação Remunerada de Cargos, Empregos e Funções (art. 37, XVI e XVII)
+- [ ] status [dom:: 0] [peso:: 2]
+- A vedação de acumulação remunerada estende-se a toda a Administração Direta e Indireta (autarquias, fundações, empresas públicas, sociedades de economia mista), abrangendo cargos, empregos e funções.
+- Acumulação na ativa é vedada, exceto: 2 cargos de professor; 1 cargo de professor com outro de qualquer natureza (EC 138/2025); 2 cargos ou empregos privativos de profissionais de saúde com profissões regulamentadas — exigidos compatibilidade de horários e respeito ao teto remuneratório para cada cargo separadamente.
+- Aposentadoria pelo RGPS (INSS): vedada a acumulação de duas aposentadorias desse regime, mas isso não impede que o aposentado pelo RGPS ocupe um cargo público. Nos RPPS (servidores públicos), a acumulação de proventos é possível quando os cargos na ativa também seriam acumuláveis (ex.: dois cargos de professor). Pode-se acumular aposentadoria do RGPS com aposentadoria do RPPS.
+- Outras hipóteses de acumulação: vereador com seu cargo/emprego/função, havendo compatibilidade de horários (art. 38, III); juízes com cargo de magistério (art. 95, parágrafo único, I); membros do MP com função de magistério (art. 125, § 5º, II, "d"); profissionais de saúde das Forças Armadas com outro cargo privativo de saúde, com prevalência da atividade militar (art. 142, VIII); militares estaduais e distritais seguem as regras gerais de acumulação, com prevalência da atividade militar (art. 42, § 3º).
+- Cargo comissionado é de livre nomeação e exoneração, sem estabilidade.
+- Perda do cargo do servidor estável: sentença judicial transitada em julgado; processo administrativo com ampla defesa; avaliação periódica de desempenho (lei complementar, com ampla defesa); redução de despesa com pessoal, respeitada a ordem — primeiro reduzir em ao menos 20% cargos em comissão e funções de confiança, depois exonerar não estáveis, só então exonerar estável (motivado em ato normativo).
+
+### Responsabilidade Civil do Estado (art. 37, § 6º)
+- [ ] status [dom:: 0] [peso:: 2]
+- Responsabilidade objetiva, pela Teoria do Risco Administrativo: basta comprovar conduta, dano e nexo causal. Abrange pessoas jurídicas de direito público e as de direito privado prestadoras de serviço público.
+- Direito de regresso contra o agente público, nos casos de dolo ou culpa.
+- Excludentes: culpa exclusiva da vítima, fato de terceiro, caso fortuito ou força maior.
+- Risco integral (exceção): não admite excludentes — ex.: danos nucleares e ambientais.
+- Omissão estatal: responsabilidade em regra subjetiva (exige prova de culpa do Estado).
 
 # Bloco C:
 

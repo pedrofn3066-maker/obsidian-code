@@ -44,8 +44,8 @@ prioridade: crítico
 
 ## Checklist por importância (VINTEUM)
 
-- [ ] Provisões, Passivos e Ativos Contingentes (CPC 25) [dom:: 4] [peso:: 7.1]
-- [ ] Investimentos Avaliados pelo Custo ou MEP [dom:: 3] [peso:: 6.9]
+- [ ] Provisões, Passivos e Ativos Contingentes (CPC 25) [dom:: 3] [peso:: 7.1]
+- [ ] Investimentos Avaliados pelo Custo ou MEP [dom:: 2] [peso:: 6.9]
 - [ ] Demonstração de Fluxo de Caixa (DFC) [dom:: 2] [peso:: 6.6]
 - [ ] Balanço Patrimonial (BP) [dom:: 2] [peso:: 5.6]
 - [ ] CPC 16 — Tratamento Contábil para os Estoques [dom:: 4] [peso:: 4.6]

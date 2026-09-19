@@ -34,7 +34,7 @@ prioridade: importante
 
 - [ ] Linguagem SQL [dom:: 3] [peso:: 14.2]
 - [ ] Aprendizado de Máquina (Machine Learning) [dom:: 0] [peso:: 9.9]
-- [ ] Big Data [dom:: 4] [peso:: 9.6]
+- [ ] Big Data [dom:: 3] [peso:: 9.6]
 - [ ] Data Warehouse e Data Mart [dom:: 4] [peso:: 7.0]
 - [ ] Modelo Relacional [dom:: 4] [peso:: 4.8]
 - [ ] Conceitos Iniciais e Gerais de IA [dom:: 0] [peso:: 4.8]
@@ -55,7 +55,7 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 
 
 ## - Lei Geral de Proteção de Dados Pessoais — LGPD
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3] [peso:: 3]
 
 
 ![[Pasted image 20260829183844.png|750]]

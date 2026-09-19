@@ -36,7 +36,7 @@ prioridade: complementar
 - [ ] Coerência e Coesão [dom:: 0] [peso:: 5.8]
 - [ ] Clareza e Correção [dom:: 4] [peso:: 5.1]
 - [ ] Verbo [dom:: 4] [peso:: 4.8]
-- [ ] Concordância (Verbal e Nominal) [dom:: 3] [peso:: 4.3]
+- [ ] Concordância (Verbal e Nominal) [dom:: 2] [peso:: 4.3]
 - [ ] Pontuação [dom:: 4] [peso:: 4.0]
 
 > **10 questões · peso 2 · **20 pontos** · 6,1% da nota**

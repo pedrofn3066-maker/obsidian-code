@@ -15,28 +15,28 @@ prioridade: crítico
 
 *Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE.*
 
-| Tópico | % |
-| --- | --- |
-| Jurisprudência em Matéria Tributária | 14,6% |
-| Limitações Constitucionais ao Poder de Tributar | 10,5% |
-| Legislação Tributária | 9,2% |
-| Tributos | 8,2% |
-| Responsabilidade Tributária | 6,5% |
-| Extinção do Crédito Tributário | 6,5% |
-| Lançamento e Constituição do Crédito Tributário | 5,8% |
-| Impostos Estaduais | 5,8% |
-| Administração Tributária | 4,1% |
-| Competência Tributária | 3,7% |
-| Repartição Constitucional de Receitas Tributárias | 3,1% |
-| Suspensão do Crédito Tributário | 3,1% |
-| Impostos Municipais | 3,1% |
-| Introdução ao Direito Tributário | 2,0% |
+| Tópico                                            | %     |
+| ------------------------------------------------- | ----- |
+| Jurisprudência em Matéria Tributária              | 14,6% |
+| Limitações Constitucionais ao Poder de Tributar   | 10,5% |
+| Legislação Tributária                             | 9,2%  |
+| Tributos                                          | 8,2%  |
+| Responsabilidade Tributária                       | 6,5%  |
+| Extinção do Crédito Tributário                    | 6,5%  |
+| Lançamento e Constituição do Crédito Tributário   | 5,8%  |
+| Impostos Estaduais                                | 5,8%  |
+| Administração Tributária                          | 4,1%  |
+| Competência Tributária                            | 3,7%  |
+| Repartição Constitucional de Receitas Tributárias | 3,1%  |
+| Suspensão do Crédito Tributário                   | 3,1%  |
+| Impostos Municipais                               | 3,1%  |
+| Introdução ao Direito Tributário                  | 2,0%  |
 
 ## Checklist por importância (VINTEUM)
 
-- [ ] Jurisprudência em Matéria Tributária [dom:: 0] [peso:: 14.6]
+- [ ] Jurisprudência em Matéria Tributária [dom:: 3] [peso:: 14.6]
 - [ ] Limitações Constitucionais ao Poder de Tributar [dom:: 4] [peso:: 10.5]
-- [ ] Legislação Tributária [dom:: 4] [peso:: 9.2]
+- [ ] Legislação Tributária [dom:: 3] [peso:: 9.2]
 - [ ] Tributos [dom:: 0] [peso:: 8.2]
 - [ ] Responsabilidade Tributária [dom:: 4] [peso:: 6.5]
 - [ ] Extinção do Crédito Tributário [dom:: 4] [peso:: 6.5]
@@ -152,7 +152,7 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 
 
 ## Limitações ao Poder de Tributar; 
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-18
 
 **Capacidade contributiva** — art. 145 §1º, CF: sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte.
 ⚠️ STF (RE 562.045): <mark style="background:#fff88f">todos os impostos estão sujeitos ao princípio da capacidade contributiva</mark>, especialmente os diretos — independentemente de serem classificados como de caráter real ou pessoal.
@@ -180,7 +180,7 @@ Distinção de regime: preço público/tarifa é facultativo; taxa é compulsór
 - [ ] status [dom:: 0] [peso:: 3]
 ## Legislação Tributária;   
 ### VIGÊNCIA DA LEGISLAÇÃO TRIBUTÁRIA(arts. 101 a 106 do CTN);
-- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-14
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-18
 tec resumo:
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/590).
 ![[Pasted image 20260821145018.png|832]]
@@ -190,15 +190,34 @@ tec resumo:
 ![[Pasted image 20260821144938.png|822]]
 
 
+<mark style="background:rgba(3, 135, 102, 0.2)">O lançamento sempre aplica a lei vigente na data do fato gerador (art. 144), ainda que essa lei seja depois revogada — a redução ou revogação posterior do tributo não retroage (só vale para fatos geradores futuros). A retroatividade benigna do art. 106, II, "a" só socorre a penalidade, quando a nova lei deixa de definir a conduta como infração; nunca socorre o tributo em si.</mark>
+
+⚠️ #pegadinha — a questão testa exatamente essa cisão entre tributo e penalidade. Ex.: taxa extinta em 2024, fato gerador ocorrido em 2023 → o lançamento do tributo é cabível (lei vigente à época do FG, art. 144); mas se a nova lei também deixou de definir a conduta como infração, a multa correspondente não pode mais ser cobrada (art. 106, II, "a"). Reduzir a alíquota do tributo não é a mesma coisa que deixar de definir uma infração — só a segunda retroage.
+
+> Art. 144. O lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada.
+> Art. 106. A lei aplica-se a ato ou fato pretérito: [...] II - tratando-se de ato não definitivamente julgado: a) quando deixe de defini-lo como infração.
+
 ### Interpretação e Integração da Legislação Tributária (arts. 107 a 112 do CTN);
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?indice=1&materia=589).
+
+> Art. 110. A lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos, conceitos e formas de direito privado, utilizados, expressa ou implicitamente, pela Constituição Federal, pelas <mark style="background:rgba(18, 123, 223, 0.55)">Constituições dos Estados, ou pelas Leis Orgânicas do Distrito Federal ou dos Municípios</mark>, para definir ou limitar competências tributárias.
+
+<mark style="background:rgba(3, 135, 102, 0.2)">Só vale quando o instituto de direito privado é usado pela CF/Constituições estaduais/Leis Orgânicas para definir competência tributária — a lei tributária não pode redefinir esse conceito pra "empurrar" a própria competência.</mark>
+
+> Art. 111. Interpreta-se literalmente a legislação tributária que disponha sobre: I - suspensão ou exclusão do crédito tributário; II - outorga de isenção; III - dispensa do cumprimento de obrigações tributárias acessórias.
+
+⚠️ #pegadinha — interpretação literal é exceção, não regra geral. Fora dessas três hipóteses (suspensão/exclusão do crédito, isenção, dispensa de acessória), a legislação tributária não está adstrita à interpretação literal — é o erro clássico de marcar "toda norma tributária se interpreta literalmente".
 
 ## Obrigação Tributária.
 
 ### Fato Gerador (arts. 114 a 118 do CTN)
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?indice=1&materia=592)
+
+> Art. 114. Fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência.
+
+<mark style="background:rgba(3, 135, 102, 0.2)">Obrigação principal = natureza patrimonial (pagar tributo ou multa). O fato gerador precisa ser, ao mesmo tempo, necessário e suficiente para o nascimento do dever de pagar — falta qualquer um dos dois e não há fato gerador.</mark>
 
 - #jurisprudencia 
 **LETRA D: CORRETA.** Conforme a literalidade da parte final do parágrafo único do art. 116 do CTN e a jurisprudência firmada pelo STF na **ADI 2.446**, o dispositivo depende de **regulamentação por lei ordinária** para estabelecer o rito, os critérios e as garantias procedimentais da desconsideração.
@@ -303,7 +322,7 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 # Bloco D:   
 ## Simples Nacional;
 ### Das Disposições Preliminares (arts. 1º e 2º da LC nº 123/2006)
-- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-15
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-17
 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12729).
 
@@ -371,7 +390,7 @@ A relação dos Estados que adotam sublimites é publicada a cada ano por meio d
 
 
 ### Da Definição de Microempresa e de Empresa de Pequeno Porte (arts. 3º a 3º-B da LC nº 123/2006)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 1] [peso:: 3]
 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12730?indice=1&materia=1978)
 
@@ -1156,9 +1175,10 @@ A **eficácia** da medida cautelar fiscal **cessa** (art. 13):
 A questão não está perguntando quem pode criar tributo, mas para que serve a repartição constitucional das receitas já arrecadadas. O tema mora nos arts. 157 a 162 da Constituição. A lógica é federativa: **a Constituição distribui parcelas de receita entre União, estados, DF e municípios para dar sustentação financeira à autonomia desses entes e reduzir desequilíbrios regionais.** O próprio art. 161, II, fala em critérios de rateio “**objetivando promover o equilíbrio socioeconômico**” entre estados e entre municípios.
 
 
-## Jurisprudência dos tribunais superiores
-- [ ] status [dom:: 0] [peso:: 3]
-
+## Jurisprudência em Matéria Tributária
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-18
+[[Resumo Jurisprudencia - Direito Tributario (VINTEUM)]]
+[[MATERIAL/JURISPRUDENCIAS/Resumo-Jurisprudencia-D.-Tributario-Fiscal-4.0-V1.0.pdf|Resumo-Jurisprudencia-D.-Tributario-Fiscal-4.0-V1.0]]
 **Súmula nº 554 do Superior Tribunal de Justiça (STJ)**
 "**Na hipótese de sucessão empresarial, a responsabilidade da sucessora abrange as multas moratórias e punitivas a ela aplicadas no período anterior à sucessão.**" 
 
@@ -1185,6 +1205,15 @@ As contribuições cobradas pela OAB não são consideradas tributos. Já as anu
 - o fato de a renda por um dos cônjuges ser usufruída por ambos não os torna corresponsáveis pela obrigação tributária sobre tais rendimentos. **A <mark style="background:rgba(240, 200, 0, 0.2)">corresponsabilidade</mark> somente se define quando há interesse comum na situação que conforma o fato gerador**, mas não na fruição comum da riqueza percebida por um dos parceiros. Em matéria tributária, somente a lei pode instituir a obrigação, e não se legitima que o Fisco crie ou formule, administrativamente, hipóteses obrigacionais (REsp n. 1.273.396/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 5/12/2019, DJe de 12/12/2019.).
 
 - Súmula STF nº 545: Preços de serviços públicos e <font color="#4f81bd">taxas</font> não se confundem, porque estas, diferentemente daqueles, são compulsórias e <mark style="background:rgba(240, 200, 0, 0.2)">têm sua cobrança condicionada à prévia autorização orçamentária</mark>, em relação à lei que as instituiu.
+  ⚠️ Súmula de 1976 (regime pré-CF/88): a exigência de <mark style="background:rgba(240, 200, 0, 0.2)">prévia autorização orçamentária</mark> pressupunha o extinto Princípio da Prévia Autorização Orçamentária e não foi recepcionada pela CF/88 — hoje a proteção do contribuinte vem da legalidade, da anterioridade anual e da noventena (exceções constitucionais: II, IE, IOF). A distinção taxa (compulsória) × preço público/tarifa (contratual, facultativo) continua válida.
 
 - **_Incide o <mark style="background:rgba(240, 200, 0, 0.2)">IPTU</mark> considerado imóvel de pessoa jurídica de direito público cedido a pessoa jurídica de direito privado, devedora do tributo_**_. [STF. RE 601.720]
 
+
+- <mark style="background:rgba(240, 200, 0, 0.2)">Sociedade de economia mista estadual prestadora exclusiva do serviço público de abastecimento de água potável e coleta e tratamento de esgotos sanitários</mark> faz jus à imunidade tributária recíproca sobre impostos federais incidentes sobre patrimônio, renda e serviços.
+  ⚠️ atentar: a jurisprudência é só para impostos federais sobre patrimônio.
+
+- Os requisitos para o gozo de imunidade hão de estar previstos em <mark style="background:rgba(240, 200, 0, 0.2)">lei complementar</mark>.
+
+- Multa isolada aplicada por descumprimento de obrigação tributária acessória, estabelecida em percentual, não pode ultrapassar <mark style="background:rgba(240, 200, 0, 0.2)">60% do valor do tributo ou do crédito tributário vinculado</mark> (até 100% havendo circunstâncias agravantes). Não havendo tributo ou crédito vinculado, mas havendo valor de operação ou prestação vinculado à penalidade, o teto é <mark style="background:rgba(240, 200, 0, 0.2)">20% desse valor</mark> (até 30% com agravantes).
+  ⚠️ Não se aplicam esses limites à multa isolada que, embora aplicada pelo órgão fiscal, tenha natureza predominantemente administrativa (ex.: multas aduaneiras).

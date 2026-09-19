@@ -16,21 +16,21 @@ tags:
 
 *Fonte: Guia de Estudo Regular Fiscal 4.0 (VINTEUM) — bancas FCC, FGV e CEBRASPE. Disciplina "Auditoria Fiscal" no guia.*
 
-| Tópico | % |
-| --- | --- |
-| Testes em Áreas Específicas das Demonstrações Contábeis | 21,7% |
-| Testes e Procedimentos em Auditoria | 14,6% |
-| Fraude e Erro | 11,3% |
-| Amostragem em Auditoria | 9,9% |
-| Normas Profissionais do Auditor Independente | 8,5% |
-| Materialidade, Relevância e Risco em Auditoria Independente | 7,1% |
-| Evidência em Auditoria | 6,6% |
-| Auditoria Interna e Controle Interno | 6,6% |
-| Tópicos de Auditoria Fiscal (NF-e e EFD) | 4,3% |
+| Tópico                                                      | %     |
+| ----------------------------------------------------------- | ----- |
+| Testes em Áreas Específicas das Demonstrações Contábeis     | 21,7% |
+| Testes e Procedimentos em Auditoria                         | 14,6% |
+| Fraude e Erro                                               | 11,3% |
+| Amostragem em Auditoria                                     | 9,9%  |
+| Normas Profissionais do Auditor Independente                | 8,5%  |
+| Materialidade, Relevância e Risco em Auditoria Independente | 7,1%  |
+| Evidência em Auditoria                                      | 6,6%  |
+| Auditoria Interna e Controle Interno                        | 6,6%  |
+| Tópicos de Auditoria Fiscal (NF-e e EFD)                    | 4,3%  |
 
 ## Checklist por importância (VINTEUM)
 
-- [ ] Testes em Áreas Específicas das Demonstrações Contábeis [dom:: 3] [peso:: 21.7]
+- [ ] Testes em Áreas Específicas das Demonstrações Contábeis [dom:: 2] [peso:: 21.7]
 - [ ] Testes e Procedimentos em Auditoria [dom:: 4] [peso:: 14.6]
 - [ ] Fraude e Erro [dom:: 5] [peso:: 11.3]
 - [ ] Amostragem em Auditoria [dom:: 4] [peso:: 9.9]
@@ -56,6 +56,10 @@ Concentre na metade **aplicada** — é o que o cargo faz e o que alimenta a dis
 ## Normas Profissionais do Auditor Independente;
 - [x] status [dom:: 0] [peso:: 2] ✅ 2026-09-15
 
+
+> NBC TA 200 (R1), item 11 — <mark style="background:rgba(240, 200, 0, 0.2)">objetivos gerais do auditor independente</mark>: (i) obter segurança razoável de que as demonstrações contábeis como um todo estão livres de distorção relevante, independentemente de causada por fraude ou erro; (ii) emitir e apresentar relatório com base nas evidências, comunicando-se com a administração e o mercado conforme as normas exigirem.
+  ⚠️ "Aumentar a confiança da sociedade e dos usuários da informação" é o objetivo da auditoria em si — banca costuma confundir isso com os objetivos gerais do auditor do item 11, que são só os dois acima.
+
 ## Auditoria Interna;
 - [ ] status [dom:: 3.5] [peso:: 2]
  [cad:: 7d] [prox:: 2026-08-28]
@@ -79,6 +83,7 @@ Concentre na metade **aplicada** — é o que o cargo faz e o que alimenta a dis
 **a) inspeção – verificação de registros, documentos e ativos tangíveis;**
 **b) observação – acompanhamento de processo ou procedimento quando de sua execução; e**
 **c) investigação e confirmação – obtenção de informações perante pessoas físicas ou jurídicas conhecedoras das transações e das operações, dentro ou fora da entidade.**
+  ⚠️ São testes de **observância** (compliance), não substantivos.
 
 >**NBC TI 01 – DA AUDITORIA INTERNA** 
 **12.2 – NORMAS DE EXECUÇÃO DOS TRABALHOS** 
@@ -207,6 +212,10 @@ Na auditoria de demonstrações contábeis, o gabarito está correto porque **a
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/29/assuntos/2736)
 
+> NBC TA 330, item 18 — <mark style="background:rgba(240, 200, 0, 0.2)">independentemente dos riscos identificados de distorção relevante, o auditor deve planejar e executar procedimentos substantivos para cada classe de transações, saldo de contas e divulgações significativas</mark>. Obrigação expressa, não condicionada ao nível de risco avaliado.
+
+> NBC T 11, alínea e — **revisão analítica**: verificação do comportamento de valores significativos, mediante índices, quocientes, quantidades absolutas ou outros meios, com vistas à identificação de situação ou tendências atípicas.
+
 
 ## - Evidência em Auditoria;
 - [ ] status [dom:: 0] [peso:: 2]
@@ -218,6 +227,12 @@ Na auditoria de demonstrações contábeis, o gabarito está correto porque **a
 Item 6. _O auditor deve definir e executar procedimentos de auditoria que sejam apropriados às circunstâncias com o objetivo de obter evidência de auditoria **apropriada e suficiente** (ver itens A1 a A25)_
 A **suficiência de evidência** é a mensuração da quantidade de evidências. A quantidade de evidência necessária é influenciada pelos riscos da informação do objeto ser distorcida de forma relevante (quanto maior forem os riscos, mais evidência será necessária) e também pela qualidade dessas evidências (quanto melhor a qualidade, menos será necessária).
 A **Adequação de evidência** é a mensuração da qualidade da evidência; ou seja, sua relevância e confiabilidade em fornecer fundamentação para a conclusão do auditor independente.
+
+**Terminologia clássica × NBC TA 500** (bancas alternam os dois vocabulários):
+- Circularização (Confirmação) → <mark style="background:rgba(240, 200, 0, 0.2)">Confirmação Externa</mark>
+- Conferência de cálculos → <mark style="background:rgba(240, 200, 0, 0.2)">Recálculo</mark>
+- Averiguação (Inquérito) → <mark style="background:rgba(240, 200, 0, 0.2)">Indagação</mark>
+- Exame e contagem física + Inspeção de documentos → <mark style="background:rgba(240, 200, 0, 0.2)">Inspeção</mark> (conceito único: exame de registros/documentos em papel ou mídia eletrônica e exame físico de ativo tangível)
 
 
 ## - Fraude e Erro;
@@ -480,6 +495,9 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
 > NBC TA 540 — a estimativa contábil é conceituada como o "valor monetário para o qual a mensuração, de acordo com os requisitos da estrutura de relatório financeiro aplicável, está sujeita à incerteza da estimativa".
 
 > O auditor **deve** revisar o resultado das estimativas contábeis anteriores ou, quando aplicável, sua reestimativa subsequente — é procedimento **obrigatório** de avaliação de risco (entender como a administração trabalha e se há tendenciosidade), **não condicionado a suspeita prévia de erro/fraude**. Essa revisão retrospectiva serve para auxiliar na identificação e na avaliação dos riscos de distorção relevante no período corrente.
+
+> NBC TA 501, item 10 — identificado risco de distorção relevante relativo a litígios ou reclamações (ou indícios de que outros possam existir), o auditor deve, além dos demais procedimentos exigidos, <mark style="background:rgba(240, 200, 0, 0.2)">comunicar-se diretamente com os consultores jurídicos externos da entidade</mark>, por meio de circularização (carta de indagação aos advogados) elaborada pela administração e enviada pelo auditor, solicitando que os consultores se comuniquem diretamente com o auditor. Se lei, regulamento ou o órgão jurídico proibir o contato direto, o auditor executa procedimentos alternativos.
+
 ## - Continuidade Normal das Atividades da Entidade;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Utilização do Trabalho de Outros Profissionais.

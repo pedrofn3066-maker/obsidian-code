@@ -35,7 +35,7 @@ prioridade: importante
 
 - [ ] Linguagem SQL [dom:: 3] [peso:: 14.2]
 - [ ] Aprendizado de Máquina (Machine Learning) [dom:: 0] [peso:: 9.9]
-- [ ] Big Data [dom:: 4] [peso:: 9.6]
+- [ ] Big Data [dom:: 3] [peso:: 9.6]
 - [ ] Data Warehouse e Data Mart [dom:: 4] [peso:: 7.0]
 - [ ] Modelo Relacional [dom:: 4] [peso:: 4.8]
 - [ ] Conceitos Iniciais e Gerais de IA [dom:: 0] [peso:: 4.8]
@@ -160,7 +160,7 @@ A transformação de dados é um processo no qual os dados brutos são modificad
 | **Custo de aquisição** | Custo de aquisição e verificação dos dados em sua forma original.                               |
 
 ## -  4 Governança de Dados: papéis, políticas, accountability, stewardship e alinhamento estratégico.
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-12
 
 **De acordo com o DAMA DMBOK, a governança de dados tem como objetivo central habilitar a organização a gerenciar seus dados como ativos valiosos, exigindo _accountability_ (responsabilização), controle e regras bem definidas, de forma alinhada aos objetivos do negócio.**
 Veja os erros das outras opções:

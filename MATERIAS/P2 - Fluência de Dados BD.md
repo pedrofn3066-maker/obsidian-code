@@ -35,7 +35,7 @@ prioridade: importante
 
 - [ ] Linguagem SQL [dom:: 3] [peso:: 14.2]
 - [ ] Aprendizado de Máquina (Machine Learning) [dom:: 0] [peso:: 9.9]
-- [ ] Big Data [dom:: 4] [peso:: 9.6]
+- [ ] Big Data [dom:: 3] [peso:: 9.6]
 - [ ] Data Warehouse e Data Mart [dom:: 4] [peso:: 7.0]
 - [ ] Modelo Relacional [dom:: 4] [peso:: 4.8]
 - [ ] Conceitos Iniciais e Gerais de IA [dom:: 0] [peso:: 4.8]
@@ -243,7 +243,7 @@ Portanto, a afirmação de que uma zona de disponibilidade é composta por um co
 # Bloco D:
 
 ## - Big Data
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 4] [peso:: 3]
 
 Conjunto de dados que supera a capacidade de processamento dos sistemas convencionais, com alta variedade (estruturados e não estruturados) e que exige escalabilidade horizontal.
 
@@ -364,7 +364,7 @@ Insere os dados extraídos e transformados no destino final — geralmente um Da
 # Bloco E:
 
 ## - Consultas e Comandos em SQL
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 3] [peso:: 3]
 ## - Sublinguagens SQL (DDL, DML, DQL, DCL e DTL)
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Procedimentos Armazenados (Stored Procedures)
