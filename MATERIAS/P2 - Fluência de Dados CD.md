@@ -159,8 +159,8 @@ A transformação de dados é um processo no qual os dados brutos são modificad
 | **Processamento**      | <font color="#de7802">Quantidade de correção de erros e rotulagem antes da distribuição</font>. |
 | **Custo de aquisição** | Custo de aquisição e verificação dos dados em sua forma original.                               |
 
-## -  4 Governança de Dados: papéis, políticas, accountability, stewardship e alinhamento estratégico.
-- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-12
+##  4 Governança de Dados: papéis, políticas, accountability, stewardship e alinhamento estratégico.
+- [ ] status [dom:: 3] [peso:: 3]
 
 **De acordo com o DAMA DMBOK, a governança de dados tem como objetivo central habilitar a organização a gerenciar seus dados como ativos valiosos, exigindo _accountability_ (responsabilização), controle e regras bem definidas, de forma alinhada aos objetivos do negócio.**
 Veja os erros das outras opções:
@@ -169,12 +169,100 @@ Veja os erros das outras opções:
 **C:** A governança exerce autoridade, supervisão e controle. A execução técnica e operacional (como realizar o processo de ETL) cabe a outras áreas de conhecimento, como a Integração de Dados.  
 **D:** Os _data stewards_ (mordomos de dados) atuam e são responsáveis diretamente _dentro_ da área de negócios da organização, não sendo necessariamente especialistas externos independentes.
 
+#### Governança colegiada
+
+<mark style="background:#fff88f">Governança colegiada</mark>: composta por membros de **várias áreas distintas**, internas e externas à organização, que definem o processo de organização e gerenciamento de dados. Há definição de **diretrizes gerais**, e cada setor cuida das suas particularidades a partir do contexto geral.
+
+Caso da questão: representantes da Coordenadoria de Fiscalização, da Subsecretaria de Arrecadação e da Diretoria de Tecnologia da Informação → governança colegiada.
+
+#### Gestor de Dados (Data Steward)
+
+<mark style="background:#fff88f">Gestor de Dados</mark> é o rótulo mais comum para a responsabilidade e a prestação de contas pelos dados e pelos processos que garantem o controle eficaz e o uso dos ativos de dados. Pode ser formalizado por cargos e descrições de trabalho, ou ser uma função menos formal, exercida por pessoas que ajudam a organização a obter valor dos dados. *Custodiante* e *fiduciário* costumam ser sinônimos de quem exerce funções semelhantes.
+
+- Gerenciam ativos de dados **em nome de outros** e no melhor interesse da organização (McGilvray, 2008).
+- Representam os interesses de **todas as partes interessadas** e adotam perspectiva empresarial, para que os dados sejam de alta qualidade e usados com eficácia.
+- Os eficazes são responsáveis e prestam contas pelas atividades de governança de dados e dedicam parte do tempo a elas.
+
+Na maioria dos casos, as atividades se concentram em alguns, senão todos, destes aspectos:
+
+1. **Criar e gerenciar Metadados principais:** terminologia de negócios, valores de dados válidos e outros metadados críticos. Frequentemente respondem pelo **Glossário de Negócios**, que vira o sistema de registro dos termos de negócio relacionados aos dados.
+2. **Documentar regras e padrões:** regras de negócio, padrões de dados e regras de qualidade de dados. As expectativas de dados de alta qualidade costumam ser formuladas como regras baseadas nos processos de negócio que criam ou consomem os dados. Ajudam a garantir consenso sobre elas e uso consistente.
+3. **Gerenciar problemas de qualidade de dados:** identificação e resolução de questões relacionadas aos dados, ou facilitação do processo de resolução.
+4. **Executar atividades operacionais de governança:** garantir, no dia a dia e projeto a projeto, que as políticas e iniciativas de governança sejam seguidas, e influenciar decisões para que os dados sejam gerenciados de modo a apoiar os objetivos gerais da organização.
+
+#### Engenheiro de dados × cientista de dados
+
+<mark style="background:#fff88f">Engenheiro de dados</mark>: projeta, implementa e mantém **pipelines de dados**, processos de integração, mecanismos de armazenamento e disponibilização de informações (item CORRETO). Desenvolve e otimiza pipelines que movem informações de múltiplas fontes para bancos de dados, data warehouses ou plataformas em nuvem, garantindo dados limpos, confiáveis e acessíveis. Gerencia o processamento em escala (fluxos em tempo real e em lote) para dar suporte a análise, BI e aprendizado de máquina, e cria a infraestrutura que torna possível a análise avançada.
+
+⚠️ **Erro que cometi:** confundi com o cientista de dados. **Elaborar modelos estatísticos preditivos e construir algoritmos de aprendizado de máquina para identificar padrões automaticamente** é atribuição do cientista de dados, não do engenheiro.
+
+#### Alfabetização de dados (data literacy)
+
+<mark style="background:#fff88f">Alfabetização de dados</mark>: capacidade de ler, trabalhar, analisar, comunicar e raciocinar com dados de forma eficaz. É entender o que os dados significam, como são criados e como usá-los para fazer as perguntas certas, interpretá-los corretamente e tomar decisões informadas e baseadas em evidências. Traz uma abordagem de pensar criticamente sobre os dados e de explicar suas nuances com clareza.
+
+⚠️ **Questão** (origem anotada: Cebraspe, SEFAZ-RN, Inovando RS): o enunciado pedia a técnica que avalia de forma **criteriosa** a fidedignidade das fontes, a integridade metodológica e a neutralidade dos dados → alfabetização de dados. "Criteriosa" remete a **questionamentos críticos**: ler e questionar criticamente os dados permite identificar distorções ou interpretações equivocadas **antes** da tomada de decisão.
+
+#### Governança de dados não se resume à criptografia
+
+⚠️ **Reducionismo do enunciado (item ERRADO):** dizer que a governança de dados é apenas um método com "criptografia segura para o armazenamento de dados" subestima sua amplitude.
+
+- Governança de dados é um conjunto abrangente de práticas, processos, papéis, responsabilidades e métricas para garantir a **qualidade, a privacidade, a integridade e a proteção** dos dados, com atividades como gestão de dados mestres, qualidade de dados e gerenciamento do ciclo de vida.
+- Lida com a maneira como os dados são coletados, armazenados, gerenciados, compartilhados e usados na organização.
+- A criptografia é uma ferramenta vital contra o acesso não autorizado, mas é **apenas um componente** dessas práticas.
+
+Erro que cometi: não percebi o reducionismo do enunciado.
+
 
 ## - 5 Qualidade de Dados: completude, consistência, acurácia, unicidade, atualidade e integridade.
 - [ ] status [dom:: 0] [peso:: 3]
 
+#### Dimensões de qualidade de dados
+
+Item CORRETO: a qualidade de dados é tratada como <mark style="background:#fff88f">disciplina multidimensional</mark>, cujas dimensões (como acurácia, completude, consistência, tempestividade e unicidade) devem ser definidas e medidas com base nos **requisitos e na criticidade do negócio**. Uma dimensão serve para definir resultados da avaliação inicial da qualidade dos dados. São definidas **quatro categorias de dimensões**, e cada uma tem várias dimensões, entre elas as citadas.
+
+#### Quality by Design (QbD)
+
+<mark style="background:#fff88f">Quality by Design</mark> é uma abordagem **proativa**: incorpora a qualidade desde o início, na concepção e execução dos processos (entrada, captura e transformação dos dados). A ideia é evitar erros antes que aconteçam, em vez de corrigi-los depois.
+
+→ qualidade embutida desde a origem: no projeto, na entrada e na transformação dos dados.
+
+#### Qualidade em modelos de dados
+
+⚠️ A definição de "secundário" **não** é componente principal dos processos de qualidade para modelos de dados. Os principais componentes geralmente incluem:
+
+- **Definição de requisitos:** entender o que o modelo precisa representar e as necessidades dos usuários.
+- **Modelagem conceitual:** modelo de alto nível com os conceitos e relacionamentos importantes do domínio de negócio.
+- **Modelagem lógica:** transforma o conceitual em modelo mais detalhado, independente de qualquer tecnologia específica de banco de dados.
+- **Modelagem física:** mapeia o lógico para um esquema de banco de dados específico, considerando o SGBD utilizado.
+- **Normalização:** técnicas para garantir a integridade dos dados e minimizar a redundância.
+- **Revisão por pares:** outros especialistas revisam o modelo para identificar erros, inconsistências ou melhorias.
+- **Testes:** validar o modelo com dados reais ou simulados para garantir que atenda aos requisitos e funcione como esperado.
+- **Documentação:** documentação clara e completa, com diagramas, descrições de entidades e atributos e regras de negócio.
+
+#### Data profiling
+
+<mark style="background:#fff88f">Data profiling</mark> é o processo de criação de perfis de dados para descobrir, entender e classificar os dados, identificando suas características e avaliando a qualidade. Revela se os dados são completos ou exclusivos, detecta erros e padrões atípicos e determina a usabilidade. Com isso, a empresa obtém análises precisas, decisões mais eficazes e economia de recursos.
+
 ## - 6 DMBOK: áreas de conhecimento, governança, arquitetura de dados, metadados, qualidade, segurança e master data.
 - [ ] status [dom:: 0] [peso:: 3]
+
+As **áreas de conhecimento** descrevem o escopo e o contexto de conjuntos de atividades de gerenciamento de dados; nelas estão embutidos os objetivos e princípios fundamentais do gerenciamento de dados. Como os dados se movem horizontalmente nas organizações, as atividades das áreas **se cruzam entre si** e com outras funções organizacionais.
+
+| Cap. | Área | Escopo |
+| --- | --- | --- |
+| 3 | **Governança de Dados** | fornece direção e supervisão para o gerenciamento de dados, estabelecendo um sistema de **direitos de decisão** sobre os dados que considera as necessidades da empresa. |
+| 4 | **Arquitetura de Dados** | define o modelo para gerenciar ativos de dados, alinhando-se com a estratégia organizacional para estabelecer requisitos de dados estratégicos e designs para atendê-los. |
+| 5 | **Modelagem e Projeto de Dados** | processo de descobrir, analisar, representar e comunicar requisitos de dados numa forma precisa chamada modelo de dados. |
+| 6 | **Armazenamento de Dados e Operações** | design, implementação e suporte de dados armazenados para maximizar seu valor. As operações dão suporte durante todo o **ciclo de vida dos dados, do planejamento ao descarte**. |
+| 7 | **Segurança de Dados** | garante que a privacidade e a confidencialidade sejam mantidas, que os dados não sejam violados e que sejam acessados de forma adequada. |
+| 8 | **Integração e Interoperabilidade** | processos de movimentação e consolidação de dados dentro e entre armazenamentos, aplicativos e organizações. |
+| 9 | **Gerenciamento de Conteúdo e Documento** | planejamento, implementação e controle do ciclo de vida de dados e informações em mídias não estruturadas, especialmente documentos necessários a requisitos de conformidade legal e regulatória. |
+| 10 | **Dados Mestres e de Referência** | reconciliação e manutenção contínuas de dados compartilhados essenciais, para permitir o uso consistente em todos os sistemas da versão mais precisa, oportuna e relevante da verdade sobre entidades comerciais essenciais. |
+| 11 | **Data Warehousing e Business Intelligence** | planejamento, implementação e controle para gerenciar dados de suporte à decisão e permitir que os trabalhadores do conhecimento obtenham valor dos dados por análise e relatórios. |
+| 12 | **Metadados** | planejamento, implementação e controle para permitir acesso a metadados integrados de alta qualidade (definições, modelos, fluxos de dados e outras informações críticas para entender os dados e os sistemas que os criam, mantêm e acessam). |
+| 13 | **Qualidade dos Dados** | planejamento e implementação de técnicas de gerenciamento de qualidade para medir, avaliar e melhorar a adequação dos dados para uso na organização. |
+
+⚠️ **Erro que cometi:** não sabia que o *Armazenamento de Dados e Operações* responde pelo suporte ao ciclo de vida dos dados; eu associava isso à governança de dados.
 
 
 # Bloco B: Data mining, CSV, XML, JSON, CRISP-DM
