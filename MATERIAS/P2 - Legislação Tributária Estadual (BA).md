@@ -62,7 +62,7 @@ Método de leitura em três colunas para cada instituto — nacional, estadual, 
 # - ICMS
     
 ## - Constituição Federal  
-- [ ] status [dom:: 3] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-17
 
 ![[Captura de Tela 2026-08-18 às 12.01.29.png|522]]
 
@@ -102,7 +102,7 @@ parei no artigo 7, antes de substituicao tributaria
 
 
 ## ICMS - Lei 7.014/96
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 2] [peso:: 3]
 
 1. <mark style="background:rgba(140, 140, 140, 0.12)">O resultado financeiro obtido com a prestação de serviços de comunicação é irrelevante para a caracterização do fato gerador do ICMS.</mark>
     spoiler! -**Resposta: ERRADO**

@@ -214,7 +214,7 @@ resumo de administrador
 # - Bloco B:
 
 ## - Processo de planejamento
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 3] [peso:: 2]
 
 **Desdobramento hierárquico dos objetivos** — as <mark style="background:#fff88f">normas ocupam o nível mais restrito e detalhado</mark>, por tratarem das regras a seguir em cada procedimento para alcançar o objetivo.
 
@@ -243,7 +243,7 @@ O **plano**, resultado do planejamento, responde: *o quê, quando, como, onde e 
 Arquiteto **constrói** · Agente de mudanças **faz entrar na rotina** · Comunicador **espalha e engaja**.
 
 ## - Indicadores de desempenho
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 3] [peso:: 2]
 
 Segundo **Mauriti e Macieira (2010)**, os indicadores são a face mais representativa das medições e avaliações nas organizações. **Indicadores de desempenho (KPI)** são dados objetivos ou numéricos coletados sobre os resultados dos processos — isolados ou combinados — capazes de descrever quantitativamente uma situação de interesse.
 

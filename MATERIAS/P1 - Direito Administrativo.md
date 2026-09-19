@@ -229,6 +229,15 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 - **Patrocínio não é espécie de contrato administrativo sujeita a licitação** — é apoio financeiro ou promocional a eventos (culturais, esportivos, educacionais), distinto dos contratos administrativos, que envolvem prestação de serviço ou fornecimento de bens ao poder público.
 - Responsabilidade subsidiária da Administração por encargos trabalhistas de empresa terceirizada **não é automática**: exige comprovação de comportamento negligente ou nexo causal entre o dano e a conduta comissiva/omissiva do poder público — não basta a inversão do ônus da prova. Há negligência quando a Administração permanece inerte após notificação formal de descumprimento trabalhista (do trabalhador, sindicato, MTE, MP, Defensoria etc.). A Administração responde também por garantir condições de segurança, higiene e salubridade quando o trabalho ocorrer em suas dependências ou local convencionado em contrato (art. 5º-A, § 3º, Lei nº 6.019/74). Nos contratos de terceirização, deve ainda: exigir capital social integralizado compatível com o nº de empregados (art. 4º-B, Lei nº 6.019/74) e condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior (art. 121, § 3º, Lei nº 14.133/2021).
 - STF, Tema 725 (repercussão geral): <mark style="background:rgba(240, 167, 216, 0.55)">é lícita a terceirização de qualquer atividade</mark>, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante.
+- Art. 6º, XXIV — <mark style="background:rgba(240, 200, 0, 0.2)">anteprojeto</mark>: peça técnica com todos os subsídios necessários à elaboração do projeto básico, que deve conter, no mínimo: (a) demonstração e justificativa do programa de necessidades, avaliação de demanda do público-alvo, motivação técnico-econômico-social do empreendimento, visão global dos investimentos e definições relacionadas ao nível de serviço desejado; (b) condições de solidez, de segurança e de durabilidade; (c) prazo de entrega; (d) estética do projeto arquitetônico, traçado geométrico e/ou projeto da área de influência, quando cabível; (e) parâmetros de adequação ao interesse público, de economia na utilização, de facilidade na execução, de impacto ambiental e de acessibilidade; (f) proposta de concepção da obra ou do serviço de engenharia; (g) projetos anteriores ou estudos preliminares que embasaram a concepção proposta; (h) levantamento topográfico e cadastral; (i) pareceres de sondagem; (j) memorial descritivo dos elementos da edificação, dos componentes construtivos e dos materiais de construção, de forma a estabelecer padrões mínimos para a contratação.
+- Art. 18 — a **fase preparatória** do processo licitatório é caracterizada pelo planejamento; deve compatibilizar-se com o plano de contratações anual (quando elaborado) e com as leis orçamentárias. § 1º — o **estudo técnico preliminar (ETP)** deve evidenciar o problema a ser resolvido e a melhor solução, permitindo avaliar a viabilidade técnica e econômica da contratação; elementos mínimos: (I) descrição da necessidade; (II) demonstração da previsão no plano de contratações anual; (III) requisitos da contratação; (IV) estimativas de quantidades com memórias de cálculo; (V) levantamento de mercado; (VI) estimativa do valor da contratação; (VII) descrição da solução como um todo; (VIII) justificativas para parcelamento ou não; (IX) demonstrativo de resultados de economicidade; (X) providências prévias à celebração do contrato; (XI) contratações correlatas/interdependentes; (XII) impactos ambientais e medidas mitigadoras; (XIII) posicionamento conclusivo sobre a adequação da contratação.
+- Art. 17 — <mark style="background:rgba(240, 200, 0, 0.2)">fases do processo de licitação</mark>, em sequência: (I) preparatória; (II) divulgação do edital; (III) apresentação de propostas e lances; (IV) julgamento; (V) habilitação; (VI) recursal; (VII) homologação. § 1º — mediante ato motivado com explicitação dos benefícios, a fase de habilitação (V) pode anteceder as fases de propostas/lances (III) e julgamento (IV), desde que previsto no edital.
+  ⚠️ Não há fase de **adjudicação** no rol do art. 17 — pegadinha clássica.
+- Art. 6º — modalidades: **XLI. Pregão**: licitação obrigatória para bens e serviços comuns, julgamento por menor preço ou maior desconto. **XXXIX. Concurso**: escolha de trabalho técnico, científico ou artístico, julgamento por melhor técnica ou conteúdo artístico, para concessão de prêmio ou remuneração ao vencedor.
+  ⚠️ Concurso julgado só por melhor técnica/conteúdo artístico → prazo mínimo para apresentação de propostas de **35 dias úteis** (art. 55, IV).
+- Art. 74 — inexigível a licitação quando inviável a competição, entre outros casos: (IV) objetos que devam ou possam ser contratados por meio de <mark style="background:rgba(240, 200, 0, 0.2)">credenciamento</mark>; (V) aquisição ou locação de imóvel cujas características de instalação e localização tornem necessária sua escolha; (III) serviços técnicos especializados de natureza predominantemente intelectual com profissionais/empresas de <mark style="background:rgba(240, 200, 0, 0.2)">notória especialização</mark> — vedada a inexigibilidade para serviços de publicidade e divulgação — abrangendo: (a) estudos técnicos, planejamentos, projetos básicos e executivos; (b) pareceres, perícias e avaliações em geral; (c) assessorias e consultorias técnicas e auditorias financeiras e tributárias; (d) fiscalização, supervisão e gerenciamento de obras e serviços; (e) patrocínio ou defesa de causas judiciais e administrativas; (f) treinamento e aperfeiçoamento de pessoal; (g) restauração de obras de arte e de bens de valor histórico; (h) controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente e demais serviços de engenharia que se enquadrem na definição.
+  ⚠️ Credenciamento e notória especialização (ex.: consultoria técnica de profissional renomado) são hipóteses de **inexigibilidade**, não de dispensa.
+
 ## - Empresas estatais: normas constitucionais, Lei nº 13.303/2016 e Decreto nº 8.945/2016.
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Parcerias Público-Privadas (Lei nº 11.079/2004).
@@ -244,10 +253,13 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
     
 ### Classificação dos Agentes Públicos
 - [ ] status [dom:: 0] [peso:: 2]
+- <mark style="background:rgba(240, 200, 0, 0.2)">Agentes políticos</mark> integram a categoria dos agentes públicos, exercendo funções de direção e orientação estatal.
 (https://www.tecconcursos.com.br/aulas/materias/1/assuntos/1165?indice=1&materia=537)
     
 ### Funções, Cargos e Empregos Públicos
 - [ ] status [dom:: 0] [peso:: 2]
+- Art. 37, XVI, CF — <mark style="background:rgba(240, 200, 0, 0.2)">é vedada a acumulação remunerada de cargos públicos</mark>, exceto, havendo compatibilidade de horários e observado o teto do inciso XI: (a) dois cargos de professor; (b) um cargo de professor com outro de qualquer natureza; (c) dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas.
+  ⚠️ Caso TEC: enfermeira, servidora pública, também trabalhando em hospital particular — cai na exceção da alínea (c).
 (https://www.tecconcursos.com.br/aulas/materias/1/assuntos/2221?indice=1&materia=537)
     
 ### Criação, Transformação e Extinção de Cargos Públicos
@@ -260,6 +272,11 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Improbidade administrativa (Lei nº 8.429/1992).
 - [ ] status [dom:: 0] [peso:: 2]
+
+> Art. 9º, X (Lei nº 8.429/1992) — constitui ato de improbidade administrativa que importa <mark style="background:rgba(240, 200, 0, 0.2)">enriquecimento ilícito</mark>: receber vantagem econômica de qualquer natureza, direta ou indiretamente, para omitir ato de ofício, providência ou declaração a que esteja obrigado.
+
+> Art. 11 (Lei nº 8.429/1992, redação da Lei nº 14.230/2021) — constitui ato de improbidade que atenta contra os <mark style="background:rgba(240, 200, 0, 0.2)">princípios da administração pública</mark> a ação ou omissão dolosa que viole os deveres de honestidade, imparcialidade e legalidade: (IV) negar publicidade aos atos oficiais, exceto por imprescindibilidade à segurança da sociedade/Estado ou outras hipóteses legais; (V) frustrar, em ofensa à imparcialidade, o caráter concorrencial de concurso público, chamamento ou procedimento licitatório, visando benefício próprio, direto ou indireto, ou de terceiros; (VI) deixar de prestar contas quando obrigado e com condições para isso, visando ocultar irregularidades; (VIII) descumprir normas relativas à celebração, fiscalização e aprovação de contas de parcerias firmadas pela administração pública com entidades privadas.
+
 ## - Integridade e Combate à Corrupção. Lei Anticorrupção (Lei nº 12.846/2013).
 - [ ] status [dom:: 0] [peso:: 2]
 
@@ -267,7 +284,7 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 # Jurisprudência em Matéria Administrativa
 - [ ] status [dom:: 0] [peso:: 10.9]
 
-[[MATERIAL/JURISPRUDENCIAS /Resumo-Jurisprudencia-D.-Administrativo-Fiscal-4.0-V1.0.pdf|Resumo-Jurisprudencia-D.-Administrativo-Fiscal-4.0-V1.0]]
+[[MATERIAL/JURISPRUDENCIAS/Resumo-Jurisprudencia-D.-Administrativo-Fiscal-4.0-V1.0.pdf|Resumo-Jurisprudencia-D.-Administrativo-Fiscal-4.0-V1.0]]
 parei na pag 12
 
 

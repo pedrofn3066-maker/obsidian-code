@@ -119,6 +119,68 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/33/assuntos/1655)
 # - Bloco B:  
 ## - Modelo IS-LM;
 - [ ] status [dom:: 0] [peso:: 2]
+
+*Fonte: material próprio (Gemini) — [[guia-islm-didatico-gemini.pdf]] e [[guia-islm-avancado-gemini.pdf]], em `MATERIAL/MACRO/`.*
+
+### Premissas do modelo (Hicks-Hansen)
+- **Curto prazo e preços rígidos**: sem inflação — toda variação na oferta de moeda afeta juros e renda, não preços.
+- **Economia fechada**: sem importação/exportação (versão básica).
+- **Demanda determina a produção**: Princípio da Demanda Efetiva de Keynes — a renda ($Y$) se ajusta à demanda.
+- **Oferta de moeda exógena**: quantidade de moeda fixada pelo Banco Central.
+
+### A analogia da "Feira Macro"
+Assim como Oferta e Demanda equilibram Preço × Quantidade de um bem, o IS-LM equilibra o país inteiro:
+- **"Preço" = Taxa de juros ($i$)** — o preço de alugar dinheiro.
+- **"Quantidade" = Renda/Produto ($Y$)**.
+
+**A Feira Dupla** (equilíbrio = acordo entre duas curvas):
+1. **Curva IS (feira de bens reais)** — mercado de bens. Juros altos → poupar rende mais que investir → investimento cai → produção (IS) cai. Relação **negativa** entre $i$ e $Y$.
+2. **Curva LM (feira do dinheiro)** — mercado monetário/liquidez. Renda alta → mais demanda por moeda para transação → juros sobem para equilibrar a oferta fixa de moeda. Relação **positiva** entre $i$ e $Y$.
+
+### Os 4 casos extremos
+| Caso | Condição | Política Monetária | Política Fiscal |
+| --- | --- | --- | --- |
+| **Clássico** (LM vertical) | demanda por moeda insensível a $i$ ($h=0$) | Máxima eficácia | Ineficaz (*crowding out* de 100%) |
+| **Armadilha da Liquidez / Keynesiano** (LM horizontal) | demanda por moeda infinitamente sensível a $i$ ($h\to\infty$) | Ineficaz | Máxima eficácia (zero *crowding out*) |
+| **Investimento Inelástico** (IS vertical) | investimento insensível a $i$ ($b=0$) | Ineficaz na renda | Máxima eficácia |
+| **Investimento Infinitamente Elástico** (IS horizontal) | investimento infinitamente sensível a $i$ ($b\to\infty$) | Máxima eficácia | Ineficaz |
+
+**Regra das inclinações relativas:**
+- **IS íngreme + LM plana** → preponderância da **política fiscal** (crowding out mínimo, governo controla mais a renda).
+- **IS plana + LM íngreme** → preponderância da **política monetária** (crowding out massivo, BC controla mais a renda).
+
+### Casos extremos — mnemônicos
+> [!example]- Armadilha da Liquidez (o pote de feijão)
+> Juro real ~0%: ninguém quer título, todo mundo quer moeda. O BC imprime dinheiro, mas ele é "engolido" pela preferência por liquidez (some no pote de feijão) — a LM fica horizontal e a política monetária não move os juros nem a renda. Só gasto público (política fiscal) resolve.
+
+> [!example]- Investimento Inelástico (o empreendedor fanático)
+> Investimento não reage a juros ($b=0$): mesmo com juros a 500%, o investidor faz o projeto do mesmo jeito. A IS fica vertical — o Banco Central perde o poder de alterar a renda via juros; só a política fiscal desloca $Y$.
+
+### Efeito Crowding Out (deslocamento)
+**Teoria:** aumento do gasto do governo eleva a renda → aumenta a demanda por moeda (motivo transação) → como a oferta de moeda é fixa, os juros sobem → juros altos desestimulam o investimento privado.
+
+> [!example]- Mnemônico: o churrascão do governo
+> O Governo faz o maior churrasco da história (política fiscal expansionista) e pega quase todo o dinheiro emprestado no banco. O empresário Zé, que ia abrir uma lanchonete com um pequeno empréstimo, é avisado que o dinheiro que sobrou agora custa o triplo de juros. Zé desiste. O Governo estimulou a economia, mas "expulsou" (*crowded out*) o Zé.
+
+#### Demonstração matemática
+**Equações estruturais:**
+- IS (mercado de bens): $Y = C + I + G = c_0 + c(Y-T) + \bar{I} - bi + \bar{G}$
+  Definindo $A = c_0 - cT + \bar{I} + \bar{G}$ (gasto autônomo):
+  $$Y = \frac{1}{1-c}[A - bi]$$
+- LM (mercado monetário): $\dfrac{\bar{M}}{\bar{P}} = kY - hi \;\Rightarrow\; i = \dfrac{k}{h}Y - \dfrac{1}{h}\dfrac{\bar{M}}{\bar{P}}$
+
+**Equilíbrio simultâneo** (substituindo $i$ da LM na IS):
+$$Y = \left(\frac{h}{h(1-c)+bk}\right)A + \left(\frac{b}{h(1-c)+bk}\right)\frac{\bar{M}}{\bar{P}}$$
+
+**Multiplicador da política fiscal no IS-LM completo:**
+$$\gamma = \frac{h}{h(1-c)+bk} = \frac{1}{(1-c)+\frac{bk}{h}}$$
+
+**Prova do deslocamento:** no modelo keynesiano simples (juros fixos, sem "feira do dinheiro"), o multiplicador é $\alpha = \dfrac{1}{1-c}$. Como $b, k, h > 0$, o termo $\dfrac{bk}{h} > 0$, então o denominador de $\gamma$ é maior que o de $\alpha$:
+$$(1-c) + \frac{bk}{h} > (1-c) \;\Longrightarrow\; \gamma < \alpha \;\Longrightarrow\; \Delta Y_{ISLM} < \Delta Y_{simples}$$
+
+> [!tip] Mecânica do crowding out
+> $\Delta \bar{G}$ eleva $Y$ → sobe a demanda por moeda por motivo transação ($kY$) → com oferta monetária fixa, $i$ precisa subir para reequilibrar o mercado monetário → o aumento de $i$ derruba o investimento privado ($b \cdot \Delta i$). A diferença exata entre $\Delta Y_{simples}$ e $\Delta Y_{ISLM}$ é o investimento "deslocado" da economia.
+
 ## - Inflação;
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Oferta e Demanda Agregada.

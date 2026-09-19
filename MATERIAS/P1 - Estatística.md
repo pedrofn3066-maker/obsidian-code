@@ -137,3 +137,54 @@ O índice de **preços** de Fischer fica:
 ![[Captura de Tela 2026-09-02 às 11.10.02.png]]
 
 
+
+# Probabilidade
+- [ ] status [dom:: 4] [peso:: 20.1]
+## Eventos e Espaço Amostral
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/883?indice=1&materia=882)
+    
+## Problemas Introdutórios de Probabilidade: Eventos Equiprováveis e Abordagem Frequentista
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/885?indice=1&materia=882)
+    
+## Probabilidade Condicional
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/886?indice=1&materia=882)
+    
+## Probabilidade da Intersecção
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/887?indice=1&materia=882)
+
+**P(A∩B) = P(A) × P(B|A)** — fórmula geral da interseção para eventos dependentes.
+
+Exemplo (sorteio sem reposição): urna com 2 bolas vermelhas e 3 pretas, duas sorteadas sem reposição. P(1ª vermelha e 2ª preta)?
+- P(A) = 2/5 (vermelha na 1ª extração)
+- P(B|A) = 3/4 (preta na 2ª, restando 1 vermelha e 3 pretas de 4)
+- P(A∩B) = 2/5 × 3/4 = 6/20 = 3/10
+
+⚠️ Sem reposição, a probabilidade da 2ª extração muda conforme o resultado da 1ª — eventos dependentes exigem condicionar (P(B|A)), não multiplicar P(A) por P(B) isolados.
+
+Generalização para n eventos, mesma lógica encadeada:
+- três eventos: P(A∩B∩C) = P(A) × P(B|A) × P(C|A,B)
+- quatro eventos: P(A∩B∩C∩D) = P(A) × P(B|A) × P(C|A,B) × P(D|A,B,C)
+
+Exemplo (3 eventos): Jorge viaja a trabalho. P(avião) = 0,6 (A); dado que vai de avião, P(escala) = 0,4 (B|A); dado que faz escala, P(escala em JK) = 0,3 (C|A,B).
+P(A∩B∩C) = 0,6 × 0,4 × 0,3 = 0,072 = 7,2%
+    
+## Probabilidade da União
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/889?indice=1&materia=882)
+    
+## Eventos Independentes e Eventos Mutuamente Excludentes
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/888?indice=1&materia=882)
+    
+## Probabilidade do Evento Complementar
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/890?indice=1&materia=882)
+    
+## Teorema da Probabilidade Total
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/892?indice=1&materia=882)
+    
+## Teorema de Bayes
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/891?indice=1&materia=882)
+    
+## Cálculo de Probabilidades Usando Análise Combinatória
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/893?indice=1&materia=882)
+    
+## Cálculo de Probabilidade a Partir de Áreas
+(https://www.tecconcursos.com.br/aulas/materias/61/assuntos/9328?indice=1&materia=882)

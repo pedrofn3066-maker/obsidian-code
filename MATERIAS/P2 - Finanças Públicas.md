@@ -23,10 +23,10 @@ Não existia como disciplina autônoma no edital baiano de 2019, mas é bloco es
 > o painel te cobrar. Escreva o conteúdo logo abaixo do cabeçalho do tópico, no formato que quiser.
 
 ### Funções do Estado e falhas de mercado
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-18
 
 ### Bens públicos, externalidades e monopólio natural
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-18
 
 ### Federalismo fiscal e repartição de competências
 - [ ] status [dom:: 0] [peso:: 3]

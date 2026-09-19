@@ -57,80 +57,6 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 # Bloco A
 ## - Juros Simples e Compostos;
 - [ ] status [dom:: 0] [peso:: 3]
-## - Descontos Simples e Compostos (racional e comercial);
-- [ ] status [dom:: 0] [peso:: 3]
-## - Taxas Efetivas, Nominais e Equivalentes;
-- [ ] status [dom:: 0] [peso:: 3]
-## - Convenção Linear e Exponencial;
-- [ ] status [dom:: 0] [peso:: 3]
-## - Capitalização Contínua.
-- [ ] status [dom:: 0] [peso:: 3]
-# Bloco B
-## - Inflação;
-- [ ] status [dom:: 0] [peso:: 3]
-## - Juros Reais x Aparentes;
-- [ ] status [dom:: 0] [peso:: 3]
-## - Equivalência de Capitais;
-- [ ] status [dom:: 0] [peso:: 3]
-## - Série de Pagamentos - Rendas.
-- [ ] status [dom:: 0] [peso:: 3]
-# Bloco C
-## - Sistemas de Amortização;
-### Sistema de Amortização Constante (SAC)
-- [ ] status [dom:: 0] [peso:: 3]
-(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/714?indice=1&materia=713)
-
-(Esaf) Um financiamento no valor de R$ 360.000,00 deve ser pago em 180 prestações mensais, pelo Sistema de Amortizações Constantes - SAC, a uma taxa nominal de 12% ao ano, vencendo a primeira prestação ao fim do primeiro mês, a segunda ao fim do segundo mês e assim sucessivamente. Calcule o valor mais próximo da décima prestação.
-a) R$ 5.600,00
-b) R$ 5.420,00
-c) R$ 5.400,00
-d) R$ 5.380,00
-e) R$ 5.500,00
-**Resolução:**
-A amortização mensal é dada por:
-q=360.000/180=2.000
-Após a nona prestação, já teremos amortizado 9 vezes a dívida:
-9×2.000=18.000
-
-A dívida remanescente será de:
-
-360.000−18.000=342.000
-
-No décimo mês, teremos juros de 1% incidindo sobre o valor acima:
-
-J10=1%×342.000=3.420
-
-Além disso, teremos o pagamento da amortização de 2.000,00. Somando tudo, a prestação será de:
-2.000+3.420=5.420
-
-### Sistema de Amortização Francês (Price)
-- [ ] status [dom:: 0] [peso:: 3]
-(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/715?indice=1&materia=713)
-
-![[Captura de Tela 2026-09-03 às 10.13.50.png|705]]
-
-![[Captura de Tela 2026-09-03 às 10.15.16.png|708]]
-
-
-
-
-### Sistema de Amortização Americano
-- [ ] status [dom:: 0] [peso:: 3]
-(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/716?indice=1&materia=713)
-    
-### Sistema de Amortização Alemão
-- [ ] status [dom:: 0] [peso:: 3]
-(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/717?indice=1&materia=713)
-    
-### Sistemas Mistos de Amortização
-- [ ] status [dom:: 0] [peso:: 3]
-(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/718?indice=1&materia=713)
-
-
-## - Análise de Investimentos.
-- [ ] status [dom:: 0] [peso:: 3]
-___
-
 
 **1. ANÁLISE DOS TÓPICOS**
 
@@ -141,50 +67,6 @@ ___
 **1.2 Juros Compostos**
 
 **1 -** A banca explora bastante situações envolvendo as principais fórmulas de juros compostos, pedindo principalmente o montante, a taxa de juros e o tempo utilizado na operação. Fique atento nas cobranças em que a banca exige a utilização de conceitos de matemática básica, como as propriedades do logaritmo.  
-
-**1.3 Descontos**
-
-**1 - Desconto simples (comercial > racional ):** A FCC possui um histórico consideravelmente maior de descontos simples do que de descontos compostos. A maioria das questões cobra a aplicação das fórmulas (o que torna essencial saber todas elas), entretanto cuidado com alguns raciocínios peculiares para a aplicação dessas fórmulas.  
-
-**2 - Desconto composto (racional > comercial):** Mesma observação do tópico anterior, precisaremos das fórmulas para resolver a imensa maioria dos enunciados. 
-
-**3 - Comparação entre os regimes de desconto:** A banca tem cobrado também a diferenciação dos regimes de desconto, por isso é importante, além de saber as fórmulas, entender bem a sistemática dos regimes pois uma questão teórica sobre esse ponto tem boa chance de aparecer.
-
-**1.4 Equivalência de capitais:** 
-
-**1 -** Nesse tópico, a banca geralmente apresenta uma situação específica e pede para comparar dois cenários, seja pedindo as taxas ou os retornos do investimento. 
-
-**1.5 Rendas:** 
-
-**1 - Valor atual de uma série de pagamentos -** A maior incidência de cobrança da banca está nesse subtópico, as questões pedem vários elementos da operação, como a taxa de juros e o valor total/parcelas de uma determinada situação.
-
-**1.6 Sistemas de Amortização**
-
-**1 - Sistema de Amortização Constante (SAC) -** Tópico muito explorado pela banca que geralmente é cobrado o **valor específico de determinada prestação e/ou a taxa de juros.** 
-
-**2 - Sistema de Amortização Francês (SAF) -** Segundo tópico mais cobrado que segue a mesma linha de cobranças do SAC.
-
-**3 - Sistema de Amortização Misto (SAM) -** Pouco cobrado, mas segue a mesma linha de cobrança dos sistemas anteriores.
-
-**1.7 Análise de Investimentos**
-
-**1 - TIR e TMA -** Tópico muito explorado pela banca que geralmente é cobrado o **valor específico de determinada prestação e/ou a taxa de juros, ou ainda a avaliação do investimento**
-
-**2 - VPL - Segundo tópico mais cobrado que segue a mesma linha de cobranças da TIR e da TMA.**
-
-**2. COMPILADOS BIZUS (POR TÓPICO)**
-
-- **Regimes de Capitalização**
-- **Taxas**
-- **Operações com Descontos**
-- **Equivalência de Capitais**
-- **Séries Uniformes**
-- **Rendas Perpétuas e Diferidas**
-- **Sistemas de Amortização**
-- **Análise de Investimentos**
-
-**SISTEMAS DE CAPITALIZAÇÃO**
-
 **1 DEFINIÇÕES**
 
 **1.1 JURO**
@@ -278,95 +160,30 @@ Onde: 
 
 **3.2 RELAÇÃO DOS REGIMES COM O PERÍODO**
 
-|   |   |
-|---|---|
-|**Número de períodos**|**Relação entre os montantes**|
-|n=1|O montante simples é igual ao montante composto.|
-|0<n<1|O montante simples é maior do que o montante composto.|
-|n>1|O montante simples é menor do que o montante composto.|
+|                        |                                                        |
+| ---------------------- | ------------------------------------------------------ |
+| **Número de períodos** | **Relação entre os montantes**                         |
+| n=1                    | O montante simples é igual ao montante composto.       |
+| 0<n<1                  | O montante simples é maior do que o montante composto. |
+| n>1                    | O montante simples é menor do que o montante composto. |
+## - Descontos Simples e Compostos (racional e comercial);
+- [ ] status [dom:: 0] [peso:: 3]
 
-**4. CAPITALIZAÇÃO CONTÍNUA**
+**1.3 Descontos**
 
-**4.1 CONCEITOS**
+**1 - Desconto simples (comercial > racional ):** A FCC possui um histórico consideravelmente maior de descontos simples do que de descontos compostos. A maioria das questões cobra a aplicação das fórmulas (o que torna essencial saber todas elas), entretanto cuidado com alguns raciocínios peculiares para a aplicação dessas fórmulas.  
 
-- Capitalização a todo instante. Espécie de Regime Composto
+**2 - Desconto composto (racional > comercial):** Mesma observação do tópico anterior, precisaremos das fórmulas para resolver a imensa maioria dos enunciados. 
 
-**4.2 FÓRMULAS**
+**3 - Comparação entre os regimes de desconto:** A banca tem cobrado também a diferenciação dos regimes de desconto, por isso é importante, além de saber as fórmulas, entender bem a sistemática dos regimes pois uma questão teórica sobre esse ponto tem boa chance de aparecer.
 
-- M=C.ei.nM=C.ei.n
+**1.4 Equivalência de capitais:** 
 
-**5. PERÍODO**
+**1 -** Nesse tópico, a banca geralmente apresenta uma situação específica e pede para comparar dois cenários, seja pedindo as taxas ou os retornos do investimento. 
 
-- Ano comercial: 360 dias (mês comercial: 30 dias)
-- Ano normal: 365 dias 
-- Ano bissexto: 366 dias
+**1.5 Rendas:** 
 
-Obs.: atentar para o comando da questão. Se nada for mencionado, considerar o ano como sendo comercial.
-
-**TAXAS**
-
-**1. TAXAS PROPORCIONAIS**
-
-São taxas que mantêm proporção direta com o período de tempo. 
-
-**i1i2=t1t2i2i1​=t2t1​**
-
-EXEMPLO
-
-3% ao mês é proporcional a 36% ao ano, já que 1 ano tem 12 meses:
-
-3% a.m. é proporcional a 36% a.a. (3% .12 = 36%)
-
-A⚡**Q****uestão [#1896855](https://www.tecconcursos.com.br/questoes/1896855)**  mostra o cálculo do juros simples aliado da interpretação da taxa de juros proporcionais. 
-
-**2. TAXAS EQUIVALENTES**
-
-- Duas taxas são ditas equivalentes quando, aplicadas a um mesmo capital inicial, pelo mesmo prazo, produzem o mesmo montante. 
-- No regime simples, taxas proporcionais são equivalentes, portanto, para se achar a taxa equivalente, basta usar regra de três.
-- No regime composto, taxas proporcionais não são equivalentes, portanto, é necessário igualar montantes compostos: 
-- M1=M2M1​=M2​, logo: (1+i1)ˆn1=(1+i2)ˆn2(1+i1​)ˆn1​=(1+i2​)ˆn2​
-
-Onde, 
-
-- M1,M2M1​,M2​: montantes.
-- i1,i2i1​,i2​: taxas de juros.
-- n1,n2n1​,n2​: períodos.
-
-**3. TAXA NOMINAL**
-
-- Quando o período da taxa não coincide com o período da capitalização. 
-- Exemplo: 24% ao ano com capitalização mensal. No exemplo, a taxa nominal é 24% ao ano e a efetiva é de 2% ao mês
-- Para cálculos, usar-se-á a taxa EFETIVA. Além disso, a efetiva é **sempre** encontrada por proporcionalidade, independente do regime.
-
-**4. TAXA EFETIVA**
-
-- Quando o período da taxa coincide com o período da capitalização. 
-- Exemplo: 2% ao mês com capitalização mensal. 
-
-**5. INFLAÇÃO, TAXA REAL E TAXA APARENTE**
-
-**5.1 RELAÇÃO DE FISHER**
-
-- (1+A)=(1+R).(1+I)(1+A)=(1+R).(1+I)
-
-Onde: 
-
-- A: Taxa aparente.
-- I: Inflação.
-- R: Taxa real.
-
-❗Veja a cobrança da banca na **⚡Questão [#2275921](https://www.tecconcursos.com.br/questoes/2275921)** 
-
-**5.2 INFLAÇÃO ACUMULADA** 
-
-- (1+I)=(1+i1).(1+i2).(1+i3)...(1+in)(1+I)=(1+i1​).(1+i2​).(1+i3​)...(1+in​)
-
-Onde:
-
-- _II_: taxa de inflação acumulada (resultante).
-- i1,i2,i3,...ini1​,i2​,i3​,...in​: taxas de inflação dos períodos.
-
-❗Veja a cobrança da banca nas **⚡Questões** **[#1896855](https://www.tecconcursos.com.br/questoes/1896855)** e **[#1817796](https://www.tecconcursos.com.br/questoes/1817796)**      
+**1 - Valor atual de uma série de pagamentos -** A maior incidência de cobrança da banca está nesse subtópico, as questões pedem vários elementos da operação, como a taxa de juros e o valor total/parcelas de uma determinada situação.
 
 **OPERAÇÕES COM DESCONTO**
 
@@ -512,7 +329,105 @@ onde:
 - Em operações de desconto, use o desconto composto racional;
     
 - Em alguns problemas, é indicado trocar (1+i)(1+i) por X e resolver a equação do segundo grau para encontrar o valor da taxa de juros. 
-    
+## - Taxas Efetivas, Nominais e Equivalentes;
+- [ ] status [dom:: 0] [peso:: 3]
+
+**TAXAS**
+
+**1. TAXAS PROPORCIONAIS**
+
+São taxas que mantêm proporção direta com o período de tempo. 
+
+**i1i2=t1t2i2i1​=t2t1​**
+
+EXEMPLO
+
+3% ao mês é proporcional a 36% ao ano, já que 1 ano tem 12 meses:
+
+3% a.m. é proporcional a 36% a.a. (3% .12 = 36%)
+
+A⚡**Q****uestão [#1896855](https://www.tecconcursos.com.br/questoes/1896855)**  mostra o cálculo do juros simples aliado da interpretação da taxa de juros proporcionais. 
+
+**2. TAXAS EQUIVALENTES**
+
+- Duas taxas são ditas equivalentes quando, aplicadas a um mesmo capital inicial, pelo mesmo prazo, produzem o mesmo montante. 
+- No regime simples, taxas proporcionais são equivalentes, portanto, para se achar a taxa equivalente, basta usar regra de três.
+- No regime composto, taxas proporcionais não são equivalentes, portanto, é necessário igualar montantes compostos: 
+- M1=M2M1​=M2​, logo: (1+i1)ˆn1=(1+i2)ˆn2(1+i1​)ˆn1​=(1+i2​)ˆn2​
+
+Onde, 
+
+- M1,M2M1​,M2​: montantes.
+- i1,i2i1​,i2​: taxas de juros.
+- n1,n2n1​,n2​: períodos.
+
+**3. TAXA NOMINAL**
+
+- Quando o período da taxa não coincide com o período da capitalização. 
+- Exemplo: 24% ao ano com capitalização mensal. No exemplo, a taxa nominal é 24% ao ano e a efetiva é de 2% ao mês
+- Para cálculos, usar-se-á a taxa EFETIVA. Além disso, a efetiva é **sempre** encontrada por proporcionalidade, independente do regime.
+
+**4. TAXA EFETIVA**
+
+- Quando o período da taxa coincide com o período da capitalização. 
+- Exemplo: 2% ao mês com capitalização mensal. 
+
+## - Convenção Linear e Exponencial;
+- [ ] status [dom:: 0] [peso:: 3]
+## - Capitalização Contínua.
+- [ ] status [dom:: 0] [peso:: 3]
+
+**4. CAPITALIZAÇÃO CONTÍNUA**
+
+**4.1 CONCEITOS**
+
+- Capitalização a todo instante. Espécie de Regime Composto
+
+**4.2 FÓRMULAS**
+
+- M=C.ei.nM=C.ei.n
+
+**5. PERÍODO**
+
+- Ano comercial: 360 dias (mês comercial: 30 dias)
+- Ano normal: 365 dias 
+- Ano bissexto: 366 dias
+
+Obs.: atentar para o comando da questão. Se nada for mencionado, considerar o ano como sendo comercial.
+# Bloco B
+## - Inflação;
+- [ ] status [dom:: 0] [peso:: 3]
+
+1. **INFLAÇÃO, TAXA REAL E TAXA APARENTE**
+
+**5.1 RELAÇÃO DE FISHER**
+
+- (1+A)=(1+R).(1+I)(1+A)=(1+R).(1+I)
+
+Onde: 
+
+- A: Taxa aparente.
+- I: Inflação.
+- R: Taxa real.
+
+❗Veja a cobrança da banca na **⚡Questão [#2275921](https://www.tecconcursos.com.br/questoes/2275921)** 
+
+**5.2 INFLAÇÃO ACUMULADA** 
+
+- (1+I)=(1+i1).(1+i2).(1+i3)...(1+in)(1+I)=(1+i1​).(1+i2​).(1+i3​)...(1+in​)
+
+Onde:
+
+- _II_: taxa de inflação acumulada (resultante).
+- i1,i2,i3,...ini1​,i2​,i3​,...in​: taxas de inflação dos períodos.
+
+❗Veja a cobrança da banca nas **⚡Questões** **[#1896855](https://www.tecconcursos.com.br/questoes/1896855)** e **[#1817796](https://www.tecconcursos.com.br/questoes/1817796)**      
+## - Juros Reais x Aparentes;
+- [ ] status [dom:: 0] [peso:: 3]
+## - Equivalência de Capitais;
+- [ ] status [dom:: 0] [peso:: 3]
+## - Série de Pagamentos - Rendas.
+- [ ] status [dom:: 0] [peso:: 3]
 
 **SÉRIES UNIFORMES**
 
@@ -590,6 +505,9 @@ Muitas vezes, questões disponibilizam os fatores para possibilitar as resoluç
 
 - Quando a primeira prestação não está no primeiro período.
 - Ex.: Compra de um eletrodoméstico em 12 vezes, começando a pagar em 3 meses.
+# Bloco C
+## - Sistemas de Amortização;
+
 
 **SISTEMAS DE AMORTIZAÇÃO**
 
@@ -669,12 +587,6 @@ Veja a⚡**questão** **[#1896862](https://www.tecconcursos.com.br/questoes/189
 - Tudo o mais constante, a primeira prestação será maior no SAC e a última será maior no PRICE . 
 - 📚Vejamos os gráficos de saldo devedor e composição das parcelas nos dois sistemas:  
       
-    
-
-
-
-
-
 
                              Fonte das imagens: [https://falandoeminvestir.com.br/blog/sac-ou-price-entenda-as-diferencas/](https://falandoeminvestir.com.br/blog/sac-ou-price-entenda-as-diferencas/)
 
@@ -685,6 +597,58 @@ Veja a⚡**questão** **[#1896862](https://www.tecconcursos.com.br/questoes/189
 - A prestação do SAM é obtida pela média aritmética entre as prestações do SAC e do sistema francês (tabela price). 
 - PSAM=(PSAC+PSF)/2PSAM​=(PSAC​+PSF​)/2
 - Há autores que chamam o SAM de SACRE - Sistema de Amortização Crescente. 
+### Sistema de Amortização Constante (SAC)
+- [ ] status [dom:: 3] [peso:: 3]
+
+(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/714?indice=1&materia=713)
+
+(Esaf) Um financiamento no valor de R$ 360.000,00 deve ser pago em 180 prestações mensais, pelo Sistema de Amortizações Constantes - SAC, a uma taxa nominal de 12% ao ano, vencendo a primeira prestação ao fim do primeiro mês, a segunda ao fim do segundo mês e assim sucessivamente. Calcule o valor mais próximo da décima prestação.
+a) R$ 5.600,00
+b) R$ 5.420,00
+c) R$ 5.400,00
+d) R$ 5.380,00
+e) R$ 5.500,00
+**Resolução:**
+A amortização mensal é dada por:
+q=360.000/180=2.000
+Após a nona prestação, já teremos amortizado 9 vezes a dívida:
+9×2.000=18.000
+
+A dívida remanescente será de:
+
+360.000−18.000=342.000
+
+No décimo mês, teremos juros de 1% incidindo sobre o valor acima:
+
+J10=1%×342.000=3.420
+
+Além disso, teremos o pagamento da amortização de 2.000,00. Somando tudo, a prestação será de:
+2.000+3.420=5.420
+
+### Sistema de Amortização Francês (Price)
+- [ ] status [dom:: 0] [peso:: 3]
+(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/715?indice=1&materia=713)
+
+
+
+![[Captura de Tela 2026-09-03 às 10.13.50.png|705]]
+
+![[Captura de Tela 2026-09-03 às 10.15.16.png|708]]
+
+### Sistema de Amortização Americano
+- [ ] status [dom:: 0] [peso:: 3]
+(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/716?indice=1&materia=713)
+    
+### Sistema de Amortização Alemão
+- [ ] status [dom:: 0] [peso:: 3]
+(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/717?indice=1&materia=713)
+    
+### Sistemas Mistos de Amortização
+- [ ] status [dom:: 0] [peso:: 3]
+(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/718?indice=1&materia=713)
+
+## Fluxo de caixa, VPL e TIR
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-18
 
 **1. ANÁLISE DE INVESTIMENTOS**
 
@@ -703,7 +667,7 @@ Veja a⚡**questão** **[#1896862](https://www.tecconcursos.com.br/questoes/189
 **3. VALOR PRESENTE LÍQUIDO (VPL)**
 
 - É a soma algébrica dos valores presentes (data 0) dos fluxos de caixa, valor obtido mediante o desconto dos fluxos de caixa (positivos e negativos) a uma taxa de reflita o custo de oportunidade do capital investido. 
-- No método do VPL, utilizaremos a TMA como taxa para efetuar o transporte dos valores.
+- <mark style="background:#fff88f">No método do VPL, utilizaremos a TMA como taxa para efetuar o transporte dos valores.</mark>
 - Para calcular o VPL, devemos transportar todos os valores para a data 0 e realizar a soma algébrica. 
 - Quanto maior o VPL, melhor é o projeto. 
 - Caso haja 2 ou mais formas de investimento, será escolhida aquela que possuir o maior VPL. 
@@ -712,26 +676,87 @@ Veja a⚡**questão** **[#1896862](https://www.tecconcursos.com.br/questoes/189
     - Se VPL < 0, o projeto é inviável
     - Se VPL = 0, o projeto é indiferente. 
 
-**⚡**questão**** [#3557996](https://www.tecconcursos.com.br/questoes/3557996) aborda uma das formas de cobrança da banca sobre VPL.   
+**⚡**questão [#3557996](https://www.tecconcursos.com.br/questoes/3557996) aborda uma das formas de cobrança da banca sobre VPL.   
 
-**5. TAXA INTERNA DE RETORNO (TIR)**
+Voltando ao exemplo do Alberto, suponha que se apresente diante dele um investimento Beta que exige aplicação de 1 milhão de reais e que, após um ano, devolve R$ 1.200.000,00. Pergunta: este investimento atende o requisito da mínima atratividade, definido por Alberto?
+
+Vamos aos cálculos!
+
+Se Alberto investe 1 milhão, e depois de um ano resgata 1,2 milhões, seu rendimento terá sido de 0,2 milhões. A taxa de rendimento será:
+
+i=0,21=20%
+### Taxa Interna de Retorno (TIR) e Taxa Mínima de Atratividade (TMA)
+
+(https://www.tecconcursos.com.br/aulas/materias/20/assuntos/722)
+
+Este investimento rendeu 20% num ano, ou seja, rentabilidade de 20% ao ano. É superior à Taxa mínima de atratividade, fixada em 10% ao ano. Portanto, este segundo investimento é sim vantajoso para Alberto, pois tem rentabilidade superior à TMA. Esta taxa de 20% ao ano, fornecida pelo projeto em análise, é chamada de **Taxa Interna de Retorno (TIR).**
+
+Note que são duas taxas diferentes:
+
+- TMA: é a taxa que indica o mínimo que Alberto aceita ganhar para entrar num projeto. No nosso exemplo, foi 10% ao ano
+- TIR: é a taxa inerente a determinado projeto. No nosso exemplo, foi de 20% ao ano
+
 
 - Taxa de juros que anula o VPL do fluxo de caixa do investimento (VPL=0)
 - A TIR indica o quanto o capital rendeu no projeto.
 - Em fluxos de caixa em que há alternância entre recebimentos e pagamentos, é possível existir mais de 1 TIR ou nenhuma TIR. Nesse caso, o método se torna inconclusivo 
 - A TIR supõe que os recebimentos serão aplicados à mesma taxa do projeto, o que nem sempre é verdade. Por isso, foi criada a TIRM - último tópico do bizu.
 
-**⚡**questão**** [#3562876](https://www.tecconcursos.com.br/questoes/3562876) aborda uma das formas de cobrança da banca sobre TIR.   
+**⚡**questão  [#3562876](https://www.tecconcursos.com.br/questoes/3562876) aborda uma das formas de cobrança da banca sobre TIR.   
+![](https://cdn.tecconcursos.com.br/img/teoria/fique-ligado.png)
+Como calcular a Taxa interna de retorno
+(i) Traga todos os capitais para a data 0, adotando sinal positivo para receitas e sinal negativo para despesas. Assim obteremos os valores presentes.
+(ii) Some os valores presentes obtidos no item (i). Assim obteremos o valor presente líquido (VPL)
+(iii) Faça VPL = 0. A taxa de juros que garantir tal igualdade será a taxa interna de retorno.
+
 
 **6. RELAÇÃO ENTRE VPL, TMA E TIR**
-
-
 
                                                                                          Fonte: ChatGPT (2025)
 
 - Se TMA > TIR, então VPL < 0
 - Se TMA = TIR, então VPL = 0
 - Se TMA < TIR, então VPL > 0
+
+<mark style="background:#b1ffff">1º Problema: multiplicidade de taxas</mark>
+
+Quando um projeto alternar receitas e despesas ao longo do tempo, é possível que, matematicamente, tenhamos mais de um valor de taxa que faz com que o VPL seja nulo. Neste caso, fica prejudicada a análise pela TIR.
+
+<mark style="background:#b1ffff">2º Problema: reinvestimento à TIR</mark>
+
+Outra crítica que se faz à TIR é a seguinte. Ela tem um pressuposto (implícito) de que todos os recebimentos de dinheiro podem ser reaplicados no projeto, à taxa de juros igual a TIR. Este pressuposto não é compatível com as situações reais do dia a dia.
+
+<mark style="background:#b1ffff">3º problema: A TIR não lida adequadamente com investimentos de escalas diferentes. </mark>
+
+Vou usar um exemplo extraído do livro "Administração Financeira", dos autores Ross, Westerfield e Jaffe. Suponha que, numa sala de aula, o professor diga a um de seus alunos.
+Você aceitaria me emprestar um dinheiro?
+Se você aceitar me emprestar R$ 1,00 agora, te devolvo R$ 1,50 no final da aula.
+Mas se você aceitar me emprestar R$ 10,00 agora, te devolvo R$ 11,00 ao final da aula.
+Caso você aceite me emprestar, só pode escolher uma das duas opções acima.
+Qual delas você escolheria?
+
+![](https://cdn.tecconcursos.com.br/img/teoria/veja-como-foi-cobrado.png)
+(Cesgranrio) Uma empresa tem três opções de investimento, chamados de projetos A, B e C, que são mutuamente exclusivos (excludentes), com custos iniciais de 100, 200 e 300 mil reais, respectivamente, e vida útil de 5 anos.
+O fluxo de caixa, alguns dados complementares e a taxa interna de retorno, TIR, estão representados na tabela.
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+|Valores em mil reais|   |   |   |   |   |   |
+|**Anos**|**Projeto A**|**Projeto B**|**Projeto C**|**Projeto diferencial** <br><br>**(B - A)**|**Projeto diferencial** <br><br>**(C - B)**|**Projeto diferencial** <br><br>**(C - A)**|
+|0|-100,00|-200,00|-300,00|-100,00|-100,00|-200,00|
+|1|33,00|62,00|94,00|29,00|32,00|61,00|
+|2|33,00|62,00|94,00|29,00|32,00|61,00|
+|3|33,00|62,00|94,00|29,00|32,00|61,00|
+|4|33,00|62,00|94,00|29,00|32,00|61,00|
+|5|33,00|62,00|94,00|29,00|32,00|61,00|
+|**TR**|**19,4%**|**16,6%**|**17,1%**|**13,8%**|**18,0%**|**15,9%**|
+
+Considerando-se que a taxa mínima de atratividade da empresa é de 12% ao ano, conclui-se que
+a) A é melhor que B, que é melhor que C.
+b) A é melhor que C, que é melhor que B.
+c) B é melhor que A, que é melhor que C.
+d) C é melhor que B, que é melhor que A.
+e) C é melhor que A, que é melhor que B.
 
 **7. TIR MODIFICADA (TIRM)**
 
@@ -742,38 +767,6 @@ Veja a⚡**questão** **[#1896862](https://www.tecconcursos.com.br/questoes/189
 
 - Diferente da TIR simples, a TIR incremental compara dois projetos mutuamente exclusivos, avaliando o retorno gerado pelo investimento adicional entre eles.
 
-
-
-### Proposições, conectivos e tabelas-verdade
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Equivalências e implicações lógicas
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Argumentação, validade e falácias
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Diagramas lógicos e quantificadores
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Conjuntos e análise combinatória
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Razão, proporção, porcentagem e regra de três
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Juros simples e compostos
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Descontos e taxas equivalentes
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Séries de pagamentos e amortização
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Fluxo de caixa, VPL e TIR
-- [ ] status [dom:: 0] [peso:: 3]
-
-### Problemas aplicados a cálculo tributário
+## Problemas aplicados a cálculo tributário
 - [ ] status [dom:: 0] [peso:: 3]
 

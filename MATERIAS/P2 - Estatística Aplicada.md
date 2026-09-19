@@ -126,7 +126,7 @@ Some com os 14 pontos de Estatística na Prova I: **29 pontos** para o mesmo cor
 - [ ] status [dom:: 0] [peso:: 3]
 
 ### Testes de hipóteses
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-18
 
 ### Correlação e regressão
 - [ ] status [dom:: 0] [peso:: 3]
