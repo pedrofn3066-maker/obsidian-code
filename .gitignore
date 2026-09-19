@@ -5,3 +5,4 @@
 .trash/
 .vault-meta/
 inbox/*.pdf
+__pycache__/
