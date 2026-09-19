@@ -130,6 +130,48 @@ parei no artigo 7, antes de substituicao tributaria
 § 3º A isenção para operação com determinada mercadoria **não alcança a prestação de serviço de transporte com ela relacionada**, <mark style="background:rgba(240, 200, 0, 0.2)">salvo disposição em contrário.</mark>
 Art. 38. Quando o reconhecimento do beneficio do imposto depender de condição, não sendo esta satisfeita, o imposto será considerado <mark style="background:#fff88f">devido no momento em que ocorreu a operação ou prestação.</mark>  (não é no FG a litaralidade)
 
+**Lei 7.014/96, art. 3º, XI — não incidência na transferência de estabelecimento**
+O imposto não incide sobre <mark style="background:#fff88f">operações internas de qualquer natureza decorrentes da transferência da propriedade de estabelecimento industrial, comercial ou de outra espécie, havendo a continuidade das atividades do estabelecimento pelo novo titular</mark>, inclusive nas hipóteses de transmissão:
+a) a herdeiro ou legatário, em razão de sucessão "causa mortis", nos legados ou processos de inventário ou arrolamento;
+b) em caso de sucessão "inter vivos", tais como venda de estabelecimento ou fundo de comércio, transformação, incorporação, fusão ou cisão.
+⚠️ É caso de **não incidência**, e a condição é a continuidade das atividades pelo novo titular.
+
+**Lei 7.014/96, art. 9º-A — restituição quando o preço de venda é menor que a base da ST/antecipação**
+- Caput: quem vender por <mark style="background:#fff88f">preço inferior à base de cálculo adotada na antecipação ou substituição tributária</mark> pode pedir restituição.
+- § 1º O pedido implica <mark style="background:#ff4d4f">renúncia ao encerramento da tributação</mark> do art. 9º: o Fisco fiscaliza as operações e exige a diferença se o preço de venda ficar acima da base presumida.
+- § 2º (art. 166 do CTN) Só restitui a quem prove ter assumido o encargo ou, se o transferiu a terceiro, esteja por este expressamente autorizado a receber.
+- § 3º O requerimento leva demonstrativo com vinculação da NF de entrada à NF de saída, bases de cálculo adotadas e valores do imposto devido e cobrado.
+- § 4º Deferido, a restituição sai em <mark style="background:#fff88f">parcelas mensais e sucessivas, em número igual ao de meses dos pagamentos indevidos</mark>.
+- § 5º Análise e deliberação da SEFAZ em <mark style="background:#fff88f">no máximo 180 dias</mark>, contados do protocolo.
+⚠️ O prazo é de **180 dias**, e não de 30.
+
+**Lei 7.014/96, arts. 15 a 16-A — alíquotas (art. 15)**
+
+| Alíquota | Hipóteses |
+| --- | --- |
+| <mark style="background:#fff88f">18%</mark> | a) operações e prestações **internas** (remetente/prestador e destinatário na BA)<br>b) destinatário/tomador em outra UF **não contribuinte**<br>c) entrada na BA de lubrificantes e combustíveis líquidos/gasosos derivados de petróleo de outra UF, quando **não** destinados a comercialização, industrialização, produção, geração ou extração<br>d) importação de mercadorias ou bens do exterior<br>e) arrematação de mercadorias/bens importados apreendidos ou abandonados<br>f) transporte iniciado no exterior e comunicação iniciada ou prestada no exterior<br>g) energia elétrica, inclusive na entrada de outra UF<br>h) comunicação e telecomunicações de qualquer natureza |
+| <mark style="background:#fff88f">12%</mark> | operações e prestações **interestaduais** que destinem mercadorias, bens ou serviços a contribuintes ou não |
+| <mark style="background:#fff88f">4%</mark> | a) transporte aéreo interestadual de carga e mala postal, tomado por contribuintes ou a eles destinado<br>b) operações interestaduais com bens e mercadorias **importados**, destinados a contribuintes ou não, que após o desembaraço: (1) não tenham sido industrializados; ou (2) mesmo transformados, beneficiados, montados, acondicionados, reacondicionados, renovados ou recondicionados, resultem em **conteúdo de importação superior a 40%** |
+
+> [!warning]- Lacuna de lastro: inciso I do art. 15
+> A captura trouxe duas linhas de abertura ("I - 20,5%" sem alíneas e "I - 18%" com as alíneas a–h), provável resíduo de redação anterior. A tabela acima usa 18%, que é o que tem as alíneas. Conferir na lei atualizada.
+
+**Parágrafos do art. 15**
+- § 1º Retorno de mercadoria depositada por estabelecimento de outra UF: alíquota <mark style="background:#fff88f">igual à adotada na remessa para depósito</mark> na BA.
+- § 2º Contam como **operações internas**: abastecimento de combustíveis, fornecimento de lubrificantes e emprego de partes, peças e outras mercadorias em conserto ou reparo de veículos de fora do Estado em trânsito pela BA.
+- § 3º Mesmo em situação fiscal irregular, a alíquota depende do tipo de mercadoria/prestação e de a operação ser interna ou interestadual.
+- § 4º <mark style="background:#fff88f">Resolução do Senado prevalece</mark> sobre as alíquotas do artigo.
+- § 5º ⚠️ <mark style="background:#ff4d4f">A alínea "b" do inciso III (4% de importados) NÃO se aplica a:</mark>
+
+| Inciso | Exceção à alíquota de 4% |
+| --- | --- |
+| I | bens importados **sem similar nacional**, conforme lista da Camex |
+| II | bens produzidos conforme os **processos produtivos básicos** (DL 288/1967; Leis 8.248/1991, 8.387/1991, 10.176/2001 e 11.484/2007) |
+| III | operações que destinem **gás natural importado** a outros Estados |
+
+- § 6º <mark style="background:#fff88f">Conteúdo de importação</mark> (item 2 da alínea "b" do inciso III) = valor da parcela importada ÷ valor total da operação de saída interestadual.
+- § 7º Operações e prestações interestaduais a **consumidor final localizado na BA** (contribuinte ou não): o Estado tem direito à <mark style="background:#fff88f">diferença entre a alíquota interna e a interestadual</mark>.
+
 ## - Lei Complementar nº 24/75  
 - [ ] status [dom:: 0] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/2321)
