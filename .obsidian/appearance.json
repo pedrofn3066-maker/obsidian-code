@@ -1,16 +1,19 @@
 {
-  "cssTheme": "Cupertino",
+  "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "custom-background",
     "extended-colorschemes",
-    "grifos",
-    "outline-heading-colors",
     "painel",
+    "topazio",
     "vault-colors",
-    "topazio"
+    "outline-heading-colors",
+    "grifos",
+    "branco",
+    "radialStatusButAwesome",
+    "notion-cards"
   ],
   "theme": "moonstone",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "translucency": true,
   "baseFontSizeAction": true,
   "showRibbon": true,
