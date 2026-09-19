@@ -365,6 +365,8 @@ Insere os dados extraídos e transformados no destino final — geralmente um Da
 
 ## - Consultas e Comandos em SQL
 - [ ] status [dom:: 3] [peso:: 3]
+
+
 ## - Sublinguagens SQL (DDL, DML, DQL, DCL e DTL)
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Procedimentos Armazenados (Stored Procedures)

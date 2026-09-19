@@ -51,7 +51,7 @@ prioridade: importante
 
 Jurisprudência (Súmulas Vinculantes + julgados STF/STJ): [[Resumo Jurisprudencia - Direito Constitucional (VINTEUM)]] · [[Sumulas Vinculantes - Direito Constitucional]]
 
-> **15 questões · peso 2 · **30 pontos** · 9,1% da nota**
+> **15 questões · peso 2 · 30 pontos** · 9,1% da nota
 > Prioridade: **importante**
 
 Duas matérias grandes disputando quinze questões — o retorno marginal cai rápido. Priorize o recorte que conversa com o cargo e pare. Nos editais FCC recentes, este bloco vem somado a Civil e Penal, o que reduz ainda mais o espaço de cada uma.
@@ -395,10 +395,10 @@ A pirâmide representa bem como funciona a hierarquia das normas.
     - **Controle Concentrado de Constitucionalidade**: a análise da constitucionalidade das normas é atribuída a um órgão específico, geralmente um tribunal ou uma corte constitucional. Nesse sistema, o i**ntérprete último da Constituição é responsável por garantir a compatibilidade das normas com os princípios e valores constitucionais**. O controle concentrado de constitucionalidade pode ser aplicado em conjunto com diferentes métodos de interpretação, dependendo das características do sistema jurídico em questão.
  
 ## - Princípios Fundamentais (art. 1º a 4º);
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2]
 
 ## Dos Direitos e Deveres Individuais e Coletivos (art. 5º CF/88)
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2]
 
 **Isonomia** (art. 5º, caput): tem como fundamento a dignidade da pessoa humana — busca tratamento igualitário para os iguais e diferenciado para os desiguais, tanto na feitura quanto na aplicação do sistema normativo, até se alcançar a igualdade material.
 
