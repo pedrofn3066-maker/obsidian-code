@@ -47,13 +47,25 @@ Cada item traz o tópico (nome do checklist VINTEUM), `→` o heading da nota on
 
 | Gatilho | Critério | Instrução |
 | --- | --- | --- |
-| Erro recente | último caderno do tópico, nos últimos 30 dias, com acerto abaixo de 70% | correção escrita depois do erro → refaça questões; acerto abaixo de 60% → releia antes; senão, bateria curta |
+| Erro recente | último caderno do tópico, nos últimos 30 dias, com acerto abaixo de 70% | correção escrita depois do erro → refaça questões; `erro_tipo: desatencao` → refaça sem reler; `desconhecimento` ou acerto abaixo de 60% → releia antes; senão, bateria curta |
 | Agenda vencida | `[prox::]` com data passada sob o heading | revisão que o `PY/revisoes.py` agendou |
 | Esquecimento | dias desde o último contato (último caderno ou última escrita, o mais recente) ≥ intervalo do `dom` | 7 dias para dom 0–2 · 15 para dom 3 · 30 para dom 4 · 60 para dom 5 |
 
 Os cortes de 60% e 70% são os da [[Fila de reforço]] e do protocolo da grade; a escada 7/15/30/60 segue o protocolo de revisão espaçada da mesma nota.
 
 **Quantos itens por slot** segue a função do slot: S2 (leitura nova) mostra 3 de Ler primeiro; S3 (aprofundamento) mostra 3 de Questões primeiro; S4 (60 min) começa por Revisar e mostra menos itens; S5 equilibra. A partir da semana 14 do ciclo (consolidação) a seção Ler some.
+
+## Roteiro, onde achar e como fazer
+
+Além do quê e por quê, cada item traz três coisas que tiram o atrito de começar:
+
+- **Tempo.** Cada slot tem um orçamento (minutos do slot − 5 de registro) e os itens entram nele na ordem das seções, com uma faixa (`0–20 min`). O que não cabe vira **se sobrar tempo** e não conta no progresso. Estimativas por item: Ler 20, Questões 25, Revisar 12 (`MIN_ACAO` no topo do script) — ajuste ao seu ritmo.
+- **Onde achar.** Chips que abrem direto: o **TEC do assunto** (o 1º link `tecconcursos` sob o heading; sem ele, o texto diz para filtrar pelo nome do tópico), o **Material** de apoio da pasta `MATERIAL/` (mapeamento manual em `MATERIAL_POR_NOTA`), o **Caderno** onde você errou (para ver o `## Erros a revisar` e o `obs`) e, se o tópico não tem heading, **Criar heading** na nota.
+- **Como fazer.** Uma linha de método que depende da ação e, na revisão por erro, do `erro_tipo` do caderno: `desatencao` → refaça marcando comando e negativas, sem reler; `desconhecimento` → releia e escreva a regra de memória; `excecao` → liste as exceções e treine só os casos-limite; campo vazio → o item pede que você classifique o erro antes, porque o remédio muda. Esquecimento e agenda vencida pedem **recuperação ativa** (3 min de brain dump antes de abrir).
+
+O slot fecha com **5 min de registro**: anotar o que foi erro de leitura, de lacuna ou de exceção (vira o `erro_tipo` no `/importar-tec`) e mandar o que sobrou pelo Atalho → `/triar-inbox`.
+
+A página HTML tem **checklist do dia**: cada item tem um checkbox, com progresso por slot e no topo, e **Ocultar feitos** limpa a tela conforme você avança. O estado fica no navegador (por dia). Os chips *S1 · revisão de ontem* e *Capturas* ficam na barra fixa.
 
 ## Mapeamentos que o script assume
 
@@ -74,6 +86,9 @@ Os cortes de 60% e 70% são os da [[Fila de reforço]] e do protocolo da grade; 
 
 > [!note]- Qual `dom` entra, e por que não o do heading
 > Entra o `dom` do checklist (desempenho no TEC). O `[dom::]` da linha `status` de cada heading ficou em 0 como valor neutro em quase todo o vault (ver [[Cobertura VINTEUM]]) e não diferencia nada; o que o script usa do corpo é a **existência de conteúdo**. Em notas sem checklist VINTEUM — Administração e Governança Pública, Administração Geral, Micro e Finanças Públicas, P2 Finanças Públicas — cada heading com tracker vale o mesmo, e a ordem sai só do estado (erro, escrito, testado).
+
+> [!warning]- Tempo, link do TEC e material são estimativas e mapeamentos manuais
+> Os minutos por item são chute razoável, não medição: se você leva 40 min num tópico de Ler, o roteiro vai parecer otimista. O chip **TEC · assunto** é o primeiro link `tecconcursos` sob o heading — nas notas atuais é o `Resumo tec:`, a página do assunto, não um filtro de questões pronto. O **Material** depende do `MATERIAL_POR_NOTA` (por exemplo, `P2 - CASP` aponta para a pasta `DIREITO FINANCEIRO` porque o MCASP mora lá); nota fora do mapa não mostra material. E o remédio por `erro_tipo` só existe para caderno em que você preencheu o campo — hoje 28 dos 73 cadernos (mais de um terço) estão com ele vazio.
 
 > [!note]- Tags de revisão antigas
 > Quase todas as linhas com `[prox::]` estão vencidas desde o fim de agosto. Enquanto `PY/revisoes.py agendar` não voltar a ser usado, esses tópicos aparecem como "revisão agendada vencida" (ex.: Teoria do Crime em Penal). É dado real, só velho.

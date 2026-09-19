@@ -8,6 +8,10 @@ slot do dia, por subtópico da matéria que a Grade Semanal marca para o slot.
     python3 PY/plano-dia.py --texto             # saída no terminal
     python3 PY/plano-dia.py --diag Penal        # audita casamentos e métricas de uma matéria
 
+Cada item traz também ONDE achar (link do TEC do assunto, material de apoio, caderno do
+erro), COMO estudar (método que depende da ação e do tipo de erro) e um TEMPO sugerido; o
+slot fecha com 5 min de registro. A página HTML tem checklist do dia (salvo no navegador).
+
 Critérios, limitações e como ler: Questoes/Paineis/Plano do dia.md
 """
 import argparse
@@ -47,6 +51,25 @@ ENFASE = {
     "S5": [("questoes", 2), ("revisar", 2), ("ler", 2)],
 }
 ROTULO_ACAO = {"ler": "Ler", "questoes": "Fazer questões", "revisar": "Revisar"}
+
+# Roteiro do slot. São ESTIMATIVAS (ajuste ao seu ritmo): minutos por item e a reserva de
+# registro no fim. Item que não cabe no orçamento do slot vira "se sobrar tempo".
+MIN_ACAO = {"ler": 20, "questoes": 25, "revisar": 12}
+MIN_REGISTRO = 5
+QUESTOES_POR_ITEM = "10–15"
+
+# Pastas de MATERIAL/ (cada uma com <pasta>/<pasta>.md de índice) que sustentam cada nota.
+# Mapeamento manual: nota sem entrada aqui simplesmente não mostra "Material".
+MATERIAL_POR_NOTA = {
+    "P1 - Macro Economia": ["MACRO"],
+    "P1 - Direito Financeiro": ["DIREITO FINANCEIRO"],
+    "P2 - CASP": ["DIREITO FINANCEIRO"],  # MCASP/MIC/NBC TSP moram nessa pasta
+    "P2 - Direito Tributário": ["DIREITO TRIBUTÁRIO", "JURISPRUDENCIAS"],
+    "P2 - Reforma Tributária": ["Reforma Tributária", "BAT RESUMOS"],
+    "P2 - Legislação Tributária Estadual (BA)": ["LTE"],
+    "P1 - Direito Administrativo": ["JURISPRUDENCIAS"],
+    "P1 - Direito Constitucional": ["JURISPRUDENCIAS"],
+}
 
 MIN_CONTEUDO = 3          # linhas de conteúdo real sob o heading para contar como "lido"
 JANELA_ERRO = 30          # dias em que um erro de caderno ainda puxa revisão
@@ -117,6 +140,7 @@ RE_HEADING = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 RE_CHK_ITEM = re.compile(r"^- \[.\]\s+(.+?)\s*\[dom::\s*(\d+)\]\s*\[peso::\s*([\d.]+)\]")
 RE_TRACKER = re.compile(r"^- \[.\] status \[dom::")
 RE_TECLINK = re.compile(r"\(?https?://www\.tecconcursos\.com\.br/\S*\)?\.?")
+RE_URL_TEC = re.compile(r"https?://www\.tecconcursos\.com\.br/\S+")
 RE_PROX = re.compile(r"\[prox::\s*(\d{4}-\d{2}-\d{2})\s*\]")
 RE_CONTA_BARRA = re.compile(r"—\s*(\d+)\s*/\s*(\d+)")
 RE_CONTA_EXTENSO = re.compile(r"—\s*(\d+)\s+acertos?\s+em\s+(\d+)")
@@ -420,6 +444,8 @@ class Caderno:
         self.nome = nome
         self.data = date.fromisoformat(str(campos["data"])[:10])
         self.materia = nfc(str(campos.get("materia") or ""))
+        # campo do Pedro: desconhecimento | desatencao | excecao | vazio
+        self.erro_tipo = sem_acento(str(campos.get("erro_tipo") or "")).lower().strip()
         self.total = _int(campos.get("total"))
         self.acertos = _int(campos.get("acertos"))
         self.pares = pares_do_caderno(self.materia)
@@ -528,6 +554,7 @@ class Unidade:
         self.heading, self.score = None, 0.0
         self.ocorrencias = []
         self.conteudo, self.escrito_ult, self.prox_vencido = 0, None, None
+        self.tec_link = None  # 1º link do TEC sob o heading ("Resumo tec: (…)")
 
     def medir(self, hoje):
         if not self.heading:
@@ -537,6 +564,10 @@ class Unidade:
         datas, proxs = [], []
         for j in n.escopo(i, nivel):
             l = n.linhas[j]
+            if self.tec_link is None:
+                m = RE_URL_TEC.search(l)
+                if m:
+                    self.tec_link = m.group(0).rstrip(").,;")
             for p in RE_PROX.findall(l):
                 proxs.append(date.fromisoformat(p))
             if substantiva(l):
@@ -560,6 +591,10 @@ class Unidade:
             return None
         conhecidos = [p for p in ruins if p is not None]
         return ult, (min(conhecidos) if conhecidos else None)
+
+    def caderno_do_erro(self, data):
+        """Caderno em que o tópico errou naquela data (para ler o erro_tipo e linkar)."""
+        return next((c for d, erro, _, c in self.ocorrencias if d == data and erro), None)
 
     def nota_exibida(self):
         return self.heading[0] if self.heading else self.nota
@@ -656,9 +691,13 @@ def classificar(u, hoje):
     if erro:
         d, pct = erro
         p = pct if pct is not None else 0.5
+        c = u.caderno_do_erro(d)
+        tipo = c.erro_tipo if c else ""
         if u.escrito_ult and u.escrito_ult >= d:
             instrucao = f"correção já escrita em {data_txt(u.escrito_ult)} — refaça questões do tópico"
-        elif p < CORTE_RELEITURA:
+        elif tipo == "desatencao":
+            instrucao = "erro de desatenção — não releia o conteúdo, refaça as questões"
+        elif p < CORTE_RELEITURA or tipo == "desconhecimento":
             instrucao = "releia o heading antes de refazer questões"
         else:
             instrucao = "refaça uma bateria curta (~15 questões)"
@@ -683,6 +722,79 @@ def classificar(u, hoje):
             f"último contato {data_txt(contato)} ({dias} dias) · intervalo de {intervalo}d "
             f"para dom {u.dom if u.dom is not None else '—'}"]
     return None
+
+
+# ---------------------------------------------------------------------------
+# Onde achar, como fazer, quanto tempo
+# ---------------------------------------------------------------------------
+
+def abrir(rel):
+    """obsidian://open para um arquivo do vault (caminho relativo, sem .md)."""
+    return f"obsidian://open?vault={quote(VAULT.name)}&file={quote(rel, safe='')}"
+
+
+def material_de(stem):
+    achados = []
+    for pasta in MATERIAL_POR_NOTA.get(stem, []):
+        if (VAULT / "MATERIAL" / pasta / f"{pasta}.md").exists():
+            achados.append((f"Material · {pasta}", abrir(f"MATERIAL/{pasta}/{pasta}")))
+    return achados
+
+
+def dicas(acao, u, razoes, hoje):
+    """{'onde': [(rótulo, href|None)], 'como': str} — o que o item não diz sozinho."""
+    onde = []
+    erro = u.erro_recente(hoje)
+    c = u.caderno_do_erro(erro[0]) if erro else None
+    tipo = c.erro_tipo if c else ""
+
+    if not u.heading:
+        onde.append((f"Criar heading em {u.nota.stem}", uri(u.nota)))
+    if u.tec_link:
+        onde.append(("TEC · assunto", u.tec_link))
+    elif acao != "revisar":
+        onde.append((f"TEC: filtre por “{u.topico}”", None))
+    if acao != "revisar" or not c:
+        onde += material_de(u.nota_exibida().stem)
+    if c:
+        onde.append((f"Caderno {c.data:%d/%m}", abrir(f"Questoes/Diario/{c.nome}")))
+
+    if acao == "ler":
+        como = "Leia a fonte uma vez, feche e escreva de memória o que fixou; só então complete no heading."
+        if erro:
+            como = "Comece pela questão que você errou — ela diz o que faltava. " + como
+    elif acao == "questoes":
+        como = (f"~{QUESTOES_POR_ITEM} questões do assunto. Ao errar, anote na hora se foi leitura, "
+                "lacuna ou exceção e corrija no heading no mesmo dia.")
+        if u.escrito_ult and u.ultimo_teste() and u.ultimo_teste() < u.escrito_ult:
+            como = "Teste o que você acabou de escrever, sem consultar a nota. " + como
+    elif razoes and razoes[0].startswith("errou"):
+        como = {
+            "desatencao": "Refaça as questões marcando o comando e as negativas antes de olhar as "
+                          "alternativas. Não releia o conteúdo: o erro foi de leitura.",
+            "desconhecimento": "Releia o heading, escreva a regra de memória e só então refaça as "
+                               "questões que errou.",
+            "excecao": "Liste as exceções da regra em 3 linhas e treine só os casos-limite.",
+        }.get(tipo, "Antes de estudar, classifique o erro (leitura, lacuna ou exceção) e preencha "
+                    "o erro_tipo do caderno — o remédio muda.")
+    else:
+        como = ("Recuperação ativa: escreva de memória o que lembra do heading (3 min) e só então "
+                "abra. O que faltar volta para a próxima revisão.")
+    return {"onde": onde, "como": como}
+
+
+def alocar(minutos, secoes):
+    """Encaixa os itens no tempo do slot, na ordem das seções. Cada extra ganha ini/fim (min)
+    e `cabe`; o que não cabe vira 'se sobrar tempo'. Devolve (usado, orçamento)."""
+    orcamento, t = max(minutos - MIN_REGISTRO, 0), 0
+    for acao, itens in secoes:
+        for _, _, extra in itens:
+            d = MIN_ACAO[acao]
+            extra["min"] = d
+            extra["cabe"] = t + d <= orcamento
+            if extra["cabe"]:
+                extra["ini"], extra["fim"], t = t, t + d, t + d
+    return t, orcamento
 
 
 # ---------------------------------------------------------------------------
@@ -755,7 +867,8 @@ def plano(hoje):
     slots = []
     for slot, minutos, rotulo in grade.get(dia, []):
         s = {"slot": slot, "min": minutos, "rotulo": rotulo, "funcao": FUNCAO_SLOT.get(slot, ""),
-             "rodizio": None, "notas": [], "secoes": [], "especial": None, "erros": [], "aviso": None}
+             "rodizio": None, "notas": [], "secoes": [], "especial": None, "erros": [], "aviso": None,
+             "usado": 0, "orcamento": 0}
         tipo = especial(rotulo)
         if tipo == "correcao":
             for c in cadernos:
@@ -790,7 +903,9 @@ def plano(hoje):
                     if acao == "ler" and fase in ("consolidação", "reta final"):
                         continue
                     itens = sorted(por_acao[acao], key=lambda x: -x[0])[:n]
-                    s["secoes"].append((acao, [(u, razoes) for _, u, razoes in itens]))
+                    s["secoes"].append((acao, [(u, razoes, dicas(acao, u, razoes, hoje))
+                                               for _, u, razoes in itens]))
+                s["usado"], s["orcamento"] = alocar(minutos, s["secoes"])
         slots.append(s)
 
     s1 = ("S1 · ocupado pelo simulado" if dia == "domingo"
@@ -826,6 +941,14 @@ def seta(u):
     return alvo if alvo and chave(alvo) != chave(u.topico) else None
 
 
+REGISTRO = ("Registro · 5 min — anote os erros do slot (foi leitura, lacuna ou exceção? vira o "
+            "erro_tipo no /importar-tec) e mande o que sobrou pelo Atalho → /triar-inbox.")
+
+
+def faixa(extra):
+    return f"{extra['ini']}–{extra['fim']} min" if extra["cabe"] else "se sobrar tempo"
+
+
 def render_texto(p):
     out = [f"PLANO DO DIA — {p['dia']}, {p['data'].strftime('%d/%m/%Y')} · "
            f"semana {p['semana']} do ciclo · fase {p['fase']}", "", p["s1"]]
@@ -839,16 +962,23 @@ def render_texto(p):
             out.append(f"  {aviso}")
         for d, materia, texto, pct in s["erros"]:
             out.append(f"    - {data_txt(d)} · {materia} · {texto} ({pct_txt(pct)})")
+        if s["secoes"]:
+            out.append(f"  roteiro: {s['usado']} min de {s['orcamento']} + {MIN_REGISTRO} de registro")
         for acao, itens in s["secoes"]:
             out.append(f"  {ROTULO_ACAO[acao]}")
             if not itens:
                 out.append("    —")
-            for k, (u, razoes) in enumerate(itens, 1):
+            for k, (u, razoes, extra) in enumerate(itens, 1):
                 prefixo = f"[{u.nota_exibida().stem}] " if varias_notas(s) else ""
                 alvo = seta(u)
                 out.append(f"    {k}. {prefixo}{u.topico}{'  → ' + alvo if alvo else ''}")
                 out.append(f"       {meta_item(u)}")
                 out.append(f"       {' · '.join(razoes)}")
+                out.append(f"       ⏱ {faixa(extra)}")
+                out.append(f"       onde: {' · '.join(r for r, _ in extra['onde']) or '—'}")
+                out.append(f"       como: {extra['como']}")
+        if s["secoes"]:
+            out += ["", f"  {REGISTRO}"]
     return "\n".join(out)
 
 
@@ -859,44 +989,117 @@ body { max-width: 50rem; margin: 2.5rem auto; padding: 0 1.5rem 5rem;
   color: #1c1c1e; background: #fdfdfb; }
 @media (prefers-color-scheme: dark) { body { color: #e7e7e5; background: #16161a; } }
 h1 { font-size: 1.45rem; margin: 0 0 .2rem; }
-.sub { opacity: .6; margin-bottom: 1.2rem; }
-.s1 { opacity: .75; margin-bottom: 2rem; }
+.sub { opacity: .6; margin-bottom: 1rem; }
+.s1 { opacity: .8; margin-bottom: 1rem; }
+.barra { position: sticky; top: 0; z-index: 5; display: flex; flex-wrap: wrap; gap: .5rem .8rem;
+  align-items: center; padding: .55rem 0; background: inherit;
+  border-bottom: 1px solid rgba(128,128,128,.25); font-size: .9rem; margin-bottom: .6rem; }
+.barra .sp { flex: 1; }
+button, a.chip { font: inherit; font-size: .78rem; padding: .18rem .6rem; border-radius: 999px; cursor: pointer;
+  border: 1px solid rgba(128,128,128,.4); background: transparent; color: inherit; text-decoration: none; }
+button:hover, a.chip:hover { background: rgba(128,128,128,.15); }
+button.on { background: rgba(74,125,187,.25); border-color: #4a7dbb; }
 .slot { margin-top: 2.2rem; padding-top: 1.2rem; border-top: 1px solid rgba(128,128,128,.25); }
 .slot h2 { font-size: 1.1rem; margin: 0; }
 .slot h2 .cod { opacity: .55; font-weight: 500; }
-.funcao, .rodizio, .notas { font-size: .85rem; opacity: .6; }
+.slot h2 .prog { float: right; font-size: .8rem; font-weight: 500; opacity: .6; }
+.funcao, .rodizio, .notas, .roteiro { font-size: .85rem; opacity: .6; }
 .aviso { color: #c0392b; font-size: .9rem; }
 h3 { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; margin: 1.1rem 0 .3rem; }
 h3.ler { color: #3a7ebf; } h3.questoes { color: #2f9e58; } h3.revisar { color: #c9822a; }
-ol { margin: 0; padding-left: 1.3rem; }
-li { margin: .45rem 0; }
-a { color: inherit; text-decoration: none; border-bottom: 1px solid rgba(74,125,187,.5); }
+ul.itens { list-style: none; margin: 0; padding: 0; }
+li.item { display: flex; gap: .7rem; margin: .7rem 0; align-items: flex-start; }
+li.item .chk { display: flex; flex-direction: column; align-items: center; gap: .15rem; min-width: 4.6rem; }
+li.item .chk input { width: 1.15rem; height: 1.15rem; cursor: pointer; }
+.tempo { font-size: .7rem; opacity: .6; text-align: center; line-height: 1.15; }
+li.item .corpo { flex: 1; min-width: 0; }
+li.item.sobra { opacity: .55; }
+li.item.feito .topico, li.item.feito .razao { text-decoration: line-through; opacity: .5; }
+.ocultar-feitos li.item.feito { display: none; }
+a.topico { color: inherit; text-decoration: none; border-bottom: 1px solid rgba(74,125,187,.5); font-weight: 600; }
 .nota { font-size: .75rem; opacity: .55; margin-right: .3rem; }
 .alvo { font-size: .85rem; opacity: .6; }
-.meta { display: block; font-size: .82rem; opacity: .6; }
+.meta { display: block; font-size: .8rem; opacity: .55; }
 .razao { display: block; font-size: .88rem; }
+.onde { display: flex; flex-wrap: wrap; gap: .3rem; margin: .3rem 0 .1rem; }
+.onde .txt { font-size: .75rem; opacity: .6; padding: .18rem 0; }
+.como { display: block; font-size: .85rem; opacity: .8; }
+.como::before { content: "como: "; opacity: .55; }
+.registro { margin-top: 1.2rem; font-size: .85rem; opacity: .7; padding: .5rem .8rem;
+  border-left: 3px solid rgba(128,128,128,.4); }
 .vazio { opacity: .45; font-style: italic; font-size: .9rem; }
 .rodape { margin-top: 3rem; font-size: .8rem; opacity: .55; }
 """
 
+JS = r"""
+(function () {
+  var DIA = "__DIA__";
+  function ler(k) { try { return localStorage.getItem("plano:" + DIA + ":" + k) === "1"; } catch (e) { return false; } }
+  function gravar(k, v) {
+    try { if (v) localStorage.setItem("plano:" + DIA + ":" + k, "1"); else localStorage.removeItem("plano:" + DIA + ":" + k); }
+    catch (e) {}
+  }
+  function contar() {
+    var tot = 0, ok = 0;
+    [].forEach.call(document.querySelectorAll(".slot"), function (sl) {
+      var t = 0, o = 0;
+      [].forEach.call(sl.querySelectorAll("li.item:not(.sobra)"), function (li) {
+        t++; if (li.querySelector("input").checked) o++;
+      });
+      var pr = sl.querySelector(".prog"); if (pr) pr.textContent = t ? o + "/" + t : "";
+      tot += t; ok += o;
+    });
+    document.getElementById("cont").textContent = ok + "/" + tot + " feitos hoje";
+  }
+  [].forEach.call(document.querySelectorAll("li.item"), function (li) {
+    var cb = li.querySelector("input");
+    cb.checked = ler(li.dataset.k); li.classList.toggle("feito", cb.checked);
+    cb.addEventListener("change", function () {
+      gravar(li.dataset.k, cb.checked); li.classList.toggle("feito", cb.checked); contar();
+    });
+  });
+  var bf = document.getElementById("b-feitos");
+  bf.addEventListener("click", function () {
+    bf.classList.toggle("on", document.body.classList.toggle("ocultar-feitos"));
+  });
+  contar();
+})();
+"""
+
 
 def render_html(p):
-    h = [f"<!doctype html><meta charset=utf-8><title>Plano do dia — {p['data'].strftime('%d/%m')}</title>",
+    dia = p["data"].isoformat()
+    h = [f'<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">'
+         f"<title>Plano do dia — {p['data'].strftime('%d/%m')}</title>",
          f"<style>{CSS}</style>",
          f"<h1>Plano do dia — {escape(p['dia'])}, {p['data'].strftime('%d/%m/%Y')}</h1>",
          f'<div class="sub">semana {p["semana"]} do ciclo · fase {escape(p["fase"])}</div>',
          f'<div class="s1">{escape(p["s1"])}</div>']
     if not p["tem_grade"]:
         h.append('<div class="aviso">Tabela da Grade Semanal não encontrada.</div>')
+
+    tem_itens = any(s["secoes"] for s in p["slots"])
+    if tem_itens:
+        s1 = f"obsidian://shell-commands/?vault={quote(VAULT.name)}&execute=s1ontem01"
+        h.append(
+            '<div class="barra"><strong id="cont"></strong><span class="sp"></span>'
+            f'<a class="chip" href="{s1}">S1 · revisão de ontem</a>'
+            f'<a class="chip" href="{abrir("Questoes/Capturas")}">Capturas</a>'
+            '<button id="b-feitos">Ocultar feitos</button></div>')
+
     for s in p["slots"]:
         h.append('<div class="slot">')
-        h.append(f'<h2><span class="cod">{escape(s["slot"])} · {s["min"]} min ·</span> {escape(s["rotulo"])}</h2>')
+        h.append(f'<h2><span class="cod">{escape(s["slot"])} · {s["min"]} min ·</span> {escape(s["rotulo"])}'
+                 '<span class="prog"></span></h2>')
         h.append(f'<div class="funcao">{escape(s["funcao"])}</div>')
         if s["rodizio"]:
             h.append(f'<div class="rodizio">rodízio: {escape(s["rodizio"])}</div>')
         if s["notas"]:
             links = " · ".join(f'<a href="{uri(n)}">{escape(n.stem)}</a>' for n in s["notas"])
             h.append(f'<div class="notas">{links}</div>')
+        if s["secoes"]:
+            h.append(f'<div class="roteiro">roteiro: {s["usado"]} min de {s["orcamento"]} '
+                     f"+ {MIN_REGISTRO} de registro</div>")
         if s["aviso"]:
             h.append(f'<div class="aviso">{escape(s["aviso"])}</div>')
         if s["especial"]:
@@ -910,20 +1113,34 @@ def render_html(p):
             if not itens:
                 h.append('<div class="vazio">nada nesta categoria</div>')
                 continue
-            h.append("<ol>")
-            for u, razoes in itens:
+            h.append('<ul class="itens">')
+            for u, razoes, extra in itens:
                 nota = (f'<span class="nota">{escape(u.nota_exibida().stem)}</span>'
                         if varias_notas(s) else "")
                 href = uri(u.heading[0], u.heading[3]) if u.heading else uri(u.nota)
                 alvo = seta(u)
                 alvo_html = f' <span class="alvo">→ {escape(alvo)}</span>' if alvo else ""
-                h.append(f'<li>{nota}<a href="{href}">{escape(u.topico)}</a>{alvo_html}'
-                         f'<span class="meta">{escape(meta_item(u))}</span>'
-                         f'<span class="razao">{escape(" · ".join(razoes))}</span></li>')
-            h.append("</ol>")
+                chips = "".join(
+                    f'<a class="chip" href="{escape(hr)}">{escape(r)}</a>' if hr
+                    else f'<span class="txt">{escape(r)}</span>'
+                    for r, hr in extra["onde"])
+                chave_item = escape(f"{s['slot']}:{u.topico}")
+                h.append(
+                    f'<li class="item{"" if extra["cabe"] else " sobra"}" data-k="{chave_item}">'
+                    f'<label class="chk"><input type="checkbox"><span class="tempo">{escape(faixa(extra))}</span></label>'
+                    f'<div class="corpo">{nota}<a class="topico" href="{href}">{escape(u.topico)}</a>{alvo_html}'
+                    f'<span class="meta">{escape(meta_item(u))}</span>'
+                    f'<span class="razao">{escape(" · ".join(razoes))}</span>'
+                    f'<span class="onde">{chips}</span>'
+                    f'<span class="como">{escape(extra["como"])}</span></div></li>')
+            h.append("</ul>")
+        if s["secoes"]:
+            h.append(f'<div class="registro">{escape(REGISTRO)}</div>')
         h.append("</div>")
     h.append('<div class="rodape">gerado por PY/plano-dia.py com o estado atual do vault · '
-             'critérios em Questoes/Paineis/Plano do dia.md</div>')
+             'critérios em Questoes/Paineis/Plano do dia.md · tempos são estimativas (MIN_ACAO)</div>')
+    if tem_itens:
+        h.append(f"<script>{JS.replace('__DIA__', dia)}</script>")
     return "\n".join(h)
 
 
