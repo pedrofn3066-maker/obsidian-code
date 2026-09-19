@@ -159,8 +159,82 @@ def _wikilink(m):
     return f'<span class="wikilink" title="{alvo}">{texto}</span>'
 
 
+# Marcação visual do Obsidian (grifo, cor, sublinhado): HTML embutido no markdown.
+# O escape() abaixo mostraria a tag como texto; então as tags conhecidas viram
+# marcadores antes do escape e voltam depois, com a cor validada. Qualquer outra
+# tag continua sendo escapada.
+_COR_OK = re.compile(r"^(#[0-9a-fA-F]{3,8}|rgba?\([\d\s.,%]+\)|[a-zA-Z]+)$")
+_GRIFOS = {"g-prazo", "g-cond", "g-comp", "g-num"}
+_RE_TAG = re.compile(
+    r'<mark(?:\s+style="background:\s*([^";]+);?")?\s*>'
+    r'|<span\s+style="color:\s*([^";]+);?"\s*>'
+    r'|<font\s+color="([^"]+)"\s*>'
+    r'|<span(?:\s+class="([\w\- ]+)")?\s*>'
+    r'|</(mark|span|font|u)>|<(u)>|<br\s*/?>',
+    re.I)
+
+
+def _cor_opaca(cor):
+    """True para fundo sem transparência (#hex): precisa de texto escuro no tema escuro."""
+    return cor.startswith("#") and len(cor) in (4, 7)
+
+
+def _tag_html(m):
+    bg, cor_span, cor_font, classe, fecha, abre_u = m.groups()
+    t = m.group(0).lower()
+    if t.startswith("<mark"):
+        if bg and _COR_OK.match(bg.strip()):
+            bg = bg.strip()
+            extra = ";color:#1c1c1e" if _cor_opaca(bg) else ""
+            return f'<mark style="background:{bg}{extra}">'
+        return "<mark>"
+    if cor_span or cor_font:
+        cor = (cor_span or cor_font).strip()
+        # preto some no tema escuro: herda a cor do texto
+        if not _COR_OK.match(cor) or cor.lower() in ("#000", "#000000", "black"):
+            return "<span>"
+        return f'<span style="color:{cor}">'
+    if t.startswith("<span"):
+        cls = [c for c in (classe or "").split() if c in _GRIFOS]
+        return f'<span class="{cls[0]}">' if cls else "<span>"
+    if fecha:
+        return "</span>" if fecha.lower() == "font" else f"</{fecha.lower()}>"
+    if abre_u:
+        return "<u>"
+    return "<br>"
+
+
 def inline(txt):
+    guardadas = []
+
+    def _guardar(m):
+        guardadas.append(_tag_html(m))
+        return f"\x00{len(guardadas) - 1}\x00"
+
+    # trechos em `crase` são literais: a tag dentro deles continua visível como texto
+    def _codigo(m):
+        guardadas.append(f"<code>{escape(m.group(1))}</code>")
+        return f"\x00{len(guardadas) - 1}\x00"
+
+    txt = re.sub(r"`([^`]+)`", _codigo, txt)
+    txt = _RE_TAG.sub(_guardar, txt)
+    txt = re.sub(r"==([^=\n]+?)==", lambda m: _guardar_html("<mark>" + m.group(1) + "</mark>", guardadas), txt)
+    txt = _inline_base(txt)
+    return re.sub(r"\x00(\d+)\x00", lambda m: guardadas[int(m.group(1))], txt)
+
+
+def _guardar_html(html, guardadas):
+    # ==x== e ~~x~~: o conteúdo interno ainda passa pelo escape (não vira HTML cru)
+    partes = re.match(r"(<\w+>)(.*)(</\w+>)$", html, re.S)
+    guardadas.append(partes.group(1))
+    guardadas.append(partes.group(3))
+    return f"\x00{len(guardadas) - 2}\x00{partes.group(2)}\x00{len(guardadas) - 1}\x00"
+
+
+def _inline_base(txt):
+    txt = re.sub(r"~~([^~\n]+?)~~", lambda m: "\x01" + m.group(1) + "\x02", txt)
     txt = escape(txt)
+    txt = txt.replace("\x01", "<del>").replace("\x02", "</del>")
     txt = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", txt)
     txt = re.sub(r"(?<!\*)\*([^*\n]+)\*(?!\*)", r"<em>\1</em>", txt)
     txt = re.sub(r"`([^`]+)`", r"<code>\1</code>", txt)
@@ -429,6 +503,25 @@ blockquote {
 }
 blockquote.callout { opacity: 1; }
 .callout-tipo { font-weight: 700; text-transform: uppercase; font-size: .75rem; letter-spacing: .03em; }
+mark { background: rgba(255,225,0,.35); color: inherit; border-radius: 3px; padding: 0 .12em; }
+del { opacity: .6; }
+:root {
+  --g-prazo-bg: #d8e9cf; --g-prazo-bd: #6f9a5e; --g-cond-bg: #d3deec; --g-cond-bd: #5b7fa8;
+  --g-comp-bg: #f7e2a4; --g-comp-bd: #c4961a; --g-num-bg: #e8d7ec; --g-num-bd: #9a6aa8;
+}
+@media (prefers-color-scheme: dark) { :root {
+  --g-prazo-bg: rgba(125,175,105,.24); --g-prazo-bd: #8fbf7c; --g-cond-bg: rgba(100,145,200,.24); --g-cond-bd: #82a8d6;
+  --g-comp-bg: rgba(220,175,50,.22); --g-comp-bd: #dcb44a; --g-num-bg: rgba(175,125,190,.26); --g-num-bd: #bf93cc;
+} }
+.g-prazo { --g-bg: var(--g-prazo-bg); --g-bd: var(--g-prazo-bd); --g-traco: solid; }
+.g-cond { --g-bg: var(--g-cond-bg); --g-bd: var(--g-cond-bd); --g-traco: dashed; }
+.g-comp { --g-bg: var(--g-comp-bg); --g-bd: var(--g-comp-bd); --g-traco: dotted; }
+.g-num { --g-bg: var(--g-num-bg); --g-bd: var(--g-num-bd); --g-traco: double; --g-esp: 3px; }
+.g-prazo, .g-cond, .g-comp, .g-num {
+  background: var(--g-bg); border-bottom: var(--g-esp, 2px) var(--g-traco) var(--g-bd);
+  border-radius: 3px 3px 0 0; padding: 0 .12em; -webkit-box-decoration-break: clone; box-decoration-break: clone;
+}
+mark .g-prazo, mark .g-cond, mark .g-comp, mark .g-num { background: transparent; }
 code { background: rgba(128,128,128,.15); padding: .1em .35em; border-radius: 4px; font-size: .9em; }
 .wikilink { color: #4a7dbb; }
 table { border-collapse: collapse; margin: .8rem 0; font-size: .9rem; }
