@@ -14,6 +14,10 @@ QUAL texto: linhas acrescentadas nesses arquivos nos
 commits desde ontem 00:00 (sem limite superior, pra pegar commit de recuperação
 feito hoje) + o que ainda não foi commitado.
 
+Duas seções: "Triagens de ontem" (um cartão por commit `Triagem…` — o que cada
+/triar-inbox acrescentou às matérias, com o texto) e "Arquivos de ontem" (por mtime).
+Commit de triagem feito no dia seguinte entra se o assunto trouxer "(dd/mm)" de ontem.
+
 A página é feita pra RECUPERAR antes de reler (regra do painel): cada nota vem
 fechada, só com hora e nome; o texto aparece ao clicar. Fórmulas $…$ e $$…$$ são
 renderizadas com KaTeX (CDN) — sem internet, aparecem como LaTeX cru. Marcas
@@ -27,6 +31,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import unicodedata
 import webbrowser
 from datetime import datetime, time, timedelta
 from html import escape
@@ -36,6 +41,7 @@ from pathlib import Path
 VAULT = Path(__file__).resolve().parent.parent
 PASTAS = ["MATERIAS", "Questoes", "Erradas"]
 IGNORAR = "Questoes/Paineis"  # espelha o -"Questoes/Paineis" do bloco 1
+RS, FS = "\x1e", "\x1f"  # separadores que não aparecem em texto normal
 
 
 def git(*args):
@@ -88,6 +94,31 @@ def texto_acrescentado(rel):
     ):
         pedacos += [t for _, t in parse_diff(out)]
     return "\n\n".join(pedacos)
+
+
+def triagens_de_ontem():
+    """[(rotulo_hora, assunto, hash, [(caminho, texto), ...])] em ordem cronológica.
+    Commits `Triagem…` feitos ontem, ou feitos depois mas com "(dd/mm)" de ontem no assunto
+    (o /triar-inbox nem sempre commita no mesmo dia)."""
+    ontem = datetime.now().date() - timedelta(days=1)
+    tag = f"({ontem:%d/%m})"
+    out = git(
+        "log", "--since=yesterday.midnight", "--grep=^Triagem", "-p",
+        f"--format={RS}%h{FS}%ad{FS}%s", "--date=format:%Y-%m-%d %H:%M",
+        "--", *PASTAS, f":!{IGNORAR}",
+    )
+    achados = []
+    for chunk in out.split(RS)[1:]:
+        header, _, body = chunk.partition("\n")
+        h, quando, assunto = header.split(FS, 2)
+        dia, hora = quando.split(" ")
+        if dia != ontem.isoformat() and tag not in assunto:
+            continue
+        arquivos = parse_diff(body)
+        if arquivos:
+            rotulo = hora if dia == ontem.isoformat() else f"commit de {dia[8:]}/{dia[5:7]} {hora}"
+            achados.append((quando, rotulo, assunto, h, arquivos))
+    return [(r, a, h, f) for _, r, a, h, f in sorted(achados)]
 
 
 def parse_diff(body):
@@ -360,15 +391,15 @@ button.on { background: rgba(74,125,187,.25); border-color: #4a7dbb; }
 .ajuda { font-size: .78rem; opacity: .55; margin: .3rem 0 1.4rem; }
 details.nota { border-bottom: 1px solid rgba(128,128,128,.2); }
 details.nota > summary {
-  list-style: none; cursor: pointer; padding: .7rem .2rem; display: flex; gap: .7rem;
-  align-items: baseline; border-radius: 6px;
+  list-style: none; cursor: pointer; padding: .7rem .2rem; display: flex; flex-wrap: wrap;
+  gap: .2rem .7rem; align-items: baseline; border-radius: 6px;
 }
 details.nota > summary::-webkit-details-marker { display: none; }
 details.nota > summary::before { content: "▸"; opacity: .5; }
 details.nota[open] > summary::before { content: "▾"; }
 details.nota > summary:focus-visible { outline: 2px solid #4a7dbb; }
 .hora { opacity: .55; font-size: .85rem; white-space: nowrap; }
-.nome { font-weight: 600; }
+.nome { font-weight: 600; flex: 1 1 14rem; min-width: 0; overflow-wrap: anywhere; }
 .badge { font-size: .78rem; opacity: .65; }
 .marca { margin-left: auto; font-size: .78rem; white-space: nowrap; }
 details.nota[data-m="l"] .marca { color: #2f9e58; }
@@ -377,6 +408,9 @@ details.nota[data-m="n"] .marca { color: #c0392b; }
 details.nota[data-m="l"] > summary .nome { opacity: .55; }
 .conteudo { padding: .2rem .4rem .6rem 1.4rem; }
 .acoes { display: flex; flex-wrap: wrap; gap: .5rem; padding: .3rem 0 1.1rem 1.6rem; }
+.sec { font-size: 1rem; margin: 1.8rem 0 .2rem; opacity: .75; }
+.arq { display: flex; gap: .7rem; align-items: baseline; font-size: .8rem; opacity: .65; margin: 1rem 0 .2rem; }
+.arq a { color: inherit; }
 .m.d { display: block; text-align: center; margin: .8rem 0; overflow-x: auto; }
 .conteudo { overflow-wrap: anywhere; }
 .conteudo table { display: block; max-width: 100%; overflow-x: auto; }
@@ -524,17 +558,35 @@ def resumo_caderno(texto):
     return f"{acertos}/{total} · {round(100 * acertos / total)}%"
 
 
-def montar_pagina(itens):
+def _obsidian(caminho):
+    nome = caminho[:-3] if caminho.endswith(".md") else caminho
+    return f"obsidian://open?vault={quote(VAULT.name)}&file={quote(nome, safe='')}"
+
+
+def _cartao(chave, hora, nome, badge, corpo, acoes_extra=""):
+    return (
+        f'<details class="nota" data-k="{escape(chave)}">'
+        f'<summary><span class="hora">{escape(hora)}</span><span class="nome">{escape(nome)}</span>'
+        + (f'<span class="badge">{escape(badge)}</span>' if badge else "")
+        + '<span class="marca"></span></summary>'
+        f'<div class="conteudo">{corpo}</div>'
+        '<div class="acoes"><button data-m="l">1 · Lembrei</button>'
+        '<button data-m="p">2 · Parcial</button><button data-m="n">3 · Não lembrei</button>'
+        f"{acoes_extra}</div></details>"
+    )
+
+
+def montar_pagina(itens, triagens=()):
     ontem = (datetime.now().date() - timedelta(days=1)).isoformat()
     partes = [f'<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">'
               f"<title>S1 — ontem</title>{KATEX}<style>{CSS}</style>",
               "<h1>S1 — o que entrou ontem</h1>",
-              f'<div class="sub">arquivos com mtime de {ontem} + cadernos com data {ontem} · gerado por s1-ontem.py</div>']
+              f'<div class="sub">{ontem} · gerado por s1-ontem.py</div>']
 
-    if not itens:
+    if not itens and not triagens:
         partes.append(
-            f'<div class="vazio">Nenhum arquivo com mtime de {ontem} em MATERIAS, Questoes ou Erradas. '
-            "Nota editada ontem e reaberta hoje conta como hoje — ver aviso do bloco 1.</div>"
+            f'<div class="vazio">Nenhuma triagem e nenhum arquivo com mtime de {ontem} em MATERIAS, '
+            "Questoes ou Erradas. Nota editada ontem e reaberta hoje conta como hoje — ver aviso do bloco 1.</div>"
         )
         return "\n".join(partes)
 
@@ -547,27 +599,32 @@ def montar_pagina(itens):
         "c cloze (borra os termos em negrito; clique para revelar)</div>"
     )
 
+    # O macOS guarda alguns nomes com acento decomposto e o git devolve composto: sem
+    # normalizar, "Finanças" do disco != "Finanças" do git e o selo some.
+    nfc = lambda c: unicodedata.normalize("NFC", c)
+    em_triagem = {nfc(c) for _, _, _, arqs in triagens for c, _ in arqs}
+
+    partes.append(f'<h2 class="sec">Triagens de ontem ({len(triagens)})</h2>')
+    if not triagens:
+        partes.append('<div class="vazio">Nenhum commit "Triagem…" de ontem (nem com a data de ontem no assunto).</div>')
+    for rotulo, assunto, h, arquivos in triagens:
+        corpo = "".join(
+            f'<div class="arq"><span>{escape(c)}</span><a href="{escape(_obsidian(c))}">Abrir no Obsidian ↗</a></div>'
+            + render_markdown(t)
+            for c, t in arquivos
+        )
+        partes.append(_cartao(f"t:{h}", rotulo, assunto, f"{len(arquivos)} nota(s)", corpo))
+
+    partes.append(f'<h2 class="sec">Arquivos de ontem ({len(itens)}) · por mtime + cadernos com data {ontem}</h2>')
     for hora, caminho, texto in itens:
         nome = caminho[:-3] if caminho.endswith(".md") else caminho
-        obsidian = f"obsidian://open?vault={quote(VAULT.name)}&file={quote(nome, safe='')}"
-        badge = resumo_caderno(texto)
-        partes.append(f'<details class="nota" data-k="{escape(caminho)}">')
-        partes.append(
-            f'<summary><span class="hora">{escape(hora)}</span><span class="nome">{escape(nome)}</span>'
-            + (f'<span class="badge">{escape(badge)}</span>' if badge else "")
-            + '<span class="marca"></span></summary>'
-        )
-        if texto.strip():
-            partes.append(f'<div class="conteudo">{render_markdown(texto)}</div>')
-        else:
-            partes.append('<div class="conteudo vazio">Sem texto novo no git desde ontem 00:00 '
-                          "(commitado antes, ou só reformatado).</div>")
-        partes.append(
-            '<div class="acoes"><button data-m="l">1 · Lembrei</button>'
-            '<button data-m="p">2 · Parcial</button><button data-m="n">3 · Não lembrei</button>'
-            f'<a href="{escape(obsidian)}">Abrir no Obsidian ↗</a></div>'
-        )
-        partes.append("</details>")
+        badge = " · ".join(b for b in (resumo_caderno(texto), "via triagem" if nfc(caminho) in em_triagem else "") if b)
+        corpo = (render_markdown(texto) if texto.strip() else
+                 "Sem texto novo no git desde ontem 00:00 (commitado antes, ou só reformatado).")
+        if not texto.strip():
+            corpo = f'<span class="vazio">{corpo}</span>'
+        partes.append(_cartao(caminho, hora, nome, badge, corpo,
+                              f'<a href="{escape(_obsidian(caminho))}">Abrir no Obsidian ↗</a>'))
 
     partes.append(f"<script>{JS.replace('__DIA__', ontem)}</script>")
     return "\n".join(partes)
@@ -575,7 +632,7 @@ def montar_pagina(itens):
 
 def main():
     itens = [(h, rel, texto_acrescentado(rel)) for h, rel in arquivos_de_ontem()]
-    html = montar_pagina(itens)
+    html = montar_pagina(itens, triagens_de_ontem())
 
     destino = Path(tempfile.gettempdir()) / "s1-ontem.html"
     destino.write_text(html, encoding="utf-8")
