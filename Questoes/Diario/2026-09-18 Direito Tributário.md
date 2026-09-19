@@ -12,7 +12,7 @@ assuntos:
   - Responsabilidade Tributária (arts. 128 a 138 do CTN)
   - Imposto sobre Bens e Serviços - IBS (CF/1988, EC 132)
   - Imposto Seletivo - IS (CF 1988; EC 132)
-slot:
+slot: S3
 total: 27
 acertos: 23
 tempo_min:

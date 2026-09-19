@@ -15,7 +15,7 @@ assuntos:
   - Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)
   - Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)
   - Jurisprudência dos Tribunais Superiores sobre Direitos e Deveres Individuais e Coletivos
-slot:
+slot: S5
 total: 24
 acertos: 18
 tempo_min:

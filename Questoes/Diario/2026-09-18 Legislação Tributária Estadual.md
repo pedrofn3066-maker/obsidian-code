@@ -5,7 +5,7 @@ materia: Legislação Tributária Estadual
 bloco: Legislação Tributária
 assuntos:
   - Lei Municipal nº 3.750/1971 - Código Tributário do Município de Santos
-slot:
+slot: S2
 total: 23
 acertos: 12
 tempo_min:

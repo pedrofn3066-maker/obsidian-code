@@ -22,7 +22,7 @@ assuntos:
   - Modalidades de Licitação (arts. 28 a 32 da Lei nº 14.133/2021)
   - Disposições Setoriais, Compras, Serviços (arts. 40 a 52 da Lei nº 14.133/2021)
   - Contratação Direta, Inexigibilidade e Dispensa (arts. 72 a 75 da Lei nº 14.133/2021)
-slot:
+slot: S5
 total: 23
 acertos: 18
 tempo_min:
