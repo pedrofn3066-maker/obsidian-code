@@ -1,0 +1,24 @@
+#!/bin/sh
+# Bloqueia commit de nota de Questoes/Diario com frontmatter YAML inválido.
+# Valida só as notas que estão no commit (adicionadas/modificadas). Para ignorar
+# uma vez: git commit --no-verify
+
+cd "$(git rev-parse --show-toplevel)" || exit 1
+
+# -z + read -d '' não é POSIX; nomes com acento/espaço são tratados linha a linha.
+NOTAS=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=AM -- 'Questoes/Diario/*.md')
+[ -z "$NOTAS" ] && exit 0
+
+FALHOU=0
+SAIDA=$(printf '%s\n' "$NOTAS" | while IFS= read -r nota; do
+  [ "$nota" = "Questoes/Diario/Diario.md" ] && continue
+  python3 PY/validar-cadernos.py "$nota" | grep -v '^OK\|problema(s)' && echo "__FALHOU__"
+done)
+
+if printf '%s' "$SAIDA" | grep -q '__FALHOU__'; then
+  echo "pre-commit: frontmatter inválido — commit bloqueado." >&2
+  printf '%s\n' "$SAIDA" | grep -v '__FALHOU__' >&2
+  echo "Corrija (python3 PY/validar-cadernos.py confere tudo) ou use --no-verify." >&2
+  exit 1
+fi
+exit 0
