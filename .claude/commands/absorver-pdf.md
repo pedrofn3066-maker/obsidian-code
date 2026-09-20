@@ -76,6 +76,7 @@ Cada linha aprovada entra na nota nesta ordem, e só com os recursos que a tabel
 
 Regras da escrita:
 
+- **Tabela sempre na margem** (coluna 0), com linha em branco antes e depois. Nunca recuada dentro de item de lista: o Obsidian não renderiza. O título da tabela vai em parágrafo próprio, não em bullet.
 - **O lastro é intocável:** nunca acrescente fato, número, artigo ou exemplo que não esteja no PDF, fora da lupa e da ponte. Trecho cortado ou fórmula incompleta → `> [!warning]-` com a pendência, não complete.
 - Texto do PDF com voz de professor/apostila → passe pela skill `voz-autoral` (AUDITAR) antes de colar. A lupa, por ser sua, já sai neutra.
 - Heading novo: `- [ ] status [dom:: 0] [peso:: N]`, **N = `peso` do frontmatter da nota**, nunca o percentual VINTEUM.
@@ -92,8 +93,9 @@ Está concluído quando cada linha da tabela aprovada tem o que marcou (lastro, 
    comm -23 $TMPDIR/r.txt $TMPDIR/a.txt
    ```
    Só linha vazia ou o que você removeu de propósito. Qualquer outra coisa é conteúdo perdido: pare e investigue.
-2. **Auditoria de lastro:** releia o que você escreveu e confira que todo fato fora de lupa e ponte está no PDF, na página citada. O que falhar sai ou vira `> [!warning]-`.
-3. Relate em tabela o que entrou e onde, com as colunas Recurso e Ponte, e qual tópico merece o próximo bloco de estudo.
-4. `python3 PY/plano-dia.py --diag "<matéria>"` e diga em que seção os tópicos tocados caíram, cruzando com os erros de caderno que motivaram cada lupa.
+2. **Renderização:** `python3 PY/checar-markdown.py "<nota>"` (só as linhas alteradas). Tabela recuada, sem linha em branco antes ou com nº de colunas errado → corrija antes de reportar. Deve terminar em `OK`.
+3. **Auditoria de lastro:** releia o que você escreveu e confira que todo fato fora de lupa e ponte está no PDF, na página citada. O que falhar sai ou vira `> [!warning]-`.
+4. Relate em tabela o que entrou e onde, com as colunas Recurso e Ponte, e qual tópico merece o próximo bloco de estudo.
+5. `python3 PY/plano-dia.py --diag "<matéria>"` e diga em que seção os tópicos tocados caíram, cruzando com os erros de caderno que motivaram cada lupa.
 
 O PDF em `inbox/` **fica onde está** (nunca apague). Não commite sem o Pedro pedir.
