@@ -74,6 +74,19 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5886?ind
 
 **O poder público tem o dever de lançar e cobrar o tributo devido, não há análise de conveniência e de oportunidade, não há discricionariedade.**
 
+*(CTN comentado, Guruja, p. 7)*
+
+> [!quote]- Texto literal: Art. 3º e Art. 4º (CTN Guruja, p. 7)
+> Art. 3º Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instituída em LEI e cobrada mediante atividade administrativa plenamente vinculada.
+>
+> Art. 4º A natureza jurídica específica do tributo é determinada pelo fato gerador da respectiva obrigação, sendo irrelevantes para qualificá-la:
+> I - a denominação e demais características formais adotadas pela lei;
+> II - a destinação legal do produto da sua arrecadação.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Classificação dos Tributos;]] e [[P2 - Direito Tributário#Espécies de Tributos;]]: onde a nota classifica e lista as espécies; o art. 4º (natureza pelo fato gerador, não pelo nome nem pela destinação) é o critério que separa uma da outra.
+
+
 
 ## Classificação dos Tributos;   
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
@@ -193,6 +206,39 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 | Efetiva × potencial | efetiva: usufruído pelo contribuinte; potencial: serviço disponível, ainda que não utilizado |
 | Específico × divisível | específico: pode ser destacado em unidades autônomas; divisível: utilizável separadamente por cada usuário |
 
+*(CTN comentado, Guruja, p. 31–32)*
+
+> [!quote]- Texto literal: Art. 77, Art. 79 e Art. 80 (CTN Guruja, p. 31–32)
+> Art. 77 As taxas cobradas pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios, no âmbito de suas respectivas atribuições, têm como fato gerador o exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição.
+>
+> Parágrafo único. A taxa não pode ter base de cálculo ou fato gerador idênticos aos que correspondam a imposto, nem ser calculada em função do capital das empresas.
+>
+> Art. 79 Os serviços públicos a que se refere o artigo 77 consideram-se:
+> I - utilizados pelo contribuinte:
+> a) efetivamente, quando por ele usufruídos a qualquer título;
+> b) potencialmente, quando, sendo de utilização compulsória, sejam postos à sua disposição mediante atividade administrativa em efetivo funcionamento;
+> II - específicos, quando possam ser destacados em unidades autônomas de intervenção, de utilidade ou de necessidade públicas;
+> III - divisíveis, quando suscetíveis de utilização, separadamente, por parte de cada um dos usuários.
+>
+> Art. 80 Para efeito de instituição e cobrança de taxas, consideram-se compreendidas no âmbito das atribuições da União, dos Estados, do Distrito Federal ou dos Municípios aquelas que, segundo a Constituição Federal, as Constituições dos Estados, as Leis Orgânicas do Distrito Federal e dos Municípios e a legislação com elas compatível, competem a cada uma dessas pessoas de direito público.
+
+> [!tip]- Lupa: taxa × imposto na base de cálculo
+> **A ideia em uma frase:** a taxa remunera uma atuação específica do Estado (poder de polícia ou serviço específico e divisível); por isso o CTN a impede de ter fato gerador e base de cálculo idênticos aos de um imposto.
+>
+> **Passo a passo:**
+> 1. Identifique o fato gerador: exercício regular do poder de polícia **ou** utilização, efetiva ou potencial, de serviço público específico e divisível (art. 77).
+> 2. Se o serviço é "potencial", confira o art. 79, I, "b": só quando a utilização é **compulsória** e o serviço foi posto à disposição por atividade administrativa em **efetivo funcionamento**.
+> 3. Confira a base: o parágrafo único do art. 77 proíbe base ou fato gerador **idênticos** aos de imposto e o cálculo em função do **capital das empresas**.
+> 4. Ajuste pela SV 29 (já na nota): usar um ou mais elementos da base de um imposto é constitucional desde que **não haja integral identidade** entre uma base e outra.
+>
+> *Exemplo ilustrativo (sem lastro):* uma taxa de serviço cujo valor depende da área do imóvel usa um elemento que também entra no cálculo do IPTU, mas não repete a base do IPTU inteira; a SV 29 admite.
+>
+> **O erro clássico:** dizer que a taxa não pode usar **nenhum** elemento da base de imposto (a proibição é de identidade integral); tratar o serviço "potencial" como qualquer serviço disponível (o art. 79, I, "b", exige utilização compulsória e atividade em efetivo funcionamento); e afirmar que a destinação do produto define o tributo (o art. 4º, II, diz que é irrelevante).
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Conceito de Tributo;]]: o art. 4º (fato gerador define a natureza) é a regra que a banca usa para confundir taxa com outra espécie.
+
+
 #### Contribuição de melhoria (arts. 81 e 82)
 
 | Aspecto | Regra |
@@ -277,6 +323,31 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 | Art. 14 | requisitos das entidades do art. 9º, IV, "c": não distribuir patrimônio ou renda; aplicar integralmente no País os recursos nos objetivos institucionais; escrituração de receitas e despesas em livros que assegurem exatidão |
 | Art. 15, III (empréstimo compulsório por absorção de poder aquisitivo) | **não recepcionado**; só cabem os do art. 148 da CF (calamidade pública, guerra externa ou sua iminência; investimento público urgente e de relevante interesse nacional, observado o art. 150, III, "b") |
 
+> [!quote]- Texto literal: Art. 9º, IV e §§1º–2º (CTN Guruja, p. 9–11)
+> IV - cobrar impostos e a contribuição de que trata o inciso V do art. 195 da Constituição Federal sobre:
+> a) o patrimônio, a renda ou os serviços uns dos outros;
+> b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes;
+> c) o patrimônio, a renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, observados os requisitos fixados na Seção II deste Capítulo;
+> d) papel destinado exclusivamente à impressão de jornais, periódicos e livros.
+>
+> § 1º O disposto no inciso IV não exclui a atribuição, por lei, às entidades nele referidas, da condição de responsáveis pelos tributos que lhes caiba reter na fonte, e não as dispensa da prática de atos, previstos em lei, assecuratórios do cumprimento de obrigações tributárias por terceiros.
+>
+> § 2º O disposto na alínea a do inciso IV aplica-se, exclusivamente, aos serviços próprios das pessoas jurídicas de direito público a que se refere este artigo, e inerentes aos seus objetivos.
+
+> [!quote]- Texto literal: Art. 14 (CTN Guruja, p. 13–14)
+> Art. 14 O disposto na alínea c do inciso IV do artigo 9º é subordinado à observância dos seguintes requisitos pelas entidades nele referidas:
+> I - não distribuírem qualquer parcela de seu patrimônio ou de suas rendas, a qualquer título;
+> II - aplicarem integralmente, no País, os seus recursos na manutenção dos seus objetivos institucionais;
+> III - manterem escrituração de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão.
+>
+> § 1º Na falta de cumprimento do disposto neste artigo, ou no § 1º do artigo 9º, a autoridade competente pode suspender a aplicação do benefício.
+>
+> § 2º Os serviços a que se refere a alínea c do inciso IV do artigo 9º são exclusivamente os diretamente relacionados com os objetivos institucionais das entidades de que trata este artigo, previsto nos respectivos estatutos ou atos constitutivos.
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Imunidades (arts. 8º e 9º)]]: a LC 214 trata das imunidades do IBS e da CBS; o art. 9º, IV, do CTN é o modelo dos impostos tradicionais.
+
+
 
 # Bloco B:  
 ## Competência Tributária;   
@@ -299,6 +370,18 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 
 ⚠️ **Não é delegação** cometer a **pessoa de direito privado** o encargo ou a função de arrecadar tributos (art. 7º, §3º). Tributo cuja receita seja distribuída a outros entes fica na competência legislativa **daquele a que foi atribuído** (art. 6º, par. único).
 
+> [!quote]- Texto literal: Art. 7º e Art. 8º (CTN Guruja, p. 8)
+> Art. 7º A competência tributária é indelegável, salvo atribuição das funções de arrecadar ou fiscalizar tributos, ou de executar leis, serviços, atos ou decisões administrativas em matéria tributária, conferida por uma pessoa jurídica de direito público a outra, nos termos do § 3º do artigo 18 da Constituição.
+>
+> § 1º A atribuição compreende as garantias e os privilégios processuais que competem à pessoa jurídica de direito público que a conferir.
+>
+> § 2º A atribuição pode ser revogada, a qualquer tempo, por ato unilateral da pessoa jurídica de direito público que a tenha conferido.
+>
+> § 3º Não constitui delegação de competência o cometimento, a pessoas de direito privado, do encargo ou da função de arrecadar tributos.
+>
+> Art. 8º O não-exercício da competência tributária não a defere a pessoa jurídica de direito público diversa daquela a que a Constituição a tenha atribuído.
+
+
 ## Legislação Tributária;   
 ### Fontes da legislação tributária (arts. 96 a 100 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -311,6 +394,54 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 - **Art. 100 — normas complementares** (incisos I, II e V transcritos no PDF): atos normativos das autoridades administrativas; decisões administrativas a que a lei atribua eficácia normativa; convênios entre os entes.
 - **Art. 102 — extraterritorialidade** da legislação de Estados, DF e Municípios: só por **convênio** entre entes ou por previsão em **normas gerais** da União.
 - **Art. 103 — vigência (salvo disposição em contrário):** atos administrativos, na **data da publicação**; decisões administrativas com eficácia normativa, **30 dias** após a publicação; convênios, na data neles prevista.
+
+> [!quote]- Texto literal: Art. 97, Art. 98, Art. 100 e Art. 103 (CTN Guruja, p. 40–42)
+> Art. 97 Somente a lei pode estabelecer:
+> I - a instituição de tributos, ou a sua extinção;
+> II - a majoração de tributos, ou sua redução, ressalvado o disposto nos artigos 21, 26, 39, 57 e 65;
+> III - a definição do fato gerador da obrigação tributária principal, ressalvado o disposto no inciso I do § 3º do artigo 52, e do seu sujeito passivo;
+> IV - a fixação da alíquota do tributo e da sua base de cálculo, ressalvado o disposto nos artigos 21, 26, 39, 57 e 65;
+> V - a cominação de penalidades para as ações ou omissões contrárias a seus dispositivos, ou para outras infrações nela definidas;
+> VI - as hipóteses de exclusão, suspensão e extinção de créditos tributários, ou de dispensa ou redução de penalidades.
+>
+> § 1º Equipara-se à majoração do tributo a modificação de sua base de cálculo, que importe em torná-lo mais oneroso.
+>
+> § 2º Não constitui majoração de tributo, para os fins do disposto no inciso II deste artigo, a atualização do valor monetário da respectiva base de cálculo.
+>
+> Art. 98 Os tratados e as convenções internacionais revogam ou modificam a legislação tributária interna, e serão observados pela que lhes sobrevenha.
+>
+> Art. 100 São normas complementares das leis, dos tratados e das convenções internacionais e dos decretos:
+> I - os atos normativos expedidos pelas autoridades administrativas;
+> II - as decisões dos órgãos singulares ou coletivos de jurisdição administrativa, a que a lei atribua eficácia normativa;
+> III - as práticas, reiteradamente observadas pelas autoridades administrativas;
+> IV - os convênios que entre si celebrem a União, os Estados, o Distrito Federal e os Municípios.
+>
+> Parágrafo único. A observância das normas referidas neste artigo exclui a imposição de penalidades, a cobrança de juros de mora e a atualização do valor monetário da base de cálculo do tributo.
+>
+> Art. 103 Salvo disposição em contrário, entram em vigor:
+> I - os atos administrativos a que se refere o inciso I do artigo 100, na data da sua publicação;
+> II - as decisões a que se refere o inciso II do artigo 100 quanto a seus efeitos normativos, 30 (trinta) dias após a data da sua publicação;
+> III - os convênios a que se refere o inciso IV do artigo 100 na data neles prevista.
+
+> [!warning]- Pendência: numeração do art. 100 no PDF
+> A caixa editorial da p. 42 numera os convênios como inciso "V" e omite o inciso "III"; o texto da lei na p. 41 traz **III** (práticas reiteradamente observadas) e **IV** (convênios). Copiei o texto da p. 41.
+
+> [!tip]- Lupa: art. 97, o que só a lei pode fazer
+> **A ideia em uma frase:** a reserva de lei do art. 97 é a versão do CTN para a legalidade tributária: o que cria ou onera tributo depende de lei, e o decreto só executa.
+>
+> **Passo a passo:**
+> 1. Liste o rol do art. 97: instituir ou extinguir tributo; majorar ou reduzir; definir o fato gerador e o sujeito passivo; fixar alíquota e base de cálculo; cominar penalidades; definir hipóteses de exclusão, suspensão e extinção do crédito, ou de dispensa ou redução de penalidades.
+> 2. Note as ressalvas dos incisos II e IV (arts. 21, 26, 39, 57 e 65): são os casos em que o Executivo pode alterar alíquota ou base nas condições da lei.
+> 3. Aplique o §1º: modificar a base de cálculo para torná-la **mais onerosa** equivale a majorar.
+> 4. Aplique o §2º: **atualizar o valor monetário** da base não é majoração.
+>
+> *Exemplo ilustrativo (sem lastro):* um decreto que corrige a tabela de valores pelo índice de inflação apenas atualiza (§2º); um decreto que inclui na base um elemento novo que a lei não previa a torna mais onerosa (§1º) e exige lei.
+>
+> **O erro clássico:** achar que a atualização monetária da base por ato do Executivo é majoração (o §2º diz que não é) ou, ao contrário, que qualquer mudança de base pode ser feita por decreto (o §1º equipara à majoração a que onera). Também esquecer que a definição do **sujeito passivo** está no rol do inciso III.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Jurisprudência em Matéria Tributária]]: a nota já registra que as decisões do CARF não são "práticas reiteradamente observadas" do art. 100, III.
+
 
 ### VIGÊNCIA DA LEGISLAÇÃO TRIBUTÁRIA(arts. 101 a 106 do CTN);
 - [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-18
@@ -337,6 +468,49 @@ tec resumo:
 *(CTN comentado, Guruja, p. 42–43)*
 **Art. 104 × CF/88:** o art. 104 do CTN aplica anterioridade só a impostos sobre patrimônio e renda (instituição, majoração, novas hipóteses, restrição de isenções → efeitos no 1º dia do exercício seguinte). Foi feito sob a CF/1946; desde 1988 a anterioridade vale, como regra, para **todos os tributos**, em duas formas: **anual** e **nonagesimal**. Art. 178 liga-se ao art. 104, III (isenção por prazo certo e sob condição onerosa não pode ser revogada antes do fim).
 
+*(CTN comentado, Guruja, p. 42–43 e 57)*
+
+> [!quote]- Texto literal: Art. 104, Art. 105 e Art. 106 (CTN Guruja, p. 42–43)
+> Art. 104 Entram em vigor no primeiro dia do exercício seguinte àquele em que ocorra a sua publicação os dispositivos de lei, referentes a impostos sobre o patrimônio ou a renda:
+> I - que instituem ou majoram tais impostos;
+> II - que definem novas hipóteses de incidência;
+> III - que extinguem ou reduzem isenções, salvo se a lei dispuser de maneira mais favorável ao contribuinte, e observado o disposto no artigo 178.
+>
+> Art. 105 A legislação tributária aplica-se imediatamente aos fatos geradores futuros e aos pendentes, assim entendidos aqueles cuja ocorrência tenha tido início mas não esteja completa nos termos do artigo 116.
+>
+> Art. 106 A lei aplica-se a ato ou fato pretérito:
+> I - em qualquer caso, quando seja expressamente interpretativa, excluída a aplicação de penalidade à infração dos dispositivos interpretados;
+> II - tratando-se de ato não definitivamente julgado:
+> a) quando deixe de defini-lo como infração;
+> b) quando deixe de tratá-lo como contrário a qualquer exigência de ação ou omissão, desde que não tenha sido fraudulento e não tenha implicado em falta de pagamento de tributo;
+> c) quando lhe comine penalidade menos severa que a prevista na lei vigente ao tempo da sua prática.
+
+> [!quote]- Texto literal: Art. 144 (CTN Guruja, p. 57)
+> Art. 144 O lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada.
+>
+> § 1º Aplica-se ao lançamento a legislação que, posteriormente à ocorrência do fato gerador da obrigação, tenha instituído novos critérios de apuração ou processos de fiscalização, ampliado os poderes de investigação das autoridades administrativas, ou outorgado ao crédito maiores garantias ou privilégios, exceto, neste último caso, para o efeito de atribuir responsabilidade tributária a terceiros.
+>
+> § 2º O disposto neste artigo não se aplica aos impostos lançados por períodos certos de tempo, desde que a respectiva lei fixe expressamente a data em que o fato gerador se considera ocorrido.
+
+> [!tip]- Lupa: qual lei se aplica: art. 144 × art. 106
+> **A ideia em uma frase:** o lançamento congela a lei do momento do fato gerador; só a retroatividade **benigna** do art. 106 afasta essa regra, e apenas para penalidades e para lei interpretativa.
+>
+> **Passo a passo:**
+> 1. Fixe a data do fato gerador: o lançamento se rege pela lei então vigente, ainda que depois modificada ou revogada (art. 144, caput).
+> 2. Veja o que se aplica ao lançamento mesmo sendo posterior (§1º): novos critérios de apuração ou processos de fiscalização, mais poderes de investigação, maiores garantias ou privilégios ao crédito; **exceto** para atribuir responsabilidade a terceiros.
+> 3. Veja o §2º: não vale para impostos lançados por períodos certos, se a lei fixa a data em que se considera ocorrido o fato gerador.
+> 4. Só depois pergunte pelo art. 106: lei **expressamente interpretativa** retroage (sem penalidade); ato **não definitivamente julgado** se beneficia de lei que deixa de defini-lo como infração, deixa de tratá-lo como contrário a qualquer exigência de ação ou omissão (desde que não fraudulento e sem falta de pagamento de tributo) ou comina penalidade menos severa.
+> 5. Fatos geradores futuros e pendentes seguem a lei nova (art. 105).
+>
+> *Exemplo ilustrativo (sem lastro):* uma lei posterior reduz a multa de uma infração; ela alcança o ato ainda não definitivamente julgado (art. 106, II, "c"), mas a mesma lei não faz o tributo do fato gerador antigo mudar.
+>
+> **O erro clássico:** aplicar o art. 106 ao **tributo**, e não à penalidade; esquecer a expressão "não definitivamente julgado"; trocar a regra do art. 144 (data do fato gerador) pela data do lançamento; e ignorar a exceção de **responsabilidade de terceiros** do §1º.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Anterioridade — CTN × CF (art. 104 × CF 150, III)]]: o art. 104 aparece lá comparado com a CF.
+> - [[2026-09-17 Direito Tributário]]: errou em 17/09 (Vigência 1/3), nos arts. 144 e 106.
+
+
 ### Interpretação e Integração da Legislação Tributária (arts. 107 a 112 do CTN);
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?indice=1&materia=589).
@@ -354,6 +528,43 @@ Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?ind
 **Art. 109:** os princípios de direito privado servem para **compreender o significado** dos institutos e conceitos (ex.: propriedade, empresa, renda), mas **não** para definir seus **efeitos tributários** — a tributação pode ter regras próprias (ex.: lucro real, presumido).
 
 **Art. 110 (exemplo):** a CF usa "propriedade" para outorgar o IPTU; o legislador não pode distorcer o conceito para ampliar a competência.
+
+*(CTN comentado, Guruja, p. 44–45)*
+
+> [!quote]- Texto literal: Art. 107, Art. 108 e Art. 112 (CTN Guruja, p. 44–45)
+> Art. 107 A legislação tributária será interpretada conforme o disposto neste Capítulo.
+>
+> Art. 108 Na ausência de disposição expressa, a autoridade competente para aplicar a legislação tributária utilizará sucessivamente, na ordem indicada:
+> I - a analogia;
+> II - os princípios gerais de direito tributário;
+> III - os princípios gerais de direito público;
+> IV - a eqüidade.
+>
+> § 1º O emprego da analogia não poderá resultar na exigência de tributo não previsto em lei.
+>
+> § 2º O emprego da eqüidade não poderá resultar na dispensa do pagamento de tributo devido.
+>
+> Art. 112 A lei tributária que define infrações, ou lhe comina penalidades, interpreta-se da maneira mais favorável ao acusado, em caso de dúvida quanto:
+> I - à capitulação legal do fato;
+> II - à natureza ou às circunstâncias materiais do fato, ou à natureza ou extensão dos seus efeitos;
+> III - à autoria, imputabilidade ou punibilidade;
+> IV - à natureza da penalidade aplicável, ou à sua graduação.
+
+> [!tip]- Lupa: integração (art. 108) e interpretação favorável (art. 112)
+> **A ideia em uma frase:** o CTN diz o que fazer quando a lei tributária é omissa (integração, em ordem) e quando há dúvida sobre infrações (interpretação mais favorável ao acusado); são regras diferentes e a banca mistura.
+>
+> **Passo a passo:**
+> 1. Lei omissa: a autoridade usa, **sucessivamente e nesta ordem**, (I) analogia, (II) princípios gerais de direito tributário, (III) princípios gerais de direito público, (IV) equidade.
+> 2. Trave os limites: analogia não pode resultar em **exigência de tributo não previsto em lei** (§1º); equidade não pode resultar em **dispensa de tributo devido** (§2º).
+> 3. Dúvida sobre **infração ou penalidade** (capitulação, fato, autoria, natureza ou graduação da pena): interpreta-se da maneira mais favorável ao acusado (art. 112).
+> 4. Literalidade é outra coisa: só nas hipóteses do art. 111 (suspensão ou exclusão do crédito, outorga de isenção, dispensa de acessórias), já transcrito na nota.
+>
+> **O erro clássico:** inverter a ordem do art. 108 (a analogia vem antes da equidade); dizer que a analogia pode criar tributo; aplicar o art. 112 a isenção (o art. 112 é para infrações; isenção é literal pelo art. 111); e tratar a interpretação literal como regra geral.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Isenção (arts. 175 a 179)]]: a outorga de isenção é interpretada literalmente (art. 111, II).
+> - [[2026-09-17 Direito Tributário]] e [[2026-09-18 Direito Tributário]]: errou em Interpretação e Integração em 17/09 (3/6) e 18/09 (1/3).
+
 
 ## Obrigação Tributária.
 
@@ -387,6 +598,44 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?ind
 
 **Art. 118:** interpreta-se pelo objeto, abstraindo-se da validade do ato (exemplos do PDF: renda obtida com tráfico de drogas é tributada; venda tributada no momento da venda, ainda que o comprador não pague).
 
+*(CTN comentado, Guruja, p. 45–47)*
+
+> [!quote]- Texto literal: Art. 113, Art. 115, Art. 116 e Art. 117 (CTN Guruja, p. 45–47)
+> Art. 113 A obrigação tributária é principal ou acessória.
+>
+> § 1º A obrigação principal surge com a ocorrência do fato gerador, tem por objeto o pagamento de tributo ou penalidade pecuniária e extingue-se juntamente com o crédito dela decorrente.
+>
+> § 2º A obrigação acessória decorre da legislação tributária e tem por objeto as prestações, positivas ou negativas, nela previstas no interesse da arrecadação ou da fiscalização dos tributos.
+>
+> § 3º A obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente a penalidade pecuniária.
+>
+> Art. 115 Fato gerador da obrigação acessória é qualquer situação que, na forma da legislação aplicável, impõe a prática ou a abstenção de ato que não configure obrigação principal.
+>
+> Art. 116 Salvo disposição de lei em contrário, considera-se ocorrido o fato gerador e existentes os seus efeitos:
+> I - tratando-se de situação de fato, desde o momento em que se verifiquem as circunstâncias materiais necessárias a que produza os efeitos que normalmente lhe são próprios;
+> II - tratando-se da situação jurídica, desde o momento em que esteja definitivamente constituída, nos termos de direito aplicável.
+>
+> Parágrafo único. A autoridade administrativa poderá desconsiderar atos ou negócios jurídicos praticados com a finalidade de dissimular a ocorrência do fato gerador do tributo ou a natureza dos elementos constitutivos da obrigação tributária, observados os procedimentos a serem estabelecidos em lei ordinária.
+>
+> Art. 117 Para os efeitos do inciso II do artigo anterior e salvo disposição de lei em contrário, os atos ou negócios jurídicos condicionais reputam-se perfeitos e acabados:
+> I - sendo suspensiva a condição, desde o momento de seu implemento;
+> II - sendo resolutória a condição, desde o momento da prática do ato ou da celebração do negócio.
+
+> [!tip]- Lupa: obrigação principal × acessória e a condição do art. 117
+> **A ideia em uma frase:** o CTN separa quem paga (principal) de quem faz ou deixa de fazer algo no interesse da fiscalização (acessória), e diz quando o fato gerador de um negócio condicional se considera ocorrido.
+>
+> **Passo a passo:**
+> 1. Principal (art. 113, §1º): surge com o fato gerador, tem por objeto pagar **tributo ou penalidade pecuniária** e se extingue com o crédito.
+> 2. Acessória (§2º): decorre da **legislação tributária** e tem por objeto prestações positivas ou negativas no interesse da arrecadação ou fiscalização.
+> 3. Se a acessória é descumprida, ela se converte em principal **quanto à penalidade pecuniária** (§3º).
+> 4. Condição suspensiva: o negócio se reputa perfeito **desde o implemento**; resolutória: **desde a prática do ato** (art. 117). Exemplos do PDF (p. 47): a casa doada se Maria passar no vestibular (suspensiva; o ITCMD só é devido com a aprovação) e o carro doado com retorno se Pedro se mudar (resolutória; o imposto é devido na doação e não é devolvido).
+>
+> **O erro clássico:** dizer que a obrigação acessória só pode nascer de lei em sentido estrito (o art. 113, §2º, fala em legislação tributária); esquecer que a multa por descumprimento de acessória vira obrigação **principal**; e trocar suspensiva por resolutória na hora de fixar o fato gerador.
+
+> [!info]- Ponte
+> - [[2026-09-17 Direito Tributário]]: errou em Obrigação Tributária (Conceito, Principal e Acessória) 3/4 e em Fato Gerador 1/2. A nota não trazia o art. 113 antes desta rodada.
+
+
 ### Responsabilidade Tributária (arts. 128 a 138 do CTN);
 - [ ] status [dom:: 0] [peso:: 3]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
@@ -418,6 +667,30 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
 - **Art. 125 — efeitos:** isenção **pessoal** (subjetiva) exclui o crédito só quanto ao beneficiado; abate-se apenas a cota dele e os demais respondem pelo restante.
 - **Art. 126 — capacidade tributária passiva:** é a aptidão para figurar como sujeito passivo de uma obrigação tributária. ⚠️ O PDF traz o rol do que ela "independe" cortado na extração; confira o artigo (p. 49–50).
 
+*(CTN comentado, Guruja, p. 48–49)*
+
+> [!quote]- Texto literal: Art. 121, Art. 124 e Art. 125 (CTN Guruja, p. 48–49)
+> Art. 121 Sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo ou penalidade pecuniária.
+>
+> Parágrafo único. O sujeito passivo da obrigação principal diz-se:
+> I - contribuinte, quando tenha relação pessoal e direta com a situação que constitua o respectivo fato gerador;
+> II - responsável, quando, sem revestir a condição de contribuinte, sua obrigação decorra de disposição expressa de lei.
+>
+> Art. 124 São solidariamente obrigadas:
+> I - as pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação principal;
+> II - as pessoas expressamente designadas por lei.
+>
+> Parágrafo único. A solidariedade referida neste artigo não comporta benefício de ordem.
+>
+> Art. 125 Salvo disposição de lei em contrário, são os seguintes os efeitos da solidariedade:
+> I - o pagamento efetuado por um dos obrigados aproveita aos demais;
+> II - a isenção ou remissão de crédito exonera todos os obrigados, salvo se outorgada pessoalmente a um deles, subsistindo, nesse caso, a solidariedade quanto aos demais pelo saldo;
+> III - a interrupção da prescrição, em favor ou contra um dos obrigados, favorece ou prejudica aos demais.
+
+> [!info]- Ponte
+> - [[P2 - Legislação Tributária Estadual (BA)#Responsável, solidariedade e sucessão]]: o mesmo tema (responsável, solidariedade) no ICMS da Bahia.
+
+
 #### Domicílio tributário (art. 127)
 
 **Regra geral:** eleição pelo contribuinte. Sem eleição:
@@ -429,6 +702,31 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
 | PJ de direito público | qualquer repartição no território da entidade tributante |
 
 ⚠️ **Ordem:** (1) eleição pelo sujeito passivo; (2) se a eleição **dificulta ou impossibilita** a arrecadação, o Fisco a **recusa** e aplicam-se os incisos I, II e III; (3) se nenhum dos incisos funcionar, o domicílio é o **lugar dos bens ou da ocorrência dos fatos**.
+
+> [!quote]- Texto literal: Art. 127 (CTN Guruja, p. 50)
+> Art. 127 Na falta de eleição, pelo contribuinte ou responsável, de domicílio tributário, na forma da legislação aplicável, considera-se como tal:
+> I - quanto às pessoas naturais, a sua residência habitual, ou, sendo esta incerta ou desconhecida, o centro habitual de sua atividade;
+> II - quanto às pessoas jurídicas de direito privado ou às firmas individuais, o lugar da sua sede, ou, em relação aos atos ou fatos que derem origem à obrigação, o de cada estabelecimento;
+> III - quanto às pessoas jurídicas de direito público, qualquer de suas repartições no território da entidade tributante.
+>
+> § 1º Quando não couber a aplicação das regras fixadas em qualquer dos incisos deste artigo, considerar-se-á como domicílio tributário do contribuinte ou responsável o lugar da situação dos bens ou da ocorrência dos atos ou fatos que deram origem à obrigação.
+>
+> § 2º A autoridade administrativa pode recusar o domicílio eleito, quando impossibilite ou dificulte a arrecadação ou a fiscalização do tributo, aplicando-se então a regra do parágrafo anterior.
+
+> [!tip]- Lupa: domicílio tributário, em ordem
+> **A ideia em uma frase:** o contribuinte escolhe o domicílio; só na falta de escolha (ou se a escolha atrapalha o Fisco) entram as regras do CTN.
+>
+> **Passo a passo:**
+> 1. Regra geral: **eleição** pelo contribuinte ou responsável.
+> 2. Sem eleição: pessoa natural, residência habitual (ou centro habitual da atividade, se incerta); PJ de direito privado ou firma individual, a sede (ou cada estabelecimento, para os fatos nele ocorridos); PJ de direito público, qualquer repartição no território da entidade tributante (incisos I a III).
+> 3. Se nenhum inciso couber, vale o lugar da situação dos bens ou da ocorrência dos atos ou fatos (§1º).
+> 4. A autoridade pode **recusar** o domicílio eleito quando impossibilite ou dificulte a arrecadação ou a fiscalização (§2º).
+>
+> **O erro clássico:** aceitar o domicílio eleito sem condição (o §2º dá ao Fisco o poder de recusar) e trocar quais domicílios valem para cada tipo de sujeito (natural, PJ privada, PJ pública).
+
+> [!warning]- Pendência: fluxo do PDF × texto do §2º
+> O fluxograma da p. 50 manda aplicar os incisos I, II e III depois da recusa; o §2º da lei, na mesma página, manda aplicar "a regra do parágrafo anterior" (§1º, lugar dos bens ou dos fatos). Mantive o texto da lei; o fluxograma do PDF diverge dele.
+
 
 ## Responsabilidade Tributária
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
@@ -479,6 +777,73 @@ VII - os sócios, no caso de liquidação de sociedade de pessoas.
 
 ⚠️ **Art. 134** (responsabilidade solidária em caso de impossibilidade de exigir do contribuinte): **não se aplica a multas punitivas**.
 
+*(CTN comentado, Guruja, p. 51–55)*
+
+- **Art. 135:** são <mark>pessoalmente responsáveis</mark> pelos créditos de atos praticados com **excesso de poderes ou infração de lei, contrato social ou estatutos**: (I) as pessoas do art. 134, (II) mandatários, prepostos e empregados, (III) diretores, gerentes ou representantes de pessoas jurídicas de direito privado. (p. 54)
+
+- **Art. 137:** a responsabilidade por infrações é **pessoal ao agente** quando (I) a infração é crime ou contravenção (salvo exercício regular de administração, mandato, função, cargo ou emprego, ou ordem expressa), (II) o dolo específico é elementar, ou (III) decorre direta e exclusivamente de dolo específico contra quem se responde. (p. 55)
+
+- **Art. 138:** a responsabilidade é <mark>excluída pela denúncia espontânea</mark> da infração, acompanhada, se for o caso, do pagamento do tributo e dos juros de mora, ou do depósito do valor arbitrado. ⚠️ Não é espontânea a denúncia feita **após o início** de procedimento administrativo ou medida de fiscalização ligados à infração. (p. 55)
+
+> [!quote]- Texto literal: Art. 130, Art. 131 e Art. 133 (CTN Guruja, p. 51–53)
+> Art. 130 Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse de bens imóveis, e bem assim os relativos a taxas pela prestação de serviços referentes a tais bens, ou a contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do título a prova de sua quitação.
+>
+> Parágrafo único. No caso de arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo preço.
+>
+> Art. 131 São pessoalmente responsáveis:
+> I - o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos;
+> II - o sucessor a qualquer título e o cônjuge meeiro, pelos tributos devidos pelo de cujus ATÉ a data da partilha ou adjudicação, limitada esta responsabilidade ao montante do quinhão, do legado ou da meação;
+> III - o espólio, pelos tributos devidos pelo de cujus ATÉ data da abertura da sucessão.
+>
+> Art. 133 A pessoa natural ou jurídica de direito privado que adquirir de outra, por qualquer título, fundo de comércio ou estabelecimento comercial, industrial ou profissional, e continuar a respectiva exploração, sob a mesma ou outra razão social ou sob firma ou nome individual, responde pelos tributos, relativos ao fundo ou estabelecimento adquirido, devidos até a data do ato:
+> I - integralmente, se o alienante cessar a exploração do comércio, indústria ou atividade;
+> II - subsidiariamente com o alienante, se este prosseguir na exploração ou iniciar dentro de 6 (seis) meses, a contar da data da alienação, nova atividade no mesmo ou em outro ramo de comércio, indústria ou profissão.
+>
+> § 1º O disposto no caput deste artigo não se aplica na hipótese de alienação judicial:
+> I - em processo de falência;
+> II - de filial ou unidade produtiva isolada, em processo de recuperação judicial.
+>
+> § 2º Não se aplica o disposto no § 1º deste artigo quando o adquirente for:
+> I - sócio da sociedade falida ou em recuperação judicial, ou sociedade controlada pelo devedor falido ou em recuperação judicial;
+> II - parente, em linha reta ou colateral até o 4º (quarto) grau, consangüíneo ou afim, do devedor falido ou em recuperação judicial ou de qualquer de seus sócios; ou III - identificado como agente do falido ou do devedor em recuperação judicial com o objetivo de fraudar a sucessão tributária.
+>
+> § 3º Em processo da falência, o produto da alienação judicial de empresa, filial ou unidade produtiva isolada permanecerá em conta de depósito à disposição do juízo de falência pelo prazo de 1 (um) ano, contado da data de alienação, somente podendo ser utilizado para o pagamento de créditos extraconcursais ou de créditos que preferem ao tributário.
+
+> [!quote]- Texto literal: Art. 135, Art. 137 e Art. 138 (CTN Guruja, p. 54–55)
+> Art. 135 São pessoalmente responsáveis pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos:
+> I - as pessoas referidas no artigo anterior;
+> II - os mandatários, prepostos e empregados;
+> III - os diretores, gerentes ou representantes de pessoas jurídicas de direito privado.
+>
+> Art. 137 A responsabilidade é pessoal ao agente:
+> I - quanto às infrações conceituadas por lei como crimes ou contravenções, salvo quando praticadas no exercício regular de administração, mandato, função, cargo ou emprego, ou no cumprimento de ordem expressa emitida por quem de direito;
+> II - quanto às infrações em cuja definição o dolo específico do agente seja elementar;
+> III - quanto às infrações que decorram direta e exclusivamente de dolo específico:
+> a) das pessoas referidas no artigo 134, contra aquelas por quem respondem;
+> b) dos mandatários, prepostos ou empregados, contra seus mandantes, preponentes ou empregadores;
+> c) dos diretores, gerentes ou representantes de pessoas jurídicas de direito privado, contra estas.
+>
+> Art. 138 A responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa, quando o montante do tributo dependa de apuração.
+>
+> Parágrafo único. Não se considera espontânea a denúncia apresentada APÓS o início de qualquer procedimento administrativo ou medida de fiscalização, relacionados com a infração.
+
+> [!tip]- Lupa: quem responde pelo débito de outro: 133, 134 e 135
+> **A ideia em uma frase:** o CTN diz em que casos alguém responde por tributo que não é seu; a banca cobra o **grau** da responsabilidade (integral, subsidiária, solidária, pessoal).
+>
+> **Passo a passo:**
+> 1. Estabelecimento adquirido (art. 133): se o alienante **cessa** a exploração, o adquirente responde <mark>integralmente</mark>; se o alienante continua ou inicia nova atividade **em até 6 meses**, a responsabilidade é <mark>subsidiária</mark>.
+> 2. Terceiros (art. 134): respondem **solidariamente** com o contribuinte, **só** quando é impossível exigir o cumprimento dele, nos atos em que intervierem ou nas omissões de que forem responsáveis: pais, tutores e curadores, administradores de bens de terceiros, inventariante, síndico e comissário, tabeliães e serventuários, sócios na liquidação de sociedade de pessoas.
+> 3. Excesso de poderes ou infração de lei, contrato social ou estatutos (art. 135): a responsabilidade passa a ser **pessoal** (do administrador, mandatário, preposto ou diretor).
+> 4. Infração: art. 136 (independe da intenção, salvo lei em contrário), art. 137 (pessoal ao agente em três hipóteses) e art. 138 (denúncia espontânea exclui a responsabilidade).
+>
+> **O erro clássico:** trocar "integral" por "subsidiária" no art. 133 (e esquecer o prazo de 6 meses); tratar o art. 134 como solidariedade sem condição (ela só existe se o contribuinte não puder ser cobrado); confundir a solidariedade do art. 134 com a responsabilidade **pessoal** do art. 135; e esquecer que a multa punitiva fica fora do art. 134 (ponto já destacado na nota).
+
+> [!info]- Ponte
+> - [[2026-09-17 Direito Tributário]]: errou em Responsabilidade Tributária (4/5) em 17/09.
+> - [[P1 - Direito Civil#- Sucessões.]]: a responsabilidade do espólio e do sucessor (art. 131) fala em "de cujus", partilha, quinhão, legado e meação, conceitos do direito das sucessões.
+> - [[P2 - Legislação Tributária Estadual (BA)#Responsável, solidariedade e sucessão]]: a mesma matéria no ICMS da Bahia.
+
+
 # Bloco C:   
 ## Crédito Tributário;   
 ### Lançamento
@@ -521,6 +886,36 @@ VII - quando se comprove que o sujeito passivo, ou terceiro em benefício daquel
 
 ⚠️ Enquanto não há homologação, os atos do contribuinte não afetam a obrigação: o Fisco os considera para calcular saldos e penalidades (art. 150).
 
+*(CTN comentado, Guruja, p. 56–60)*
+
+O **art. 144** (lei aplicável ao lançamento) está transcrito na seção de Vigência, logo acima.
+
+> [!quote]- Texto literal: Art. 142, Art. 145, Art. 148 e Art. 150 (CTN Guruja, p. 56–61)
+> Art. 142 Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento, assim entendido o procedimento administrativo tendente a verificar a ocorrência do fato gerador da obrigação correspondente, determinar a matéria tributável, calcular o montante do tributo devido, identificar o sujeito passivo e sendo caso, propor a aplicação da penalidade cabível.
+>
+> Parágrafo único. A atividade administrativa de lançamento é vinculada e obrigatória, sob pena de responsabilidade funcional.
+>
+> Art. 145 O lançamento regularmente notificado ao sujeito passivo só pode ser alterado em virtude de:
+> I - impugnação do sujeito passivo;
+> II - recurso de ofício;
+> III - iniciativa de ofício da autoridade administrativa, nos casos previstos no artigo 149.
+>
+> Art. 148 Quando o cálculo do tributo tenha por base, ou tome em consideração, o valor ou o preço de bens, direitos, serviços ou atos jurídicos, a autoridade lançadora, mediante processo regular, arbitrará aquele valor ou preço, sempre que sejam omissos ou não mereçam fé as declarações ou os esclarecimentos prestados, ou os documentos expedidos pelo sujeito passivo ou pelo terceiro legalmente obrigado, ressalvada. em caso de contestação, avaliação contraditória, administrativa ou judicial.
+>
+> Art. 150 O lançamento por homologação, que ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente a homologa.
+>
+> § 1º O pagamento antecipado pelo obrigado nos termos deste artigo extingue o crédito, sob condição resolutória da ulterior homologação do lançamento.
+>
+> § 2º Não influem sobre a obrigação tributária quaisquer atos anteriores à homologação, praticados pelo sujeito passivo ou por terceiro, visando à extinção total ou parcial do crédito.
+>
+> § 3º Os atos a que se refere o parágrafo anterior serão, porém, considerados na apuração do saldo porventura devido e, sendo o caso, na imposição de penalidade, ou sua graduação.
+>
+> § 4º Se a lei não fixar prazo à homologação, será ele de 5 (cinco) anos, a contar da ocorrência do fato gerador; expirado esse prazo sem que a Fazenda Pública se tenha pronunciado, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
+
+> [!info]- Ponte
+> - [[P2 - Legislação Tributária Estadual (BA)#Cálculo, Lançamento, Pagamento e Restituição (arts. 11-12)]]: o lançamento no ICMS da Bahia.
+
+
 ### Suspensão do Crédito tributário 
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -549,6 +944,52 @@ VII - quando se comprove que o sujeito passivo, ou terceiro em benefício daquel
 | --- | --- |
 | Com **dolo ou simulação** | crédito + juros de mora + **penalidade**; o tempo da moratória **não conta** para a prescrição |
 | **Sem** dolo ou simulação | crédito + juros de mora; a revogação só pode ocorrer **antes de prescrito** o direito |
+
+*(CTN comentado, Guruja, p. 62–64 e 73)*
+
+> [!quote]- Texto literal: Art. 151, Art. 152, Art. 154 e Art. 155 (CTN Guruja, p. 62–63)
+> Art. 151 Suspendem a exigibilidade do crédito tributário:
+> I - moratória;
+> II - o depósito do seu montante INTEGRAL;
+> III - as reclamações e os recursos, nos termos das leis reguladoras do processo tributário administrativo;
+> IV - a concessão de medida liminar em mandado de segurança;
+> V - a concessão de medida liminar ou de tutela antecipada, em outras espécies de ação judicial;
+> VI - o parcelamento.
+>
+> Parágrafo único. O disposto neste artigo não dispensa o cumprimento das obrigações acessórias dependentes da obrigação principal cujo crédito seja suspenso, ou dela conseqüentes.
+>
+> Art. 152 A moratória somente pode ser concedida:
+> I - em caráter geral:
+> a) pela pessoa jurídica de direito público competente para instituir o tributo a que se refira;
+> b) pela União, quanto a tributos de competência dos Estados, do Distrito Federal ou dos Municípios, quando simultaneamente concedida quanto aos tributos de competência federal e às obrigações de direito privado;
+> II - em caráter individual, por despacho da autoridade administrativa, desde que autorizada por lei nas condições do inciso anterior.
+>
+> Parágrafo único. A lei concessiva de moratória PODE circunscrever expressamente a sua aplicabilidade à determinada região do território da pessoa jurídica de direito público que a expedir, ou a determinada classe ou categoria de sujeitos passivos.
+>
+> Art. 154 Salvo disposição de lei em contrário, a moratória somente abrange os créditos definitivamente constituídos à data da lei ou do despacho que a conceder, ou cujo lançamento já tenha sido iniciado àquela data por ato regularmente notificado ao sujeito passivo.
+>
+> Parágrafo único. A moratória não aproveita aos casos de dolo, fraude ou simulação do sujeito passivo ou do terceiro em benefício daquele.
+>
+> Art. 155 A concessão da moratória em caráter individual não gera direito adquirido e será revogada de ofício, sempre que se apure que o beneficiado não satisfazia ou deixou de satisfazer as condições ou não cumpria ou deixou de cumprir os requisitos para a concessão do favor, cobrando-se o crédito acrescido de juros de mora:
+> I - com imposição da penalidade cabível, nos casos de dolo ou simulação do beneficiado, ou de terceiro em benefício daquele;
+> II - sem imposição de penalidade, nos demais casos.
+>
+> Parágrafo único. No caso do inciso I deste artigo, o tempo decorrido entre a concessão da moratória e sua revogação não se computa para efeito da prescrição do direito à cobrança do crédito; no caso do inciso II deste artigo, a revogação só pode ocorrer ANTES de prescrito o referido direito.
+
+> [!tip]- Lupa: moratória geral × individual
+> **A ideia em uma frase:** a moratória é prazo maior para pagar; o CTN distingue a **geral** (a lei concede a todos) da **individual** (despacho da autoridade a um contribuinte) e trata a revogação de forma diferente.
+>
+> **Passo a passo:**
+> 1. Geral (art. 152, I): concedida pela pessoa de direito público competente para instituir o tributo; a **União** pode conceder para tributos de outros entes só se o fizer **simultaneamente** para tributos federais e obrigações de direito privado.
+> 2. Individual (art. 152, II): **despacho** da autoridade, desde que autorizada por lei nas condições da geral.
+> 3. Créditos abrangidos (art. 154): os definitivamente constituídos à data da lei ou do despacho, ou com lançamento iniciado e notificado; **não** aproveita dolo, fraude ou simulação.
+> 4. Revogação da individual (art. 155): **não gera direito adquirido**. Com dolo ou simulação, cobra-se o crédito, juros de mora e **penalidade**, e o tempo da moratória **não conta** para a prescrição. Nos demais casos, só juros de mora, e a revogação só pode ocorrer **antes** de prescrito o direito.
+>
+> **O erro clássico:** dizer que a moratória individual gera direito adquirido; aplicar penalidade em todos os casos de revogação; e trocar a regra da prescrição (com dolo, o tempo não conta; sem dolo, só se revoga antes de prescrever).
+
+> [!info]- Ponte
+> - [[P2 - Legislação Tributária Estadual (BA)#Dívida ativa, certidões, parcelamento e denúncia espontânea]]: o parcelamento (inciso VI do art. 151) e a denúncia espontânea no ICMS da Bahia.
+
 
 
 ### Extinção do Crédito tributário
@@ -584,6 +1025,38 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 
 **Consignação (art. 164):** **bitributação** envolve dois ou mais entes sobre o mesmo fato gerador do mesmo contribuinte (ex.: dois Municípios cobram IPTU do mesmo proprietário) → o contribuinte pode consignar. **Bis in idem** envolve um único ente (ex.: IR e CSLL sobre o lucro, ambos da União). Procedente: pagamento considerado efetuado **na data do depósito** e convertido em renda; improcedente (total ou parcial): cobra-se o débito com juros de mora e penalidades.
 
+*(CTN comentado, Guruja, p. 67–69)*
+
+> [!quote]- Texto literal: Art. 163 e Art. 164 (CTN Guruja, p. 68–69)
+> Art. 163 Existindo simultaneamente dois ou mais débitos vencidos do mesmo sujeito passivo para com a mesma pessoa jurídica de direito público, relativos ao mesmo ou a diferentes tributos ou provenientes de penalidade pecuniária ou juros de mora, a autoridade administrativa competente para receber o pagamento determinará a respectiva imputação, obedecidas as seguintes regras, na ordem em que enumeradas:
+> I - em primeiro lugar, aos débitos por obrigação própria, e em segundo lugar aos decorrentes de responsabilidade tributária;
+> II - primeiramente, às contribuições de melhoria, depois às taxas e por fim aos impostos;
+> III - na ordem crescente dos prazos de prescrição;
+> IV - na ordem decrescente dos montantes.
+>
+> Art. 164 A importância do crédito tributário pode ser consignada judicialmente pelo sujeito passivo, nos casos:
+> I - de recusa de recebimento, ou subordinação deste ao pagamento de outro tributo ou de penalidade, ou ao cumprimento de obrigação acessória;
+> II - de subordinação do recebimento ao cumprimento de exigências administrativas sem fundamento legal;
+> III - de exigência, por mais de uma pessoa jurídica de direito público, de tributo idêntico sobre um mesmo fato gerador.
+>
+> § 1º A consignação só pode versar sobre o crédito que o consignante se propõe pagar.
+>
+> § 2º Julgada procedente a consignação, o pagamento se reputa efetuado e a importância consignada é convertida em renda; julgada improcedente a consignação no todo ou em parte, cobra-se o crédito acrescido de juros de mora, sem prejuízo das penalidades cabíveis.
+
+> [!tip]- Lupa: imputação do pagamento (art. 163)
+> **A ideia em uma frase:** quando o mesmo devedor tem vários débitos vencidos com o mesmo ente e paga menos do que a soma, o CTN fixa a ordem em que a autoridade os abate.
+>
+> **Passo a passo:**
+> 1. Primeiro, os débitos por **obrigação própria**; depois, os por responsabilidade tributária (inciso I).
+> 2. Dentro de cada grupo: **contribuições de melhoria**, depois **taxas**, por fim **impostos** (inciso II). O PDF (p. 68) resume: do tributo mais ligado à atuação do Estado ao menos ligado.
+> 3. Em seguida, na **ordem crescente dos prazos de prescrição** (inciso III).
+> 4. Por fim, na **ordem decrescente dos montantes** (inciso IV).
+>
+> *Exemplo ilustrativo (sem lastro):* dois impostos próprios vencidos, um de R$ 1.000 que prescreve em 2027 e outro de R$ 5.000 que prescreve em 2029. O pagamento parcial abate primeiro o de R$ 1.000.
+>
+> **O erro clássico:** inverter a ordem do inciso II (imposto antes de taxa), ou trocar crescente por decrescente no inciso III (prazos) e IV (montantes).
+
+
 #### Restituição (arts. 165 a 169)
 
 | Aspecto | Regra |
@@ -595,6 +1068,31 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 | Prazo | **5 anos**: hipóteses I e II, da extinção do crédito; hipótese III, da data em que a decisão se tornar definitiva |
 | Ação anulatória da decisão denegatória | **2 anos**; o início da ação interrompe o prazo, que recomeça **por metade** com a intimação da Fazenda |
 
+*(CTN comentado, Guruja, p. 70–72)*
+
+> [!quote]- Texto literal: Art. 168 e Art. 169 (CTN Guruja, p. 70–71)
+> Art. 168 O direito de pleitear a restituição extingue-se com o decurso do prazo de 5 (cinco) anos, contados:
+> I - nas hipóteses dos incisos I e II do artigo 165, da data da extinção do crédito tributário;
+> II - na hipótese do inciso III do artigo 165, da data em que se tornar definitiva a decisão administrativa ou passar em julgado a decisão judicial que tenha reformado, anulado, revogado ou rescindido a decisão condenatória.
+>
+> Art. 169 Prescreve em 2 (dois) anos a ação anulatória da decisão administrativa que denegar a restituição.
+>
+> Parágrafo único. O prazo de prescrição é interrompido pelo início da ação judicial, recomeçando o seu curso, por metade, a partir da data da intimação validamente feita ao representante judicial da Fazenda Pública interessada.
+
+> [!tip]- Lupa: restituição: os prazos 5, 5 e 2
+> **A ideia em uma frase:** o direito de pedir de volta o tributo pago indevido tem prazo de 5 anos, mas o termo inicial muda conforme o motivo; e há um prazo de 2 anos para anular a decisão que negou o pedido.
+>
+> **Passo a passo:**
+> 1. Pagamento indevido ou maior, ou erro (art. 165, I e II): 5 anos da **data da extinção do crédito**.
+> 2. Reforma, anulação, revogação ou rescisão de decisão condenatória (art. 165, III): 5 anos da data em que a decisão administrativa se tornou **definitiva** ou a judicial passou em **julgado**.
+> 3. Denegada a restituição na via administrativa: a ação **anulatória** prescreve em **2 anos** (art. 169), interrompida pelo início da ação e recomeçando **por metade** a partir da intimação da Fazenda.
+>
+> **O erro clássico:** usar os 5 anos como se o termo inicial fosse sempre o pagamento; trocar os 2 anos da anulatória por 5; e esquecer que a interrupção recomeça o prazo "por metade".
+
+> [!info]- Ponte
+> - [[P2 - Legislação Tributária Estadual (BA)#Cálculo, Lançamento, Pagamento e Restituição (arts. 11-12)]]: restituição no ICMS da Bahia.
+
+
 #### Outras modalidades (arts. 156, 170 a 172)
 
 | Modalidade | Regra |
@@ -602,6 +1100,25 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 | **Compensação** | precisa de **lei autorizativa**; créditos do contribuinte **líquidos e certos**, vencidos ou vincendos; crédito **vincendo**: a redução não pode exceder **1% ao mês** de juros; **vedação:** exige-se **trânsito em julgado** quando o crédito é objeto de ação judicial (art. 170-A) |
 | **Transação** | acordo entre Fisco e contribuinte, com **concessões mútuas** e previsão legal; a lei indica a autoridade competente |
 | **Remissão** | "perdão" da dívida após fato gerador e lançamento; **lei + despacho fundamentado**; hipóteses: situação econômica; erro ou ignorância escusável quanto à matéria de fato; diminuta importância; equidade; condições específicas de uma região; **não gera direito adquirido** |
+
+*(CTN comentado, Guruja, p. 65–66)*
+
+> [!quote]- Texto literal: Art. 156 (CTN Guruja, p. 65–66)
+> Art. 156 Extinguem o crédito tributário:
+> I - o pagamento;
+> II - a compensação;
+> III - a transação;
+> IV - a remissão;
+> V - a prescrição e a decadência;
+> VI - a conversão de depósito em renda;
+> VII - o pagamento antecipado e a homologação do lançamento nos termos do disposto no artigo 150 e seus §§ 1º e 4º;
+> VIII - a consignação em pagamento, nos termos do disposto no § 2º do artigo 164;
+> IX - a decisão administrativa irreformável, assim entendida a definitiva na órbita administrativa, que não mais possa ser objeto de ação anulatória;
+> X - a decisão judicial passada em julgado;
+> XI - a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.
+>
+> Parágrafo único. A lei disporá quanto aos efeitos da extinção total ou parcial do crédito sobre a ulterior verificação da irregularidade da sua constituição, observado o disposto nos artigos 144 e 149.
+
 
 #### Decadência e prescrição (arts. 173 e 174)
 
@@ -614,6 +1131,39 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 
 > [!warning]- Pendência de leitura
 > A extração do PDF traz "Protesto Judicial/ Extrajudicial" (p. 75) entre as causas de interrupção da prescrição, texto ambíguo: confira na página/no art. 174 antes de decorar.
+
+*(CTN comentado, Guruja, p. 60–61 e 73–75)*
+
+> [!quote]- Texto literal: Art. 173 e Art. 174 (CTN Guruja, p. 73)
+> Art. 173 O direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados:
+> I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado;
+> II - da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado.
+>
+> Parágrafo único. O direito a que se refere este artigo extingue-se definitivamente com o decurso do prazo nele previsto, contado da data em que tenha sido iniciada a constituição do crédito tributário pela notificação, ao sujeito passivo, de qualquer medida preparatória indispensável ao lançamento.
+>
+> Art. 174 A ação para a cobrança do crédito tributário prescreve em 5 (cinco) anos, contados da data da sua constituição definitiva.
+>
+> Parágrafo único. A prescrição se interrompe:
+> I - pelo despacho do juiz que ordenar a citação em execução fiscal;
+> II - pelo protesto judicial ou extrajudicial;
+> III - por qualquer ato judicial que constitua em mora o devedor;
+> IV - por qualquer ato inequívoco ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
+
+> [!tip]- Lupa: decadência, prescrição e o prazo de homologação
+> **A ideia em uma frase:** os três prazos usam "5 anos", mas contam de pontos diferentes e cobrem etapas diferentes: constituir o crédito (decadência) e cobrá-lo (prescrição).
+>
+> **Passo a passo:**
+> 1. Homologação (art. 150, §4º): se a lei não fixar prazo, são **5 anos do fato gerador**; passado esse tempo sem manifestação, considera-se homologado o lançamento e extinto o crédito, salvo dolo, fraude ou simulação.
+> 2. Decadência (art. 173): 5 anos do **primeiro dia do exercício seguinte** àquele em que o lançamento poderia ter sido efetuado, ou da data em que a decisão que **anulou por vício formal** o lançamento anterior se tornou definitiva; o parágrafo único conta da **notificação de medida preparatória** indispensável ao lançamento.
+> 3. Prescrição (art. 174): 5 anos da **constituição definitiva** do crédito; interrompe-se pelo despacho do juiz que ordena a citação em execução fiscal, protesto judicial ou extrajudicial, ato judicial que constitua o devedor em mora, ou ato inequívoco de reconhecimento do débito.
+>
+> *Exemplo ilustrativo (sem lastro):* fato gerador em 10/03/2020; a contagem do art. 173, I, começa em 1º/01/2021 e a decadência se completa em 31/12/2025.
+>
+> **O erro clássico:** trocar o termo inicial (fato gerador no art. 150, §4º; primeiro dia do exercício seguinte no art. 173, I; constituição definitiva na prescrição); dizer que a decadência se interrompe; e confundir decadência (perde-se o direito de **constituir**) com prescrição (perde-se a ação de **cobrar**).
+
+> [!info]- Ponte
+> - [[P1 - Direito Civil#- Prescrição e decadência;]]: os mesmos institutos no direito privado; o CTN tem prazos e termos próprios.
+
 
 
 ### Exclusão do Crédito tributário
@@ -637,6 +1187,18 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 
 ⚠️ **Isenção onerosa** (prazo certo + condições): gera direito adquirido durante o prazo, se cumpridas as condições, e não pode ser revogada antes do término. Sem prazo ou sem condições: revogável a qualquer momento.
 
+*(CTN comentado, Guruja, p. 75–77)*
+
+> [!quote]- Texto literal: Art. 175 e Art. 178 (CTN Guruja, p. 75–76)
+> Art. 175 Excluem o crédito tributário:
+> I - a isenção;
+> II - a anistia.
+>
+> Parágrafo único. A exclusão do crédito tributário não dispensa o cumprimento das obrigações acessórias, dependentes da obrigação principal cujo crédito seja excluído, ou dela conseqüente.
+>
+> Art. 178 A isenção, salvo se concedida por prazo certo e em função de determinadas condições, pode ser revogada ou modificada por lei, a qualquer tempo, observado o disposto no inciso III do artigo 104.
+
+
 #### Anistia (arts. 180 a 182)
 
 | Aspecto | Regra |
@@ -646,6 +1208,36 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 | Vedação **relativa** | conluio (salvo se a lei disser o contrário) |
 | Modalidades | **geral** ou **limitada**: a determinado tributo; a penalidades pecuniárias até certo valor (conjugadas ou não com outras); a determinada região; sob condição |
 | Caráter individual | por despacho da autoridade, a requerimento; renovada se periódica; **não gera direito adquirido** |
+
+*(CTN comentado, Guruja, p. 77–78)*
+
+> [!quote]- Texto literal: Art. 180 e Art. 181 (CTN Guruja, p. 77–78)
+> Art. 180 A anistia abrange exclusivamente as infrações cometidas anteriormente à vigência da lei que a concede, não se aplicando:
+> I - aos atos qualificados em lei como crimes ou contravenções e aos que, mesmo sem essa qualificação, sejam praticados com dolo, fraude ou simulação pelo sujeito passivo ou por terceiro em benefício daquele;
+> II - salvo disposição em contrário, às infrações resultantes de conluio entre duas ou mais pessoas naturais ou jurídicas.
+>
+> Art. 181 A anistia pode ser concedida:
+> I - em caráter geral;
+> II - limitadamente:
+> a) às infrações da legislação relativa a determinado tributo;
+> b) às infrações punidas com penalidades pecuniárias até determinado montante, conjugadas ou não com penalidades de outra natureza;
+> c) a determinada região do território da entidade tributante, em função de condições a ela peculiares;
+> d) sob condição do pagamento de tributo no prazo fixado pela lei que a conceder, ou cuja fixação seja atribuída pela mesma lei à autoridade administrativa.
+
+> [!tip]- Lupa: isenção onerosa × não onerosa e vedações da anistia
+> **A ideia em uma frase:** isenção e anistia excluem o crédito, mas a isenção dispensa o **tributo** e a anistia perdoa a **penalidade**; e cada uma tem sua regra de revogação ou de vedações.
+>
+> **Passo a passo:**
+> 1. Isenção: sempre por **lei** que especifique condições, tributos e prazo (art. 176). Não se estende, salvo lei em contrário, às **taxas** e contribuições de melhoria nem aos tributos **criados depois** (art. 177).
+> 2. Isenção por **prazo certo e sob condições** (onerosa): gera direito adquirido durante o prazo e não pode ser revogada antes do fim, desde que cumpridas as condições. Sem prazo ou sem condições: revogável a qualquer tempo por lei, observado o art. 104, III (art. 178; PDF, p. 76).
+> 3. Anistia: só infrações **anteriores** à lei (art. 180). **Não** vale para crimes e contravenções, nem para dolo, fraude ou simulação (vedação absoluta); nem, salvo disposição em contrário, para **conluio** (vedação relativa).
+> 4. Modalidades da anistia (art. 181): geral ou limitada a tributo, a valor de multa, a região ou sob condição de pagamento do tributo.
+>
+> **O erro clássico:** dizer que a anistia perdoa o tributo (ela alcança as infrações e as penalidades); tratar a isenção onerosa como revogável a qualquer tempo; e trocar a vedação absoluta (crimes, contravenções, dolo, fraude, simulação) pela relativa (conluio, que a lei pode afastar).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]]: o art. 14, §1º, da LRF coloca anistia, remissão e isenção em caráter não geral no rol de renúncia de receita; o quadro "Se ligue" de lá dá anistia = perdão de multas e remissão = perdão de dívidas.
+
 
 ### Garantias e Privilégios do Crédito Tributário (arts. 183 a 193 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -674,6 +1266,42 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 - **Art. 187:** o parágrafo único **não foi recepcionado** (ADPF 357, junho/2021: não há preferência da União sobre Estados e Municípios).
 - **Art. 191-A:** a recuperação judicial exige prova de quitação; a "quitação" inclui exigibilidade **suspensa** (art. 151) ou **certidão positiva com efeitos de negativa** (art. 206).
 
+*(CTN comentado, Guruja, p. 79–82)*
+
+> [!quote]- Texto literal: Art. 184, Art. 186, Art. 187 e Art. 191-A (CTN Guruja, p. 79–82)
+> Art. 184 Sem prejuízo dos privilégios especiais sobre determinados bens, que sejam previstos em lei, responde pelo pagamento do crédito tributário a totalidade dos bens e das rendas, de qualquer origem ou natureza, do sujeito passivo, seu espólio ou sua massa falida, inclusive os gravados por ônus real ou cláusula de inalienabilidade ou impenhorabilidade seja qual for a data da constituição do ônus ou da cláusula, excetuados unicamente os bens e rendas que a lei declare absolutamente impenhoráveis.
+>
+> Art. 186 O crédito tributário prefere a qualquer outro, seja qual for sua natureza ou o tempo de sua constituição, ressalvados os créditos decorrentes da legislação do trabalho ou do acidente de trabalho.
+>
+> Parágrafo único. Na falência:
+> I - o crédito tributário não prefere aos créditos extraconcursais ou às importâncias passíveis de restituição, nos termos da lei falimentar, nem aos créditos com garantia real, no limite do valor do bem gravado;
+> II - a lei poderá estabelecer limites e condições para a preferência dos créditos decorrentes da legislação do trabalho; e III - a multa tributária prefere APENAS aos créditos subordinados.
+>
+> Art. 187 A cobrança judicial do crédito tributário não é sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento.
+>
+> Parágrafo único. O concurso de preferência somente se verifica entre pessoas jurídicas de direito público, na seguinte ordem:
+> I - União;
+> II - Estados, Distrito Federal e Territórios, conjuntamente e pro rata;
+> III - Municípios, conjuntamente e pro rata.
+>
+> Art. 191-A A concessão de recuperação judicial depende da apresentação da prova de quitação de todos os tributos, observado o disposto nos arts. 151, 205 e 206 desta Lei.
+
+> [!tip]- Lupa: ordem de preferência na falência e concurso entre entes
+> **A ideia em uma frase:** o crédito tributário tem preferência forte, mas na falência ele fica atrás de alguns créditos e a multa tributária vai para o fim; e entre os entes públicos a ordem do CTN foi afastada pelo STF.
+>
+> **Passo a passo:**
+> 1. Regra geral (art. 186, caput): o crédito tributário prefere a qualquer outro, **ressalvados** os da legislação do trabalho e do acidente de trabalho.
+> 2. Na falência (art. 186, p.ú.), a ordem do quadro do PDF (p. 80) é: 1º créditos extraconcursais; 2º legislação do trabalho (até 150 salários mínimos) e acidente do trabalho; 3º crédito com **garantia real** (até o limite do bem gravado); 4º **crédito tributário** (exceto multas); 5º quirografários; 6º **multas** (inclusive tributárias); 7º subordinados; 8º juros vencidos após a decretação da falência.
+> 3. A multa tributária prefere **apenas** aos créditos subordinados (art. 186, p.ú., III).
+> 4. A cobrança judicial não se sujeita a concurso de credores nem a habilitação (art. 187, caput).
+> 5. O parágrafo único do art. 187 previa concurso só entre entes (União, depois Estados e DF, depois Municípios); o STF, na ADPF 357, decidiu que ele **não foi recepcionado** (PDF, p. 81).
+>
+> **O erro clássico:** colocar o crédito tributário à frente do trabalhista; tratar a multa tributária como se tivesse a mesma preferência do tributo (ela vai para o 6º lugar, à frente só dos subordinados); e afirmar que a União ainda tem preferência sobre Estados e Municípios.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#2.7. ADPF 357: O Concurso de Preferência Entre os Entes Políticos]]: a ADPF 357 desenvolvida na imersão de Processo Tributário.
+
+
 
 ## Administração Tributária;  
 
@@ -697,6 +1325,23 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 - São constitucionais a lei federal e o convênio Confaz que impõem o **Emissor de Cupom Fiscal (ECF)** ao varejo e aos prestadores de serviços e a identificação do comprador, da descrição dos bens ou serviços, da data e do valor no cupom; não há usurpação de competência, invasão da reserva de LC (art. 146, III, "b") nem ofensa à proporcionalidade e à privacidade (STF, Plenário, ADI 3.270/DF, 28/02/2025, Info 1167). — *Resumo Jurisp. Trib., p. 19*
 - **Perdimento de veículo:** é ilegal a pena de perdimento do veículo da <mark>locadora que não participou</mark> do contrabando ou descaminho (STJ, 1ª T., REsp 1.817.179/RS, 17/09/2019, Info 658). Havendo **conduta dolosa do transportador** com carro próprio, aplica-se a perda do veículo <mark>independentemente da desproporção</mark> de valor em relação às mercadorias (STJ, 1ª T., REsp 1.498.870/PR, 12/2/2015, Info 556). — *Resumo Jurisp. Trib., p. 27*
 
+*(CTN comentado, Guruja, p. 84–85)*
+
+- **Art. 198 (sigilo):** é <mark>vedada a divulgação</mark>, pela Fazenda Pública ou seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades. **§1º** exceções: requisição de autoridade judiciária; solicitações da Administração Pública com processo administrativo regular instaurado contra o sujeito passivo. **§3º** <mark>não é vedada</mark> a divulgação de: representações fiscais para fins penais; inscrições na Dívida Ativa; parcelamento ou moratória; incentivo, renúncia, benefício ou imunidade tributária de pessoa jurídica.
+
+> [!quote]- Texto literal: Art. 198, caput, §1º e §3º (CTN Guruja, p. 84–85)
+> Art. 198 Sem prejuízo do disposto na legislação criminal, é vedada a divulgação, por parte da Fazenda Pública ou de seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades.
+>
+> § 1º Excetuam-se do disposto neste artigo, além dos casos previstos no artigo 199, os seguintes:
+> I - requisição de autoridade judiciária no interesse da justiça;
+> II - solicitações de autoridade administrativa no interesse da Administração Pública, desde que seja comprovada a instauração regular de processo administrativo, no órgão ou na entidade respectiva, com o objetivo de investigar o sujeito passivo a que se refere a informação, por prática de infração administrativa.
+>
+> § 3º Não é vedada a divulgação de informações relativas a:
+> I - representações fiscais para fins penais;
+> II - inscrições na Dívida Ativa da Fazenda Pública;
+> III - parcelamento ou moratória; e IV - incentivo, renúncia, benefício ou imunidade de natureza tributária cujo beneficiário seja pessoa jurídica.
+
+
 ### Dívida Ativa Tributária (arts. 201 a 204 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/604?indice=1&materia=602)
@@ -705,6 +1350,23 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 - **Protesto de CDA:** é constitucional e legítimo, por não restringir desproporcionalmente direitos fundamentais e não constituir sanção política (STF, Plenário, ADI 5.135/DF, 3 e 9/11/2016, Info 846). É possível o protesto de CDA (STJ, 2ª T., REsp 1.126.515/PR, 3/12/2013, Info 533). A validade do protesto de CDA de Fazenda estadual ou municipal <mark>não depende de prévia lei local</mark> autorizando essa cobrança (STJ, 1ª T., REsp 1.895.557/SP, 22/06/2021, Info 702). — *Resumo Jurisp. Trib., p. 27*
 - A ausência de **prévio processo administrativo** não gera nulidade da CDA nos tributos sujeitos a lançamento de ofício (STJ, 2ª T., AgRg no AREsp 370.295/SC, 1º/10/2013, Info 531). — *Resumo Jurisp. Trib., p. 27*
 - **Súmula STJ 560:** a indisponibilidade de bens e direitos do art. 185-A do CTN pressupõe o <mark>exaurimento das diligências</mark> na busca de bens penhoráveis, caracterizado quando infrutíferos o pedido de constrição de ativos financeiros e os ofícios aos registros públicos do domicílio do executado, ao Denatran ou aos Detrans. — *Resumo Jurisp. Trib., p. 22*
+
+*(CTN comentado, Guruja, p. 86–87)*
+
+> [!quote]- Texto literal: Art. 202 (CTN Guruja, p. 86)
+> Art. 202 O termo de inscrição da dívida ativa, autenticado pela autoridade competente, indicará obrigatoriamente:
+> I - o nome do devedor e, sendo caso, o dos co-responsáveis, bem como, SEMPRE QUE POSSÍVEL, o domicílio ou a residência de um e de outros;
+> II - a quantia devida e a maneira de calcular os juros de mora acrescidos;
+> III - a origem e a natureza do crédito, mencionada especificamente a disposição da lei em que seja fundado;
+> IV - a data em que foi inscrita;
+> V - sendo caso, o número do processo administrativo de que se originar o crédito.
+>
+> Parágrafo único. A certidão conterá, além dos requisitos deste artigo, a indicação do livro e da folha da inscrição.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#1.2.2. Requisitos do Termo de Inscrição da Dívida Ativa]]: os mesmos requisitos na imersão de Processo Tributário.
+> - [[P1 - Direito Financeiro#Dívida Ativa]] e [[P2 - Legislação Tributária Estadual (BA)#Dívida ativa, certidões, parcelamento e denúncia espontânea]]: dívida ativa vista pelo Direito Financeiro e pelo ICMS da Bahia.
+
     
 ### Certidão Negativa (arts. 205 a 208 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -718,6 +1380,14 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 *(CTN comentado, Guruja, p. 87–88)*
 
 **CPEN — certidão positiva com efeitos de negativa** (art. 206): créditos **não vencidos** (vincendos), créditos em **cobrança executiva com penhora efetivada** e créditos com **exigibilidade suspensa**.
+
+> [!quote]- Texto literal: Art. 205 e Art. 206 (CTN Guruja, p. 87–88)
+> Art. 205 A lei poderá exigir que a prova da quitação de determinado tributo, quando exigível, seja feita por certidão negativa, expedida à vista de requerimento do interessado, que contenha todas as informações necessárias à identificação de sua pessoa, domicílio fiscal e ramo de negócio ou atividade e indique o período a que se refere o pedido.
+>
+> Parágrafo único. A certidão negativa será sempre expedida nos termos em que tenha sido requerida e será fornecida dentro de 10 (dez) dias da data da entrada do requerimento na repartição.
+>
+> Art. 206 Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido efetivada a penhora, ou cuja exigibilidade esteja suspensa.
+
 
 
 ## Repartição Constitucional de Receitas Tributárias.
@@ -733,6 +1403,24 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 *(CTN comentado, Guruja, p. 35–39)*
 
 ⚠️ Os arts. 83 a 95 do CTN (Título VI, distribuição de receitas) estão **parcialmente revogados ou não recepcionados**: desde 1988 a repartição é disciplinada **diretamente na CF**.
+
+*(CTN comentado, Guruja, p. 39)*
+
+- O quadro da CF/88 no PDF traz o **art. 159, I**: da arrecadação do IR, do IPI e do imposto do art. 153, VIII, a União entrega **50%**, sendo <mark>21,5%</mark> ao Fundo de Participação dos Estados e do DF (alínea "a"), <mark>22,5%</mark> ao Fundo de Participação dos Municípios ("b") e <mark>1%</mark> ao FPM, entregue no **primeiro decêndio de dezembro** ("d").
+
+> [!quote]- Texto literal: CF/88, Art. 159, I, "a", "b" e "d" (CTN Guruja, p. 39)
+> Art. 159. A União entregará:
+> I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados e do imposto previsto no art. 153, VIII, 50% (cinquenta por cento), da seguinte forma:
+> a) vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
+> b) vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
+> d) um por cento ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de dezembro de cada ano;
+
+> [!warning]- Pendência: alínea "c" e demais
+> O quadro do PDF pula da alínea "b" para a "d" e não traz as alíneas seguintes. Copiei só o que está na p. 39, sem completar. As tabelas de fator do FPE e de coeficientes do FPM (p. 37–38) ficaram de fora porque o próprio PDF marca os arts. 83 a 95 como parcialmente revogados ou não recepcionados.
+
+> [!info]- Ponte
+> - [[P2 - Finanças Públicas#Federalismo fiscal e repartição de competências]]: o mesmo assunto visto pela matéria de Finanças Públicas (peso 3).
+
 
 
 # Bloco D:   
@@ -1098,6 +1786,20 @@ Base de cálculo: **montante, real, arbitrado ou presumido**, da renda ou dos pr
 
 **ITR** — competência da União. Fato gerador: propriedade, domínio útil ou posse de imóvel **por natureza fora da zona urbana**. Base de cálculo: **valor fundiário** (preço da **terra nua**, sem construções, plantações ou benfeitorias). Contribuinte: proprietário, titular do domínio útil ou possuidor.
 
+*(CTN comentado, Guruja, p. 23)*
+
+- **Art. 43, §1º:** a incidência do IR <mark>independe da denominação</mark> da receita ou do rendimento, da localização, condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção. **§2º:** nos rendimentos do exterior, a lei estabelece as condições e o momento da disponibilidade para a incidência.
+
+> [!quote]- Texto literal: Art. 43 (CTN Guruja, p. 23)
+> Art. 43 O imposto, de competência da União, sobre a renda e proventos de qualquer natureza tem como fato gerador a aquisição da disponibilidade econômica ou jurídica:
+> I - de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos;
+> II - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos no inciso anterior.
+>
+> § 1º A incidência do imposto independe da denominação da receita ou do rendimento, da localização, condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.
+>
+> § 2º Na hipótese de receita ou de rendimento oriundos do exterior, a lei estabelecerá as condições e o momento em que se dará sua disponibilidade, para fins de incidência do imposto referido neste artigo.
+
+
 ### 7. Imposto sobre a Transmissão de Bens Imóveis — ITBI (arts. 35 a 42)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -1114,6 +1816,18 @@ Base de cálculo: **montante, real, arbitrado ou presumido**, da renda ou dos pr
 ⚠️ **Exceção:** não vale se o adquirente tem **atividade imobiliária preponderante** — > **50%** da receita operacional nos **2 anos anteriores + 2 seguintes** à aquisição; se a atividade começou após a aquisição ou há menos de 2 anos, considera-se os **3 primeiros anos** seguintes. **Exceção à exceção:** transmissão da **totalidade do patrimônio**.
 
 Art. 39: **revogado (2026)**.
+
+> [!quote]- Texto literal: Art. 37 (CTN Guruja, p. 20–21)
+> Art. 37 O disposto no artigo anterior não se aplica quando a pessoa jurídica adquirente tenha como atividade preponderante a venda ou locação de propriedade imobiliária ou a cessão de direitos relativos à sua aquisição.
+>
+> § 1º Considera-se caracterizada a atividade preponderante referida neste artigo quando mais de 50% (cinquenta por cento) da receita operacional da pessoa jurídica adquirente, nos 2 (dois) anos anteriores e nos 2 (dois) anos subsequentes à aquisição, decorrer de transações mencionadas neste artigo.
+>
+> § 2º Se a pessoa jurídica adquirente iniciar suas atividades após a aquisição, ou menos de 2 (dois) anos antes dela, apurar-se-á a preponderância referida no parágrafo anterior, levando em conta os 3 (três) primeiros anos seguintes à data da aquisição.
+>
+> § 3º Verificada a preponderância referida neste artigo, tornar-se-á devido o imposto, nos termos da lei vigente à data da aquisição, sobre o valor do bem ou direito nessa data.
+>
+> § 4º O disposto neste artigo não se aplica à transmissão de bens ou direitos, quando realizada em conjunto com a da totalidade do patrimônio da pessoa jurídica alienante.
+
 
 ### 8. ICMS — energia, telecomunicações e combustíveis; serviços (arts. 68 a 70, 74 a 76)
 - [ ] status [dom:: 0] [peso:: 3]
