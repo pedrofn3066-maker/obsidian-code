@@ -54,12 +54,18 @@ Não existia como disciplina autônoma no edital baiano de 2019, mas é bloco es
 
 ### Dívida pública e sustentabilidade fiscal
 - [ ] status [dom:: 0] [peso:: 3]
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: limites, recondução e operações de crédito (arts. 29 a 40); o conteúdo completo da LRF está no Direito Financeiro.
 
 ### Lei de Responsabilidade Fiscal: limites e mecanismos
 - [ ] status [dom:: 0] [peso:: 3]
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] e [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: pessoal, dívida e sanções; o conteúdo completo da LRF está no Direito Financeiro.
 
 ### Renúncia de receita e transparência fiscal
 - [ ] status [dom:: 0] [peso:: 3]
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] (renúncia, arts. 14 e 14-A) e [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]] (transparência, arts. 48 a 55); o conteúdo completo da LRF está no Direito Financeiro.
 
 ### Política fiscal e ciclo econômico
 - [ ] status [dom:: 0] [peso:: 3]
