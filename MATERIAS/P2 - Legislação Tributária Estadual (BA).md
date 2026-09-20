@@ -264,6 +264,10 @@ Lei nº 4.826, de 27 de janeiro de 1989 — consolidada até a Lei nº 14.971/20
 
 ⚠️ Art. 3º é **não incidência**, não isenção — a distinção importa: na não incidência o imposto nem chega a nascer (fora do campo de incidência); na isenção (art. 4º) o fato gerador ocorre e a lei dispensa o pagamento. Banca troca os dois termos de propósito.
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STF 331:** é legítima a incidência do imposto causa mortis no inventário por **morte presumida**. **Súmula STF 115:** sobre os honorários do advogado contratado pelo inventariante, com homologação do juiz, <mark>não incide</mark> o imposto causa mortis. — *Resumo Jurisp. Trib., p. 35*
+- É inconstitucional a incidência do ITCMD sobre o repasse aos beneficiários de valores e direitos de **VGBL ou PGBL** na hipótese de morte do titular (STF, Plenário, RE 1.363.013/RJ, 13/12/2024, Info 1163). — *Resumo Jurisp. Trib., p. 36*
+
 ## Isenções (art. 4º)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -324,6 +328,10 @@ Lei nº 4.826, de 27 de janeiro de 1989 — consolidada até a Lei nº 14.971/20
 > - EC 132, art. 16: regra provisória do ITCMD internacional, até LC (doador no exterior → domicílio do donatário; donatário também no exterior → Estado onde estiver o bem).
 > Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- É inconstitucional a instituição do ITCMD por norma estadual nas hipóteses com **elemento de conexão com o exterior**, <mark>antes da EC 132/2023</mark>, por violar o modelo de repartição de competências e a exigência de lei complementar nacional (art. 155, I, § 1º, III) (STF, Plenário, ADI 6.838/MT, 24/10/2025, Info 1196). — *Resumo Jurisp. Trib., p. 36*
+- É vedado aos estados e ao DF instituir o ITCMD nas hipóteses do art. 155, § 1º, III, <mark>sem a lei complementar federal</mark> exigida (STF, Plenário, ADI 6.828/AL, 28/10/2022, Info 1074; RE 851.108/SP, 27/2/2021, Info 1007). — *Resumo Jurisp. Trib., p. 36*
+
 ## Alíquotas (art. 9º)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -344,12 +352,19 @@ Lei nº 4.826, de 27 de janeiro de 1989 — consolidada até a Lei nº 14.971/20
 
 ⚠️ Parágrafo único é regra **antielisiva**: sem ela, dava para fracionar uma doação grande em várias pequenas (cada uma na faixa de 3%) para fugir da alíquota mais alta. Com o recálculo obrigatório por doador+donatário dentro do mesmo exercício, esse benefício de fracionar desaparece.
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STF 112:** o imposto causa mortis é devido pela <mark>alíquota vigente ao tempo da abertura da sucessão</mark>. — *Resumo Jurisp. Trib., p. 35*
+- A **progressividade** vale para impostos pessoais e também para os reais (art. 145, § 1º, da CF não a proíbe). O ITCMD, imposto real, <mark>pode ser progressivo</mark> mesmo sem previsão expressa na CF. Ao contrário do IPTU (Súmula STF 668), <mark>não é necessária EC</mark> (STF, Plenário, RE 562.045/RS, 6/2/2013, Info 694). — *Resumo Jurisp. Trib., p. 37*
+
 ## Base de Cálculo (art. 10)
 - [ ] status [dom:: 0] [peso:: 3]
 
 > Art. 10. A base de cálculo do imposto é o valor venal dos bens ou direitos à época da ocorrência do fato gerador, apurado mediante avaliação de iniciativa da Secretaria da Fazenda, com base nos valores de mercado correspondente ao bem, ressalvado ao contribuinte o direito de requerer avaliação contraditória administrativa ou judicial.
 
 ⚠️ Base de cálculo é o **valor venal na data do fato gerador** (não o valor declarado pelas partes, nem uma avaliação antiga) — a avaliação de ofício é da SEFAZ, cabendo ao contribuinte o contraditório se discordar. Combina direto com os arts. 3º e 9º: a base muda conforme a data do óbito/doação, então valorização do bem entre o fato gerador e o pagamento não deveria alterar o imposto devido.
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STF 113:** o imposto causa mortis é calculado sobre o valor dos bens <mark>na data da avaliação</mark>. **Súmula STF 590:** calcula-se sobre o **saldo credor da promessa de compra e venda** de imóveis, no momento da abertura da sucessão do promitente vendedor. — *Resumo Jurisp. Trib., p. 35*
 
 ## Cálculo, Lançamento, Pagamento e Restituição (arts. 11-12)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -359,6 +374,10 @@ Lei nº 4.826, de 27 de janeiro de 1989 — consolidada até a Lei nº 14.971/20
 > Art. 12. O regulamento disporá sobre o lançamento do imposto e sua restituição.
 
 Arts. 11-12 são normas de **remissão ao regulamento** — a lei não detalha prazo nem forma de pagamento/restituição, delega ao decreto regulamentador. Pouco provável cair "decoreba" desses dois artigos isolados; o risco é a banca cobrar prazo ou forma que só está no regulamento, não na lei.
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STF 114:** o imposto causa mortis <mark>não é exigível antes da homologação do cálculo</mark>. — *Resumo Jurisp. Trib., p. 35*
+- **Doação não declarada:** o prazo decadencial inicia no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, conforme os arts. 144 e 173, I, do CTN (STJ, 1ª Seção, REsp 1.841.798/MG, 20/04/2021, Info 694). — *Resumo Jurisp. Trib., p. 36*
 
 ## Infrações, Penalidades e Disposições Finais (arts. 13-16)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -476,6 +495,12 @@ A EC 132/2023 manteve o IPVA fora da anterioridade nonagesimal quanto à fixaç�
 
 **A imunidade tributária subjetiva aplica-se a seus beneficiários na posição de contribuinte de direito**, **mas não na de simples contribuinte de fato**, sendo irrelevante, para a verificação da existência do beneplácito constitucional, a repercussão econômica do tributo envolvido. (STF. Plenário. RE 608872/MG, Rel. Min. Dias Toffoli, julgado em 22 e 23/2/2017 (repercussão geral) (Info 855))
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- É inconstitucional atribuir ao **credor fiduciário**, como contribuinte ou responsável, a obrigação de recolher o IPVA do veículo alienado fiduciariamente, <mark>ressalvada a consolidação da propriedade plena</mark> em nome do credor por inadimplemento do devedor fiduciante (STF, Plenário, RE 1.355.870/MG, 03/10/2025, Info 1193). — *Resumo Jurisp. Trib., p. 38*
+- Só <mark>lei estadual ou distrital específica</mark> pode atribuir ao **alienante** responsabilidade solidária pelo IPVA do veículo alienado, na hipótese de ausência de comunicação da venda ao órgão de trânsito (STJ, 1ª Seção, REsp 1.881.788/SP, Tema 1118, 23/11/2022, Info 758). — *Resumo Jurisp. Trib., p. 38*
+- É inconstitucional condicionar a isenção de IPVA de veículos de **transporte escolar** à filiação dos motoristas autônomos a sindicato ou cooperativa (STF, Plenário, ADI 5.268/MG, 5/8/2022, Info 1062). — *Resumo Jurisp. Trib., p. 38*
+- A **notificação** do contribuinte para o recolhimento do IPVA <mark>constitui definitivamente o crédito</mark>, e o prazo prescricional da execução fiscal começa no dia seguinte à data do vencimento. A cientificação pode ser feita por qualquer meio idôneo, como o envio de carnê ou a publicação de calendário de pagamento com instruções (STJ, 1ª Seção, REsp 1.320.825/RJ, 10/8/2016, Info 588). — *Resumo Jurisp. Trib., p. 38–39*
+
 
 ___
 
@@ -487,11 +512,23 @@ ___
 
 **Definição de mercadoria** (§2º, Lei estadual de ICMS): considera-se mercadoria, para efeitos de aplicação da legislação do ICMS, qualquer bem móvel, novo ou usado, suscetível de circulação econômica, inclusive semoventes, energia elétrica, mesmo quando importado do exterior para uso ou consumo do importador ou para incorporação ao ativo permanente do estabelecimento.
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Importação por pessoa física:** Súmula STJ 155 — incide ICMS na importação de <mark>aeronave</mark> por pessoa física para uso próprio; Súmula STJ 198 — o mesmo para <mark>veículo</mark> destinado a uso próprio. ⚠️ A Súmula STF 660 (não incide ICMS na importação por pessoa física ou jurídica que não seja contribuinte) consta no mesmo resumo: conferir a vigência antes de estudar como regra. — *Resumo Jurisp. Trib., p. 28–30*
+- **Súmula STJ 350:** o ICMS não incide sobre o serviço de **habilitação de telefone celular**. **Súmula STJ 391:** incide sobre a tarifa de energia elétrica correspondente à **demanda de potência efetivamente utilizada**. **Súmula STF 662:** é legítima a incidência na comercialização de exemplares de obras cinematográficas gravados em videocassete. — *Resumo Jurisp. Trib., p. 29–30*
+- O ICMS incide sobre a tarifa de **assinatura básica mensal** da telefonia, independentemente da franquia de minutos (STF, Plenário, RE 912.888/SP, 13/10/2016, Info 843). — *Resumo Jurisp. Trib., p. 34*
+- **Software:** licenciamento ou cessão do direito de uso, padronizado ou por encomenda, é tributável pelo <mark>ISS, e não pelo ICMS</mark> (STF, Plenário, ADI 5.576/SP, 2/8/2021, Info 1024). — *Resumo Jurisp. Trib., p. 33*
+
 ### Não incidência, isenções e imunidades
 - [ ] status [dom:: 0] [peso:: 3]
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 649:** não incide ICMS sobre o serviço de **transporte interestadual de mercadorias destinadas ao exterior**. — *Resumo Jurisp. Trib., p. 30*
+
 ### Fato gerador — momento da ocorrência
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 166:** não constitui fato gerador o simples <mark>deslocamento de mercadoria entre estabelecimentos do mesmo contribuinte</mark>. **Súmula STF 661:** na entrada de mercadoria importada, é legítima a cobrança por ocasião do <mark>desembaraço aduaneiro</mark>. — *Resumo Jurisp. Trib., p. 28 e 30*
 
 ### Local da operação e da prestação
 - [ ] status [dom:: 0] [peso:: 3]
@@ -502,20 +539,35 @@ ___
 ### Responsável, solidariedade e sucessão
 - [ ] status [dom:: 0] [peso:: 3]
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- O **adquirente de boa-fé** não responde pelo tributo não recolhido pela vendedora que fez a operação mediante indevida emissão de nota fiscal (STJ, 1ª T., AREsp 1.198.146/SP, 04/12/2018, Info 640). — *Resumo Jurisp. Trib., p. 33*
+
 ### Substituição tributária — regras gerais e modalidades
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- A ST com atribuição ao **estabelecimento atacadista** do recolhimento nas operações subsequentes pode ser instituída por <mark>lei ordinária estadual</mark>, regulamentada por decreto (STF, Plenário, ADI 5.702/RS, 21/10/2022, Info 1073). A ST **progressiva** reclama previsão em <mark>lei complementar federal</mark> (STF, Plenário, RE 598.677/RS, 26/3/2021, Info 1011). ⚠️ Os dois julgados aparecem juntos no resumo: comparar o que cada um exige. — *Resumo Jurisp. Trib., p. 32–33*
 
 ### ST — base presumida, MVA, ressarcimento e restituição
 - [ ] status [dom:: 0] [peso:: 3]
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- É devida a **restituição** da diferença do ICMS pago a mais na ST para frente se a base de cálculo efetiva for <mark>inferior à presumida</mark> (STF, Plenário, RE 593.849/MG, 19/10/2016, Info 844). — *Resumo Jurisp. Trib., p. 33*
+
 ### Antecipação tributária parcial e total
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- O regime de **antecipação de pagamento** do ICMS <mark>não é benefício fiscal próprio</mark> e não atrai a exigência de regulamentação por lei complementar (STF, Plenário, ADI 2.805/RS, 06/08/2024, Info 1144). — *Resumo Jurisp. Trib., p. 32*
 
 ### Diferimento e suspensão
 - [ ] status [dom:: 0] [peso:: 3]
 
 ### Base de cálculo — composição, inclusões e exclusões
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 237:** nas operações com cartão de crédito, os encargos do financiamento não entram no cálculo do ICMS. **Súmula STJ 395:** o ICMS incide sobre o valor da **venda a prazo** constante da nota fiscal. **Súmula STJ 431:** é ilegal a cobrança com base no valor da mercadoria submetido ao regime de **pauta fiscal**. **Súmula STJ 457:** os **descontos incondicionais** nas operações mercantis não se incluem na base de cálculo. — *Resumo Jurisp. Trib., p. 29–30*
 
 ### Reduções de base de cálculo
 - [ ] status [dom:: 0] [peso:: 3]
@@ -526,11 +578,20 @@ ___
 ### Alíquotas internas por mercadoria e serviço
 - [ ] status [dom:: 0] [peso:: 3]
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 95:** a redução da alíquota do IPI ou do Imposto de Importação <mark>não implica redução do ICMS</mark>. — *Resumo Jurisp. Trib., p. 28*
+
 ### Alíquotas interestaduais e DIFAL (EC 87/2015 e LC 190/2022)
 - [ ] status [dom:: 0] [peso:: 3]
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- São constitucionais as leis estaduais e distritais editadas <mark>após a EC 87/2015 e antes da LC 190/2022</mark> que instituíram o **DIFAL** nas operações a consumidor final não contribuinte, mas essas leis produzem efeitos <mark>somente a partir da vigência da LC 190/2022</mark> e naquilo que for compatível (STF, Plenário, RE 1.426.271/CE, 21/10/2025, Info 1196). — *Resumo Jurisp. Trib., p. 30–31*
+
 ### Não cumulatividade — direito ao crédito
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 509:** é lícito ao comerciante de boa-fé aproveitar os créditos de ICMS de nota fiscal posteriormente declarada **inidônea**, quando demonstrada a veracidade da compra e venda. — *Resumo Jurisp. Trib., p. 30*
 
 ### Vedações ao crédito, estorno e manutenção de crédito
 - [ ] status [dom:: 0] [peso:: 3]
@@ -547,8 +608,17 @@ ___
 ### Simples Nacional na ótica estadual (LC 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- É constitucional a incidência de **ST e do DIFAL** para ME e EPP optantes do Simples Nacional, por legítima opção do legislador de submetê-las a procedimento diverso do recolhimento por guia única (STF, Plenário, ADI 6.030/DF, 16/08/2024, Info 1146). — *Resumo Jurisp. Trib., p. 31*
+
 ### Benefícios fiscais estaduais, LC 24/75, CONFAZ e guerra fiscal
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- É inconstitucional norma estadual que concede benefício de ICMS em operações com **produtos originados do próprio território**, por violar o art. 152 da CF (proíbe discriminação por procedência ou destino) (STF, Plenário, ADI 5.363/MG, 12/9/2023, Info 1107). — *Resumo Jurisp. Trib., p. 32*
+- A **redução de alíquota** do ICMS exige comprovação do impacto financeiro e orçamentário, <mark>convênio</mark> entre os estados e o DF e demonstração da essencialidade dos bens e serviços (STF, Plenário, ADI 6.152/MA, 30/9/2022, Info 1070). — *Resumo Jurisp. Trib., p. 32*
+- É constitucional lei estadual ou distrital que, com amparo em **convênio do CONFAZ**, conceda **remissão** de créditos de ICMS oriundos de benefícios fiscais anteriormente julgados inconstitucionais (STF, Plenário, RE 851.421/DF, 17/12/2021, Info 1042). — *Resumo Jurisp. Trib., p. 32*
+- É constitucional a **isenção de ICMS na aquisição de veículos por pessoas com deficiência**, desde que haja expressa autorização em convênio do CONFAZ, ainda que posterior à lei estadual originária, devidamente alterada por nova lei (STF, Plenário, ADI 3.495/ES, 16/08/2024, Info 1146). — *Resumo Jurisp. Trib., p. 31*
 
 ### Cadastro de contribuintes: inscrição, alteração, suspensão, baixa
 - [ ] status [dom:: 0] [peso:: 3]

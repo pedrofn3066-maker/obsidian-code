@@ -150,6 +150,22 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
     - Importador ou equiparado a importador
     - <mark style="background:#fdbfff">Arrematante dos produtos apreendidos ou abandonados</mark>
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STF 595:** inconstitucional a taxa municipal de conservação de estradas de rodagem cuja base de cálculo seja idêntica à do ITR. **Súmula STF 665:** constitucional a Taxa de Fiscalização dos Mercados de Títulos e Valores Mobiliários (Lei 7.940/89). **Súmula STF 667:** viola o acesso à jurisdição a taxa judiciária calculada <mark>sem limite sobre o valor da causa</mark>. **Súmula STF 670:** o serviço de iluminação pública não pode ser remunerado mediante taxa. — *Resumo Jurisp. Trib., p. 14*
+- Custas e taxas judiciárias podem ter o **valor da causa** como parâmetro, desde que fixados valores <mark>mínimos e máximos</mark> (STF, Plenário, ADI 5.688/PB, 22/10/2021, Info 1035). — *Resumo Jurisp. Trib., p. 15*
+- Constitucionais as taxas estaduais de **prevenção e combate a incêndios, busca, salvamento e resgate** dos corpos de bombeiros militares, pela utilização efetiva ou potencial (STF, Plenário, RE 1.417.155/RN, 26/03/2025, Info 1171). — *Resumo Jurisp. Trib., p. 15*
+- Taxa de fiscalização de **torres e antenas** de transmissão de dados e voz: competência privativa da União (art. 22, IV), não dos Municípios (STF, Plenário, RE 776.594/SP, 2/12/2022, Info 1078). — *Resumo Jurisp. Trib., p. 4*
+- Constitucional lei municipal que fixa o valor da taxa de fiscalização do estabelecimento conforme o **tipo de atividade** do contribuinte (STF, Plenário, ARE 990.094/SP, 18/08/2025, Info 1186). Constitucional a taxa com equivalência razoável entre o valor exigido e o custo do poder de polícia (STF, Plenário, ADI 6.737/PR, 7/6/2021, Info 1020). — *Resumo Jurisp. Trib., p. 15–16*
+- Taxas municipais de fiscalização e funcionamento <mark>não podem ter como base de cálculo o número de empregados ou o ramo de atividade</mark> (STF, 2ª T., ARE 990.914/SP, 20/6/2017, Info 870); a **área de fiscalização** pode ser a base (STF, 1ª T., RE 856.185 AgR, 04/08/2015). ⚠️ Comparar com o ARE 990.094/SP (2025), acima. — *Resumo Jurisp. Trib., p. 16*
+- Lei que fixa o teto e permite que ato infralegal defina o valor da taxa em proporção razoável ao custo da atuação estatal **não viola a legalidade**; o conselho não pode atualizar esse valor acima dos índices legais de correção monetária (STF, Plenário, RE 838.284/SC, 19/10/2016, Info 844). — *Resumo Jurisp. Trib., p. 16*
+- Inconstitucionais a instituição e a cobrança de taxas por **emissão ou remessa de carnês/guias** de recolhimento de tributos (STF, Plenário, RE 789.218/MG, 17/04/2014, Info 753). — *Resumo Jurisp. Trib., p. 16*
+- **Contribuições — FGTS:** incide sobre ajuda de custo e adicional de transferência (STJ, 1ª T., AgInt no REsp 2.123.785/RJ, 24/6/2024, Info 19 – Edição Extraordinária). — *Resumo Jurisp. Trib., p. 17*
+- **PIS/COFINS — base de cálculo:** receitas brutas operacionais das instituições financeiras integram a base (Lei 9.718/98, mesmo na redação original), ressalvadas exclusões e deduções legais (STF, Plenário, RE 609.096/RS, 12/6/2023, Info 1098). Juros da **Selic** recebidos na repetição de indébito, na devolução de depósitos judiciais ou em obrigações contratuais em atraso são Receita Bruta Operacional e entram na base do PIS/PASEP e da COFINS, cumulativas ou não (STJ, 1ª Seção, REsp 2.065.817/RJ e outros, 20/6/2024, Info 818). A **CPRB** integra a base do PIS e da COFINS (STJ, 1ª T., REsp 1.945.068/RS, 05/10/2021, Info 712). — *Resumo Jurisp. Trib., p. 4 e 17–18*
+- **ICMS × PIS/COFINS × CPRB:** o ICMS <mark>não compõe</mark> a base do PIS e da COFINS (STF, Plenário, RE 574.706/PR, 13/05/2021), mas é <mark>constitucional incluí-lo</mark> na base da CPRB (STF, Plenário, RE 1.187.264/SP, 24/2/2021, Info 1006). — *Resumo Jurisp. Trib., p. 18 e 33*
+- **Não cumulatividade do PIS/COFINS:** o legislador ordinário tem autonomia para disciplinar a não cumulatividade do art. 195, § 12, respeitados a matriz constitucional das contribuições e os princípios da razoabilidade, isonomia, livre concorrência e proteção à confiança (STF, Plenário, RE 841.979/PE, 25/11/2022, Info 1077). São inconstitucionais os arts. 47 e 48 da Lei 11.196/2005, que vedam crédito na aquisição de **insumos recicláveis** (STF, Plenário, RE 607.109/PR, 7/6/2021, Info 1020). Não há reserva de LC para o **repasse** de PIS/COFINS ao usuário de serviços públicos concedidos, nas faturas (STF, Plenário, RE 1.053.574/RS, 25/10/2019). — *Resumo Jurisp. Trib., p. 17–18*
+- É constitucional majorar a alíquota da contribuição dos **servidores estaduais por lei ordinária** (art. 149, § 1º), sem reserva de LC, cabendo até medida provisória (STF, Plenário, ADI 6.534/TO, 05/06/2024, Info 1139). É inconstitucional majorar a **base de cálculo** de contribuição social por **ato infralegal** (legalidade estrita) (STF, Plenário, RE 1.381.261/RS, 5/8/2022, Info 1062). — *Resumo Jurisp. Trib., p. 17–18*
+- É constitucional aplicar a arrecadação da **contribuição de iluminação pública** na expansão e no aprimoramento da rede (STF, Plenário, RE 666.404, 18/08/2020). — *Resumo Jurisp. Trib., p. 18*
+
 
 ## Limitações ao Poder de Tributar; 
 - [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-18
@@ -173,11 +189,31 @@ Mesmo sem a anualidade, a legalidade tributária estrita permanece: não há tri
 
 Distinção de regime: preço público/tarifa é facultativo; taxa é compulsória e pressupõe serviço público de prestação obrigatória ou exercício de poder de polícia (STF, STA 710 MC).
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Anterioridade geral e nonagesimal** aplica-se à <mark>redução ou supressão de benefícios e incentivos fiscais</mark>, porque configuram majoração indireta de tributos, observadas as exceções constitucionais de cada tributo (STF, Plenário, RE 1.473.645/PA, 21/03/2025, Info 1170; no mesmo sentido RE 564.225 AgR-EDv-AgR, 20/11/2019). — *Resumo Jurisp. Trib., p. 8–9*
+- Alteração no **Reintegra**, por majorar indiretamente tributos, deve respeitar a anterioridade nonagesimal (STF, 1ª T., RE 1.253.706 AgR/RS, 19/5/2020, Info 978). É constitucional a norma que autoriza o Executivo a fixar o percentual de ressarcimento **dentro dos limites da Lei 13.043/2014, art. 22**, por ser subvenção econômica (STF, Plenário, ADI 6.040/DF, 02/10/2024, Info 1153). — *Resumo Jurisp. Trib., p. 8–9*
+- Aumento da alíquota geral do **ICMS das operações internas por medida provisória** só produz efeitos no exercício financeiro seguinte ao da <mark>conversão em lei</mark> (anterioridade anual) (STF, Plenário, ADI 7.375/TO, 29/9/2023, Info 1110). — *Resumo Jurisp. Trib., p. 8*
+- Lei complementar que **prorroga** a compensação de créditos de ICMS de bens de uso e consumo não viola a não cumulatividade. A anterioridade nonagesimal (art. 150, III, "c") aplica-se <mark>somente a leis que instituem ou majoram tributos</mark>, não às que prorrogam a data de início da compensação (STF, Plenário, RE 601.967, 18/08/2020). — *Resumo Jurisp. Trib., p. 9*
+- Multa qualificada por sonegação, fraude ou conluio: até LC federal, limita-se a <mark>100% do débito</mark>, podendo chegar a <mark>150%</mark> na reincidência do art. 44, § 1º-A, da Lei 9.430/1996 (Lei 14.689/2023), observado o § 1º-C (STF, Plenário, RE 736.090/SC, 03/10/2024, Info 1153). — *Resumo Jurisp. Trib., p. 8*
+- Constitucional a exclusão dos **bens de informática** dos incentivos da Zona Franca de Manaus pela Lei 8.387/91 (STF, Plenário, ADI 2.399/AM, 11/2/2022, Info 1043). Constitucional o dispositivo de lei federal que apenas explicita a extensão dos benefícios da ZFM do Decreto-Lei 288/1967 em sua redação original (STF, Plenário, ADI 7.239/DF, 11/03/2024, Info 1127). — *Resumo Jurisp. Trib., p. 8–9 e 40*
+- Parcelamento: as condições exigem estrita legalidade; <mark>ato infralegal não pode impor condição não prevista na lei de regência</mark> (STJ, 1ª T., REsp 1.739.641/RS, 21/06/2018, Info 629). — *Resumo Jurisp. Trib., p. 9 e 24*
+- **CEBAS:** Súmula STJ 352 — a obtenção ou renovação do certificado não exime a entidade dos requisitos legais supervenientes. Súmula STJ 612 — no prazo de validade, o CEBAS tem natureza <mark>declaratória</mark> para fins tributários, retroagindo à data em que demonstrado o cumprimento dos requisitos da lei complementar. É constitucional dispositivo de lei que impõe condição temporal para obter ou renovar o CEBAS, incidindo sobre requerimentos anteriores ainda pendentes (STF, Plenário, ADI 5.319/DF, 24/10/2025, Info 1196). — *Resumo Jurisp. Trib., p. 10–11*
+- **Súmula STF 76:** as sociedades de economia mista não estão protegidas pela imunidade fiscal do art. 31, V, "a", da Constituição. **Súmula STF 336:** a imunidade da autarquia financiadora, no contrato de financiamento, não se estende à compra e venda entre particulares, ainda que os dois atos constem de um só instrumento. **Súmula STF 591:** a imunidade ou isenção do comprador <mark>não se estende ao produtor</mark>, contribuinte do IPI. — *Resumo Jurisp. Trib., p. 10*
+- **Súmula STF 730:** a imunidade do art. 150, VI, "c", só alcança as entidades fechadas de previdência social privada <mark>se não houver contribuição dos beneficiários</mark> (STF, 1ª T., RE 163.164 AgR/SP, 12/6/2012, Info 670). — *Resumo Jurisp. Trib., p. 11 e 13*
+- A imunidade do art. 155, § 2º, X, "a" (exportação) <mark>não alcança o aproveitamento de créditos de ICMS</mark> de bens de uso e consumo, que depende de lei complementar (STF, Plenário, RE 704.815/SC, Tema 633, 8/11/2023, Info 1115). — *Resumo Jurisp. Trib., p. 11*
+- Empresas públicas e sociedades de economia mista **delegatárias de serviços públicos essenciais**, que não distribuam lucros a acionistas privados nem ofereçam risco ao equilíbrio concorrencial, têm imunidade recíproca <mark>independentemente de cobrança de tarifa</mark> (STF, Plenário, RE 1.320.054 RG, 06/05/2021). — *Resumo Jurisp. Trib., p. 12*
+- A imunidade recíproca impede que os entes criem uns para os outros obrigações de cobrança de impostos, mas <mark>não veda obrigações acessórias</mark> (STF, Plenário, ACO 1.098, 11/05/2020). A entidade imune tem o dever de cumprir obrigações acessórias, entre elas manter os livros fiscais (STF, 1ª T., RE 250.844/SP, 29/5/2012). — *Resumo Jurisp. Trib., p. 12–13*
+- A imunidade recíproca <mark>não exonera o sucessor</mark> das obrigações relativas a fatos jurídicos tributários ocorridos antes da sucessão (STF, Plenário, RE 599.176/PR, 5/6/2014, Info 749). — *Resumo Jurisp. Trib., p. 13*
+- A imunidade do art. 150, VI, "e" **não se aplica a suportes materiais produzidos fora do Brasil**, ainda que contenham obra musical de artista brasileiro (STF, Plenário, ARE 1.244.302/SP, 06/09/2024, Info 1149). — *Resumo Jurisp. Trib., p. 31*
+
 
   
 # Bloco B:  
 ## Competência Tributária;   
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- O Congresso Nacional está em **mora** na edição da lei complementar do imposto sobre grandes fortunas (art. 153, VII) (STF, Plenário, ADO 55/DF, 06/11/2025, Info 1198). — *Resumo Jurisp. Trib., p. 40*
 ## Legislação Tributária;   
 ### VIGÊNCIA DA LEGISLAÇÃO TRIBUTÁRIA(arts. 101 a 106 do CTN);
 - [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-18
@@ -196,6 +232,9 @@ tec resumo:
 
 > Art. 144. O lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada.
 > Art. 106. A lei aplica-se a ato ou fato pretérito: [...] II - tratando-se de ato não definitivamente julgado: a) quando deixe de defini-lo como infração.
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- As decisões do **CARF** <mark>não são</mark> "práticas reiteradamente observadas e aceitas pelas autoridades administrativas" do art. 100, III, do CTN (STJ, 2ª T., AREsp 2.554.882/SP, 21/5/2024, Info 814). — *Resumo Jurisp. Trib., p. 40*
 
 ### Interpretação e Integração da Legislação Tributária (arts. 107 a 112 do CTN);
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
@@ -240,6 +279,9 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
 **Convenções particulares não vinculam a Fazenda Pública** — contrato de locação que atribui ao locatário a responsabilidade pelo IPTU não produz efeito perante o Fisco; o contribuinte continua sendo o proprietário (locador).
 > Art. 123, CTN. Salvo disposições de lei em contrário, as convenções particulares, relativas à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a definição legal do sujeito passivo das obrigações tributárias correspondentes.
 > Art. 34, CTN. Contribuinte do imposto [IPTU] é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor a qualquer título.
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- Os **serviços sociais autônomos** não têm legitimidade passiva nas ações em que se discute a relação jurídico-tributária entre contribuinte e União e a repetição de indébito das contribuições sociais (STJ, 1ª Seção, EREsp 1.619.954/SC, 10/04/2019, Info 646). — *Resumo Jurisp. Trib., p. 19–20*
 ## Responsabilidade Tributária
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 
@@ -260,6 +302,10 @@ VII - os sócios, no caso de liquidação de sociedade de pessoas.
 
 **CTN, Art. 136.** Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária **independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.**
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 430:** o inadimplemento da obrigação tributária pela sociedade <mark>não gera, por si só, responsabilidade solidária do sócio-gerente</mark>. **Súmula STJ 435:** presume-se **dissolvida irregularmente** a empresa que deixa de funcionar no domicílio fiscal, sem comunicar os órgãos competentes, o que legitima o redirecionamento da execução fiscal ao sócio-gerente. — *Resumo Jurisp. Trib., p. 19*
+- A responsabilidade pelos débitos que recaem sobre o **bem imóvel** arrematado é do arrematante <mark>havendo expressa menção no edital</mark> da hasta pública (STJ, 2ª T., AgInt no REsp 1.921.489/RJ, 28/2/2023, Info 767). — *Resumo Jurisp. Trib., p. 23*
+
   
 # Bloco C:   
 ## Crédito Tributário;   
@@ -276,8 +322,17 @@ VII - quando se comprove que o sujeito passivo, ou terceiro em benefício daquel
 
 <mark style="background:rgba(3, 135, 102, 0.2)">Note que não há vedação pelo CTN para realização de denúncia espontânea no caso de cometimento de dolo, fraude ou simulação pelo sujeito passivo.</mark>
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 436:** a entrega de declaração pelo contribuinte reconhecendo o débito <mark>constitui o crédito tributário</mark>, dispensando outra providência do fisco. **Súmula STJ 555:** não havendo declaração do débito, o prazo decadencial quinquenal conta-se <mark>exclusivamente pelo art. 173, I, do CTN</mark> quando a legislação atribui ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade. O recolhimento a município diverso do devido não afasta a regra do art. 173, I (STJ, 1ª T., AREsp 1.904.780/SP, 14/12/2021, Info 723). — *Resumo Jurisp. Trib., p. 21–23*
+- **Súmula STJ 360:** o benefício da denúncia espontânea <mark>não se aplica</mark> aos tributos sujeitos a lançamento por homologação regularmente declarados, mas pagos a destempo. — *Resumo Jurisp. Trib., p. 21*
+
 ### Suspensão do Crédito tributário 
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 112:** o depósito só suspende a exigibilidade se for <mark>integral e em dinheiro</mark>. — *Resumo Jurisp. Trib., p. 21*
+- A adesão a programa de **parcelamento** suspende a exigibilidade do crédito e interrompe o prazo prescricional (STJ, 2ª T., REsp 1.922.063/PR, 18/10/2022, Info 754). O **parcelamento de ofício** <mark>não interrompe</mark> a prescrição, pois o contribuinte não anuiu (STJ, 1ª Seção, REsp 1.658.517/PA, 14/11/2018, Info 638). — *Resumo Jurisp. Trib., p. 24 e 41*
+- A **revogação de liminar** que suspendia a exigibilidade retoma a contagem da prescrição para o Fisco, desde que inexista outra medida do art. 151 do CTN ou recurso especial/extraordinário com efeito suspensivo (STJ, 1ª Seção, EAREsp 407.940/RS, 10/5/2017, Info 605). — *Resumo Jurisp. Trib., p. 24*
 ### Extinção do Crédito tributário
 - [ ] status [dom:: 0] [peso:: 3]
 Art. 161. O crédito não integralmente pago no vencimento **é acrescido de juros de mora, seja qual for o motivo determinante da falta, sem prejuízo da imposição das penalidades cabíveis** e da aplicação de quaisquer medidas de garantia previstas nesta Lei ou em lei tributária.
@@ -287,8 +342,17 @@ Art. 161. O crédito não integralmente pago no vencimento **é acrescido de ju
 Pagamento indevido: 
 Art. 168 O direito de pleitear a restituição extingue-se com o decurso do prazo de 5 (cinco) anos , contados: I - nas hipóteses dos incisos I e II do artigo 165, da data da extinção do crédito tributário; [[MATERIAL/DIREITO TRIBUTÁRIO/Codigo_Tributario_Nacional_-_Lei_5172-1966_2col_8f3279.pdf#page=70|Codigo_Tributario_Nacional_-_Lei_5172-1966_2col_8f3279, p.70]]
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Repetição de indébito.** Súmula STJ 162: a correção monetária incide <mark>a partir do pagamento indevido</mark>. Súmula STJ 188: os juros moratórios são devidos <mark>a partir do trânsito em julgado</mark> da sentença. Súmula STJ 523: a taxa de juros na repetição de tributos estaduais deve corresponder à utilizada na cobrança do tributo pago em atraso, sendo legítima a Selic em ambas quando prevista na legislação local, vedada a cumulação com outros índices. Súmula STJ 625: o pedido administrativo de compensação ou restituição <mark>não interrompe</mark> o prazo prescricional da ação do art. 168 do CTN nem o da execução de título judicial contra a Fazenda. — *Resumo Jurisp. Trib., p. 21–23*
+- É inconstitucional a incidência de **IRPJ e CSLL sobre a Selic** recebida na repetição de indébito (STF, Plenário, RE 1.063.187/SC, 24/9/2021, Info 1031). Não se admite a restituição **administrativa** do indébito reconhecido na via judicial, sendo indispensável o regime constitucional de precatórios, art. 100 (STF, Plenário, RE 1.420.691/SP, Tema 1262, 21/8/2023, Info 1108). — *Resumo Jurisp. Trib., p. 23 e 40–41*
+- **Compensação.** Súmula STJ 213: o mandado de segurança é adequado para declarar o direito à compensação. Súmula STJ 460: é incabível MS para convalidar a compensação feita pelo contribuinte. Súmula STJ 461: o contribuinte pode optar por **precatório ou compensação** para o indébito certificado em sentença declaratória transitada em julgado. Súmula STJ 464: a imputação de pagamento do art. 354 do Código Civil <mark>não se aplica</mark> à compensação tributária. — *Resumo Jurisp. Trib., p. 25*
+- É inconstitucional a **multa isolada** pela mera não homologação de declaração de compensação, quando não caracterizados má-fé, falsidade, dolo ou fraude (STF, Plenário, ADI 4.905/DF, 17/3/2023, Info 1087). Não cabe reiterar declaração de compensação com base no mesmo débito já compensado em declaração não homologada, ainda que pendente (STJ, 2ª T., REsp 1.570.571/PB, 15/06/2021, Info 701). — *Resumo Jurisp. Trib., p. 25*
+
 ### Exclusão do Crédito tributário
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STF 544:** isenções concedidas sob condição onerosa <mark>não podem ser livremente suprimidas</mark>. — *Resumo Jurisp. Trib., p. 22*
 
 ## Administração Tributária;  
 
@@ -306,17 +370,36 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 
 ![[Pasted image 20260827133809.png|865]]
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STF 70:** é inadmissível a **interdição de estabelecimento** como meio coercitivo de cobrança. **Súmula STF 323:** é inadmissível a **apreensão de mercadorias** como meio coercitivo. **Súmula STF 547:** a autoridade não pode proibir o contribuinte em débito de adquirir estampilhas, despachar mercadorias nas alfândegas e exercer suas atividades profissionais. **Súmula STF 439:** estão sujeitos à fiscalização quaisquer livros comerciais, <mark>limitado o exame aos pontos objeto da investigação</mark>. — *Resumo Jurisp. Trib., p. 26*
+- **Súmula STJ 447:** os Estados e o DF são partes legítimas na ação de restituição de imposto de renda retido na fonte proposta por seus servidores. — *Resumo Jurisp. Trib., p. 26*
+- São constitucionais a lei federal e o convênio Confaz que impõem o **Emissor de Cupom Fiscal (ECF)** ao varejo e aos prestadores de serviços e a identificação do comprador, da descrição dos bens ou serviços, da data e do valor no cupom; não há usurpação de competência, invasão da reserva de LC (art. 146, III, "b") nem ofensa à proporcionalidade e à privacidade (STF, Plenário, ADI 3.270/DF, 28/02/2025, Info 1167). — *Resumo Jurisp. Trib., p. 19*
+- **Perdimento de veículo:** é ilegal a pena de perdimento do veículo da <mark>locadora que não participou</mark> do contrabando ou descaminho (STJ, 1ª T., REsp 1.817.179/RS, 17/09/2019, Info 658). Havendo **conduta dolosa do transportador** com carro próprio, aplica-se a perda do veículo <mark>independentemente da desproporção</mark> de valor em relação às mercadorias (STJ, 1ª T., REsp 1.498.870/PR, 12/2/2015, Info 556). — *Resumo Jurisp. Trib., p. 27*
+
 ### Dívida Ativa Tributária (arts. 201 a 204 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/604?indice=1&materia=602)
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Protesto de CDA:** é constitucional e legítimo, por não restringir desproporcionalmente direitos fundamentais e não constituir sanção política (STF, Plenário, ADI 5.135/DF, 3 e 9/11/2016, Info 846). É possível o protesto de CDA (STJ, 2ª T., REsp 1.126.515/PR, 3/12/2013, Info 533). A validade do protesto de CDA de Fazenda estadual ou municipal <mark>não depende de prévia lei local</mark> autorizando essa cobrança (STJ, 1ª T., REsp 1.895.557/SP, 22/06/2021, Info 702). — *Resumo Jurisp. Trib., p. 27*
+- A ausência de **prévio processo administrativo** não gera nulidade da CDA nos tributos sujeitos a lançamento de ofício (STJ, 2ª T., AgRg no AREsp 370.295/SC, 1º/10/2013, Info 531). — *Resumo Jurisp. Trib., p. 27*
+- **Súmula STJ 560:** a indisponibilidade de bens e direitos do art. 185-A do CTN pressupõe o <mark>exaurimento das diligências</mark> na busca de bens penhoráveis, caracterizado quando infrutíferos o pedido de constrição de ativos financeiros e os ofícios aos registros públicos do domicílio do executado, ao Denatran ou aos Detrans. — *Resumo Jurisp. Trib., p. 22*
     
 ### Certidão Negativa (arts. 205 a 208 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/605?indice=1&materia=602)
 
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- **Súmula STJ 446:** declarado e não pago o débito pelo contribuinte, é <mark>legítima a recusa</mark> de certidão negativa ou positiva com efeito de negativa. — *Resumo Jurisp. Trib., p. 22*
+
 
 ## Repartição Constitucional de Receitas Tributárias.
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Jurisprudência (Resumo VINTEUM D. Tributário)**
+- Os créditos extintos por **compensação ou transação** integram o cálculo do percentual de transferência da quota dos Municípios sobre o ICMS, sendo desnecessário o efetivo recolhimento para esse cômputo (STF, Plenário, ADI 3.837/DF, 20/09/2024, Info 1151). — *Resumo Jurisp. Trib., p. 31*
+- É inconstitucional norma de Constituição estadual que dê ao **Tribunal de Contas do Estado** competência para homologar os cálculos das cotas do ICMS devidas aos Municípios (STF, Plenário, ADI 825/AP, 25/10/2018, Info 921). — *Resumo Jurisp. Trib., p. 33*
+- É inconstitucional decisão normativa do **TCU** que altera os coeficientes do cálculo das cotas do **FPM** em desacordo com a LC 165/2019, por afronta à segurança jurídica e à proteção da confiança legítima (STF, Plenário, ADPF 1.043/DF, 15/03/2024, Info 1127). — *Resumo Jurisp. Trib., p. 40*
 
   
 # Bloco D:   
@@ -1179,6 +1262,7 @@ A questão não está perguntando quem pode criar tributo, mas para que serve a 
 - [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-18
 [[Resumo Jurisprudencia - Direito Tributario (VINTEUM)]]
 [[MATERIAL/JURISPRUDENCIAS/Resumo-Jurisprudencia-D.-Tributario-Fiscal-4.0-V1.0.pdf|Resumo-Jurisprudencia-D.-Tributario-Fiscal-4.0-V1.0]]
+Súmulas Vinculantes de Direito Tributário (as 15 do resumo): [[Sumulas Vinculantes - Direito Tributario]]
 **Súmula nº 554 do Superior Tribunal de Justiça (STJ)**
 "**Na hipótese de sucessão empresarial, a responsabilidade da sucessora abrange as multas moratórias e punitivas a ela aplicadas no período anterior à sucessão.**" 
 
