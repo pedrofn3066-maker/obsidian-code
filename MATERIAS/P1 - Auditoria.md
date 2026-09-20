@@ -327,6 +327,12 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
     5. Livro Registro de Apuração do **ICMS**.
     6. Documento Controle de Crédito de ICMS do **Ativo Permanente** - CIAP.
     7. Livro Registro de **Controle da Produção e do Estoque**.
+    8. **Livro de Movimentação de Combustíveis - LMC** _(inciso acrescido pelo Ajuste SINIEF 14/25, efeitos a partir de **01.09.25**)_. (Ajuste SINIEF 02/2009, cl. 1ª, § 3º, p. 1)
+
+- **Assinatura digital:** as informações da EFD são prestadas em arquivo digital com **assinatura digital do contribuinte ou de seu representante legal**, certificada por entidade credenciada pela **ICP-Brasil**. Isso garante **autenticidade, integridade e validade jurídica**. (Ajuste SINIEF 02/2009, cl. 1ª, § 2º, p. 1)
+- **Vedação:** o contribuinte obrigado à EFD **não pode** escriturar os livros e o documento do § 3º **em discordância** com o Ajuste. (cl. 2ª, p. 1)
+
+    > § 2º Para garantir a autenticidade, a integridade e a validade jurídica da EFD, as informações a que se refere o § 1º serão prestadas em arquivo digital com assinatura digital do contribuinte ou seu representante legal, certificada por entidade credenciada pela Infra-Estrutura de Chaves Públicas Brasileira - ICPBrasil. (Ajuste SINIEF 02/2009, cl. 1ª, § 2º, p. 1)
 - A EFD será **obrigatória**, a partir de 1º de janeiro de 2009, para **todos os contribuintes do ICMS e/ou do IPI**.
     
     - A obrigatoriedade **se aplica a TODOS os estabelecimentos** do contribuinte situados no âmbito da UF e **se estende à empresa incorporadora, cindida ou resultante da cisão ou fusão**, no caso de fusão, incorporação ou cisão.
@@ -341,6 +347,46 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
 - **Estabelecimento industrial:** Aquele que possui qualquer dos processos que caracterizam uma industrialização, segundo a legislação de ICMS e de IPI, e cujos produtos resultantes sejam tributados pelo ICMS ou IPI, mesmo que de alíquota zero ou isento.
 - **Faturamento:** Receita **bruta** de venda de mercadorias de **todos** os estabelecimentos da empresa no território **nacional**, industriais ou não, **excluídas** as **vendas canceladas**, as **devoluções de vendas** e os **descontos INcondicionais concedidos**.
     - _**⚠️** O_ _exercício de **referência** do faturamento deverá ser o **2º exercício anterior** ao início de vigência da obrigação._
+
+- **Escalonamento do Livro de Controle da Produção e do Estoque (Bloco K)** — cl. 3ª, § 7º, p. 2-3:
+
+    | Inciso | Início | Alcance | Quem |
+    | --- | --- | --- | --- |
+    | I, a | 1º/1/2017 | **só saldos** de estoque (Registros **K200 e K280**) | industriais, divisões **10 a 32** da CNAE, de empresa com faturamento anual **≥ R$ 300.000.000,00** |
+    | I, b | 1º/1/2019 | escrituração **completa** | divisões **11, 12** e grupos **291, 292, 293** |
+    | I, c | 1º/1/2020 | completa | divisões **27 e 30** |
+    | I, d | 1º/1/2023 | completa | divisão **23** e grupos **294 e 295** |
+    | I, e | 1º/1/2024 | completa | divisões **13, 14, 15, 16, 17, 18, 22, 26, 28, 31 e 32** |
+    | I, f | 1º/1/2025 | completa | divisões **10, 19, 20, 21, 24 e 25** |
+    | II | 1º/1/2018 | **só saldos** K200 e K280 (completa "conforme escalonamento a ser definido") | industriais, divisões 10 a 32, de empresa com faturamento anual **≥ R$ 78.000.000,00** |
+    | III | 1º/1/2019 | **só saldos** K200 e K280 (completa "conforme escalonamento a ser definido", observado o § 14) | **demais** industriais (divisões 10 a 32); **atacadistas** dos grupos **462 a 469**; **equiparados a industrial** |
+
+    As alíneas b a f do inciso I valem para os industriais de empresa com faturamento **≥ R$ 300 milhões** (caput do inciso I).
+
+- **Só a escrituração completa** do Bloco K na EFD **desobriga** a escrituração do **Livro modelo 3** (Convênio S/Nº de 15/12/1970). (§ 10, p. 4)
+- **Atacadistas:** no lugar do inciso III, a UF **pode** exigir os saldos de estoque **ao final de cada mês**, escriturados no **Bloco H** (§ 12). A UF **pode dispensar** dos saldos K200 e K280, **a partir de 1º/1/2023**, os atacadistas dos grupos 462 a 469 de empresa com faturamento anual **inferior a R$ 10.000.000,00** (§ 14). (p. 4)
+- **Escrituração simplificada** (art. 16, parágrafo único, Lei 13.874/2019): a partir de **1º/1/2023** pode atender às alíneas **b, c, d, e e f** do inciso I, e **implica a guarda** da informação da escrituração completa do Bloco K, que pode ser exigida em **fiscalização** e por **regimes especiais** (§ 13, p. 4).
+
+    > § 14 A critério de cada unidade federada, a partir de 1° de janeiro de 2023, poderão ser dispensados de informar os saldos de estoques escriturados nos Registros K200 e K280 os estabelecimentos atacadistas classificados nos grupos 462 a 469 da CNAE pertencentes a empresa com faturamento anual inferior a R$ 10.000.000,00 (dez milhões de reais). (Ajuste SINIEF 02/2009, p. 4)
+
+- **CIAP:** a escrituração do documento CIAP é obrigatória a partir de **1º/1/2011** (cl. 3ª, § 5º, p. 2). **Distrito Federal:** obrigatoriedade a partir de **1º/7/2019**, facultada a adesão voluntária antes dessa data (cl. 3ª, § 11, p. 4). Para os contribuintes do **DF e de Pernambuco**, o ingresso fica condicionado à implementação, no sistema, dos documentos e livros fiscais, guias de informação e declarações em meio digital (cl. 18ª, § 2º, p. 7).
+
+> [!tip]- Lupa: escalonamento do Bloco K
+> **A ideia em uma frase:** o Bloco K (produção e estoque) foi imposto por etapas, do maior faturamento para o menor e de um setor da CNAE para outro, e cada etapa diz se o contribuinte informa **só os saldos** ou o Bloco **completo**.
+>
+> **O passo a passo** para achar a obrigação de um estabelecimento:
+> 1. É industrial (ou atacadista/equiparado)? Veja a definição de **estabelecimento industrial** acima.
+> 2. Qual o **faturamento**? Conta a receita bruta de venda de mercadorias de **todos** os estabelecimentos da empresa no país, sem vendas canceladas, devoluções e descontos incondicionais, do **2º exercício anterior** ao início da obrigação (§ 9º).
+> 3. Pelo faturamento e pela CNAE, ache o inciso: **300 mi** (inciso I), **78 mi** (II) ou o resto (III).
+> 4. Confira o **alcance**: saldos K200/K280 ou escrituração completa, e a data.
+>
+> _Exemplo ilustrativo (sem lastro):_ indústria da divisão **24** de empresa de R$ 400 milhões: informa só os **saldos** desde 1º/1/2017 (I, a) e passa à escrituração **completa** em 1º/1/2025 (I, f).
+>
+> **O erro clássico:** a banca troca (a) **"saldos K200/K280"** por **"escrituração completa"** na mesma data; (b) **R$ 300 milhões** por **R$ 78 milhões**; (c) a divisão da CNAE de uma alínea pela de outra; (d) diz que a escrituração **simplificada** dispensa a guarda do Bloco completo (o § 13 diz que **implica a guarda**); (e) diz que qualquer escrituração do Bloco K desobriga o Livro modelo 3 (só a **completa** desobriga).
+
+> [!info]- Ponte
+> - Os conceitos de **estabelecimento industrial** e **faturamento** estão logo acima, nesta nota, e o Bloco K os usa como régua.
+> - [[2026-09-04 S4 Auditoria]] e [[2026-09-06 Legislação Tributária Estadual]] têm erro em "Registros da EFD-ICMS/IPI". Este Ajuste só cita os **Registros K200 e K280** (e o **Bloco H**) no escalonamento; o layout dos registros não está neste PDF.
 - O **arquivo digital da EFD** será gerado pelo **contribuinte** de acordo com as especificações do leiaute definido em **Ato COTEPE** e conterá a **totalidade** das **informações econômico-fiscais e contábeis** correspondentes ao período compreendido entre o **1º e o último dia do mês**.
     
     💡 **Totalidade das informações:**
@@ -351,6 +397,8 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
 - Qualquer **situação de exceção** na tributação do ICMS ou IPI, tais como isenção, imunidade, não-incidência, diferimento ou suspensão do recolhimento, também **deverá ser informada** no arquivo digital, indicando-se o respectivo dispositivo legal.
     
 - As informações deverão ser prestadas sob o **enfoque do** **DECLARANTE**.
+
+- A critério da UF, informações de **operações ou prestações internas** já transmitidas ao Fisco por **documentos fiscais eletrônicos** poderão ser **dispensadas** do arquivo digital. (Ajuste SINIEF 02/2009, cl. 4ª, § 4º, Ajuste SINIEF 25/19, p. 4)
     
 - **Perfil do estabelecimento:**
     
@@ -360,12 +408,22 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
 - O contribuinte que possuir **mais de um estabelecimento** deverá prestar as informações relativas à EFD em arquivo digital **individualizado por estabelecimento**, **ainda que** a **apuração** dos impostos ou a escrituração contábil seja efetuada de forma **centralizada**.
     
     ⚠️ _**Convênio, Protocolo, Ajuste ou até mesmo a Administração Tributária das UFs podem criar exceções!**_
+
+- **Perfil:** compete à **administração tributária da UF** atribuir o perfil ao estabelecimento; **se a UF não atribuir**, o contribuinte segue o leiaute do **perfil "A"**. (Ajuste SINIEF 02/2009, cl. 5ª, caput e parágrafo único, p. 4)
+- **Exceção ao arquivo por estabelecimento:** não se aplica aos estabelecimentos **na mesma UF** quando houver disposição em Convênio, Protocolo ou Ajuste prevendo **inscrição centralizada**; a UF pode criar outras exceções por **Ato COTEPE** ou **regime especial**. (cl. 6ª, §§ 1º e 2º, p. 4)
+- **Guarda:** o arquivo digital da EFD é armazenado, com segurança, autenticidade, integridade e validade jurídica, **pelo mesmo prazo** que a legislação fixa para a guarda dos documentos fiscais. Gerar, armazenar e enviar o arquivo **não dispensa** a guarda dos **documentos que deram origem** às informações. (Ajuste SINIEF 02/2009, cl. 7ª e parágrafo único, p. 4)
+- **Estrutura do leiaute:** definido em **Ato COTEPE**, organizado em **blocos** e detalhado por **registros**. Os registros gravam as informações dos documentos emitidos ou recebidos (em meio físico ou digital), mais classificações e ajustes do próprio contribuinte. (cl. 8ª e parágrafo único, p. 4-5)
+- **Tabelas e códigos** (cl. 9ª, p. 5): NCM/SH · Tabela de Municípios do IBGE · CFOP · CST (os dois últimos, do anexo ao Convênio SINIEF S/Nº de 1970) · outras tabelas que as UFs e a RFB estabelecerem. As UFs divulgam por legislação própria as **tabelas de ajustes do lançamento e apuração**; se não divulgarem, valem as tabelas do **Ato COTEPE**. (§§ 1º e 2º)
     
 - **Validação de consistência:** _(Efetuada pelo PVA-EFD)_
     
     - Consonância da **estrutura lógica** do **ARQUIVO** gerado pelo contribuinte com as orientações e especificações técnicas do leiaute do arquivo digital da EFD definidas em Ato COTEPE.
     - **Consistência aritmética e lógica** das **INFORMAÇÕES** prestadas.
 - O procedimento de **validação e assinatura** deverá ser efetuado **ANTES** do envio do arquivo ao ambiente nacional do SPED.
+
+    - O **PVA-EFD** (programa disponibilizado nos sítios das UFs e da RFB) faz a **validação de consistência de leiaute**, e **também** a **assinatura digital** e o **envio** do arquivo pela internet. É **vedada** a geração e entrega da EFD em meio ou forma diversa da prevista. (Ajuste SINIEF 02/2009, cl. 10ª, caput e §§ 1º, 3º e 4º, p. 5)
+
+    > § 4º Fica vedada a geração e entrega do arquivo digital da EFD em meio ou forma diversa da prevista nesta cláusula. (Ajuste SINIEF 02/2009, cl. 10ª, § 4º, p. 5)
     
 - **Verificações mínimas na recepção do arquivo digital da EFD:**
     
@@ -406,6 +464,36 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
     1. De período de apuração que tenha sido submetido ou esteja sob **ação fiscal**.
     2. Cujo débito constante da EFD objeto da retificação tenha sido enviado para **inscrição em Dívida Ativa**, nos casos em que **importe alteração desse débito**.
     3. Transmitida em **desacordo** com as disposições desta cláusula.
+
+    - A autorização para retificar **não implica** o reconhecimento da veracidade e legitimidade das informações, **nem** a homologação da apuração do imposto. (Ajuste SINIEF 02/2009, cl. 13ª, § 5º, p. 5)
+    - A retificação até o **último dia do 3º mês** **não** caracteriza dilação do prazo de entrega da cl. 12ª. (cl. 13ª, § 6º, p. 5)
+    - **Exceção à exceção:** no interesse da administração tributária e conforme a legislação da UF, a retificação das situações dos **incisos I e II do § 7º** (ação fiscal; débito em Dívida Ativa) **poderá produzir efeitos**. (cl. 13ª, § 8º, Ajuste SINIEF 6/16, p. 6)
+    - A autorização do **inciso III** (retificação após o 3º mês) **poderá ser dispensada** a critério da Secretaria de Fazenda, Receita, Finanças, Economia ou Tributação do domicílio fiscal, quando se tratar de **ICMS**. (cl. 13ª, § 9º, Ajuste SINIEF 27/20, p. 6)
+    - O arquivo de retificação deve observar as cláusulas 8ª a 11ª, **com indicação da finalidade do arquivo**. (cl. 13ª, § 2º, p. 5)
+- Cada período é entregue **uma única vez**, salvo a entrega com finalidade de **retificação**. (Ajuste SINIEF 02/2009, cl. 14ª, p. 6)
+
+> [!tip]- Lupa: retificação da EFD — três janelas
+> **A ideia em uma frase:** o arquivo entregue pode ser substituído por outro completo, e quanto mais tempo passa, mais o Fisco controla a troca.
+>
+> **O passo a passo** (janelas do inciso I, II e III da cl. 13ª, p. 5):
+> 1. Até o prazo de envio (cl. 12ª): retifica **sem autorização**.
+> 2. Até o **último dia do 3º mês subsequente** ao mês da apuração: retifica **sem autorização**, respeitados os casos em que a retificação não produz efeitos (§ 7º).
+> 3. Depois disso: só com **autorização** (Fazenda estadual no ICMS; RFB no IPI), com **prova inequívoca de erro de fato** e quando for impossível ou inconveniente corrigir por lançamentos corretivos.
+>
+> _Exemplo ilustrativo (sem lastro):_ apuração de **março**. Os três meses subsequentes são abril, maio e junho; a janela livre fecha em **30/06**. Retificar em 02/07 exigiria autorização.
+>
+> **O erro clássico:** (a) tratar a janela do 3º mês como prorrogação do prazo de entrega, e o § 6º diz que **não é**; (b) achar que se manda arquivo **complementar** com só o que mudou, e o § 3º **proíbe**: a retificação **substitui integralmente** o arquivo; (c) esquecer que a notificação do Fisco afasta os incisos II e III (§ 4º).
+
+- **Recepção centralizada (Cap. V):** a recepção do arquivo é **centralizada no ambiente nacional do SPED**, administrado pela **RFB**. O **recibo de entrega com número** só é gerado **após o aceite** do arquivo. Os arquivos recebidos são **imediatamente retransmitidos** à UF em que o estabelecimento está inscrito. As UFs podem receber direto em suas bases, com **imediata retransmissão** ao SPED, sem prejudicar a geração do recibo. (Ajuste SINIEF 02/2009, cl. 15ª, caput e §§ 1º a 4º, p. 6)
+- **Compartilhamento:** fica assegurado entre os usuários do SPED o compartilhamento das informações das **operações e prestações interestaduais** e da apuração de **ST interestadual**, qualquer que seja o local de recepção. Os novos arquivos gerados pelo SPED para as UFs são **assinados digitalmente pelo remetente**. (cl. 16ª, caput e §§ 1º e 2º, p. 6)
+- **Acesso a EFD de contribuinte de outra UF:** as UFs têm **acesso irrestrito** à EFD, independentemente do local da operação (Convênio ICMS 190/17, cl. 14ª). A UF que pedir informações de contribuinte domiciliado em outra UF apresenta **requerimento instruído com ordem de fiscalização**, limitada a **um contribuinte e suas filiais** por requerimento, com especificação completa e período fiscalizado. O responsável atende em **10 dias úteis**. (cl. 16ª, §§ 3º a 7º, Ajuste SINIEF 8/19, p. 6)
+
+> § 7º O responsável pelas informações deverá atender à solicitação no prazo de 10 (dez) dias úteis. (Ajuste SINIEF 02/2009, cl. 16ª, § 7º, p. 6)
+
+> [!info]- Ponte
+> - [[P1 - Auditoria#1. DECRETO Nº 6.022/2007]]: o SPED compartilha o acesso entre os usuários "no limite de suas respectivas competências". A cl. 16ª aplica isso à EFD entre UFs.
+> - Mesma regra em duas normas: o Decreto diz que o SPED **não dispensa a guarda** dos livros e documentos; a cl. 7ª, parágrafo único, diz o mesmo da EFD.
+> - [[P2 - Legislação Tributária Estadual (BA)#Escrituração fiscal digital, SPED e arquivos eletrônicos]]: o heading de LTE está vazio (`dom 0`); o conteúdo da EFD mora aqui em Auditoria, como indica o MOC.
 
 ### 3. AJUSTE SINIEF Nº 07/2005 — NF-e
 - [ ] status [dom:: 0] [peso:: 2]
