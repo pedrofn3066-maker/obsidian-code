@@ -61,6 +61,36 @@ Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta 
 
 Não use `Capturas.md`: o `/triar-inbox` distribui tudo que está lá. Dúvida sem resposta confirmada também pode ser guardada, marcada com `(sem fonte confirmada)`.
 
+## Arrumar o layout depois de responder
+
+Quando a dúvida respondida é uma entrada que já está em `Questoes/Duvidas.md` (o atalho manda texto cru: enunciado colado, alternativas quebradas, nota do Pedro no fim), **depois de responder no chat, reformate essa entrada no lugar**. Só a entrada respondida, sem tocar nas outras nem em nada acima de `## Dúvida`.
+
+Layout (callout recolhível, um por dúvida; **sem sub-headings** — o atalho usa `mode=append` sob `## Dúvida` e um `###` pode desviar onde o texto novo entra):
+
+```
+> [!question]- 20/09 15:52 · Direito Tributário · IBAM (ISS Guarulhos) — Responsabilidade tributária
+> Enunciado limpo (sem números de página soltos, quebras no meio de frase ou "Ill"/"l" no lugar de "III"/"I").
+>
+> I. …
+> II. …
+> (A) …
+> (B) …
+>
+> **Marquei:** B · **Gabarito:** A
+>
+> > [!success] Resposta
+> > Resposta curta em 1–3 linhas, com regra/exceção/artigo/súmula.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:759` · internet <url> · (sem fonte confirmada) se for o caso
+```
+
+Regras do reformat:
+- **Título:** `dd/mm hh:mm · matéria · banca (prova) — tema em poucas palavras`. Data/hora vêm da linha original do atalho; banca/prova, do que o Pedro escreveu.
+- **Preserve o conteúdo do Pedro:** corrija só OCR/quebra de linha óbvia. Não reescreva enunciado nem apague a anotação dele ("errei porque…", "fiquei na dúvida…"); ela vira a linha **Marquei/Gabarito** ou uma linha **Obs.:**.
+- Dúvida sem enunciado (pergunta solta): callout só com a pergunta e a resposta.
+- Edite por índice de linha em Python (o vault tem NBSP; não confie em `old_string` exato) e confira depois com `grep -c '\[!question\]' Questoes/Duvidas.md`.
+- Nunca reformate entrada que ainda não foi respondida, e nunca apague dúvida.
+
 ## Regras
 
 - Nunca afirme que "está no cofre" sem ter lido o trecho. Nunca invente artigo, número de súmula ou percentual: se não achou, diga que não achou.
