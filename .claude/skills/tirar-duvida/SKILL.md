@@ -5,7 +5,7 @@ description: Tira dúvidas sobre matérias e tópicos de estudo (Direito Tribut�
 
 # Tirar dúvida (cofre primeiro, internet depois)
 
-Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre** — só lê. Se o Pedro quiser guardar a resposta, sugira registrar em `Questoes/Capturas.md` (o `/triar-inbox` distribui depois).
+Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre por conta própria** — só lê. A única escrita permitida é guardar a dúvida em `Questoes/Duvidas.md` quando o Pedro pedir (ver "Guardar a dúvida").
 
 ## Passo 1 — buscar no cofre
 
@@ -49,7 +49,17 @@ Direta e de estudo, em português, do jeito que cai na prova (banca FCC/fiscal):
 4. **Fontes**, separadas:
    - `Cofre:` `[[nota]]` com linha (ex.: `MATERIAS/P2 - Direito Tributário.md:731`) — use link de arquivo.
    - `Internet:` URL + o que foi tirado dela. Se nada veio da internet, omita.
-5. Se o cofre estiver **desatualizado ou contradizer** a fonte oficial, diga explicitamente — não corrija o cofre sozinho; ofereça anotar em `Questoes/Capturas.md`.
+5. Se o cofre estiver **desatualizado ou contradizer** a fonte oficial, diga explicitamente — não corrija o cofre sozinho; ofereça guardar a dúvida em `Questoes/Duvidas.md`.
+
+## Guardar a dúvida
+
+Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta própria. Acrescente ao final de `Questoes/Duvidas.md` (abaixo de `## Dúvidas`, sem reescrever o resto), uma linha por dúvida:
+
+```
+- 20 de set. de 2026, 15:41 — [Direito Tributário] pergunta → resposta curta (fonte: cofre MATERIAS/P2 - Direito Tributário.md:731 / internet <url>)
+```
+
+Não use `Capturas.md`: o `/triar-inbox` distribui tudo que está lá. Dúvida sem resposta confirmada também pode ser guardada, marcada com `(sem fonte confirmada)`.
 
 ## Regras
 
