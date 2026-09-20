@@ -1573,15 +1573,181 @@ A relação dos Estados que adotam sublimites é publicada a cada ano por meio d
 
 
 
+**Res. CGSN 140/2018: princípios e administração integrada**
+
+- O Simples Nacional deve observar os princípios da <mark>simplicidade, transparência, justiça tributária, cooperação e integração das administrações tributárias</mark> da União, dos Estados, do DF e dos Municípios, e da <mark>defesa do meio ambiente</mark>. *(Res. CGSN 140, art. 2º-A, p. 4–5)*
+- A União, os Estados, o DF e os Municípios exercem a administração tributária do Simples Nacional <mark>de forma integrada</mark>, nos termos e limites da CF, da LC 123/2006 e da Resolução. *(art. 2º-B, p. 5)*
+- ⚠️ **Fracionar não adianta:** para a ME/EPP (art. 2º, I) e para o MEI (art. 100), ainda que em <mark>inscrições cadastrais distintas</mark> ou como contribuinte individual, devem ser considerados <mark>TODAS as atividades econômicas e as receitas brutas do mesmo ano-calendário</mark> e <mark>TODOS os débitos tributários exigíveis</mark>. *(art. 2º, §10, p. 4)*
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Princípios gerais do Sistema Tributário e LC (arts. 145 e 146)]]: o art. 145, §3º, da CF (com o bizu "STJ Coopera para a Defesa do Meio Ambiente") traz a mesma lista; o art. 2º-A da Resolução a repete para o Simples e, no princípio da cooperação, acrescenta a "integração das administrações tributárias".
+
 ### Da Definição de Microempresa e de Empresa de Pequeno Porte (arts. 3º a 3º-B da LC nº 123/2006)
 - [ ] status [dom:: 1] [peso:: 3]
 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12730?indice=1&materia=1978)
 
+**Res. CGSN 140/2018: limites, exclusão por excesso e receita bruta**
+
+Faixas de receita bruta anual *(art. 2º, I, p. 2)*:
+
+| Categoria | Receita bruta anual |
+| --- | --- |
+| **ME** | <mark>igual ou inferior a R$ 360.000,00</mark> |
+| **EPP** | <mark>superior a R$ 360.000,00 e igual ou inferior a R$ 4.800.000,00</mark> |
+
+- **Opção e permanência:** receitas no mercado interno até <mark>R$ 4.800.000,00</mark> e, <mark>adicionalmente</mark>, receitas de exportação de mercadorias ou serviços (inclusive por empresa comercial exportadora ou SPE do art. 56 da LC 123) até o mesmo <mark>R$ 4.800.000,00</mark>. *(art. 2º, §1º, p. 2)*
+- Quem excede o limite anual ou o limite adicional de exportação <mark>fica excluída do Simples Nacional</mark>, ressalvado o art. 3º (início de atividade). *(art. 2º, §2º, p. 2)*
+- **Empresa em início de atividade:** a que está nos <mark>60 dias</mark> a partir da data de abertura constante do CNPJ. *(art. 2º, IV e V, p. 2)*
+- **Início de atividade (art. 3º, p. 5):** cada limite do art. 2º, §1º, passa a ser de <mark>R$ 400.000,00 × número de meses</mark> entre o início de atividade e o fim do ano-calendário, e a <mark>fração de mês conta como mês completo</mark>. Se a receita acumulada ultrapassar qualquer desses limites (mercado interno ou exportação), a empresa está excluída e paga a totalidade ou a diferença dos tributos pelas normas gerais de incidência (§1º).
+- **Início de atividade no ano-calendário imediatamente anterior ao da opção** (art. 3º, §3º, p. 5): para fins de <mark>opção</mark> valem os limites proporcionais do caput; para fins de <mark>permanência</mark>, os do art. 2º, §1º.
+
+Efeitos do excesso de receita bruta (todas as linhas usam a régua de **20%** sobre o teto ultrapassado):
+
+| Situação | Excesso não superior a 20% | Excesso superior a 20% |
+| --- | --- | --- |
+| Limite geral, ano-calendário posterior ao de início *(art. 2º, §3º, p. 2–3)* | <mark>ano-calendário subsequente</mark> | <mark>mês subsequente</mark> |
+| Limite proporcional, ano-calendário de início *(art. 3º, §2º, p. 5)* | <mark>ano-calendário subsequente</mark> | <mark>retroativos ao início de atividade</mark> |
+| Sublimite de ICMS/ISS, ano posterior ao de início *(art. 12, §1º, p. 14)* | <mark>ano-calendário subsequente</mark> | <mark>mês subsequente</mark> |
+| Sublimite proporcional, ano de início *(art. 12, §4º, p. 15)* | <mark>ano-calendário subsequente</mark> | <mark>retroativos ao início de atividade</mark> |
+
+**Receita bruta** *(art. 2º, II, §§4º a 9º, p. 2–4)*
+
+- Receita bruta é o produto da venda de bens e serviços nas operações de conta própria, o preço dos serviços prestados, o resultado nas operações em conta alheia e as demais receitas da atividade ou objeto principal, <mark>excluídas as vendas canceladas e os descontos incondicionais</mark>.
+
+| Compõe a receita bruta (§4º) | Não compõe a receita bruta (§5º) |
+| --- | --- |
+| custo do financiamento nas vendas a prazo, contido no valor ou destacado no documento fiscal | venda de bens do <mark>ativo imobilizado</mark> |
+| <mark>gorjetas</mark>, compulsórias ou não | juros moratórios, multas e outros encargos por atraso no pagamento |
+| royalties, aluguéis e demais receitas de cessão de direito de uso ou gozo | remessa a título de bonificação, doação ou brinde, se <mark>incondicional</mark> e sem contraprestação |
+| verbas de patrocínio | remessa de amostra grátis |
+| | multa ou indenização por rescisão contratual, desde que <mark>não corresponda à parte executada do contrato</mark> |
+| | salão-parceiro: valores repassados ao profissional-parceiro inscrito no CNPJ |
+| | rendimentos ou ganhos líquidos de aplicações de renda fixa ou variável |
+
+- **Ativo imobilizado** (§6º): tangíveis disponibilizados para uso na produção ou fornecimento de bens ou serviços, locação, investimento ou fins administrativos e <mark>cuja desincorporação ocorra a partir do 13º mês</mark> da entrada.
+- ⚠️ **Permuta** (§7º): adimplemento por troca de mercadorias, prestação de serviços, compensação de créditos ou qualquer outra contraprestação <mark>é receita bruta para as partes</mark>.
+- **Reconhecimento** (§8º): no faturamento, na entrega do bem ou do direito ou na proporção da prestação do serviço, <mark>o que ocorrer primeiro</mark>. O §9º estende a regra aos valores recebidos adiantadamente, <mark>ainda que no regime de caixa</mark>, e às vendas para entrega futura.
+- O PDF marca o quadro do §5º como cobrado: CEBRASPE 2026 (Q. 3402827) e FGV 2023 (Q. 2590864). *(p. 3)*
+
+> [!quote]- Texto literal: Art. 2º, I, a e b, e §3º (Res. CGSN 140, p. 1–2)
+> Art. 2º Para fins desta Resolução, considera-se:
+> I - microempresa (ME) ou empresa de pequeno porte (EPP) a sociedade empresária, a sociedade simples ou o empresário a que se refere o art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, devidamente registrados no Registro de Empresas Mercantis, no Registro Civil de Pessoas Jurídicas ou na forma prevista no art. 15 da Lei nº 8.906, de 4 de julho de 1994, conforme o caso, ou autodeclarados nos termos do art. 65-A da Lei Complementar nº 123, de 2006, desde que: (2022)
+> a) no caso da ME, aufira, em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00 (trezentos e sessenta mil reais);
+> b) no caso da EPP, aufira, em cada ano-calendário, receita bruta superior a R$ 360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais);
+>
+> § 3º Os efeitos da exclusão prevista no § 2º ocorrerão a partir do:
+> I - mês subsequente àquele em que o excesso da receita bruta acumulada no ano for superior a 20% (vinte por cento) de cada um dos limites previstos no § 1º; ou
+> II - ano-calendário subsequente àquele em que o excesso da receita bruta acumulada no ano não for superior a 20% (vinte por cento) de cada um dos limites previstos no § 1º.
+
+> [!quote]- Texto literal: Art. 2º, §§4º e 5º (Res. CGSN 140, p. 3)
+> § 4º Também compõem a receita bruta de que trata este artigo:
+> I - o custo do financiamento nas vendas a prazo, contido no valor dos bens ou serviços ou destacado no documento fiscal;
+> II - as gorjetas, sejam elas compulsórias ou não;
+> III - os royalties, aluguéis e demais receitas decorrentes de cessão de direito de uso ou gozo; e
+> IV - as verbas de patrocínio.
+>
+> § 5º Não compõem a receita bruta de que trata este artigo:
+> I - a venda de bens do ativo imobilizado;
+> II - os juros moratórios, as multas e quaisquer outros encargos auferidos em decorrência do atraso no pagamento de operações ou prestações;
+> III - a remessa de mercadorias a título de bonificação, doação ou brinde, desde que seja incondicional e não haja contraprestação por parte do destinatário;
+> IV - a remessa de amostra grátis;
+> V - os valores recebidos a título de multa ou indenização por rescisão contratual, desde que não corresponda à parte executada do contrato;
+> VI - para o salão-parceiro de que trata a Lei nº 12.592, de 18 de janeiro de 2012, os valores repassados ao profissional-parceiro, desde que este esteja devidamente inscrito no CNPJ;
+> VII - os rendimentos ou ganhos líquidos auferidos em aplicações de renda fixa ou variável.
+
+> [!quote]- Texto literal: Art. 3º (Res. CGSN 140, p. 5)
+> Art. 3º No ano-calendário de início de atividade, cada um dos limites previstos no § 1º do art. 2º será de R$ 400.000,00 (quatrocentos mil reais), multiplicados pelo número de meses compreendidos entre o início de atividade e o final do respectivo ano-calendário, considerada a fração de mês como mês completo.
+>
+> § 1º Se a receita bruta acumulada no ano-calendário de início de atividade, no mercado interno ou em exportação para o exterior, for superior a qualquer um dos limites a que se refere o caput, a empresa estará excluída do Simples Nacional e deverá pagar a totalidade ou a diferença dos respectivos tributos devidos em conformidade com as normas gerais de incidência.
+>
+> § 2º Os efeitos da exclusão prevista no § 1º:
+> I - serão retroativos ao início de atividade se o excesso verificado em relação à receita bruta acumulada for superior a 20% (vinte por cento) dos limites previstos no caput;
+> II - ocorrerão a partir do ano-calendário subsequente se o excesso verificado em relação à receita bruta acumulada não for superior a 20% (vinte por cento) dos limites previstos no caput.
+>
+> § 3º Na hipótese de início de atividade no ano-calendário imediatamente anterior ao da opção, os limites de receita bruta:
+> I - para fins de opção, serão os previstos no caput deste artigo; e
+> II - para fins de permanência no Regime, serão os previstos no § 1º do art. 2º.
+
+> [!tip]- Lupa: o que entra e o que sai da receita bruta
+> **A ideia em uma frase:** a receita bruta do Simples é o que vem da atividade da empresa; a venda de um bem que ela só usa (ativo imobilizado), o encargo por atraso, o brinde incondicional e o rendimento financeiro ficam fora.
+>
+> **Passo a passo:**
+> 1. Pergunte se o valor vem da venda, do serviço prestado, da conta alheia ou da atividade principal: entra (art. 2º, II).
+> 2. Confira as quatro extras do §4º que entram mesmo sem ser "venda": financiamento nas vendas a prazo, gorjetas, royalties/aluguéis/cessão de uso e patrocínio.
+> 3. Confira as sete exclusões do §5º **e a condição de cada uma**: brinde só se incondicional; indenização por rescisão só se não corresponder à parte executada; ativo só é imobilizado se a desincorporação ocorrer a partir do 13º mês.
+> 4. Se o pagamento foi por troca ou compensação, conta como receita para as duas partes (§7º).
+>
+> *Exemplo ilustrativo (sem lastro):* uma loja vende por R$ 100 mil um equipamento de uso próprio, classificado como ativo imobilizado e desincorporado depois de 13 meses da entrada: essa venda não compõe a receita bruta. Já os R$ 2 mil de gorjetas do mês compõem, mesmo que voluntárias.
+>
+> **O erro clássico:** trocar item de coluna. Dizer que gorjeta "não obrigatória" fica fora (o §4º diz "compulsórias ou não"); tratar aluguel recebido como não receita (o §4º, III, inclui); esquecer a condição do brinde (só sai se incondicional e sem contraprestação).
+
+> [!tip]- Lupa: a régua dos 20% nos limites e sublimites
+> **A ideia em uma frase:** passar do teto não tira a empresa do Simples no mesmo instante, a não ser que a ultrapassagem seja grande (mais de 20%); o tamanho do excesso define **quando** os efeitos começam.
+>
+> **Passo a passo:**
+> 1. Identifique o teto ultrapassado: limite geral (R$ 4,8 mi), limite proporcional do ano de início (R$ 400 mil × meses) ou sublimite de ICMS/ISS (R$ 1,8 mi ou R$ 3,6 mi; no ano de início, R$ 150 mil ou R$ 300 mil × meses).
+> 2. Calcule 20% desse teto e compare com o excesso acumulado no ano.
+> 3. Leia o quadro acima: até 20%, o efeito é sempre no ano-calendário subsequente. Acima de 20%, depende do momento: no ano de início, retroage ao início de atividade; nos anos seguintes, vale a partir do mês subsequente.
+>
+> *Exemplo ilustrativo (sem lastro):* empresa que abre em 1º de julho tem 6 meses no ano de início (julho a dezembro): limite proporcional de R$ 2.400.000,00 (R$ 400 mil × 6). A régua de 20% é R$ 480.000,00. Receita acumulada acima de R$ 2.880.000,00 gera exclusão retroativa ao início; entre R$ 2.400.000,00 e R$ 2.880.000,00, a exclusão vale a partir do ano seguinte.
+>
+> **O erro clássico:** dar o mesmo efeito ao "acima de 20%" nos dois cenários. No ano de início ele é **retroativo ao início de atividade**; nos anos seguintes é o **mês subsequente**. E esquecer que, até 20%, a exclusão só vale no ano seguinte, nunca no mês seguinte.
+
+> [!info]- Ponte
+> - [[P2 - Legislação Tributária Estadual (BA)#Simples Nacional na ótica estadual (LC 123/2006)]]: o mesmo tema pelo ângulo estadual (a nota registra a ADI 6.030 sobre ST e DIFAL para optantes); os sublimites de ICMS/ISS e a mesma régua de 20% estão em [[P2 - Direito Tributário#Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)]], no item "Sublimites".
+
 ### Da Inscrição e da Baixa (arts. 4º a 11 da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12731?indice=1&materia=1978)
+
+**Res. CGSN 140/2018: opção pelo Simples Nacional (arts. 6º a 8º, 13 e 14)**
+
+- A opção é formalizada no **Portal do Simples Nacional** e é <mark>irretratável para todo o ano-calendário</mark>. *(art. 6º, p. 10)*
+- Prazo: até o <mark>último dia útil de janeiro</mark>, com efeitos a partir de <mark>1º de janeiro</mark> do ano-calendário da opção, ressalvado o §5º (início de atividade). *(§1º, p. 10)*
+- Enquanto não vencido o prazo, o contribuinte pode <mark>regularizar as pendências impeditivas</mark> (se não regularizar até o fim do prazo, o ingresso é indeferido) e <mark>cancelar o pedido</mark>, salvo se já deferido. *(§2º, p. 10)*
+- No momento da opção, declara expressamente que <mark>não incorre nas vedações do art. 15</mark>, independentemente das verificações dos entes federados. *(§4º, p. 11)*
+- **Empresa em início de atividade** *(§5º, p. 11–12)*: a solicitação é <mark>simultânea à inscrição no CNPJ</mark> (Portal Redesim); a opção produz efeitos <mark>a partir da data de inscrição no CNPJ</mark>; se for indeferida por pendências impeditivas, o contribuinte tem até <mark>30 dias</mark> contados da inscrição no CNPJ para regularizá-las.
+- **Escritório de serviços contábeis** que formaliza a opção assume deveres *(§8º, p. 12)*: atendimento gratuito de inscrição, de opção pelo Simei e da primeira DASN-Simei do MEI; fornecer ao CGSN resultados de pesquisas; promover eventos de orientação. ⚠️ O descumprimento leva à exclusão de ofício a partir do mês subsequente ao descumprimento *(art. 84, II, p. 80)*.
+
+**CNAE e atividades impeditivas** *(art. 8º, p. 12–13)*
+
+- A atividade impeditiva é identificada pelos códigos da **CNAE** informados no CNPJ. O **Anexo VI** relaciona os códigos impeditivos; o **Anexo VII**, os códigos <mark>ambíguos</mark> (abrangem, ao mesmo tempo, atividade impeditiva e permitida).
+- Código ambíguo: a ME ou EPP pode optar se exercer <mark>APENAS</mark> atividade permitida e declarar expressamente que não incorre nas vedações do art. 15 *(§3º)*.
+
+Mudança na relação de códigos *(art. 8º, §4º, p. 13)*:
+
+| Mudança | Efeito |
+| --- | --- |
+| A atividade <mark>deixa de ser impeditiva</mark> | pode optar a partir do <mark>ano-calendário subsequente</mark> ao da alteração, se não incorrer nas vedações do art. 15 |
+| A atividade <mark>passa a ser impeditiva</mark> | deve comunicar à RFB e providenciar a exclusão, com efeitos a partir do <mark>ano-calendário subsequente</mark> ao da alteração |
+
+**Resultado do pedido** *(arts. 13 e 14, p. 16–17)*
+
+- O resultado pode ser consultado no Portal do Simples Nacional (art. 13).
+- No indeferimento, é expedido <mark>termo de indeferimento</mark> por autoridade fiscal do ente federado que decidiu pelo indeferimento, <mark>inclusive na hipótese de existência de débitos tributários</mark>. A ciência é dada pelo ente que indeferiu, na forma do art. 122 (DTE-SN), ou, no início de atividade, no momento da solicitação da opção (art. 14, parágrafo único).
+
+> [!quote]- Texto literal: Art. 6º, caput a §5º (Res. CGSN 140, p. 10–12)
+> Art. 6º A opção pelo Simples Nacional deverá ser formalizada por meio do Portal do Simples Nacional na internet, e será irretratável para todo o ano-calendário.
+>
+> § 1º A opção de que trata o caput será formalizada até o último dia útil do mês de janeiro e produzirá efeitos a partir do primeiro dia do ano-calendário da opção, ressalvado o disposto no § 5º.
+>
+> § 2º Enquanto não vencido o prazo para formalização da opção o contribuinte poderá:
+> I - regularizar eventuais pendências impeditivas do ingresso no Simples Nacional, e, caso não o faça até o término do prazo a que se refere o § 1º, o ingresso no Regime será indeferido;
+> II - cancelar o pedido de formalização da opção, salvo se este já houver sido deferido.
+>
+> § 3º O disposto no § 2º não se aplica às empresas em início de atividade.
+>
+> § 4º No momento da opção, o contribuinte deverá declarar expressamente que não se enquadra nas vedações previstas no art. 15, independentemente das verificações realizadas pelos entes federados.
+>
+> § 5º No caso de opção pelo Simples Nacional feita por ME ou EPP na condição de empresa em início de atividade, a realização da solicitação será simultânea à inscrição no CNPJ por meio do sistema da administração tributária disponibilizado no Portal da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios - Portal Redesim, observadas as seguintes regras: (2025)
+> I – REVOGADO (2025)
+> II - REVOGADO (2025)
+> III - REVOGADO (2025)
+> IV - REVOGADO (2025)
+> V - a opção produzirá efeitos a partir da data de inscrição no CNPJ; e (2025)
+> VI - caso a opção seja indeferida por pendências impeditivas do ingresso no Simples Nacional, o contribuinte poderá regularizá-las no prazo de até 30 (trinta) dias contados a partir da data de inscrição no CNPJ. (2025)
 
 ### Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -1602,6 +1768,1177 @@ A relação dos Estados que adotam sublimites é publicada a cada ano por meio d
 
 ![[Pasted image 20260820161732.png|369]]
 
+
+**Res. CGSN 140/2018: tributos abrangidos e não abrangidos** *(arts. 4º e 5º, p. 6–10)*
+
+- O recolhimento mensal por documento único (DAS) substitui, em relação aos tributos do art. 4º, a legislação específica de cada um: IRPJ, IPI, CSLL, Cofins, PIS/Pasep, CPP (art. 22 da Lei 8.212/91), ICMS e ISS. *(art. 4º, I a VIII, p. 6)*
+- O art. 5º relaciona o que <mark>não</mark> é substituído; para esses tributos vale a legislação das demais pessoas jurídicas:
+
+| Fora do DAS (art. 5º) | Inciso |
+| --- | --- |
+| IOF, II, IE e ITR | I a IV |
+| IR sobre aplicações de renda fixa ou variável, ganhos de capital do ativo permanente e pagamentos a pessoas físicas | V |
+| FGTS; contribuição previdenciária do trabalhador; contribuição previdenciária do empresário como contribuinte individual | VI a VIII |
+| PIS/Pasep, Cofins e IPI na <mark>importação</mark> de bens e serviços | IX |
+| PIS/Pasep e Cofins em tributação concentrada ou substituição tributária | X |
+| <mark>CPP</mark> em quatro casos: construção de imóveis e obras de engenharia (inclusive subempreitada, projetos, paisagismo e decoração de interiores); vigilância, limpeza ou conservação; serviços advocatícios; empregado contratado pelo MEI (art. 105) | XI, a a d |
+| ICMS devido por ST, tributação monofásica e antecipação com encerramento de tributação (rol de mercadorias), por terceiro, no desembaraço, sem documento fiscal, na diferença de alíquota das aquisições interestaduais e nas hipóteses de <mark>impedimento do art. 12</mark> | XII, a a i |
+| ISS devido em serviços sujeitos a ST ou retenção, na importação de serviços, em valor fixo pelos escritórios contábeis (se a lei municipal previr) e nas hipóteses de impedimento do art. 12 | XIII |
+| tributos devidos como substituto ou responsável; demais tributos de competência da União, Estados, DF ou Municípios não relacionados | XIV e XV |
+
+- **Escala industrial relevante** *(§1º, p. 9)*: para bebidas não alcoólicas, massas alimentícias, produtos lácteos, carnes e suas preparações, preparações à base de cereais, chocolates, produtos de padaria e da indústria de bolachas e biscoitos, preparações para molhos e molhos preparados, preparações de produtos vegetais, telhas e outros produtos cerâmicos para construção e detergentes, a regra do ICMS por ST/monofásico/antecipação (inciso XII, "a") só se aplica aos <mark>fabricados em escala industrial relevante</mark> em cada segmento, conforme convênio dos Estados e do DF.
+- **Diferença de alíquota** *(§2º, p. 10)*: a diferença entre a alíquota interna e a interestadual (alíneas "g" e "h" do inciso XII) é calculada pelas alíquotas aplicáveis às pessoas jurídicas <mark>não optantes</mark>.
+- **Dispensas** *(§3º, p. 10)*: a ME/EPP optante fica dispensada das contribuições instituídas pela União não abrangidas pela LC 123 e das contribuições do <mark>art. 240 da CF</mark> (entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical, e demais serviços sociais autônomos).
+- O PDF marca este quadro como cobrado: FUNDATEC 2024 (Q. 2866330). *(p. 8)*
+
+> [!quote]- Texto literal: Art. 5º, caput, XI, XIII a XV e §§1º a 3º (Res. CGSN 140, p. 6–10)
+> Art. 5º O recolhimento na forma prevista no art. 4º não exclui a incidência dos seguintes impostos ou contribuições, devidos pela ME ou EPP na qualidade de contribuinte ou responsável, em relação aos quais será observada a legislação aplicável às demais pessoas jurídicas:
+> XI - CPP para a Seguridade Social, a cargo da pessoa jurídica, de que trata o art. 22 da Lei nº 8.212, de 24 de julho de 1991, no caso de:
+> a) construção de imóveis e obras de engenharia em geral, inclusive sob a forma de subempreitada, execução de projetos e serviços de paisagismo e decoração de interiores;
+> b) serviço de vigilância, limpeza ou conservação;
+> c) serviços advocatícios; e
+> d) contratação de empregado pelo Microempreendedor Individual (MEI), nos termos do art. 105;
+> XIII - ISS devido:
+> a) em relação aos serviços sujeitos a substituição tributária ou retenção na fonte;
+> b) na importação de serviços;
+> c) em valor fixo pelos escritórios de serviços contábeis, quando previsto pela legislação municipal; e
+> d) nas hipóteses de impedimento a que se refere o art. 12;
+> XIV - tributos devidos pela pessoa jurídica na condição de substituto ou responsável tributário; e
+> XV - demais tributos de competência da União, dos Estados, do Distrito Federal ou dos Municípios, não relacionados neste artigo e no art. 4º.
+>
+> § 1º Em relação a bebidas não alcóolicas, massas alimentícias, produtos lácteos, carnes e suas preparações, preparações à base de cereais, chocolates, produtos de padaria e da indústria de bolachas e biscoitos, preparações para molhos e molhos preparados, preparações de produtos vegetais, telhas e outros produtos cerâmicos para construção, e detergentes, aplica-se o disposto na alínea "a" do inciso XII aos fabricados em escala industrial relevante em cada segmento, observado o disposto em convênio celebrado pelos Estados e pelo Distrito Federal.
+>
+> § 2º A diferença entre a alíquota interna e a interestadual do ICMS de que tratam as alíneas "g" e "h" do inciso XII do caput será calculada tomando-se por base as alíquotas aplicáveis às pessoas jurídicas não optantes pelo Simples Nacional.
+>
+> § 3º A ME ou a EPP optante pelo Simples Nacional fica dispensada do pagamento:
+> I - das contribuições instituídas pela União, não abrangidas pela Lei Complementar nº 123, de 2006;
+> II - das contribuições para as entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical, de que trata o art. 240 da Constituição Federal, e demais entidades de serviço social autônomo.
+
+> [!info]- Ponte
+> - [[P2 - Legislação Tributária Estadual (BA)#Substituição tributária — regras gerais e modalidades]]: onde a nota trata da ST do ICMS; o art. 5º, XII, tira do DAS o ICMS devido por ST, monofásico e antecipação com encerramento.
+> - [[P2 - Reforma Tributária#Regimes de apuração: opção pelo regime regular (art. 41, §§ 3º a 6º)]]: a nota da LC 214 registra que o optante do Simples pode apurar IBS e CBS pelo regime regular; aqui está o outro lado, o que o Simples já substitui hoje (art. 4º).
+
+**Res. CGSN 140/2018: sublimites de ICMS e ISS** *(arts. 9º a 12, p. 13–16)*
+
+| Sublimite (ICMS e ISS) | Quem se submete |
+| --- | --- |
+| <mark>R$ 1.800.000,00</mark> no mercado interno e, adicionalmente, igual sublimite para exportação | DF e Estados com participação no PIB de <mark>até 1%</mark> que <mark>optarem</mark> por ele (art. 9º, caput) |
+| <mark>R$ 3.600.000,00</mark> no mercado interno e, adicionalmente, igual sublimite para exportação | DF e Estados que <mark>não adotaram</mark> sublimite, e aqueles com PIB <mark>superior a 1%</mark> (art. 9º, §1º) |
+
+- A participação no PIB é apurada pelo último resultado anual divulgado pelo IBGE <mark>até o último dia útil de setembro</mark>; a opção e a obrigatoriedade produzem efeitos a partir do <mark>ano-calendário subsequente</mark>, salvo outro termo do CGSN. *(art. 9º, §§2º e 3º, p. 13)*
+- O sublimite estadual vale também para o <mark>ISS</mark> dos estabelecimentos localizados no Estado. *(art. 10, p. 13)*
+
+Cronograma da adoção do sublimite *(art. 9º, §2º; art. 11, p. 13–14)*:
+
+| Prazo | Ato |
+| --- | --- |
+| último dia útil de <mark>setembro</mark> | IBGE divulga o último resultado anual do PIB |
+| último dia útil de <mark>outubro</mark> | Estado/DF manifesta-se por **Decreto** do Poder Executivo sobre a adoção do sublimite |
+| <mark>décimo dia útil de novembro</mark> | decreto encaminhado ao CGSN pelo governador ou pela secretaria estadual de administração tributária |
+| último dia útil de <mark>novembro</mark> | o Presidente do CGSN divulga a opção por portaria, com validade para o ano-calendário subsequente |
+
+- **Excesso do sublimite** *(art. 12, p. 14–16)*: se a receita bruta acumulada ultrapassar o sublimite, o estabelecimento da EPP localizado na unidade da federação cujo sublimite foi ultrapassado fica <mark>impedido de recolher ICMS e ISS pelo Simples Nacional</mark> (efeitos: quadro da seção "Definição", com a régua de 20%).
+- **Ano de início de atividade** *(§2º)*: sublimite proporcional de <mark>R$ 150.000,00</mark> (para o de R$ 1,8 mi) ou <mark>R$ 300.000,00</mark> (para o de R$ 3,6 mi), <mark>multiplicados pelo número de meses</mark>, com a fração de mês contada como mês completo.
+- **Retorno** *(§5º)*: o ICMS e o ISS voltam a ser recolhidos pelo Simples no ano subsequente se o Estado/DF passar a ter sublimite **superior** ao que vinha sendo usado, exceto se o novo sublimite também foi ultrapassado.
+- **Início no ano-calendário anterior ao da opção** *(§6º)*: se ultrapassou os sublimites proporcionais, a EPP já entra no regime impedida de recolher ICMS e ISS pelo Simples.
+- **Pagamento fora do DAS** *(§7º)*: totalidade ou diferença dos tributos pelas normas gerais, acrescidos apenas de juros de mora, se o pagamento for antes de procedimento de ofício, ressalvado o §4º (excesso superior a 20%, retroativo).
+
+| Quando o excesso é do sublimite... | Quem passa às normas gerais de ICMS e ISS (§8º) |
+| --- | --- |
+| do <mark>caput do art. 9º</mark> (R$ 1,8 mi) | os estabelecimentos localizados nas unidades da Federação que o adotaram |
+| do <mark>§1º do art. 9º</mark> (R$ 3,6 mi) | <mark>todos</mark> os estabelecimentos da empresa, independentemente da localização |
+
+- Receitas do mercado interno e de exportação são consideradas <mark>separadamente</mark>. *(§9º)*
+
+> [!quote]- Texto literal: Arts. 9º a 12 (Res. CGSN 140, p. 13–16)
+> Art. 9º O Distrito Federal e os Estados cuja participação no Produto Interno Bruto (PIB) brasileiro seja de ATÉ 1% (um por cento) poderão optar pela aplicação de sublimite de receita bruta anual de R$ 1.800.000,00 (um milhão e oitocentos mil reais) no mercado interno e, adicionalmente, igual sublimite para exportação de mercadorias ou serviços para o exterior, para efeito de recolhimento do ICMS e do ISS relativos aos estabelecimentos localizados em seus respectivos territórios.
+>
+> § 1º Para o Distrito Federal e os Estados que não tenham adotado sublimites na forma prevista no caput E para aqueles cuja participação no PIB brasileiro seja superior a 1% (um por cento), deverá ser observado, para fins de recolhimento do ICMS e do ISS, o sublimite no valor de R$ 3.600.000,00 (três milhões e seiscentos mil reais) no mercado interno e, adicionalmente, igual sublimite para exportação de mercadorias ou serviços para o exterior.
+>
+> § 2º Para fins do disposto no caput e no § 1º, a participação do ente federado no PIB brasileiro será apurada levando-se em conta o último resultado anual divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) até o último dia útil de setembro de cada ano-calendário.
+>
+> § 3º A opção prevista no caput e a obrigatoriedade do sublimite previsto no § 1º produzirão efeitos a partir do ano-calendário subsequente, salvo se outro termo inicial for determinado mediante deliberação do CGSN.
+>
+> Art. 10. O sublimite em vigor no Estado ou no Distrito Federal aplicado na forma prevista no art. 9º implicará a vigência do mesmo sublimite de receita bruta acumulada para efeito de recolhimento do ISS devido por estabelecimentos localizados em seu respectivo território.
+>
+> Art. 11. Os Estados e o Distrito Federal deverão manifestar-se, mediante publicação de Decreto do respectivo Poder Executivo, sobre a adoção de sublimite de receita bruta acumulada para efeito de recolhimento do ICMS em seus territórios, na forma prevista no caput do art. 9º, até o último dia útil do mês de outubro. (2020)
+>
+> § 1º Para produzir efeitos no âmbito do Simples Nacional, o decreto a que se refere o caput deve ser encaminhado pelo governador ou pela secretaria estadual competente para a administração tributária ao CGSN, preferencialmente por meio eletrônico, até o décimo dia útil do mês de novembro.
+>
+> § 2º A partir de 2020, compete ao Presidente do CGSN divulgar, mediante portaria, a opção dos Estados e do Distrito Federal de adotar o sublimite a que se refere o caput, até o último dia útil do mês de novembro do ano em que a adoção do sublimite for publicada, com validade para o ano-calendário subsequente.
+>
+> Art. 12. Caso a receita bruta acumulada pela empresa no ano-calendário ultrapasse quaisquer dos sublimites previstos no caput e § 1º do art. 9º, o estabelecimento da EPP localizado na unidade da federação cujo sublimite for ultrapassado estará impedido de recolher o ICMS e o ISS pelo Simples Nacional, ressalvado o disposto nos §§ 2º a 4º.
+>
+> § 1º Os efeitos do impedimento previsto no caput ocorrerão:
+> I - a partir do mês subsequente àquele em que o excesso da receita bruta acumulada no ano for superior a 20% (vinte por cento) dos sublimites previstos no art. 9º;
+> II - a partir do ano-calendário subsequente àquele em que o excesso da receita bruta acumulada não for superior a 20% (vinte por cento) dos sublimites previstos no art. 9º.
+>
+> § 2º No ano-calendário de início de atividade, cada um dos sublimites previstos no caput e § 1º do art. 9º será de R$ 150.000,00 (cento e cinquenta mil reais) OU R$ 300.000,00 (trezentos mil reais), conforme o caso, multiplicados pelo número de meses compreendidos entre o início de atividade e o final do respectivo ano-calendário, considerada a fração de mês como mês completo.
+>
+> § 3º Caso a receita bruta acumulada pela empresa no ano-calendário de início de atividade ultrapasse quaisquer dos sublimites previstos no § 2º, o estabelecimento da EPP localizado na unidade da federação cujo sublimite for ultrapassado estará impedido de recolher o ICMS e o ISS pelo Simples Nacional.
+>
+> § 4º Os efeitos do impedimento previsto no § 3º:
+> I - serão retroativos ao início de atividade se o excesso verificado em relação à receita bruta acumulada for superior a 20% (vinte por cento) dos sublimites previstos no § 2º;
+> II - ocorrerão a partir do ano-calendário subsequente se o excesso verificado em relação à receita bruta acumulada não for superior a 20% (vinte por cento) dos sublimites previstos no § 2º.
+>
+> § 5º O ICMS e o ISS voltarão a ser recolhidos pelo Simples Nacional no ano subsequente, caso no Estado ou no Distrito Federal passe a vigorar sublimite de receita bruta superior ao que vinha sendo utilizado no ano-calendário em que ocorreu o excesso da receita bruta, exceto se o novo sublimite também houver sido ultrapassado.
+>
+> § 6º Na hipótese de início de atividade no ano-calendário imediatamente anterior ao da opção, caso a receita bruta acumulada pela empresa no ano-calendário de início de atividade ultrapasse quaisquer dos sublimites do § 2º, o estabelecimento da EPP localizado na unidade da federação cujo sublimite for ultrapassado estará impedido de recolher o ICMS e o ISS pelo Simples Nacional já no ano de ingresso no Regime.
+>
+> § 7º Na hipótese prevista no § 3º, a EPP impedida de recolher o ICMS e o ISS pelo Simples Nacional ficará sujeita ao pagamento da totalidade ou diferença dos respectivos tributos, devidos em conformidade com as normas gerais de incidência, acrescidos, apenas, de juros de mora, quando o pagamento for efetuado antes do início de procedimento de ofício, ressalvada a hipótese prevista no § 4º.
+>
+> § 8º Nas hipóteses previstas neste artigo, ficarão sujeitos às normas gerais de incidência do ICMS e do ISS, conforme o caso:
+> I - quando excederem o sublimite previsto no caput do art. 9º, os estabelecimentos localizados nas unidades da Federação que o adotarem;
+> II - quando excederem o sublimite previsto no § 1º do art. 9º, todos os estabelecimentos da empresa, independentemente de sua localização.
+>
+> § 9º Para fins do disposto neste artigo, serão consideradas, separadamente, as receitas brutas auferidas no mercado interno e aquelas decorrentes de exportação para o exterior.
+
+> [!info]- Ponte
+> - [[P2 - Legislação Tributária Estadual (BA)#Simples Nacional na ótica estadual (LC 123/2006)]]: o mesmo assunto pelo ângulo estadual; a nota registra ali a ADI 6.030 (ST e DIFAL para optantes).
+> - [[P2 - Direito Tributário#Da Definição de Microempresa e de Empresa de Pequeno Porte (arts. 3º a 3º-B da LC nº 123/2006)]]: a régua de 20% do excesso e a lupa que compara limite geral, limite de início e sublimite.
+
+**Res. CGSN 140/2018: vedações ao ingresso** *(art. 15, p. 18–22)*
+
+- O art. 15 relaciona, em <mark>27 incisos</mark>, as pessoas jurídicas que <mark>não podem</mark> recolher pelo Simples Nacional. Agrupados apenas para estudo (a lista literal está no quadro abaixo):
+
+| Grupo | Incisos do art. 15 |
+| --- | --- |
+| Receita, vínculos societários e exterior | I (receita superior a R$ 4,8 mi no ano anterior ou no em curso, no mercado interno ou em exportação, observado o art. 3º); II (capital com outra PJ ou SCP); III (filial de PJ com sede no exterior); IV (sócio PF empresário ou sócio de outra beneficiada, com receita global acima do limite); V (titular ou sócio com mais de 10% do capital de empresa não beneficiada, com receita global acima do limite); VI (administrador de outra PJ com fins lucrativos, com receita global acima do limite); VIII (participa do capital de outra PJ ou SCP); XIII (titular ou sócio domiciliado no exterior); XIV (capital com entidade da administração pública); XXVII (filial ou representação no exterior) |
+| Forma jurídica | VII (cooperativa, salvo de consumo); XI (sociedade por ações); XXVI (SCP) |
+| Atividade | IX (bancos, seguros, capitalização e afins); XII (factoring e afins); XVI (transporte intermunicipal e interestadual de passageiros); XVII (energia elétrica); XVIII (importação ou fabricação de automóveis e motocicletas); XIX (importação de combustíveis); XX (cigarros, armas, cervejas sem álcool e bebidas alcoólicas no atacado, com exceções); XXI (cessão ou locação de mão de obra); XXII (loteamento e incorporação); XXIII (locação de imóveis próprios) |
+| Situação | X (cisão ou desmembramento em um dos 5 anos-calendário anteriores); XV (débito com INSS ou Fazendas com exigibilidade <mark>não suspensa</mark>); XXIV (sem inscrição cadastral, quando exigível, ou cadastro irregular); XXV (relação de pessoalidade, subordinação e habitualidade com o contratante) |
+
+- ⚠️ Os incisos IV, V e VI só vedam se a **receita bruta global ultrapassar o limite do inciso I**; o VI, na redação de 2025, alcança o administrador "de fato ou de direito".
+- **Exceções do §1º** *(p. 19)*: os incisos V e VIII não se aplicam a participações em cooperativas de crédito, centrais de compras, bolsas de subcontratação, consórcio e SPE (arts. 50 e 56 da LC 123), associações assemelhadas, sociedades de interesse econômico, sociedades de garantia solidária e outros tipos que tenham como objetivo social a defesa exclusiva dos interesses econômicos das ME e EPP.
+- **§2º** *(p. 20)*: as vedações não se aplicam à PJ que se dedica exclusivamente à atividade tributada na forma do art. 25 (ou a ela em conjunto com atividade não vedada) nem à prestação de outros serviços não vedados expressamente.
+- **Cessão ou locação de mão de obra** *(inciso XXI e §3º, p. 20)*: é a atividade do art. 112, §1º; a vedação <mark>não se aplica</mark> às atividades das alíneas "a" a "c" do inciso XI do art. 5º (construção, vigilância/limpeza/conservação e advocacia).
+- **Transporte intermunicipal e interestadual de passageiros** *(inciso XVI e §§4º e 5º, p. 20–21)*: a vedação tem exceções para a modalidade <mark>fluvial</mark> e, nas demais, para o transporte <mark>urbano ou metropolitano</mark> (entre Municípios limítrofes ou em trajetos de regiões metropolitanas, aglomerações urbanas e microrregiões, como serviço público de transporte coletivo) e para o <mark>fretamento contínuo</mark> de estudantes ou trabalhadores em área metropolitana (contrato escrito, documento fiscal, número determinado de viagens, destino único e usuários definidos).
+- **Receita do ano anterior à opção** *(§6º, p. 21)*: para o inciso I, não compõem a receita bruta os valores destacados a título de <mark>IPI</mark> e os devidos a título de <mark>ICMS retido por ST</mark> pelo contribuinte substituto.
+
+> [!quote]- Texto literal: Art. 15 (Res. CGSN 140, p. 18–21)
+> Art. 15. Não poderá recolher os tributos pelo Simples Nacional a pessoa jurídica ou entidade equiparada:
+> I - que tenha auferido, no ano-calendário imediatamente anterior ou no ano-calendário em curso, receita bruta superior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais) no mercado interno ou superior ao mesmo limite em exportação para o exterior, observado o disposto no art. 3º;
+> II - de cujo capital participe outra pessoa jurídica ou sociedade em conta de participação;
+> III - que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede no exterior;
+> IV - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de outra empresa que receba tratamento jurídico diferenciado nos termos da Lei Complementar nº 123, de 2006, desde que a receita bruta global ultrapasse um dos limites máximos de que trata o inciso I do caput;
+> V - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra empresa não beneficiada pela Lei Complementar nº 123, de 2006, desde que a receita bruta global ultrapasse um dos limites máximos de que trata o inciso I do caput;
+> VI - cujo sócio ou titular de fato ou de direito seja administrador ou equiparado de outra pessoa jurídica com fins lucrativos, desde que a receita bruta global ultrapasse o limite de que trata o inciso I do caput; (2025)
+> VII - constituída sob a forma de cooperativa, salvo cooperativa de consumo;
+> VIII - que participe do capital de outra pessoa jurídica ou de sociedade em conta de participação;
+> IX - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de caixa econômica, de sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de corretora ou de distribuidora de títulos, valores mobiliários e câmbio, de empresa de arrendamento mercantil, de seguros privados e de capitalização ou de previdência complementar;
+> X - resultante ou remanescente de cisão ou qualquer outra forma de desmembramento de pessoa jurídica ocorrido em um dos 5 (cinco) anos-calendário anteriores;
+> XI - constituída sob a forma de sociedade por ações;
+> XII - que explore atividade de prestação cumulativa e contínua de serviços de assessoria creditícia, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber, gerenciamento de ativos (asset management), compras de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring);
+> XIII - que possua titular ou sócio domiciliado no exterior; (2025)
+> XIV - de cujo capital participe entidade da administração pública, direta ou indireta, federal, estadual ou municipal;
+> XV - em débito perante o Instituto Nacional do Seguro Social (INSS), ou perante as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa;
+> XVI - que preste serviço de transporte intermunicipal e interestadual de passageiros, exceto:
+> a) na modalidade fluvial; ou
+> b) nas demais modalidades, quando:
+> 1. o serviço caracterizar transporte urbano ou metropolitano; OU
+> 2. o serviço realizar-se na modalidade de fretamento contínuo em área metropolitana para o transporte de estudantes ou trabalhadores;
+> XVII - que seja geradora, transmissora, distribuidora ou comercializadora de energia elétrica;
+> XVIII - que exerça atividade de importação ou fabricação de automóveis e motocicletas;
+> XIX - que exerça atividade de importação de combustíveis;
+> XX - que exerça atividade de produção ou venda no atacado de:
+> a) cigarros, cigarrilhas, charutos, filtros para cigarros, armas de fogo, munições e pólvoras, explosivos e detonantes;
+> b) cervejas sem álcool; e
+> c) bebidas alcoólicas, exceto aquelas produzidas ou vendidas no atacado por ME ou por EPP registrada no Ministério da Agricultura, Pecuária e Abastecimento, e que obedeça à regulamentação da Agência Nacional de Vigilância Sanitária e da RFB quanto à produção e à comercialização de bebidas alcoólicas, nas seguintes atividades:
+> 1. micro e pequenas cervejarias;
+> 2. micro e pequenas vinícolas;
+> 3. produtores de licores; e
+> 4. micro e pequenas destilarias;
+> XXI - que realize cessão ou locação de mão de obra;
+> XXII - que se dedique a atividades de loteamento e incorporação de imóveis;
+> XXIII - que realize atividade de locação de imóveis próprios; (2025)
+> XXIV - que não tenha feito inscrição em cadastro fiscal federal, municipal ou estadual, quando exigível, ou cujo cadastro esteja em situação irregular, observadas as disposições específicas relativas ao MEI;
+> XXV - cujos titulares ou sócios guardem, cumulativamente, com o contratante do serviço, relação de pessoalidade, subordinação e habitualidade; (2025)
+> XXVI - constituída sob a forma de sociedade em conta de participação; e (2025)
+> XXVII - que tenha filial, sucursal, agência ou representação no exterior. (2025)
+>
+> § 1º O disposto nos incisos V e VIII do caput não se aplica a participações em capital de cooperativas de crédito, em centrais de compras, em bolsas de subcontratação, no consórcio e na sociedade de propósito específico a que se referem, respectivamente, os arts. 50 e 56 da Lei Complementar nº 123, de 2006, e em associações assemelhadas, sociedades de interesse econômico, sociedades de garantia solidária e outros tipos de sociedades que tenham como objetivo social a defesa exclusiva dos interesses econômicos das ME e EPP.
+>
+> § 2º As vedações de que trata este artigo não se aplicam às pessoas jurídicas que se dedicam:
+> I - exclusivamente a atividade cuja forma de tributação esteja prevista no art. 25, ou que exerça essa atividade em conjunto com atividade não vedada pelo Regime; e
+> II - a prestação de outros serviços que não tenham sido objeto de vedação expressa neste artigo, desde que a prestadora não incorra em nenhuma das hipóteses de vedação previstas nesta Resolução. (2018)
+>
+> § 3º Para fins do disposto no inciso XXI:
+> I - considera-se cessão ou locação de mão de obra a atividade descrita no § 1º do art. 112; e
+> II - a vedação não se aplica às atividades referidas nas alíneas "a" a "c" do inciso XI do art. 5º.
+>
+> § 4º Enquadra-se na situação prevista no item 1 da alínea "b" do inciso XVI do caput o transporte intermunicipal ou interestadual que, cumulativamente:
+> I - for realizado entre Municípios limítrofes, ainda que de diferentes Estados, ou obedeça a trajetos que compreendam regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de Municípios, instituídas por legislação estadual, podendo, no caso de transporte metropolitano, ser intercalado por áreas rurais; e
+> II - caracterizar serviço público de transporte coletivo de passageiros entre Municípios, assim considerado aquele realizado por veículo com especificações apropriadas, acessível a toda a população mediante pagamento individualizado, com itinerários e horários previamente estabelecidos, viagens intermitentes e preços fixados pelo Poder Público.
+>
+> § 5º Enquadra-se na situação prevista no item 2 da alínea "b" do inciso XVI do caput o transporte intermunicipal ou interestadual de estudantes ou trabalhadores que, cumulativamente:
+> I - for realizado sob a forma de fretamento contínuo, assim considerado aquele prestado a pessoa física ou jurídica, mediante contrato escrito e emissão de documento fiscal, para a realização de um número determinado de viagens, com destino único e usuários definidos; e
+> II - obedecer a trajetos que compreendam regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de Municípios limítrofes, instituídas por legislação estadual.
+>
+> § 6º Não compõem a receita bruta do ano-calendário imediatamente anterior ao da opção pelo Simples Nacional, para efeitos do disposto no inciso I do caput deste artigo, os valores:
+> I - destacados a título de IPI; e
+> II - devidos a título de ICMS retido por substituição tributária, pelo contribuinte que se encontra na condição de substituto tributário.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Suspensão do Crédito tributário]]: onde a nota lista as causas de suspensão da exigibilidade (art. 151 do CTN); o inciso XV só veda o débito cuja exigibilidade **não** está suspensa.
+
+**Res. CGSN 140/2018: base de cálculo e regime de caixa** *(arts. 16 a 20, 77 e 78, p. 22–24 e 73–74)*
+
+- **Base de cálculo mensal:** a receita bruta total <mark>auferida</mark> (regime de competência) <mark>ou recebida</mark> (regime de caixa), conforme a opção. O regime é <mark>irretratável para todo o ano-calendário</mark>. Com filiais, soma-se a receita de todos os estabelecimentos. As receitas são segregadas na forma do art. 25 e o mercado interno e a exportação têm bases distintas. *(art. 16, p. 22–23)*
+- **Devolução de mercadoria** *(art. 17, p. 23)*: deduz-se da receita bruta do mês da devolução; se a devolução superar a receita do mês, o saldo é deduzido nos meses seguintes até esgotar; no regime de caixa, a dedução <mark>se limita ao valor efetivamente devolvido</mark> ao adquirente.
+- **Cancelamento de documento fiscal** *(art. 18, p. 23)*: o valor é deduzido no período de apuração da tributação originária; se houver nova emissão em substituição, é tributado no período da operação originária; no caixa, a dedução também se limita ao valor efetivamente devolvido.
+
+Quando escolher o regime de reconhecimento da receita *(art. 19, p. 23–24)*:
+
+| Situação da ME/EPP | Momento da opção | Efeitos |
+| --- | --- | --- |
+| Já optante pelo Simples Nacional | na apuração de <mark>novembro</mark> | ano-calendário subsequente |
+| Em início de atividade, com efeitos da opção pelo Simples em dezembro | na apuração de <mark>dezembro</mark> | ano-calendário subsequente |
+| Demais hipóteses | no <mark>mês de início dos efeitos</mark> da opção | próprio ano-calendário |
+
+- ⚠️ A opção pelo **regime de caixa** serve <mark>exclusivamente</mark> para a base de cálculo mensal; o **regime de competência** continua sendo aplicado para os limites, os sublimites e a alíquota sobre a receita recebida no mês. *(art. 19, parágrafo único, p. 24)*
+
+Receita a prazo no regime de caixa *(art. 20, p. 24)*:
+
+| Hipótese | Quando a receita auferida e não recebida entra na base |
+| --- | --- |
+| Vendas ou serviços a prazo (regra geral) | a parcela não vencida integra <mark>obrigatoriamente</mark> a base até o último mês do ano-calendário <mark>subsequente</mark> ao da operação |
+| Encerramento de atividade | no mês do evento |
+| Retorno ao regime de competência | no último mês de vigência do regime de caixa |
+| Exclusão do Simples Nacional | no mês <mark>anterior</mark> ao dos efeitos da exclusão |
+| Impedimento do art. 12, com continuidade do caixa | no mês anterior ao dos efeitos do impedimento; ICMS e ISS recolhidos <mark>diretamente</mark> ao ente federado |
+
+- **Registro dos valores a receber** *(art. 77, p. 73)*: o optante pelo caixa mantém registro no modelo do <mark>Anexo IX</mark>, com número e data de cada documento fiscal, valor da operação, parcelas e vencimentos, data e valor recebido, saldo a receber e créditos não mais cobráveis.
+- **Descumprimento** *(art. 78, p. 74)*: a opção pelo caixa é <mark>desconsiderada de ofício</mark>; a empresa passa a ser tratada como de regime de competência no período da irregularidade, com incidência de juros e multa sobre a diferença.
+
+> [!quote]- Texto literal: Arts. 19 e 20 (Res. CGSN 140, p. 23–24)
+> Art. 19. A opção pelo regime de reconhecimento de receita bruta a que se refere o § 1º do art. 16 deverá ser registrada em aplicativo disponibilizado no Portal do Simples Nacional no momento da apuração dos valores devidos:
+> I - relativos ao mês de novembro de cada ano-calendário, com efeitos para o ano-calendário subsequente, na hipótese de ME ou EPP já optante pelo Simples Nacional;
+> II - relativos ao mês de dezembro, com efeitos para o ano-calendário subsequente, na hipótese de ME ou EPP em início de atividade, com efeitos da opção pelo Simples Nacional no mês de dezembro; e
+> III - relativos ao mês de início dos efeitos da opção pelo Simples Nacional, nas demais hipóteses, com efeitos para o próprio ano-calendário.
+>
+> Parágrafo único. A opção pelo Regime de Caixa servirá exclusivamente para a apuração dabase de cálculo mensal, e o Regime de Competência deve ser aplicado para as demais finalidades, especialmente, para determinação dos limites e sublimites e da alíquota a ser aplicada sobre a receita bruta recebida no mês.
+>
+> Art. 20. Para a ME ou a EPP optante pelo Regime de Caixa:
+> I - na prestação de serviços ou nas operações com mercadorias com valores a receber a prazo, a parcela não vencida deverá OBRIGATORIAMENTE integrar a base de cálculo dos tributos abrangidos pelo Simples Nacional até o último mês do ano-calendário subsequente àquele em que tenha ocorrido a respectiva prestação de serviço ou operação com mercadorias;
+> II - a receita auferida e ainda não recebida deverá integrar a base de cálculo dos tributos abrangidos pelo Simples Nacional, na hipótese de:
+> a) encerramento de atividade, no mês em que ocorrer o evento;
+> b) retorno ao Regime de Competência, no último mês de vigência do Regime de Caixa; e
+> c) exclusão do Simples Nacional, no mês anterior ao dos efeitos da exclusão;
+> III - o registro dos valores a receber deverá ser mantido nos termos do art. 77; e
+> IV - na hipótese do impedimento de que trata o art. 12, e havendo a continuidade do Regime de Caixa, a receita auferida e ainda não recebida deverá integrar a base de cálculo do ICMS e do ISS do mês anterior ao dos efeitos do impedimento e seu recolhimento deve ser feito diretamente ao respectivo ente federado, na forma por ele estabelecida, observados os arts. 21 a 24. (2018)
+
+> [!tip]- Lupa: regime de caixa e o que continua sendo competência
+> **A ideia em uma frase:** o caixa deixa a empresa tributar o que **recebeu** no mês, mas só para calcular o valor mensal; para saber se cabe no limite, qual sublimite vale e qual é a alíquota, o Simples continua olhando a competência.
+>
+> **Passo a passo:**
+> 1. A escolha é feita no aplicativo do Portal, no momento da apuração indicada no art. 19 (novembro para quem já é optante) e vale para todo o ano seguinte.
+> 2. No mês, a base é a receita **recebida**; a alíquota, porém, sai da RBT12 apurada por competência.
+> 3. A empresa mantém o registro de valores a receber no Anexo IX (art. 77).
+> 4. A parcela a prazo ainda não recebida entra na base, obrigatoriamente, até o último mês do ano-calendário seguinte ao da operação (art. 20, I). Encerramento, retorno à competência e exclusão antecipam o restante para o mês indicado no art. 20, II.
+>
+> *Exemplo ilustrativo (sem lastro):* venda a prazo em março de 2026, em 12 parcelas de R$ 1 mil. No caixa, a empresa tributa R$ 1 mil por mês, conforme recebe. Se em dezembro de 2027 ainda houver parcela não recebida, esse saldo é tributado naquele mês (último do ano subsequente, art. 20, I).
+>
+> **O erro clássico:** achar que o caixa vale para tudo (limites, sublimites e alíquota continuam por competência, art. 19, parágrafo único); esquecer que a parcela não vencida entra na base ao fim do prazo do art. 20, I; e dizer que a falta do registro do art. 77 não tem consequência (o art. 78 desconsidera a opção de ofício).
+
+
+
+**Res. CGSN 140/2018: alíquota efetiva** *(arts. 21 a 24, p. 25–30)*
+
+| Elemento | Regra |
+| --- | --- |
+| Alíquota nominal | a constante dos Anexos I a V, por faixa de receita bruta |
+| RBT12 | receita bruta acumulada nos <mark>12 meses anteriores</mark> ao período de apuração |
+| **Alíquota efetiva** | <mark>(RBT12 × Aliq − PD) ÷ RBT12</mark>, com PD = parcela a deduzir do anexo |
+| Percentual efetivo de cada tributo | alíquota efetiva × percentual de repartição do anexo |
+| ISS | percentual efetivo <mark>máximo de 5%</mark>; a diferença é transferida, proporcionalmente, aos tributos federais da mesma faixa |
+| ICMS/ISS com RBT12 acima da 5ª faixa, sem exceder o sublimite de R$ 3,6 mi | fórmula com os valores da <mark>5ª faixa</mark> × percentual de distribuição do ICMS/ISS da 5ª faixa |
+| RBT12 igual a zero | para determinar a alíquota, considera-se <mark>R$ 1,00</mark> |
+
+*(art. 21 e parágrafo único, p. 25–26)*
+
+- O valor devido no mês é a alíquota efetiva aplicada sobre a receita bruta total mensal, observados os arts. 16 a 20, 24 a 26, 33 a 36 e 149. Mercado interno e exportação têm alíquotas determinadas <mark>separadamente</mark> (art. 23). *(art. 22, p. 26–27)*
+
+Início de atividade e RBT12 *(art. 22, §§2º a 4º, p. 26)*:
+
+| Período | Receita bruta acumulada usada na alíquota |
+| --- | --- |
+| Início no próprio ano da opção, <mark>1º mês</mark> | receita do próprio mês de apuração × 12 |
+| Início no próprio ano da opção, <mark>11 meses seguintes</mark> | <mark>média aritmética</mark> da receita bruta total dos meses anteriores × 12 |
+| Início no ano-calendário imediatamente anterior ao da opção | regra da média × 12 até completar 12 meses de atividade; a partir do <mark>13º mês</mark>, a RBT12 normal |
+
+- **Últimas faixas** *(§5º, p. 27)*: usam-se as alíquotas das últimas faixas dos Anexos I a V quando, <mark>cumulativamente</mark>, a receita dos 12 meses anteriores for superior a qualquer limite do art. 2º, §1º **e** a receita do ano-calendário em curso for igual ou inferior a esses limites.
+
+**Excesso do sublimite e do limite** *(art. 24, p. 27–30)*
+
+| Parcela da receita mensal que... | Tributos federais | ICMS e ISS |
+| --- | --- | --- |
+| excede o **sublimite**, mas não os R$ 4,8 mi | percentuais efetivos do art. 21 | fórmula com o sublimite: <mark>4ª faixa</mark> (sublimite de R$ 1,8 mi) ou <mark>5ª faixa</mark> (sublimite de R$ 3,6 mi) |
+| excede os **R$ 4,8 mi** | fórmula com R$ 4,8 mi e a <mark>6ª faixa</mark> × percentual de distribuição dos tributos federais da 6ª faixa | igual ao caso anterior (4ª ou 5ª faixa) |
+
+- Vale até o mês anterior aos efeitos da exclusão ou do impedimento de recolher ICMS/ISS pelo Simples.
+- **Início de atividade** *(§1º)*: passar do sublimite proporcional (R$ 150 mil ou R$ 300 mil × meses) leva ao cálculo do ICMS/ISS pela fórmula acima; passar do limite proporcional (R$ 400 mil × meses) leva ao cálculo do inciso II.
+- **Razões** *(§§2º a 5º, p. 29–30)*: calcula-se a razão entre a parcela da receita mensal que excede o sublimite (ou o limite) e a receita bruta total mensal, separadamente para cada sublimite quando há estabelecimentos em Estados com sublimites distintos. O valor da parcela que **não** excede o sublimite é obtido multiplicando (1 − razão) pela receita segregada e pela alíquota do art. 21.
+
+> [!quote]- Texto literal: Art. 21 (caput a parágrafo único) (Res. CGSN 140, p. 25)
+> Art. 21. Para fins do disposto nesta Resolução, considera-se:
+> I - alíquota nominal a constante dos Anexos I a V desta Resolução;
+> II - alíquota efetiva o resultado de: , em que:
+> a) RBT12: receita bruta acumulada nos doze meses anteriores ao período de apuração;
+> b) Aliq: alíquota nominal constante dos Anexos I a V desta Resolução; e
+> c) PD: parcela a deduzir constante dos Anexos I a V desta Resolução; e
+> III - percentual efetivo de cada tributo o calculado mediante multiplicação da alíquota efetiva pelo percentual de repartição constante dos Anexos I a V desta Resolução, observando-se que:
+> a) o percentual efetivo máximo destinado ao ISS será de 5% (cinco por cento), e que eventual diferença será transferida, de forma proporcional, aos tributos federais da mesma faixa de receita bruta anual; e
+> b) o valor da RBT12, quando for superior ao limite da 5ª faixa de receita bruta anual prevista nos Anexos I a V desta Resolução, nas situações em que o sublimite de que trata o § 1º do art. 9º não for excedido, o percentual efetivo do ICMS e do ISS será calculado mediante aplicação da fórmula {[(RBT12 × alíquota nominal da 5ª faixa) - (menos) a Parcela a Deduzir da 5ª Faixa]/RBT12} × o Percentual de Distribuição do ICMS e do ISS da 5ª faixa.
+>
+> Parágrafo único. Apenas para efeito de determinação das alíquotas efetivas, quando a RBT12 de que trata o inciso II do caput for igual a zero, considerar-se-á R$ 1,00 (um real).
+
+> [!quote]- Texto literal: Art. 22, §§1º a 5º (Res. CGSN 140, p. 26–27)
+> § 1º Para efeito de determinação da alíquota, o sujeito passivo utilizará a receita bruta total acumulada auferida nos 12 (doze) meses anteriores ao do período de apuração.
+>
+> § 2º No caso de início de atividade no próprio ano-calendário da opção pelo Simples Nacional, para efeito de determinação da alíquota no 1º (primeiro) mês de atividade, o sujeito passivo utilizará, como receita bruta total acumulada, a receita auferida no próprio mês de apuração multiplicada por 12 (doze).
+>
+> § 3º Na hipótese prevista no § 2º, para efeito de determinação da alíquota nos 11 (onze) meses meses anteriores ao do período de apuração, multiplicada por 12 (doze).
+>
+> § 4º Na hipótese de início de atividade em ano-calendário imediatamente anterior ao da opção pelo Simples Nacional, o sujeito passivo utilizará:
+> I - a regra prevista no § 3º até completar 12 (doze) meses de atividade; e
+> II - a regra prevista no § 1º a partir do décimo terceiro mês de atividade.
+>
+> § 5º Serão adotadas as alíquotas correspondentes às últimas faixas de receita bruta das tabelas dos Anexos I a V desta Resolução, quando, cumulativamente, a receita bruta acumulada:
+> I - nos 12 (doze) meses anteriores ao do período de apuração for superior a qualquer um dos limites previstos no § 1º do art. 2º, observado o disposto nos §§ 2º a 4º do caput; e
+> II - no ano-calendário em curso for igual ou inferior aos limites previstos no § 1º do art. 2º.
+
+
+> [!tip]- Lupa: alíquota efetiva, RBT12 e o que muda quando estoura o sublimite ou o limite
+> **A ideia em uma frase:** a alíquota que se paga no mês não é a "nominal" do anexo, e sim uma média que abate a parcela a deduzir e depende da receita dos 12 meses anteriores; quando a receita passa de um teto, o Simples troca a fórmula só para a parcela excedente.
+>
+> **Passo a passo:**
+> 1. Calcule a RBT12 (ou, no início de atividade, receita do mês × 12 no 1º mês e média × 12 nos 11 seguintes).
+> 2. Ache a faixa no anexo da atividade (as tabelas dos anexos não estão neste PDF) e aplique **(RBT12 × Aliq − PD) ÷ RBT12**.
+> 3. Multiplique a alíquota efetiva pelo percentual de repartição para achar o percentual de cada tributo; o ISS não passa de 5%.
+> 4. Se a receita acumulada no ano passou do **sublimite** (e não de R$ 4,8 mi), só a parcela excedente do mês usa a fórmula da 4ª ou da 5ª faixa para ICMS/ISS; a parcela abaixo do sublimite segue a alíquota efetiva normal.
+> 5. Se passou de **R$ 4,8 mi**, os federais da parcela excedente vão pela fórmula da 6ª faixa; ICMS/ISS continuam pela 4ª ou 5ª.
+>
+> *Exemplo ilustrativo (sem lastro):* suponha, só para o cálculo, RBT12 de R$ 1.000.000,00, alíquota nominal de 10% e PD de R$ 20.000,00. Alíquota efetiva = (1.000.000 × 10% − 20.000) ÷ 1.000.000 = 8%. Sobre uma receita do mês de R$ 100.000,00, o total do DAS seria R$ 8.000,00 (a divisão entre os tributos segue o percentual de repartição do anexo).
+>
+> **O erro clássico:** aplicar a alíquota nominal direto sobre a receita; esquecer que no 1º mês do início de atividade a RBT12 é receita do mês × 12; e misturar a 6ª faixa (tributos **federais** acima de R$ 4,8 mi) com a 4ª/5ª faixa (ICMS/ISS acima do **sublimite**).
+
+**Res. CGSN 140/2018: segregação de receitas e fator "r"** *(arts. 25 e 26, p. 31–41)*
+
+Anexo aplicável por atividade *(art. 25, §1º, p. 31–34)*:
+
+| Anexo | Receitas |
+| --- | --- |
+| I | revenda de mercadorias |
+| II | venda de mercadorias industrializadas pelo contribuinte |
+| III | serviços do inciso III (creches, escolas, agência de viagem, transporte municipal, instalação e manutenção, corretagem de seguros e de imóveis, entre outros) |
+| IV | construção de imóveis e obras de engenharia, vigilância, limpeza ou conservação, serviços advocatícios |
+| III <mark>ou</mark> V | serviços intelectuais do inciso V, conforme o **fator "r"**: <mark>igual ou superior a 0,28</mark> = Anexo III; <mark>inferior a 0,28</mark> = Anexo V |
+| III, deduzido o ISS | locação de bens móveis (VI) e escritórios contábeis com ISS fixo no Município (VIII, sem o percentual de ISS) |
+| II com ISS | atividade com IPI e ISS simultâneos: Anexo II sem a parcela do ICMS, mais a parcela do ISS do Anexo III (VII) |
+| III sem o ISS, com ICMS do Anexo I | transporte intermunicipal e interestadual de cargas, de passageiros (nas situações permitidas) e comunicação (IX) |
+
+- **Medicamentos manipulados** *(§2º, p. 34)*: Anexo III quando sob encomenda, para entrega posterior ao adquirente em caráter pessoal, mediante prescrição de profissional habilitado ou indicação do farmacêutico, produzidos no próprio estabelecimento; Anexo I nos demais casos.
+- **Exportação** *(§§3º a 4º-A, p. 34–35)*: a receita de exportação é segregada e, no cálculo, são desconsiderados Cofins, PIS/Pasep, IPI, ICMS e ISS. Exportação de serviços é a prestação a pessoa física ou jurídica residente ou domiciliada no exterior, com pagamento que represente ingresso de divisas, exceto serviços desenvolvidos no Brasil cujo resultado aqui se verifique; o §4º-A dispensa o efetivo ingresso se os recursos ficam no exterior (art. 1º da Lei 11.371/2006).
+- **PIS/Cofins concentrados ou por ST** *(§§6º e 7º, p. 35)*: segrega-se a receita e desconsideram-se os percentuais de PIS/Cofins; os demais tributos incidem sobre a receita total da venda do produto.
+- **ICMS** *(§8º, p. 35–36)*: o **substituído** (e quem faz antecipação com encerramento) segrega como "sujeita à substituição tributária ou ao recolhimento antecipado do ICMS" e o percentual do ICMS é desconsiderado; o **substituto** recolhe a operação própria pelo Simples, segrega como "não sujeita" e recolhe o ICMS-ST fora do DAS (art. 28, §§1º a 3º).
+- **ISS** *(§§9º, 11 e 12, p. 36–37)*: informar o Município devedor, se houve retenção e se o valor é fixo; a base do ISS no Simples é a receita bruta total mensal, sem os regimes de valor fixo de antes da opção, ressalvados os arts. 33 e 34.
+
+Fator "r" *(art. 26, p. 38–41)*: razão entre a **folha de salários dos 12 meses anteriores, incluídos encargos**, e a **receita bruta total acumulada** (mercados interno e externo) dos 12 meses anteriores. A folha compreende remuneração a pessoas físicas e pró-labore, mais a CPP e o FGTS efetivamente recolhidos; <mark>aluguéis e distribuição de lucros não entram</mark> (§3º).
+
+| Período | Situação | Fator "r" |
+| --- | --- | --- |
+| Mês de início de atividades | folha do PA > 0 e receita do PA = 0 | <mark>0,28</mark> |
+| Mês de início de atividades | folha do PA = 0 e receita do PA > 0 | <mark>0,01</mark> |
+| Mês de início de atividades | folha e receita do PA > 0 | folha ÷ receita do PA |
+| Após o mês de início | FS12 e RBT12r iguais a 0 | <mark>0,01</mark> |
+| Após o mês de início | FS12 > 0 e RBT12r = 0 | <mark>0,28</mark> |
+| Após o mês de início | FS12 e RBT12r > 0 | FS12 ÷ RBT12r |
+| Após o mês de início | FS12 = 0 e RBT12r > 0 | <mark>0,01</mark> |
+
+> [!quote]- Texto literal: Art. 26 (Res. CGSN 140, p. 38–41)
+> Art. 26. Na hipótese de a ME ou EPP optante pelo Simples Nacional obter receitas decorrentes da prestação de serviços previstas no inciso V do § 1º do art. 25, deverá apurar o fator "r", que é a razão entre a:
+> I - folha de salários, incluídos encargos, nos 12 (doze) meses anteriores ao período de apuração; e
+> II - receita bruta total acumulada auferida nos mercados interno e externo nos 12 (doze) meses anteriores ao período de apuração.
+>
+> § 1º Para efeito do disposto no inciso I do caput, considera-se folha de salários, incluídos encargos, o montante pago nos 12 (doze) meses anteriores ao do período de apuração a título de remuneração a pessoas físicas decorrentes do trabalho e de pró-labore, acrescido do montante efetivamente recolhido a título de contribuição patronal previdenciária e para o Fundo de Garantia do Tempo de Serviço (FGTS). (2019)
+>
+> § 2º Para efeito do disposto no § 1º:
+> I - deverão ser consideradas tão somente as remunerações informadas na forma prevista no inciso IV do art. 32 da Lei nº 8.212, de 1991; e (2019)
+> II - consideram-se salários o valor da base de cálculo da contribuição prevista nos incisos I e III do art. 22 da Lei nº 8.212, de 1991, agregando-se o valor do décimo terceiro salário na competência da incidência da referida contribuição, na forma prevista no caput e nos §§ 1º e 2º do art. 7º da Lei nº 8.620, de 5 de janeiro de 1993.
+>
+> § 3º Não são considerados para efeito do disposto no inciso II do § 2º valores pagos a título de aluguéis e de distribuição de lucros.
+>
+> § 4º Na hipótese de a ME ou EPP ter menos de 13 (treze) meses de atividade, adotar-se-ão, para a determinação da folha de salários anualizada, incluídos encargos, os mesmos critérios para a determinação da receita bruta total acumulada, estabelecidos no art. 22, no que couber. (2018)
+>
+> § 5º Para fins de determinação do fator "r", considera-se:
+> I - PA, o período de apuração relativo ao cálculo;
+> II - FSPA, a folha de salários do PA;
+> III - RPAr, a receita bruta total do PA, consideradas conjuntamente as receitas brutas auferidas no mercado interno e aquelas decorrentes da exportação; (2019)
+> IV - FS12, a folha de salários dos 12 (doze) meses anteriores ao PA; e
+> V - RBT12r, a receita bruta acumulada dos 12 (doze) meses anteriores ao PA, considerando conjuntamente as receitas brutas auferidas no mercado interno e aquelas decorrentes da exportação.
+>
+> § 6º Para o cálculo do fator "r" referente a período de apuração do mês de início de atividades:
+> I - se a FSPA for maior do que 0 (zero) e a RPAr for igual a 0 (zero), o fator "r" será igual a 0,28 (vinte e oito centésimos); (2019)
+> II - se a FSPA for igual a 0 (zero) e a RPAr for maior do que 0 (zero), o fator "r" será igual a 0,01 (um centésimo); e (2019)
+> III - se a FSPA e a RPAr forem maiores do que 0 (zero), o fator "r" corresponderá à divisão entre a FSPA e a RPAr. (2019)
+>
+> § 7º Para o cálculo do fator "r" referente a período de apuração posterior ao mês de início de atividades:
+> I - se FS12 e RBT12r forem iguais a 0 (zero), o fator "r" será igual a 0,01 (um centésimo);
+> II - se a FS12 for maior do que 0 (zero), e a RBT12r for igual a 0 (zero), o fator "r" será igual a 0,28 (vinte e oito centésimos);
+> III - se a FS12 e a RBT12r forem maiores do que 0 (zero), o fator "r" corresponderá à divisão entre a FS12 e a RBT12r; e
+> IV - se a FS12 for igual a 0 (zero) e a RBT12r for maior do que 0 (zero), o fator "r" corresponderá a 0,01 (um centésimo). (2019)
+
+**Res. CGSN 140/2018: retenção de ISS na fonte** *(art. 27, p. 41–44)*
+
+- A retenção de ISS do optante ocorre, nos termos dos arts. 3º e 6º da LC 116/2003, se observado <mark>cumulativamente</mark> o art. 27. A alíquota da retenção é o **percentual efetivo de ISS** dos Anexos III, IV ou V para a faixa do **mês anterior** ao da prestação: RBT12 dos 12 meses que antecederem o mês anterior, ou média × 12 se a empresa tem menos de 13 meses.
+- **Mês de início de atividade:** alíquota de <mark>2%</mark>; a diferença apurada é recolhida pela prestadora, em guia própria do Município, no mês subsequente ao do início.
+- **Alíquota não informada** no documento fiscal: aplica-se <mark>5%</mark>. Se a informada for inferior à devida, a responsabilidade do prestador não se exime (a diferença é paga em guia do Município).
+- **ISS por valor fixo:** não há retenção, salvo ISS devido a outro Município.
+- ⚠️ O valor retido e recolhido é <mark>definitivo</mark>, não é partilhado com os Municípios, e a receita que sofreu retenção <mark>não tem ISS recolhido pelo Simples</mark>.
+- Isenção ou redução municipal: a prestadora informa no documento fiscal a alíquota aplicável e a legislação concessiva (§1º). Falsidade nessas informações sujeita às penalidades criminais e tributárias (§3º).
+
+> [!quote]- Texto literal: Art. 27 (Res. CGSN 140, p. 41–44)
+> Art. 27. A retenção na fonte de ISS da ME ou EPP optante pelo Simples Nacional, observado o disposto nos arts. 3º e 6º da Lei Complementar nº 116, de 2003, ocorrerá se observado cumulativamente o seguinte: (2023)
+> I - a alíquota aplicável na retenção na fonte deverá ser informada no documento fiscal e corresponderá ao percentual efetivo de ISS decorrente da aplicação das tabelas dos Anexos III, IV ou V desta Resolução para a faixa de receita bruta a que a ME ou EPP estiver sujeita no mês anterior ao da prestação, assim considerada:
+> a) a receita bruta acumulada nos 12 (doze) meses que antecederem o mês anterior ao da prestação; ou
+> b) a média aritmética da receita bruta total dos meses que antecederem o mês anterior ao da prestação, multiplicada por 12 (doze), na hipótese de a empresa ter iniciado suas atividades há menos de 13 (treze) meses da prestação;
+> II - na hipótese de o serviço sujeito à retenção ser prestado no mês de início de atividade da ME ou EPP, a alíquota aplicável será de 2% (dois por cento);
+> III - na hipótese prevista no inciso II, constatando-se que houve diferença entre a alíquota utilizada e a efetivamente apurada, caberá à ME ou à EPP prestadora dos serviços efetuar o recolhimento da diferença no mês subsequente ao do início de atividade em guia própria do Município;
+> IV - na hipótese de a ME ou a EPP estar sujeita à tributação do ISS pelo Simples Nacional por valores fixos mensais, não caberá a retenção a que se refere o caput, salvo quando o ISS for devido a outro Município;
+> V - na hipótese de a ME ou EPP não informar no documento fiscal a alíquota de que tratam os incisos I e II, aplicar-se-á a alíquota de 5% (cinco por cento);
+> VI - não será eximida a responsabilidade do prestador de serviços quando a alíquota do ISS informada no documento fiscal for inferior à devida, hipótese em que o recolhimento da diferença será realizado em guia própria do Município; e
+> VII - o valor retido, devidamente recolhido, será definitivo, não sendo objeto de partilha com os Municípios, e sobre a receita de prestação de serviços que sofreu a retenção não haverá incidência de ISS a ser recolhido pelo Simples Nacional.
+>
+> § 1º Na hipótese prevista no caput, caso a prestadora de serviços esteja abrangida por isenção ou redução do ISS em face de legislação municipal ou distrital que tenha instituído benefícios à ME ou à EPP optante pelo Simples Nacional, na forma prevista no art. 31, caberá a ela informar no documento fiscal a alíquota aplicável na retenção na fonte, bem como a legislação concessiva do respectivo benefício.
+>
+> § 2º Para fins do disposto no inciso I do caput, respeitado o disposto no art. 21, o Município ou o Distrito Federal poderá estabelecer critérios de informação da alíquota efetiva de ISS a constar do documento fiscal, de acordo com a respectiva legislação.
+>
+> § 3º Nas hipóteses de que tratam os incisos I e II do caput, a falsidade na prestação dessas informações sujeitará o responsável, o titular, os sócios ou os administradores da ME ou da EPP, juntamente com as demais pessoas que concorrerem para sua prática, às penalidades previstas na legislação criminal e tributária.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#2. Imposto sobre Serviços - ISS]]: onde a nota trata da matriz do ISS na LC 116/03; o art. 27 da Resolução manda observar os arts. 3º (local do imposto) e 6º (responsabilidade do tomador) dessa lei complementar.
+
+**Res. CGSN 140/2018: ICMS-ST, imunidade, benefícios e valores fixos** *(arts. 28 a 37, p. 44–49)*
+
+- **Substituta tributária do ICMS** *(art. 28, p. 44–45)*: segrega a receita da operação própria, recolhe o ICMS-ST **diretamente ao ente** detentor da competência e não considera o valor do ICMS-ST como receita de venda ou revenda. O ICMS-ST é a diferença entre a alíquota interna aplicada sobre o preço máximo de venda a varejo (ou preço usualmente praticado) e a alíquota aplicada sobre a operação própria; sem esses preços, usa-se a fórmula com MVA (§3º).
+- **Prazo mínimo** *(art. 29, p. 45–46)*: Estados e DF observam <mark>60 dias</mark>, contados do primeiro dia do mês do fato gerador, para fixar o vencimento do ICMS devido por ST, monofásico e antecipação, quando a responsabilidade recai sobre operações subsequentes. Não se aplica se a ME/EPP está impedida de recolher ICMS pelo Simples (art. 12) nem se está em situação irregular.
+- **Imunidade** *(art. 30, p. 46)*: a imunidade de alguns tributos não afeta os demais; a alíquota será o <mark>somatório dos percentuais dos tributos não alcançados</mark> pela imunidade. O PDF marca como cobrado: FCC 2024 (Q. 3116015).
+- **Competência dos entes** *(art. 31, p. 46)*: Estado, DF e Município podem conceder <mark>isenção ou redução</mark> de ICMS/ISS e estabelecer <mark>valores fixos</mark>; o benefício de ISS <mark>não pode resultar em percentual menor que 2%</mark>, exceto para os subitens 7.02, 7.05 e 16.01 da lista da LC 116.
+- **Isenção ou redução específica** *(art. 35, p. 49)*: sobre a receita isenta desconsideram-se os percentuais de ICMS/ISS; sobre a receita reduzida, faz-se a redução proporcional, relativamente à receita do estabelecimento no ente que concedeu.
+- **Cesta básica** *(art. 36, p. 49)*: isenção ou redução de Cofins, PIS/Pasep e ICMS em lei específica destinada à ME/EPP também gera redução proporcional.
+- **Incentivo fiscal** *(art. 37, p. 49)*: a optante <mark>não pode utilizar ou destinar</mark> valor a título de incentivo fiscal; alterações de base, alíquota ou percentuais fora da LC 123 não são consideradas.
+
+Valores fixos mensais de ICMS e ISS para ME *(art. 33, p. 47–48)*:
+
+| Receita bruta no ano-calendário anterior | Limite mensal de ICMS | Limite mensal de ISS |
+| --- | --- | --- |
+| até R$ 180.000,00 | R$ 108,00 | R$ 162,75 |
+| de R$ 180.000,00 a R$ 360.000,00 | R$ 295,50 | R$ 427,50 |
+
+- Só para **ME** com receita de até <mark>R$ 360.000,00</mark> no ano anterior; os valores fixos só se aplicam a partir do <mark>ano-calendário seguinte</mark> ao da fixação e abrangem todas as empresas ou as de um ramo de atividade (§1º).
+- ⚠️ Fica <mark>impedida</mark> a ME que possua mais de um estabelecimento, esteja no ano de início de atividade, ou exerça mais de um ramo com valores fixos distintos (ou com ramo fora do valor fixo) (§3º).
+- Início no ano anterior: proporcionaliza-se pela média aritmética da receita × 12 (§4º). Se o ISS é devido a outro Município, recolhe-se pelas regras normais dos arts. 21 a 26 e 148, sem prejuízo do valor fixo ao Município do estabelecimento (§6º).
+- Quem estava na faixa até R$ 180 mil e passa desse valor continua no valor fixo da faixa menor (§8º); quem excede R$ 360 mil fica <mark>impedida</mark> do valor fixo a partir do <mark>mês subsequente</mark> ao excesso (§9º).
+
+> [!quote]- Texto literal: Arts. 29, 30, 31 e 33 (Res. CGSN 140, p. 45–48)
+> Art. 29. Os Estados e o Distrito Federal deverão observar o prazo mínimo de 60 (sessenta) dias, contado a partir do primeiro dia do mês do fato gerador da obrigação tributária, para estabelecer a data de vencimento do ICMS devido por substituição tributária, por tributação concentrada em uma única etapa (monofásica) e por antecipação tributária com ou sem encerramento de tributação, nas hipóteses em que a responsabilidade recair sobre operações ou prestações subsequentes.
+>
+> Parágrafo único. O disposto no caput:
+> I - aplica-se na hipótese de a ME ou EPP optante estar obrigada ao recolhimento do imposto diretamente ao Estado ou ao Distrito Federal, na forma prevista na respectiva legislação, observado o disposto no inciso V do art. 103; e
+> II - não se aplica:
+> a) no caso de a ME ou a EPP estar impedida de recolher o ICMS no âmbito do Simples Nacional nos termos do art. 12; e
+> b) quando a optante se encontrar em situação irregular, conforme definido na legislação da respectiva unidade federada.
+>
+> Art. 30. Na apuração dos valores devidos no âmbito do Simples Nacional, a imunidade constitucional sobre alguns tributos não afeta a incidência quanto aos demais, caso em que a alíquota aplicável corresponderá ao somatório dos percentuais dos tributos não alcançados pela imunidade.
+>
+> Art. 31. O Estado, o Distrito Federal ou o Município tem competência para, com relação à ME ou à EPP optante pelo Simples Nacional, na forma prevista nesta Resolução:
+> I - conceder isenção ou redução do ICMS ou do ISS; e
+> II - estabelecer valores fixos para recolhimento do ICMS ou do ISS.
+>
+> Parágrafo único. Quanto ao ISS, os benefícios de que tratam os incisos I e II do caput não poderão resultar em percentual menor do que 2% (dois por cento), exceto para os serviços a que se referem os subitens 7.02, 7.05 e 16.01 da lista anexa à Lei Complementar nº 116, de 2003.
+>
+> Art. 33. Os Estados, o Distrito Federal e os Municípios, no âmbito de suas respectivas competências, independentemente da receita bruta auferida no mês pelo contribuinte, poderão adotar valores fixos mensais, inclusive por meio de regime de estimativa fiscal ou arbitramento, para o recolhimento do ICMS e do ISS devido por ME que tenha auferido receita bruta total acumulada, nos mercados interno e externo, conjuntamente, no ano-calendário anterior, de até R$ 360.000,00 (trezentos e sessenta mil reais), observado o disposto neste artigo.
+>
+> § 1º Os valores fixos estabelecidos pelos Estados, pelo Distrito Federal e pelos Municípios em determinado ano-calendário:
+> I - só serão aplicados a partir do ano-calendário seguinte;
+> II - deverão abranger todas as empresas OU apenas aquelas que se situem em determinadoramo de atividade, que tenham, em qualquer caso, auferido receita bruta no ano-calendário anterior até o limite previsto no caput, ressalvado o disposto no § 3º; e
+> III - deverão ser estabelecidos obrigatória e individualmente para cada faixa de receita prevista nos incisos I e II do § 2º.
+>
+> § 2º Observado o disposto no parágrafo único do art. 31 e no § 4º deste artigo, os valores fixos mensais estabelecidos no caput não poderão exceder a:
+> I - para a ME que no ano-calendário anterior tenha auferido receita bruta de até R$ 180.000,00 (cento e oitenta mil reais):
+> a) R$ 108,00 (cento e oito reais), no caso de ICMS; e
+> b) R$ 162,75 (cento e sessenta e dois reais e setenta e cinco centavos), no caso de ISS; e
+> II - para a ME que no ano-calendário anterior tenha auferido receita bruta entre R$ 180.000,00 (cento e oitenta mil reais) e R$ 360.000,00 (trezentos e sessenta mil reais):
+> a) R$ 295,50 (duzentos e noventa e cinco reais e cinquenta centavos), no caso de ICMS; e
+> b) R$ 427,50 (quatrocentos e vinte e sete reais e cinquenta centavos), no caso de ISS.
+>
+> § 3º Fica impedida de adotar os valores fixos mensais de que trata este artigo a ME que
+> I - possua mais de um estabelecimento;
+> II - esteja no ano-calendário de início de atividade;
+> III - exerça mais de um ramo de atividade:
+> a) com valores fixos distintos, para o mesmo imposto, estabelecidos pelo respectivo ente federado; ou
+> b) quando pelo menos um dos ramos de atividade exercido não esteja sujeito ao valor fixo, para o mesmo imposto, estabelecido pelo respectivo ente federado.
+>
+> § 4º O limite de que trata o caput deverá ser proporcionalizado na hipótese de a ME ter iniciado suas atividades no ano-calendário anterior, utilizando-se da média aritmética da receita bruta total dos meses desse ano-calendário, multiplicada por 12 (doze).
+>
+> § 5º O valor fixo apurado na forma prevista neste artigo será devido ainda que tenha ocorrido retenção ou substituição tributária dos impostos a que se refere o caput, observado o disposto no inciso IV do art. 27.
+>
+> § 6º Na hipótese de ISS devido a outro Município, o imposto deverá ser recolhido nos termos dos arts. 21 a 26 e 148, sem prejuízo do recolhimento do valor fixo devido ao Município de localização do estabelecimento.
+>
+> § 7º O valor fixo de que trata o caput deverá ser incluído no valor devido pela ME relativamente ao Simples Nacional.
+>
+> § 8º A empresa sujeita a valor fixo na forma prevista no inciso I do § 2º que, no ano-calendário, auferir receita bruta acima de R$ 180.000,00 (cento e oitenta mil reais) continuará a recolher o valor fixo previsto naquele dispositivo, ressalvado o disposto no § 9º.
+>
+> § 9º A empresa que, no ano-calendário, exceder o limite de receita bruta previsto no caput fica impedida de recolher o ICMS ou o ISS pela sistemática de valor fixo, a partir do mês subsequente à ocorrência do excesso, sujeitando-se à apuração desses tributos pela sistemática aplicável às demais empresas optantes pelo Simples Nacional.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Limitações ao Poder de Tributar;]]: onde a nota trata das imunidades; o art. 30 da Resolução só define como o Simples soma os percentuais dos tributos **não** alcançados pela imunidade.
+> - [[P2 - Legislação Tributária Estadual (BA)#Simples Nacional na ótica estadual (LC 123/2006)]] e [[P2 - Legislação Tributária Estadual (BA)#Substituição tributária — regras gerais e modalidades]]: ST e DIFAL do optante pelo ângulo estadual.
+
+**Res. CGSN 140/2018: PGDAS-D, prazo e DAS** *(arts. 38 a 45, p. 49–55)*
+
+- O cálculo do valor devido é feito na declaração gerada pelo **PGDAS-D** (Portal do Simples Nacional); as informações têm <mark>caráter declaratório, constituindo confissão de dívida</mark> e instrumento hábil e suficiente para a exigência dos tributos não recolhidos; são prestadas <mark>mensalmente até o vencimento</mark> do tributo e compartilhadas entre União, Estados, DF e Municípios. *(art. 38, §2º, p. 49)*
+- **Retificação** *(art. 39, p. 50–51)*: por período de apuração; tem a mesma natureza da declaração original e a <mark>substitui integralmente</mark>. ⚠️ Não produz efeitos quando reduz débito de período cujo saldo foi objeto de **parcelamento deferido** ou enviado à PGFN para inscrição em DAU (ou transferido ao ente com convênio). O direito de retificar se extingue em <mark>5 anos</mark> contados do 1º dia do exercício seguinte ao da declaração; a declaração entregue **depois** da ciência de procedimento fiscal não é espontânea. O PDF marca como cobrado: FGV 2023 (Q. 2590866).
+- **Retenção da declaração** *(art. 39-A, p. 51)*: a declaração pode ser retida para análise; retida ou rejeitada, não produz efeitos; a liberação **não homologa** o lançamento (aplica-se o art. 150, §4º, do CTN).
+
+Recolhimento e DAS *(arts. 40 a 45, p. 51–55)*:
+
+| Aspecto | Regra |
+| --- | --- |
+| Prazo | até o <mark>dia 20</mark> do mês subsequente àquele em que foi auferida a receita bruta |
+| Sem expediente bancário | pagamento no <mark>dia útil imediatamente posterior</mark> |
+| Filiais | recolhimento por intermédio da <mark>matriz</mark> |
+| Atraso | encargos legais da legislação do imposto sobre a renda |
+| Calamidade pública (art. 40-A) | vencimento prorrogado por até <mark>6 meses</mark>, alcançando o 1º vencimento após o evento e podendo abranger os 2 seguintes; sem direito a restituição de valores já pagos; vale para todos os tributos do Simples e, no que couber, para PGDAS-D, Defis e DASN-Simei |
+| Valor mínimo (art. 44) | <mark>vedada</mark> a emissão de DAS com valor total inferior a <mark>R$ 10,00</mark>; o valor é diferido para os períodos seguintes até atingir R$ 10,00 |
+| Geração do DAS (art. 42) | MEI: PGMEI; demais: PGDAS-D (a partir de jan/2012); DAS avulso e de cobrança, parcelamento, autuação ou dívida ativa por aplicativos próprios |
+
+> [!quote]- Texto literal: Arts. 38, 39 e 40 (Res. CGSN 140, p. 49–51)
+> Art. 38. O cálculo do valor devido na forma prevista no Simples Nacional deverá ser efetuado por meio da declaração gerada pelo "Programa Gerador do Documento de Arrecadação do Simples Nacional - Declaratório (PGDAS-D)", disponível no Portal do Simples Nacional na Internet.
+>
+> § 1º A ME ou EPP optante pelo Simples Nacional deverá, para cálculo dos tributos devidos mensalmente e geração do DAS, informar os valores relativos à totalidade das receitas correspondentes às suas operações e prestações realizadas no período, no aplicativo a que se refere o caput, observadas as demais disposições estabelecidas nesta Resolução.
+>
+> § 2º As informações prestadas no PGDAS-D:
+> I - têm caráter declaratório, constituindo confissão de dívida e instrumento hábil e suficiente para a exigência dos tributos e contribuições que não tenham sido recolhidos resultantes das informações nele prestadas; (2025)
+> II - deverão ser fornecidas à RFB mensalmente até o vencimento do prazo para pagamento dos tributos devidos no âmbito do Simples Nacional em cada mês, previsto no art. 40, relativamente aos fatos geradores ocorridos no mês anterior; e (2025)
+> III - serão compartilhadas entre as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios. (2025)
+>
+> § 3º O cálculo de que trata o caput, relativamente aos períodos de apuração até dezembro de 2011, deverá ser efetuado por meio do Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS), disponível no Portal do Simples Nacional na Internet.
+>
+> § 4º Aplica-se ao PGDAS o disposto no § 1º.
+>
+> Art. 39. A alteração das informações prestadas no PGDASD será efetuada por meio de retificação relativa ao respectivo período de apuração.
+>
+> § 1º A retificação terá a mesma natureza da declaração originariamente apresentada, substituindo-a integralmente, e servirá para declarar novos débitos, e aumentar ou reduzir os valores de débitos já informados.
+>
+> § 2º A retificação não produzirá efeitos quando tiver por objeto reduzir débitos relativos aos períodos de apuração:
+> I - cujos saldos a pagar tenham sido objeto de pedido de parcelamento deferido ou já tenham sido enviados à Procuradoria-Geral da Fazenda Nacional (PGFN) para inscrição em Dívida Ativa da União (DAU), ou, com relação ao ICMS ou ao ISS, transferidos ao Estado ou Município que tenha efetuado o convênio previsto no art. 139; ou
+> II - REVOGADO (2019)
+>
+> § 3º Na hipótese prevista no inciso I do § 2º, o ajuste dos valores dos débitos decorrentes da retificação no PGDAS-D, nos sistemas de cobrança pertinentes, poderá ser efetuado:
+> I - pelo Estado ou Município, com relação ao ICMS ou ISS, quando firmado o convênio previsto no art. 139 e os débitos já tiverem sido transferidos;
+> II - pela RFB, nos demais casos.
+>
+> § 4º O ajuste a que se refere o § 3º dependerá de prova inequívoca da ocorrência de erro de fato no preenchimento da declaração.
+>
+> § 5º O direito de a ME ou EPP retificar as informações prestadas no PGDAS-D extingue-se em 5 (cinco) anos contados a partir do 1º (primeiro) dia do exercício seguinte àquele ao qual se refere a declaração.
+>
+> § 6º Não se considera espontânea e não produzirá efeitos a declaração entregue APÓS a data da ciência de início de procedimento fiscal relativo às informações declaradas ou retificadas. (2019)
+>
+> Art. 40. Os tributos devidos, apurados na forma prevista nesta Resolução, deverão ser pagos até o dia 20 (vinte) do mês subsequente àquele em que houver sido auferida a receita bruta.
+>
+> § 1º Na hipótese de a ME ou EPP possuir filiais, o recolhimento dos tributos devidos no âmbito do Simples Nacional dar-se-á por intermédio da matriz.
+>
+> § 2º O valor não pago no prazo estabelecido no caput sujeitar-se-á à incidência de encargos legais na forma prevista na legislação do imposto sobre a renda.
+>
+> § 3º Quando não houver expediente bancário no prazo estabelecido no caput, os tributos deverão ser pagos até o dia útil imediatamente posterior.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Lançamento]]: onde a nota trata da constituição do crédito pelo lançamento; o PGDAS-D é declaração que constitui confissão de dívida (art. 38, §2º, I), e o art. 87, §8º, veda o lançamento de ofício dos débitos declarados.
+
+**Res. CGSN 140/2018: crédito de ICMS na compra de optante** *(arts. 58 a 62, p. 60–65)*
+
+- **Regra geral** *(art. 58, p. 60)*: a ME/EPP optante <mark>não faz jus à apropriação nem transfere créditos</mark> de impostos ou contribuições abrangidos pelo Simples.
+- **Exceção** *(§1º)*: a PJ **não optante** tem direito ao crédito de ICMS nas aquisições de mercadorias de optante, desde que destinadas à <mark>comercialização ou industrialização</mark>, tendo como limite o <mark>ICMS efetivamente devido pelo optante</mark> na operação (arts. 60 a 62). Por decisão exclusiva e unilateral dos Estados e do DF, pode haver crédito sobre insumos de indústria optante, sem diferenciar pela procedência (§2º). Quem apura PIS/Cofins não cumulativo pode descontar créditos sobre bens e serviços adquiridos de optante (§3º).
+- **Cálculo do crédito** *(art. 60, §§1º a 3º, p. 64–65)*: alíquota = percentual efetivo de ICMS do vendedor no mês anterior, nos Anexos I ou II; menos de 13 meses de atividade, média × 12; nos <mark>2 primeiros meses</mark> de atividade, <mark>1,36%</mark> (revenda) ou <mark>1,44%</mark> (produtos industrializados pelo contribuinte). A nota traz a expressão "PERMITE O APROVEITAMENTO DO CRÉDITO DE ICMS NO VALOR DE R$...".
+
+| Não pode consignar a expressão do crédito (art. 61) | O adquirente não pode se creditar (art. 62) |
+| --- | --- |
+| ICMS por valores fixos mensais; ICMS não devido pelo Simples; isenção estadual na faixa; operação imune; optante pelo <mark>regime de caixa</mark>; serviço de comunicação, transporte interestadual ou intermunicipal | alíquota do art. 60, §1º, não informada; mercadoria não destinada a comercialização ou industrialização; operação nas situações do art. 61, I a VI |
+
+- O destinatário que usa crédito indevido ou a maior **estorna** o crédito, sem prejuízo das sanções ao emitente (art. 62, parágrafo único).
+
+> [!quote]- Texto literal: Arts. 58 e 60 (Res. CGSN 140, p. 60–65)
+> Art. 58. A ME ou EPP optante pelo Simples Nacional não fará jus à apropriação nem transferirá créditos relativos a impostos ou contribuições abrangidos pelo Simples Nacional.
+>
+> § 1º As pessoas jurídicas e aquelas a elas equiparadas pela legislação tributária, não optantes pelo Simples Nacional, terão direito ao crédito correspondente ao ICMS incidente sobre as suas aquisições de mercadorias de ME ou EPP optante pelo Simples Nacional, desde que destinadas à comercialização ou à industrialização e observado, como limite, o ICMS efetivamente devido pelas optantes pelo Simples Nacional em relação a essas aquisições, aplicando-se o disposto nos arts. 60 a 62.
+>
+> § 2º Mediante deliberação exclusiva e unilateral dos Estados e do Distrito Federal, poderá ser concedido às pessoas jurídicas e àquelas a elas equiparadas pela legislação tributária, não optantes pelo Simples Nacional, crédito correspondente ao ICMS incidente sobre os insumos utilizados nas mercadorias adquiridas de indústria optante pelo Simples Nacional, sendo vedado o estabelecimento de diferenciação no valor do crédito em razão da procedência dessas mercadorias.
+>
+> § 3º As pessoas jurídicas sujeitas ao regime de apuração não cumulativa da Contribuição para o PIS/Pasep e da Cofins, observadas as vedações previstas e demais disposições da legislação aplicável, podem descontar créditos calculados em relação às aquisições de bens e serviços de pessoa jurídica optante pelo Simples Nacional.
+>
+> Art. 60. A ME ou a EPP optante pelo Simples Nacional que emitir nota fiscal com direito ao crédito estabelecido no § 1º do art. 58, consignará no campo destinado às informações complementares ou, em sua falta, no corpo da nota fiscal, a expressão: "PERMITE O APROVEITAMENTO DO CRÉDITO DE ICMS NO VALOR DE R$...; CORRESPONDENTE À ALÍQUOTA DE...%, NOS TERMOS DO ART. 23 DA LEI COMPLEMENTAR Nº 123, DE 2006".
+>
+> § 1º A alíquota aplicável ao cálculo do crédito a que se refere o caput, corresponderá ao percentual efetivo calculado com base na faixa de receita bruta no mercado interno a que a ME ou a EPP estiver sujeita no mês anterior ao da operação, mediante aplicação das alíquotas nominais constantes dos Anexos I ou II desta Resolução, da seguinte forma: {[(RBT12 × alíquota nominal) - (menos) Parcela a Deduzir]/RBT12} × Percentual de Distribuição do ICMS.
+>
+> § 2º Será considerada a média aritmética da receita bruta total dos meses que antecederem o mês anterior ao da operação, multiplicada por 12 (doze), na hipótese de a empresa ter iniciado suas atividades há menos de 13 (treze) meses da operação.
+>
+> § 3º O percentual de crédito de ICMS corresponderá a 1,36% (um inteiro e trinta e seis centésimos por cento) para revenda de mercadorias e 1,44% (um inteiro e quarenta e quatro centésimos por cento) para venda de produtos industrializados pelo contribuinte, na hipótese de a operação ocorrer nos 2 (dois) primeiros meses de início de atividade da ME ou da EPP optante pelo Simples Nacional.
+>
+> § 4º No caso de redução de ICMS concedida pelo Estado ou Distrito Federal nos termos do art. 35, esta será considerada no cálculo do percentual de crédito de que tratam os §§ 1º e 3º, conforme critério de concessão disposto na legislação do ente.
+>
+> § 5º Na hipótese de emissão de NF-e, o valor correspondente ao crédito e a alíquota referida no caput deste artigo deverão ser informados nos campos próprios do documento fiscal, conforme estabelecido em manual de especificações e critérios técnicos da NF-e, nos termos do Ajuste SINIEF que instituiu o referido documento eletrônico.
+
+> [!info]- Ponte
+> - [[P2 - Legislação Tributária Estadual (BA)#Simples Nacional na ótica estadual (LC 123/2006)]]: o crédito do adquirente não optante é o outro lado do ICMS estadual do optante; a nota registra ali a ADI 6.030 (ST e DIFAL).
+
+**Res. CGSN 140/2018: lucros distribuídos e CPP do Anexo IV** *(arts. 145 e 147, p. 133)*
+
+- São <mark>isentos</mark> do IR na fonte e na declaração de ajuste os valores efetivamente pagos ou distribuídos ao titular ou sócio da ME/EPP optante, <mark>salvo</mark> pró-labore, aluguéis ou serviços prestados. O limite é o resultado dos percentuais do art. 15 da Lei 9.249/95 sobre a receita bruta, <mark>subtraído</mark> o IRPJ devido no Simples; a regra não vale se a empresa mantém escrituração contábil e evidencia lucro superior ao limite; aplica-se ao MEI. *(art. 145, p. 133)*
+- A **CPP** fora do Simples Nacional é apurada na forma da norma específica da RFB, inclusive quando a empresa tem receitas do <mark>Anexo IV</mark>, isolada ou com receitas dos Anexos I, II, III ou V. *(art. 147, p. 133)*
+
+> [!quote]- Texto literal: Arts. 145 e 147 (Res. CGSN 140, p. 133)
+> Art. 145. Consideram-se isentos do imposto sobre a renda na fonte e na declaração de ajuste do beneficiário os valores efetivamente pagos ou distribuídos ao titular ou sócio da ME ou da EPP optante pelo Simples Nacional, salvo os que corresponderem a pró-labore, aluguéis ou serviços prestados.
+>
+> § 1º A isenção de que trata o caput fica limitada ao valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta mensal, no caso de antecipação de fonte, ou sobre a receita bruta total anual, no caso de declaração de ajuste, subtraído do valor devido no âmbito do Simples Nacional no período, relativo ao IRPJ.
+>
+> § 2º O disposto no § 1º não se aplica na hipótese de a ME ou a EPP manter escrituração contábil e evidenciar lucro superior àquele limite.
+>
+> § 3º O disposto neste artigo aplica-se ao MEI.
+>
+> Art. 147. A apuração do valor relativo à Contribuição para a Seguridade Social destinada à Previdência Social a cargo da pessoa jurídica, não incluído no âmbito do Simples Nacional, deverá ser realizada na forma prevista em norma específica da RFB.
+>
+> Parágrafo único. Aplica-se o disposto no caput na hipótese de a ME ou a EPP auferir receitas sujeitas ao Anexo IV desta Resolução, de forma isolada ou concomitantemente com receitas sujeitas aos Anexos I, II, III ou V desta Resolução.
+
+### Do Parcelamento (Res. CGSN 140, arts. 46 a 57)
+- [ ] status [dom:: 0] [peso:: 3]
+
+Condições gerais *(art. 46, p. 55–56)*:
+
+| Ponto | Regra |
+| --- | --- |
+| Prazo | até <mark>60 parcelas</mark> mensais e sucessivas |
+| Juros | <mark>Selic</mark> acumulada, do mês subsequente ao da consolidação até o mês anterior ao do pagamento, **mais 1%** no mês do pagamento |
+| Pedido deferido | <mark>confissão irretratável</mark> do débito e confissão extrajudicial |
+| Redução da multa de ofício (incisos II e IV do art. 6º da Lei 8.218/91) | <mark>40%</mark> se o pedido for feito em até 30 dias da notificação do lançamento; <mark>20%</mark> se em até 30 dias da notificação da decisão de 1ª instância |
+| Débito inscrito em dívida ativa | o devedor paga também custas, emolumentos e demais encargos |
+
+- Só se parcelam débitos <mark>já vencidos e constituídos</mark> na data do pedido (exceto multas de ofício vinculadas a débitos vencidos). *(§1º)*
+- ⚠️ Não se parcelam débitos com <mark>exigibilidade suspensa</mark> na forma do art. 151 do CTN. *(§2º)*
+- O AINF pode ser parcelado <mark>desde a lavratura</mark>, observado o §2º. *(§3º)* É <mark>vedado</mark> o parcelamento a quem tem falência decretada. *(§4º)*
+- **Não se aplica o parcelamento** *(art. 47, p. 56)*: às multas por descumprimento de obrigação acessória; à CPP da optante tributada nos Anexos IV e V até 31/12/2008 e no Anexo IV a partir de 1º/1/2009; aos demais tributos ou fatos geradores do art. 5º, inclusive os passíveis de retenção na fonte, desconto de terceiros ou sub-rogação. O PDF marca como cobrado: FGV 2023 (Q. 2590867). *(p. 56–57)*
+- **Quem concede e administra** *(art. 48, p. 57)*: a RFB (regra); a PGFN, para débitos inscritos em DAU; o Estado, o DF ou o Município, para ICMS/ISS transferidos por convênio (art. 139), lançados nos termos do art. 90-A ou devidos pelo MEI no Simei.
+- **RFB e PGFN** *(art. 54, p. 58)*: parcela mínima de <mark>R$ 300,00</mark> (o MEI tem valor mínimo fixado pelo órgão concedente); vencimento no <mark>último dia útil</mark> de cada mês; o Estado, DF ou Município, quando concedente, pode fixar valor mínimo e vencimento.
+- **Reparcelamento** *(art. 55, p. 59)*: admitido, com novos débitos e novo prazo dentro do limite de 60 parcelas; exige a 1ª parcela de <mark>10%</mark> do total consolidado, ou <mark>20%</mark> se houver histórico de reparcelamento anterior.
+- **Rescisão** *(art. 56, p. 60)*: falta de pagamento de <mark>3 parcelas</mark>, consecutivas ou não, ou saldo devedor após o vencimento da última; parcela parcialmente paga é inadimplente; a rescisão por descumprimento restabelece as multas proporcionalmente à receita não satisfeita.
+
+> [!quote]- Texto literal: Arts. 46, 47 e 56 (Res. CGSN 140, p. 55–60)
+> Art. 46. Os débitos apurados na forma prevista no Simples Nacional poderão ser parcelados, desde que respeitadas as disposições constantes desta Seção, observadas as seguintes condições:
+> I - o prazo máximo será de até 60 (sessenta) parcelas mensais e sucessivas;
+> II - o valor de cada parcela mensal, por ocasião do pagamento, será acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, acumulada mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento, e de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado;
+> III - o pedido de parcelamento deferido importa confissão irretratável do débito e configura confissão extrajudicial;
+> IV - serão aplicadas na consolidação as reduções das multas de lançamento de ofício previstas nos incisos II e IV do art. 6º da Lei nº 8.218, de 29 de agosto de 1991, nos seguintes percentuais:
+> a) 40% (quarenta por cento), se o sujeito passivo requerer o parcelamento no prazo de trinta dias, contado da data em que foi notificado do lançamento; ou
+> b) 20% (vinte por cento), se o sujeito passivo requerer o parcelamento no prazo de trinta dias, contado da data em que foi notificado da decisão administrativa de primeira instância; e
+> V - no caso de parcelamento de débito inscrito em dívida ativa, o devedor pagará custas, emolumentos e demais encargos legais.
+>
+> § 1º Somente serão parcelados débitos já vencidos e constituídos na data do pedido de parcelamento, excetuadas as multas de ofício vinculadas a débitos já vencidos, que poderão ser parceladas antes da data de vencimento.
+>
+> § 2º Somente poderão ser parcelados débitos que não se encontrem com exigibilidade suspensa na forma prevista no art. 151 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN).
+>
+> § 3º Os débitos constituídos por meio de Auto de Infração e Notificação Fiscal (AINF) de que trata o art. 87 poderão ser parcelados desde a sua lavratura, observado o disposto no § 2º.
+>
+> § 4º É vedada a concessão de parcelamento para sujeitos passivos com falência decretada.
+>
+> Art. 47. O parcelamento dos tributos apurados na forma prevista no Simples Nacional não se aplica:
+> I - às multas por descumprimento de obrigação acessória;
+> II - à CPP para a Seguridade Social para a empresa optante tributada com base:
+> a) nos Anexos IV e V, até 31 de dezembro de 2008; e
+> b) no Anexo IV, a partir de 1º de janeiro de 2009; e
+> III - aos demais tributos ou fatos geradores não abrangidos pelo Simples Nacional, previstos no art. 5º, inclusive aqueles passíveis de retenção na fonte, de desconto de terceiros ou de subrogação.
+>
+> Art. 56. Implicará rescisão do parcelamento:
+> I - a falta de pagamento de 3 (três) parcelas, consecutivas ou não; ou
+> II - a existência de saldo devedor, APÓS a data de vencimento da última parcela do parcelamento.
+>
+> § 1º É considerada inadimplente a parcela parcialmente paga.
+>
+> § 2º Rescindido o parcelamento, apurar-se-á o saldo devedor, providenciando-se, conforme o caso, o encaminhamento do débito para inscrição em dívida ativa ou o prosseguimento da cobrança, se já realizada aquela, inclusive quando em execução fiscal.
+>
+> § 3º A rescisão do parcelamento motivada pelo descumprimento das normas que o regulam implicará restabelecimento do montante das multas de que trata o inciso IV do art. 46 proporcionalmente ao valor da receita não satisfeita.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Suspensão do Crédito tributário]]: a nota registra que a adesão a parcelamento suspende a exigibilidade e interrompe a prescrição (REsp 1.922.063/PR); o art. 46, §2º, da Resolução proíbe parcelar débito cuja exigibilidade já esteja suspensa pelo art. 151 do CTN.
+> - [[P2 - Legislação Tributária Estadual (BA)#Dívida ativa, certidões, parcelamento e denúncia espontânea]]: o mesmo assunto pelo ângulo estadual.
+
+
+### Das Obrigações Acessórias (Res. CGSN 140, arts. 59 a 80)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Documentos fiscais** *(art. 59, p. 61–64)*: os autorizados pelos entes federados onde há estabelecimento ou os emitidos por sistema nacional informatizado, sem custo, quando disponível no Portal. Serviços sujeitos a ISS: Nota Fiscal de Serviços do Município/DF (§1º). A utilização exige a <mark>inutilização dos campos de base de cálculo e imposto destacado</mark> e as expressões "DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL" e "NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI" (§4º). Se o estabelecimento está <mark>impedido</mark> de recolher ICMS/ISS pelo Simples (sublimite, art. 12), <mark>não se inutilizam</mark> os campos e a expressão é outra (§5º).
+- **Vedação de exigências adicionais** *(art. 64, p. 67)*: RFB, Estados, DF e Municípios <mark>não podem</mark> instituir obrigações acessórias ou exigências adicionais e unilaterais além das previstas na Resolução e atendidas pelo Portal. Exceções do §1º: programas de cidadania fiscal, norma publicada até 31/3/2014, procedimento administrativo fiscal, SCANC e informações do Fundo de Combate à Pobreza.
+- **Escrituração fiscal digital** *(art. 65, p. 68–69)*: só pode ser exigida se as informações forem <mark>pré-escrituradas pelo ente</mark>, o programa for <mark>gratuito</mark> e houver <mark>dispensa de certificação digital</mark> (salvo art. 79). ⚠️ Exceção: se a EPP <mark>ultrapassou o sublimite</mark> do Estado/DF, o Sped pode ser exigido, em perfil que não exija apuração de tributos (art. 64, §4º, I; art. 65, §4º).
+- **Contabilidade** *(art. 71, p. 70)*: a ME/EPP <mark>pode</mark> adotar contabilidade simplificada; o empresário individual com receita bruta anual de até <mark>R$ 81.000,00</mark> tem a dispensa do art. 1.179, §2º, do Código Civil.
+- **Declaração Eletrônica de Serviços** *(art. 74, p. 71–72)*: obrigatória quando exigida pelo Município ou DF; o Município que adotou NFS-e deve adotar medidas para revogá-la (art. 64, §4º, II).
+- **Certificação digital** *(art. 79, p. 74)*: a ME/EPP <mark>poderá</mark> ser obrigada ao certificado para GFIP/FGTS/eSocial (empresa com empregado), documento fiscal eletrônico exigido por Confaz ou Município, informações de ICMS do art. 76 e informações sobre recursos no exterior; para as demais obrigações, códigos de acesso. Com até 1 empregado, o eSocial pode ser cumprido com código de acesso online.
+- **Registro dos valores a receber** *(regime de caixa)*: ver arts. 77 e 78 na seção "Dos Tributos e Contribuições".
+
+Defis *(art. 72, p. 70–71)*:
+
+| Situação | Prazo da Defis |
+| --- | --- |
+| Regra geral | até <mark>31 de março</mark> do ano-calendário subsequente ao dos fatos geradores |
+| Incorporação, cisão (total ou parcial), extinção ou fusão no <mark>1º quadrimestre</mark> | último dia do mês de <mark>junho</mark> |
+| Os mesmos eventos nos demais meses | último dia do <mark>mês subsequente</mark> ao do evento |
+| Ano-calendário de exclusão do Simples | até 31 de março, abrangendo os fatos geradores do período em que foi optante |
+
+- A Defis pode ser retificada <mark>sem prévia autorização</mark>, com a mesma natureza da original, observado o parágrafo único do art. 138 do CTN; o direito de retificar se extingue em <mark>5 anos</mark> do 1º dia do exercício seguinte ao da declaração. Se a empresa fica inativa o ano todo, informa a inatividade na Defis (ausência de mutação patrimonial e de atividade operacional). *(§§4º, 7º a 9º)*
+
+> [!quote]- Texto literal: Art. 72 (Res. CGSN 140, p. 70–71)
+> Art. 72. A ME ou a EPP optante pelo Simples Nacional apresentará a Declaração de Informações Socioeconômicas e Fiscais (Defis).
+>
+> § 1º A Defis será entregue à RFB por meio de módulo do aplicativo PGDAS-D, até 31 de março do ano-calendário subsequente ao da ocorrência dos fatos geradores dos tributos previstos no Simples Nacional.
+>
+> § 2º Nas hipóteses em que a ME ou a EPP tenha sido incorporada, cindida, total ou parcialmente, extinta ou fundida, a Defis relativa à situação especial deverá ser entregue até:
+> I - o último dia do mês de junho, quando o evento ocorrer no primeiro quadrimestre do ano-calendário; ou
+> II - o último dia do mês subsequente ao do evento, nos demais casos.
+>
+> § 3º Em relação ao ano-calendário de exclusão da ME ou da EPP do Simples Nacional, esta deverá entregar a Defis abrangendo os fatos geradores ocorridos no período em que esteve na condição de optante, no prazo estabelecido no § 1º.
+>
+> § 4º A Defis poderá ser retificada independentemente de prévia autorização da administração tributária e terá a mesma natureza da declaração originariamente apresentada, observado o disposto no parágrafo único do art. 138 do CTN.
+>
+> § 5º As informações prestadas pelo contribuinte na Defis serão compartilhadas entre a RFB e os órgãos de fiscalização tributária dos Estados, do Distrito Federal e dos Municípios. (2025)
+>
+> § 6º A exigência da Defis não desobriga a prestação de informações relativas a terceiros.
+>
+> § 7º Na hipótese de a ME ou a EPP permanecer inativa durante todo o ano-calendário, deverá informar esta condição na Defis.
+>
+> § 8º Para efeito do disposto no § 7º, considera-se em situação de inatividade a ME ou a EPP que não apresente mutação patrimonial e atividade operacional durante todo o ano-calendário.
+>
+> § 9º O direito de a ME ou a EPP retificar as informações prestadas na Defis e na Declaração Única e Simplificada de Informações Socioeconômicas e Fiscais (DASN) extingue-se em 5 (cinco) anos contados a partir do 1º (primeiro) dia do exercício seguinte àquele ao qual se refere a declaração.
+>
+> § 10. Os documentos que fundamentaram a Defis deverão ser mantidos em boa ordem e guarda enquanto não decorrido o prazo decadencial e não prescritas eventuais ações que lhes sejam pertinentes. (2025)
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Administração Tributária;]]: onde a nota trata das obrigações acessórias e da fiscalização em geral; o art. 64 da Resolução limita o que os entes podem exigir do optante além do previsto.
+
+
+### Da Exclusão (Res. CGSN 140, arts. 81 a 84)
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Exclusão por comunicação** *(art. 81, p. 75–77)*:
+
+| Modalidade | Quando comunicar | Efeitos |
+| --- | --- | --- |
+| Por **opção** (I) | a qualquer tempo | <mark>1º de janeiro do próprio ano</mark>, se comunicada em janeiro; <mark>1º de janeiro do ano seguinte</mark>, nos demais meses |
+| **Excesso do limite geral** (II, "a"), mais de 20% | até o último dia útil do mês subsequente | a partir do <mark>mês subsequente</mark> ao do excesso |
+| Excesso do limite geral, até 20% | até o último dia útil de janeiro do ano seguinte | a partir do <mark>ano-calendário subsequente</mark> |
+| **Excesso no ano de início** (II, "b"), mais de 20% | até o último dia útil do mês subsequente | <mark>retroativos ao início de atividades</mark> |
+| Excesso no ano de início, até 20% | até o último dia útil de janeiro do ano seguinte | 1º de janeiro do ano-calendário subsequente |
+| **Vedação** dos incisos II a XIV, XVI a XXV e XXVII do art. 15 (II, "c") | até o último dia útil do mês subsequente | 1º dia do <mark>mês seguinte</mark> ao da vedação |
+| **Débito** com INSS ou Fazendas sem exigibilidade suspensa (II, "d") | até o último dia útil do mês subsequente | a partir do <mark>ano-calendário subsequente</mark> ao da comunicação |
+| Constatado que **já incorria em vedação no ingresso** (II, "e") | | <mark>desde a data da opção</mark> |
+
+- **Alteração no CNPJ** *(art. 82, p. 77)*: equivale à comunicação obrigatória de exclusão quando muda a natureza jurídica para S.A., comandita por ações, SCP ou estabelecimento de sociedade estrangeira; inclui atividade vedada, sócio pessoa jurídica ou sócio domiciliado no exterior; há cisão parcial; ou a empresa se extingue. Efeitos: 1º dia do mês seguinte à vedação (I a V) ou a data da extinção (VI).
+
+**Exclusão de ofício** *(arts. 83 e 84, p. 78–84)*
+
+- **Competência** *(art. 83)*: RFB; secretarias estaduais de administração tributária, segundo a localização do estabelecimento; Municípios, em prestação de serviços de sua competência. O ente que inicia o processo expede o **termo de exclusão** e dá ciência ao contribuinte (DTE-SN, art. 122).
+- O termo se torna efetivo após a <mark>decisão definitiva desfavorável</mark>, se houve impugnação, ou <mark>depois de vencido o prazo</mark>, se não houve; o ente registra a exclusão no Portal (§§3º a 5º), dispensado o registro na exclusão retroativa feita após a baixa no CNPJ (§6º).
+- O Município pode excluir por débitos ou cadastro irregular ainda que a empresa exerça só atividade fora da sua competência tributária; o Estado pode excluir mesmo sem estabelecimento em sua circunscrição, por débito estadual ou cadastro (§§7º e 8º).
+
+Efeitos da exclusão de ofício *(art. 84)*:
+
+| Hipótese | Efeitos |
+| --- | --- |
+| Falta de comunicação de exclusão obrigatória (I) | as datas do art. 81, II |
+| Escritório contábil que descumpriu o art. 6º, §8º (II) | mês subsequente ao do descumprimento |
+| Já incorria em vedação no ingresso, ou declaração inverídica do art. 6º, §4º, e do art. 8º, §3º, II (III) | data dos efeitos da opção |
+| Condutas do inciso IV: embaraço ou resistência à fiscalização; constituída por interpostas pessoas; práticas reiteradas de infração; inapta (Lei 9.430/96); contrabando ou descaminho; falta de ECD (com aporte de capital) ou de Livro Caixa; despesas pagas superiores em <mark>20%</mark> aos ingressos; compras superiores a <mark>80%</mark> dos ingressos; não emissão reiterada de documento fiscal; omissão reiterada de empregado na folha | <mark>a partir do próprio mês</mark> em que incorridas, com <mark>vedação de nova opção por 3 anos-calendário subsequentes</mark> |
+| Ausência ou irregularidade no cadastro fiscal (V) | 1º dia do mês seguinte à ocorrência |
+| Débito com INSS ou Fazendas sem exigibilidade suspensa (VI) | <mark>ano-calendário subsequente</mark> ao da ciência do termo de exclusão |
+
+- **Prazos** *(§§1º e 2º)*: nas hipóteses V e VI, a regularização em até <mark>90 dias</mark> da ciência da exclusão de ofício mantém a empresa optante; o prazo de 3 anos sobe para <mark>10 anos</mark> se houver artifício, ardil ou meio fraudulento para suprimir ou reduzir tributo.
+- **Retroativa com pagamento espontâneo** *(§4º)*: no caso do art. 3º, §2º, I (excesso superior a 20% no ano de início), paga-se a totalidade ou a diferença pelas normas gerais, acrescida <mark>apenas de juros de mora</mark>, se o pagamento for feito <mark>antes</mark> do início de procedimento de ofício.
+- **Prática reiterada** *(§6º)*: ocorrência, em 2 ou mais períodos de apuração, de idênticas infrações verificadas nos últimos <mark>5 anos-calendário</mark> e formalizadas por auto de infração ou notificação de lançamento; ou a <mark>segunda</mark> ocorrência, se houver fraude. Na omissão de receitas ou segregação indevida, a administração <mark>pode</mark>, a seu critério, caracterizá-la em procedimentos distintos (§8º).
+- Inciso XXV do art. 15: o titular ou sócio é considerado <mark>empregado</mark> (ou empregado doméstico) e a contratante fica sujeita a todas as obrigações da relação, inclusive tributárias e previdenciárias (§9º).
+
+> [!quote]- Texto literal: Arts. 81 e 84 (caput a §5º) (Res. CGSN 140, p. 75–82)
+> Art. 81. A exclusão do Simples Nacional, mediante comunicação da ME ou da EPP à RFB, em aplicativo disponibilizado no Portal do Simples Nacional, dar-se-á:
+> I - por opção, a qualquer tempo, produzindo efeitos:
+> a) a partir de 1º de janeiro do ano-calendário, se comunicada no próprio mês de janeiro; ou
+> b) a partir de 1º de janeiro do ano-calendário subsequente, se comunicada nos demais meses; ou
+> II - obrigatoriamente, quando:
+> a) a receita bruta acumulada ultrapassar um dos limites previstos no § 1º do art. 2º, hipótese em que a exclusão deverá ser comunicada:
+> 1. até o último dia útil do mês subsequente à ultrapassagem em mais de 20% (vinte por cento) de um desses limites, produzindo efeitos a partir do mês subsequente ao do excesso; ou
+> 2. até o último dia útil do mês de janeiro do ano-calendário subsequente, na hipótese de não ter ultrapassado em mais de 20% (vinte por cento) um desses limites, produzindo efeitos a partir do ano-calendário subsequente ao do excesso;
+> b) a receita bruta acumulada, no ano-calendário de início de atividade, ultrapassar um dos limites previstos no caput do art. 3º, hipótese em que a exclusão deverá ser comunicada:
+> 1. até o último dia útil do mês subsequente à ultrapassagem em mais de 20% (vinte por cento) de um desses limites, produzindo efeitos retroativamente ao início de atividades; ou
+> 2. até o último dia útil do mês de janeiro do ano-calendário subsequente, na hipótese de não ter ultrapassado em mais de 20% (vinte por cento) um desses limites, produzindo efeitos a partir de 1º de janeiro do ano-calendário subsequente;
+> c) incorrer nas hipóteses de vedação previstas nos incisos II a XIV, XVI a XXV e XXVII do art. 15, hipótese em que a exclusão: (2025)
+> 1. deverá ser comunicada até o último dia útil do mês subsequente ao da ocorrência da situação de vedação; e
+> 2. produzirá efeitos a partir do primeiro dia do mês seguinte ao da ocorrência da situação de vedação;
+> d) possuir débito com o Instituto Nacional do Seguro Social (INSS), ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa, hipótese em que a exclusão:
+> 1. deverá ser comunicada até o último dia útil do mês subsequente ao da situação de vedação; e
+> 2. produzirá efeitos a partir do ano-calendário subsequente ao da comunicação; ou
+> e) for constatado que, quando do ingresso no Simples Nacional, a ME ou a EPP incorria em alguma das vedações previstas no art. 15, hipótese em que a exclusão produzirá efeitos desde a data da opção.
+>
+> Parágrafo único. Na hipótese prevista na alínea "c" do inciso II do caput, deverão ser consideradas as disposições específicas relativas ao MEI, quando se tratar de ausência de inscrição ou de irregularidade em cadastro fiscal federal, municipal ou estadual, quando exigível.
+>
+> Art. 84. A exclusão de ofício da ME ou da EPP do Simples Nacional produzirá efeitos:
+> I - a partir das datas de efeitos previstas no inciso II do art. 81, quando verificada a falta de comunicação de exclusão obrigatória;
+> II - a partir do mês subsequente ao do descumprimento das obrigações a que se refere o § 8º do art. 6º, quando se tratar de escritórios de serviços contábeis;
+> III - a partir da data dos efeitos da opção pelo Simples Nacional, nas hipóteses em que:
+> a) for constatado que, quando do ingresso no Simples Nacional, a ME ou a EPP incorria em alguma das hipóteses de vedação previstas no art. 15; ou
+> b) for constatada declaração inverídica prestada nas hipóteses do § 4º do art. 6º e do inciso II do § 3º do art. 8º;
+> IV - a partir do próprio mês em que incorridas, hipótese em que a empresa ficará impedida de fazer nova opção pelo Simples Nacional nos 3 (três) anos-calendário subsequentes, nas seguintes hipóteses:
+> a) ter a empresa causado embaraço à fiscalização, caracterizado pela negativa não justificada de exibição de livros e documentos a que estiver obrigada, e não ter fornecido informações sobre bens, movimentação financeira, negócio ou atividade que estiver intimada a apresentar, e nas demais hipóteses que autorizam a requisição de auxílio da força pública;
+> b) ter a empresa resistido à fiscalização, caracterizada pela negativa de acesso ao estabelecimento, ao domicílio fiscal ou a qualquer outro local onde desenvolva suas atividades ou se encontrem bens de sua propriedade;
+> c) ter sido a empresa constituída por interpostas pessoas;
+> d) ter a empresa incorrido em práticas reiteradas de infração ao disposto na Lei Complementar nº 123, de 2006;
+> e) ter sido a empresa declarada inapta, na forma prevista na Lei nº 9.430, de 27 de dezembro de 1996, e alterações posteriores;
+> f) se a empresa comercializar mercadorias objeto de contrabando ou descaminho;
+> g) se for constatada:
+> 1. a falta de ECD para a ME e a EPP que receber aporte de capital na forma prevista nos arts. 61-A a 61-D da Lei Complementar nº 123, de 2006; ou
+> 2. a falta de escrituração do Livro Caixa ou a existência de escrituração do Livro Caixa que não permita a identificação da movimentação financeira, inclusive bancária, para a ME e a EPP que não receber o aporte de capital a que se refere o item 1;
+> h) se for constatado que durante o ano-calendário o valor das despesas pagas supera em 20% (vinte por cento) o valor de ingressos de recursos no mesmo período, excluído o ano de início de atividade;
+> i) se for constatado que durante o ano-calendário o valor das aquisições de mercadorias para comercialização ou industrialização, ressalvadas hipóteses justificadas de aumento de estoque, foi superior a 80% (oitenta por cento) dos ingressos de recursos no mesmo período, excluído o ano de início de atividade;
+> j) se for constatado que a empresa, de forma reiterada, não emite documento fiscal de venda ou prestação de serviço, observado o disposto nos arts. 59 a 61 e ressalvadas as prerrogativas do MEI nos termos da alínea "a" do inciso II do art. 106; e
+> k) se for constatado que a empresa, de forma reiterada, deixa de incluir na folha de pagamento ou em documento de informações exigido pela legislação previdenciária, trabalhista ou tributária, informações sobre o segurado empregado, o trabalhador avulso ou o contribuinte individual que lhe presta serviço;
+> V - a partir do primeiro dia do mês seguinte ao da ocorrência, na hipótese de ausência ou irregularidade no cadastro fiscal federal, municipal ou, quando exigível, estadual; e
+> VI - a partir do ano-calendário subsequente ao da ciência do termo de exclusão, se a empresa estiver em débito com o Instituto Nacional do Seguro Social (INSS), ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa.
+>
+> § 1º Na hipótese prevista nos incisos V e VI do caput, a comprovação da regularização do débito ou do cadastro fiscal, no prazo de até 90 (noventa) dias, contado da ciência da comunicação da exclusão de ofício, possibilitará a permanência da ME ou da EPP como optante pelo Simples Nacional. (2025)
+>
+> § 2º O prazo a que se refere o inciso IV do caput será elevado para 10 (dez) anos caso seja constatada a utilização de artifício, ardil ou qualquer outro meio fraudulento que induza ou mantenha a fiscalização em erro, com o fim de suprimir ou reduzir o pagamento de tributo apurável na forma do Simples Nacional.
+>
+> § 3º A ME ou a EPP excluída do Simples Nacional sujeitar-se-á, a partir do período em que se processarem os efeitos da exclusão, às normas de tributação aplicáveis às demais pessoas jurídicas.
+>
+> § 4º Para efeito do disposto no § 3º, nas hipóteses do inciso I do § 2º do art. 3º, a ME ou a EPP excluída do Simples Nacional ficará sujeita ao pagamento da totalidade ou diferença dos respectivos tributos, devidos em conformidade com as normas gerais de incidência, acrescidos apenas de juros de mora, quando efetuado ANTES do início de procedimento de ofício.
+>
+> § 5º Na hipótese das vedações de que tratam os incisos II a XIV, XVI a XXIII, XXV e XXVII do art. 15, uma vez que o motivo da exclusão deixe de existir, se houver a exclusão retroativa de ofício no caso do inciso I do caput, o efeito desta dar-se-á a partir do mês seguinte ao da ocorrência da situação impeditiva, limitado, porém, ao último dia do ano-calendário em que a referida situação deixou de existir. (2025)
+
+> [!tip]- Lupa: exclusão por comunicação × exclusão de ofício
+> **A ideia em uma frase:** quando a causa da exclusão é conhecida pela empresa, ela tem de comunicar no prazo e os efeitos seguem o art. 81; quando é o fisco que descobre, a exclusão é de ofício e os efeitos seguem o art. 84, que, se faltou comunicação obrigatória, manda usar as mesmas datas do art. 81.
+>
+> **Passo a passo:**
+> 1. Identifique o motivo: excesso de receita, vedação do art. 15, débito ou infração.
+> 2. Veja se era caso de comunicação obrigatória (art. 81, II) e em que prazo. Se a empresa comunicou, valem as datas do art. 81.
+> 3. Se não comunicou, o ente exclui de ofício: art. 83 (quem, termo, impugnação) e art. 84 (efeitos).
+> 4. Nas hipóteses V e VI do art. 84 (cadastro e débito), há 90 dias após a ciência para regularizar e permanecer.
+> 5. Nas condutas do art. 84, IV, a exclusão vale no próprio mês e a empresa fica 3 anos sem poder optar (10, se houve fraude).
+>
+> *Exemplo ilustrativo (sem lastro):* em março a empresa passa a ter sócio pessoa jurídica (vedação do art. 15, II). Deveria comunicar até o último dia útil de abril, e os efeitos seriam a partir de 1º de abril (art. 81, II, "c").
+>
+> **O erro clássico:** trocar "ano-calendário subsequente" (débito, art. 81, II, "d", e art. 84, VI) por "mês seguinte" (vedações do art. 15); esquecer que as condutas do art. 84, IV, valem **no próprio mês** e bloqueiam nova opção por 3 anos; e achar que a impugnação nunca tem efeito: o termo só se torna efetivo depois da decisão definitiva desfavorável (art. 83, §3º).
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Responsabilidade Tributária]]: onde a nota trata da denúncia espontânea (art. 138 do CTN); o art. 84, §4º, admite só juros de mora se o pagamento for antes do início do procedimento de ofício.
+
+
+### Da Fiscalização e das Penalidades (Res. CGSN 140, arts. 85 a 99)
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Fiscalização** *(art. 85, p. 85–86)*
+
+- Competência: o **Município**, se o contribuinte de ISS tem estabelecimento no seu território ou nas exceções do art. 3º da LC 116; os **Estados e o DF**, se a PJ tem estabelecimento no seu território; a **União**, em qualquer hipótese.
+- A ação fiscal pode abranger <mark>todos os estabelecimentos</mark> e <mark>todos os tributos abrangidos pelo Simples</mark>, não só os do ente fiscalizador (§1º). Se há estabelecimento fora da circunscrição, comunica-se o outro ente pelo sistema eletrônico com <mark>pelo menos 10 dias ANTES</mark> do início da ação (§§2º e 3º).
+- Estados podem celebrar convênio com Municípios para a fiscalização (§4º), dispensado para ISS de prestação de serviços por estabelecimento no Município (§5º).
+- **Notificação prévia de autorregularização** (§§11 e 12): <mark>não constitui início de procedimento fiscal</mark> e estabelece prazo de regularização de até <mark>90 dias</mark>. O PDF marca como cobrado: FUNDATEC 2024 (Q. 2866346). *(p. 85)*
+
+**AINF e lançamento** *(arts. 87 a 92, p. 87–91)*
+
+- O **AINF** (Auto de Infração e Notificação Fiscal), emitido pelo **Sefisc**, é o <mark>documento único de autuação</mark> para inadimplemento de obrigação **principal**; para obrigações **acessórias** usam-se os documentos de cada ente (§2º). O AINF é lavrado <mark>sempre com o CNPJ da matriz</mark> e considera a receita de <mark>todos</mark> os estabelecimentos (§§3º e 4º). A competência para autuar obrigação acessória é <mark>privativa</mark> do ente perante o qual ela devia ser cumprida, e a multa é do ente autuante (§§5º a 7º). O PDF marca como cobrado: FGV 2023 (Q. 2590868). *(p. 87)*
+- ⚠️ Os débitos resultantes das informações da Defis, da DASN-Simei ou do PGDAS-D <mark>estão constituídos</mark>, sendo <mark>vedado o lançamento de ofício</mark>. *(§8º, redação de 2025)*
+- O valor do AINF é pago por **DAS** (art. 90).
+- **Presunções** *(art. 91)*: aplicam-se <mark>todas</mark> as presunções de omissão de receita da legislação dos tributos do Simples; a tributação prévia por estimativa não dispensa a apuração da base real nem a emissão de documento fiscal (salvo prerrogativas do MEI).
+- **Omissão de receita de origem não identificável**, com atividades de ICMS e ISS *(art. 92)*: autua-se pela <mark>maior das alíquotas</mark> da faixa de enquadramento entre as tabelas aplicáveis; se iguais, pela tabela com a maior alíquota na última faixa; a parte não federal é rateada entre Estados, DF e Municípios pelos percentuais de ICMS e ISS.
+
+**Infrações e multas** *(arts. 93 a 99, p. 91–95)*
+
+- Infração é toda ação ou omissão, <mark>voluntária ou involuntária</mark>, que importe inobservância das normas do Simples (art. 93). Agravam: sonegação, fraude, conluio e <mark>reincidência</mark> (nova ação ou omissão em até 2 anos do ato de lançamento). Também há infração na omissão de receitas, na diferença de base de cálculo e na insuficiência de recolhimento (art. 94). Aplicam-se os juros e multas de mora e de ofício do imposto sobre a renda (art. 95).
+
+Multas por descumprimento de obrigação principal *(art. 96, sobre a totalidade ou diferença do tributo)*:
+
+| Multa | Hipótese |
+| --- | --- |
+| <mark>75%</mark> | falta de pagamento ou recolhimento |
+| <mark>100%</mark> | falta de pagamento mediante sonegação, fraude ou conluio |
+| <mark>112,5%</mark> | falta de pagamento e não atendimento de intimação para prestar esclarecimentos ou apresentar arquivos e documentação técnica |
+| <mark>150%</mark> | sonegação, fraude ou conluio **e** não atendimento da intimação (cumulativos), ou reincidência em sonegação, fraude e conluio |
+| <mark>225%</mark> | reincidência em sonegação, fraude e conluio **e** não atendimento da intimação (cumulativos) |
+
+- **Reduções** *(§1º)*: <mark>50%</mark> se o pagamento é feito em 30 dias da notificação do lançamento; <mark>30%</mark> se em 30 dias da decisão de 1ª instância ou do recurso de ofício. A **qualificação** (100%, 150% e 225%) **não se aplica** se não estiver configurada e comprovada a conduta dolosa, ou se houver sentença penal de absolvição com apreciação de mérito (§2º).
+
+Multas por declaração e comunicação *(arts. 97-A, 98 e 99)*:
+
+| Infração | Multa | Mínimo |
+| --- | --- | --- |
+| **Defis** não entregue ou entregue fora do prazo | <mark>2% ao mês-calendário ou fração</mark> sobre os tributos informados, limitada a <mark>20%</mark> | R$ 200,00 |
+| Defis com incorreções ou omissões | R$ 100,00 por grupo de 10 informações | R$ 200,00 |
+| **PGDAS-D** ausente ou fora do prazo (por mês de referência) | <mark>2% ao mês-calendário ou fração</mark>, limitada a <mark>20%</mark> | R$ 50,00 por mês |
+| PGDAS-D com incorreções ou omissões | R$ 20,00 por grupo de 10 informações | R$ 50,00 por mês |
+| **Falta de comunicação** obrigatória de exclusão (art. 99) | <mark>10%</mark> do total dos tributos do mês anterior ao início dos efeitos da exclusão | R$ 200,00, <mark>sem redução</mark> |
+
+- Nas multas de Defis e PGDAS-D: reduzidas à <mark>metade</mark> se a declaração é entregue após o prazo mas <mark>antes de qualquer procedimento de ofício</mark>, e a <mark>75%</mark> se entregue no prazo da intimação. A declaração que não atende às especificações do CGSN é considerada não entregue (intimação para nova entrega em 10 dias). *(arts. 97-A, §§2º e 4º; 98, §§3º a 5º)*
+
+> [!quote]- Texto literal: Arts. 92 e 96 (Res. CGSN 140, p. 91–93)
+> Art. 92. No caso em que a ME ou a EPP optante pelo Simples Nacional exerça atividades incluídas no campo de incidência do ICMS e do ISS e seja apurada omissão de receita de origem não identificável, a autuação será feita com utilização da maior das alíquotas relativas à faixa de receita bruta de enquadramento do contribuinte, dentre as tabelas aplicáveis às respectivas atividades.
+>
+> § 1º Na hipótese de as alíquotas das tabelas aplicáveis serem iguais, será utilizada a tabela que tiver a maior alíquota na última faixa, para definir a alíquota a que se refere o caput.
+>
+> § 2º A parcela autuada que não seja correspondente aos tributos federais será rateada entre Estados, Distrito Federal e Municípios na proporção dos percentuais de ICMS e ISS relativos à faixa de receita bruta de enquadramento do contribuinte, dentre as tabelas aplicáveis.
+>
+> Art. 96. O descumprimento de obrigação principal devida no âmbito do Simples Nacional sujeita o infrator às seguintes multas:
+> I - 75% (setenta e cinco por cento) sobre a totalidade ou diferença do tributo, no caso de falta de pagamento ou recolhimento;
+> II - 100% (cem por cento) sobre a totalidade ou diferença do tributo, independentemente de outras penalidades administrativas ou criminais cabíveis, quando a falta de pagamento ou recolhimento ocorrer mediante sonegação, fraude ou conluio; (2023)
+> III - 112,50% (cento e doze e meio por cento) sobre a totalidade ou diferença do tributo, no caso de falta de pagamento ou recolhimento, nas hipóteses de não atendimento pelo sujeito passivo, no prazo fixado, de intimação para prestar esclarecimentos ou para apresentar arquivos ou documentação técnica referentes aos sistemas eletrônicos de processamento de dados utilizados para registrar negócios e atividades econômicas ou financeiras, escriturar livros ou elaborar documentos de natureza contábil ou fiscal; ou
+> IV - 150% (cento e cinquenta por cento) sobre a totalidade ou diferença do tributo, independentemente de outras penalidades administrativas ou criminais cabíveis, quando: (2023)
+> a) verificadas as seguintes condutas do sujeito passivo, de forma cumulativa:
+> 1. a falta de pagamento ou recolhimento mediante sonegação, fraude ou conluio; e
+> 2. não atendimento, no prazo fixado, de intimação para prestar esclarecimentos ou para apresentar arquivos ou documentação técnica referentes aos sistemas eletrônicos de processamento de dados utilizados para registrar negócios e atividades econômicas ou financeiras, escriturar livros ou elaborar documentos de natureza contábil ou fiscal; ou
+> b) o sujeito passivo reincidir em falta de pagamento ou recolhimento mediante sonegação, fraude e conluio; ou
+> V - 225% (duzentos e vinte e cinco por cento) sobre a totalidade ou diferença do tributo, independentemente de outras penalidades administrativas ou criminais cabíveis, quando o sujeito passivo, de forma cumulativa: (2023)
+> a) reincidir em falta de pagamento ou recolhimento mediante sonegação, fraude e conluio; e
+> b) não atender, no prazo fixado, a intimação para prestar esclarecimentos ou para apresentar arquivos ou documentação técnica referentes aos sistemas eletrônicos de processamento de dados utilizados para registrar negócios e atividades econômicas ou financeiras, escriturar livros ou elaborar documentos de natureza contábil ou fiscal.
+>
+> § 1º Aplicam-se às multas de que trata este artigo as seguintes reduções: (2023)
+> I - 50% (cinquenta por cento), na hipótese de o contribuinte efetuar o pagamento do débito no prazo de 30 (trinta) dias, contado da data em que tiver sido notificado do lançamento; ou
+> II - 30% (trinta por cento), na hipótese de o contribuinte efetuar o pagamento do débito no prazo de 30 (trinta) dias, contado da data em que tiver sido notificado:
+> a) da decisão administrativa de primeira instância à impugnação tempestiva; ou
+> b) da decisão do recurso de ofício interposto por autoridade julgadora de primeira instância; ou (2023)
+> III - previstas nas hipóteses constantes do inciso IV do caput do art. 46. (2023)
+>
+> § 2º A qualificação da multa prevista nos incisos II, IV e V do caput não se aplica quando: (2023)
+> I - não restar configurada, individualizada e comprovada a conduta dolosa de sonegação, fraude ou conluio; e
+> II - houver sentença penal de absolvição do sujeito passivo, com apreciação de mérito, em processo criminal que tenha por objeto a infração identificada pela administração tributária.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Fiscalização Tributária (arts. 194 a 200 do CTN)]]: onde a nota trata da fiscalização pelo CTN; no Simples a competência é dividida entre União, Estados, DF e Municípios e a ação pode alcançar todos os tributos do regime (art. 85, §1º).
+
+
+### Do MEI (Res. CGSN 140, arts. 100 a 120)
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Definição e limites** *(arts. 100 e 101, p. 95–100)*
+
+| Aspecto | MEI comum | Transportador autônomo de cargas |
+| --- | --- | --- |
+| Limite anual de receita bruta | <mark>R$ 81.000,00</mark> | <mark>R$ 251.600,00</mark> |
+| Início de atividade | R$ 6.750,00 × meses (fração conta como mês) | R$ 20.966,67 × meses |
+| Contribuição previdenciária (Simei) | <mark>5%</mark> do limite mínimo mensal do salário de contribuição | <mark>12%</mark> |
+| ICMS / ISS (se contribuinte) | R$ 1,00 / R$ 5,00 | R$ 1,00 / R$ 5,00 |
+
+- MEI é o empresário individual do art. 966 do Código Civil (ou o empreendedor) optante pelo Simples que exerce, de forma <mark>independente e exclusiva</mark>, apenas as ocupações do <mark>Anexo XI</mark>. É modalidade de microempresa (§5º).
+- ⚠️ É <mark>vedado</mark> ao MEI: ocupação fora do Anexo XI; mais de um estabelecimento; participar de outra empresa como titular, sócio ou administrador; constituir-se como startup; contratar <mark>mais de um empregado</mark>; cessão ou locação de mão de obra (§1º-C).
+- Não pode guardar, cumulativamente, com o contratante, relação de <mark>pessoalidade, subordinação e habitualidade</mark>, sob pena de exclusão do Simples (§4º). O **profissional-parceiro** conta como receita a **totalidade da cota-parte** recebida; o **salão-parceiro não pode ser MEI** (§§6º e 7º).
+- Se o transportador exerce ocupação permitida ao Simei fora da tabela B do Anexo XI, passam a valer os limites do caput e do §1º (MEI comum) e a contribuição de 5% (art. 101, I, "b") (§1º-B).
+
+**Simei** *(arts. 101 a 105, p. 99–106)*
+
+- O MEI paga, por DAS, <mark>valor fixo mensal</mark> independentemente da receita do mês, observados os limites do art. 100. A parcela de ICMS/ISS segue os dados do CNPJ.
+- **Opção** *(art. 102, p. 101)*: <mark>irretratável</mark> para todo o ano-calendário; para o já inscrito no CNPJ, no mês de janeiro, até o último dia útil, com efeitos em 1º de janeiro; para o empresário em início de atividade, simultânea à inscrição no CNPJ. Declara que não se enquadra nas vedações e que cabe nos limites.
+- **Não se aplicam ao MEI** *(art. 103, p. 102)*: valores fixos estaduais/municipais do art. 33; reduções do art. 35 e deduções na base; isenções específicas que abranjam integralmente até R$ 81 mil; <mark>retenção de ISS</mark> sobre os serviços prestados; <mark>condição de substituto tributário</mark>; reduções ou isenções de ICMS da cesta básica do art. 36.
+- **Isenção** dos tributos dos incisos I a V do art. 4º (IRPJ, IPI, CSLL, Cofins e PIS), observado o art. 5º e, quanto à CPP, o art. 105 (§2º). O tempo pago com a contribuição de 5% <mark>não conta</mark> para os fins do art. 55, §4º, e do art. 94, §2º, da Lei 8.213/91, salvo se houver complementação (§3º); a inadimplência da contribuição faz a competência em atraso <mark>não contar para carência</mark> (§5º).
+- **DAS** *(art. 104, p. 105)*: o PGMEI emite simultaneamente os DAS de todos os meses do ano; o pagamento segue o art. 40 (dia 20). Em calamidade pública aplica-se o art. 40-A.
+
+**Empregado do MEI** *(arts. 105 e 105-A, p. 105–106)*
+
+- O MEI pode ter <mark>um único empregado</mark> que receba exclusivamente <mark>1 salário mínimo</mark> ou o piso da categoria. Nesse caso, retém e recolhe a contribuição do segurado, presta as informações e recolhe a CPP à alíquota de <mark>3%</mark> sobre o salário de contribuição (§1º). No afastamento legal do empregado, pode contratar outro até cessar o afastamento (§2º).
+- Não entram no limite: horas extras, adicionais de insalubridade, periculosidade e trabalho noturno e demais direitos inerentes à jornada. ⚠️ <mark>Violam</mark> o limite: gratificações, gorjetas, percentagens, abonos e outras remunerações de caráter variável (§§3º e 4º).
+- Obrigações e FGTS pelo **eSocial**, com **DAE** pago até o <mark>dia 20</mark> do mês subsequente; FGTS de rescisão até o <mark>décimo dia</mark> após a rescisão. ⚠️ Sem expediente bancário, o DAE vence no <mark>dia útil imediatamente ANTERIOR</mark> (art. 105-A, §4º), ao contrário do DAS, que vai para o dia útil **posterior** (art. 40, §3º).
+
+**Documentos e declaração anual** *(arts. 106 a 109, p. 107–110)*
+
+- O MEI comprova a receita pelo **Relatório Mensal de Receitas Brutas** (Anexo X), preenchido até o dia 20 do mês seguinte. Fica **dispensado** de emitir documento fiscal nas vendas a consumidor final pessoa física e nas operações com mercadorias para destinatário inscrito no CNPJ que emita nota de entrada; fica **obrigado** nas prestações de serviços a tomador inscrito no CNPJ e nas operações com mercadorias para destinatário que não emita nota de entrada. O PDF marca como cobrado: FUNDATEC 2024 (Q. 2866350). *(art. 106, p. 107)*
+- Está dispensado da escrituração de livros fiscais e contábeis e da Declaração Eletrônica de Serviços (§1º). Para operações fora do ICMS usa a **NFS-e de padrão nacional**, emitida no Portal, sem certificação digital (art. 106-A, p. 108).
+- **DASN-Simei** *(art. 109, p. 109–110)*: entregue <mark>até o último dia de maio</mark> por quem optou pelo Simei no ano anterior, com receita bruta total, receita sujeita a ICMS e informação sobre empregado. Baixa no 1º quadrimestre: até o último dia de junho; demais casos: último dia do mês subsequente ao do evento. Tem caráter declaratório e constitui <mark>confissão de dívida</mark> (§7º). Retificação sem autorização prévia (§3º), com prazo de <mark>5 anos</mark> (§8º).
+- **Dispensas do MEI sem empregado** *(art. 108, p. 109)*: informação do art. 32, IV, da Lei 8.212/91 sobre a própria remuneração, RAIS e declaração à Caixa da ausência de fato gerador do FGTS.
+- **Prestação de serviços** *(arts. 112 e 113, p. 111)*: o MEI <mark>não pode</mark> ceder ou locar mão de obra (exclusão do Simples). A contratante de serviços de hidráulica, eletricidade, pintura, alvenaria, carpintaria e manutenção ou reparo de veículos por MEI recolhe a CPP na forma do art. 22, III e §1º, da Lei 8.212/91.
+
+**Desenquadramento do Simei** *(arts. 115 e 116, p. 112–115)*
+
+| Modalidade | Comunicação | Efeitos |
+| --- | --- | --- |
+| Por **opção** | qualquer tempo | 1º de janeiro do mesmo ano (comunicação em janeiro); 1º de janeiro do ano seguinte (demais meses); data de abertura do CNPJ (abertura e comunicação no mesmo janeiro) |
+| **Excesso até 20%** do limite | até o último dia útil do mês subsequente ao excesso | <mark>1º de janeiro do ano-calendário subsequente</mark> |
+| **Excesso acima de 20%** do limite anual | até o último dia útil do mês subsequente | <mark>retroativos a 1º de janeiro</mark> do ano em que verificado o excesso |
+| **Excesso acima de 20%** do limite proporcional (início de atividade) | até o último dia útil do mês subsequente | <mark>retroativos ao início de atividade</mark> |
+| Deixa de atender a **condição do art. 100** | até o último dia útil do mês subsequente | <mark>mês subsequente</mark> ao da ocorrência |
+| Ocupação **deixou de ser permitida** | até o último dia útil do mês em que verificado o impedimento | 1º dia do mês de início dos efeitos da alteração do Anexo XI |
+
+- ⚠️ O desenquadramento do Simei <mark>não implica exclusão do Simples Nacional</mark> (§1º); o contribuinte passa a recolher pela regra geral do Simples (§6º). Excluído também do Simples, segue a legislação dos demais contribuintes (§7º).
+- **Excesso até 20%**: recolhe a **diferença**, <mark>sem acréscimos</mark>, no vencimento do DAS de janeiro do ano seguinte (§8º). **Acima de 20%**: informa as receitas mensais efetivas no PGDAS-D e recolhe as diferenças <mark>com acréscimos legais</mark> na forma da legislação do IR (§9º).
+- A perda do tratamento dos documentos fiscais do art. 106 ocorre em 1º de janeiro do ano seguinte (excesso até 20%) ou no mês subsequente (excesso acima de 20%) (art. 116, parágrafo único).
+- **Multas**: falta de comunicação obrigatória do desenquadramento, R$ 50,00, sem redução (art. 117); DASN-Simei atrasada, 2% ao mês-calendário, limitada a 20%, mínimo de R$ 50,00, ou R$ 100,00 por grupo de 10 informações incorretas (art. 118). Estados, DF e Municípios podem conceder **remissão** dos débitos de ICMS e ISS fixos do MEI (art. 120).
+
+> [!quote]- Texto literal: Arts. 100 (caput a §1º-C), 101, 102 e 105 (Res. CGSN 140, p. 95–106)
+> Art. 100. Considera-se MEI, observado o disposto no § 1º-C, o empresário individual a que se refere o art. 966 do Código Civil ou o empreendedor, optante pelo Simples Nacional, que tenha auferido receita bruta anual acumulada nos anos-calendário anteriores e em curso de até R$ 81.000,00 (oitenta e um mil reais) e que exerça, de forma independente e exclusiva, apenas as ocupações constantes do Anexo XI, dentre as quais constarão: (2022)
+> I - REVOGADO (2022)
+> II - REVOGADO (2022)
+> III - REVOGADO (2022)
+> IV - REVOGADO (2022)
+> V - a comercialização e o processamento de produtos de natureza extrativista; e (2022)
+> VI - a industrialização, a comercialização e a prestação de serviços no âmbito rural. (2022)
+>
+> § 1º No caso de início de atividade, o limite de que trata o caput será de R$ 6.750,00 (seis mil setecentos e cinquenta reais) multiplicados pelo número de meses compreendidos entre o mês de início de atividade e o final do respectivo ano-calendário, considerada a fração de mês como mês completo.
+>
+> § 1º-A. Para fins do disposto no caput, aplicam-se os seguintes limites para o transportador autônomo de cargas inscrito como MEI, que tenha como ocupação profissional exclusiva o transporte rodoviário de cargas nos termos da tabela B do Anexo XI: (2022)
+> I - o limite da receita bruta será de R$ 251.600,00 (duzentos e cinquenta e um mil e seiscentos reais); e
+> II - no caso de início de atividade, o limite da receita bruta será de R$ 20.966,67 (vinte mil, novecentos e sessenta e seis reais e sessenta e sete centavos) multiplicados pelo número de meses compreendidos entre o mês de início da atividade e o final do respectivo ano-calendário, considerada a fração de mês como mês completo.
+>
+> § 1º-B. O exercício de qualquer ocupação permitida ao SIMEI e não prevista na tabela B do Anexo XI durante o ano calendário implicará a observância dos limites de que tratam o caput e o § 1º e do disposto na alínea "b" do inciso I do art. 101. (2022)
+>
+> § 1º-C. É vedado ao MEI: (2022)
+> I - exercer ocupação não prevista no Anexo XI;
+> II - possuir mais de um estabelecimento;
+> III - participar de outra empresa como titular, sócio ou administrador;
+> IV - constituir-se sob a forma de startup, ainda que sob o rito previsto no art. 65-A da Lei Complementar nº 123, de 2006; (2022)
+> V - contratar mais de um empregado, observado o disposto no art. 105; ou
+> VI - realizar cessão ou locação de mão de obra.
+>
+> Art. 101. O Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (Simei) é a forma pela qual o MEI pagará, por meio do DAS, independentemente da receita bruta por ele auferida no mês, observados os limites previstos no art. 100, valor fixo mensal correspondente à soma das seguintes parcelas:
+> I - contribuição para a Seguridade Social relativa à pessoa do empresário, na qualidade de contribuinte individual, na forma prevista no § 2º do art. 21 da Lei nº 8.212, de 1991, correspondente a: (2018)
+> a) até a competência abril de 2011: 11% (onze por cento) do limite mínimo mensal do salário de contribuição;
+> b) a partir da competência maio de 2011: 5% (cinco por cento) do limite mínimo mensal do salário de contribuição; e (2022)
+> c) a partir da competência abril de 2022, para o transportador autônomo de cargas a que se refere o § 1º-A do art. 100: 12% (doze por cento) do limite mínimo mensal do salário de contribuição; (2022)
+> II - R$ 1,00 (um real), a título de ICMS, caso seja contribuinte desse imposto;
+> III - R$ 5,00 (cinco reais), a título de ISS, caso seja contribuinte desse imposto.
+>
+> Art. 102. A opção pelo Simei:
+> I - será irretratável para todo o ano-calendário;
+> II - para o empresário individual já inscrito no CNPJ, deverá ser realizada no mês de janeiro, até seu último dia útil, e produzirá efeitos a partir do primeiro dia do ano-calendário da opção, por meio de aplicativo disponibilizado no Portal do Simples Nacional, ressalvado o disposto no § 1º.
+>
+> § 1º Para o empresário individual em início de atividade, a realização da opção pelo Simples Nacional e enquadramento no Simei será simultânea à inscrição no CNPJ, observadas as condições previstas neste Capítulo, quando utilizado o registro simplificado de que trata o § 1º do art. 4º da Lei Complementar nº 123, de 2006, caso em que não se aplica o disposto no art. 6º.
+>
+> § 2º No momento da opção pelo Simei, o MEI deverá declarar:
+> I - que não se enquadra nas vedações para ingresso no Simei;
+> II - que se enquadra nos limites previstos no art. 100.
+>
+> § 3º Enquanto não vencido o prazo para solicitação da opção pelo Simei de que trata o inciso II do caput, o contribuinte poderá:
+> I - regularizar eventuais pendências impeditivas do ingresso no Simei, sujeitando-se à rejeição da solicitação de opção caso não as regularize até o término desse prazo;
+> II - efetuar o cancelamento da solicitação de opção, salvo se já houver sido confirmada.
+>
+> Art. 105. O MEI poderá contratar um único empregado que receba exclusivamente 1 (um) salário mínimo previsto em lei federal ou estadual ou o piso salarial da categoria profissional, definido em lei federal ou por convenção coletiva da categoria.
+>
+> § 1º Na hipótese referida no caput, o MEI:
+> I - deverá reter e recolher a contribuição previdenciária devida pelo segurado a seu serviço, na forma estabelecida pela lei, observados prazo e condições estabelecidos pela RFB;
+> II - ficará obrigado a prestar informações relativas ao segurado a seu serviço, e deve cumprir o disposto no inciso IV do art. 32 da Lei nº 8.212, de 1991;
+> III - estará sujeito ao recolhimento da CPP para a Seguridade Social, a cargo da pessoa jurídica, de que trata o art. 22 da Lei nº 8.212, de 1991, calculada à alíquota de 3% (três por cento) sobre o salário de contribuição previsto no caput.
+>
+> § 2º Nos casos de afastamento legal do único empregado do MEI, será permitida a contratação de outro empregado, inclusive por prazo determinado, até que cessem as condições do afastamento, na forma estabelecida pelo Ministério do Trabalho e Emprego.
+>
+> § 3º Não se incluem no limite de que trata o caput valores recebidos a título de horas extras e adicionais de insalubridade, periculosidade e por trabalho noturno, bem como os relacionados aos demais direitos constitucionais do trabalhador decorrentes da atividade laboral, inerentes à jornada ou condições do trabalho, e que incidem sobre o salário.
+>
+> § 4º A percepção, pelo empregado, de valores a título de gratificações, gorjetas, percentagens, abonos e demais remunerações de caráter variável é considerada hipótese de descumprimento do limite de que trata o caput.
+
+> [!quote]- Texto literal: Art. 115 (caput a §2º, §§8º e 9º) (Res. CGSN 140, p. 112–115)
+> Art. 115. O desenquadramento do Simei será realizado de ofício pela autoridade administrativa ou mediante comunicação do contribuinte.
+>
+> § 1º O desenquadramento do Simei não implica a exclusão do contribuinte do Simples Nacional.
+>
+> § 2º O desenquadramento do Simei mediante comunicação do contribuinte à RFB, em aplicativo disponibilizado no Portal do Simples Nacional, dar-se-á:
+> I - por opção do contribuinte, caso em que o desenquadramento produzirá efeitos: (2019)
+> a) a partir de 1º de janeiro do ano-calendário, se a comunicação for feita no mês de janeiro;
+> b) a partir de 1º de janeiro do ano-calendário subsequente, se a comunicação for feita nos demais meses; ou
+> c) a partir da data de abertura constante do CNPJ, caso a abertura e a comunicação sejam efetuadas no mesmo mês de janeiro;
+> II - obrigatoriamente, quando o contribuinte:
+> a) auferir receita que exceda, no ano-calendário, o limite de receita bruta previsto no caput ou nos §§ 1º e 1º-A do art. 100, caso em que a comunicação deverá ser feita até o último dia útil do mês subsequente àquele em que verificado o excesso, e o desenquadramento produzirá efeitos: (2022)
+> 1. a partir de 1º de janeiro do ano-calendário subsequente àquele em que verificado o excesso, desde que este não tenha sido superior a 20% (vinte por cento) do limite previsto no caput ou nos §§ 1º e 1º-A do art. 100;
+> 2. retroativamente a 1º de janeiro do ano-calendário em que verificado o excesso, se este foi superior a 20% (vinte por cento) do limite previsto no caput ou no inciso I do § 1º-A do art. 100; e
+> 3. retroativamente ao início de atividade, se o excesso verificado tiver sido superior a 20% (vinte por cento) do limite previsto no § 1º ou no inciso II do § 1º-A do art. 100;
+> b) deixar de atender a qualquer das condições previstas no art. 100, caso em que a comunicação deverá ser feita até o último dia útil do mês subsequente àquele em que descumprida a condição, hipótese em que o desenquadramento produzirá efeitos a partir do mês subsequente ao da ocorrência do fato; ou (2019)
+> c) exercer ocupação que deixou de ser permitida ao MEI, caso em que a comunicação deverá ser feita até o último dia útil do mês em que verificado o impedimento, hipótese em que o desenquadramento ocorrerá a partir do 1º dia do mês de início da produção de efeitos das alterações do Anexo XI desta Resolução. (2019)
+>
+> § 8º Na hipótese de a receita bruta auferida no ano-calendário não exceder em mais de 20% (vinte por cento) os limites previstos no art. 100, conforme o caso, o contribuinte deverá recolher a diferença, sem acréscimos, na data do vencimento estipulado para o pagamento dos tributos abrangidos pelo Simples Nacional relativos ao mês de janeiro do ano-calendário subsequente, calculada mediante aplicação das alíquotas previstas nas tabelas dos Anexos I a V desta Resolução, observado, para inclusão dos percentuais relativos ao ICMS e ao ISS, a tabela constante do Anexo XI desta Resolução.
+>
+> § 9º Na hipótese de a receita bruta auferida no ano-calendário exceder em mais de 20% (vinte por cento) os limites previstos no art. 100, conforme o caso, o contribuinte deverá informar no PGDAS-D as receitas efetivas mensais, e recolher as diferenças relativas aos tributos com os acréscimos legais na forma prevista na legislação do Imposto sobre a Renda, sem prejuízo do disposto no § 7º.
+
+> [!tip]- Lupa: desenquadrar do Simei não é ser excluído do Simples
+> **A ideia em uma frase:** o Simei é só a forma de pagar valor fixo; sair dele em regra devolve o contribuinte à regra geral do Simples Nacional, e o tamanho do excesso de receita define quando e como se paga a diferença.
+>
+> **Passo a passo:**
+> 1. Compare a receita do ano com o limite (R$ 81 mil, ou o proporcional no início de atividade) e calcule 20% dele.
+> 2. Excesso **até 20%**: comunica até o último dia útil do mês seguinte ao excesso; efeitos em 1º de janeiro do ano seguinte; paga a diferença **sem acréscimos** no DAS de janeiro (art. 115, §8º).
+> 3. Excesso **acima de 20%**: comunica no mesmo prazo; efeitos **retroativos** (1º de janeiro do ano do excesso; no início de atividade, ao início); informa as receitas mensais no PGDAS-D e paga a diferença **com acréscimos** (§9º).
+> 4. Em ambos os casos o MEI continua no Simples pela regra geral, salvo se também for excluído (§§1º, 6º e 7º).
+>
+> *Exemplo ilustrativo (sem lastro):* MEI com limite de R$ 81.000,00; 20% é R$ 16.200,00, então o teto da faixa branda é R$ 97.200,00. Receita de R$ 90.000,00: desenquadramento em 1º de janeiro do ano seguinte e diferença paga sem acréscimos. Receita de R$ 100.000,00: efeitos retroativos a 1º de janeiro do ano do excesso, com juros e multa.
+>
+> **O erro clássico:** dizer que o excesso acima de 20% retroage sempre ao início de atividade (só retroage ao início quando o excesso é sobre o limite proporcional; para o limite anual é 1º de janeiro do ano do excesso); achar que desenquadrar do Simei é o mesmo que ser excluído do Simples (art. 115, §1º); e esquecer que o prazo de comunicação é o último dia útil do **mês seguinte** ao excesso.
+
+
+### Do Processo (Res. CGSN 140, arts. 121 a 141-G)
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Contencioso, DTE-SN e consulta** *(arts. 121 a 127, p. 117–120)*
+
+- **Contencioso administrativo** *(art. 121)*: cabe ao órgão julgador do <mark>ente que efetuar o lançamento, indeferir a opção ou excluir de ofício</mark>. Em omissão de receita de origem não identificável, com ICMS e ISS, o julgamento é do <mark>Estado do Município autuante</mark> (da União, se o lançamento foi da RFB). O Município pode, por convênio, transferir o julgamento ao Estado.
+- **DTE-SN** *(art. 122, p. 118)*: a opção pelo Simples implica <mark>aceitação do Domicílio Tributário Eletrônico</mark>, para ciência de atos administrativos (indeferimento, exclusão, ações fiscais), notificações, intimações e avisos. A comunicação é <mark>pessoal</mark>, dispensa publicação no DOU e envio postal, e considera-se realizada no dia em que o sujeito passivo consulta o teor (dia não útil: primeiro dia útil seguinte). Se não consultar em <mark>45 dias</mark> da disponibilização, considera-se realizada automaticamente na data do término do prazo (contagem a partir do dia seguinte; vencendo em dia não útil, prorroga para o dia útil posterior). Aplica-se ao MEI.
+- **Consulta** *(arts. 123 a 127)*: formulada pelo sujeito passivo de obrigação principal ou acessória; havendo mais de um estabelecimento, pela <mark>matriz</mark> (não se aplica se for ICMS ou ISS). Competem: Estado ou DF (ICMS), Município ou DF (ISS), Estado de Pernambuco (ISS em Fernando de Noronha) e RFB (demais tributos e questões gerais). Solucionada em <mark>instância única</mark>, sem recurso ou pedido de reconsideração, ressalvado o recurso de divergência previsto na legislação do ente (art. 126).
+
+**Restituição e compensação** *(arts. 128 a 132, p. 120–122)*
+
+- **Restituição**: pedido apresentado <mark>diretamente ao ente federado responsável</mark> pelo tributo de origem do crédito; o ente confere o crédito no Portal e registra o pedido para impedir duplicidade; os créditos <mark>poderão</mark> ser compensados de ofício com débitos perante a Fazenda do próprio ente (art. 130).
+- **Compensação** *(art. 131)*: por aplicativo do Portal; apenas para extinguir débitos perante o <mark>mesmo ente e do mesmo tributo</mark>; o crédito deve se referir a período com declaração já apropriada (DASN até 2011) ou <mark>apuração validada no PGDAS-D</mark> (a partir de 2012). Compensação indevida: acréscimos moratórios; se comprovada falsidade, <mark>multa isolada em dobro</mark> (150%, o dobro do percentual do art. 44, I, da Lei 9.430/96) sobre o débito indevidamente compensado. É vedado usar crédito não tributário ou não apurado no Simples, <mark>ceder</mark> créditos e usar créditos do Simples para outros débitos, salvo compensação de ofício em restituição deferida ou **após a exclusão** do Simples.
+- **Atualização** *(art. 132)*: Selic acumulada do mês seguinte ao pagamento indevido até o mês anterior ao da restituição ou compensação, <mark>mais 1%</mark> no mês em que efetuada; observam-se os prazos de decadência e prescrição do CTN.
+
+**Processos judiciais, dívida ativa e convênio** *(arts. 133 a 141, p. 122–126)*
+
+- **Legitimidade passiva** *(arts. 133 e 134, p. 123)*: as ações sobre ato do CGSN, sobre o Simples e sobre os tributos por ele abrangidos são propostas contra a <mark>União</mark>, representada pela <mark>PGFN</mark>. **Exceções** (art. 134): informações em mandado de segurança contra autoridade estadual/municipal; ações só sobre tributos estaduais ou municipais; ações na hipótese de convênio (art. 139); ações sobre crédito de AINF por obrigação acessória; ações sobre ICMS e ISS do MEI.
+- **Auxílio à PGFN** *(art. 136)*: Estados, DF e Municípios auxiliam <mark>independentemente de convênio</mark>, em prazo <mark>não inferior à terça parte</mark> do prazo judicial em curso.
+- **Dívida ativa** *(art. 138, p. 125)*: o crédito do Simples é apurado, inscrito em <mark>DAU</mark> e cobrado judicialmente pela <mark>PGFN</mark>, **exceto**: convênio; crédito de AINF por obrigação acessória; ICMS e ISS do Simei; ICMS e ISS lançados por Estado/DF/Município nos termos do art. 90-A. O pagamento dos tributos inscritos em DAU é feito por <mark>DAS</mark> (§5º).
+- **Convênio** *(arts. 139 e 140, p. 126)*: os entes manifestam interesse; o convênio implica <mark>delegação pela União</mark> da competência para inscrição, cobrança e defesa relativa ao ICMS ou ao ISS. **Legitimidade ativa** *(art. 141)*: à exceção da execução fiscal, Estados, DF e Municípios podem ajuizar ações contra a optante, independentemente do convênio.
+
+**Transação** *(arts. 141-A a 141-G, p. 126–131)*
+
+| Ponto | Regra |
+| --- | --- |
+| Objeto (art. 141-A) | créditos do Simples em contencioso administrativo ou judicial ou inscritos em dívida ativa, extintos por transação resolutiva de litígio; observa o art. 171 do CTN e a Lei 13.988/2020; <mark>não caracteriza renúncia de receita</mark> (art. 14 da LRF) |
+| Modalidades (art. 141-B) | proposta individual ou por adesão (DAU; dívida ativa de Estado, DF ou Município); adesão nos demais casos de contencioso; adesão no contencioso de pequeno valor |
+| Benefícios (art. 141-E, §1º) | descontos em <mark>multas, juros e encargos</mark> de créditos irrecuperáveis ou de difícil recuperação; prazos e formas especiais (diferimento, moratória); oferecimento, substituição ou alienação de garantias; uso de precatórios ou direito creditório transitado em julgado, só de créditos próprios do ente devedor do precatório; benefícios acumuláveis |
+| <mark>Vedações</mark> (art. 141-E, §3º) | reduzir o <mark>montante principal</mark>; reduzir <mark>mais de 70%</mark> do total dos créditos; prazo de quitação superior a <mark>145 meses</mark> |
+| Garantias | a impossibilidade material de prestar garantias <mark>não impede</mark> a transação (§2º-B) |
+| Pequeno valor (art. 141-G) | crédito de até <mark>60 salários mínimos</mark> apurado no Simples; desconto de até <mark>50%</mark> do total; prazo de até <mark>60 meses</mark>; por edital |
+
+- Quem propõe *(art. 141-E, I a III)*: PGFN (DAU); Estados, DF e Municípios (dívida ativa própria); no contencioso administrativo, o órgão de administração tributária do ente (art. 90-A) ou a RFB (créditos do AINF e demais hipóteses). A celebração compete à autoridade máxima do órgão em que proposta (§5º).
+
+> [!quote]- Texto literal: Arts. 126, 131, 141-E (§3º) e 141-G (§§1º e 2º) (Res. CGSN 140, p. 120–131)
+> Art. 126. A consulta será solucionada em instância única, e não caberá recurso nem pedido de reconsideração, ressalvado o recurso de divergência, caso previsto na legislação de cada ente federado.
+>
+> Art. 131. A compensação de valores apurados no âmbito do Simples Nacional, recolhidos indevidamente ou em montante superior ao devido, será realizada por meio de aplicativo disponibilizado no Portal do Simples Nacional, observadas as disposições desta Seção.
+>
+> § 1º Para fins do disposto no caput:
+> I - é permitida a compensação de créditos apenas para extinção de débitos perante o mesmo ente federado e relativos ao mesmo tributo; e
+> II - os créditos a serem compensados na forma prevista no inciso I devem se referir a período para o qual já tenha sido apropriada a respectiva DASN apresentada pelo contribuinte até o ano-calendário de 2011, ou já tenha sido validada a apuração por meio do PGDAS-D, a partir do ano-calendário de 2012.
+>
+> § 2º Os valores compensados indevidamente serão exigidos com os acréscimos moratórios previstos na legislação do imposto sobre a renda ou na legislação do ICMS ou do ISS do respectivo ente federado, conforme o caso.
+>
+> § 3º Na hipótese prevista no § 2º, caso se comprove falsidade de declaração apresentada pelo sujeito passivo, este estará sujeito à multa isolada calculada mediante aplicação, em dobro, do percentual previsto no inciso I do caput do art. 44 da Lei nº 9.430, de 1996, e terá como base de cálculo o valor total do débito indevidamente compensado.
+>
+> § 4º É vedado o aproveitamento de crédito de natureza não tributária e de crédito não apurado no âmbito do Simples Nacional para extinção de débitos no âmbito do Simples Nacional.
+>
+> § 5º Os créditos apurados no âmbito do Simples Nacional não poderão ser utilizados para extinção de outros débitos perante as Fazendas Públicas, salvo no caso da compensação de ofício decorrente de deferimento em processo de restituição ou APÓS a exclusão da empresa do Simples Nacional.
+>
+> § 6º É vedada a cessão de créditos para extinção de débitos no âmbito do Simples Nacional.
+>
+> § 7º Nas hipóteses previstas no § 5º, o ente federado registrará os dados referentes à compensação processada por meio do aplicativo específico do Simples Nacional, a fim de impedir a realização de novas compensações ou restituições do mesmo valor.
+>
+> § 3º É vedada a transação que: (2021)
+> I - reduza o montante principal do crédito, assim compreendido seu valor originário, excluídos os acréscimos de que trata o inciso I do § 1º deste artigo;
+> II - implique redução superior a 70% (setenta por cento) do valor total dos créditos a serem transacionados; ou
+> III - conceda prazo de quitação dos créditos superior a 145 (cento e quarenta e cinco) meses.
+>
+> § 1º Considera-se contencioso tributário de pequeno valor aquele cujo crédito tributário em discussão não supere 60 (sessenta) salários-mínimos e seja apurado no âmbito do Simples Nacional.
+>
+> § 2º A transação de que trata esta Seção poderá contemplar os seguintes benefícios:
+> I - concessão de descontos, observado o limite máximo de 50% (cinquenta por cento) do valor total do crédito;
+> II - oferecimento de prazos e formas de pagamento especiais, incluídos o diferimento e a moratória, obedecido o prazo máximo de quitação de 60 (sessenta) meses; e
+> III - oferecimento, substituição ou alienação de garantias e de constrições.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Restituição (arts. 165 a 169)]] e [[P2 - Direito Tributário#Extinção do Crédito tributário]]: onde a nota trata da restituição do indébito e das modalidades de extinção; no Simples a restituição é pedida ao ente titular do tributo e a compensação só vale para o mesmo ente e o mesmo tributo (arts. 130 e 131).
+> - [[P2 - Direito Tributário#Dívida Ativa Tributária (arts. 201 a 204 do CTN)]]: onde a nota trata da inscrição e da CDA; no Simples o crédito é inscrito em DAU e cobrado pela PGFN, salvo convênio (art. 138).
 
 ## Impostos Federais, Estaduais, Municipais
 

@@ -20,7 +20,13 @@ Fonte: [[MATERIAL/DIREITO TRIBUTÁRIO/Codigo_Tributario_Nacional_-_Lei_5172-1966
 
 ## Simples Nacional
 
-- [[P2 - Direito Tributário#Simples Nacional;|Simples Nacional (LC nº 123/2006)]] — disposições preliminares, definição de ME/EPP, inscrição e baixa, os 8 tributos unificados no DAS
+- [[P2 - Direito Tributário#Simples Nacional;|Simples Nacional (LC nº 123/2006)]] — disposições preliminares, definição de ME/EPP, inscrição e baixa, tributos e contribuições (abrangidos, sublimites, vedações, cálculo, ST, créditos, PGDAS-D)
+  - [[P2 - Direito Tributário#Do Parcelamento (Res. CGSN 140, arts. 46 a 57)|Parcelamento]] — 60 parcelas, Selic + 1%, art. 47, rescisão
+  - [[P2 - Direito Tributário#Das Obrigações Acessórias (Res. CGSN 140, arts. 59 a 80)|Obrigações acessórias]] — documentos fiscais, escrituração digital, Defis
+  - [[P2 - Direito Tributário#Da Exclusão (Res. CGSN 140, arts. 81 a 84)|Exclusão]] — por comunicação e de ofício, efeitos, 3 anos sem nova opção
+  - [[P2 - Direito Tributário#Da Fiscalização e das Penalidades (Res. CGSN 140, arts. 85 a 99)|Fiscalização e penalidades]] — AINF, presunções, multas de 75% a 225%
+  - [[P2 - Direito Tributário#Do MEI (Res. CGSN 140, arts. 100 a 120)|MEI]] — limites, Simei, empregado, DASN, desenquadramento
+  - [[P2 - Direito Tributário#Do Processo (Res. CGSN 140, arts. 121 a 141-G)|Processo]] — DTE-SN, consulta, restituição, compensação, dívida ativa, transação
 - [[P2 - Legislação Tributária Estadual (BA)#Simples Nacional na ótica estadual (LC 123/2006)|Simples Nacional na ótica estadual]] — ângulo específico da LTE (cabeçalho ainda sem conteúdo desenvolvido)
 - [[ERRO DIREITO TRIBUTÁRIO|Caderno de erros]] — vedações do art. 17 (banca FCC) e regime simplificado de exportação, art. 49-A (banca FGV)
 

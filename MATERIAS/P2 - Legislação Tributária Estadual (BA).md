@@ -611,6 +611,10 @@ ___
 **Jurisprudência (Resumo VINTEUM D. Tributário)**
 - É constitucional a incidência de **ST e do DIFAL** para ME e EPP optantes do Simples Nacional, por legítima opção do legislador de submetê-las a procedimento diverso do recolhimento por guia única (STF, Plenário, ADI 6.030/DF, 16/08/2024, Info 1146). — *Resumo Jurisp. Trib., p. 31*
 
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)]]: sublimites de ICMS e ISS, ST, valores fixos, crédito de ICMS na compra de optante e escrituração digital, segundo a Res. CGSN 140/2018, estão nesse heading do Direito Tributário.
+
 ### Benefícios fiscais estaduais, LC 24/75, CONFAZ e guerra fiscal
 - [ ] status [dom:: 0] [peso:: 3]
 

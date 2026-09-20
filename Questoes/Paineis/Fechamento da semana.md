@@ -56,47 +56,47 @@ A grade continua sendo o piso: o fechamento só decide o rodízio de S5, a ordem
 
 Cadernos dos últimos 30 dias abaixo de 70%: abaixo de 60% volta para releitura; entre os dois, nova bateria em 7 dias. O plano do dia já puxa isso **por tópico**, ao vivo (seção *Revisar*, mesmo corte) — esta tabela é o mapa da semana.
 
-| Data | Matéria | Assuntos | % | Ação |
-| --- | --- | --- | --- | --- |
-| 03/09 | Matematica Financeira | prestações nominalmente _crescentes_ ao longo do contrato; VPL; Um projeto pode ter mais de uma taxa interna de retorno se o fluxo de cai… | 37,5% | Releitura |
-| 19/09 | Contabilidade Pública | Conceitos, Objeto, Objetivos e Campo de Aplicação (Estrutura Conceitual - Prefácio e caps. 1 a 4); Variações Patrimoniais; Bases de Mensu… | 38,1% | Releitura |
-| 12/09 | Direito Constitucional | Questões Mescladas de Remédios Constitucionais; Jurisprudência dos Tribunais Superiores sobre Remédios Constitucionais; Jurisprudência do… | 40,0% | Releitura |
-| 12/09 | Contabilidade Pública | Redução ao Valor Recuperável (MCASP, NBC TSP 09 e 10); Depreciação, Amortização e Exaustão (NBC TSP 07, MCASP, etc.); Balanço Orçamentári… | 42,9% | Releitura |
-| 10/09 | Direito Tributário | Lei nº 6.830/1980 - Lei de Execução Fiscal | 44,4% | Releitura |
-| 12/09 | Penal | Moeda Falsa (art. 289 do CP); Falsificação de Documento Público (art. 297 do CP); Peculato (art. 312 do CP) | 45,0% | Releitura |
-| 04/09 | Contabilidade Pública | Balanço financeiro, orçamentario e patrimonial | 45,5% | Releitura |
-| 14/09 | Auditoria | Testes em Áreas Específicas das Demonstrações Contábeis | 46,7% | Releitura |
-| 06/09 | Legislação Tributária Estadual | Guia Prático da EFD-ICMS/IPI (Registros) | 50,0% | Releitura |
-| 07/09 | Língua Portuguesa | Sintaxe; Pontuação | 50,0% | Releitura |
-| 07/09 | TI - Desenvolvimento de Sistemas | Arquitetura em Camadas; Arquitetura de Microsserviços; Arquitetura Hexagonal | 50,0% | Releitura |
-| 07/09 | TI - Engenharia de Software | Engenharia de Requisitos; Testes de Software (conceitos e tipos) | 50,0% | Releitura |
-| 09/09 | Contabilidade de Custos | Margem de Contribuição; Ponto de Equilíbrio: Relação Custo/Volume/Resultado; Custeio Baseado em Atividades (ABC) | 50,0% | Releitura |
-| 14/09 | Contabilidade Pública | Patrimônio Público; Avaliação de Elementos Patrimoniais Conforme o art. 106 da Lei nº 4.320/1964; Bases de Mensuração de Ativos e Passivo… | 50,0% | Releitura |
-| 03/09 | Direito Civil | Pagamento indevido; Enriquecimento sem causa; Responsabilidade civil (hotel responsavel objetivo pelos hospedes) | 52,0% | Releitura |
-| 18/09 | Legislação Tributária Estadual | Lei Municipal nº 3.750/1971 - Código Tributário do Município de Santos | 52,2% | Releitura |
-| 06/09 | Auditoria | Auditoria Interna (Controle Interno) | 57,7% | Releitura |
-| 04/09 | Contabilidade Avançada | Tributos sobre lucros; CPC47 receita de contrato com clientes | 58,8% | Releitura |
-| 06/09 | Estatística | Números Índices | 60,0% | Refazer em 7d |
-| 10/09 | Fluência de Dados CD | Business Intelligence e Analytics; ETL (Extração, Transformação e Carga); Conceitos de Big Data | 60,0% | Refazer em 7d |
-| 06/09 | Direito Constitucional | Controle de Constitucionalidade; Normas Gerais de Finanças Públicas (arts. 163 e 164-A da CF/1988); Limitações do Poder de Tributar (arts… | 61,5% | Refazer em 7d |
-| 02/09 | Ciências De Dados | Sistemas de Aprendizado de Máquina; Machine Learning; Algoritmos | 62,5% | Refazer em 7d |
-| 06/09 | Contabilidade Geral | Patrimônio Líquido (Capital Social); CPC 15; CPC 23 | 62,9% | Refazer em 7d |
-| 14/09 | Direito Administrativo | Jurisprudência dos Tribunais Superiores sobre Administração Indireta; Jurisprudência dos Tribunais Superiores sobre Controle da Administr… | 63,2% | Refazer em 7d |
-| 11/09 | Reforma Tributária | Da Harmonização do IBS e da CBS (arts. 318 a 323 da LC nº 214/2025); Da Fiscalização e do Lançamento de Ofício (arts. 324 a 341 da LC nº … | 63,6% | Refazer em 7d |
-| 12/09 | Língua Portuguesa | Concordância (Verbal e Nominal); Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc); Tipolog… | 63,6% | Refazer em 7d |
-| 06/09 | Direito Tributário | Lei nº 6.830/1980 | 65,0% | Refazer em 7d |
-| 04/09 | Auditoria | Planejamento de auditoria independente; testes e procedimentos de auditoria; Amostragem de auditoria | 65,4% | Refazer em 7d |
-| 01/09 | Contabilidade Avançada | ativo imobilizado; PL; CPC46 | 66,7% | Refazer em 7d |
-| 04/09 | Ciências De Dados | ITIL; **governança corporativa**; Planejamento estratégico de TI | 66,7% | Refazer em 7d |
-| 04/09 | Direito Administrativo | Lei anticorrupção; Improbidade administrativa; funcoes, cargos, empregos públicos | 66,7% | Refazer em 7d |
-| 06/09 | Tecnologia da Informação | ITIL (v4) | 66,7% | Refazer em 7d |
-| 07/09 | Contabilidade Geral | Investimentos Avaliados pelo Custo ou MEP (CPC 18); Balanço Patrimonial | 66,7% | Refazer em 7d |
-| 09/09 | Administração Geral | Introdução ao Processo de Planejamento (Diretrizes, Princípios, Características, Etapas, Níveis); Indicadores de Desempenho; Balanced Sco… | 66,7% | Refazer em 7d |
-| 06/09 | Reforma Tributária | Do Ressarcimento (arts. 39 e 40 da LC nº 214/2025); Devolução Personalizada do IBS e CBS (Cashback) e Cesta Básica Nacional (arts. 112-125) | 68,0% | Refazer em 7d |
-| 06/09 | Micro e Finanças Públicas | Monopólio; Concorrência Monopolística; Eficiência nas Trocas | 68,3% | Refazer em 7d |
-| 17/09 | Raciocínio Lógico | Proposições: Definição, Reconhecimento, Princípios Lógicos; Tabela Verdade das Proposições Compostas; Diagramas Lógicos, Proposições Cate… | 68,8% | Refazer em 7d |
-| 17/09 | Direito Tributário | Vigência e Aplicação da Legislação Tributária (arts. 101 a 106 do CTN); Interpretação e Integração da Legislação Tributária (arts. 107 a … | 69,0% | Refazer em 7d |
-| 06/09 | Fluência de Dados CD | Conceitos Gerais de Machine Learning | 69,4% | Refazer em 7d |
+| Data  | Matéria                          | Assuntos                                                                                                                                    | %     | Ação          |
+| ----- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------- |
+| 03/09 | Matematica Financeira            | prestações nominalmente _crescentes_ ao longo do contrato; VPL; Um projeto pode ter mais de uma taxa interna de retorno se o fluxo de cai…  | 37,5% | Releitura     |
+| 19/09 | Contabilidade Pública            | Conceitos, Objeto, Objetivos e Campo de Aplicação (Estrutura Conceitual - Prefácio e caps. 1 a 4); Variações Patrimoniais; Bases de Mensu…  | 38,1% | Releitura     |
+| 12/09 | Direito Constitucional           | Questões Mescladas de Remédios Constitucionais; Jurisprudência dos Tribunais Superiores sobre Remédios Constitucionais; Jurisprudência do…  | 40,0% | Releitura     |
+| 12/09 | Contabilidade Pública            | Redução ao Valor Recuperável (MCASP, NBC TSP 09 e 10); Depreciação, Amortização e Exaustão (NBC TSP 07, MCASP, etc.); Balanço Orçamentári…  | 42,9% | Releitura     |
+| 10/09 | Direito Tributário               | Lei nº 6.830/1980 - Lei de Execução Fiscal                                                                                                  | 44,4% | Releitura     |
+| 12/09 | Penal                            | Moeda Falsa (art. 289 do CP); Falsificação de Documento Público (art. 297 do CP); Peculato (art. 312 do CP)                                 | 45,0% | Releitura     |
+| 04/09 | Contabilidade Pública            | Balanço financeiro, orçamentario e patrimonial                                                                                              | 45,5% | Releitura     |
+| 14/09 | Auditoria                        | Testes em Áreas Específicas das Demonstrações Contábeis                                                                                     | 46,7% | Releitura     |
+| 06/09 | Legislação Tributária Estadual   | Guia Prático da EFD-ICMS/IPI (Registros)                                                                                                    | 50,0% | Releitura     |
+| 07/09 | Língua Portuguesa                | Sintaxe; Pontuação                                                                                                                          | 50,0% | Releitura     |
+| 07/09 | TI - Desenvolvimento de Sistemas | Arquitetura em Camadas; Arquitetura de Microsserviços; Arquitetura Hexagonal                                                                | 50,0% | Releitura     |
+| 07/09 | TI - Engenharia de Software      | Engenharia de Requisitos; Testes de Software (conceitos e tipos)                                                                            | 50,0% | Releitura     |
+| 09/09 | Contabilidade de Custos          | Margem de Contribuição; Ponto de Equilíbrio: Relação Custo/Volume/Resultado; Custeio Baseado em Atividades (ABC)                            | 50,0% | Releitura     |
+| 14/09 | Contabilidade Pública            | Patrimônio Público; Avaliação de Elementos Patrimoniais Conforme o art. 106 da Lei nº 4.320/1964; Bases de Mensuração de Ativos e Passivo…  | 50,0% | Releitura     |
+| 03/09 | Direito Civil                    | Pagamento indevido; Enriquecimento sem causa; Responsabilidade civil (hotel responsavel objetivo pelos hospedes)                            | 52,0% | Releitura     |
+| 18/09 | Legislação Tributária Estadual   | Lei Municipal nº 3.750/1971 - Código Tributário do Município de Santos                                                                      | 52,2% | Releitura     |
+| 06/09 | Auditoria                        | Auditoria Interna (Controle Interno)                                                                                                        | 57,7% | Releitura     |
+| 04/09 | Contabilidade Avançada           | Tributos sobre lucros; CPC47 receita de contrato com clientes                                                                               | 58,8% | Releitura     |
+| 06/09 | Estatística                      | Números Índices                                                                                                                             | 60,0% | Refazer em 7d |
+| 10/09 | Fluência de Dados CD             | Business Intelligence e Analytics; ETL (Extração, Transformação e Carga); Conceitos de Big Data                                             | 60,0% | Refazer em 7d |
+| 06/09 | Direito Constitucional           | Controle de Constitucionalidade; Normas Gerais de Finanças Públicas (arts. 163 e 164-A da CF/1988); Limitações do Poder de Tributar (arts…  | 61,5% | Refazer em 7d |
+| 02/09 | Ciências De Dados                | Sistemas de Aprendizado de Máquina; Machine Learning; Algoritmos                                                                            | 62,5% | Refazer em 7d |
+| 06/09 | Contabilidade Geral              | Patrimônio Líquido (Capital Social); CPC 15; CPC 23                                                                                         | 62,9% | Refazer em 7d |
+| 14/09 | Direito Administrativo           | Jurisprudência dos Tribunais Superiores sobre Administração Indireta; Jurisprudência dos Tribunais Superiores sobre Controle da Administr…  | 63,2% | Refazer em 7d |
+| 11/09 | Reforma Tributária               | Da Harmonização do IBS e da CBS (arts. 318 a 323 da LC nº 214/2025); Da Fiscalização e do Lançamento de Ofício (arts. 324 a 341 da LC nº …  | 63,6% | Refazer em 7d |
+| 12/09 | Língua Portuguesa                | Concordância (Verbal e Nominal); Coerência. Coesão (Anáfora, Catáfora, Uso dos Conectores - Pronomes Relativos, Conjunções, etc); Tipolog…  | 63,6% | Refazer em 7d |
+| 06/09 | Direito Tributário               | Lei nº 6.830/1980                                                                                                                           | 65,0% | Refazer em 7d |
+| 04/09 | Auditoria                        | Planejamento de auditoria independente; testes e procedimentos de auditoria; Amostragem de auditoria                                        | 65,4% | Refazer em 7d |
+| 01/09 | Contabilidade Avançada           | ativo imobilizado; PL; CPC46                                                                                                                | 66,7% | Refazer em 7d |
+| 04/09 | Ciências De Dados                | ITIL; **governança corporativa**; Planejamento estratégico de TI                                                                            | 66,7% | Refazer em 7d |
+| 04/09 | Direito Administrativo           | Lei anticorrupção; Improbidade administrativa; funcoes, cargos, empregos públicos                                                           | 66,7% | Refazer em 7d |
+| 06/09 | Tecnologia da Informação         | ITIL (v4)                                                                                                                                   | 66,7% | Refazer em 7d |
+| 07/09 | Contabilidade Geral              | Investimentos Avaliados pelo Custo ou MEP (CPC 18); Balanço Patrimonial                                                                     | 66,7% | Refazer em 7d |
+| 09/09 | Administração Geral              | Introdução ao Processo de Planejamento (Diretrizes, Princípios, Características, Etapas, Níveis); Indicadores de Desempenho; Balanced Sco…  | 66,7% | Refazer em 7d |
+| 06/09 | Reforma Tributária               | Do Ressarcimento (arts. 39 e 40 da LC nº 214/2025); Devolução Personalizada do IBS e CBS (Cashback) e Cesta Básica Nacional (arts. 112-125) | 68,0% | Refazer em 7d |
+| 06/09 | Micro e Finanças Públicas        | Monopólio; Concorrência Monopolística; Eficiência nas Trocas                                                                                | 68,3% | Refazer em 7d |
+| 17/09 | Raciocínio Lógico                | Proposições: Definição, Reconhecimento, Princípios Lógicos; Tabela Verdade das Proposições Compostas; Diagramas Lógicos, Proposições Cate…  | 68,8% | Refazer em 7d |
+| 17/09 | Direito Tributário               | Vigência e Aplicação da Legislação Tributária (arts. 101 a 106 do CTN); Interpretação e Integração da Legislação Tributária (arts. 107 a …  | 69,0% | Refazer em 7d |
+| 06/09 | Fluência de Dados CD             | Conceitos Gerais de Machine Learning                                                                                                        | 69,4% | Refazer em 7d |
 
 ## Ordem das notas dentro do slot
 
