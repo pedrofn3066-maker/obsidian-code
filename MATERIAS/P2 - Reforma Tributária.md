@@ -432,6 +432,19 @@ Uma única lei complementar institui IBS e CBS — LC nº 214/2025, promulgada e
 
 Mecânica da distribuição: (+) total arrecadado de IBS no período (-) reserva para saldo credor/ressarcimento das empresas (-) reserva para cashback da população (=) saldo distribuído a Estados e Municípios.
 
+## Neutralidade e definições (LC 214, arts. 2º e 3º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> [!info]- Sinalização do PDF
+> No resumo VINTEUM, os dispositivos alterados pela LC 227/26 aparecem em verde; esta nota não reproduz essa marcação dispositivo a dispositivo, conferir no PDF.
+
+- <mark>Princípio da neutralidade</mark> (art. 2º, IMPORTANTE): IBS e CBS devem evitar distorcer as decisões de consumo e de organização da atividade econômica, observadas as exceções da CF e da LC. *(Resumo LC 214 Tít. I, p. 7)*
+- **Operações com bens:** todas as que envolvam bens móveis ou imóveis, materiais ou imateriais, inclusive direitos. **Serviços:** todas as demais (art. 3º, I). *(Resumo LC 214 Tít. I, p. 7)*
+- **Fornecimento:** (a) entrega ou disponibilização de bem material; (b) instituição, transferência, cessão, concessão, licenciamento ou disponibilização de bem imaterial, inclusive direito; (c) prestação ou disponibilização de serviço (art. 3º, II). *(Resumo LC 214 Tít. I, p. 7)*
+- **Fornecedor:** PF ou PJ, residente ou domiciliado no País ou no exterior, que realiza o fornecimento. **Adquirente:** (a) obrigado ao pagamento ou a outra contraprestação; (b) nos pagamentos por conta e ordem ou em nome de terceiros, aquele por conta de quem decorre a obrigação. **Destinatário:** aquele a quem se fornece o bem ou serviço, <mark>podendo ser o próprio adquirente ou não</mark> (art. 3º, III a V). *(Resumo LC 214 Tít. I, p. 7–8)*
+- §1º: <mark>energias com valor econômico</mark> equiparam-se a bens materiais. §2º: incluem-se no conceito de fornecedor as **entidades sem personalidade jurídica** (sociedade em comum, sociedade em conta de participação, consórcio, condomínio e fundo de investimento). §3º: **locação, arrendamento e cessão temporária** do bem são operações com bens. *(Resumo LC 214 Tít. I, p. 8)*
+
+
 # BLOCO 2.  LC 214: Regra-Matriz de Incidência Tributária (RMIT)
 	Então, quanto às doações sem contraprestação em benefício do doador:
 - **Regra geral:** **Não incide IBS e CBS**
@@ -501,15 +514,359 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 **c) definição dos termos e condições; ou**
 **d) entrega.**  #flashcard 
 
+## Hipóteses de incidência: operação onerosa (art. 4º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> [!info]- Sinalização do PDF
+> No resumo VINTEUM, os dispositivos alterados pela LC 227/26 aparecem em verde; esta nota não reproduz essa marcação dispositivo a dispositivo, conferir no PDF.
+
+- **Regra:** IBS e CBS incidem sobre <mark>operações onerosas</mark> com bens ou com serviços. As não onerosas só são tributadas nas hipóteses expressamente previstas na LC (§1º). *(Resumo LC 214 Tít. I, p. 8)*
+- **Operação onerosa** (§2º): qualquer fornecimento <mark>com contraprestação</mark>, inclusive compra e venda, troca ou permuta, dação em pagamento e demais alienações; locação; licenciamento, concessão, cessão; mútuo oneroso; doação com contraprestação em benefício do doador; instituição onerosa de direitos reais; arrendamento, inclusive mercantil; prestação de serviços. *(Resumo LC 214 Tít. I, p. 8–9)*
+- **Irrelevantes** para caracterizar a operação (§3º, IMPORTANTE): o título jurídico pelo qual o bem está na posse do fornecedor; a espécie, tipo ou forma jurídica, a validade jurídica e os efeitos dos atos ou negócios; a obtenção de lucro; o cumprimento de exigências legais, regulamentares ou administrativas. *(Resumo LC 214 Tít. I, p. 9)*
+- §4º: incidem sobre <mark>qualquer operação</mark> do contribuinte, inclusive com **ativo não circulante** ou em **atividade econômica não habitual**. *(Resumo LC 214 Tít. I, p. 9)*
+- §5º: a incidência <mark>não altera a base de cálculo</mark> do ITCD nem do ITBI. §6º: a aquisição e o fornecimento, por PF contribuinte, de bens e serviços **não relacionados à sua atividade econômica** seguem as regras aplicáveis aos não contribuintes. *(Resumo LC 214 Tít. I, p. 9–10)*
+
+
+## Fornecimento não oneroso e partes relacionadas (art. 5º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> O inciso II (**brindes e bonificações**) e o §1º já estão acima, no texto colado do BLOCO 2. Aqui, o restante.
+
+- Incidem também sobre o **fornecimento não oneroso ou a valor inferior ao de mercado** (inciso I): (a) de bens e serviços **adquiridos** pelo contribuinte que tenham permitido crédito, para o próprio contribuinte PF, para PF sócia, acionista, administradora ou membro de conselho ou comitê, para empregados e para cônjuges, companheiros ou parentes até o 3º grau dessas pessoas; (b) de bens e serviços **produzidos ou prestados** pelo contribuinte para sócios, administradores, conselheiros e empregados, e para os cônjuges e parentes até o 3º grau; (c) demais hipóteses da LC. *(Resumo LC 214 Tít. I, p. 10)*
+- Inciso III: **transmissão** a sócio ou acionista que não seja contribuinte do regime regular, por devolução de capital, dividendos *in natura* ou de outra forma, de bens cuja aquisição permitiu crédito, inclusive na produção. Inciso IV: demais fornecimentos não onerosos ou a valor inferior ao de mercado por contribuinte a **parte relacionada**. *(Resumo LC 214 Tít. I, p. 10)*
+- §9º: o fornecimento das alíneas "a" e "b" é tributado em montante equivalente ao IBS e à CBS sobre o <mark>valor de mercado</mark>. §8º: as alíneas "a" e "b" não se aplicam a bens e serviços usados **preponderantemente na atividade econômica** do contribuinte (critérios do art. 57, §3º, IV e V). §10: o regulamento disporá sobre critérios simplificados e opcionais para a **utilização temporária** pelas PFs. *(Resumo LC 214 Tít. I, p. 13)*
+- **Partes relacionadas** (§2º): quando ao menos uma estiver sujeita à **influência**, direta ou indireta, que possa levar a termos e condições diferentes dos de partes não relacionadas em transações comparáveis. **Rol do §3º**, sem prejuízo de outras: controlador e controladas; coligadas; entidades das demonstrações consolidadas; entidades em que uma tenha direito a receber ao menos <mark>25%</mark> dos lucros ou dos ativos em liquidação da outra; entidades sob controle comum ou em que o mesmo sócio detenha <mark>20% ou mais</mark> do capital de cada; entidades em que os mesmos sócios (ou cônjuges e parentes até o 3º grau) detenham no mínimo <mark>20%</mark> do capital de cada; entidade e a PF cônjuge, companheiro ou parente até o 3º grau de conselheiro, diretor ou controlador. *(Resumo LC 214 Tít. I, p. 11–12)*
+- §4º: *entidade* compreende PF, PJ e entidades sem personalidade jurídica. **Controle** (§5º): (I) direitos que assegurem preponderância nas deliberações ou o poder de eleger ou destituir a maioria dos administradores; (II) participação em <mark>mais de 50%</mark> do capital social; (III) poder de administrar ou gerenciar. §6º: **coligada** é a que detém influência significativa (Lei 6.404/76, art. 243, §§ 1º, 4º e 5º). §7º: o regulamento **poderá flexibilizar** a verificação do valor de mercado entre partes relacionadas, se não houver vedação de crédito, em programas de conformidade fiscal. *(Resumo LC 214 Tít. I, p. 12–13)*
+
+
+## Não incidência: complementos (art. 6º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> O rol dos incisos I a XI já está no texto colado acima. Complementos:
+
+- Inciso **XII**: não incidem sobre as **contribuições associativas estatutárias**, de natureza não contraprestacional e destinadas à manutenção das associações civis sem fins econômicos que atendam ao art. 14 do CTN. *(Resumo LC 214 Tít. I, p. 14)*
+- Nos incisos **III, IV, VI e XI** vale a **ressalva do art. 5º, III** (transmissão a sócio não contribuinte de bens cuja aquisição gerou crédito). §1º: IBS e CBS incidem sobre o conjunto de atos ou negócios dos incisos III a VII que constituam, <mark>na essência, operação onerosa</mark> com bem ou serviço. *(Resumo LC 214 Tít. I, p. 14–15)*
+
+
+## Fornecimentos diversos na mesma operação e ordem dos institutos (arts. 7º e 7º-A)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 7º:** no fornecimento de bens e serviços diferentes na mesma operação, é <mark>obrigatória a especificação</mark> de cada fornecimento e do seu valor, **exceto** se: (I) todos tiverem o mesmo tratamento tributário; ou (II) algum for o **principal** e os demais **acessórios**, caso em que há fornecimento único, com o tratamento do principal. *(Resumo LC 214 Tít. I, p. 16)*
+- §1º: há tratamento distinto quando as regras diferem quanto a incidência, regimes de tributação, isenção, momento do fato gerador, local da operação, alíquota, sujeição passiva e não cumulatividade. §2º: **acessórios** são os que sejam condição ou meio para o fornecimento principal. §3º: cobrança unificada em desacordo: cada fornecimento é independente e a base de cada um é **arbitrada** (art. 13). *(Resumo LC 214 Tít. I, p. 16–17)*
+- **Art. 7º-A — ordem de aplicação** quando couber mais de um instituto à mesma operação: (I) redução a zero de alíquota; (II) suspensão com conversão em alíquota zero; (III) isenção; (IV) diferimento; (V) redução de alíquota distinta da do inciso I. *(Resumo LC 214 Tít. I, p. 17)*
+- Parágrafo único: mais de uma redução de alíquota na mesma operação: (I) **cumulação só com previsão expressa**; (II) sem previsão de cumulação, <mark>prevalece a maior redução</mark>. *(Resumo LC 214 Tít. I, p. 17)*
+
+
+## Imunidades (arts. 8º e 9º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 8º:** são imunes as **exportações** de bens e de serviços (Capítulo V do Título). *(Resumo LC 214 Tít. I, p. 17)*
+- **Art. 9º — fornecimentos imunes:** (I) realizados pela União, Estados, DF e Municípios; (II) por entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (III) por partidos políticos (com institutos e fundações), entidades sindicais dos trabalhadores e instituições de educação e de assistência social sem fins lucrativos; (IV) de **livros, jornais, periódicos e do papel** destinado à impressão; (V) de **fonogramas e videofonogramas musicais** produzidos no Brasil com obras de autores brasileiros e/ou interpretadas por artistas brasileiros, e seus suportes, **salvo na etapa de replicação industrial** de mídias ópticas de leitura a laser; (VI) de serviço de **comunicação de radiodifusão** sonora e de sons e imagens de recepção livre e gratuita; (VII) de **ouro**, quando definido em lei como ativo financeiro ou instrumento cambial. *(Resumo LC 214 Tít. I, p. 17–18)*
+- **§1º (inciso I):** extensiva às **autarquias e fundações** instituídas e mantidas pelo poder público e à **empresa pública prestadora de serviço postal**; compreende <mark>somente</mark> as operações ligadas às finalidades essenciais; <mark>não se aplica</mark> à exploração de atividades econômicas regidas pelas normas de empreendimentos privados nem às operações com contraprestação ou preço/tarifa pelo usuário; não exonera o promitente comprador de imóvel. *(Resumo LC 214 Tít. I, p. 18)*
+- §2º: **entidade religiosa e templo** = PJ de direito privado sem fins lucrativos que tem por objetivo professar a fé e praticar a religião; **organização assistencial e beneficente** = PJ sem fins lucrativos vinculada e mantida por entidade religiosa, que fornece bens e serviços de assistência social sem discriminação nem exigência aos assistidos. §3º: a imunidade do inciso III vale apenas para as PJs sem fins lucrativos que cumpram **cumulativamente** os requisitos do art. 14 do CTN. *(Resumo LC 214 Tít. I, p. 18)*
+- ⚠️ §4º: as imunidades dos incisos **I a III** <mark>não se aplicam às suas aquisições</mark> de bens materiais e imateriais, inclusive direitos, e de serviços. *(Resumo LC 214 Tít. I, p. 18)*
+
+
+## Momento de ocorrência do fato gerador (art. 10)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Regra (IMPORTANTE):** o fato gerador ocorre no momento do **fornecimento**, ainda que de execução continuada ou fracionada. *(Resumo LC 214 Tít. I, p. 19)*
+- **§1º — considera-se ocorrido o fornecimento** no momento: (I) do **início do transporte**, no serviço de transporte iniciado no País; (II) do **término do transporte**, no transporte de carga iniciado no exterior; (III) do **término do fornecimento**, nos demais serviços; (IV) em que o bem for **encontrado** desacobertado de documentação fiscal idônea; (V) da **aquisição do bem** em licitação pública de bem apreendido ou abandonado ou em leilão judicial. *(Resumo LC 214 Tít. I, p. 19)*
+- §2º: nas aquisições pela administração pública direta, autarquias e fundações sujeitas ao art. 473, o fato gerador ocorre no momento do <mark>pagamento</mark>. §3º: na execução continuada ou fracionada, ocorre na <mark>primeira</mark> entre: (I) exigibilidade da parte da contraprestação de cada pagamento; (II) pagamento da obrigação. *(Resumo LC 214 Tít. I, p. 20)*
+- **§4º — pagamento antes do fornecimento:** (I) a cada parcela paga, exigem-se **antecipações** (base = valor da parcela; alíquotas vigentes na emissão do DF-e do pagamento ou na data do pagamento, <mark>o que ocorrer primeiro</mark>), lançadas como débitos na apuração; (II) na data do fornecimento, calculam-se os valores **definitivos** (base = valor total, incluindo as parcelas antecipadas; alíquotas vigentes na data do fornecimento). Antecipação menor que o definitivo: a diferença vira débito; maior: aplicam-se as regras de pagamento indevido ou a maior. *(Resumo LC 214 Tít. I, p. 20)*
+- §5º: se não houver o fornecimento (inclusive por distrato), aplicam-se as regras do **cancelamento**. §6º: a extinção dos débitos do §4º permite ao adquirente **apropriar crédito** (arts. 47 a 57). §7º: o regulamento estabelecerá hipóteses em que, observado o prazo máximo de <mark>5 dias</mark> entre o pagamento antecipado e o fornecimento, as antecipações constem como débitos do período de apuração do fornecimento. *(Resumo LC 214 Tít. I, p. 20–21)*
+
+
+## Local da operação (art. 11)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> O §3º (domicílio principal) já está no texto colado acima. Aqui, os incisos e os demais parágrafos.
+
+| Operação | Local |
+| --- | --- |
+| I. Bem móvel material | entrega ou disponibilização ao destinatário |
+| II. Bem imóvel; bem móvel imaterial (direito) relacionado a imóvel; serviço físico sobre imóvel; administração e intermediação de imóvel | onde o imóvel estiver situado |
+| III. Serviço prestado fisicamente sobre PF ou fruído presencialmente por PF | local da prestação |
+| IV. Planejamento, organização e administração de feiras, congressos, espetáculos e congêneres | local do evento |
+| V. Serviço físico sobre bem móvel material; serviços portuários | local da prestação |
+| VI. Transporte de passageiros | local de **início** do transporte |
+| VII. Transporte de carga | local da entrega ou disponibilização ao destinatário constante do documento fiscal |
+| VIII. Exploração de via (tarifas, pedágios) | território de cada Município e Estado (ou DF), <mark>proporcionalmente à extensão</mark> da via explorada |
+| IX. Telefonia fixa e demais comunicações por cabos, fios, fibras | local de instalação do terminal |
+| X. Bem ou serviço não abrangido pelos demais | onerosa: domicílio principal do **adquirente** residente no País ou, se o adquirente não for residente, do **destinatário** residente; não onerosa: domicílio principal do **destinatário** residente |
+ *(Resumo LC 214 Tít. I, p. 21–23)*
+
+- **§1º:** (I) operação **não presencial**: local da entrega é o destino final indicado pelo adquirente, ao fornecedor (se o transporte é dele) ou ao terceiro responsável pelo transporte (se é do adquirente); (II) **veículo automotor** terrestre, aquático ou aéreo: domicílio principal do destinatário; (III) local onde se encontra o bem móvel material: aquisição em licitação de bem apreendido ou abandonado, leilão judicial, ou irregularidade por falta de documentação ou documentação inidônea. *(Resumo LC 214 Tít. I, p. 23)*
+- §2º: imóvel em mais de um Município: o **Município onde está a maior parte da área**. §4º: aquisições **centralizadas** por contribuinte do regime regular com mais de um estabelecimento e sem vedação de crédito: os serviços do inciso IX e a locação de bem móvel material são fornecidos no domicílio principal do adquirente, considerado o **estabelecimento matriz**. §5º: os serviços do inciso III prestados à distância, ainda que parcialmente, seguem o inciso X. §6º: se as informações do adquirente estiverem incorretas e resultarem em pagamento a menor, a diferença é exigida do **adquirente**, com acréscimos. *(Resumo LC 214 Tít. I, p. 24)*
+- **§7º — água, gás canalizado e energia elétrica:** para consumo, o local da entrega ou disponibilização; sem efetivo consumo (transmissão; geração, distribuição ou comercialização), o **estabelecimento principal do adquirente** (§4º). §9º: aquisição multilateral de energia: estabelecimento do agente na posição devedora da liquidação financeira apurada pela **CCEE**. §10: **transporte dutoviário de gás natural**: estabelecimento principal do fornecedor (contratação de capacidade de entrada) e do adquirente (capacidade de saída). §11: cessão de espaço para serviços publicitários segue o inciso X. *(Resumo LC 214 Tít. I, p. 25)*
+
+
+## Base de cálculo: complementos (arts. 12 e 13)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> A regra geral (art. 12, caput), parte do §1º, o §2º, IV e o parágrafo único do art. 13 já estão no texto colado acima. Aqui, o restante.
+
+- **Art. 12, §1º — o valor da operação compreende** o valor integral cobrado pelo fornecedor a qualquer título, inclusive: acréscimos por ajuste do valor; juros, multas, acréscimos e encargos; <mark>descontos condicionais</mark>; transporte cobrado como parte da operação (pelo próprio fornecedor ou por sua conta e ordem); tributos e preços públicos, inclusive tarifas, incidentes sobre a operação ou suportados pelo fornecedor (exceto os do §2º); demais importâncias, inclusive seguros e taxas. *(Resumo LC 214 Tít. I, p. 25–26)*
+- **§2º — não integram:** IBS e CBS incidentes; IPI; <mark>descontos incondicionais</mark>; reembolsos por conta e ordem de terceiros (documento em nome do terceiro); **de 1º/1/2026 a 31/12/2032**, o montante dos tributos dos arts. 155, II, 156, III, 195, I, "b" e IV, e do PIS/Pasep (art. 239); a **COSIP** (art. 149-A). *(Resumo LC 214 Tít. I, p. 26)*
+- §3º: **desconto incondicional** é a parcela redutora do preço que consta do documento fiscal e não depende de evento posterior, inclusive em programa de fidelidade concedido de forma não onerosa pelo fornecedor. §4º: a base é o **valor de mercado** quando faltar o valor da operação, for sem valor determinado, não representado em dinheiro, ou entre partes relacionadas (art. 5º, IV). *(Resumo LC 214 Tít. I, p. 26–27)*
+- §5º: valor em moeda estrangeira: taxa de câmbio apurada pelo Banco Central. §6º: **derivativos** fora das condições de mercado que ocultem o valor da operação: o ganho no derivativo <mark>compõe a base</mark>. §7º: devolução ou cancelamento: mesma base da operação original. §8º: transporte internacional de passageiros com ida e volta vendidas em conjunto: base = <mark>metade</mark> do valor cobrado. §9º: energia elétrica em aquisição multilateral: valor da liquidação financeira apurada pela CCEE, observada a participação proporcional dos estabelecimentos. *(Resumo LC 214 Tít. I, p. 27)*
+- **Art. 13 — o valor da operação é arbitrado** quando: (I) não exibidos à fiscalização os elementos que comprovem o valor (inclusive por perda, extravio, desaparecimento ou sinistro), nos casos de (a) operação sem documento fiscal ou com documentação inidônea ou (b) valor declarado notoriamente inferior ao de mercado; (II) em qualquer outra hipótese em que as declarações, informações ou documentos forem omissos, conflitantes ou não merecerem fé. *(Resumo LC 214 Tít. I, p. 27)*
+
+
+## Alíquotas padrão (arts. 14 a 17)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 14:** as alíquotas são fixadas por **lei específica de cada ente**: a União fixa a da **CBS**; cada Estado e cada Município fixam a do **IBS**; o **DF** exerce as competências estadual e municipal. §1º: **Pernambuco** exerce a competência municipal em **Fernando de Noronha** (ADCT, art. 15). *(Resumo LC 214 Tít. I, p. 28)*
+- §2º: ao fixar a alíquota, o ente pode (I) **vinculá-la** à alíquota de referência da sua esfera, com acréscimo ou decréscimo de pontos percentuais; ou (II) defini-la <mark>sem vinculação</mark>. §3º: sem lei específica, aplica-se a **alíquota de referência** da esfera federativa. *(Resumo LC 214 Tít. I, p. 28)*
+- **Art. 15:** a alíquota do IBS de cada operação é a **soma** da alíquota do Estado de destino e da do Município de destino, ou a do DF quando este for o destino. O destino é o local da operação (art. 11). *(Resumo LC 214 Tít. I, p. 28–29)*
+- **Art. 16:** a alíquota de cada ente é a <mark>mesma para todas as operações</mark>, ressalvadas as hipóteses da LC. Parágrafo único (redação do quadro verde da LC 227/26 no PDF): as reduções dos regimes diferenciados e **específicos** (Títulos IV e V) incidem sobre a alíquota de cada ente, ressalvados os casos de alíquota nacionalmente uniforme. **Art. 17:** na devolução ou cancelamento, a alíquota é a mesma da operação original. *(Resumo LC 214 Tít. I, p. 29)*
+
+> [!warning]- Pendência
+> O PDF, na p. 29, traz duas redações do parágrafo único do art. 16 (uma delas fora do quadro verde, citando só o Título IV). Registrei a do quadro verde; conferir na lei.
+
+
+## Alíquotas de referência (arts. 18 a 20)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 18:** fixadas por **resolução do Senado Federal**: para a **CBS**, de <mark>2027 a 2035</mark>; para o **IBS**, de <mark>2029 a 2035</mark>; para ambos, **após 2035**, as vigentes no ano anterior. *(Resumo LC 214 Tít. I, p. 29)*
+- **Art. 19:** qualquer alteração na legislação federal que reduza ou eleve a arrecadação do IBS ou da CBS (I) deve ser **compensada** pela elevação ou redução, pelo Senado, das alíquotas de referência, para preservar a arrecadação das esferas; (II) só entra em vigor com o início da produção de efeitos do ajuste. *(Resumo LC 214 Tít. I, p. 29–30)*
+- §1º: **devem ser consideradas** as alterações nos critérios de devolução geral (cashback), nos regimes diferenciados, específicos ou favorecidos (inclusive por avaliação quinquenal) e no regime favorecido do Simples e do MEI; **não são consideradas** as alterações na alíquota da CBS (art. 14, I e §2º) nem no montante da devolução específica da CBS a PF. O ajuste é por **resolução do Senado**, com cálculos do CGIBS e do Poder Executivo **homologados pelo TCU**, observadas a nonagesimal e, para o IBS, também a anterioridade anual. *(Resumo LC 214 Tít. I, p. 30)*
+- **§2º — rito e prazos:** (I) cálculos ao TCU em <mark>60 dias</mark> após a promulgação da lei (CGIBS se só o IBS; Executivo se só a CBS; ato conjunto se ambos); (II) TCU pode pedir ajustes em <mark>60 dias</mark>; (III) CGIBS e Executivo têm <mark>30 dias</mark> para ajustar; (IV) TCU decide em definitivo e envia ao Senado em <mark>30 dias</mark>; (V) Senado fixa o ajuste em <mark>30 dias</mark>. *(Resumo LC 214 Tít. I, p. 30–31)*
+- **Art. 20:** projetos de LC que reduzam ou aumentem a arrecadação só são apreciados com **estimativa de impacto** nas alíquotas de referência. §1º: elaborada (I) pelo Executivo nos projetos de sua iniciativa, com manifestação do CGIBS em até 30 dias; (II) pelo autor e relator, nos demais. §2º: Câmara, Senado ou comissões podem consultar Executivo, CGIBS ou TCU, que respondem em <mark>60 dias</mark>. *(Resumo LC 214 Tít. I, p. 31)*
+
+
+## Sujeição passiva: contribuintes e plataformas digitais (arts. 21 a 23)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> O conceito de **plataforma digital** (art. 22, §1º) já está no texto colado acima. Aqui, o restante.
+
+- **Art. 21 — é contribuinte:** (I) o **fornecedor** que realizar operações (a) no desenvolvimento de atividade econômica, (b) de modo habitual ou em volume que a caracterize, ou (c) de forma profissional, ainda que a profissão não seja regulamentada; (II) o **adquirente**, ainda que não enquadrado no inciso I, na aquisição de bem apreendido ou abandonado em licitação pública ou em leilão judicial; (III) o **importador**; (IV) quem a LC previr expressamente. *(Resumo LC 214 Tít. I, p. 32)*
+- §1º: o contribuinte é obrigado a se inscrever nos cadastros. §2º: o fornecedor no exterior deve se cadastrar como **contribuinte**, se realizar operações no País, ou como **responsável**, no caso de importações. §4º: na importação de bens materiais, o §2º só vale para remessas internacionais em **tributação simplificada** (art. 95). *(Resumo LC 214 Tít. I, p. 32–33)*
+- **Art. 22 — a plataforma digital, ainda que no exterior, é responsável** (I) **solidariamente com o adquirente ou destinatário e em substituição ao fornecedor**, se este for residente ou domiciliado no exterior; (II) **solidariamente com o fornecedor residente no País** se (a) não prestar as informações do §5º, (b) o fornecedor for contribuinte, ainda que não inscrito, e não emitir DF-e no valor da operação, ou (c) a operação não for registrada em DF-e. *(Resumo LC 214 Tít. I, p. 33)*
+- §2º (IMPORTANTE): **não é plataforma digital** quem executa **somente uma** destas atividades: acesso à internet; pagamentos por instituições autorizadas pelo Banco Central; publicidade; busca ou comparação de fornecedores, <mark>desde que não cobre com base nas vendas</mark>. §11: a plataforma **não responde** nas operações em que não controle nenhum dos elementos essenciais. §3º: o fornecedor no exterior é dispensado de inscrição se atua exclusivamente por plataforma inscrita no regime regular. *(Resumo LC 214 Tít. I, p. 33–35)*
+- §§4º a 7º: CGIBS e RFB informam à plataforma a condição de contribuinte do fornecedor não inscrito; a plataforma informa as operações ao CGIBS e à RFB e, se iniciar o pagamento, as informações para o **split payment**. §7º: a plataforma <mark>não responde pelas diferenças</mark> se o split for possível e ela apresentou as informações dos §§5º e 6º. §10: se responsável, é **solidária** pelos débitos do fornecedor residente inscrito; nos demais casos, calculam-se pelo **regime regular**. *(Resumo LC 214 Tít. I, p. 34–35)*
+- §§12 e 13: com anuência do fornecedor residente, a plataforma pode **optar** por emitir DF-e em seu nome e pagar o tributo ou por ser **substituta tributária** (emitir DF-e, apurar e pagar). §14: se a plataforma emitir o DF-e em até <mark>30 dias</mark> do prazo devido e pagar, os acréscimos e a penalidade recaem só sobre o fornecedor. §15: indisponível a informação sobre as regras do fornecedor, pode usar as **alíquotas de referência**; a diferença é paga pelo fornecedor (alíquota maior) ou devolvida (menor). *(Resumo LC 214 Tít. I, p. 35–36)*
+- **Art. 23:** a plataforma, inclusive a do exterior, deve se inscrever no regime regular. Se o fornecedor ou a plataforma no exterior **não** se inscrever: o IBS e a CBS são segregados e recolhidos, pelas **alíquotas de referência**, nas remessas, pela **instituição que realiza o câmbio**; a diferença é paga pelo adquirente ou importador (alíquota maior) ou devolvida (menor). *(Resumo LC 214 Tít. I, p. 36)*
+
+
+## Responsabilidade solidária (arts. 24 e 25)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 24 — são solidariamente responsáveis**, sem prejuízo do CTN e da legislação civil: (I) quem adquire, importa, recebe, dá entrada ou saída, mantém em depósito ou toma serviço **sem documento fiscal idôneo**; (II) o **transportador** (inclusive serviço postal ou entrega expressa) com bem desacobertado ou entregue em local distinto do documento; (III) o **leiloeiro**; (IV) **desenvolvedores de programas** com funções para descumprir a legislação; (V) quem concorra para o descumprimento por **ocultação** da operação ou do valor ou por **abuso da personalidade jurídica** (desvio de finalidade ou confusão patrimonial); (VI) entreposto aduaneiro, recinto alfandegado, depositário ou despachante em relação a bem enviado ao exterior sem documentação, recebido para exportação e não exportado, entregue a pessoa diversa da que importou ou arrematou, ou entregue sem autorização. *(Resumo LC 214 Tít. I, p. 37)*
+- §1º: a imunidade do art. 9º, §1º **não exime** a empresa pública prestadora de serviço postal da responsabilidade solidária do inciso II. §2º: a responsabilidade do inciso V, "a", **restringe-se ao valor ocultado** da operação. §3º: a **mera existência de grupo econômico**, sem ação ou omissão do inciso V, não gera responsabilidade solidária. §4º e §5º: **rerrefinadores ou coletores autorizados pela ANP** respondem pelo IBS e CBS na aquisição de óleo lubrificante usado ou contaminado de contribuinte do regime regular e emitem o DF-e da operação. *(Resumo LC 214 Tít. I, p. 38–39)*
+- **Art. 25:** as responsabilidades compreendem o tributo, com **correção e atualização monetária, multa de mora, multas punitivas** e demais encargos. *(Resumo LC 214 Tít. I, p. 39)*
+
+
+## Não contribuintes (art. 26)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 26 (IMPORTANTE) — não são contribuintes**, ressalvado o art. 156-A, §1º, II, da CF: condomínio edilício; consórcio (Lei 6.404/76, art. 278); sociedade em conta de participação; **nanoempreendedor** (PF com receita bruta **inferior a 50% do limite do MEI**, R$ 40.500,00, que não aderiu ao MEI); **fundos de investimento**; produtor rural (art. 164); transportador autônomo de carga (art. 169); entidades de autogestão em saúde sem fins lucrativos; entidades fechadas de previdência complementar. O inciso X foi vetado. *(Resumo LC 214 Tít. I, p. 39)*
+- **§1º — podem optar pelo regime regular:** as entidades sem personalidade dos incisos I a III; a PF nanoempreendedora; o produtor rural (art. 165); o transportador autônomo de carga. *(Resumo LC 214 Tít. I, p. 39–40)*
+- **§2º — condomínio edilício:** se optar pelo regular, o IBS e a CBS incidem sobre <mark>todas as taxas</mark> e valores cobrados dos condôminos e de terceiros; se não optar e as taxas dos condôminos forem **menos de 80%** da receita total, incide sobre as operações que realizar (art. 21, I) e credita na proporção da receita tributada. §3º: **consórcio** sem opção: os consorciados pagam na proporção de suas participações. §4º: **SCP** sem opção: o **sócio ostensivo** paga, vedada a exclusão de valores devidos a sócios participantes. *(Resumo LC 214 Tít. I, p. 40)*
+- **§5º-A — fundos que não são contribuintes:** (I) **FII e Fiagro** com imóveis que cumulativamente (a) tenham cotas negociadas exclusivamente em bolsa ou balcão organizado e no mínimo <mark>100 cotistas</mark>, e (b) não tenham cotista PF com <mark>20% ou mais</mark> das cotas (ou dos rendimentos), conjunto de PFs ligadas (parentes até o 2º grau) com <mark>40% ou mais</mark>, nem PJs (com controladores, controladas e coligadas) com <mark>mais de 50%</mark>, exceto entidade fechada de previdência; (II) FII e Fiagro que não atendam ao inciso I, com cotas detidas em **mais de 95%** por fundos qualificados, previdência complementar ou fundos de pensão; (III) demais fundos cujo patrimônio seja formado só por participações societárias e ativos financeiros permitidos pela CVM. *(Resumo LC 214 Tít. I, p. 41–42)*
+- **§6º-A — são contribuintes do regime regular:** FII e Fiagro que não atendam ao §5º-A ou estejam sujeitos à tributação de PJ; **FIDC** e demais fundos que liquidem antecipadamente recebíveis, salvo entidade de investimento. §7º-A: FII e Fiagro do §5º-A **podem optar a qualquer momento, de forma irretratável**, pelo regime regular. §5º-B: a posse temporária de bens obtidos em recuperação de ativos não descaracteriza os requisitos. *(Resumo LC 214 Tít. I, p. 41–42)*
+- §9º: as entidades de autogestão em saúde e as de previdência complementar fechada **passam a ser contribuintes** se descumprirem o art. 14 do CTN. §10: para o enquadramento como nanoempreendedor, a receita bruta da PF que presta **transporte privado individual de passageiros ou entrega de bens**, inclusive por plataformas, é de <mark>25% do valor bruto mensal recebido</mark> (motoristas de aplicativo). §11: o regulamento poderá prever obrigações acessórias simplificadas. *(Resumo LC 214 Tít. I, p. 43)*
+
+
 
 
 # BLOCO 3 . LC 214: Modalidades de Extinção, Pagamento Indevido, Ressarcimento, Não Cumulatividade e Regimes de Apuração
+
+## Modalidades de extinção dos débitos (arts. 27 e 28)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> [!info]- Sinalização do PDF
+> No resumo VINTEUM, os dispositivos alterados pela LC 227/26 aparecem em verde; esta nota não reproduz essa marcação dispositivo a dispositivo, conferir no PDF.
+
+- **Art. 27 — os débitos são extintos por:** (I) **compensação** com créditos de IBS e de CBS apropriados; (II) **pagamento pelo contribuinte**; (III) **recolhimento na liquidação financeira** (*split payment*); (IV) **recolhimento pelo adquirente**; (V) **pagamento pelo responsável**. *(Resumo LC 214 Tít. I, p. 43)*
+- **Imputação** (parágrafo único): nos incisos **I e II**, aos débitos não extintos do período, em <mark>ordem cronológica do documento fiscal</mark>; nos **III e IV**, <mark>vinculada à respectiva operação</mark>; no **V**, vinculada à operação específica ou, se não houver, imputada como nos incisos I e II. *(Resumo LC 214 Tít. I, p. 44)*
+- **Art. 28 — energia elétrica (IMPORTANTE):** o recolhimento relativo a importação, geração, comercialização, distribuição e transmissão é feito **exclusivamente** (I) pela **distribuidora**, no ambiente de contratação regulada e na cobrança pelo uso dos sistemas de distribuição no ambiente livre; (II) pelo **alienante**, na compra no ambiente livre para consumo ou quando o adquirente não é do regime regular; (III) na aquisição multilateral para consumo, pelo **comercializador varejista** (unidades representadas) ou pelo **estabelecimento consumidor**; (IV) pela **transmissora**, na transmissão e conexão à rede básica. *(Resumo LC 214 Tít. I, p. 44)*
+
+
+## Energia elétrica: recolhimento e exclusão da base (art. 28, §§ 1º a 4º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- §1º: o recolhimento ocorre **somente** no fornecimento (I) para **consumo** ou (II) para contribuinte **não sujeito ao regime regular**. §2º: na transmissão e conexão, o fornecimento ocorre no momento do art. 10, §3º. *(Resumo LC 214 Tít. I, p. 44–45)*
+- §3º: **exclui-se da base** a energia fornecida pela distribuidora à unidade consumidora na quantidade correspondente à energia **injetada** na rede pela mesma unidade, mais os créditos de energia originados na própria unidade (no mês, meses anteriores ou outra unidade do mesmo titular). *(Resumo LC 214 Tít. I, p. 45)*
+- §4º: a exclusão (I) vale só para participantes do **Sistema de Compensação** (Lei 14.300/2022); (II) só para **microgeração** (potência <mark>≤ 75 kW</mark>) e **minigeração** (<mark>&gt; 75 kW e ≤ 1 MW</mark>); (III) **não** alcança custo de disponibilidade, energia reativa, demanda de potência, encargos de conexão ou uso do sistema, componentes tarifários não associados ao custo da energia e outros valores cobrados pela distribuidora. *(Resumo LC 214 Tít. I, p. 45)*
+
+
+## Pagamento pelo contribuinte (arts. 29 e 30)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 29:** o contribuinte paga o **saldo a recolher** (art. 45) até o vencimento. §1º: se o pagamento for maior que o saldo, o excedente (até o montante dos débitos extintos por split, adquirente ou responsável) é **devolvido em até 3 dias úteis**. *(Resumo LC 214 Tít. I, p. 45)*
+- **§2º — pagamento após o vencimento:** (I) **multa de mora de <mark>0,33% por dia</mark> de atraso**; (II) **juros pela Selic**, do 1º dia do mês seguinte ao vencimento até o mês anterior ao do pagamento, e de <mark>1% no mês do pagamento</mark>. §3º: a multa corre do dia seguinte ao vencimento até o pagamento. §4º: a multa de mora **fica limitada a 20%**. §5º: incidem juros de mora sobre as **multas punitivas** inadimplidas. *(Resumo LC 214 Tít. I, p. 45–46)*
+- **Art. 30:** CGIBS e RFB podem oferecer **mecanismo automatizado de pagamento**, opcional e <mark>condicionado à prévia autorização</mark> do contribuinte, com retirada e depósito em contas de depósito e de pagamento de sua titularidade. *(Resumo LC 214 Tít. I, p. 46)*
+
+
+## Split payment (arts. 31 a 35)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 31:** nas transações de pagamento de operações com bens ou serviços, os **prestadores de serviço de pagamento eletrônico** e as **instituições operadoras de sistemas de pagamento** devem **segregar e recolher** ao CGIBS e à RFB o IBS e a CBS **no momento da liquidação financeira**. §1º: há o procedimento **padrão** (art. 32) e o **simplificado** (art. 33). §3º: vale para **todos** os prestadores, arranjos abertos e fechados, públicos e privados, inclusive os não regulados pelo Banco Central. *(Resumo LC 214 Tít. I, p. 46–47)*
+- §1º-A: **originador** é quem inicia a transação (pagador ou recebedor); transação **iniciada pelo recebedor** é a originada por instrução ou instrumento dele que define o valor, cabendo ao pagador só efetivar; **iniciada pelo pagador** é a que ele origina, definindo o valor, sem intervenção prévia do recebedor. *(Resumo LC 214 Tít. I, p. 47)*
+- **Procedimento padrão (art. 32):** o originador transmite ao prestador as informações que permitam (I) vincular as operações à transação e (II) identificar os valores de IBS e CBS (transmitidas pelo fornecedor ou adquirente que inicie o pagamento, pela plataforma digital ou por outro que inicie). Antes de liberar os recursos, o prestador **consulta o sistema** do CGIBS e da RFB: o valor a segregar é a diferença positiva entre os **débitos destacados no DF-e** e as parcelas **já extintas** (art. 27). *(Resumo LC 214 Tít. I, p. 47–48)*
+- Se a consulta **não puder ser feita** (§4º): o prestador segrega e recolhe o valor dos débitos das operações vinculadas, com base nas informações recebidas; CGIBS e RFB calculam a dedução das parcelas já extintas e **transferem ao fornecedor o excedente em até 3 dias úteis**. §2º-A: na transação iniciada pelo recebedor, ele pode não transmitir a informação do inciso I, e o fornecedor ou a plataforma inclui no DF-e os dados de vinculação. *(Resumo LC 214 Tít. I, p. 48)*
+
+
+## Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 33 — simplificado (opcional):** os valores são calculados com base em <mark>percentual preestabelecido</mark> do valor das operações. §2º: o percentual é fixado pelo **CGIBS** (IBS) e pela **RFB** (CBS), <mark>vedado aplicar o procedimento a apenas um dos tributos</mark>; pode variar por setor ou contribuinte, a partir de metodologia uniforme divulgada; **não guarda relação** com o débito efetivamente incidente. §2º-A: originar a transação **sem identificar** os valores de IBS e CBS **implica opção** pelo simplificado. *(Resumo LC 214 Tít. I, p. 48–49)*
+- §3º: o valor recolhido paga, **em ordem cronológica do documento fiscal**: (I) débitos do período das operações em que o adquirente **não** é contribuinte do regime regular; (II) outros débitos não extintos, ao final do período. §4º: o não utilizado é transferido ao fornecedor em até <mark>3 dias úteis</mark> da conclusão da apuração. §6º: ato conjunto pode impor o simplificado, quando o adquirente não é contribuinte do regime regular, enquanto o padrão não funcionar adequadamente. **§7º:** o simplificado (I) extingue débitos **só** nos termos do §3º; (II) <mark>não gera crédito</mark> ao adquirente contribuinte do regime regular. *(Resumo LC 214 Tít. I, p. 49–50)*
+- **Art. 34 — regras gerais:** (I) segregação e recolhimento **na data da liquidação financeira**; (II) pagamento **parcelado**: de forma <mark>proporcional em todas as parcelas</mark>; (III) a **liquidação antecipada de recebíveis** não altera a obrigação; (IV) o split <mark>não afasta a responsabilidade do sujeito passivo</mark> pelo eventual saldo a recolher; (V) os prestadores **segregam e recolhem**, mas **não são responsáveis tributários** pelo IBS e CBS das operações que liquidam. *(Resumo LC 214 Tít. I, p. 50–51)*
+- **Art. 35:** Executivo e CGIBS aprovam orçamento para o sistema. §1º: o split deve entrar em funcionamento **simultaneamente**, nas operações com adquirentes que não são contribuintes do regime regular, para os principais instrumentos de pagamento (os preponderantes no varejo, §3º). §2º: ato conjunto CGIBS/RFB estabelece a **implementação gradual** e pode prever hipóteses de adoção **facultativa**. *(Resumo LC 214 Tít. I, p. 51)*
+
+
+## Recolhimento pelo adquirente e pelo responsável (arts. 36 e 37)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 36:** o adquirente contribuinte do **regime regular** pode pagar o IBS e a CBS da operação se o pagamento ao fornecedor for feito por instrumento **que não permita a segregação** do split. §1º: a opção se exerce **exclusivamente** pelo recolhimento. §3º: o valor recolhido (I) só paga débitos ainda não extintos das respectivas operações; (II) o excedente é transferido ao contribuinte em até <mark>3 dias úteis</mark>. §4º: CGIBS e RFB criam mecanismo para o fornecedor **acompanhar** o recolhimento. *(Resumo LC 214 Tít. I, p. 51–52)*
+- **Art. 37:** o art. 29 (pagamento pelo contribuinte) aplica-se, no que couber, ao pagamento por aquele a quem a LC atribuir a condição de **responsável**. *(Resumo LC 214 Tít. I, p. 52)*
+
+
+## Pagamento indevido ou a maior (art. 38)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- A **restituição** só é devida ao contribuinte se (I) a operação <mark>não tiver gerado crédito</mark> para o adquirente; e (II) observado o **art. 166 do CTN** (prova de que assumiu o encargo ou, se o transferiu a terceiro, de estar por este autorizado a recebê-la). *(Resumo LC 214 Tít. I, p. 52)*
+
+
+## Ressarcimento (arts. 39 e 40)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 39:** o contribuinte com **saldo a recuperar** ao fim do período pode pedir ressarcimento integral ou parcial. §1º: o remanescente constitui **crédito**, utilizável em compensação ou ressarcimento posterior. §2º: o pedido é apreciado pelo **CGIBS** (IBS) e pela **RFB** (CBS). *(Resumo LC 214 Tít. I, p. 52)*
+
+
+## Ressarcimento: prazos (art. 39, §§ 3º a 11)
+- [ ] status [dom:: 0] [peso:: 3]
+
+| Prazo para apreciar o pedido | Quando |
+| --- | --- |
+| até <mark>30 dias</mark> | contribuintes em **programas de conformidade** do CGIBS e da RFB que atendam ao art. 40 |
+| até <mark>60 dias</mark> | pedidos que atendam ao art. 40, salvo o caso anterior |
+| até <mark>180 dias</mark> | demais casos |
+ *(Resumo LC 214 Tít. I, p. 52–53)*
+
+- §4º: sem manifestação no prazo, o crédito é ressarcido nos **15 dias** seguintes. §5º: se a **fiscalização** do pedido começar antes do fim do prazo, os prazos ficam **suspensos** e os créditos homologados são ressarcidos em até 15 dias da conclusão. §6º: a fiscalização **não pode passar de <mark>360 dias</mark>**; §7º: decorrido esse prazo, o crédito é ressarcido em 15 dias. §8º: o ressarcimento **não impede** a fiscalização posterior dos créditos ressarcidos. *(Resumo LC 214 Tít. I, p. 53–54)*
+- §9º: o saldo credor é corrigido pela **Selic** acumulada mensalmente, se o pagamento ocorrer a partir do 1º dia do **segundo mês** seguinte ao do pedido, mais <mark>1% no mês do pagamento</mark>. §11: descumpridos os prazos, a Selic corre **diariamente** desde o início do prazo de apreciação. §10: os prazos ficam **suspensos por até 5 anos**, sem a correção do §9º, se o contribuinte optar pelo **Simples ou MEI** ou por **não ser contribuinte**. *(Resumo LC 214 Tít. I, p. 54)*
+- **Art. 40 — aplicam-se os prazos de 30 e 60 dias** (I) aos créditos de bens e serviços incorporados ao **ativo imobilizado**; (II) aos pedidos de valor **igual ou inferior a <mark>150%</mark>** do valor médio mensal da diferença entre créditos apropriados e débitos, calculado sobre os **24 meses anteriores**, excluídos os créditos do ativo imobilizado. §2º: o regulamento pode prever **estimativas** nos anos iniciais e **ajuste** pela elevação da alíquota do IBS entre <mark>2029 e 2033</mark>. §3º: ajuste por sazonalidade e expansão de empreendimento. §4º: bens de **ativo de contrato, intangível ou financeiro** de concessionárias contam como ativo imobilizado. *(Resumo LC 214 Tít. I, p. 54–55)*
+
+
+## Regimes de apuração (arts. 41 a 46)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 41:** o **regime regular** compreende todas as regras de incidência e apuração da LC, inclusive dos regimes diferenciados e específicos. §1º: fica no regular quem **não optar** pelo Simples ou MEI. §2º: os optantes seguem as regras desses regimes. *(Resumo LC 214 Tít. I, p. 55)*
+
+
+## Regimes de apuração: opção pelo regime regular (art. 41, §§ 3º a 6º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- ⚠️ **§3º (IMPORTANTE):** os optantes pelo **Simples Nacional podem apurar e recolher IBS e CBS pelo regime regular**, na forma da LC 123/2006 (§4º). *(Resumo LC 214 Tít. I, p. 55)*
+- **§5º:** é <mark>vedado</mark> ao contribuinte do Simples (ou que venha a optar por ele) **retirar-se do regime regular** se recebeu **ressarcimento** de créditos no ano-calendário corrente ou no anterior. §6º: a mesma vedação vale para as demais hipóteses de **opção facultativa** pelo regime regular. *(Resumo LC 214 Tít. I, p. 55–56)*
+
+
+## Apuração e confissão de dívida (arts. 42 a 46)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 42:** a apuração **consolida** as operações de **todos os estabelecimentos**; **pagamento** e **pedido de ressarcimento** são centralizados em um único estabelecimento. §2º: consolida todos os débitos e créditos do regime regular, inclusive dos regimes diferenciados e específicos. **Art. 43:** período de apuração <mark>mensal</mark>. **Art. 44:** o regulamento fixa o prazo de conclusão da apuração e a data de vencimento. *(Resumo LC 214 Tít. I, p. 56)*
+- **Art. 45:** apura-se, **separadamente**, o saldo do IBS e da CBS: **débitos** dos fatos geradores do período menos **créditos** apropriados (incluindo presumidos, mais o saldo a recuperar de períodos anteriores). §1º: ajustes positivos ou negativos, inclusive **estorno** de crédito com os acréscimos do art. 29, §§2º a 4º, desde a apropriação indevida. §3º: do saldo deduzem-se os valores extintos por **split, adquirente e responsável**: positivo = **saldo a recolher**; negativo = **saldo a recuperar** (ressarcimento ou compensação). *(Resumo LC 214 Tít. I, p. 56–57)*
+- **§4º (IMPORTANTE):** a apuração <mark>implica confissão de dívida e constitui o crédito tributário</mark>; §5º: é instrumento hábil e suficiente para a exigência do valor. §6º: deve ser entregue ao CGIBS e à RFB no prazo do art. 44, I. *(Resumo LC 214 Tít. I, p. 57)*
+- **Art. 46 — apuração assistida:** CGIBS e RFB **poderão** apresentar ao sujeito passivo a apuração assistida (base: DF-e, informações da extinção dos débitos e outras). Se apresentada, a apuração do contribuinte só pode ser feita por **ajustes** nela (§2º). §3º: confirmá-la ou ajustá-la <mark>implica confissão de dívida e constitui o crédito</mark>. **§4º:** sem manifestação no prazo do art. 44, I, <mark>presume-se correto o saldo</mark> e considera-se constituído o crédito. *(Resumo LC 214 Tít. I, p. 57)*
+- §5º: confissão e apuração assistida são instrumentos hábeis e suficientes para a exigência. §7º: **não afasta** o lançamento de ofício de diferenças verificadas depois. §8º: a apuração assistida deve ser **uniforme e sincronizada** para IBS e CBS. *(Resumo LC 214 Tít. I, p. 58)*
+
+
+## Não cumulatividade: apropriação de créditos (arts. 47 e 48)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 47:** o contribuinte do regime regular pode **apropriar créditos** quando ocorrer a **extinção** dos débitos das operações em que seja adquirente, por qualquer modalidade do art. 27, exceto as de **uso ou consumo pessoal** (art. 57) e as demais previstas na LC. *(Resumo LC 214 Tít. I, p. 58)*
+- §1º: apropriação **segregada** para IBS e CBS, <mark>vedada a compensação cruzada</mark> (crédito de IBS com débito de CBS e vice-versa); condicionada à comprovação por **DF-e idôneo**. §2º: o crédito corresponde aos débitos destacados no documento de aquisição e extintos, ou ao **crédito presumido**. **§3º (IMPORTANTE):** vale também nas aquisições de fornecedor **optante do Simples**. *(Resumo LC 214 Tít. I, p. 58–59)*
+- §§4º e 5º: na aquisição de **combustíveis** do regime específico, dispensa-se a comprovação da extinção; o crédito é o valor do IBS e da CBS registrado no DF-e. §6º: **estorno** do crédito se o bem perecer, deteriorar-se ou for objeto de roubo, furto ou extravio; §7º: no roubo ou furto de **ativo imobilizado**, o estorno é proporcional à vida útil e às taxas de depreciação. §8º: na devolução ou cancelamento com adquirente **não contribuinte**, o fornecedor credita ou estorna débitos. *(Resumo LC 214 Tít. I, p. 59)*
+
+
+## Não cumulatividade: Simples, alíquota reduzida, falência e devolução (art. 47, §§ 9º a 13)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **§9º — pagamento via Simples sem opção pelo regime regular:** (I) o optante **não** se apropria de créditos; (II) o contribuinte do regime regular **credita** os valores pagos na aquisição de optante do Simples, <mark>em montante equivalente ao devido</mark> por meio desse regime. §10: operar com **alíquota reduzida** <mark>não gera estorno</mark> de créditos, salvo previsão expressa. *(Resumo LC 214 Tít. I, p. 59)*
+- §11: **falência do adquirente:** o contribuinte pode se creditar dos débitos extintos de fornecimentos não pagos, se (I) a aquisição não permitiu crédito ao adquirente; (II) a operação está registrada na contabilidade desde o período do fato gerador; (III) o pagamento dos credores do falido foi **encerrado de forma definitiva**. *(Resumo LC 214 Tít. I, p. 59–60)*
+- §12: devolução e cancelamento com adquirente do regime regular: o regulamento disciplina (adquirente: débito ou estorno de crédito; fornecedor: crédito ou estorno de débito). §13: se o débito foi extinto por **split**, o regulamento pode prever a **transferência ao fornecedor** em até <mark>3 dias úteis</mark>, sem que o valor possa ser apropriado como crédito. *(Resumo LC 214 Tít. I, p. 60)*
+
+
+## Não cumulatividade: dispensa da extinção, vedações e efeitos (arts. 48 a 52)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 48 (IMPORTANTE):** dispensa-se a **extinção** dos débitos para apropriar crédito **exclusivamente** se não houver sido implementado **nem o split nem o recolhimento pelo adquirente**. Parágrafo único: nesse caso, o crédito fica condicionado ao **destaque correto** dos valores no DF-e da aquisição. *(Resumo LC 214 Tít. I, p. 60)*
+- **Art. 49:** operações **imunes, isentas, com alíquota zero, diferidas ou suspensas** <mark>não permitem crédito</mark> ao adquirente (salvo os créditos presumidos previstos). **Art. 50:** na **suspensão**, se o crédito suspenso for exigido, o crédito é admitido só na **extinção** dos débitos, vedado em relação aos acréscimos legais. *(Resumo LC 214 Tít. I, p. 61)*
+- **Art. 51:** **imunidade e isenção anulam** os créditos das operações anteriores, na proporção do valor das operações imunes e isentas sobre o valor de todas as operações do fornecedor; a anulação **não se aplica** às **exportações** nem às operações do art. 9º, IV e VI (livros e jornais; radiodifusão). **Art. 52:** na **alíquota zero**, <mark>mantêm-se</mark> os créditos das operações anteriores. *(Resumo LC 214 Tít. I, p. 61)*
+
+
+## Não cumulatividade: utilização, prazo e transferência (arts. 53 a 56)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 53 — ordem de utilização dos créditos:** (I) compensação com o **saldo a recolher vencido**, não extinto e não inscrito em dívida ativa, de períodos anteriores, com acréscimos legais; (II) com os débitos do **mesmo período**; (III) com os débitos de **períodos subsequentes** (em ordem cronológica). §1º: alternativamente ao inciso III, pode pedir **ressarcimento**. *(Resumo LC 214 Tít. I, p. 61–62)*
+- **§2º (IMPORTANTE):** os créditos são apropriados e compensados ou ressarcidos pelo **valor nominal**, <mark>vedadas correção ou atualização monetária</mark>, sem prejuízo dos juros de ressarcimento previstos na LC. *(Resumo LC 214 Tít. I, p. 62)*
+- **Art. 54:** o direito de usar o crédito **extingue-se em 5 anos**, contados do 1º dia do período **subsequente** ao da apropriação. **Art. 55:** <mark>vedada a transferência</mark> de créditos a outra pessoa ou entidade; na **fusão, cisão ou incorporação**, os créditos não usados passam à sucessora, **preservada a data original** de apropriação para o prazo do art. 54. **Art. 56:** aplica-se a todas as hipóteses de apropriação e utilização de créditos da LC. *(Resumo LC 214 Tít. I, p. 62)*
+
+
+## Bens e serviços de uso ou consumo pessoal (art. 57)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Consideram-se de uso ou consumo pessoal (inciso I):** joias, pedras e metais preciosos; obras de arte e antiguidades de valor histórico ou arqueológico; bebidas alcoólicas; derivados do tabaco; armas e munições; bens e serviços **recreativos, esportivos e estéticos**. **Inciso II:** bens e serviços adquiridos pelo contribuinte e fornecidos **de forma não onerosa ou a valor inferior ao de mercado** ao próprio contribuinte PF, a PFs sócias, acionistas, administradoras e conselheiras, a **empregados** e a cônjuges, companheiros ou parentes até o 3º grau. *(Resumo LC 214 Tít. I, p. 62–63)*
+- **§1º (entre outros):** imóvel residencial e bens e serviços ligados à sua aquisição e manutenção; **veículo** e bens e serviços ligados à sua aquisição e manutenção, inclusive seguro e combustível. **§2º:** na sociedade cuja atividade principal é a gestão de bens e ativos financeiros das PFs do inciso II (***family office***), os bens e serviços da gestão são de uso ou consumo pessoal. *(Resumo LC 214 Tít. I, p. 63–64)*
+- **§3º — não são de uso ou consumo pessoal** os utilizados **preponderantemente na atividade econômica**: (I) os bens das alíneas "a" a "d" do inciso I comercializados ou usados na fabricação de bens para venda; (II) armas e munições nessa mesma situação ou usadas por **empresas de segurança**; (III) os bens da alínea "f" nessa situação ou usados **exclusivamente em estabelecimento físico** pelos clientes; (IV) os do inciso II que sejam: uniformes e fardamentos; EPIs; alimentação e bebida não alcoólica no estabelecimento durante a jornada; serviços de saúde e de **creche** no estabelecimento; **planos de assistência à saúde** por acordo ou convenção coletiva; benefícios **educacionais** oferecidos a todos os empregados por acordo ou convenção coletiva; **vale-transporte, vale-refeição e vale-alimentação**; (V) outros conforme o regulamento. *(Resumo LC 214 Tít. I, p. 64–65)*
+- ⚠️ **§5º:** nos bens e serviços de uso ou consumo pessoal <mark>fica vedada a apropriação de créditos</mark>. §9º: na **alienação** de bem que não permitiu crédito na aquisição, o contribuinte pode **excluir da base** o valor de aquisição, até o limite do valor da alienação, se o bem for identificável de forma inequívoca. §8º: o regulamento disporá sobre a identificação da PF destinatária. *(Resumo LC 214 Tít. I, p. 65)*
+
 # BLOCO 4 . LC 214: Operacionalização, Cashback, Cesta Básica Nacional, Importações e Exportações
 - [x] status [dom:: 2] [peso:: 1] ✅ 2026-09-18
 **Drawback**: as modalidades de isenção e restituição do drawback não se aplicam ao IBS e à CBS.
 
 > [!note] Nota
 > Os Blocos 6 a 9 (Regimes Diferenciados/Específicos, transição, etc. — ver tabela "📚Os Blocos são" no topo da nota) ainda não têm conteúdo próprio nesta nota, só a linha da tabela de blocos. Esse ponto do drawback ficou aqui em Bloco 4 por afinidade temática (importações/exportações), mas rigorosamente pertenceria a um Bloco 6/9 ainda não criado.
+
+## Operacionalização: plataforma, cadastro e documento fiscal (arts. 58 a 62)
+- [ ] status [dom:: 0] [peso:: 3]
+
+> [!info]- Sinalização do PDF
+> No resumo VINTEUM, os dispositivos alterados pela LC 227/26 aparecem em verde; esta nota não reproduz essa marcação dispositivo a dispositivo, conferir no PDF.
+
+- **Art. 58:** CGIBS e RFB atuam **em conjunto**; o contribuinte acessa apuração e pagamento em **plataforma eletrônica unificada** (gestão compartilhada), com canal de atendimento. §4º: é assegurada a **gratuidade** dos mecanismos de integração sistêmica para os dados e transações mínimos de apuração e obrigações acessórias; o que extrapolar pode ser fornecido **mediante ressarcimento dos custos** (§5º). *(Resumo LC 214 Tít. I, p. 65–66)*
+- **Art. 59 — cadastro com identificação única:** PFs, PJs e entidades sem personalidade sujeitas a IBS e CBS registram-se em cadastro único: **CPF** (PF), **CNPJ** (PJ e entidades) e **CIB** (imóveis rurais e urbanos), administrados pela RFB. §2º: integração, sincronização, cooperação e **compartilhamento obrigatório e tempestivo** entre as administrações tributárias de todos os entes; §3º: gestão compartilhada pelo **CGSIM**. §5º: o **Domicílio Tributário Eletrônico (DTE)** é **unificado** no âmbito do IBS e <mark>obrigatório para todas as PJs sujeitas à inscrição no CNPJ</mark>. *(Resumo LC 214 Tít. I, p. 66–67)*
+- **Art. 60 — documento fiscal eletrônico:** o sujeito passivo, ao realizar operações (inclusive exportações e importações), **deve emitir DF-e**. §1º: as informações têm caráter declaratório e <mark>constituem confissão</mark> do valor devido consignado. §2º: a obrigação vale **inclusive** para operações imunes, isentas, com alíquota zero ou suspensão e para a **transferência entre estabelecimentos** do mesmo contribuinte. §4º: os DF-e são **compartilhados com todos os entes** no momento da autorização ou recepção, com padrões técnicos uniformes. §7º: o ato conjunto deve permitir **documentos consolidados**. *(Resumo LC 214 Tít. I, p. 67)*
+- **Art. 61 — cidadania fiscal:** CGIBS e RFB podem instituir programas de incentivo à exigência de documentos fiscais pelos consumidores, financiados por até <mark>0,05%</mark> da arrecadação do IBS e da CBS. *(Resumo LC 214 Tít. I, p. 68)*
+- **Art. 62 (transitório):** União, Estados, DF e Municípios ficam **obrigados** a adaptar seus sistemas de emissão de DF-e ao leiaute padronizado e a **compartilhar** os documentos com o ambiente nacional. §1º: **a partir de 1º/1/2026**, Municípios e DF devem autorizar a emissão da **NFS-e de padrão nacional** ou compartilhar os documentos do emissor próprio; §2º: **até 31/12/2032**. §7º: o descumprimento gera **suspensão temporária das transferências voluntárias**. *(Resumo LC 214 Tít. I, p. 68–69)*
+
+
+## Importações: incidência e bens imateriais e serviços (arts. 63 e 64)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 63:** IBS e CBS **incidem sobre a importação** de bens ou serviços do exterior por PF, PJ ou entidade sem personalidade, ainda que **não inscrita** no regime regular, <mark>qualquer que seja a finalidade</mark>. *(Resumo LC 214 Tít. I, p. 69)*
+- **Art. 64:** é **importação** de serviço ou bem imaterial o fornecimento por residente ou domiciliado no exterior <mark>cujo consumo ocorra no País</mark>, ainda que realizado no exterior. §1º: há consumo no País se o local da operação for no País (art. 11, II a IX) ou, nos demais casos, se o adquirente ou destinatário tiver residência ou domicílio no País. §2º: também é importação de serviço a prestação por residente no exterior (I) **executada no País**; (II) relacionada a **bem imóvel ou móvel localizado no País**; (III) relacionada a bem móvel remetido ao exterior para execução do serviço que retorne ao País. §3º: consumo **simultâneo** no País e no exterior: só a parcela consumida no País é importação. *(Resumo LC 214 Tít. I, p. 69–70)*
+- **§5º:** (I) o fato gerador ocorre no momento do art. 10; (II) base = valor da operação (art. 12); (III) as **alíquotas** são as do fornecimento do mesmo bem ou serviço no País; (IV) o local é o da operação (art. 11, II a IX) ou o domicílio principal do adquirente ou destinatário; (V) o **adquirente é contribuinte** (IMPORTANTE); (VI) se o adquirente for do exterior, o **destinatário** é o contribuinte; (VII) o adquirente do regime regular apropria crédito (arts. 47 a 56); (VIII) o fornecedor no exterior é **responsável solidário**; (IX) as **plataformas digitais**, ainda que no exterior, respondem pelas importações realizadas por seu intermédio. *(Resumo LC 214 Tít. I, p. 70–71)*
+
+
+## Importação de bens materiais (arts. 65 a 78)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Fato gerador (art. 65):** a **entrada de bens de procedência estrangeira** no território nacional; presumem-se entrados os bens que constem como importados e cujo extravio seja apurado pela autoridade aduaneira, **exceto malas e remessas postais internacionais**. *(Resumo LC 214 Tít. I, p. 71)*
+- **Art. 66 — não são fato gerador** os bens materiais: que retornem ao País (enviados em consignação e não vendidos; devolvidos por defeito técnico para reparo ou substituição; por modificação na sistemática de importação do país importador; por guerra ou calamidade pública; por outros fatores alheios à vontade do exportador); que cheguem por **erro inequívoco de expedição** e sejam redestinados ou devolvidos; **idênticos** enviados para **reposição** de bens defeituosos; objeto de **perdimento** antes da liberação; **devolvidos** antes do registro da declaração de importação; **pescado** capturado fora das águas territoriais por empresa nacional; sob **exportação temporária**; em **trânsito aduaneiro** de passagem acidentalmente destruídos; **destruídos** sob controle aduaneiro antes da liberação. *(Resumo LC 214 Tít. I, p. 72)*
+- **Momento (art. 67):** (I) na **liberação** dos bens submetidos a despacho para consumo; (II) na liberação sob **admissão temporária** para utilização econômica; (III) no **lançamento do crédito**, para bagagem, bens de manifesto extraviados e bens sem declaração de importação. §2º: vale também para bens sob regime suspensivo e para remessa internacional ou de viajante em tributação comum. **Local (art. 68):** entrega ao destinatário final (inclusive remessa internacional), domicílio principal do adquirente de mercadoria **entrepostada**, ou local do **extravio**. *(Resumo LC 214 Tít. I, p. 73)*
+- **Base de cálculo (art. 69):** o **valor aduaneiro** acrescido de **II, IS, Siscomex, AFRMM, Cide-Combustíveis, direitos antidumping, direitos compensatórios, medidas de salvaguarda** e outros tributos e direitos incidentes até a liberação. **Não compõem** a base: <mark>IPI, ICMS e ISS</mark> (§2º). **Art. 70:** conversão pela taxa de câmbio usada para o Imposto de Importação, sem ajuste posterior por variação cambial. *(Resumo LC 214 Tít. I, p. 74–75)*
+- **Alíquota (art. 71):** as mesmas da aquisição do bem no País; o destino é o local da importação (art. 68). §2º: bem não identificável (extravio ou consumo) e sem descrição: **alíquotas-padrão** do destino. **Sujeição passiva (art. 72):** o **importador** (quem promove a entrada) e o **adquirente de mercadoria entrepostada**; na importação **por conta e ordem**, o importador é o adquirente dos bens no exterior. *(Resumo LC 214 Tít. I, p. 75)*
+- **Responsável em substituição (art. 73):** o **transportador** (extravio até o fim da descarga), o **depositário** (extravio após a descarga), o beneficiário de regime aduaneiro especial que não promoveu a entrada e o beneficiário que der causa ao descumprimento do regime suspensivo para industrialização com exportação; nos incisos I e II a responsabilidade é **excluída por caso fortuito ou força maior**. **Solidários (art. 74):** quem registra em seu nome a DI de bem adquirido por outrem; o **encomendante predeterminado**; o representante do transportador estrangeiro; o expedidor e o operador de transporte multimodal; o tomador ou contratante de afretamento em contrato internacional. *(Resumo LC 214 Tít. I, p. 76)*
+- **Pagamento (art. 76):** até a **entrega dos bens** submetidos a despacho para consumo, ainda que antes da liberação aduaneira; o sujeito passivo pode **antecipar** para o registro da DI (§1º). §3º: o regulamento pode admitir pagamento posterior para certificados no **Programa OEA** e para bens de remessas em **Regime de Tributação Simplificada (RTS)**. **§4º:** o pagamento é <mark>condição para a entrega dos bens</mark>. §5º: extinção **exclusivamente** por recolhimento pelo sujeito passivo. **Art. 77:** quebra ou acréscimo de **bens a granel**, até o limite do regulamento, não entra na exigência. **Art. 78:** o importador do regime regular (e o adquirente de remessa internacional do art. 95) apropria crédito do valor **efetivamente pago** na importação (arts. 47 a 56). *(Resumo LC 214 Tít. I, p. 77)*
+
+
+## Exportações (arts. 79 a 83)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Art. 79:** são **imunes** as exportações de bens e serviços, assegurados ao exportador a apropriação e utilização dos **créditos** das suas aquisições, observadas as vedações dos arts. 49 e 51. **Art. 80 (IMPORTANTE):** é exportação de serviço ou bem imaterial o fornecimento **para residente ou domiciliado no exterior e consumo no exterior**. *(Resumo LC 214 Tít. I, p. 78)*
+- **§1º — também é exportação:** (I) o serviço para residente no exterior relacionado a **imóvel no exterior** ou a **bem móvel que ingresse no País para o serviço e retorne** ao exterior; (II) os bens e serviços **vinculados direta e exclusivamente** à exportação de bens materiais (comissão de agente, seguro de cargas, despacho aduaneiro, armazenagem, transporte de cargas, manuseio de cargas e de contêineres, unitização, consolidação documental, agenciamento, remessas expressas, pesagem e medição, refrigeração, arrendamento ou locação de contêineres, instalação e montagem e treinamento para uso de mercadorias exportadas). §1º-A: há **consumo no exterior** se o local da operação não for no País ou, nos demais casos, se adquirente e destinatário forem residentes no exterior. *(Resumo LC 214 Tít. I, p. 78–79)*
+- §4º: quem não promover a exportação dos bens do §1º, II, **recolhe** IBS e CBS com juros e multa de mora desde a operação, como responsável. §5º: fornecimento **simultâneo** no País e no exterior: só a parcela executada ou consumida no exterior é exportação. *(Resumo LC 214 Tít. I, p. 79)*
+- **Exportação de bens materiais sem saída do território (art. 81):** a imunidade alcança os bens (I) totalmente incorporados a bem **temporariamente no País** de propriedade do comprador estrangeiro; (II) entregues a órgão público em **licitação internacional**; (III) entregues ao **Ministério da Defesa** para produto de defesa nacional, por acordo internacional; (IV) entregues a empresa autorizada a operar **loja franca**; (V) **aeronave** industrializada no País vendida a empresa no exterior e entregue a fornecedor de transporte aéreo regular no País; (VI) entregues para incorporação a **embarcação ou plataforma** em construção ou conversão contratada por empresa no exterior, para petróleo e gás; (VII) destinados **exclusivamente** a exploração e produção de petróleo e gás, vendidos a empresa no exterior. *(Resumo LC 214 Tít. I, p. 80)*
+- **Art. 81-A:** a exportação é comprovada por registro do órgão competente ou pela documentação aduaneira. §1º: passados <mark>180 dias</mark> da emissão do DF-e **sem comprovação**, considera-se ocorrida **operação onerosa** e exigem-se do exportador o tributo e os acréscimos, inclusive das operações do art. 80, §1º, II. §2º: o regulamento pode ampliar o prazo. *(Resumo LC 214 Tít. I, p. 80–81)*
+- **Art. 82 — suspensão** do pagamento no fornecimento de bens **com fim específico de exportação** a **empresa comercial exportadora** que, cumulativamente: (I) seja certificada no **Programa OEA**; (II) tenha patrimônio líquido de no mínimo o **maior** entre <mark>R$ 1.000.000,00</mark> e **uma vez o valor total dos tributos suspensos**; (III) opte pelo **DTE**; (IV) mantenha escrituração contábil digital; (V) esteja em situação de **regularidade fiscal**. §1º: habilitação por ato conjunto do CGIBS e da RFB. §3º: fim específico = bens remetidos para embarque ou recinto alfandegado, por conta e ordem da exportadora, <mark>sem outra operação comercial ou industrial</mark> no intervalo. *(Resumo LC 214 Tít. I, p. 81)*
+- §4º: a suspensão **converte-se em alíquota zero** após a efetiva exportação, dentro do prazo. **§5º — a exportadora responde** pelo tributo suspenso se: (I) passarem **180 dias** da emissão da nota do fornecedor sem exportação; (II) os bens forem **redestinados ao mercado interno**; (III) forem **industrializados**; (IV) houver destruição, extravio, furto ou roubo antes da exportação. §8º: o valor do patrimônio líquido é atualizado pelo **IPCA**, em periodicidade **não inferior a 12 meses**. *(Resumo LC 214 Tít. I, p. 81–82)*
+- **§11 — produtos agropecuários *in natura*:** também fica suspenso o pagamento no fornecimento a contribuinte do regime regular que industrialize para exportação, cuja receita de **exportação nos 3 anos-calendário anteriores** tenha sido **superior a 50%** da receita bruta total (excluídos os tributos), e que cumpra os incisos II a V do art. 82. §12: o adquirente responde, com acréscimos, se em <mark>180 dias</mark> da nota o produto não for industrializado, ou o industrializado não for exportado nem comercializado no mercado doméstico com a tributação. *(Resumo LC 214 Tít. I, p. 82–83)*
+- **Art. 83 — cancelamento da habilitação:** por descumprimento dos incisos I a V do art. 82 ou pendência no pagamento do §5º. É aberto processo com termo de constatação, e a exportadora é intimada (preferencialmente pelo **DTE**) a se regularizar ou impugnar em <mark>30 dias úteis</mark>; sem regularização nem impugnação, há **revelia**. Impugnada, a autoridade remete a julgamento em <mark>15 dias</mark>; cabe **recurso em 20 dias úteis** ao CGIBS ou à RFB, conforme quem cancelou. *(Resumo LC 214 Tít. I, p. 83–84)*
+
 
 # BLOCO 5 . LC 214: Administração do IBS e da CBS e Imposto Seletivo
 
