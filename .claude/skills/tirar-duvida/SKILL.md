@@ -53,7 +53,7 @@ Direta e de estudo, em português, do jeito que cai na prova (banca FCC/fiscal):
 
 ## Guardar a dúvida
 
-Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta própria. Acrescente ao final de `Questoes/Duvidas.md` (abaixo de `## Dúvidas`, sem reescrever o resto), uma linha por dúvida:
+Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta própria. Acrescente ao final de `Questoes/Duvidas.md` (abaixo de `## Dúvida` — heading que o atalho do Pedro usa como alvo, não renomeie —, sem reescrever o resto), uma linha por dúvida:
 
 ```
 - 20 de set. de 2026, 15:41 — [Direito Tributário] pergunta → resposta curta (fonte: cofre MATERIAS/P2 - Direito Tributário.md:731 / internet <url>)

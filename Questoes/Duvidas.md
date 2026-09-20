@@ -8,4 +8,4 @@ Dúvidas de estudo respondidas pela skill `/tirar-duvida` e guardadas aqui quand
 
 Formato: `- <data>, <hora> — [matéria] pergunta → resposta curta (fonte: cofre <nota:linha> / internet <url>)`
 
-## Dúvidas
+## Dúvida
