@@ -2,7 +2,7 @@
 tipo: caderno
 data: 2026-09-06
 materia: Micro e Finanças Públicas
-bloco: Finanças Públicas
+bloco: Economia
 assuntos:
   - Microeconomia (Conceitos Básicos, Demanda e Oferta, Elasticidades, Estruturas de Mercado, Eficiência e Equilíbrio Geral, Falhas de Mercado)
 slot: S4
