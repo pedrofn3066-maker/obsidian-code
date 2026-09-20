@@ -49,4 +49,10 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 # OUTRAS BANCAS 
 - #banca/outras
 
+> [!bug] Q122 — ISS Guarulhos · processo administrativo tributário do IBS (LC 227/26)
+> **Onde caí:** marquei **D** (intimado após 15 dias do comprovante de entrega no DTE); gabarito **E**.
+> **A Regra:** o processo observa princípios como simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé. Nota: [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]]. `#pegadinha`
+> **Revisão Ativa:** princípios do processo administrativo tributário do IBS :: simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé
+> **Pendência:** o prazo certo de intimação depende do texto da LC 227/26, que a nota ainda não tem.
+
 - **Corrigindo o item:** A sociedade em conta de participação poderá optar pelo regime regular do IBS e da CBS, No entanto, caso ela não exerça essa opção, o ~~**sócio participante**~~ **sócio ostensivo** ficará obrigado ao pagamento do IBS e da CBS quanto às operações realizadas pela sociedade, vedada a exclusão de valores devidos a ~~**sócios ostensivos**~~ **sócios participantes**.

@@ -1388,6 +1388,15 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 >
 > Art. 206 Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido efetivada a penhora, ou cuja exigibilidade esteja suspensa.
 
+⚠️ **Pegadinha de prova** (captura 20/09, IBAM, Q106): o gabarito é a alternativa que repete o parágrafo único do art. 205 — certidão negativa <mark>sempre expedida nos termos em que tenha sido requerida</mark> e fornecida em <mark>10 dias</mark> da entrada do requerimento. As alternativas erradas trocavam: validade de <mark>180 dias</mark> "independentemente de ser relativa a tributo federal, estadual ou municipal" (A); responsabilização pessoal da <mark>pessoa física que solicitar</mark> a certidão expedida com dolo ou fraude (D); e impedimento do lançamento por <mark>30 dias</mark> a partir do protocolo do requerimento (E).
+
+> [!warning]- Pendência: arts. 207 e 208 do CTN
+> O heading cobre os arts. 205 a 208, mas a nota só tem o texto dos arts. 205 e 206. Não completei o art. 208 (certidão expedida com dolo ou fraude: quem responde pelo crédito e juros) porque a captura não o traz. Conferir no CTN comentado (Guruja, p. 88–89) e escrever a regra antes de dar a alternativa D por explicada.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Dívida Ativa Tributária (arts. 201 a 204 do CTN)]] — heading vizinho no CTN (arts. 201 a 204), que precede a certidão.
+> - [[ERRO DIREITO TRIBUTÁRIO]] — errou em 20/09 (marcou D; gabarito B).
+
 
 
 ## Repartição Constitucional de Receitas Tributárias.

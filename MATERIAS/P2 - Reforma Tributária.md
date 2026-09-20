@@ -714,6 +714,13 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 - **Art. 33 — simplificado (opcional):** os valores são calculados com base em <mark>percentual preestabelecido</mark> do valor das operações. §2º: o percentual é fixado pelo **CGIBS** (IBS) e pela **RFB** (CBS), <mark>vedado aplicar o procedimento a apenas um dos tributos</mark>; pode variar por setor ou contribuinte, a partir de metodologia uniforme divulgada; **não guarda relação** com o débito efetivamente incidente. §2º-A: originar a transação **sem identificar** os valores de IBS e CBS **implica opção** pelo simplificado. *(Resumo LC 214 Tít. I, p. 48–49)*
 - §3º: o valor recolhido paga, **em ordem cronológica do documento fiscal**: (I) débitos do período das operações em que o adquirente **não** é contribuinte do regime regular; (II) outros débitos não extintos, ao final do período. §4º: o não utilizado é transferido ao fornecedor em até <mark>3 dias úteis</mark> da conclusão da apuração. §6º: ato conjunto pode impor o simplificado, quando o adquirente não é contribuinte do regime regular, enquanto o padrão não funcionar adequadamente. **§7º:** o simplificado (I) extingue débitos **só** nos termos do §3º; (II) <mark>não gera crédito</mark> ao adquirente contribuinte do regime regular. *(Resumo LC 214 Tít. I, p. 49–50)*
 - **Art. 34 — regras gerais:** (I) segregação e recolhimento **na data da liquidação financeira**; (II) pagamento **parcelado**: de forma <mark>proporcional em todas as parcelas</mark>; (III) a **liquidação antecipada de recebíveis** não altera a obrigação; (IV) o split <mark>não afasta a responsabilidade do sujeito passivo</mark> pelo eventual saldo a recolher; (V) os prestadores **segregam e recolhem**, mas **não são responsáveis tributários** pelo IBS e CBS das operações que liquidam. *(Resumo LC 214 Tít. I, p. 50–51)*
+
+⚠️ **Pegadinha de prova** (captura 20/09, ISS Guarulhos, Q116, "é incorreto afirmar"): o gabarito é a alternativa que manda segregar e recolher, no pagamento parcelado pelo fornecedor, <mark>antecipadamente na primeira parcela</mark>. A dúvida do Pedro era se a alternativa "prestadores de pagamento não serão responsáveis tributários" também estaria errada.
+
+> [!info]- Ponte
+> - Este heading, art. 34, II — o certo é <mark>proporcional em todas as parcelas</mark>; por isso a alternativa da primeira parcela é a incorreta.
+> - Este heading, art. 34, V — os prestadores segregam e recolhem, mas <mark>não são responsáveis tributários</mark>: a alternativa E está **correta**, logo não é a resposta de uma questão "incorreto".
+> - Este heading, art. 33, § 6º e art. 35, § 2º — reproduzem as alternativas A (ato conjunto pode impor o simplificado) e C (implementação gradual por ato conjunto). [[P2 - Reforma Tributária#Split payment (arts. 31 a 35)]], art. 31 — reproduz a B (segregar e recolher na liquidação financeira).
 - **Art. 35:** Executivo e CGIBS aprovam orçamento para o sistema. §1º: o split deve entrar em funcionamento **simultaneamente**, nas operações com adquirentes que não são contribuintes do regime regular, para os principais instrumentos de pagamento (os preponderantes no varejo, §3º). §2º: ato conjunto CGIBS/RFB estabelece a **implementação gradual** e pode prever hipóteses de adoção **facultativa**. *(Resumo LC 214 Tít. I, p. 51)*
 
 
@@ -977,6 +984,8 @@ Exceção: comercialização permitida entre estabelecimentos que exerçam ativi
 - § 9º: o Imposto Seletivo <mark style="background:#fff88f">não incide</mark> sobre bens e serviços com alíquota reduzida pelo § 1º.
 - § 10 (IMPORTANTE no resumo): os regimes diferenciados passam por <mark style="background:#fff88f">avaliação quinquenal</mark> de custo-benefício; lei pode fixar regime de transição para a alíquota padrão (sem observar o § 2º), garantidos os ajustes nas alíquotas de referência. § 11: a avaliação examina o impacto na <mark style="background:#fff88f">igualdade entre homens e mulheres</mark>.
 - § 12: redução de <mark style="background:#fff88f">30%</mark> para serviços de profissão intelectual, de natureza científica, literária ou artística, <mark style="background:#fff88f">submetidos a fiscalização por conselho profissional</mark>.
+
+⚠️ **Pegadinha de prova** (captura 20/09, ISS Guarulhos): o gabarito juntou o § 12 (<mark>30%</mark> para profissões intelectuais sob conselho profissional, "tais como advogados ou contabilistas") ao § 1º (<mark>60%</mark> para saúde e educação). A alternativa em que ficou a dúvida (30% + <mark>40%</mark> para insumos agropecuários e agrícolas) erra o percentual: insumos agropecuários estão no § 1º, item 11 da tabela, com 60%. As demais trocavam o percentual das profissões (40%, 50%, 20%) e davam 70% a alimentação e higiene pessoal, que estão no § 1º com 60%.
 - § 13: incluem-se (I) entre os medicamentos, composições para nutrição enteral ou parenteral e fórmulas nutricionais para erros inatos do metabolismo; (II) entre os alimentos, sucos naturais sem adição de açúcares e conservantes.
 
 > [!quote]- Texto literal: Art. 9º, § 10 (IMPORTANTE no resumo) (Resumo EC 132, p. 34)
@@ -1502,3 +1511,21 @@ Faz parte do relatório resumido da execução orçamentária do CGIBS o demonst
 Art. 42. O CGIBS elaborará, ao final de cada quadrimestre, o relatório de gestão fiscal de que tratam os arts. 54 e 55 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), adaptado às especificidades do CGIBS.
 § 1º O limite de despesa total com pessoal do CGIBS será definido na forma do seu regimento interno.
 § 2º Os limites globais e as condições para as operações de crédito externa e interna do CGIBS, bem como o limite global para o montante de sua dívida consolidada, serão definidos por resolução do Senado Federal.
+
+
+## Processo administrativo tributário do IBS (LC 227/26)
+- [ ] status [dom:: 0] [peso:: 3]
+
+*Fonte: captura de questão (ISS Guarulhos, Q122, 20/09/2026). O texto da LC 227/26 sobre o processo ainda não está na nota.*
+
+Princípios que o processo administrativo tributário do IBS observa, segundo o gabarito: <mark>simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé</mark>, dentre outros.
+
+⚠️ Alternativas que o gabarito deu como erradas: (A) formação, tramitação e julgamento por sistema eletrônico <mark>e-CAC da Receita Federal</mark>; (B) intervenção pelo <mark>tomador de serviços ou adquirente</mark> como substituto processual; (C) prazos em <mark>dias corridos</mark>, incluindo o dia da intimação e excluindo o do vencimento; (D) sujeito passivo intimado <mark>15 dias</mark> após a data do comprovante de entrega no DTE ou no sistema de comunicação eletrônica.
+
+> [!warning]- Pendência: texto da LC 227/26
+> A captura não traz os artigos do processo administrativo. Não completei o que é certo em A a D (qual sistema, quem intervém, contagem dos prazos, quando se considera intimado). Trazer o texto da lei (ex.: `/absorver-pdf` no PDF da LC 227) e escrever daí.
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Contencioso administrativo: Comitê de Harmonização e delegação do julgamento]] — contencioso administrativo do IBS e da CBS na LC 214 (arts. 326 e ss.).
+> - [[P2 - Reforma Tributária#Órgãos do CGIBS, sigilo e conflito de interesses (art. 7º)]] — o CGIBS, cujo processo a LC 227 disciplina.
+> - [[ERRO REFORMA TRIBUTÁRIA]] — errou em 20/09 (marcou D; gabarito E).

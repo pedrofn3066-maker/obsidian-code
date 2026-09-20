@@ -9,10 +9,3 @@ Captura rápida — apontamentos de questões e estudo mandados pelo Atalho "Env
 
 
 ## Capturas
-- 19 de set. de 2026, 21:04 — Técnica que cria cópias idênticas dos dados em múltiplos servidores para garantir alta
-REPLICAÇÃO
-disponibilidade e tolerância a falhas. Se um nó falhar, outro assume sem interromper o
-serviço. Pode ser síncrona (dados atualizados simultaneamente) ou assíncrona
-(atualização em segundo plano).
-é um teste
-
