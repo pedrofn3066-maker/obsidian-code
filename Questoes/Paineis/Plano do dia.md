@@ -65,6 +65,8 @@ Além do quê e por quê, cada item traz três coisas que tiram o atrito de come
 
 O slot fecha com **5 min de registro**: anotar o que foi erro de leitura, de lacuna ou de exceção (vira o `erro_tipo` no `/importar-tec`) e mandar o que sobrou pelo Atalho → `/triar-inbox`.
 
+**Slots sem matéria também têm checklist.** Simulado, correção, fechamento e discursiva viram tarefas com cor própria (roxo simulado, vermelho correção, verde-água fechamento, laranja discursiva), tempo e o "como". Na correção, os erros dos últimos 7 dias são agrupados por matéria e o que passa dos 60 min vira *se sobrar tempo*. Os modelos ficam em `TAREFAS_ESPECIAIS` no topo do script. Todo dia tem também uma **Dica do dia** no topo da página.
+
 A página HTML tem **checklist do dia**: cada item tem um checkbox, com progresso por slot e no topo, e **Ocultar feitos** limpa a tela conforme você avança. O estado fica no navegador (por dia). Os chips *S1 · revisão de ontem* e *Capturas* ficam na barra fixa.
 
 ## Mapeamentos que o script assume

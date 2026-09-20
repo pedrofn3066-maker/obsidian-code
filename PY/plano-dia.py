@@ -58,6 +58,40 @@ MIN_ACAO = {"ler": 20, "questoes": 25, "revisar": 12}
 MIN_REGISTRO = 5
 QUESTOES_POR_ITEM = "10–15"
 
+# Slots sem matéria (simulado, correção, fechamento, discursiva) também viram checklist:
+# (categoria, título, minutos, como fazer, [(chip, rel do vault)]).
+ROTULO_CAT = {"simulado": "Simulado", "corrigir": "Corrigir", "fechar": "Fechar o ciclo",
+              "escrever": "Discursiva"}
+TAREFAS_ESPECIAIS = {
+    ("simulado", "S2"): [
+        ("simulado", "Fazer a 1ª metade do simulado, cronometrado", 90,
+         "Sem consulta e sem pausa. Marque na hora as que chutou — chute certo também é lacuna.", []),
+    ],
+    ("simulado", "S3"): [
+        ("simulado", "Terminar o simulado", 75,
+         "Deixe 15 min no fim para revisar só as marcadas. Não corrija nada agora.", []),
+        ("simulado", "Anotar tempo por bloco e nº de chutes", 15,
+         "Dois números por matéria bastam: quanto demorou e quantas chutou. Alimentam o Diagnóstico.", []),
+    ],
+    ("fechamento", None): [
+        ("fechar", "Ganho potencial", 20,
+         "Some (peso × lacuna) e escolha as 3 matérias que mais valem a semana que vem.",
+         [("LEIA-ME", "Questoes/LEIA-ME")]),
+        ("fechar", "Fila de reforço", 20,
+         "Puxe os tópicos abaixo de 70% e distribua nos slots da semana.",
+         [("Fila de reforço", "Questoes/Paineis/Fila de reforço")]),
+        ("fechar", "Diagnóstico de erro", 15,
+         "Agrupe os erros da semana por erro_tipo: o que mais se repete manda no plano.",
+         [("Diagnóstico", "Questoes/Paineis/Diagnóstico de erro")]),
+    ],
+    ("discursiva", None): [
+        ("escrever", "Escolher tema e escrever, cronometrado", 50,
+         "Estrutura: tese na 1ª frase, 2 argumentos, fechamento. Nada de rascunho.", []),
+        ("escrever", "Autocorreção com checklist da banca", 25,
+         "Comando atendido? Limite de linhas? Base legal citada? Ortografia e coesão?", []),
+    ],
+}
+
 # Pastas de MATERIAL/ (cada uma com <pasta>/<pasta>.md de índice) que sustentam cada nota.
 # Mapeamento manual: nota sem entrada aqui simplesmente não mostra "Material".
 MATERIAL_POR_NOTA = {
@@ -868,7 +902,7 @@ def plano(hoje):
     for slot, minutos, rotulo in grade.get(dia, []):
         s = {"slot": slot, "min": minutos, "rotulo": rotulo, "funcao": FUNCAO_SLOT.get(slot, ""),
              "rodizio": None, "notas": [], "secoes": [], "especial": None, "erros": [], "aviso": None,
-             "usado": 0, "orcamento": 0}
+             "usado": 0, "orcamento": 0, "tarefas": []}
         tipo = especial(rotulo)
         if tipo == "correcao":
             for c in cadernos:
@@ -883,7 +917,21 @@ def plano(hoje):
             s["especial"] = "Ritual de domingo (LEIA-ME): Ganho potencial → Fila de reforço → Diagnóstico de erro."
         elif tipo:
             s["especial"] = "Sem recomendação por subtópico para este slot."
-        else:
+        if tipo:
+            modelo = (TAREFAS_ESPECIAIS.get((tipo, slot)) or TAREFAS_ESPECIAIS.get((tipo, None)) or [])
+            s["tarefas"] = [(c, ti, mi, co, [(r, abrir(rel)) for r, rel in on]) for c, ti, mi, co, on in modelo]
+            if tipo == "correcao":
+                dica = ("refaça cada erro sem abrir a nota; se errar de novo, é lacuna — vira "
+                        "Ler no próximo plano. Se acertar, classifique o erro_tipo.")
+                por_materia = {}
+                for d, m, tx, pc in s["erros"]:
+                    por_materia.setdefault(m, []).append(f"{tx} ({pct_txt(pc)})")
+                s["tarefas"] = [
+                    ("corrigir", f"{m} — {len(its)} erro{'s' if len(its) > 1 else ''}", min(3 * len(its), 25),
+                     f"{dica} Tópicos: " + "; ".join(its[:6]) + ("…" if len(its) > 6 else ""), [])
+                    for m, its in sorted(por_materia.items(), key=lambda kv: -len(kv[1]))]
+                s["erros"] = []
+        if not tipo:
             pares, s["rodizio"] = resolver(rotulo, semana)
             if not pares:
                 s["aviso"] = "Rótulo da grade sem mapeamento em PY/plano-dia.py (GRADE_PARA_NOTAS)."
@@ -960,6 +1008,9 @@ def render_texto(p):
             out.append(f"  rodízio: {s['rodizio']}")
         for aviso in filter(None, [s["aviso"], s["especial"]]):
             out.append(f"  {aviso}")
+        for cat, titulo, mi, como, onde in s["tarefas"]:
+            out.append(f"    [ ] {ROTULO_CAT[cat]} · {titulo} ({mi} min)")
+            out.append(f"        como: {como}")
         for d, materia, texto, pct in s["erros"]:
             out.append(f"    - {data_txt(d)} · {materia} · {texto} ({pct_txt(pct)})")
         if s["secoes"]:
@@ -1006,6 +1057,16 @@ button.on { background: rgba(74,125,187,.25); border-color: #4a7dbb; }
 .funcao, .rodizio, .notas, .roteiro { font-size: .85rem; opacity: .6; }
 .aviso { color: #c0392b; font-size: .9rem; }
 h3 { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; margin: 1.1rem 0 .3rem; }
+h3.simulado { color: #7b5cc4; } h3.corrigir { color: #c0392b; } h3.fechar { color: #1f9c96; } h3.escrever { color: #c9822a; }
+li.item.simulado { border-left: 3px solid #7b5cc4; padding-left: .6rem; }
+li.item.corrigir { border-left: 3px solid #c0392b; padding-left: .6rem; }
+li.item.fechar { border-left: 3px solid #1f9c96; padding-left: .6rem; }
+li.item.escrever { border-left: 3px solid #c9822a; padding-left: .6rem; }
+li.item.ler, li.item.questoes, li.item.revisar { border-left: 3px solid; padding-left: .6rem; }
+li.item.ler { border-color: #3a7ebf; } li.item.questoes { border-color: #2f9e58; } li.item.revisar { border-color: #c9822a; }
+.dica { margin: 1rem 0; padding: .6rem .9rem; border-radius: .5rem; font-size: .88rem;
+  background: rgba(74,125,187,.12); border: 1px solid rgba(74,125,187,.3); }
+.dica strong { display: block; margin-bottom: .2rem; }
 h3.ler { color: #3a7ebf; } h3.questoes { color: #2f9e58; } h3.revisar { color: #c9822a; }
 ul.itens { list-style: none; margin: 0; padding: 0; }
 li.item { display: flex; gap: .7rem; margin: .7rem 0; align-items: flex-start; }
@@ -1067,6 +1128,16 @@ JS = r"""
 """
 
 
+def dica_do_dia(p):
+    if p["dia"] == "domingo":
+        return ("Domingo é dia de medir, não de estudar: simule sem consulta, corrija tudo que errou e "
+                "feche o ciclo escolhendo o que vale mais ponto na semana. Marque cada tarefa ao terminar.")
+    if p["fase"] in ("consolidação", "reta final"):
+        return "Fase de consolidação: questões e revisão primeiro; só leia o que o erro apontou."
+    return ("Comece pelo item de maior peso do slot, marque ao terminar e use o 'como' para não decidir "
+            "na hora. Erro do slot vai no registro final.")
+
+
 def render_html(p):
     dia = p["data"].isoformat()
     h = [f'<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">'
@@ -1078,7 +1149,7 @@ def render_html(p):
     if not p["tem_grade"]:
         h.append('<div class="aviso">Tabela da Grade Semanal não encontrada.</div>')
 
-    tem_itens = any(s["secoes"] for s in p["slots"])
+    tem_itens = any(s["secoes"] or s["tarefas"] for s in p["slots"])
     if tem_itens:
         s1 = f"obsidian://shell-commands/?vault={quote(VAULT.name)}&execute=s1ontem01"
         h.append(
@@ -1087,6 +1158,7 @@ def render_html(p):
             f'<a class="chip" href="{abrir("Questoes/Capturas")}">Capturas</a>'
             '<button id="b-feitos">Ocultar feitos</button></div>')
 
+    h.append(f'<div class="dica"><strong>Dica do dia</strong>{escape(dica_do_dia(p))}</div>')
     for s in p["slots"]:
         h.append('<div class="slot">')
         h.append(f'<h2><span class="cod">{escape(s["slot"])} · {s["min"]} min ·</span> {escape(s["rotulo"])}'
@@ -1104,6 +1176,21 @@ def render_html(p):
             h.append(f'<div class="aviso">{escape(s["aviso"])}</div>')
         if s["especial"]:
             h.append(f"<p>{escape(s['especial'])}</p>")
+        if s["tarefas"]:
+            h.append('<ul class="itens">')
+            acum, orc = 0, s["min"] - MIN_REGISTRO
+            for k, (cat, titulo, mi, como, onde) in enumerate(s["tarefas"]):
+                acum += mi
+                sobra = "" if acum <= orc or k == 0 else " sobra"
+                chips = "".join(f'<a class="chip" href="{escape(hr)}">{escape(r)}</a>' for r, hr in onde)
+                h.append(
+                    f'<li class="item {cat}{sobra}" data-k="{escape(s["slot"] + ":" + cat + ":" + titulo)}">'
+                    f'<label class="chk"><input type="checkbox"><span class="tempo">{"se sobrar tempo" if sobra else f"{mi} min"}</span></label>'
+                    f'<div class="corpo"><span class="meta">{escape(ROTULO_CAT[cat])}</span>'
+                    f'<span class="topico">{escape(titulo)}</span>'
+                    f'<span class="onde">{chips}</span>'
+                    f'<span class="como">{escape(como)}</span></div></li>')
+            h.append("</ul>")
         if s["erros"]:
             h.append("<ul>" + "".join(
                 f"<li>{data_txt(d)} · {escape(m)} · {escape(t)} ({pct_txt(pc)})</li>"
@@ -1126,7 +1213,7 @@ def render_html(p):
                     for r, hr in extra["onde"])
                 chave_item = escape(f"{s['slot']}:{u.topico}")
                 h.append(
-                    f'<li class="item{"" if extra["cabe"] else " sobra"}" data-k="{chave_item}">'
+                    f'<li class="item {acao}{"" if extra["cabe"] else " sobra"}" data-k="{chave_item}">'
                     f'<label class="chk"><input type="checkbox"><span class="tempo">{escape(faixa(extra))}</span></label>'
                     f'<div class="corpo">{nota}<a class="topico" href="{href}">{escape(u.topico)}</a>{alvo_html}'
                     f'<span class="meta">{escape(meta_item(u))}</span>'
