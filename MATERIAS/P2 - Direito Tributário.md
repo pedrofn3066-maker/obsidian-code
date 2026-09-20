@@ -1369,7 +1369,7 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 
     
 ### Certidão Negativa (arts. 205 a 208 do CTN)
-- [ ] status [dom:: 4] [peso:: 3]
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-20
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/605?indice=1&materia=602)
 
 **Jurisprudência (Resumo VINTEUM D. Tributário)**
