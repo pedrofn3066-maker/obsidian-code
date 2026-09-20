@@ -80,10 +80,10 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5886?ind
 
 *(CTN comentado, Guruja, p. 7)*
 
-| Classificação | Espécies |
-| --- | --- |
-| **Tripartite** (CTN, art. 5º) | impostos, taxas e contribuições de melhoria |
-| **Pentapartida** (CF/88) | as três acima + **contribuições especiais** (sociais, de intervenção no domínio econômico e de interesse das categorias profissionais) + **empréstimos compulsórios** |
+| Classificação                 | Espécies                                                                                                                                                              |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tripartite** (CTN, art. 5º) | impostos, taxas e contribuições de melhoria                                                                                                                           |
+| **Pentapartida** (CF/88)      | as três acima + **contribuições especiais** (sociais, de intervenção no domínio econômico e de interesse das categorias profissionais) + **empréstimos compulsórios** |
 
 <mark style="background:#fff88f">O CTN adota a teoria tripartida; a CF/88 ampliou para cinco espécies.</mark>
 
