@@ -277,7 +277,8 @@ def montar(hoje, seg):
          "# Fechamento da semana", "",
          f"Semana de **{seg.strftime('%d/%m/%Y')}** · fechado em {hoje.strftime('%d/%m/%Y')} · janela de {JANELA} dias "
          f"({len(cads)} cadernos) · meta {META:.0%}.", "",
-         "Gerado por `PY/fechamento-semana.py` — não edite à mão, rode de novo. O [[Plano do dia]] lê o bloco "
+         "Gerado por `PY/fechamento-semana.py` — não edite à mão, "
+         "[▶ rode de novo](obsidian://shell-commands/?vault=vault-ba&execute=fechasemana01). O [[Plano do dia]] lê o bloco "
          "`json` no fim desta nota e só o aplica nos dias da semana acima.", "",
          "A grade continua sendo o piso: o fechamento só decide o rodízio de S5, a ordem dos tópicos dentro do slot "
          f"e o item extra de questões/revisão dos {TOP} primeiros blocos.", "",

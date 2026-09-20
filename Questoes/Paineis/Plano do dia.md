@@ -37,7 +37,9 @@ Nada é armazenado: cada execução lê o estado atual das notas, do Diario e da
 
 ## Fechamento de domingo
 
-No slot de fechamento do domingo, rode `python3 "$HOME/Documents/vault-ba/PY/fechamento-semana.py"` (só depois de registrar o simulado e a correção). Ele congela, para a semana que começa na segunda, o que o [[Ganho potencial]], a [[Fila de reforço]] e o edital dizem e grava em [[Fechamento da semana]]. `--dry-run` só imprime; não grava.
+**[▶ Gerar o fechamento da semana](obsidian://shell-commands/?vault=vault-ba&execute=fechasemana01)** — ou `Cmd+P` → *Execute: Fechamento da semana*. Mostra uma notificação com a prioridade e os rodízios; se não for domingo, ela avisa.
+
+Rode no slot de fechamento do domingo — pelo botão ou, no terminal, `python3 "$HOME/Documents/vault-ba/PY/fechamento-semana.py"` (só depois de registrar o simulado e a correção). Ele congela, para a semana que começa na segunda, o que o [[Ganho potencial]], a [[Fila de reforço]] e o edital dizem e grava em [[Fechamento da semana]]. `--dry-run` só imprime; não grava.
 
 A grade continua sendo o piso — a matéria de cada slot não muda. O plano do dia lê o fechamento em três pontos:
 
