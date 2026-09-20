@@ -64,6 +64,31 @@ Componente central da transparência contábil do setor público. Engloba as dem
 
 ⚠️ Não confundir com o regime **orçamentário**, que seria misto (ver [[#1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL|regimes]]).
 
+#### Características do setor público e informação dos RCPGs
+
+Base da Estrutura Conceitual (Possati, p. 6–14): o objetivo da maioria das entidades públicas é **prestar serviços à sociedade**, não dar lucro — por isso o desempenho só é avaliado **em parte** pela situação patrimonial, pelo desempenho e pelos fluxos de caixa.
+
+**Seis características do setor público:** (a) volume e significância das transações **sem contraprestação**; (b) importância do **orçamento público**; (c) natureza dos programas e **longevidade** do setor público; (d) natureza e propósito dos ativos e passivos; (e) **papel regulador** das entidades; (f) relacionamento com as **estatísticas de finanças públicas (EFP)**.
+
+**Objetivo dos RCPGs:** fornecer informação útil para **prestação de contas e responsabilização (accountability)** e para **tomada de decisão**. Usuários de serviços e provedores de recursos precisam avaliar: desempenho no exercício; **liquidez** (obrigações atuais) e **solvência** (obrigações de longo prazo); **sustentabilidade** da prestação de serviços; capacidade de se adaptar a novas situações. ⚠️ A lista é **exemplificativa**, não taxativa.
+
+| Usuário | Precisa de informação para avaliar |
+| --- | --- |
+| Provedores de recursos (em especial) | se a entidade alcança objetivos que justificam os recursos; se financiou as operações atuais com recursos do período; se precisará de mais (ou menos) recursos no futuro |
+| Credores por empréstimos e outros credores | a **liquidez** — se valor e prazo estarão conforme o contratado |
+| Doadores | se os recursos são usados com **eficácia, eficiência e economicidade** e da maneira pretendida |
+
+| Informação fornecida pelos RCPGs | O que revela |
+| --- | --- |
+| Situação patrimonial | recursos da entidade e demandas sobre eles na data do relatório |
+| Desempenho | custos da prestação de serviços e fontes de recuperação desses custos |
+| Fluxos de caixa | como arrecadou e usou recursos, inclusive empréstimos tomados e pagos |
+| Informação orçamentária e cumprimento da legislação | planos operacionais do período futuro; regras de captação e uso de recursos |
+| Resultado da prestação de serviços | informação financeira **e não financeira** — economicidade, eficiência, eficácia |
+| Informações prospectivas (financeiras e não financeiras) | sustentabilidade futura; podem ir em notas explicativas ou em relatório separado |
+
+⚠️ O alcance da informação contábil é **mais abrangente** que as demonstrações, mas a informação das demonstrações continua sendo o **núcleo**. É improvável que os RCPGs forneçam tudo — o usuário pode consultar outras fontes.
+
 #### Características qualitativas
 
 | Característica | Conceito |
@@ -80,6 +105,10 @@ Componente central da transparência contábil do setor público. Engloba as dem
 **Restrições:** Materialidade (omissão/distorção que influencia decisão), Custo-benefício, Equilíbrio entre características qualitativas (trade-off).
 
 **Compreensibilidade:** qualidade que permite aos usuários compreender o significado da informação. As demonstrações devem apresentá-la de modo que corresponda às necessidades e à base de conhecimento dos usuários e à natureza da informação apresentada. A compreensão é aprimorada quando a informação é classificada e apresentada de maneira **clara e sucinta**.
+
+#### Entidade que reporta a informação contábil
+
+Ente governamental ou outra organização, programa ou área identificável de atividade que elabora RCPGs (Possati, p. 17). Duas características-chave, **cumulativas**: (a) **capta recursos** da sociedade (ou em nome dela) e/ou os utiliza em benefício dela; (b) **existem usuários** de serviços ou provedores de recursos **dependentes** dos RCPGs para accountability e decisão. ⚠️ Pode ter personalidade jurídica própria **ou não** (organização, acordo administrativo, programa).
 
 #### Elementos das demonstrações contábeis
 
@@ -108,6 +137,19 @@ Componente central da transparência contábil do setor público. Engloba as dem
 | Custo de reposição/substituição | Entrada | sim | sim |
 | Preço líquido de venda | Saída | sim | sim |
 | Valor em uso | Saída | não | sim |
+
+**Bases de mensuração de passivos** (Possati, p. 19–21):
+
+| Base (passivo) | Entrada/saída | Observável no mercado? | Específica à entidade? |
+| --- | --- | --- | --- |
+| Custo histórico | Entrada | geralmente sim | sim |
+| Custo de cumprimento da obrigação | Entrada | não | sim |
+| Valor de mercado (mercado aberto, ativo, organizado) | Entrada e saída | sim | não |
+| Valor de mercado (mercado inativo) | Saída | depende da técnica | depende da técnica |
+| Custo de liberação | Saída | sim | sim |
+| Preço presumido | Entrada | sim | sim |
+
+Leitura: no **ativo**, valor de entrada = custo da compra; valor de saída = benefício da venda e do uso. No **passivo**, valor de entrada = transação em que a obrigação foi contraída ou o que a entidade aceitaria para assumi-la; valor de saída = montante para cumprir ou para se liberar da obrigação.
 
 **Desreconhecimento** (item 6.10): processo de avaliar se ocorreram mudanças, desde a data do relatório anterior, que justifiquem a **remoção** de elemento previamente reconhecido nas demonstrações contábeis, e de remover o item se tais mudanças ocorrerem.
 
@@ -346,6 +388,28 @@ Integridade e fidedignidade: as variações devem ser reconhecidas **na sua tota
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Estoque
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 04 (p. 34–37).
+
+**São estoques:** materiais/suprimentos a consumir na **produção** ou na **prestação de serviços**; itens **mantidos para venda** (mercadorias de varejista, terrenos e imóveis para revenda); itens **mantidos para distribuição** no curso normal (ex.: livros didáticos para doação a escolas).
+
+**Mensuração:** **custo histórico ou valor realizável líquido (VRL), o menor**. Exceções:
+
+| Caso | Mensuração |
+| --- | --- |
+| Adquirido em transação **sem contraprestação** | **valor justo** na data da aquisição |
+| **Bens de almoxarifado** | **preço médio ponderado** das compras (art. 106, III, Lei 4.320/64) |
+| Mantidos para **distribuição gratuita ou de valor irrisório**, ou consumidos na produção de bens a distribuir assim (ex. MCASP: cesta básica, merenda escolar) | **custo histórico ou custo corrente de reposição, o menor** |
+| Animais, produtos agrícolas e extrativos | **valor justo menos despesa de venda**, no reconhecimento inicial e ao fim de cada período (salvo valor justo não mensurável) |
+
+**VRL** = preço estimado de venda no curso normal − custos estimados de conclusão − custos estimados de venda, troca ou distribuição. ⚠️ VRL **pode não ser igual** ao valor justo deduzido dos gastos de venda: o valor justo **não** é específico da entidade; o VRL é.
+
+**Custo dos estoques** = todos os gastos de **aquisição** (preço de compra, impostos de importação e tributos não recuperáveis, frete, seguro, manuseio) + **transformação** (mão de obra direta e alocação sistemática de custos indiretos, variáveis e fixos) + outros para trazer o estoque à condição e localização atuais. **Descontos comerciais e abatimentos reduzem o custo** — não viram VPA.
+
+⚠️ **Não entram no custo — são VPD do período:** desperdício anormal de materiais, mão de obra ou insumos; armazenamento (salvo se necessário ao processo produtivo entre fases); despesas administrativas que não colocam o estoque no local e condição atuais; comercialização; gastos de distribuição, administrativos gerais e financeiros. Custos **posteriores** de armazenagem ou entrega ao cliente não são absorvidos pelo estoque.
+
+**Critérios de saída:** itens **não intercambiáveis** e bens/serviços de projetos específicos → **identificação específica**. Regra geral: **PEPS** ou **custo médio ponderado** (base periódica ou a cada lote recebido). ⚠️ **UEPS não é aceito.** Custo-padrão e método de varejo podem ser usados por conveniência **se o resultado se aproximar do custo**. Estoque recebido sem contraprestação (ex.: medicamentos doados após desastre) = **valor justo** na data do recebimento.
+
 ## - Investimento
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Imobilizado
@@ -408,6 +472,28 @@ Quando: (a) alienado; ou (b) **não há mais expectativa** de benefício econôm
 
 ## - Intangível
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 08 (p. 49–56).
+
+**Definição:** ativo **não monetário**, **identificável**, **sem substância física**. Identificável = **separável** ou resulta de **direitos contratuais/legais**. **Alcance:** regra geral da entidade em regime de competência; exceção — o **patrimônio cultural intangível** não precisa ser reconhecido; se for, aplica-se a **divulgação** e a mensuração é **facultativa**.
+
+**Reconhecimento inicial: custo.** Sem contraprestação → **valor justo** na data da aquisição (⚠️ isso **não** é reavaliação). **Permuta** → valor justo, salvo se não mensurável com confiança — vale mesmo que a entidade não consiga desreconhecer de imediato o ativo cedido.
+
+| | Compõe o custo | Não compõe |
+| --- | --- | --- |
+| **Adquirido separadamente** | preço de compra + impostos de importação/não recuperáveis + custos diretamente atribuíveis (benefícios a empregados, honorários, testes) − descontos e abatimentos | gastos de introdução de novo produto/serviço (inclusive propaganda), transferência para novo local ou clientes (inclusive treinamento), despesas administrativas e indiretos |
+| **Gerado internamente** | gastos **a partir da data** em que o ativo atende aos critérios de reconhecimento: materiais e serviços consumidos, benefícios a empregados, taxas de registro de direito legal, amortização de patentes e licenças usadas | vendas, administrativos e indiretos (salvo atribuíveis diretamente); ineficiências e perdas operacionais iniciais; treinamento de pessoal |
+
+⚠️ **Não se reconhecem como ativo:** **ágio (goodwill) gerado internamente**; **marcas, títulos de publicações, listas de usuários** e itens similares gerados internamente.
+
+**Mensuração posterior:** **modelo do custo** (custo − amortização − perda por impairment acumuladas) **ou** **modelo da reavaliação** (valor justo na data − amortização acumulada subsequente). ⚠️ No setor privado a reavaliação não é praticada (Lei 6.404/76); **no setor público é prática adotada** — a norma permite e não há restrição legal.
+
+**Vida útil:** **definida** → **amortiza**; **indefinida** (sem limite previsível de geração de fluxos ou potencial de serviços) → **não amortiza**. ⚠️ Vida útil indefinida **não amortiza, mas sofre teste de impairment** **anualmente** e sempre que houver indício. Revisão da vida útil a cada exercício; passar de indefinida para definida é **mudança de estimativa contábil**.
+
+**Amortização (vida útil definida):** inicia quando o ativo está **disponível para uso**. **Cessa** na primeira de 3 datas: classificado como **mantido para venda**; incluído em **grupo mantido para venda**; **desreconhecido**. Métodos: **linear** (linha reta/cotas constantes), **saldos decrescentes**, **unidades produzidas**; método e período revisados ao menos ao fim de cada exercício.
+
+**Baixa:** na **alienação** (inclusive sem contraprestação) ou quando não há expectativa de benefício econômico/potencial de serviços. Ganho ou perda = **valor líquido da alienação − valor contábil**, no resultado do período do desreconhecimento.
+
 ## - Depreciação
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -424,6 +510,8 @@ Alocação sistemática do valor depreciável ao longo da vida útil — mesmo c
 #### O que não deprecia
 
 **Terrenos** (exceto pedreiras e locais usados como aterro, que têm vida útil limitada) e **bens de natureza cultural**. Terrenos e edificações são ativos **separáveis** — contabilizados separadamente mesmo quando adquiridos juntos.
+
+⚠️ **Componentes:** cada componente de item do imobilizado com **custo significativo** em relação ao custo total do item é depreciado **separadamente**; a depreciação de cada período vai ao **resultado**, salvo se incluída no valor contábil de outro ativo (Possati, p. 47).
 
 #### Vida útil e valor residual — estimados pelo ente, não por tabela fixa
 
@@ -624,14 +712,92 @@ Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a cap
 
 ## - Receita de Transações
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018).
+
+#### Sem contraprestação (NBC TSP 01)
+
+**Definição:** a entidade recebe ativos ou serviços (ou tem passivos extintos) e entrega **valor irrisório ou nenhum**. No setor público a maior parte das VPAs vem daqui — tributos, transferências e multas (Possati, p. 22).
+
+**Reconhecimento do ativo:** quando obtém controle de recurso que se enquadra em ativo **e** (a) é provável que benefícios econômicos ou potencial de serviços fluam para a entidade; (b) o valor justo pode ser mensurado com confiança. Recurso que tem características de ativo mas não satisfaz o reconhecimento pode ser **evidenciado em notas como ativo contingente**. Regra geral de mensuração: **valor justo na data de aquisição**.
+
+| Situação | Tratamento |
+| --- | --- |
+| **Tributos** | ativo reconhecido no **fato gerador** (lançamento); enquanto não arrecadado, mensura-se pela **melhor estimativa** de entrada de recursos — exceção ao valor justo |
+| **Recebimento antecipado** | gera ativo **e** obrigação presente — a VPA **não** pode ser reconhecida nesse momento; cumpridas as condições, baixa o passivo e reconhece a VPA |
+| **Repartição tributária** | ente arrecadador registra a receita pelo valor **bruto** e a parcela a transferir no passivo (provisão); a dedução da receita ocorre no registro **orçamentário** (se só previu o líquido) — se fixou despesa a transferir, baixa o crédito disponível e o repasse é **despesa**, não dedução |
+| **Transferência voluntária** | receita orçamentária só na **efetiva transferência**; regra: beneficiário **não** registra o ativo. Se há cláusula contratual garantindo a parcela após cumprir etapas, registra **direito a receber** quando já tem direito à parcela |
+| **Doações** | doação em dinheiro é VPA **e** receita orçamentária (art. 57 da Lei 4.320/64); bens em espécie pelo **valor justo** na data de recebimento |
+| **Multas** | VPA quando se enquadram em ativo e satisfazem os critérios de reconhecimento |
+
+**Passivo de transação sem contraprestação:** (1ª) só **restrições** sobre o uso do ativo transferido, mesmo que o recebedor possa ser demandado depois → **não** há passivo inicial; (2ª) exigência de **devolver** o ativo (ou benefícios) ao transferente se não usado como especificado → o recebedor **constitui passivo** equivalente (Possati, p. 23–24).
+
+#### Com contraprestação (NBC TSP 02)
+
+**Definição:** recebe ativos ou serviços (ou tem passivos extintos) e entrega valor **aproximadamente igual**, em dinheiro, bens, serviços ou uso de ativos (Possati, p. 25). **Valores recebidos em nome de terceiros não são VPA** (ex. do MCASP: tarifas de telefone e eletricidade recebidas pelos Correios). ⚠️ **Empréstimos e financiamentos não são** transação com contraprestação: variações iguais em ativo e passivo, fato **permutativo**, sem impacto na situação patrimonial líquida.
+
+**Reconhecimento geral:** provável fluxo de benefícios econômicos ou potencial de serviços **e** mensuração confiável.
+
+| Tipo | Quando reconhece |
+| --- | --- |
+| **Prestação de serviços** | pela **percentagem de execução** — proporção dos serviços prestados até a data das DCs |
+| **Venda de bens** | 5 condições: transferiu ao comprador **riscos e benefícios significativos**; **sem envolvimento continuado** na gestão dos bens; VPA mensurável; provável fluxo de benefícios; custos incorridos e a incorrer mensuráveis |
+| **Juros** | *pro rata tempore*, pela taxa efetiva |
+| **Royalties** | à medida que são gerados, conforme a essência do acordo |
+| **Dividendos/distribuições similares** | quando se estabelece o direito de recebimento |
+
+⚠️ Mantém **riscos significativos** de propriedade → **não** é venda, VPA não reconhecida; risco **insignificante** → é venda. ⚠️ Incerteza sobre valor **já reconhecido** (incobrável ou recebimento deixou de ser provável): reconhece-se **VPD**, **não** ajuste da VPA original.
+
+**Mensuração:** valor justo da contraprestação recebida ou a receber, considerando descontos comerciais e bonificações. **Permuta** de bens/serviços de **natureza e valor similar** **não** gera VPA; por bens/serviços **não similares**, gera (Possati, p. 28).
+
 ## - Custos de empréstimos
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Propriedade para investimento
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 06 (p. 40–44).
+
+**Definição:** terreno ou edificação (ou parte, ou ambos) **mantido para auferir aluguel ou valorização do capital**, ou ambos, e **não** para (a) uso na produção/fornecimento de bens ou serviços ou fins administrativos, nem (b) venda no curso normal. Classifica-se em **Investimentos, no Ativo Não Circulante**.
+
+| É propriedade para investimento | Não é |
+| --- | --- |
+| terreno mantido para **valorização do capital a longo prazo**; terreno para **uso futuro ainda não definido** (presume-se valorização do capital) | mantida para **venda** no curso normal (ou em construção para tal) |
+| edifício **próprio ou em arrendamento financeiro**, arrendado sob **arrendamento operacional com fins comerciais**; edifício **desocupado** mantido para arrendar | em construção **por conta de terceiros**; **ocupada pelo proprietário**; arrendada a outra entidade sob **arrendamento financeiro**; mantida para **serviço social** que também gera caixa; mantida para **propósitos estratégicos** |
+| propriedade em construção para uso futuro como PPI | |
+
+⚠️ **Imóvel para aluguel:** aluguel ligado à **atividade-fim** da entidade → **imobilizado (NBC TSP 07)**; **não** ligado → **propriedade para investimento (NBC TSP 06)**.
+
+**Reconhecimento:** só se (a) provável fluxo de benefícios econômicos ou potencial de serviços **e** (b) custo ou valor justo mensurável com confiança. Manutenção usual **não** integra o valor contábil — é **VPD**.
+
+**Custo inicial:** preço de compra + gastos diretamente atribuíveis (serviços legais, tributos de transferência, custos de transação). Sem contraprestação → **valor justo**. **Não** aumentam o custo: gastos de início de operação (salvo necessários ao funcionamento pretendido), perdas operacionais antes da ocupação prevista, quantidades anormais de material/mão de obra. Compra a prazo: custo = **valor à vista**; a diferença é **VPD financeira** ao longo do financiamento. Direito em **arrendamento** classificado como PPI: **menor** entre valor justo e valor presente dos pagamentos mínimos, com passivo equivalente.
+
+**Mensuração posterior:** a entidade escolhe **modelo do valor justo** ou **modelo do custo** como política contábil e aplica a **todas** as suas PPIs. Pelo valor justo, ganho ou perda da variação vai ao **resultado do período** (DVP); exceção: valor justo não mensurável com confiabilidade em base contínua.
+
+⚠️ **Pendência no PDF (p. 42–43):** o item 7.5.3 (Modelo do Custo) repete o texto do valor justo ("escolhe o modelo do valor justo") e faz remissão à NBC TSP 07 — trecho aparentemente trocado; não completo, conferir na norma.
+
+**Alienação/desreconhecimento:** na alienação ou quando permanentemente retirada de uso sem benefício esperado. Ganho/perda = **receita líquida de venda − valor contábil**, no resultado (salvo *leaseback*, se outra NBC TSP dispuser).
+
 ## - Transação subsequente
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Outras NBC TSPs
 - [ ] status [dom:: 0] [peso:: 3]
+## - Concessão de serviços públicos (NBC TSP 05)
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 05 (p. 37–40).
+
+**Ótica da concedente** (entidade do setor público) — a norma **não** trata da contabilização da concessionária. Alcança concessões que envolvem **prestação de serviços** ligada ao ativo por parte da concessionária em nome da concedente; **não** alcança concessões sem prestação de serviço público, nem acordos de gestão e serviço em que o ativo **não é controlado** pela concedente (terceirização, contratos de serviço/privatização).
+
+**Ativo da concessão** — usado para prover serviços públicos, fornecido (a) pela **concessionária** (constrói/desenvolve/adquire de terceiro, ou ativo preexistente dela) ou (b) pela **concedente** (ativo preexistente, ou **melhoria** em ativo preexistente).
+
+**Reconhecimento pela concedente** — as **duas** condições: (a) controla ou regula quais serviços a concessionária fornece com o ativo, a quem e por qual preço; **e** (b) controla, por propriedade, usufruto ou outra forma, **participação residual significativa** ao fim da concessão.
+
+**Mensuração:** após o reconhecimento (ou reclassificação), o ativo da concessão é contabilizado como **classe separada** de ativos.
+
+**Passivo:** **regra** — sempre que reconhece o ativo da concessão, reconhece **também um passivo**, inicialmente pelo **valor justo**, ajustado por outros valores transferidos entre as partes. ⚠️ **Exceção:** **não** reconhece passivo quando o ativo **preexistente da concedente** é **reclassificado** como ativo da concessão.
+
+**Formas de compensação da concessionária:** (a) pagamentos a ela — **financiamento de passivos**; (b) outros meios — **concessão de direitos à concessionária**; (c) parte por assunção de passivo financeiro e parte por concessão de direito — **modelo bifurcado**. O **encargo financeiro e a tarifa** pelos serviços prestados pela concessionária são contabilizados como **despesa**.
+
 ## - Procedimentos contábeis específicos
 - [ ] status [dom:: 0] [peso:: 3]
 ## - PCASP e escrituração contábil pública
@@ -684,6 +850,32 @@ Escrituração: [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Bal
 
 ## - Introdução às DCs
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 11 (p. 62–66).
+
+**Finalidade das DCs:** representação estruturada da situação patrimonial e do desempenho; informação sobre fontes, alocações e usos de recursos, financiamento das atividades, capacidade de cumprir obrigações, condição financeira e desempenho (custo dos serviços, eficiência, objetivos). Podem ter função **preditiva/prospectiva**; ⚠️ é **improvável** que satisfaçam todos os objetivos, por isso admite-se informação suplementar (indicadores de desempenho, demonstrativos de serviços, revisões de programas).
+
+**Conjunto completo (item 21):** balanço patrimonial · demonstração do **resultado** · **DMPL** · **DFC** · comparação orçamento × realizado (demonstração das informações orçamentárias **ou** coluna do orçamento) · **notas explicativas** · **informação comparativa** do período anterior.
+
+| Nome na NBC TSP 11 | Nome no Brasil |
+| --- | --- |
+| Demonstração do resultado | **DVP** |
+| Demonstração das informações orçamentárias | **Balanço Orçamentário** |
+
+⚠️ **O Balanço Financeiro (Lei 4.320/64) não integra o conjunto completo da NBC TSP 11.**
+
+**Condições gerais:**
+
+| Condição | Regra |
+| --- | --- |
+| Apresentação adequada | representação fidedigna de situação patrimonial, desempenho e fluxos de caixa, pelas definições e critérios das NBCs TSP |
+| **Continuidade** | pressuposto, **salvo** intenção de liquidar/cessar operações ou falta de alternativa realista |
+| **Consistência** | apresentação e classificação mantidas entre períodos, salvo mudança significativa na natureza das operações, revisão que mostre outra classificação mais adequada, ou exigência de outra norma |
+| **Materialidade e agregação** | cada classe material de itens semelhantes separada; itens de natureza ou função distinta também, salvo não materiais |
+| **Compensação** | ativos, passivos, receitas e despesas **não** se compensam, salvo exigência ou permissão de NBC TSP |
+
+**Estrutura:** DCs identificadas e distinguidas de outras informações; período **pelo menos anual** (com comparativo).
+
 ## - Balanço Orçamentário
 - [x] status [dom:: 1] [peso:: 3] ✅ 2026-09-19
 
@@ -814,6 +1006,13 @@ Imobilizado · propriedade para investimento · intangível · ativos financeiro
 
 ## - DVP
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 11 (p. 68–69).
+
+Todos os itens de receita e despesa reconhecidos no período entram no resultado, salvo norma que exija outro tratamento. **Conteúdo mínimo:** (a) receita; (b) despesa; (c) parcela do resultado de coligadas, controladas e empreendimento controlado em conjunto pela **equivalência patrimonial**; (d) ganhos ou perdas antes dos tributos na alienação de ativos ou pagamento de passivos de operações em **descontinuidade**; (e) **resultado patrimonial** do período.
+
+Como alocação do resultado, divulga-se o resultado atribuível a **não controladores** e a **controladores**. ⚠️ "Receitas" e "despesas" da norma equivalem a **VPA** e **VPD** — a nomenclatura brasileira não existe nas normas internacionais.
+
 ## - DFC
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -825,6 +1024,8 @@ Imobilizado · propriedade para investimento · intangível · ativos financeiro
 Estrutura igual à [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Fluxo de Caixa (CPC 03)\|DFC privada (CPC 03)]] — mesmas três atividades, mesmos dois métodos. O que muda são os itens de linha, típicos do setor público.
 
 **Definições:** Caixa = numerário em espécie + depósitos bancários disponíveis. Equivalentes de caixa = aplicações de curto prazo, alta liquidez, conversibilidade em valor conhecido, risco insignificante.
+
+**Importância da DFC** (Possati, p. 72): identifica as **origens das entradas** de caixa, os itens que geraram **desembolsos** e o **saldo** na data das DCs. Ajuda a prever **necessidades futuras de caixa**, a **capacidade de gerar caixa** e a capacidade de financiar mudanças no alcance e na natureza das atividades.
 
 ⚠️ Uma única transação pode se dividir entre atividades — no pagamento de empréstimo, **juros** classificam como operacional, **principal** como financiamento.
 
@@ -880,6 +1081,20 @@ Ganhos e perdas não realizados de variação cambial **não são fluxos de caix
 
 ## - DMPL
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 11 (p. 69–70).
+
+**Deve demonstrar:** (a) o **resultado patrimonial** do período; (b) cada item de receita e despesa reconhecido **diretamente no PL** (por outras NBCs TSP) e o total; (c) o total de receitas e despesas (a + b), separando o atribuível aos **proprietários da controladora** e à participação de **não controladores**; (d) por componente do PL, os **efeitos de mudanças de política contábil e correção de erros**.
+
+**Na DMPL ou nas notas:** transações com proprietários (distribuições em separado); saldo de resultados acumulados no início e no fim do período e as alterações; conciliação do valor contábil de cada componente do PL no início e no fim, com cada alteração à parte.
+
 ## - Notas explicativas
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 11 (p. 70–71).
+
+**Conteúdo:** informação adicional às demonstrações — descrições narrativas, detalhamentos e informação sobre itens que **não atendem aos critérios de reconhecimento**. Devem (a) informar a **base de elaboração** e as **políticas contábeis** específicas; (b) divulgar o que as NBCs TSP exigem e **não está** nas demonstrações; (c) prover informação adicional **relevante** para compreendê-las. Cada item das demonstrações tem **referência cruzada** com as notas.
+
+**Ordem normal:** (a) declaração de conformidade com as NBCs TSP; (b) resumo das políticas contábeis significativas; (c) informação de suporte na **mesma ordem** das demonstrações; (d) outras divulgações — **passivos contingentes e compromissos contratuais não reconhecidos**, e divulgações não financeiras (ex.: objetivos e políticas de gestão de risco financeiro).
+
 
