@@ -182,6 +182,10 @@ Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma int
 - § 7º Podem implementar soluções integradas de administração e cobrança de IBS e CBS.
 - § 8º LC pode prever a integração do contencioso administrativo de IBS e CBS.
 
+> [!quote]- Texto literal: Art. 156-B, § 1º (IMPORTANTE no resumo) (Resumo EC 132, p. 21)
+>
+> §1º O Comitê Gestor do Imposto sobre Bens e Serviços, entidade pública sob regime especial, terá independência técnica, administrativa, orçamentária e financeira.
+
 
 ## EC nº 132/2023 (geral)
 
@@ -202,6 +206,32 @@ Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma int
 - § 2º: o optante pelo regime único (Simples Nacional) pode apurar e recolher IBS e CBS pelas regras gerais; nesse caso as parcelas de IBS e CBS <mark style="background:#fff88f">não são cobradas pelo regime único</mark>.
 - § 3º: enquanto durar essa opção, (I) o optante <mark style="background:#fff88f">não se apropria</mark> de créditos de IBS e CBS; (II) o adquirente não optante <mark style="background:#fff88f">se apropria</mark> de créditos em montante equivalente ao cobrado pelo regime único.
 
+> [!quote]- Texto literal: Art. 145, §§ 3º e 4º, com Bizú e Cuidado do resumo (Resumo EC 132, p. 5)
+>
+> §3º O Sistema Tributário Nacional deve observar os princípios da simplicidade, da transparência, da justiça tributária, da cooperação e da defesa do meio ambiente.
+>
+> Bizú: STJ Coopera para a Defesa do Meio Ambiente.
+>
+> Cuidado: uma possível pegadinha é relacionar o princípio da neutralidade no rol elencado pelo Art. 145, §3º. No entanto, o princípio da neutralidade é relacionado expressamente ao Imposto sobre Bens e Consumo (IBS).
+>
+> §4º As alterações na legislação tributária buscarão atenuar efeitos regressivos.
+
+> [!quote]- Texto literal: Art. 146 (IMPORTANTE no resumo) (Resumo EC 132, pp. 5–6)
+>
+> Art. 146. Cabe à lei complementar:
+>
+> c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas, inclusive em relação aos tributos IBS e CBS;
+>
+> d) definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos impostos ICMS e IBS, das contribuições sociais COFINS e CBS e da contribuição PIS.
+>
+> §2º É facultado ao optante pelo regime único de que trata o §1º (SIMPLES NACIONAL) apurar e recolher os tributos IBS e CBS, nos termos estabelecidos nesses artigos, hipótese em que as parcelas a eles relativas não serão cobradas pelo regime único.
+>
+> §3º Na hipótese de o recolhimento dos tributos IBS e CBS, ser realizado por meio do regime único de que trata o §1º (SIMPLES NACIONAL), enquanto perdurar a opção:
+>
+> I – Não será permitida a apropriação de créditos dos tributos IBS e CBS, pelo contribuinte optante pelo regime único; e
+>
+> II – Será permitida a apropriação de créditos dos tributos IBS e CBS, pelo adquirente não optante pelo regime único de que trata o §1º de bens materiais ou imateriais, inclusive direitos, e de serviços do optante, em montante equivalente ao cobrado por meio do regime único.
+
 ### Contribuições e Administração Pública (arts. 149-A, 149-B e 149-C)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -218,6 +248,16 @@ Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma int
 - § 1º: as operações podem ter alíquotas reduzidas de modo uniforme, nos termos de LC.
 - § 2º: LC pode prever hipóteses de não aplicação do caput e do § 1º.
 - § 3º: nas importações da administração direta, autarquias e fundações, a <mark style="background:#fff88f">imunidade recíproca</mark> (art. 150, VI, "a") é implementada na forma do caput e do § 1º, com igualdade de tratamento em relação às aquisições internas.
+
+> [!quote]- Texto literal: Art. 149-A, com o alerta do resumo (IMPORTANTE) (Resumo EC 132, p. 6)
+>
+> Art. 149-A. Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos, observado o disposto no art. 150, I e III. Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de energia elétrica.
+>
+> Antes da alteração promovida pela Reforma Tributária, o art. 149-A previa que Municípios e o Distrito Federal poderiam instituir contribuição, na forma das respectivas leis, para o custeio do serviço de iluminação pública. Portanto, fique atento a eventuais questões que tentem induzir a erro, indicando na alternativa a antiga disposição do art. 149-A da CF 1988.
+
+> [!quote]- Texto literal: Art. 149-B, parágrafo único (ATENÇÃO no resumo) (Resumo EC 132, p. 7)
+>
+> Parágrafo único. Os tributos de que trata o caput (IBS e CBS) observarão as imunidades previstas no art. 150, VI (relativa a impostos), não se aplicando a ambos os tributos o disposto no art. 195, §7º (regras de imunidade para contribuições). art. 195, §7º: São isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei.
 
 ### Imunidades (art. 150, VI, "b" e § 2º)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -271,6 +311,14 @@ Art. 153, VIII: compete à União instituir imposto sobre <mark style="backgroun
 - II: pode ter alíquotas <mark style="background:#fff88f">diferenciadas</mark> em função do tipo, do valor, da utilização e do impacto ambiental;
 - III: incide sobre a propriedade de veículos automotores <mark style="background:#fff88f">terrestres, aquáticos e aéreos</mark>, **excetuados**: a) aeronaves agrícolas e de operador certificado para prestar serviços aéreos a terceiros; b) embarcações de PJ com outorga para transporte aquaviário **ou** de PF/PJ que pratique pesca industrial, artesanal, científica ou de subsistência; c) plataformas que se locomovem na água por meios próprios (inclusive as de exploração de atividades econômicas em águas territoriais e na zona econômica exclusiva) e embarcações com essa mesma finalidade principal; d) tratores e máquinas agrícolas.
 
+> [!quote]- Texto literal: Art. 155, § 1º, II, com o alerta do resumo (IMPORTANTE) (Resumo EC 132, p. 9)
+>
+> II – Relativamente a bens móveis, títulos e créditos, compete ao Estado onde era domiciliado o de cujus, ou tiver domicílio o doador, ou ao Distrito Federal; (Nova redação dada por Emenda Constitucional nº 132 de 20/12/2023) Antes da alteração promovida pela Reforma Tributária, o art. 155, inciso II, previa que relativamente a bens móveis, títulos e créditos, compete ao Estado onde se processar o inventário ou arrolamento, ou tiver domicílio o doador, ou ao Distrito Federal. Portanto, fique atento a eventuais questões que tentem induzir a erro, indicando na alternativa a antiga disposição do art. 155, inciso II, da CF 1988.
+
+> [!quote]- Texto literal: Art. 155, § 3º (ATENÇÃO no resumo) (Resumo EC 132, p. 10)
+>
+> §3º À exceção dos impostos ICMS, II, IE, e IBS, nenhum outro imposto poderá incidir sobre operações relativas a energia elétrica e serviços de telecomunicações e, à exceção destes e do previsto no art. 153, VIII (Imposto Seletivo), nenhum outro imposto poderá incidir sobre operações relativas a derivados de petróleo, combustíveis e minerais do País. - À exceção dos impostos ICMS, II, IE e IBS, nenhum outro imposto poderá incidir sobre operações relativas à energia elétrica e serviços de telecomunicações. - À exceção dos impostos ICMS, II, IE, IBS e Imposto Seletivo, nenhum outro imposto poderá incidir sobre operações relativas a derivados de petróleo, combustíveis e minerais do País.
+
 ### Impostos dos Municípios: IPTU (art. 156, § 1º)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -280,6 +328,10 @@ Sem prejuízo da progressividade no tempo (art. 182, § 4º, II), o IPTU pode:
 - I: ser <mark style="background:#fff88f">progressivo</mark> em razão do valor do imóvel;
 - II: ter <mark style="background:#fff88f">alíquotas diferentes</mark> de acordo com a localização e o uso do imóvel (ATENÇÃO do resumo);
 - III: ter a <mark style="background:#fff88f">base de cálculo atualizada pelo Poder Executivo</mark>, conforme critérios de lei municipal (inciso incluído pela EC 132).
+
+> [!quote]- Texto literal: Art. 156, § 1º, II e III (ATENÇÃO no resumo) (Resumo EC 132, p. 11)
+>
+> II – Ter alíquotas diferentes de acordo com a localização e o uso do imóvel; (Incluído por Emenda Constitucional nº 29 de 13/09/2000) III – Ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos em lei municipal. (Incluído por Emenda Constitucional nº 132 de 20/12/2023)
 
 ### Repartição das receitas tributárias (arts. 158 a 162)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -320,6 +372,22 @@ Sem prejuízo da progressividade no tempo (art. 182, § 4º, II), o IPTU pode:
 > [!warning]- Pendência: figura da repartição
 > A página 26 do resumo ("ESQUEMA 1") é uma imagem e não foi extraída. Ler o esquema direto no PDF e, se agregar, incluí-lo aqui.
 
+> [!quote]- Texto literal: Art. 158, § 2º (IMPORTANTE no resumo) (Resumo EC 132, p. 24)
+>
+> § 2º As parcelas de receita pertencentes aos Municípios mencionadas no inciso IV, "b", (IBS) serão creditadas conforme os seguintes critérios:
+>
+> I – 80% (oitenta por cento) na proporção da população;
+>
+> II – 10% com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico dos educandos, de acordo com o que dispuser lei estadual;
+>
+> III – 5% com base em indicadores de preservação ambiental, de acordo com o que dispuser lei estadual;
+>
+> IV – 5% em montantes iguais para todos os Municípios do Estado.
+
+> [!quote]- Texto literal: Art. 159, II (ATENÇÃO no resumo) (Resumo EC 132, p. 25)
+>
+> II – Do produto da arrecadação do imposto sobre produtos industrializados (IPI) e do imposto previsto no art. 153, VIII (Imposto Seletivo), 10% aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados;
+
 ### CBS (art. 195, V e §§ 15 a 18)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -330,6 +398,10 @@ Sem prejuízo da progressividade no tempo (art. 182, § 4º, II), o IPTU pode:
 - § 16: aplica-se à CBS o art. 156-A, § 1º, I a VI, VIII, X a XIII; § 3º; § 5º, II a VI e IX; e §§ 6º a 11 e 13.
 - § 17: a CBS <mark style="background:#fff88f">não integra</mark> sua própria base de cálculo nem a dos tributos dos arts. 153, VIII, 156-A e 195, I, "b" e IV, nem a do PIS (art. 239).
 - § 18: lei estabelece as hipóteses de <mark style="background:#fff88f">devolução da CBS a pessoas físicas</mark>, com limites e beneficiários, para reduzir desigualdades de renda.
+
+> [!quote]- Texto literal: Art. 195, V (IMPORTANTE no resumo) (Resumo EC 132, p. 28)
+>
+> V – Sobre bens e serviços, nos termos de lei complementar (CBS).
 
 
 ## Disposições Preliminares. IBS/CBS sobre Operações I
@@ -550,6 +622,10 @@ Exceção: comercialização permitida entre estabelecimentos que exerçam ativi
 - § 12: redução de <mark style="background:#fff88f">30%</mark> para serviços de profissão intelectual, de natureza científica, literária ou artística, <mark style="background:#fff88f">submetidos a fiscalização por conselho profissional</mark>.
 - § 13: incluem-se (I) entre os medicamentos, composições para nutrição enteral ou parenteral e fórmulas nutricionais para erros inatos do metabolismo; (II) entre os alimentos, sucos naturais sem adição de açúcares e conservantes.
 
+> [!quote]- Texto literal: Art. 9º, § 10 (IMPORTANTE no resumo) (Resumo EC 132, p. 34)
+>
+> §10. Os regimes diferenciados de que trata este artigo serão submetidos a avaliação quinquenal de custo-benefício, podendo a lei fixar regime de transição para a alíquota padrão, não observado o disposto no § 2º, garantidos os respectivos ajustes nas alíquotas de referência.
+
 ## Serviços financeiros e operações com bens imóveis (EC 132, art. 10)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -599,6 +675,16 @@ Definições para o art. 156-A, § 6º, II:
 - Art. 14: a União custeia as despesas de instalação do Comitê Gestor, com posterior ressarcimento por ele.
 - Art. 15 (IMPORTANTE): os recursos do FNDR, do Fundo de Compensação e as compensações do art. 7º <mark style="background:#fff88f">não entram</mark> em bases de cálculo ou limites de despesa da LC do art. 6º da EC 126/2022.
 
+> [!quote]- Texto literal: Art. 12, caput (Resumo EC 132, p. 35)
+>
+> Art. 12. Fica instituído o Fundo de Compensação de Benefícios Fiscais ou Financeiro-Fiscais do imposto de que trata o art. 155, II, da Constituição Federal, com vistas a compensar, entre 1º de janeiro de 2029 e 31 de dezembro de 2032, pessoas físicas ou jurídicas beneficiárias de isenções, incentivos e benefícios fiscais ou financeiro-fiscais relativos àquele imposto, concedidos por prazo certo e sob condição.
+
+> [!quote]- Texto literal: Observação do resumo e art. 15 (IMPORTANTE) (Resumo EC 132, p. 38)
+>
+> OBS: apesar de pouco provável a cobrança de números exatos dos valores repassados aos Fundos, é importante evitar a confusão – Enquanto o Fundo de Compensação de Benefícios Fiscais ou Financeiro-Fiscais é uma iniciativa temporária, o Fundo Nacional de Desenvolvimento Regional é uma inciativa constitucional permanente.
+>
+> Art. 15. Os recursos entregues na forma do art. 159-A da Constituição Federal (Fundo Nacional de Desenvolvimento Regional), com a redação dada pelo art. 1º desta Emenda Constitucional, os recursos de que trata o art. 12 (Fundo de Compensação de Benefícios Fiscais) e as compensações de que trata o art. 7º não se incluem em bases de cálculo ou em limites de despesas estabelecidos pela lei complementar de que trata o art. 6º da Emenda Constitucional nº 126, de 21 de dezembro de 2022.
+
 ## Disposições finais da EC 132 (arts. 6º, 11, 16 a 23)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -634,6 +720,24 @@ Definições para o art. 156-A, § 6º, II:
 
 **Art. 23: vigência.** <mark style="background:#fff88f">2027</mark>: arts. 3º e 11. <mark style="background:#fff88f">2033</mark>: arts. 4º e 5º. Demais dispositivos: <mark style="background:#fff88f">data da publicação</mark>.
 
+> [!quote]- Texto literal: Arts. 22 e 23 (Resumo EC 132, p. 41)
+>
+> Art. 22. Revogam-se:
+>
+> I - em 2027, o art. 195, I, "b", e IV, e §12, da Constituição Federal;
+>
+> II - em 2033:
+>
+> a) os arts. 155, II, e §§ 2º a 5º, 156, III, e § 3º, 158, IV, "a", e § 1º, e 161, I, da Constituição Federal; e b) os arts. 80, II, 82, § 2º, e 83 do Ato das Disposições Constitucionais Transitórias.
+>
+> Art. 23. Esta Emenda Constitucional entra em vigor:
+>
+> I - em 2027, em relação aos arts. 3º e 11;
+>
+> II - em 2033, em relação aos arts. 4º e 5º; e
+>
+> III - na data de sua publicação, em relação aos demais dispositivos.
+
 ## ADCT: Zona Franca de Manaus (art. 92-B)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -668,6 +772,50 @@ As leis instituidoras de IBS e CBS estabelecem mecanismos, <mark style="backgrou
 - quem cumprir as obrigações acessórias pode ser <mark style="background:#fff88f">dispensado do recolhimento</mark>, nos termos de LC.
 
 **2029 a 2032 (art. 128):** benefícios e incentivos de ICMS e ISS não alcançados pelo caput são reduzidos na mesma proporção (§ 1º); os benefícios do art. 3º da LC 160/2017 são reduzidos nessa forma, <mark style="background:#fff88f">sem</mark> a redução do § 2º-A (§ 2º); ficam mantidos até 31/12/2032 os percentuais já reduzidos (§ 3º).
+
+> [!quote]- Texto literal: Art. 125 (Resumo EC 132, p. 43)
+>
+> Art. 125. Em 2026, o IBS será cobrado à alíquota estadual de 0,1% e a CBS, ambos da Constituição Federal, será cobrada à alíquota de 0,9%.
+>
+> §1º O montante recolhido na forma do caput será compensado com o valor devido das contribuições previstas no art. 195, I, "b" (COFINS), e IV (PIS/COFINS-Importação), e da contribuição para o Programa de Integração Social a que se refere o art. 239 (PIS), ambos da Constituição Federal.
+>
+> §2º Caso o contribuinte não possua débitos suficientes para efetuar a compensação de que trata o § 1º, o valor recolhido poderá ser compensado com qualquer outro tributo federal ou ser ressarcido em até 60 (sessenta) dias, mediante requerimento.
+>
+> §3º A arrecadação do IBS da Constituição Federal decorrente do disposto no caput deste artigo não observará as vinculações, repartições e destinações previstas na Constituição Federal, devendo ser aplicada, integral e sucessivamente, para:
+>
+> I - o financiamento do Comitê Gestor do Imposto sobre Bens e Serviços, nos termos do art. 156-B, § 2º, III, da Constituição Federal;
+>
+> II - compor o Fundo de Compensação de Benefícios Fiscais ou Financeiro-Fiscais do imposto de que trata o art. 155, II, da Constituição Federal.
+>
+> §4º Durante o período de que trata o caput, os sujeitos passivos que cumprirem as obrigações acessórias relativas aos tributos referidos no caput poderão ser dispensados do seu recolhimento, nos termos de lei complementar.
+
+> [!quote]- Texto literal: Arts. 126 a 129 (IMPORTANTE no art. 126) (Resumo EC 132, pp. 44–45)
+>
+> Art. 126. A partir de 2027:
+>
+> I - serão cobrados:
+>
+> a) a CBS;
+>
+> b) o Imposto Seletivo;
+>
+> II - serão extintas as contribuições: PIS, COFINS) e PIS/COFINS Importação, desde que instituída a contribuição referida na alínea "a" do inciso I (CBS);
+>
+> III - o IPI:
+>
+> a) terá suas alíquotas reduzidas a zero, exceto em relação aos produtos que tenham industrialização incentivada na Zona Franca de Manaus, conforme critérios estabelecidos em lei complementar; e b) não incidirá de forma cumulativa com o Imposto Seletivo.
+>
+> Art. 127. Em 2027 e 2028, o IBS será cobrado à alíquota estadual de 0,05% e à alíquota municipal de 0,05%. Parágrafo único. No período referido no caput, a alíquota da CBS será reduzida em 0,1 ponto percentual.
+>
+> Art. 128. De 2029 a 2032, as alíquotas do ICMS e ISS, serão fixadas nas seguintes proporções das alíquotas fixadas nas respectivas legislações: - 9/10 em 2029; - 8/10 em 2030; - 7/10 em 2031; - 6/10 em 2032.
+>
+> § 1º Os benefícios ou os incentivos fiscais ou financeiros relativos ao ICMS e ISS não alcançados pelo disposto no caput deste artigo serão reduzidos na mesma proporção.
+>
+> § 2º Os benefícios e incentivos fiscais ou financeiros referidos no art. 3º da Lei Complementar nº 160, de 7 de agosto de 2017, serão reduzidos na forma deste artigo, não se aplicando a redução prevista no § 2º-A do art. 3º da referida Lei Complementar.
+>
+> § 3º Ficam mantidos em sua integralidade, até 31 de dezembro de 2032, os percentuais utilizados para calcular os benefícios ou incentivos fiscais ou financeiros já reduzidos por força da redução das alíquotas, em decorrência do disposto no caput.
+>
+> Art. 129. Ficam extintos, a partir de 2033, o ICMS e ISS.
 
 ## ADCT: alíquotas de referência e Teto de Referência (art. 130)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -705,6 +853,44 @@ Fator de correção aplicado à Receita-Base dos Entes: <mark style="background:
 > [!warning]- Pendência: § 6º
 > O resumo reproduz só o inciso I do § 6º ("definidas de forma a que a Receita-Base seja igual ao respectivo Teto de Referência"). Conferir na CF/ADCT se há incisos seguintes.
 
+> [!quote]- Texto literal: Art. 130, caput e §§ 1º a 6º (ATENÇÃO no § 1º) (Resumo EC 132, pp. 45–47)
+>
+> Art. 130. Resolução do Senado Federal fixará, para todas as esferas federativas, as alíquotas de referência dos tributos IBS e CBS, observados a forma de cálculo e os limites previstos em lei complementar, de forma a assegurar:
+>
+> I - de 2027 a 2033, que a receita da União com a CBS e com o Imposto Seletivo seja equivalente à redução da receita: - a) das contribuições previstas no art. 195, I, "b" (COFINS) e IV (PIS/COFINS Importação), e da contribuição para o Programa de Integração Social de que trata o art. 239 (PIS), todos da Constituição Federal; - b) do imposto previsto no art. 153, IV (IPI); e - c) do imposto previsto no art. 153, V (IOF) sobre operações de seguros;
+>
+> II - de 2029 a 2033, que a receita dos Estados e do Distrito Federal com o IBS da Constituição Federal seja equivalente à redução:
+>
+> a) da receita do ICMS; e b) das receitas destinadas a fundos estaduais financiados por contribuições estabelecidas como condição à aplicação de diferimento, regime especial ou outro tratamento diferenciado, relativos ao ICMS, em funcionamento em 30 de abril de 2023, excetuadas as receitas dos fundos mantidas na forma do art. 136 (Fundos para infraestrutura e habitação social) deste Ato das Disposições Constitucionais Transitórias;
+>
+> III - de 2029 a 2033, que a receita dos Municípios e do Distrito Federal com o IBS seja equivalente à redução da receita do ISS, ambos da Constituição Federal.
+>
+> § 1º As alíquotas de referência serão fixadas no ano anterior ao de sua vigência, não se aplicando o disposto no art. 150, III, "c" (anterioridade nonagesimal), da Constituição Federal, com base em cálculo realizado pelo Tribunal de Contas da União.
+>
+> § 2º Na fixação das alíquotas de referência, deverão ser considerados os efeitos sobre a arrecadação dos regimes específicos, diferenciados ou favorecidos e de qualquer outro regime que resulte em arrecadação menor do que a que seria obtida com a aplicação da alíquota padrão.
+>
+> § 3º Para fins do disposto nos §§ 4º a 6º, entende-se por:
+>
+> I - Teto de Referência da União: a média da receita no período de 2012 a 2021, apurada como proporção do PIB, do imposto IPI, das contribuições PIS, COFINS e PIS/COFINS Importação e do IOF sobre operações de seguro;
+>
+> II - Teto de Referência Total: a média da receita no período de 2012 a 2021, apurada como proporção do PIB, dos impostos IPI, ICMS e ISS, das contribuições PIS, COFINS e PIS/COFINS Importação e do IOF sobre operações de seguro;
+>
+> III - Receita-Base da União: a receita da União com a contribuição CBS e com o Imposto Seletiv o, apurada como proporção do PIB;
+>
+> IV - Receita-Base dos Entes Subnacionais: a receita dos Estados, do Distrito Federal e dos Municípios com o imposto IBS, deduzida da parcela a que se refere a alínea "b" do inciso II do caput (Receita de f undos financiados por condição de regime especial), apurada como proporção do PIB;
+>
+> V - Receita-Base Total: a soma da Receita-Base da União com a Receita-Base dos Entes Subnacionais, sendo essa última: - multiplicada por 10 em 2029; - multiplicada por 5 em 2030; - multiplicada por 10 e dividida por 3 em 2031; - multiplicada por 10 e dividida por 4 em 2032; - multiplicada por 1 em 2033.
+>
+> OBS: É importante lembrar que Receita-Base da União = CBS + IS, Receita-Base dos União Entes Entes = IBS, e a Receita-Base Total = R + Fc* R. O objetivo do Fator de Correção é ajustar o cálculo para o período de transição do IBS. Por exemplo, no ano em que o IBS for aplicado em 20%, deve-se multiplicar a Receita dos Entes por 5.
+>
+> § 4º A alíquota de referência da contribuição CBS será reduzida em 2030 caso a média da Receita-Base da União em 2027 e 2028 exceda o Teto de Referência da União.
+>
+> § 5º As alíquotas de referência da CBS e do IBS serão reduzidas em 2035 caso a média da Receita-Base Total entre 2029 e 2033 exceda o Teto de Referência Total.
+>
+> § 6º As reduções de que tratam os §§ 4º e 5º serão:
+>
+> I - definidas de forma a que a Receita-Base seja igual ao respectivo Teto de Referência;
+
 ## ADCT: distribuição do IBS de 2029 a 2077 (arts. 131 e 132)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -729,6 +915,22 @@ Fator de correção aplicado à Receita-Base dos Entes: <mark style="background:
 **Art. 132: retenção de 5%.** Do IBS apurado pelas alíquotas de referência, deduzida a retenção do art. 131, § 1º, retém-se <mark style="background:#fff88f">5%</mark> para distribuir aos entes com as <mark style="background:#fff88f">menores razões</mark> entre: (I) o valor apurado nos termos dos arts. 149-C e 156-A, § 4º, II e § 5º, I e IV (com alíquotas de referência, após o art. 158, IV, "b"); e (II) a <mark style="background:#fff88f">receita média</mark> (art. 131, § 2º), limitada a <mark style="background:#fff88f">3 vezes</mark> a média nacional por habitante da respectiva esfera.
 - § 1º: distribuição <mark style="background:#fff88f">sequencial e sucessiva</mark> aos entes com as menores razões, de modo que, ao final, todos os que receberem tenham a <mark style="background:#fff88f">mesma razão</mark>. § 2º: aplica-se o art. 131, § 5º. § 3º: LC fixa os critérios de <mark style="background:#fff88f">redução gradativa</mark>, entre <mark style="background:#fff88f">2078 e 2097</mark>, do percentual até a extinção.
 
+> [!quote]- Texto literal: Art. 131, caput e § 1º (Resumo EC 132, pp. 47–48)
+>
+> Art. 131. De 2029 a 2077, o produto da arrecadação dos Estados, do Distrito Federal e dos Municípios com o IBS será distribuído a esses entes federativos conforme o disposto neste artigo.
+>
+> §1º Serão retidos do produto da arrecadação do imposto de cada Estado, do Distrito Federal e de cada Município apurada com base nas alíquotas de referência de que trata o art. 130 deste Ato das Disposições Constitucionais Transitórias, nos termos dos arts. 149-C e 156-A, § 4º, II, e § 5º, I e IV, antes da aplicação do disposto no art. 158, IV, "b", todos da Constituição Federal: - de 2029 a 2032, 80% - em 2033, 90% - de 2034 a 2077, percentual correspondente ao aplicado em 2033, reduzido à razão de 1/45 por ano.
+
+> [!quote]- Texto literal: Art. 132, caput e § 3º (Resumo EC 132, pp. 49–50)
+>
+> Art. 132. Do imposto dos Estados, do Distrito Federal e dos Municípios apurado com base nas alíquotas de referência de que trata o art. 130 deste Ato das Disposições Constitucionais Transitórias, deduzida a retenção de que trata o art. 131, § 1º, será retido montante correspondente a 5% para distribuição aos entes com as menores razões entre:
+>
+> I - o valor apurado nos termos dos arts. 149-C (IBS e CBS incidente nas contratações da Adm. Pública) e 156-A, § 4º, II (IBS distribuído pelo Comitê Gestor), e § 5º, I e IV (regras de distribuição do IBS), com base nas alíquotas de referência, após a aplicação do disposto no art. 158, IV, "b" (repasse de 25% do IBS dos estados aos municípios), todos da Constituição Federal; e
+>
+> II - a respectiva receita média, apurada nos termos do art. 131, § 2º, I, II e III, deste Ato das Disposições Constitucionais Transitórias, limitada a 3 vezes a média nacional por habitante da respectiva esfera federativa.
+>
+> § 3º Lei complementar estabelecerá os critérios para a redução gradativa, entre 2078 e 2097, do percentual de que trata o caput, até a sua extinção.
+
 ## ADCT: base de cálculo, saldos credores e demais transições (arts. 133 a 137)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -747,6 +949,38 @@ Fator de correção aplicado à Receita-Base dos Entes: <mark style="background:
 **Art. 136:** Estados que em <mark style="background:#fff88f">30/4/2023</mark> tinham fundos de infraestrutura e habitação financiados por contribuições sobre produtos primários e semielaborados, exigidas como condição de diferimento ou regime especial do ICMS, podem instituir contribuições semelhantes <mark style="background:#fff88f">não vinculadas ao ICMS</mark>, desde que: (I) alíquota não superior e base não mais ampla que as vigentes em 30/4/2023; (II) a instituição extingue a contribuição vinculada ao ICMS; (III) mesma destinação da receita; (IV) extinta em <mark style="background:#fff88f">31/12/2043</mark>. Parágrafo único: essas receitas não contam como receita do Estado para os arts. 130, II, "b" e 131, § 2º, I, "b".
 
 **Art. 137:** os saldos financeiros de recursos do <mark style="background:#fff88f">Fundo Nacional de Saúde</mark> e do <mark style="background:#fff88f">Fundo Nacional de Assistência Social</mark> transferidos, no enfrentamento da Covid (2020 a 2022), aos fundos estaduais, municipais e do DF podem ser aplicados até <mark style="background:#fff88f">31/12/2024</mark> no custeio de ações e serviços públicos de saúde e assistência social, observadas as diretrizes do SUS e do SUAS.
+
+> [!quote]- Texto literal: Arts. 133 e 134 (ATENÇÃO no art. 133 e IMPORTANTE no § 6º do art. 134) (Resumo EC 132, pp. 50–51)
+>
+> Art. 133. Os tributos de que IPI, ICMS e ISS, PIS, COFINS e PIS/COFINS Importação não integrarão a base de cálculo do IBS e da CBS.
+>
+> Art. 134. Os saldos credores relativos ao ICMS, existentes ao final de 2032 serão aproveitados pelos contribuintes na forma deste artigo e nos termos de lei complementar.
+>
+> §1º O disposto neste artigo alcança os saldos credores cujos aproveitamento ou ressarcimento sejam admitidos pela legislação em vigor em 31 de dezembro de 2032 e que tenham sido homologados pelos respectivos entes federativos, observadas as seguintes diretrizes:
+>
+> I - apresentado o pedido de homologação, o ente federativo deverá se pronunciar no prazo estabelecido na lei complementar a que se refere o caput;
+>
+> II - na ausência de resposta ao pedido de homologação no prazo a que se refere o inciso I deste parágrafo, os respectivos saldos credores serão considerados homologados.
+>
+> §2º Aplica-se o disposto neste artigo também aos créditos reconhecidos após o prazo previsto no caput.
+>
+> §3º O saldo dos créditos homologados será informado pelos Estados e pelo Distrito Federal ao Comitê Gestor do Imposto sobre Bens e Serviços para que seja compensado com o IBS:
+>
+> I - pelo prazo remanescente, apurado nos termos do art. 20, § 5º, da Lei Complementar nº 87, de 13 de setembro de 1996, para os créditos relativos à entrada de mercadorias destinadas ao ativo permanente;
+>
+> II - em 240 parcelas mensais, iguais e sucessivas, nos demais casos.
+>
+> §4º O Comitê Gestor do Imposto sobre Bens e Serviços deduzirá do produto da arrecadação do IBS devido ao respectivo ente federativo o valor compensado na forma do §3º, o qual não comporá base de cálculo para fins do disposto nos arts. 158, IV, 198, § 2º, 204, parágrafo único, 212, 212-A, II, e 216, § 6º, todos da Constituição Federal.
+>
+> §5º A partir de 2033, os saldos credores serão atualizados pelo IPCA ou por outro índice que venha a substituí-lo.
+>
+> §6º Lei complementar disporá sobre:
+>
+> I - as regras gerais de implementação do parcelamento previsto no §3º;
+>
+> II - a forma pela qual os titulares dos créditos de que trata este artigo poderão transferi-los a terceiros;
+>
+> III - a forma pela qual o crédito de que trata este artigo poderá ser ressarcido ao contribuinte pelo Comitê Gestor do Imposto sobre Bens e Serviços, caso não seja possível compensar o valor da parcela nos termos do § 3º.
 
 
 # LC 227/26 . Comitê Gestor do IBS (CGIBS)
