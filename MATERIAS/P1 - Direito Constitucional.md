@@ -1045,26 +1045,64 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 ### Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3216?indice=1&materia=457)
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - Art. 145, § 3º: simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente. Bizú: *STJ Coopera para a Defesa do Meio Ambiente*.
+> - ⚠️ A neutralidade não está nesse rol: é princípio do IBS (art. 156-A, § 1º).
+> - Art. 145, § 4º: atenuar efeitos **regressivos** (⚠️ a banca troca por "progressivos").
+> - Art. 149-A: além da iluminação pública, **sistemas de monitoramento para segurança e preservação de logradouros públicos** (⚠️ redação antiga = alternativa errada).
+> - Art. 149-B, parágrafo único: IBS e CBS observam as imunidades do art. 150, VI; **não** se aplica o art. 195, § 7º.
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
     
 ### Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1963?indice=1&materia=457)
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - Art. 150, VI, "b": templos e entidades religiosas, **inclusive suas organizações assistenciais e beneficentes**.
+> - Art. 150, § 2º: a imunidade recíproca vale também para a **empresa pública prestadora de serviço postal**.
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
     
 ### Dos Impostos da União (arts. 153 e 154 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3217?indice=1&materia=457)
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - Imposto Seletivo (art. 153, VIII e § 6º): não incide sobre exportações nem sobre energia elétrica e telecomunicações; incide uma única vez; não integra a própria base, mas integra a de ICMS, ISS, IBS e CBS; alíquotas em lei ordinária (específicas ou ad valorem); na extração, alíquota máxima de 1% do valor de mercado.
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
     
 ### Dos Impostos dos Estados e Distrito Federal (art. 155 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3218?indice=1&materia=457)
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - ITCMD, bens móveis, títulos e créditos: Estado do domicílio do *de cujus* ou do doador. ⚠️ Antes da EC 132 era o Estado do inventário ou arrolamento.
+> - § 3º: energia elétrica e telecomunicações só sofrem ICMS, II, IE e IBS; derivados de petróleo, combustíveis e minerais, esses mesmos mais o Imposto Seletivo.
+> - IPVA (§ 6º): alíquotas mínimas fixadas pelo Senado; podem variar por tipo, valor, utilização e impacto ambiental; incide sobre veículos terrestres, aquáticos e aéreos, exceto aeronaves agrícolas, embarcações de transporte aquaviário ou de pesca, plataformas e tratores e máquinas agrícolas.
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
     
 ### Dos Impostos dos Municípios (art. 156 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3219?indice=1&materia=457)
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - IPTU (§ 1º, III): a base de cálculo pode ser atualizada pelo Poder Executivo, conforme critérios de lei municipal.
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
     
 ### Do Imposto de Competência Compartilhada entre Estados, Distrito Federal e Municípios (arts. 156-A e 156-B da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/16299?indice=1&materia=457)
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - IBS: competência compartilhada; neutralidade; alíquota própria de cada ente por lei específica, igual para todas as operações; cobrado pelo somatório das alíquotas do Estado e do Município de destino; não cumulativo; o Senado fixa a alíquota de referência.
+> - Comitê Gestor (art. 156-B): entidade pública sob regime especial; 27 membros dos Estados/DF + 27 dos Municípios (14 por voto igual, 13 ponderados pela população); aprova com maioria absoluta de cada bancada e, nos Estados, mais de 50% da população.
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
 
 Art. 156-A. [...]
 § 5º **Lei complementar disporá sobre**:
@@ -1074,6 +1112,12 @@ III - **a forma e o prazo para ressarcimento de créditos acumulados pelo c
 ### Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/2078?indice=1&materia=457)
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - Art. 158, IV: 25% do ICMS e do IBS dos Estados. IBS: 80% população, 10% educação, 5% meio ambiente, 5% iguais entre os Municípios.
+> - Art. 159, II: 10% de IPI e Imposto Seletivo aos Estados e DF, por exportações. Art. 159-A: FNDR, 30% população e 70% coeficiente do FPE, calculado pelo TCU.
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
 
 
 ## - Finanças Públicas (arts. 163 a 169)

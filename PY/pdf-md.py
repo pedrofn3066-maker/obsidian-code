@@ -123,9 +123,19 @@ def converte(caminho: Path):
                 out.append(limpa_marcas(buf).strip() + "\n")
             buf = ""
 
-        for _, tam, txt in ls:
+        for k, (_, tam, txt) in enumerate(ls):
             puro = re.sub(r"[*]|</?mark>", "", txt).strip()
-            if norm_cabecalho(puro) in repetidas or SO_NUMERO.match(puro):
+            # número solto só é nº de página se for o da página ou estiver na borda dela;
+            # um "2027" no meio do texto é ano de vigência e NÃO pode sumir
+            eh_pagina = False
+            if SO_NUMERO.match(puro):
+                nums = [int(x) for x in re.findall(r"\d+", puro)]
+                na_borda = k in (0, 1, len(ls) - 2, len(ls) - 1)
+                if len(nums) == 2:  # "3 de 51" / "3/51": só se for exatamente página/total
+                    eh_pagina = nums == [i, n]
+                else:  # nº solto: o da página, ou na borda e plausível como página
+                    eh_pagina = nums[0] == i or (na_borda and nums[0] <= n)
+            if norm_cabecalho(puro) in repetidas or eh_pagina:
                 diag["descartadas"] += 1
                 continue
             if tam >= corpo + 2 and len(puro) < 120:

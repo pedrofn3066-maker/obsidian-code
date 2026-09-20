@@ -318,6 +318,12 @@ Lei nº 4.826, de 27 de janeiro de 1989 — consolidada até a Lei nº 14.971/20
 
 ⚠️ Regra geral do art. 8º: **imóvel** → local do bem; **bem móvel/direito/crédito** → domicílio do de cujus ou do doador (não do herdeiro/donatário). O parágrafo único reproduz quase literalmente a regra de transição do art. 155, § 1º, III da CF — a lei estadual só replicou o texto constitucional para os casos com conexão internacional, que continuam dependendo de lei complementar federal ainda não editada.
 
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - Art. 155, § 1º, II da CF (EC 132): bens móveis, títulos e créditos → Estado do domicílio do *de cujus* ou do doador, ou DF. ⚠️ Antes: Estado do inventário ou arrolamento.
+> - EC 132, art. 17: a nova regra vale para as **sucessões abertas a partir da publicação** da Emenda.
+> - EC 132, art. 16: regra provisória do ITCMD internacional, até LC (doador no exterior → domicílio do donatário; donatário também no exterior → Estado onde estiver o bem).
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
 ## Alíquotas (art. 9º)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -388,6 +394,11 @@ Arts. 11-12 são normas de **remissão ao regulamento** — a lei não detalha p
 
 #  IPVA Bahia — Lei nº 6.348/1991
 - [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-17
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - CF, art. 155, § 6º: alíquotas mínimas fixadas pelo Senado; alíquotas diferenciadas por tipo, valor, utilização e impacto ambiental; incide sobre veículos terrestres, aquáticos e aéreos.
+> - Exceções da CF: aeronaves agrícolas e de operador certificado de serviços aéreos a terceiros; embarcações de PJ com outorga de transporte aquaviário ou de quem pesca (industrial, artesanal, científica, subsistência); plataformas; tratores e máquinas agrícolas.
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
 
 <mark style="background:#fff88f">Regra geral: FG do IPVA ocorre em 1º de janeiro de cada exercício.</mark> Exceções pelo momento: veículo novo → alienação ao consumidor final (ou incorporação ao ativo por empresa fabricante, revendedora ou importadora); veículo registrado em outro estado → uso ou locação não eventual no território da Bahia; veículo de procedência estrangeira importado diretamente por consumidor final → desembaraço aduaneiro.
 
@@ -571,6 +582,13 @@ ___
 
 ### Transição do ICMS para o IBS
 - [ ] status [dom:: 0] [peso:: 3]
+
+> [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
+> - **2026:** IBS 0,1% e CBS 0,9%. **2027 e 2028:** IBS 0,05% estadual + 0,05% municipal.
+> - **2029 a 2032:** alíquotas de ICMS e ISS a 9/10, 8/10, 7/10 e 6/10; benefícios e incentivos reduzidos na mesma proporção. **2033:** ICMS e ISS extintos.
+> - **Saldos credores de ICMS** ao final de 2032: se homologados, compensados com IBS pelo prazo remanescente (ativo permanente) ou em **240 parcelas** mensais; atualização pelo IPCA a partir de 2033; sem resposta do ente no prazo da LC, considera-se homologado.
+> - **Benefícios onerosos** (prazo certo e condição), concedidos até 31/5/2023: Fundo de Compensação de 2029 a 2032, com aportes da União (R$ 8 bi em 2025, chegando a R$ 32 bi em 2028 e 2029).
+> Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
 
 ---
 
