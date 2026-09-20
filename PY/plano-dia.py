@@ -902,7 +902,7 @@ def plano(hoje):
     for slot, minutos, rotulo in grade.get(dia, []):
         s = {"slot": slot, "min": minutos, "rotulo": rotulo, "funcao": FUNCAO_SLOT.get(slot, ""),
              "rodizio": None, "notas": [], "secoes": [], "especial": None, "erros": [], "aviso": None,
-             "usado": 0, "orcamento": 0, "tarefas": []}
+             "usado": 0, "orcamento": 0, "tarefas": [], "cor": slot.lower()}
         tipo = especial(rotulo)
         if tipo == "correcao":
             for c in cadernos:
@@ -918,6 +918,8 @@ def plano(hoje):
         elif tipo:
             s["especial"] = "Sem recomendação por subtópico para este slot."
         if tipo:
+            s["cor"] = {"simulado": "simulado", "correcao": "corrigir", "fechamento": "fechar",
+                        "discursiva": "escrever"}[tipo]
             modelo = (TAREFAS_ESPECIAIS.get((tipo, slot)) or TAREFAS_ESPECIAIS.get((tipo, None)) or [])
             s["tarefas"] = [(c, ti, mi, co, [(r, abrir(rel)) for r, rel in on]) for c, ti, mi, co, on in modelo]
             if tipo == "correcao":
@@ -1052,7 +1054,11 @@ button:hover, a.chip:hover { background: rgba(128,128,128,.15); }
 button.on { background: rgba(74,125,187,.25); border-color: #4a7dbb; }
 .slot { margin-top: 2.2rem; padding-top: 1.2rem; border-top: 1px solid rgba(128,128,128,.25); }
 .slot h2 { font-size: 1.1rem; margin: 0; }
-.slot h2 .cod { opacity: .55; font-weight: 500; }
+.slot h2 .cod { opacity: .75; font-weight: 500; }
+.slot.s2 h2 { color: #3a7ebf; } .slot.s3 h2 { color: #2f9e58; } .slot.s4 h2 { color: #c9822a; }
+.slot.s5 h2 { color: #c2508a; } .slot.s1 h2 { color: #8a8a8e; }
+.slot.simulado h2 { color: #7b5cc4; } .slot.corrigir h2 { color: #c0392b; }
+.slot.fechar h2 { color: #1f9c96; } .slot.escrever h2 { color: #c9822a; }
 .slot h2 .prog { float: right; font-size: .8rem; font-weight: 500; opacity: .6; }
 .funcao, .rodizio, .notas, .roteiro { font-size: .85rem; opacity: .6; }
 .aviso { color: #c0392b; font-size: .9rem; }
@@ -1160,7 +1166,7 @@ def render_html(p):
 
     h.append(f'<div class="dica"><strong>Dica do dia</strong>{escape(dica_do_dia(p))}</div>')
     for s in p["slots"]:
-        h.append('<div class="slot">')
+        h.append(f'<div class="slot {s["cor"]}">')
         h.append(f'<h2><span class="cod">{escape(s["slot"])} · {s["min"]} min ·</span> {escape(s["rotulo"])}'
                  '<span class="prog"></span></h2>')
         h.append(f'<div class="funcao">{escape(s["funcao"])}</div>')
