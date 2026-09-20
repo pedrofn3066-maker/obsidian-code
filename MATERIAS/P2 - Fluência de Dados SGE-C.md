@@ -57,6 +57,9 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 ## - Lei Geral de Proteção de Dados Pessoais — LGPD
 - [ ] status [dom:: 3] [peso:: 3]
 
+> [!info]- Ponte
+> - O texto integral da Lei 13.709/2018 (arts. 1º a 65, com literal, lupas e pontes) está em [[P1 - Direito Administrativo#LGPD — Requisitos do tratamento (arts. 7º a 16)]], [[P1 - Direito Administrativo#LGPD — Poder Público (arts. 23 a 32)]], [[P1 - Direito Administrativo#LGPD — Sanções administrativas (arts. 52 a 54)]] e [[P1 - Direito Administrativo#LGPD — ANPD e CNPD (arts. 55-A a 59, 61 e 65)]]. Esta nota trata só da LGPD em contratações de TI do governo.
+
 
 ![[Pasted image 20260829183844.png|750]]
 
