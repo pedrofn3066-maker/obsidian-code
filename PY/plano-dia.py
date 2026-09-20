@@ -15,6 +15,7 @@ slot fecha com 5 min de registro. A página HTML tem checklist do dia (salvo no 
 Critérios, limitações e como ler: Questoes/Paineis/Plano do dia.md
 """
 import argparse
+import json
 import re
 import subprocess
 import tempfile
@@ -29,6 +30,7 @@ VAULT = Path(__file__).resolve().parent.parent
 MATERIAS = VAULT / "MATERIAS"
 DIARIO = VAULT / "Questoes" / "Diario"
 GRADE = VAULT / "Questoes" / "Slots (Grade Semanal).md"
+FECHAMENTO = VAULT / "Questoes" / "Paineis" / "Fechamento da semana.md"
 
 # ---------------------------------------------------------------------------
 # CONFIGURAÇÃO
@@ -74,12 +76,12 @@ TAREFAS_ESPECIAIS = {
          "Dois números por matéria bastam: quanto demorou e quantas chutou. Alimentam o Diagnóstico.", []),
     ],
     ("fechamento", None): [
-        ("fechar", "Ganho potencial", 20,
-         "Some (peso × lacuna) e escolha as 3 matérias que mais valem a semana que vem.",
-         [("LEIA-ME", "Questoes/LEIA-ME")]),
-        ("fechar", "Fila de reforço", 20,
-         "Puxe os tópicos abaixo de 70% e distribua nos slots da semana.",
-         [("Fila de reforço", "Questoes/Paineis/Fila de reforço")]),
+        ("fechar", "Fechamento da semana", 25,
+         "Rode `python3 PY/fechamento-semana.py` (só depois de registrar o simulado e a correção). Abra a nota, "
+         "confira o ranking do Ganho potencial, os rodízios de S5 e a Fila de reforço; o plano da semana lê dali.",
+         [("Fechamento da semana", "Questoes/Paineis/Fechamento da semana"),
+          ("Ganho potencial", "Questoes/Paineis/Ganho potencial"),
+          ("Fila de reforço", "Questoes/Paineis/Fila de reforço")]),
         ("fechar", "Diagnóstico de erro", 15,
          "Agrupe os erros da semana por erro_tipo: o que mais se repete manda no plano.",
          [("Diagnóstico", "Questoes/Paineis/Diagnóstico de erro")]),
@@ -110,6 +112,10 @@ JANELA_ERRO = 30          # dias em que um erro de caderno ainda puxa revisão
 CORTE_ERRO = 0.70         # acerto abaixo disso no tópico conta como erro (Fila de reforço)
 CORTE_RELEITURA = 0.60    # abaixo disso o protocolo manda reler antes de refazer
 INTERVALO_POR_DOM = {0: 7, 1: 7, 2: 7, 3: 15, 4: 30, 5: 60}
+# Fechamento de domingo (PY/fechamento-semana.py): a grade continua mandando na matéria de cada slot;
+# o fechamento só entra nestes três pontos.
+FORCA_GANHO = 0.5   # nota mais necessitada (peso_ordem = 1) ganha até +50% no score dos tópicos
+COTA_TOP = 1        # blocos do topo do Ganho potencial ganham +1 item em "questoes" e "revisar"
 SCORE_HEADING = 0.40
 SCORE_ASSUNTO = 0.45
 HEADING_GENERICO = 3      # título repetido tantas vezes no grupo não serve de âncora
@@ -891,7 +897,55 @@ def analisar(pares, cadernos, hoje):
     return unidades
 
 
+def carregar_fechamento(hoje):
+    """Fechamento de domingo válido para a semana de `hoje`. Devolve (dados, mensagem):
+    dados é None quando a nota não existe, está ilegível ou é de outra semana."""
+    aviso = "Sem fechamento da semana — rode `python3 PY/fechamento-semana.py` no domingo. Plano só pela grade e pelo edital."
+    if not FECHAMENTO.exists():
+        return None, aviso
+    m = re.search(r"```json\n(.*?)\n```", FECHAMENTO.read_text(encoding="utf-8"), re.S)
+    try:
+        dados = json.loads(m.group(1)) if m else None
+    except json.JSONDecodeError:
+        dados = None
+    if not dados:
+        return None, "Nota Fechamento da semana ilegível (bloco json) — rode `python3 PY/fechamento-semana.py` de novo."
+    segunda = hoje - timedelta(days=hoje.weekday())
+    if dados.get("semana_inicio") == segunda.isoformat():
+        return dados, f"Fechamento de {date.fromisoformat(dados['gerado_em']).strftime('%d/%m')} aplicado (rodízio de S5, ordem dos tópicos, +1 item nos 3 blocos do topo)."
+    if dados.get("semana_inicio") == (segunda + timedelta(days=7)).isoformat():
+        return None, "Fechamento da próxima semana já gerado — vale a partir de segunda."
+    ini = date.fromisoformat(dados["semana_inicio"]).strftime("%d/%m")
+    return None, f"Fechamento desatualizado (é da semana de {ini}) — rode `python3 PY/fechamento-semana.py`. Plano só pela grade e pelo edital."
+
+
+def fator_nota(fech, nota):
+    """Multiplicador do score de um tópico pela necessidade da nota (1,0 a 1 + FORCA_GANHO)."""
+    n = (fech or {}).get("notas", {}).get(nota.stem)
+    return 1 + FORCA_GANHO * n["peso_ordem"] if n else 1.0
+
+
+def ganho_do_slot(fech, pares):
+    """Texto de contexto do slot e se algum bloco dele está no topo do Ganho potencial."""
+    por_bloco = {b["bloco"]: b for b in fech["blocos"]}
+    vistos, textos, topo = [], [], False
+    for stem, _ in pares:
+        n = fech["notas"].get(stem)
+        if not n or n["bloco"] in vistos:
+            continue
+        vistos.append(n["bloco"])
+        b = por_bloco[n["bloco"]]
+        topo = topo or n["bloco"] in fech["top"]
+        ganho = f"{b['ganho']:.2f}".replace(".", ",")
+        base = ("sem caderno em 30d — o ranking usa a média geral" if b["amostra"] == "sem dado"
+                else f"{b['acerto_bruto'] * 100:.1f}% em {b['questoes']} questões (30d)".replace(".", ","))
+        textos.append(f"{b['bloco']}: #{b['posicao']} de {len(por_bloco)} no ganho potencial ({ganho} pts) · {base}"
+                      + (" · amostra baixa" if b["amostra"] == "baixa" else ""))
+    return " / ".join(textos), topo
+
+
 def plano(hoje):
+    fech, fech_msg = carregar_fechamento(hoje)
     semana = (hoje - INICIO_CICLO).days // 7 + 1
     fase = "pré-ciclo" if semana < 1 else next(nome for lim, nome in FASES if semana <= lim)
     cadernos = ler_cadernos()
@@ -901,7 +955,7 @@ def plano(hoje):
     slots = []
     for slot, minutos, rotulo in grade.get(dia, []):
         s = {"slot": slot, "min": minutos, "rotulo": rotulo, "funcao": FUNCAO_SLOT.get(slot, ""),
-             "rodizio": None, "notas": [], "secoes": [], "especial": None, "erros": [], "aviso": None,
+             "rodizio": None, "ganho": None, "notas": [], "secoes": [], "especial": None, "erros": [], "aviso": None,
              "usado": 0, "orcamento": 0, "tarefas": [], "cor": slot.lower()}
         tipo = especial(rotulo)
         if tipo == "correcao":
@@ -914,7 +968,7 @@ def plano(hoje):
             s["especial"] = ("Erros dos cadernos dos últimos 7 dias — refaça cada um sem consultar a nota:"
                              if s["erros"] else "Nenhum erro registrado nos cadernos dos últimos 7 dias.")
         elif tipo == "fechamento":
-            s["especial"] = "Ritual de domingo (LEIA-ME): Ganho potencial → Fila de reforço → Diagnóstico de erro."
+            s["especial"] = "Ritual de domingo: Fechamento da semana (Ganho potencial + Fila de reforço + edital) → Diagnóstico de erro."
         elif tipo:
             s["especial"] = "Sem recomendação por subtópico para este slot."
         if tipo:
@@ -935,6 +989,9 @@ def plano(hoje):
                 s["erros"] = []
         if not tipo:
             pares, s["rodizio"] = resolver(rotulo, semana)
+            escolha = fech and pares and fech["rodizios"].get(chave(rotulo))
+            if escolha:
+                pares, s["rodizio"] = [tuple(x) for x in escolha["escolha"]], escolha["motivo"]
             if not pares:
                 s["aviso"] = "Rótulo da grade sem mapeamento em PY/plano-dia.py (GRADE_PARA_NOTAS)."
             else:
@@ -944,14 +1001,19 @@ def plano(hoje):
                     s["aviso"] = f"Nota não encontrada: {e.filename}"
                     unidades = []
                 s["notas"] = [carregar(stem) for stem, _ in pares if (MATERIAS / f"{stem}.md").exists()]
+                topo = False
+                if fech:
+                    s["ganho"], topo = ganho_do_slot(fech, pares)
                 por_acao = {"ler": [], "questoes": [], "revisar": []}
                 for u in unidades:
                     r = classificar(u, hoje)
                     if r:
-                        por_acao[r[0]].append((r[1], u, r[2]))
+                        por_acao[r[0]].append((r[1] * fator_nota(fech, u.nota), u, r[2]))
                 for acao, n in ENFASE.get(slot, [("ler", 2), ("questoes", 2), ("revisar", 2)]):
                     if acao == "ler" and fase in ("consolidação", "reta final"):
                         continue
+                    if topo and acao in ("questoes", "revisar"):
+                        n += COTA_TOP
                     itens = sorted(por_acao[acao], key=lambda x: -x[0])[:n]
                     s["secoes"].append((acao, [(u, razoes, dicas(acao, u, razoes, hoje))
                                                for _, u, razoes in itens]))
@@ -961,7 +1023,8 @@ def plano(hoje):
     s1 = ("S1 · ocupado pelo simulado" if dia == "domingo"
           else "S1 · 30 min · revisão ativa — use o painel S1 - Revisão de ontem")
     return {"data": hoje, "dia": NOME_DIA[hoje.weekday()], "semana": semana, "fase": fase,
-            "s1": s1, "slots": slots, "tem_grade": bool(grade)}
+            "s1": s1, "slots": slots, "tem_grade": bool(grade), "fechamento": fech_msg,
+            "fechamento_ok": fech is not None}
 
 
 # ---------------------------------------------------------------------------
@@ -1001,13 +1064,15 @@ def faixa(extra):
 
 def render_texto(p):
     out = [f"PLANO DO DIA — {p['dia']}, {p['data'].strftime('%d/%m/%Y')} · "
-           f"semana {p['semana']} do ciclo · fase {p['fase']}", "", p["s1"]]
+           f"semana {p['semana']} do ciclo · fase {p['fase']}", "", p["s1"], f"Fechamento: {p['fechamento']}"]
     if not p["tem_grade"]:
         out.append("\n(tabela da Grade Semanal não encontrada)")
     for s in p["slots"]:
         out += ["", f"{s['slot']} · {s['min']} min · {s['rotulo']} — {s['funcao']}"]
         if s["rodizio"]:
             out.append(f"  rodízio: {s['rodizio']}")
+        if s["ganho"]:
+            out.append(f"  {s['ganho']}")
         for aviso in filter(None, [s["aviso"], s["especial"]]):
             out.append(f"  {aviso}")
         for cat, titulo, mi, como, onde in s["tarefas"]:
@@ -1151,7 +1216,8 @@ def render_html(p):
          f"<style>{CSS}</style>",
          f"<h1>Plano do dia — {escape(p['dia'])}, {p['data'].strftime('%d/%m/%Y')}</h1>",
          f'<div class="sub">semana {p["semana"]} do ciclo · fase {escape(p["fase"])}</div>',
-         f'<div class="s1">{escape(p["s1"])}</div>']
+         f'<div class="s1">{escape(p["s1"])}</div>',
+         f'<div class="{"funcao" if p["fechamento_ok"] else "aviso"}">Fechamento: {escape(p["fechamento"])}</div>']
     if not p["tem_grade"]:
         h.append('<div class="aviso">Tabela da Grade Semanal não encontrada.</div>')
 
@@ -1172,6 +1238,8 @@ def render_html(p):
         h.append(f'<div class="funcao">{escape(s["funcao"])}</div>')
         if s["rodizio"]:
             h.append(f'<div class="rodizio">rodízio: {escape(s["rodizio"])}</div>')
+        if s["ganho"]:
+            h.append(f'<div class="rodizio">{escape(s["ganho"])}</div>')
         if s["notas"]:
             links = " · ".join(f'<a href="{uri(n)}">{escape(n.stem)}</a>' for n in s["notas"])
             h.append(f'<div class="notas">{links}</div>')

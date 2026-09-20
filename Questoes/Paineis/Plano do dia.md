@@ -33,7 +33,23 @@ python3 "$HOME/Documents/vault-ba/PY/plano-dia.py" --diag Penal
 
 `--data` planeja outro dia (útil no domingo, para ver a semana). `--texto` imprime no terminal. `--diag` mostra, para uma matéria, cada tópico com o heading que o script escolheu, o conteúdo contado, os cadernos casados e a ação resultante — é o comando para desconfiar de uma recomendação.
 
-Nada é armazenado: cada execução lê o estado atual das notas, do Diario e da grade.
+Nada é armazenado: cada execução lê o estado atual das notas, do Diario e da grade — **com uma exceção, o [[Fechamento da semana]]** (abaixo).
+
+## Fechamento de domingo
+
+No slot de fechamento do domingo, rode `python3 "$HOME/Documents/vault-ba/PY/fechamento-semana.py"` (só depois de registrar o simulado e a correção). Ele congela, para a semana que começa na segunda, o que o [[Ganho potencial]], a [[Fila de reforço]] e o edital dizem e grava em [[Fechamento da semana]]. `--dry-run` só imprime; não grava.
+
+A grade continua sendo o piso — a matéria de cada slot não muda. O plano do dia lê o fechamento em três pontos:
+
+- **Rodízio de S5** (Rodízio 4, Cont. Geral/Pública, Micro/Macro): a matéria da semana é a de maior necessidade, com um bônus de 25% por semana sem aparecer (no máximo 4). Sem fechamento, vale o rodízio por número da semana.
+- **Ordem dos tópicos** num slot com mais de uma nota: score × (1 + 0,5 × `peso_ordem`), onde `peso_ordem` mistura erro em questões dos últimos 30 dias (70%) e lacuna do edital (30%, a média de (5 − dom)/5 ponderada pelo peso VINTEUM). Nota sem caderno não some do ranking: o edital cobre.
+- **Cota:** os 3 primeiros blocos do Ganho potencial ganham +1 item em *Fazer questões* e em *Revisar*.
+
+O acerto de cada bloco é suavizado com 60 questões fantasma na média geral: bloco com 24 questões não sobe nem some por acaso, e bloco sem caderno usa a média (aparece como "sem dado"). O ranking do plano pode divergir do painel [[Ganho potencial]] (Dataview, sem suavização) — é de propósito.
+
+A **Fila de reforço** já entrava no plano ao vivo, por tópico (seção *Revisar*, mesmo corte de 70%); o fechamento só registra o mapa da semana. Erro novo de terça continua entrando no dia seguinte.
+
+O plano avisa no topo quando não há fechamento da semana (ou quando ele é de outra semana) e cai no comportamento anterior: grade, rodízio por semana e edital.
 
 ## Como ler
 
