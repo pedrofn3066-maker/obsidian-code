@@ -1369,7 +1369,7 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 
     
 ### Certidão Negativa (arts. 205 a 208 do CTN)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 4] [peso:: 3]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/605?indice=1&materia=602)
 
 **Jurisprudência (Resumo VINTEUM D. Tributário)**
@@ -1388,14 +1388,85 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 >
 > Art. 206 Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido efetivada a penhora, ou cuja exigibilidade esteja suspensa.
 
-⚠️ **Pegadinha de prova** (captura 20/09, IBAM, Q106): o gabarito é a alternativa que repete o parágrafo único do art. 205 — certidão negativa <mark>sempre expedida nos termos em que tenha sido requerida</mark> e fornecida em <mark>10 dias</mark> da entrada do requerimento. As alternativas erradas trocavam: validade de <mark>180 dias</mark> "independentemente de ser relativa a tributo federal, estadual ou municipal" (A); responsabilização pessoal da <mark>pessoa física que solicitar</mark> a certidão expedida com dolo ou fraude (D); e impedimento do lançamento por <mark>30 dias</mark> a partir do protocolo do requerimento (E).
+**Art. 207:** independentemente de disposição legal permissiva, é <mark>dispensada a prova de quitação</mark> de tributos, ou o seu suprimento, quando se tratar de ato <mark>indispensável para evitar a caducidade de direito</mark>. ⚠️ Em troca, <mark>todos os participantes no ato respondem</mark> pelo tributo devido, juros de mora e penalidades cabíveis, **exceto** as relativas a infrações cuja responsabilidade seja <mark>pessoal ao infrator</mark>. *(CTN comentado, Guruja, p. 88, captura 20/09)*
 
-> [!warning]- Pendência: arts. 207 e 208 do CTN
-> O heading cobre os arts. 205 a 208, mas a nota só tem o texto dos arts. 205 e 206. Não completei o art. 208 (certidão expedida com dolo ou fraude: quem responde pelo crédito e juros) porque a captura não o traz. Conferir no CTN comentado (Guruja, p. 88–89) e escrever a regra antes de dar a alternativa D por explicada.
+> [!quote]- Texto literal: Art. 207 (CTN Guruja, p. 88)
+> Art. 207 Independentemente de disposição legal permissiva, será dispensada a prova de quitação de tributos, ou o seu suprimento, quando se tratar de prática de ato indispensável para evitar a caducidade de direito, respondendo, porém, todos os participantes no ato pelo tributo porventura devido, juros de mora e penalidades cabíveis, exceto as relativas a infrações cuja responsabilidade seja pessoal ao infrator.
+
+**Art. 208:** a certidão negativa expedida com <mark>dolo ou fraude</mark>, que contenha erro contra a Fazenda Pública, responsabiliza <mark>pessoalmente o funcionário que a expedir</mark>, pelo crédito tributário e juros de mora acrescidos. O parágrafo único preserva a responsabilidade <mark>criminal e funcional</mark> que no caso couber. *(CTN comentado, Guruja, p. 88; cobrado em FGV 2023, Questão #2346742, e CEBRASPE 2020, Questão #1143497)*
+
+> [!quote]- Texto literal: Art. 208 (CTN Guruja, p. 88)
+> Art. 208 A certidão negativa expedida com dolo ou fraude, que contenha erro contra a Fazenda Pública, responsabiliza pessoalmente o funcionário que a expedir, pelo crédito tributário e juros de mora acrescidos.
+>
+> Parágrafo único. O disposto neste artigo não exclui a responsabilidade criminal e funcional que no caso couber.
+
+> [!tip]- Lupa: art. 208, quem responde pela certidão falsa
+> **A ideia:** a certidão negativa vale como prova de quitação; se ela sai errada por dolo ou fraude e prejudica a Fazenda, o artigo escolhe como responsável o funcionário que a expediu.
+>
+> **O passo a passo:** (1) a certidão negativa é expedida com dolo ou fraude; (2) contém erro contra a Fazenda Pública; (3) o funcionário que a expediu responde pessoalmente pelo crédito tributário e pelos juros de mora; (4) isso não afasta a responsabilidade criminal e funcional (parágrafo único). *Exemplo ilustrativo (sem lastro):* servidor emite negativa sabendo que há débito em aberto; responde pelo valor do tributo com juros e ainda pode responder no crime e na esfera funcional.
+>
+> **O erro clássico:** trocar o responsável. A alternativa D da Q106 (IBAM) dizia que a certidão com dolo ou fraude responsabiliza pessoalmente "a pessoa física que a solicitar"; o texto é "o funcionário que a expedir".
+
+⚠️ **Pegadinha de prova** (captura 20/09, IBAM, Q106): o gabarito é a alternativa que repete o parágrafo único do art. 205 — certidão negativa <mark>sempre expedida nos termos em que tenha sido requerida</mark> e fornecida em <mark>10 dias</mark> da entrada do requerimento. As alternativas erradas trocavam: validade de <mark>180 dias</mark> "independentemente de ser relativa a tributo federal, estadual ou municipal" (A); responsabilização pessoal da <mark>pessoa física que solicitar</mark> a certidão expedida com dolo ou fraude (D); e impedimento do lançamento por <mark>30 dias</mark> a partir do protocolo do requerimento (E).
 
 > [!info]- Ponte
 > - [[P2 - Direito Tributário#Dívida Ativa Tributária (arts. 201 a 204 do CTN)]] — heading vizinho no CTN (arts. 201 a 204), que precede a certidão.
 > - [[ERRO DIREITO TRIBUTÁRIO]] — errou em 20/09 (marcou D; gabarito B).
+
+
+### Disposições Finais e Transitórias (arts. 209 a 218 do CTN)
+- [ ] status [dom:: 0] [peso:: 3]
+
+*(CTN comentado, Guruja, p. 88–90; captura 20/09)*
+
+- **Art. 209:** "Fazenda Pública", quando empregada na Lei <mark>sem qualificação</mark>, abrange a da União, dos Estados, do DF e dos Municípios.
+- **Art. 210:** os prazos da Lei ou da legislação tributária são <mark>contínuos</mark>; <mark>exclui-se o dia de início e inclui-se o de vencimento</mark>. Parágrafo único: só se iniciam ou vencem em <mark>dia de expediente normal</mark> na repartição em que corra o processo ou deva ser praticado o ato.
+- **Art. 211:** o Conselho Técnico de Economia e Finanças, do Ministério da Fazenda, presta assistência técnica aos governos estaduais e municipais para a aplicação uniforme da Lei. ⚠️ Comentário do PDF: o Conselho **não existe mais** na estrutura atual do Ministério; o artigo é registro histórico da preocupação com a segurança jurídica e a uniformidade de aplicação.
+- **Art. 212:** os Poderes Executivos federal, estaduais e municipais expedem, por decreto, em até <mark>90 dias</mark> da entrada em vigor da Lei, a **consolidação em texto único** da legislação de cada tributo, repetindo a providência até <mark>31 de janeiro de cada ano</mark>.
+- **Arts. 213 a 216:** ⚠️ dispositivos de época, sem uso hoje. **Art. 213** (convênio entre Estados da mesma região geoeconômica para alíquota uniforme do imposto do art. 52) e seu parágrafo único (Municípios, alíquota do art. 60): as seções desses impostos foram <mark>inteiramente revogadas</mark>; com a CF/88 os benefícios do ICMS passaram ao CONFAZ (LC 24/75) e a ideia de regiões geoeconômicas foi substituída pelo pacto federativo nacional. **Art. 214** (convênios para excluir ou limitar o imposto na exportação): hoje a exportação é imune por **CF/88, art. 155, § 2º, X, "a"**. **Arts. 215 e 216**: transitórios de **1967** (reajuste da alíquota do art. 52 por lei estadual; medidas do art. 21 da EC 18/1965).
+- **Art. 217:** norma de <mark>salvaguarda</mark>: as disposições do CTN não excluem a incidência e a exigibilidade de contribuições que existiam com natureza e finalidade distintas dos tributos do CTN — (I) contribuição sindical; (II) quotas de previdência; (III) Fundo de Assistência e Previdência do Trabalhador Rural; (IV) <mark>FGTS</mark>; (V) contribuições do § 2º do art. 34 da Lei 4.863/1965 e <mark>outras de fins sociais criadas por lei</mark>. Comentário do PDF: caráter histórico, para que a reorganização do sistema tributário não comprometesse essas fontes de financiamento.
+- **Art. 218:** a Lei entra em vigor em todo o território nacional em <mark>1º de janeiro de 1967</mark>, revogada, em especial, a Lei nº 854/1949.
+
+> [!quote]- Texto literal: Arts. 209, 210 e 212 (CTN Guruja, p. 88–89)
+> Art. 209 A expressão "Fazenda Pública", quando empregada nesta Lei sem qualificação, abrange a Fazenda Pública da União, dos Estados, do Distrito Federal e dos Municípios.
+>
+> Art. 210 Os prazos fixados nesta Lei ou na legislação tributária serão contínuos, excluindo-se na sua contagem o dia de início e incluindo-se o de vencimento.
+>
+> Parágrafo único. Os prazos só se iniciam ou vencem em dia de expediente normal na repartição em que corra o processo ou deva ser praticado o ato.
+>
+> Art. 212 Os Poderes Executivos federal, estaduais e municipais expedirão, por decreto, dentro de 90 (noventa) dias da entrada em vigor desta Lei, a consolidação, em texto único, da legislação vigente, relativa a cada um dos tributos, repetindo-se esta providência até o dia 31 de janeiro de cada ano.
+
+> [!quote]- Texto literal: Arts. 217 e 218 (CTN Guruja, p. 89–90)
+> Art. 217 As disposições desta Lei, notadamente as dos artigos 17, 74, § 2º, e 77, parágrafo único, bem como a do artigo 54 da Lei nº 5.025, de 10 de junho de 1966, não excluem a incidência e a exigibilidade:
+>
+> I - da "contribuição sindical", denominação que passa a ter o Imposto Sindical de que tratam os artigos 578 e segs. da Consolidação das Leis do Trabalho, sem prejuízo do disposto no artigo 16 da Lei nº 4.589, de 11 de dezembro de 1964;
+>
+> II - das denominadas "quotas de previdência" a que aludem os artigos 71 e 74 da Lei nº 3.807, de 26 de agosto de 1960, com as alterações determinadas pelo artigo 34 da Lei nº 4.863, de 29 de novembro de 1965, que integram a contribuição da União para a Previdência Social, de que trata o artigo 157, item XVI, da Constituição Federal;
+>
+> III - da contribuição destinada a constituir "Fundo de Assistência" e "Previdência do Trabalhador Rural", de que trata o artigo 158 da Lei nº 4.214, de 2 de março de 1963;
+>
+> IV - da contribuição destinada ao Fundo de Garantia do Tempo de Serviço, criada pelo artigo 2º da Lei nº 5.107, de 13 de setembro de 1966;
+>
+> V - das contribuições enumeradas no § 2º do artigo 34 da Lei nº 4.863, de 29 de novembro de 1965, com as alterações decorrentes do disposto nos artigos 22 e 23 da Lei nº 5.107, de 13 de setembro de 1966, e outras de fins sociais criadas por lei. (1966)
+>
+> Art. 218 Esta Lei entrará em vigor, em todo o território nacional, no dia 1º de janeiro de 1967, revogadas as disposições em contrário, especialmente a Lei nº 854, de 10 de outubro de 1949. (1966)
+
+> [!warning]- Nota de montagem: captura com colunas embaralhadas
+> A captura veio com os incisos I a V do art. 217 fora de ordem, com a quebra de página no meio do art. 212 e com o fragmento "estaduais e municipais" solto acima do art. 212. Reordenei os incisos pela numeração e encaixei o fragmento no art. 212 (o artigo não fecha sem ele), sem alterar nenhuma outra palavra. Conferir contra o CTN comentado (Guruja, p. 88–90). Omiti a linha de data e assinatura ("Brasília, 25 de outubro de 1966…").
+
+> [!tip]- Lupa: art. 210, contagem dos prazos
+> **A ideia:** prazo tributário corre todo dia (é contínuo), mas a contagem não começa no dia do ato e o último dia só vale se houver expediente.
+>
+> **O passo a passo:** (1) não conte o dia de início (o da intimação, por exemplo); (2) o dia seguinte é o dia 1; (3) conte todos os dias, inclusive sábados, domingos e feriados; (4) o dia do vencimento entra na conta; (5) mas o prazo só se inicia ou vence em dia de expediente normal na repartição (parágrafo único). *Exemplo ilustrativo (sem lastro):* intimado na segunda-feira, com prazo de 5 dias: o dia 1 é terça, o dia 5 cai no sábado; como o prazo só vence em dia de expediente normal, o último dia útil de repartição fecha a contagem.
+>
+> **O erro clássico:** inverter a regra (incluir o dia do começo e excluir o do vencimento) ou trocar "contínuos" por dias úteis. A alternativa C da Q122 (LC 227) tinha essa forma: "dias corridos, incluindo-se o dia da intimação, e excluindo-se o dia do vencimento".
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Espécies de Tributos;]] — o art. 217, IV cita o **FGTS**; a Súm. STJ 353 desse heading diz que as disposições do CTN **não se aplicam** às contribuições para o FGTS (não é tributo).
+> - [[P2 - Direito Tributário#Limitações ao Poder de Tributar;]] — a imunidade de exportação do ICMS (art. 155, § 2º, X, "a", CF), que substituiu o convênio do art. 214.
+> - [[P1 - Direito Civil#1. LINDB - LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO]] — regra **oposta** de contagem: na vigência da lei inclui-se o dia do começo e o último dia.
+> - [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] — a Q122 (errada em 20/09) tinha na alternativa C a contagem invertida; a regra própria da LC 227 continua pendente lá.
+> - [[P2 - Direito Tributário#Certidão Negativa (arts. 205 a 208 do CTN)]] — o art. 208, capturado junto, foi para esse heading.
 
 
 

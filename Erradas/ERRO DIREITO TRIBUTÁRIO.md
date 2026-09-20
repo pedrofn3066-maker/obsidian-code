@@ -85,4 +85,4 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > **Onde caí:** fiquei em dúvida entre B e D e marquei **D**; gabarito **B**.
 > **A Regra:** art. 205, parágrafo único, do CTN — a certidão negativa é <mark>sempre expedida nos termos em que foi requerida</mark> e fornecida em <mark>10 dias</mark> da entrada do requerimento. Nota: [[P2 - Direito Tributário#Certidão Negativa (arts. 205 a 208 do CTN)]]. `#pegadinha`
 > **Revisão Ativa:** certidão negativa: prazo para fornecer e termos do pedido :: 10 dias, nos termos em que requerida (art. 205, p.u.)
-> **Pendência:** por que a D está errada depende do art. 208 do CTN, que a nota ainda não tem. A alternativa (C) veio cortada na captura.
+> **Por que a D erra:** art. 208 do CTN — a certidão negativa com dolo ou fraude responsabiliza pessoalmente <mark>o funcionário que a expedir</mark>, não a pessoa física que a solicitou. A alternativa (C) veio cortada na captura.
