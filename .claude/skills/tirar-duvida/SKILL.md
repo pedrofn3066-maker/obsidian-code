@@ -5,7 +5,7 @@ description: Tira dúvidas sobre matérias e tópicos de estudo (Direito Tribut�
 
 # Tirar dúvida (cofre primeiro, internet depois)
 
-Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre por conta própria** — só lê. A única escrita permitida é guardar a dúvida em `Questoes/Duvidas.md` quando o Pedro pedir (ver "Guardar a dúvida").
+Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre por conta própria** — só lê. As únicas escritas permitidas são em `Questoes/Duvidas.md`: guardar a dúvida quando o Pedro pedir (ver "Guardar a dúvida") e triar a entrada já respondida para `## Respondidas` (ver "Arrumar o layout e mover para Respondidas").
 
 ## Passo 1 — buscar no cofre
 
@@ -53,7 +53,11 @@ Direta e de estudo, em português, do jeito que cai na prova (banca FCC/fiscal):
 
 ## Guardar a dúvida
 
-Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta própria. Acrescente ao final de `Questoes/Duvidas.md` (abaixo de `## Dúvida` — heading que o atalho do Pedro usa como alvo, não renomeie —, sem reescrever o resto), uma linha por dúvida:
+Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta própria. Acrescente ao final da seção certa de `Questoes/Duvidas.md` (sem reescrever o resto), uma linha por dúvida:
+
+- **Respondida** → fim de `## Respondidas`.
+- **Sem fonte confirmada** → fim de `## Dúvida`, a caixa de entrada: heading que o atalho do Pedro usa como alvo, não renomeie.
+
 
 ```
 - 20 de set. de 2026, 15:41 — [Direito Tributário] pergunta → resposta curta (fonte: cofre MATERIAS/P2 - Direito Tributário.md:731 / internet <url>)
@@ -61,9 +65,11 @@ Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta 
 
 Não use `Capturas.md`: o `/triar-inbox` distribui tudo que está lá. Dúvida sem resposta confirmada também pode ser guardada, marcada com `(sem fonte confirmada)`.
 
-## Arrumar o layout depois de responder
+## Arrumar o layout e mover para Respondidas
 
-Quando a dúvida respondida é uma entrada que já está em `Questoes/Duvidas.md` (o atalho manda texto cru: enunciado colado, alternativas quebradas, nota do Pedro no fim), **depois de responder no chat, reformate essa entrada no lugar**. Só a entrada respondida, sem tocar nas outras nem em nada acima de `## Dúvida`.
+`## Dúvida` é a caixa de entrada do atalho: só deve ter o que ainda não foi respondido. Quando a dúvida respondida é uma entrada que já está lá (o atalho manda texto cru: enunciado colado, alternativas quebradas, nota do Pedro no fim), **depois de responder no chat, reformate a entrada e mova-a para `## Respondidas`**, no fim dessa seção. Só a entrada respondida, sem tocar nas outras nem em nada acima de `## Dúvida`.
+
+`## Respondidas` fica depois de `## Dúvida`, no fim da nota. Se o heading não existir, crie-o (`## Respondidas`, linha em branco, entrada). Assim `## Dúvida` fica livre para o atalho continuar acrescentando sem se misturar com o que já foi triado.
 
 Layout (callout recolhível, um por dúvida; **sem sub-headings** — o atalho usa `mode=append` sob `## Dúvida` e um `###` pode desviar onde o texto novo entra):
 
@@ -88,8 +94,9 @@ Regras do reformat:
 - **Título:** `dd/mm hh:mm · matéria · banca (prova) — tema em poucas palavras`. Data/hora vêm da linha original do atalho; banca/prova, do que o Pedro escreveu.
 - **Preserve o conteúdo do Pedro:** corrija só OCR/quebra de linha óbvia. Não reescreva enunciado nem apague a anotação dele ("errei porque…", "fiquei na dúvida…"); ela vira a linha **Marquei/Gabarito** ou uma linha **Obs.:**.
 - Dúvida sem enunciado (pergunta solta): callout só com a pergunta e a resposta.
-- Edite por índice de linha em Python (o vault tem NBSP; não confie em `old_string` exato) e confira depois com `grep -c '\[!question\]' Questoes/Duvidas.md`.
-- Nunca reformate entrada que ainda não foi respondida, e nunca apague dúvida.
+- Mover = tirar o bloco de `## Dúvida` (do `> [!question]-` até a última linha `>` do callout, mais a linha em branco que o separava) e inserir em `## Respondidas`. Nunca deixe a entrada duplicada nas duas seções.
+- Edite por índice de linha em Python (o vault tem NBSP; não confie em `old_string` exato) e confira depois: `grep -c '\[!question\]' Questoes/Duvidas.md` deve ficar igual ao de antes, e a entrada movida deve aparecer só abaixo de `## Respondidas`.
+- Nunca mova nem reformate entrada que ainda não foi respondida, e nunca apague dúvida.
 
 ## Regras
 

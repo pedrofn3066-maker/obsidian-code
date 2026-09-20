@@ -10,6 +10,8 @@ Formato: `- <data>, <hora> — [matéria] pergunta → resposta curta (fonte: co
 
 ## Dúvida
 
+## Respondidas
+
 > [!question]- 20/09 15:51 · Direito Tributário · IBAM (ISS Guarulhos) — Certidão positiva com efeitos de negativa
 > Assertiva: A existência de crédito tributário formalizado e vencido impede, em qualquer hipótese, a expedição de certidão positiva com efeitos de negativa enquanto não houver pagamento integral do débito.
 >
