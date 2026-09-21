@@ -1782,8 +1782,8 @@ Mudança na relação de códigos *(art. 8º, §4º, p. 13)*:
 | PIS/Pasep, Cofins e IPI na <mark>importação</mark> de bens e serviços | IX |
 | PIS/Pasep e Cofins em tributação concentrada ou substituição tributária | X |
 | <mark>CPP</mark> em quatro casos: construção de imóveis e obras de engenharia (inclusive subempreitada, projetos, paisagismo e decoração de interiores); vigilância, limpeza ou conservação; serviços advocatícios; empregado contratado pelo MEI (art. 105) | XI, a a d |
-| ICMS devido por ST, tributação monofásica e antecipação com encerramento de tributação (rol de mercadorias), por terceiro, no desembaraço, sem documento fiscal, na diferença de alíquota das aquisições interestaduais e nas hipóteses de <mark>impedimento do art. 12</mark> | XII, a a i |
-| ISS devido em serviços sujeitos a ST ou retenção, na importação de serviços, em valor fixo pelos escritórios contábeis (se a lei municipal previr) e nas hipóteses de impedimento do art. 12 | XIII |
+| <mark>ICMS devido por ST</mark>, tributação monofásica e antecipação com encerramento de tributação (rol de mercadorias), por terceiro, no desembaraço, sem documento fiscal, na diferença de alíquota das aquisições interestaduais e nas hipóteses de <mark>impedimento do art. 12</mark> | XII, a a i |
+| ISS devido em <mark>serviços sujeitos a ST ou retenção</mark>, <mark>na importação de serviços</mark>, em valor fixo pelos escritórios contábeis (se a lei municipal previr) e nas hipóteses de impedimento do art. 12 | XIII |
 | tributos devidos como substituto ou responsável; demais tributos de competência da União, Estados, DF ou Municípios não relacionados | XIV e XV |
 
 - **Escala industrial relevante** *(§1º, p. 9)*: para bebidas não alcoólicas, massas alimentícias, produtos lácteos, carnes e suas preparações, preparações à base de cereais, chocolates, produtos de padaria e da indústria de bolachas e biscoitos, preparações para molhos e molhos preparados, preparações de produtos vegetais, telhas e outros produtos cerâmicos para construção e detergentes, a regra do ICMS por ST/monofásico/antecipação (inciso XII, "a") só se aplica aos <mark>fabricados em escala industrial relevante</mark> em cada segmento, conforme convênio dos Estados e do DF.
@@ -1799,8 +1799,8 @@ Mudança na relação de códigos *(art. 8º, §4º, p. 13)*:
 > c) serviços advocatícios; e
 > d) contratação de empregado pelo Microempreendedor Individual (MEI), nos termos do art. 105;
 > XIII - ISS devido:
-> a) em relação aos serviços sujeitos a substituição tributária ou retenção na fonte;
-> b) na importação de serviços;
+> a) em relação aos serviços sujeitos a <mark>substituição tributária ou retenção na fonte</mark>;
+> b) na <mark>importação de serviços</mark>;
 > c) em valor fixo pelos escritórios de serviços contábeis, quando previsto pela legislação municipal; e
 > d) nas hipóteses de impedimento a que se refere o art. 12;
 > XIV - tributos devidos pela pessoa jurídica na condição de substituto ou responsável tributário; e
@@ -1904,7 +1904,7 @@ Cronograma da adoção do sublimite *(art. 9º, §2º; art. 11, p. 13–14)*:
 | Grupo | Incisos do art. 15 |
 | --- | --- |
 | Receita, vínculos societários e exterior | I (receita superior a R$ 4,8 mi no ano anterior ou no em curso, no mercado interno ou em exportação, observado o art. 3º); II (capital com outra PJ ou SCP); III (filial de PJ com sede no exterior); IV (sócio PF empresário ou sócio de outra beneficiada, com receita global acima do limite); V (titular ou sócio com mais de 10% do capital de empresa não beneficiada, com receita global acima do limite); VI (administrador de outra PJ com fins lucrativos, com receita global acima do limite); VIII (participa do capital de outra PJ ou SCP); XIII (titular ou sócio domiciliado no exterior); XIV (capital com entidade da administração pública); XXVII (filial ou representação no exterior) |
-| Forma jurídica | VII (cooperativa, salvo de consumo); XI (sociedade por ações); XXVI (SCP) |
+| Forma jurídica | <mark>VII (cooperativa, salvo de consumo)</mark>; <mark>XI (sociedade por ações)</mark>; XXVI (SCP) |
 | Atividade | IX (bancos, seguros, capitalização e afins); XII (factoring e afins); XVI (transporte intermunicipal e interestadual de passageiros); XVII (energia elétrica); XVIII (importação ou fabricação de automóveis e motocicletas); XIX (importação de combustíveis); XX (cigarros, armas, cervejas sem álcool e bebidas alcoólicas no atacado, com exceções); XXI (cessão ou locação de mão de obra); XXII (loteamento e incorporação); XXIII (locação de imóveis próprios) |
 | Situação | X (cisão ou desmembramento em um dos 5 anos-calendário anteriores); XV (débito com INSS ou Fazendas com exigibilidade <mark>não suspensa</mark>); XXIV (sem inscrição cadastral, quando exigível, ou cadastro irregular); XXV (relação de pessoalidade, subordinação e habitualidade com o contratante) |
 
@@ -1923,11 +1923,11 @@ Cronograma da adoção do sublimite *(art. 9º, §2º; art. 11, p. 13–14)*:
 > IV - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de outra empresa que receba tratamento jurídico diferenciado nos termos da Lei Complementar nº 123, de 2006, desde que a receita bruta global ultrapasse um dos limites máximos de que trata o inciso I do caput;
 > V - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra empresa não beneficiada pela Lei Complementar nº 123, de 2006, desde que a receita bruta global ultrapasse um dos limites máximos de que trata o inciso I do caput;
 > VI - cujo sócio ou titular de fato ou de direito seja administrador ou equiparado de outra pessoa jurídica com fins lucrativos, desde que a receita bruta global ultrapasse o limite de que trata o inciso I do caput; (2025)
-> VII - constituída sob a forma de cooperativa, salvo cooperativa de consumo;
+> VII - constituída sob a forma de <mark>cooperativa, salvo cooperativa de consumo</mark>;
 > VIII - que participe do capital de outra pessoa jurídica ou de sociedade em conta de participação;
 > IX - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de caixa econômica, de sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de corretora ou de distribuidora de títulos, valores mobiliários e câmbio, de empresa de arrendamento mercantil, de seguros privados e de capitalização ou de previdência complementar;
 > X - resultante ou remanescente de cisão ou qualquer outra forma de desmembramento de pessoa jurídica ocorrido em um dos 5 (cinco) anos-calendário anteriores;
-> XI - constituída sob a forma de sociedade por ações;
+> XI - constituída sob a forma de <mark>sociedade por ações</mark>;
 > XII - que explore atividade de prestação cumulativa e contínua de serviços de assessoria creditícia, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber, gerenciamento de ativos (asset management), compras de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring);
 > XIII - que possua titular ou sócio domiciliado no exterior; (2025)
 > XIV - de cujo capital participe entidade da administração pública, direta ou indireta, federal, estadual ou municipal;
@@ -2409,6 +2409,201 @@ Recolhimento e DAS *(arts. 40 a 45, p. 51–55)*:
 > Art. 147. A apuração do valor relativo à Contribuição para a Seguridade Social destinada à Previdência Social a cargo da pessoa jurídica, não incluído no âmbito do Simples Nacional, deverá ser realizada na forma prevista em norma específica da RFB.
 >
 > Parágrafo único. Aplica-se o disposto no caput na hipótese de a ME ou a EPP auferir receitas sujeitas ao Anexo IV desta Resolução, de forma isolada ou concomitantemente com receitas sujeitas aos Anexos I, II, III ou V desta Resolução.
+
+### Das Vedações da LC 123: quem fica fora do tratamento diferenciado (art. 3º, §§4º a 6º da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- O rol do §4º vale <mark>para nenhum efeito legal</mark>: a PJ enquadrada em qualquer inciso fica fora do tratamento jurídico diferenciado da LC, **inclusive do Simples Nacional** (regime do art. 12). Não sobra "benefício não tributário" para quem está no rol.
+- **Forma jurídica** (o que mais cai): <mark>VI, cooperativa, salvo as de consumo</mark>; <mark>X, sociedade por ações</mark>. Cooperativa de consumo é a **única** exceção que pode entrar, e a banca inverte isso.
+- **Vínculos societários e exterior:** I (capital com outra PJ); II (filial, sucursal, agência ou representação no País de PJ com sede no exterior); VII (participa do capital de outra PJ); XII (tem filial, sucursal, agência ou representação **no exterior**, redação de 2025).
+- **Só vedam se a receita bruta global ultrapassar o limite do inciso II do art. 3º** (R$ 4,8 mi): III, IV (sócio com mais de 10% do capital de empresa fora da LC) e V (sócio ou titular, de fato ou de direito, administrador de outra PJ com fins lucrativos, redação de 2025).
+- **Atividade:** VIII (bancos, seguros, capitalização e afins) e XI (sócios com relação de pessoalidade, subordinação e habitualidade com o contratante do serviço).
+- **Situação:** IX (resultante ou remanescente de cisão ou desmembramento em um dos <mark>5 anos-calendário</mark> anteriores).
+- **Exceções do §5º:** os incisos IV e VII **não** se aplicam à participação no capital de cooperativas de crédito, centrais de compras, bolsas de subcontratação, consórcio do art. 50, **SPE do art. 56**, associações assemelhadas, sociedades de interesse econômico e de garantia solidária.
+- **Efeitos do §6º:** quem incorre em algum inciso é excluída com efeitos <mark>a partir do mês seguinte</mark> ao da situação impeditiva.
+
+> [!quote]- Texto literal: Art. 3º, §§4º a 6º (LC 123/2006, redação vigente)
+> § 4º Não poderá se beneficiar do tratamento jurídico diferenciado previsto nesta Lei Complementar, incluído o regime de que trata o art. 12 desta Lei Complementar, para nenhum efeito legal, a pessoa jurídica:
+> I - de cujo capital participe outra pessoa jurídica;
+> II - que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede no exterior;
+> III - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de outra empresa que receba tratamento jurídico diferenciado nos termos desta Lei Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput deste artigo;
+> IV - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra empresa não beneficiada por esta Lei Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput deste artigo;
+> V - cujo sócio ou titular de fato ou de direito seja administrador ou equiparado de outra pessoa jurídica com fins lucrativos, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput; (Redação dada pela Lei Complementar nº 214, de 2025)
+> VI - <mark>constituída sob a forma de cooperativas, salvo as de consumo</mark>;
+> VII - que participe do capital de outra pessoa jurídica;
+> VIII - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de caixa econômica, de sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de corretora ou de distribuidora de títulos, valores mobiliários e câmbio, de empresa de arrendamento mercantil, de seguros privados e de capitalização ou de previdência complementar;
+> IX - resultante ou remanescente de cisão ou qualquer outra forma de desmembramento de pessoa jurídica que tenha ocorrido em um dos 5 (cinco) anos-calendário anteriores;
+> X - <mark>constituída sob a forma de sociedade por ações</mark>.
+> XI - cujos titulares ou sócios guardem, cumulativamente, com o contratante do serviço, relação de pessoalidade, subordinação e habitualidade. (Incluído pela Lei Complementar nº 147, de 2014)
+> XII - que tenha filial, sucursal, agência ou representação no exterior. (Incluído pela Lei Complementar nº 214, de 2025)
+>
+> § 5º O disposto nos incisos IV e VII do § 4º deste artigo não se aplica à participação no capital de cooperativas de crédito, bem como em centrais de compras, bolsas de subcontratação, no consórcio referido no art. 50 desta Lei Complementar e na sociedade de propósito específico prevista no art. 56 desta Lei Complementar, e em associações assemelhadas, sociedades de interesse econômico, sociedades de garantia solidária e outros tipos de sociedade, que tenham como objetivo social a defesa exclusiva dos interesses econômicos das microempresas e empresas de pequeno porte.
+>
+> § 6º Na hipótese de a microempresa ou empresa de pequeno porte incorrer em alguma das situações previstas nos incisos do § 4º, será excluída do tratamento jurídico diferenciado previsto nesta Lei Complementar, bem como do regime de que trata o art. 12, com efeitos a partir do mês seguinte ao que incorrida a situação impeditiva.
+
+> [!tip]- Lupa: cooperativa e S/A, o erro de inverter a regra
+> **A ideia em uma frase:** o §4º diz quem **não** pode; cooperativa está no rol, e o "salvo as de consumo" é a única que escapa.
+>
+> **Passo a passo:**
+> 1. Leia o inciso como proibição: cooperativa fica **fora**; só a de **consumo** está liberada.
+> 2. Sociedade por ações (X) fica fora **pela forma**, mesmo que o serviço não seja vedado (transporte municipal, por exemplo).
+> 3. Se a alternativa disser "poderia ser ME" ou "poderá ser optante" para essas formas, está errada.
+>
+> **O erro clássico:** ler "cooperativa, salvo de consumo" como "pode, exceto de consumo". Foi assim que a alternativa E da questão VUNESP (Pref SP 2023, regras gerais) enganou. Nas questões CEBRASPE (SEFAZ RS 2019) e VUNESP (Pref GRU 2019), a banca também mirou nesses dois incisos.
+
+> [!info]- Ponte
+> - A **Res. CGSN 140, art. 15** repete o rol com outra numeração (VII cooperativa, XI sociedade por ações); veja a tabela do capítulo "Dos Tributos e Contribuições" acima. Em prova, o inciso pode vir de qualquer das duas normas.
+
+### Do MEI na LC 123 (arts. 18-A, 18-C e 18-E da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Regime:** o MEI recolhe os tributos do Simples em <mark>valores fixos mensais, independentemente da receita bruta do mês</mark> (art. 18-A, caput).
+- **Quem é MEI** *(§1º)*: o empresário individual (art. 966 do Código Civil) ou o empreendedor rural que auferiu receita bruta, no ano-calendário anterior, de até <mark>R$ 81.000,00</mark>, seja optante do Simples Nacional e não esteja impedido. O PDF do Planalto traz o texto antigo (R$ 60 mil) e o novo lado a lado: vale <mark>R$ 81 mil</mark>.
+- **Vedações da sistemática (§4º):** I (atividade tributada pelos Anexos V ou VI, salvo atividade isolada autorizada pelo CGSN); II (<mark>mais de um estabelecimento</mark>); III (participa de outra empresa como titular, sócio ou administrador); IV (empregado, **revogado** em 2016); V (<mark>constituído na forma de startup</mark>, LC 167/2019).
+- **Extrativista** *(§4º-A)*: observadas as demais condições, <mark>pode optar</mark> o empresário individual que exerça **comercialização e processamento de produtos de natureza extrativista**.
+- **Empregado** *(art. 18-C)*: pode ser MEI quem tiver <mark>um único empregado</mark> que receba <mark>exclusivamente 1 salário mínimo ou o piso da categoria</mark>.
+- **Opção** *(§5º, I)*: <mark>irretratável para todo o ano-calendário</mark>.
+- **Natureza** *(art. 18-E)*: política pública de <mark>formalização de pequenos empreendimentos</mark> e inclusão social e previdenciária; a formalização <mark>não tem caráter eminentemente econômico ou fiscal</mark> (§1º).
+
+> [!quote]- Texto literal: Art. 18-A (caput, §1º, §4º e §4º-A), Art. 18-C e Art. 18-E (LC 123/2006)
+> Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional <mark>em valores fixos mensais, independentemente da receita bruta por ele auferida no mês</mark>, na forma prevista neste artigo.
+>
+> § 1º Para os efeitos desta Lei Complementar, considera-se MEI o empresário individual que se enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, ou o empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural, que tenha auferido receita bruta, no ano-calendário anterior, de até <mark>R$ 81.000,00 (oitenta e um mil reais)</mark>, que seja optante pelo Simples Nacional e que não esteja impedido de optar pela sistemática prevista neste artigo.
+>
+> § 4º Não poderá optar pela sistemática de recolhimento prevista no caput deste artigo o MEI:
+> I - cuja atividade seja tributada na forma dos Anexos V ou VI desta Lei Complementar, salvo autorização relativa a exercício de atividade isolada na forma regulamentada pelo CGSN; (Redação dada pela Lei Complementar nº 147, de 2014)
+> II - que possua mais de um estabelecimento;
+> III - que participe de outra empresa como titular, sócio ou administrador; ou
+> IV - que contrate empregado. (Revogado pela Lei Complementar nº 155, de 2016)
+> V - <mark>constituído na forma de startup</mark>. (Incluído pela Lei Complementar nº 167, de 2019)
+>
+> § 4º-A. Observadas as demais condições deste artigo, poderá optar pela sistemática de recolhimento prevista no caput o empresário individual que exerça <mark>atividade de comercialização e processamento de produtos de natureza extrativista</mark>.
+>
+> Art. 18-C. Observado o disposto no caput e nos §§ 1º a 25 do art. 18-A desta Lei Complementar, poderá enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural que possua <mark>um único empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional</mark>. (Redação dada pela Lei Complementar nº 155, de 2016)
+>
+> Art. 18-E. O instituto do MEI é uma política pública que tem por objetivo a <mark>formalização de pequenos empreendimentos</mark> e a inclusão social e previdenciária. (Incluído pela Lei Complementar nº 147, de 2014)
+> § 1º A formalização de MEI <mark>não tem caráter eminentemente econômico ou fiscal</mark>. (Incluído pela Lei Complementar nº 147, de 2014)
+
+> [!tip]- Lupa: MEI que pode e MEI que não pode
+> **A ideia em uma frase:** o MEI é um regime pequeno e fixo; as vedações do §4º barram estrutura (mais de um estabelecimento, startup, sócio em outra empresa), e o empregado só entra dentro de uma regra estrita.
+>
+> **Passo a passo:**
+> 1. Receita: até **R$ 81 mil** no ano anterior, sem confundir com o limite antigo ou com o da ME (R$ 360 mil).
+> 2. Estrutura: **um** estabelecimento, sem participar de outra empresa, **nunca startup**.
+> 3. Empregado: **um só**, com **1 salário mínimo ou o piso**; dois empregados ou salário maior tira o MEI.
+> 4. Extrativista pode; a atividade tributada pelos Anexos V ou VI, não.
+>
+> **O erro clássico:** trocar o limite (R$ 180 mil, das questões CEBRASPE SEFAZ AC 2024), dizer que o MEI é "lucro presumido" (é optante do Simples) ou tratar startup como permitida (VUNESP Pref SP 2023). Também erra quem descreve o MEI como política de "pequenos e médios empresários" com caráter "eminentemente fiscal": o art. 18-E diz o contrário.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Do MEI (Res. CGSN 140, arts. 100 a 120)]]: onde a nota trata do MEI pela Res. CGSN 140 (opção, desenquadramento e obrigações).
+
+### Da Presunção de Omissão de Receita (art. 34 da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Regra** *(caput)*: aplicam-se à ME e à EPP optantes <mark>todas as presunções de omissão de receita existentes nas legislações de regência dos impostos e contribuições incluídos no Simples Nacional</mark>, e não só as do Imposto de Renda.
+- **Assistência mútua** *(§1º)*: é permitida a <mark>prestação de assistência mútua e a permuta de informações</mark> entre a Fazenda da União e as dos Estados, DF e Municípios, para planejamento ou execução de procedimentos fiscais ou preparatórios. A lei <mark>não exige convênio específico</mark> (LC 155/2016).
+- **Notificação prévia** *(§3º)*: as administrações podem usá-la para autorregularização, <mark>sem prejuízo de ação fiscal individual</mark>; a notificação <mark>não constitui início de procedimento fiscal</mark>. Forma e prazos ficam para o CGSN.
+- Os §§2º e 4º foram **vetados**.
+
+> [!quote]- Texto literal: Art. 34 (LC 123/2006)
+> Art. 34. Aplicam-se à microempresa e à empresa de pequeno porte optantes pelo Simples Nacional <mark>todas as presunções de omissão de receita existentes nas legislações de regência dos impostos e contribuições incluídos no Simples Nacional</mark>.
+>
+> § 1º É permitida a prestação de assistência mútua e a permuta de informações entre a Fazenda Pública da União e as dos Estados, do Distrito Federal e dos Municípios, relativas às microempresas e às empresas de pequeno porte, para fins de planejamento ou de execução de procedimentos fiscais ou preparatórios. (Incluído pela Lei Complementar nº 155, de 2016)
+>
+> § 2º (VETADO).
+>
+> § 3º <mark>Sem prejuízo de ação fiscal individual</mark>, as administrações tributárias poderão utilizar procedimento de notificação prévia visando à autorregularização, na forma e nos prazos a serem regulamentados pelo CGSN, que <mark>não constituirá início de procedimento fiscal</mark>. (Incluído pela Lei Complementar nº 155, de 2016)
+>
+> § 4º (VETADO).
+
+> [!tip]- Lupa: o que a banca acrescenta ou inverte no art. 34
+> **A ideia em uma frase:** o art. 34 amplia as presunções (todas as dos tributos do Simples), libera a troca de informações e cria uma notificação que **não** é fiscalização.
+>
+> **Passo a passo:**
+> 1. Presunções: de **todos** os tributos incluídos, nunca "exclusivamente" as do IR.
+> 2. Assistência mútua: permitida **sem convênio específico**; se a alternativa exigir convênio, é falsa.
+> 3. Notificação prévia: **não** é início de procedimento fiscal e **não** impede ação fiscal individual.
+>
+> **O erro clássico:** marcar a alternativa que exige "convênio específico" (FCC Pref J Guararapes 2024) ou que diz que a notificação "constituirá início de procedimento".
+
+### Das Licitações Públicas e da Cédula de Crédito Microempresarial (arts. 42 a 49 da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Regularidade fiscal e trabalhista** *(arts. 42 e 43)*: só é exigida para <mark>assinatura do contrato</mark>. Na licitação a ME/EPP <mark>deve apresentar toda a documentação, mesmo com restrição</mark>, e <mark>pode participar</mark>. Havendo restrição, tem <mark>5 dias úteis</mark> (a partir de ser declarada vencedora), prorrogáveis por igual período, para regularizar, pagar ou parcelar o débito e emitir certidões. Sem regularizar, decai do direito à contratação (§2º).
+- **Empate ficto** *(art. 44)*: preferência de contratação como critério de desempate. Empate é proposta <mark>igual ou até 10% superior</mark> à mais bem classificada (§1º); no **pregão**, <mark>até 5%</mark> (§2º).
+- **Licitações direcionadas** *(art. 48, com a redação da LC 147/2014)*: a administração <mark>deverá</mark> realizar processo licitatório <mark>exclusivo para ME/EPP nos itens de até R$ 80.000,00</mark> (I); <mark>poderá</mark> exigir **subcontratação** de ME/EPP nas obras e serviços (II); e <mark>deverá</mark> estabelecer **cota de até 25%** do objeto em bens de natureza divisível (III). O §3º permite prioridade a ME/EPP local ou regional, até 10% do melhor preço válido.
+- **Quando o tratamento não se aplica** *(art. 49)*: não há mínimo de **3 fornecedores** competitivos ME/EPP local ou regionalmente; o tratamento não for vantajoso para a administração ou causar prejuízo ao conjunto do objeto; a licitação for dispensável ou inexigível (nos termos da lei de licitações).
+- **Cédula de crédito microempresarial** *(art. 46)*: a ME/EPP titular de direitos creditórios decorrentes de <mark>empenhos liquidados</mark> por órgãos e entidades da União, Estados, DF e Municípios <mark>não pagos em até 30 dias</mark> da liquidação pode emitir a cédula.
+- ⚠️ O PDF marca os arts. 42 a 49 com "Vide Lei nº 14.133/2021": a Lei de Licitações atual convive com essas regras.
+
+> [!quote]- Texto literal: Arts. 42 a 44, 46 e 48 (LC 123/2006, redação vigente)
+> Art. 42. Nas licitações públicas, a comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte <mark>somente será exigida para efeito de assinatura do contrato</mark>. (Redação dada pela Lei Complementar nº 155, de 2016)
+>
+> Art. 43. As microempresas e as empresas de pequeno porte, por ocasião da participação em certames licitatórios, deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal e trabalhista, <mark>mesmo que esta apresente alguma restrição</mark>. (Redação dada pela Lei Complementar nº 155, de 2016)
+> § 1º Havendo alguma restrição na comprovação da regularidade fiscal e trabalhista, será assegurado o prazo de <mark>cinco dias úteis</mark>, cujo termo inicial corresponderá ao momento em que o proponente for declarado vencedor do certame, prorrogável por igual período, a critério da administração pública, para a regularização da documentação, pagamento ou parcelamento do débito e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa.
+>
+> Art. 44. Nas licitações será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte.
+> § 1º Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou <mark>até 10% (dez por cento) superiores</mark> à proposta mais bem classificada.
+> § 2º Na modalidade de pregão, o intervalo percentual estabelecido no § 1º deste artigo será de <mark>até 5% (cinco por cento)</mark> superior ao melhor preço.
+>
+> Art. 46. A microempresa e a empresa de pequeno porte titular de direitos creditórios decorrentes de empenhos liquidados por órgãos e entidades da União, Estados, Distrito Federal e Município <mark>não pagos em até 30 (trinta) dias</mark> contados da data de liquidação poderão emitir <mark>cédula de crédito microempresarial</mark>.
+>
+> Art. 48. Para o cumprimento do disposto no art. 47 desta Lei Complementar, a administração pública: (Redação dada pela Lei Complementar nº 147, de 2014)
+> I - deverá realizar processo licitatório destinado exclusivamente à participação de microempresas e empresas de pequeno porte nos itens de contratação cujo valor seja de até <mark>R$ 80.000,00 (oitenta mil reais)</mark>;
+> II - poderá, em relação aos processos licitatórios destinados à aquisição de obras e serviços, exigir dos licitantes a <mark>subcontratação</mark> de microempresa ou empresa de pequeno porte;
+> III - deverá estabelecer, em certames para aquisição de bens de natureza divisível, <mark>cota de até 25% (vinte e cinco por cento)</mark> do objeto para a contratação de microempresas e empresas de pequeno porte.
+
+> [!tip]- Lupa: débito não barra a participação na licitação
+> **A ideia em uma frase:** a ME/EPP com débito **pode participar**; a regularização só é cobrada na hora de assinar o contrato, e ela ganha 5 dias úteis para isso.
+>
+> **Passo a passo:**
+> 1. Participar: apresenta a documentação **mesmo com restrição**.
+> 2. Vencer: se houver restrição, abre-se o prazo de 5 dias úteis (prorrogável).
+> 3. Não regularizar: perde o direito à contratação; a administração chama os remanescentes ou revoga.
+> 4. Empate: 10% (5% no pregão), com preferência para ME/EPP.
+>
+> **O erro clássico:** achar que o débito impede a participação (foi o que derrubou o item I na CEBRASPE, MPC TCE-PA 2019, marcada C em vez de E). O segundo erro é tratar a subcontratação como **obrigatória**: no art. 48, II é "poderá".
+
+### Da Sociedade de Propósito Específico (art. 56 da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- **Finalidade:** compra e venda de bens e serviços, para os mercados nacional e internacional, por meio de SPE, conforme regulamento do Poder Executivo federal.
+- **Sócios** *(§1º)*: <mark>não podem integrar</mark> a SPE pessoas jurídicas <mark>não optantes</mark> pelo Simples Nacional. Todas têm de ser optantes; não basta uma.
+- **Características** *(§2º)*: atos arquivados no Registro Público de Empresas Mercantis; **compras para revenda** às ME/EPP sócias e **venda** dos bens adquiridos delas a não sócias; pode fazer atividades de promoção; apura o **IRPJ pelo lucro real**, com livros Diário e Razão; apura **Cofins e PIS/Pasep de modo não cumulativo**; exporta **exclusivamente** bens a ela destinados pelas sócias; é constituída como **sociedade limitada**; nas revendas, preço **no mínimo igual** ao das aquisições.
+- **Sem crédito na exportação** *(§3º)*: a aquisição de bens destinados à exportação pela SPE <mark>não gera direito a créditos</mark> de impostos ou contribuições abrangidos pelo Simples Nacional.
+- **Vedações** *(§5º)*: a SPE não pode ser filial, sucursal, agência ou representação de PJ com sede no exterior; ser cooperativa (inclusive de consumo); participar do capital de outra PJ; exercer atividades de banco, seguros e afins; ser resultante de cisão nos 5 anos anteriores; nem exercer atividade vedada às ME/EPP optantes.
+- **Participação simultânea** *(§4º)*: a ME/EPP <mark>não pode participar de mais de uma SPE</mark> ao mesmo tempo; a inobservância gera **responsabilidade solidária** das sócias (§6º).
+
+> [!quote]- Texto literal: Art. 56, caput e §§1º a 4º (LC 123/2006, redação vigente)
+> Art. 56. As microempresas ou as empresas de pequeno porte poderão realizar negócios de compra e venda de bens e serviços para os mercados nacional e internacional, por meio de sociedade de propósito específico, nos termos e condições estabelecidos pelo Poder Executivo federal. (Redação dada pela Lei Complementar nº 147, de 2014)
+> § 1º Não poderão integrar a sociedade de que trata o caput deste artigo <mark>pessoas jurídicas não optantes pelo Simples Nacional</mark>.
+> § 2º A sociedade de propósito específico de que trata este artigo:
+> I - terá seus atos arquivados no Registro Público de Empresas Mercantis;
+> II - terá por finalidade realizar:
+> a) operações de compras para revenda às microempresas ou empresas de pequeno porte que sejam suas sócias;
+> b) operações de venda de bens adquiridos das microempresas e empresas de pequeno porte que sejam suas sócias para pessoas jurídicas que não sejam suas sócias;
+> III - poderá exercer atividades de promoção dos bens referidos na alínea b do inciso II deste parágrafo;
+> IV - apurará o imposto de renda das pessoas jurídicas com base no <mark>lucro real</mark>, devendo manter a escrituração dos livros Diário e Razão;
+> V - apurará a Cofins e a Contribuição para o PIS/Pasep de modo <mark>não cumulativo</mark>;
+> VI - exportará, exclusivamente, bens a ela destinados pelas microempresas e empresas de pequeno porte que dela façam parte;
+> VII - será constituída como <mark>sociedade limitada</mark>;
+> VIII - deverá, nas revendas às microempresas ou empresas de pequeno porte que sejam suas sócias, observar preço no mínimo igual ao das aquisições realizadas para revenda; e
+> IX - deverá, nas revendas de bens adquiridos de microempresas ou empresas de pequeno porte que sejam suas sócias, observar preço no mínimo igual ao das aquisições desses bens.
+> § 3º A aquisição de bens destinados à exportação pela sociedade de propósito específico <mark>não gera direito a créditos</mark> relativos a impostos ou contribuições abrangidos pelo Simples Nacional.
+> § 4º A microempresa ou a empresa de pequeno porte <mark>não poderá participar simultaneamente de mais de uma sociedade de propósito específico</mark> de que trata este artigo.
+
+> [!tip]- Lupa: o macete da SPE
+> **A ideia em uma frase:** a SPE é um veículo de exportação das ME/EPP optantes, com regime próprio: lucro real, PIS/Cofins não cumulativo, sociedade limitada e nenhum crédito na compra para exportar.
+>
+> **Passo a passo:**
+> 1. Sócios: só ME/EPP **optantes**; PJ não optante não entra.
+> 2. Forma: **limitada**; cooperativa e S/A não.
+> 3. Tributos: **lucro real** e PIS/Cofins **não cumulativos**.
+> 4. Exportação: exporta **só** os bens das sócias e **sem crédito** (§3º).
+> 5. Vedado: exercer atividade vedada às ME/EPP.
+>
+> **O erro clássico:** trocar o regime de apuração (lucro presumido, cumulativo) ou dizer que "ao menos uma" sócia optante basta (VUNESP Pref SP 2023, marcada C; correta A).
 
 ### Do Parcelamento (Res. CGSN 140, arts. 46 a 57)
 - [ ] status [dom:: 0] [peso:: 3]
