@@ -834,15 +834,15 @@ def arvore_tec():
     return _arvore
 
 
-def _pontos_no(a, c, peso):
-    """Dice ponderado por raridade só nas palavras; números só ajustam (mesmo número sobe um
-    pouco, número diferente — CPC 02 x CPC 18 — derruba)."""
+def _pontos_no(a, c, peso, ad, cd):
+    """Dice ponderado por raridade só nas palavras; números (ad/cd = todos os números do tópico
+    e do nome, com parênteses) só ajustam: mesmo número sobe um pouco, número diferente
+    (CPC 02 x CPC 18, LC 101 x Lei 14.836) derruba."""
     an, cn = {w for w in a if not w.isdigit()}, {w for w in c if not w.isdigit()}
     inter = an & cn
     if not inter:
         return 0.0
     pt = 2 * peso(inter) / (peso(an) + peso(cn))
-    ad, cd = a - an, c - cn
     if ad and cd:
         pt *= 1.1 if ad & cd else 0.6
     return min(pt, 1.0)
@@ -857,13 +857,15 @@ def no_tec(u):
         idf = g["idf"]
         peso = lambda ts: sum(idf.get(t, 1.0) for t in ts)
         for alvo in alvos:
+            ad = {w for w in tokens(alvo, True) if w.isdigit()}
             for par_a in (False, True):
                 a = tokens(alvo, par_a)
                 if not a:
                     continue
                 for no in g["nos"]:
+                    cd = {w for w in tokens(no["nome"], True) if w.isdigit()}
                     for par_c in (False, True):
-                        pt = _pontos_no(a, tokens(no["nome"], par_c), peso)
+                        pt = _pontos_no(a, tokens(no["nome"], par_c), peso, ad, cd)
                         if pt > melhor:
                             melhor, achado = pt, (g, no)
     if melhor < SCORE_NO_TEC:

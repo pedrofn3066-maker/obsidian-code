@@ -35,7 +35,7 @@ ISS=$(cd "$ISS" && pwd)
 GRUPO1="PY/achar-heading.py PY/indice-materia.py PY/pdf-md.py PY/grifos.py PY/tec-caderno.py
 PY/checar-markdown.py PY/validar-cadernos.py PY/backup-vault.sh PY/hooks/pre-commit"
 
-GRUPO2="PY/plano-dia.py PY/s1-ontem.py PY/s1-ontem.sh PY/diretorio-materias.py PY/fechamento-semana.py
+GRUPO2="PY/plano-dia.py PY/tec-arvore.py PY/s1-ontem.py PY/s1-ontem.sh PY/diretorio-materias.py PY/fechamento-semana.py
 .claude/commands/absorver-pdf.md .claude/commands/importar-tec.md .claude/commands/triar-inbox.md
 .claude/commands/triar-inbox-plus.md .claude/skills/tirar-duvida/SKILL.md"
 
