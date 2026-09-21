@@ -322,3 +322,189 @@ Formato: `- <data>, <hora> — [matéria] pergunta → resposta curta (fonte: co
 > > **Pegadinha:** a banca troca para "a lei complementar" ou "o CTN define um só sujeito passivo"; o CTN só dá o rol (proprietário, titular do domínio útil, possuidor a qualquer título) e a lei municipal escolhe.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:2961` (tese) e `:2964` (súmula, anexada hoje) · (sem conferência no site do STJ; texto da súmula conforme colado)
+
+> [!question]- 21/09 15:56 · Direito Tributário · CEBRASPE (SEFAZ RS 2019, #776454) — Cooperativa, ICMS-ST e DAS
+> Cooperativa criada para industrializar produtos rurais insurgiu-se contra lançamento de ICMS por substituição tributária, alegando já ter pago o tributo no DAS do Simples Nacional. De acordo com a LC 123/2006, o argumento:
+>
+> (A) é válido caso o tributo tenha sido integralmente pago na forma do Simples Nacional.
+> (B) não é válido, pois nenhuma cooperativa poderá aderir ao Simples Nacional.
+> (C) não é válido, pois essa cooperativa não pode aderir ao Simples Nacional e não pode recolher ICMS por substituição tributária pelo documento de arrecadação única mensal.
+> (D) não é válido, pois, embora possa recolher o ICMS-ST pelo documento único, não pode aderir ao Simples Nacional.
+> (E) não é válido, pois, embora possa se enquadrar como microempresa, não pode aderir ao Simples Nacional.
+>
+> **Marquei:** E · **Gabarito:** C
+>
+> > [!success] Resposta
+> > **C.** Duas travas, e a alternativa tem que trazer as duas:
+> >
+> > 1. **Cooperativa (salvo de consumo) não pode ser ME/EPP nem optar** pelo Simples: art. 3º, §4º, VI. Ela é excluída "para nenhum efeito legal" do tratamento diferenciado.
+> > 2. **ICMS devido por substituição tributária fica fora do DAS**: art. 13, §1º, XIII, "a". Vale até para quem é optante; o DAS não quita o ICMS-ST.
+> >
+> > **Por que E erra:** diz que ela "poderia se enquadrar como microempresa". O §4º, VI a barra de ser ME/EPP, não só de optar. **Por que D erra:** afirma que o ICMS-ST pode ir no DAS, o que é falso.
+> >
+> > **Pegadinha:** a banca acerta o primeiro ponto e erra o segundo (ou o contrário). Confira sempre os dois.
+> >
+> > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 3º §4º VI e art. 13 §1º XIII "a" · cofre `MATERIAS/P2 - Direito Tributário.md:1907` (vedações por forma jurídica)
+
+> [!question]- 21/09 15:56 · Direito Tributário · VUNESP (Pref GRU 2019, #879962) — Vedações: S/A e fretamento contínuo
+> "Transportando Pessoas XPTO S/A" presta transporte coletivo municipal de trabalhadores, na modalidade fretamento contínuo. De acordo com a legislação, essa empresa:
+>
+> (A) poderá ser optante do Simples Nacional, independentemente de se enquadrar como ME ou EPP.
+> (B) não poderá ser optante do Simples Nacional, em razão da sua forma de constituição.
+> (C) poderá usufruir dos benefícios tributários do Simples Nacional, ainda que não seja optante, em razão da natureza do serviço.
+> (D) poderá usufruir apenas dos benefícios não tributários do Simples Nacional, mesmo que seja optante.
+> (E) não poderá ser optante, porque não realiza transporte de estudantes de baixa renda.
+>
+> **Marquei:** D · **Gabarito:** B
+>
+> > [!success] Resposta
+> > **B.** O que veda a empresa é a **forma de constituição: sociedade por ações** (art. 3º, §4º, X; na Res. CGSN 140, art. 15, XI). Sociedade por ações fica fora do tratamento diferenciado "para nenhum efeito legal".
+> >
+> > **A pegadinha é o transporte.** A vedação de transporte de passageiros do art. 17 é só de **intermunicipal e interestadual** (com exceções, como fretamento contínuo em área metropolitana para estudantes ou trabalhadores). O serviço aqui é **municipal**, então nem entra nessa vedação. E "não realiza transporte de estudantes de baixa renda" (E) é invenção: a exceção é para estudantes ou trabalhadores, e nem seria necessária.
+> >
+> > **Por que D erra:** o §4º diz "para nenhum efeito legal", então nem benefícios não tributários sobram.
+> >
+> > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 3º §4º X · cofre `MATERIAS/P2 - Direito Tributário.md:1907` e `:1915` (vedações e transporte)
+
+> [!question]- 21/09 15:57 · Direito Tributário · FCC (Pref Barueri 2026, #3906950) — O que o DAS não exclui
+> O recolhimento por documento único não exclui a incidência de outros impostos e contribuições devidos como contribuinte ou responsável, aplicando-se a legislação das demais pessoas jurídicas. Observar-se-á a legislação aplicável às demais PJ em relação a:
+>
+> I. ISSQN devido em relação aos serviços sujeitos à substituição tributária ou retenção na fonte.
+> II. IPTU devido pelas empresas de pequeno porte, quando for feita a opção pelo seu pagamento parcelado.
+> III. ISSQN devido na importação de serviços.
+> IV. IBS devido pelas empresas de pequeno porte, relativamente às prestações de serviços envolvendo o fornecimento de bens materiais sujeitos a esse imposto.
+>
+> (A) I, II, III e IV.  (B) II e IV, apenas.  (C) I e III, apenas.  (D) I e IV, apenas.  (E) II e III, apenas.
+>
+> **Marquei:** D · **Gabarito:** C
+>
+> > [!success] Resposta
+> > **C (I e III).** São exatamente os dois casos de ISS do art. 13, §1º, XIV: **(a)** ISS sujeito a substituição tributária ou retenção na fonte e **(b)** ISS na importação de serviços.
+> >
+> > **IV** (IBS) você marcou por entrar na D: o item mistura ISS e IBS, e o IBS não consta desse rol de exceções do §1º. **II** cria uma condição que a lei não tem: "IPTU com opção pelo pagamento parcelado" não está no §1º. (IPTU só cairia na cláusula residual do XV, "demais tributos não relacionados", sem essa condição de parcelamento.)
+> >
+> > **Dica:** decore o ISS do §1º pelos dois gatilhos, **retenção/substituição** e **importação**.
+> >
+> > ⚠️ **Ponto que confere pouco:** não achei fundamento na LC 123 para o gabarito descartar o II além de "a condição do parcelamento não existe". Se cair de novo, siga a literalidade do XIV.
+> >
+> > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 13 §1º, XIII a XV · (pouco confiável no item II, ver aviso)
+
+> [!question]- 21/09 15:57 · Direito Tributário · CEBRASPE (SEFAZ AC 2024, #2924815) — Requisitos do MEI
+> Para se enquadrar como MEI, o empresário deve atender requisitos cumulativos, sendo-lhe permitido:
+>
+> (A) contratar no máximo um único empregado, remunerado com um salário mínimo ou o piso da categoria.
+> (B) ser constituído na forma de startup.
+> (C) ser optante pelo lucro presumido e seguir os requisitos da modalidade escolhida.
+> (D) auferir receita bruta acumulada nos anos-calendário anterior e em curso de até R$ 180 mil.
+> (E) possuir dois ou mais estabelecimentos.
+>
+> **Marquei:** C · **Gabarito:** A
+>
+> > [!success] Resposta
+> > **A.** Art. 18-C: pode ser MEI quem tem **um único empregado** que receba **exclusivamente 1 salário mínimo ou o piso da categoria**.
+> >
+> > **Por que as outras erram:**
+> > - **B:** startup é vedada ao MEI (art. 18-A, §4º, V, incluído pela LC 167/2019).
+> > - **C:** o MEI é **optante pelo Simples Nacional**, não pelo lucro presumido (art. 18-A, §1º).
+> > - **D:** o limite é **R$ 81.000,00** no ano-calendário anterior (art. 18-A, §1º), não R$ 180 mil.
+> > - **E:** mais de um estabelecimento é vedado (art. 18-A, §4º, II).
+> >
+> > ⚠️ O PDF traz o texto antigo e o novo lado a lado (R$ 60 mil cortado, R$ 81 mil vigente). Na prova, use o valor do último texto.
+> >
+> > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 18-A §1º e §4º, art. 18-C
+
+> [!question]- 21/09 15:57 · Direito Tributário · FCC (Pref J Guararapes 2024, #3113729) — Omissão de receita
+> De acordo com a LC 123/2006, no que diz respeito à omissão de receita:
+>
+> (A) as administrações poderão utilizar notificação prévia para autorregularização, que constituirá início de procedimento fiscal.
+> (B) se utilizarem a notificação prévia, fica prejudicada a possibilidade de ação fiscal individual.
+> (C) é permitida a assistência mútua e a permuta de informações entre as Fazendas, para planejamento ou execução de procedimentos fiscais, mediante convênio específico.
+> (D) aplicam-se às ME e EPP as presunções de omissão de receita existentes nas legislações dos impostos e contribuições incluídos no Simples Nacional.
+> (E) aplicam-se às ME e EPP, exclusivamente, as presunções de omissão de receita da legislação do Imposto de Renda.
+>
+> **Marquei:** C · **Gabarito:** D
+>
+> > [!success] Resposta
+> > **D.** É a literalidade do **art. 34, caput**: valem as presunções de omissão de receita **da legislação de cada tributo incluído no Simples** (não só a do IR).
+> >
+> > **O que derruba as outras (art. 34):**
+> > - **A:** a notificação prévia **não** constituirá início de procedimento fiscal (§3º).
+> > - **B:** a notificação vale "**sem prejuízo de ação fiscal individual**" (§3º).
+> > - **C:** a assistência mútua e a permuta de informações são permitidas (§1º) **sem exigir convênio específico**. O erro está no "mediante convênio".
+> > - **E:** "exclusivamente" do IR é falso; vale a legislação de todos os tributos do Simples.
+> >
+> > **Pegadinha:** a banca adiciona um requisito que a lei não tem ("convênio específico") ou inverte um efeito ("constituirá", "prejudicada").
+> >
+> > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 34, caput, §1º e §3º
+
+> [!question]- 21/09 15:58 · Direito Tributário · VUNESP (Pref SP 2023, #2635932) — Regras gerais do Estatuto (MEI e cooperativa)
+> De acordo com a LC 123/2006, é correto afirmar que:
+>
+> (A) o empresário individual que exerça atividade de comercialização e processamento de produtos extrativistas, observadas as condições da lei, poderá optar pela sistemática de recolhimento do Simples Nacional.
+> (B) o MEI constituído na forma de startup poderá optar pelo Simples, em valores fixos mensais, independentemente da receita bruta do mês.
+> (C) o desenquadramento do empresário individual como microempresa implicará alteração ou restrição em relação a contratos anteriormente firmados.
+> (D) o MEI é política pública para legalização de pequenos e médios empresários, com formalização de caráter eminentemente econômico e fiscal.
+> (E) poderão se beneficiar do tratamento diferenciado as PJ constituídas como cooperativa, salvo as de consumo.
+>
+> **Marquei:** E · **Gabarito:** A
+>
+> > [!success] Resposta
+> > **A.** Art. 18-A, §4º-A: quem exerce **comercialização e processamento de produtos extrativistas** pode optar pelo MEI, observadas as demais condições.
+> >
+> > **Por que as outras erram:**
+> > - **B:** MEI **startup** é vedado (art. 18-A, §4º, V).
+> > - **C:** o desenquadramento **não implica** alteração, denúncia ou restrição em contratos anteriores (art. 3º, §3º).
+> > - **D:** o art. 18-E diz que o MEI visa à formalização de **pequenos empreendimentos** e à inclusão social e previdenciária, e a formalização **não tem caráter eminentemente econômico ou fiscal** (§1º).
+> > - **E:** cooperativa, **salvo as de consumo**, é justamente a que **não pode** se beneficiar do tratamento diferenciado (art. 3º, §4º, VI). Você inverteu a regra: a exceção (consumo) é a única que pode.
+> >
+> > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 18-A §4º-A, art. 3º §3º e §4º VI, art. 18-E
+
+> [!question]- 21/09 15:58 · Direito Tributário · CEBRASPE (MPC TCE-PA 2019, #974730) — ME/EPP em licitações
+> Julgue os itens, sobre o tratamento das ME e EPP em licitações:
+>
+> I. ME e EPP poderão participar de licitação mesmo que possuam débitos tributários pendentes de regularização.
+> II. Nas licitações, o desempate dá preferência às ME/EPP; empate é proposta igual ou até 10% superior à melhor (em pregão, até 5%).
+> III. A lei prevê hipóteses especiais de licitações direcionadas, direta ou indiretamente, a ME e EPP.
+> IV. Poderão emitir cédula de crédito microempresarial as ME/EPP titulares de créditos de empenhos liquidados por órgãos da União, dos Estados, do DF e dos Municípios não pagos em até 30 dias da liquidação.
+>
+> (A) Apenas I e III.  (B) Apenas I e IV.  (C) Apenas II e III.  (D) Apenas II e IV.  (E) Todos certos.
+>
+> **Marquei:** C · **Gabarito:** E
+>
+> > [!success] Resposta
+> > **E (todos certos).**
+> >
+> > - **I:** art. 43: a ME/EPP **apresenta toda a documentação fiscal mesmo com restrição** e, se houver, ganha prazo para regularizar quando for declarada vencedora. A regularidade só é exigida para **assinatura do contrato** (art. 42).
+> > - **II:** art. 44, §1º e §2º: empate em até **10%** e, no **pregão**, até **5%**.
+> > - **III:** art. 48: licitação exclusiva nos itens de até R$ 80 mil, subcontratação que a administração **pode** exigir (II) e cota de até 25% para bens divisíveis.
+> > - **IV:** art. 46: cédula de crédito microempresarial para empenhos liquidados **não pagos em 30 dias**.
+> >
+> > Você marcou C por descartar o **I**, achando que débito pendente barraria a participação. O engano típico: o débito não impede participar, só atrasa a regularização exigida até a assinatura.
+> >
+> > ⚠️ O PDF traz a redação com "Vide Lei 14.133/2021": as regras convivem com a Lei de Licitações atual.
+> >
+> > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), arts. 42, 43, 44, 46 e 48
+
+> [!question]- 21/09 15:59 · Direito Tributário · VUNESP (Pref SP 2023, #2635938) — Sociedade de propósito específico (SPE)
+> Nos termos que autoriza a LC 123/2006, a sociedade de propósito específico:
+>
+> (A) não terá direito a créditos relativos a impostos e contribuições abrangidos pelo Simples Nacional na aquisição de bens destinados à exportação.
+> (B) poderá ser integrada por pessoas jurídicas, desde que ao menos uma delas seja optante pelo Simples Nacional.
+> (C) apurará o IRPJ com base no lucro presumido.
+> (D) deverá apurar Cofins e PIS/PASEP de modo cumulativo.
+> (E) poderá exercer atividade vedada às ME e EPP, ainda que optantes.
+>
+> **Marquei:** C · **Gabarito:** A
+>
+> > [!success] Resposta
+> > **A.** Art. 56, §3º: a aquisição de bens destinados à exportação pela SPE **não gera direito a créditos** de impostos e contribuições do Simples.
+> >
+> > **Por que as outras erram (art. 56):**
+> > - **B:** **não podem integrar** a SPE PJ **não optantes** (§1º). Todas têm de ser optantes, não basta uma.
+> > - **C:** a SPE apura IRPJ pelo **lucro real**, com escrituração de Diário e Razão (§2º, IV).
+> > - **D:** Cofins e PIS/PASEP **não cumulativos** (§2º, V).
+> > - **E:** a SPE **não pode** exercer atividade vedada às ME/EPP optantes (§5º).
+> >
+> > **Macete SPE:** sociedade **limitada**, sócios **optantes**, lucro **real**, PIS/Cofins **não cumulativo**, exporta **só** bens dos sócios e **sem crédito**.
+> >
+> > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 56 §1º a §5º
