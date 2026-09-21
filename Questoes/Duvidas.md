@@ -6,4 +6,10 @@ tipo: duvidas
 
 Caixa de entrada do atalho: só tem o que ainda não foi respondido. Depois de respondida pela skill `/tirar-duvida`, a dúvida sai daqui e vai para o heading `## 💭 Dúvidas respondidas` do caderno da matéria em `Erradas/ERRO <MATÉRIA>.md`. Não é triada pelo `/triar-inbox` (que só lê `Capturas.md`).
 
+Dúvidas respondidas, por matéria:
+
+- [[ERRO DIREITO TRIBUTÁRIO#💭 Dúvidas respondidas|Direito Tributário]]
+- [[ERRO REFORMA TRIBUTÁRIA#💭 Dúvidas respondidas|Reforma Tributária]]
+- [[ERRO DIREITO ADMINISTRATIVO#💭 Dúvidas respondidas|Direito Administrativo (LGPD)]]
+
 ## Dúvida
