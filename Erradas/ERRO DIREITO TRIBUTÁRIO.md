@@ -444,3 +444,44 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > **Macete SPE:** sociedade **limitada**, sócios **optantes**, lucro **real**, PIS/Cofins **não cumulativo**, exporta **só** bens dos sócios e **sem crédito**.
 > >
 > > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 56 §1º a §5º
+
+> [!question]- 21/09 20:43 · Direito Tributário · IBAM (Pref Araraquara) — Taxa de licença e ciclos do poder de polícia
+> #1120324 IBAM - 2016 - Auditor Fiscal Tributário Municipal (Pref Araraquara)
+> A taxa de licença para funcionamento de um estabelecimento urbano tem como hipótese de incidência:
+> (A) a prestação do serviço público de licenciamento de atividades urbanas.
+> (B) o exercício do Poder de Polícia, na sua fase de consentimento de polícia.
+> (C) a prestação do serviço público de ordenamento do solo urbano.
+> (D) o exercício do Poder de Polícia, na sua fase de fiscalização de polícia.
+>
+> **Marquei:** A · **Gabarito:** B
+>
+> **Obs. (comentário do professor, resumido):** a taxa de licença para funcionamento resulta do poder de polícia, não da prestação de serviço público. Ciclos do poder de polícia: **Ordem** (norma legal que fixa condições e restrições); **Consentimento** (autorização do Estado para o particular exercer a atividade ou usar a propriedade, caso da licença de funcionamento); **Fiscalização** (o Estado confere se a Ordem e o Consentimento estão sendo cumpridos); **Sanção** (medida coercitiva pelo descumprimento).
+>
+> > [!success] Resposta
+> > Gabarito B. A licença de funcionamento é taxa de **poder de polícia**, e o ato que a gera é o **consentimento** (alvará/licença). A errou por tratar como serviço público; D troca a fase pela fiscalização, que é o fato gerador de outra taxa (a de fiscalização do estabelecimento).
+> >
+> > O fato gerador da taxa é o exercício **regular** do poder de polícia ou a utilização, efetiva ou potencial, de serviço público específico e divisível (CTN, arts. 77 e 78). Pegadinha: alternativa que chama licença ou alvará de "serviço público".
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:204-212` (arts. 77 e 78 do CTN). Os quatro ciclos do poder de polícia não têm trecho no cofre, vêm do comentário do professor.
+
+> [!question]- 21/09 20:45 · Direito Tributário · IBAM (Procurador Autárquico IBASS) — COSIP e progressividade
+> #2360047 IBAM - 2023 - Procurador Autárquico (IBASS)
+> O Prefeito do Município de Saquarema consulta você sobre a possibilidade de fixação de alíquotas progressivas para a contribuição para o custeio da iluminação pública entre os consumidores de energia elétrica. O objetivo seria fazer incidir uma alíquota maior sobre a conta daqueles que consomem mais.
+> De forma a emitir um parecer correto, sua breve resposta deve ser:
+> (A) é possível, por não afrontar o princípio da capacidade contributiva; aliás nem é imposto, nem taxa, é sim sui generis
+> (B) é possível, por não afrontar o princípio da capacidade contributiva, pois se trata de um imposto
+> (C) não é possível, por afrontar o princípio da capacidade contributiva, pois se trata de taxa revestida de contribuição
+> (D) não é possível, por afrontar o princípio da capacidade contributiva, pois não se pode presumir riqueza de consumo maior
+>
+> **Marquei:** D · **Gabarito:** A
+>
+> **Obs.:** não conhecia esse dispositivo. Novidade para mim.
+>
+> **Comentário do professor (resumido):** a questão cobra a jurisprudência do STF sobre a COSIP, **RE 573.675** (Plenário, Rel. Min. Ricardo Lewandowski, repercussão geral, 25/03/2009). (I) Restringir os contribuintes aos consumidores de energia elétrica não ofende a isonomia, pois não dá para identificar todos os beneficiários. (II) A progressividade, que resulta do rateio do custo da iluminação entre os consumidores, não afronta a capacidade contributiva. (III) É tributo **sui generis**: não é imposto, porque a receita tem finalidade específica, nem taxa, porque não há contraprestação individualizada. A capacidade contributiva vale, de modo geral, para todas as espécies tributárias (CF, art. 145, § 1º; STF, RE 406.955 AgR, sobre IPVA).
+>
+> > [!success] Resposta
+> > Gabarito A. Segundo o STF (RE 573.675), a COSIP (CF, art. 149-A) é tributo **sui generis**, nem imposto nem taxa. Alíquota progressiva pelo consumo de energia é possível: ela só faz o rateio do custo do serviço e não fere a capacidade contributiva. B e C erram a natureza jurídica; D erra a conclusão.
+> >
+> > Reforço: a **SV 41** proíbe remunerar iluminação pública por **taxa**. O art. 149-A, após a EC 132, também cobre sistemas de monitoramento para segurança e preservação de logradouros públicos, e a cobrança pode vir na fatura de energia. Pegadinha: alternativa que chama a COSIP de taxa ou de imposto.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:190` e `:252` (COSIP) · cofre `MATERIAS/P2 - Reforma Tributária.md:240` (art. 149-A) · cofre `wiki/concepts/Sumulas Vinculantes - Direito Tributario.md:42` (SV 41). O RE 573.675 vem do comentário do professor, sem trecho no cofre (conferir em stf.jus.br).
