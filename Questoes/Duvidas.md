@@ -300,3 +300,25 @@ Formato: `- <data>, <hora> — [matéria] pergunta → resposta curta (fonte: co
 > > **Pegadinha:** aqui o percentual está **acima** do piso (25%), então fecha; o erro da questão de 20% era estar **abaixo**. Leia o número contra o piso, não contra o que "parece certo".
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:538`, `:536`, `:611` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
+
+> [!question]- 21/09 09:23 · Direito Tributário · (banca não informada) — Súmula STJ 614: legitimidade ativa do locatário
+> Alternativa avaliada como **errada**: o locatário teria legitimidade ativa para postular a declaração de inexistência de relação jurídica tributária ou a repetição de indébito do IPTU, da Taxa de Conservação e Limpeza Pública e da Taxa de Iluminação Pública do imóvel alugado.
+>
+> > [!success] Resposta
+> > **Errada.** Segundo o STJ, o locatário não é contribuinte nem responsável tributário; logo, não tem legitimidade ativa para discutir a relação jurídico-tributária nem para repetir indébito de IPTU e de taxas do imóvel alugado (Súmula STJ 614).
+> >
+> > **Pegadinha:** a banca dá ao locatário o direito de pedir a devolução porque o contrato de locação o obriga a pagar; convenção particular não muda o sujeito passivo (CTN, art. 123).
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:2966-2967`, anexado hoje a partir desta dúvida · (sem conferência no site do STJ; texto da súmula conforme colado)
+
+> [!question]- 21/09 09:24 · Direito Tributário · (banca não informada) — Súmula STJ 399: sujeito passivo do IPTU
+> (C) cabe à legislação municipal estabelecer o sujeito passivo do IPTU.
+>
+> **Gabarito:** correta.
+>
+> > [!success] Resposta
+> > **Correta.** Súmula STJ 399: "Cabe à legislação municipal estabelecer o sujeito passivo do IPTU." Ela trata do compromissário-vendedor cujo nome ainda consta no registro: o promitente comprador pode figurar no polo passivo **junto com** o proprietário registrado, e cabe ao legislador municipal eleger o sujeito passivo entre as hipóteses do CTN (art. 34).
+> >
+> > **Pegadinha:** a banca troca para "a lei complementar" ou "o CTN define um só sujeito passivo"; o CTN só dá o rol (proprietário, titular do domínio útil, possuidor a qualquer título) e a lei municipal escolhe.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:2961` (tese) e `:2964` (súmula, anexada hoje) · (sem conferência no site do STJ; texto da súmula conforme colado)

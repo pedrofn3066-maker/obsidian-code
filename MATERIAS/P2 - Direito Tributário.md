@@ -2961,6 +2961,11 @@ I – ser progressivo em razão do valor do imóvel; e 
 Legitimidade passiva: o promitente comprador é legitimado a figurar no polo passivo da execução fiscal de IPTU **junto com** o proprietário registrado no Registro de Imóveis — cabe ao legislador municipal eleger o sujeito passivo entre as hipóteses do CTN.
 > Súmula STF 583. Promitente comprador de imóvel residencial transcrito em nome de autarquia é contribuinte do imposto predial territorial urbano.
 
+> Súmula STJ 399. Cabe à legislação municipal estabelecer o sujeito passivo do IPTU.
+
+Legitimidade ativa: o locatário não é contribuinte nem responsável pelo IPTU e, por isso, não pode discutir a relação jurídico-tributária nem pedir a repetição de indébito do IPTU, da Taxa de Conservação e Limpeza Pública e da Taxa de Iluminação Pública do imóvel alugado. Cláusula do contrato de locação que lhe atribui o pagamento não altera o sujeito passivo perante o Fisco (art. 123 do CTN).
+> Súmula STJ 614. O locatário não possui legitimidade ativa para discutir a relação jurídico-tributária de IPTU e de taxas referentes ao imóvel alugado nem para repetir indébito desses tributos.
+
 Área urbanizável/de expansão urbana: a lei municipal que assim classifica a área afasta, por si só, a exigência dos melhoramentos do art. 32, § 1º, CTN.
 > Súmula STJ 626. A incidência do IPTU sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana não está condicionada à existência dos melhoramentos elencados no art. 32, § 1º, do CTN.
 
