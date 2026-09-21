@@ -32,6 +32,6 @@ obs: "Os 5 erros caem todos no bloco de crédito tributário (Suspensão 2/4, Ex
 
 ## Erros a revisar
 
-- Suspensão da Exigibilidade do Crédito Tributário (arts. 151 a 155-A do CTN) — 2/4. Moratória (art. 152) e parcelamento (art. 155-A); ver Questoes/Duvidas.md.
+- Suspensão da Exigibilidade do Crédito Tributário (arts. 151 a 155-A do CTN) — 2/4. Moratória (art. 152) e parcelamento (art. 155-A); ver o heading Dúvidas respondidas em Erradas/ERRO DIREITO TRIBUTÁRIO.md.
 - Extinção do Crédito Tributário (arts. 156 a 174 do CTN) — 6/8. Consulta e art. 161 §2º, prescrição (art. 174).
 - Tópicos Mesclados de Extinção, Exclusão e Suspensão do Crédito Tributário — 2/3. Revisar a distinção suspensão × extinção × exclusão.
