@@ -155,3 +155,148 @@ Formato: `- <data>, <hora> — [matéria] pergunta → resposta curta (fonte: co
 > > **Atenção à vigência:** a LC 208/2024 passou o inciso II para "protesto judicial **ou extrajudicial**". Em prova de 2023 vale a redação antiga (só judicial), por isso a "B" fechava; hoje o extrajudicial também interrompe. Ver `MATERIAS/P2 - Direito Tributário.md:1132`.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1144-1149`, `:929` · (sem fonte confirmada) a parte do STJ e a redação vigente do inciso II, por falta de acesso ao Planalto.
+
+> [!question]- 21/09 08:33 · Reforma Tributária · SEFAZ CE 2026 (Inéditas Literais) — Fornecimento não oneroso a empregados
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025.
+>
+> O fornecimento não oneroso de bens produzidos pelo contribuinte aos seus empregados, bem como aos cônjuges, companheiros ou parentes, consanguíneos ou afins, até o terceiro grau, desses empregados, é hipótese expressa de incidência do IBS e da CBS.
+>
+> (C) Certo
+> (E) Errado
+>
+> **Marquei:** E · **Gabarito:** C
+>
+> > [!success] Resposta
+> > **Certo.** Art. 5º, I, "b": incidem IBS e CBS sobre o fornecimento não oneroso (ou a valor inferior ao de mercado) de bens e serviços **produzidos ou prestados** pelo contribuinte a sócios, administradores, conselheiros e **empregados**, e a cônjuges, companheiros e parentes até o 3º grau.
+> >
+> > **Pegadinha:** a regra geral é "só onerosas incidem"; aqui é exceção expressa. Sai da incidência (§8º) o que é usado preponderantemente na atividade econômica.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:535`, `:537` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
+
+> [!question]- 21/09 08:34 · Reforma Tributária · — — Ordem de prevalência das desonerações
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025.
+>
+> Caso seja possível a aplicação de mais de um instituto desonerativo à mesma operação, esta lei estabelece uma ordem de prevalência em que a redução a zero de alíquota e a suspensão com conversão em alíquota zero têm prioridade de aplicação sobre a isenção e o diferimento.
+>
+> (C) Certo
+> (E) Errado
+>
+> **Marquei:** E · **Gabarito:** C
+>
+> > [!success] Resposta
+> > **Certo.** Art. 7º-A, ordem de aplicação: (I) redução a zero de alíquota; (II) suspensão com conversão em alíquota zero; (III) isenção; (IV) diferimento; (V) redução de alíquota distinta da do inciso I.
+> >
+> > **Pegadinha:** decore a ordem: **zero → suspensão convertida em zero → isenção → diferimento → redução**. Já a mais de uma *redução de alíquota* aplica-se outra regra: cumulação só com previsão expressa; sem ela, prevalece a maior redução.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:556-557` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
+
+> [!question]- 21/09 08:35 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) — Partes relacionadas: 20% ou 25%
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025.
+>
+> Para fins de incidência do IBS e da CBS, são consideradas partes relacionadas as entidades, quando uma delas possuir o direito de receber, direta ou indiretamente, no mínimo 20% dos lucros somados aos ativos da outra em caso de liquidação.
+>
+> (C) Certo
+> (E) Errado
+>
+> **Marquei:** C · **Gabarito:** E
+>
+> > [!success] Resposta
+> > **Errado.** O piso é **25%** (direito de receber ao menos 25% dos lucros ou dos ativos em liquidação da outra), e não 20% (art. 5º, §3º). Os 20% aparecem em **outras** hipóteses do rol: sócio que detenha 20% ou mais do capital de cada entidade.
+> >
+> > **Pegadinha:** **25%** = lucros ou ativos em liquidação; **20%** = capital social (sócio comum). A banca troca um pelo outro. O item também soma "lucros somados aos ativos" em vez de "lucros **ou** ativos".
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:538` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
+
+> [!question]- 21/09 08:35 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) — Relação de controle
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025.
+>
+> Para fins de incidência do IBS e da CBS, fica caracterizada a relação de controle quando uma entidade participar, direta ou indiretamente, de mais de 50% do capital social de outra entidade.
+>
+> (C) Certo
+> (E) Errado
+>
+> **Marquei:** E · **Gabarito:** C
+>
+> > [!success] Resposta
+> > **Certo.** Art. 5º, §5º, II: há controle quando a participação é em **mais de 50%** do capital social. As outras hipóteses são (I) direitos que assegurem preponderância nas deliberações ou o poder de eleger ou destituir a maioria dos administradores e (III) poder de administrar ou gerenciar.
+> >
+> > **Pegadinha:** "mais de 50%" (não "50% ou mais"): a banca inverte para "no mínimo 50%".
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:539` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
+
+> [!question]- 21/09 08:36 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) #3258362 — Imunidade nos fornecimentos do poder público
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025.
+>
+> São imunes ao IBS e à CBS os fornecimentos realizados pela União, pelos Estados, pelo Distrito Federal e pelos Municípios, sendo tal imunidade extensiva às autarquias e às fundações instituídas e mantidas pelo poder público e à empresa pública prestadora de serviço postal compreendendo somente as operações relacionadas com as suas finalidades essenciais ou as delas decorrentes.
+>
+> (C) Certo
+> (E) Errado
+>
+> **Marquei:** E · **Gabarito:** C
+>
+> **Obs.:** acho que confundi o fornecimento ser imune com aquisição.
+>
+> > [!success] Resposta
+> > **Certo.** Art. 9º, I e §1º: imunes os **fornecimentos** feitos pelos entes federados; extensiva a autarquias, fundações públicas e à empresa pública de serviço postal, **somente** nas operações ligadas às finalidades essenciais. Não vale para atividade econômica de empreendimento privado nem quando há contraprestação ou tarifa pelo usuário.
+> >
+> > **Pegadinha:** a imunidade é do **fornecimento**; nas **aquisições** dessas entidades a imunidade **não** se aplica (art. 9º, §4º). O item fala em fornecimento, então está certo.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:564-565`, `:567` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
+
+> [!question]- 21/09 08:37 · Reforma Tributária · SEFAZ CE 2026 (Inéditas Literais) #3991170 — Antecipação de pagamento e prazo
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025.
+>
+> O regulamento estabelecerá hipóteses em que, observado o prazo máximo de 10 (dez) dias entre o pagamento antecipado e a data do fornecimento, as antecipações do IBS e da CBS poderão constar como créditos no período de apuração do fornecimento.
+>
+> (C) Certo
+> (E) Errado
+>
+> **Marquei:** C · **Gabarito:** E
+>
+> **Obs.:** esses prazos me confundem sempre.
+>
+> > [!success] Resposta
+> > **Errado, em dois pontos.** Art. 10, §7º: o prazo máximo é de **5 dias** (não 10) e as antecipações constam como **débitos** do período de apuração do fornecimento (não como créditos). O crédito do adquirente vem depois, com a extinção dos débitos (§6º).
+> >
+> > **Pegadinha:** **5 dias** e **débitos**: a banca troca o número e o sinal (débito/crédito). Lado do fornecedor = débito; lado do adquirente = crédito.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:577` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
+
+> [!question]- 21/09 08:38 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) #3277646 — Base de cálculo: o transporte integra o valor da operação
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025.
+>
+> Em regra, a base de cálculo do IBS e da CBS é o valor da operação, o qual compreende o valor integral cobrado pelo fornecedor a qualquer título, exceto, no caso de transporte efetuado pelo próprio fornecedor ou no transporte por sua conta e ordem, o valor do transporte cobrado como parte do valor da operação.
+>
+> (C) Certo
+> (E) Errado
+>
+> **Marquei:** E · **Gabarito:** E
+>
+> **Obs.:** acertei marcando gabarito errado, mas sempre erro essa questão geralmente. Me explique melhor esse dispositivo.
+>
+> > [!success] Resposta
+> > **Errado.** Art. 12, §1º: o valor da operação **compreende** o transporte cobrado como parte da operação, feito pelo próprio fornecedor ou por sua conta e ordem. O item inverte: diz que o transporte fica de fora.
+> > **Como o art. 12 funciona:** o caput fixa a base (valor da operação); o **§1º** lista o que **entra** ("a qualquer título": acréscimos, juros e multas, descontos **condicionais**, transporte cobrado na operação, tributos e preços públicos suportados pelo fornecedor, seguros e taxas); o **§2º** lista o que **sai** (o próprio IBS e a CBS, IPI, descontos **incondicionais**, reembolsos por conta e ordem de terceiros com documento em nome do terceiro, tributos antigos entre 2026 e 2032 e a COSIP).
+> >
+> > **Pegadinha:** a banca põe no §2º (o que sai) algo que está no §1º (o que entra). Regra prática: **condicional entra, incondicional sai**; **transporte cobrado como parte da operação entra**.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:609-611` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
+
+> [!question]- 21/09 08:39 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) #3289019 — Base de cálculo: valor de mercado entre partes relacionadas
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025.
+>
+> Nas operações de bens e serviços que ocorra a valor inferior ao de mercado e entre entidades em que uma delas possua o direito de receber, direta ou indiretamente, 30% dos lucros da outra ou de seus ativos em caso de liquidação, a base de cálculo do IBS e da CBS corresponderá ao valor de mercado dos bens ou serviços.
+>
+> (C) Certo
+> (E) Errado
+>
+> **Marquei:** E · **Gabarito:** C
+>
+> **Obs.:** sempre me enrolo com essas questões de partes relacionadas.
+>
+> > [!success] Resposta
+> > **Certo.** O piso de partes relacionadas é **25%** dos lucros ou dos ativos em liquidação (art. 5º, §3º); 30% passa do piso, então são partes relacionadas. O fornecimento a valor inferior ao de mercado entre elas incide (art. 5º, IV) e a base é o **valor de mercado** (art. 12, §4º).
+> >
+> > **Pegadinha:** aqui o percentual está **acima** do piso (25%), então fecha; o erro da questão de 20% era estar **abaixo**. Leia o número contra o piso, não contra o que "parece certo".
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:538`, `:536`, `:611` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
