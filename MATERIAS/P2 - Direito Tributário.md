@@ -1127,10 +1127,10 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 | Objeto | direito da Fazenda de **constituir** o crédito, por inércia | direito da Fazenda de **cobrar judicialmente** crédito já constituído |
 | Prazo | **5 anos** | **5 anos** |
 | Termo inicial | 1º dia do exercício seguinte àquele em que o lançamento poderia ter sido feito; ou data em que se tornar definitiva a decisão que anulou o lançamento anterior por **vício formal**; antecipação da contagem: data da **notificação de medida preparatória** indispensável ao lançamento | **constituição definitiva** |
-| Interrupção | — | despacho do juiz que ordena a citação; protesto judicial; ato judicial que constitua o devedor em mora; reconhecimento do débito pelo devedor, ainda que em ato extrajudicial |
+| Interrupção | — | despacho do juiz que ordena a citação; protesto judicial ou extrajudicial; ato judicial que constitua o devedor em mora; reconhecimento do débito pelo devedor, ainda que em ato extrajudicial |
 
-> [!note]- Correção: protesto só judicial
-> A extração do PDF (p. 75) trazia "Protesto Judicial/ Extrajudicial". O art. 174, parágrafo único, II, do CTN (redação da LC 118/2005) prevê só o **protesto judicial**; o extrajudicial não interrompe a prescrição. Corrigido em 20/09/2026 a partir do texto da lei, sem conferência online no Planalto (fora do ar na checagem).
+> [!note]- Protesto extrajudicial (LC 208/2024)
+> Até a LC 208/2024 o inciso II previa só o **protesto judicial**; desde então prevê "protesto judicial ou extrajudicial". Provas anteriores a julho/2024 (ex.: IBAM Caruaru 2023) seguem a redação antiga. Conferido em 20/09/2026 em fontes secundárias (vademecumprevidenciario.com.br, portelasj.com); o Planalto não abriu na checagem, vale reconferir lá.
 
 *(CTN comentado, Guruja, p. 60–61 e 73–75)*
 
@@ -1145,7 +1145,7 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 >
 > Parágrafo único. A prescrição se interrompe:
 > I - pelo despacho do juiz que ordenar a citação em execução fiscal;
-> II - pelo protesto judicial;
+> II - pelo protesto judicial ou extrajudicial;
 > III - por qualquer ato judicial que constitua em mora o devedor;
 > IV - por qualquer ato inequívoco ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
 
@@ -1155,7 +1155,7 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 > **Passo a passo:**
 > 1. Homologação (art. 150, §4º): se a lei não fixar prazo, são **5 anos do fato gerador**; passado esse tempo sem manifestação, considera-se homologado o lançamento e extinto o crédito, salvo dolo, fraude ou simulação.
 > 2. Decadência (art. 173): 5 anos do **primeiro dia do exercício seguinte** àquele em que o lançamento poderia ter sido efetuado, ou da data em que a decisão que **anulou por vício formal** o lançamento anterior se tornou definitiva; o parágrafo único conta da **notificação de medida preparatória** indispensável ao lançamento.
-> 3. Prescrição (art. 174): 5 anos da **constituição definitiva** do crédito; interrompe-se pelo despacho do juiz que ordena a citação em execução fiscal, protesto judicial, ato judicial que constitua o devedor em mora, ou ato inequívoco de reconhecimento do débito.
+> 3. Prescrição (art. 174): 5 anos da **constituição definitiva** do crédito; interrompe-se pelo despacho do juiz que ordena a citação em execução fiscal, protesto judicial ou extrajudicial, ato judicial que constitua o devedor em mora, ou ato inequívoco de reconhecimento do débito.
 >
 > *Exemplo ilustrativo (sem lastro):* fato gerador em 10/03/2020; a contagem do art. 173, I, começa em 1º/01/2021 e a decadência se completa em 31/12/2025.
 >
