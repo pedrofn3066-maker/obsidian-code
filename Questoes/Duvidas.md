@@ -508,3 +508,255 @@ Formato: `- <data>, <hora> — [matéria] pergunta → resposta curta (fonte: co
 > > **Macete SPE:** sociedade **limitada**, sócios **optantes**, lucro **real**, PIS/Cofins **não cumulativo**, exporta **só** bens dos sócios e **sem crédito**.
 > >
 > > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 56 §1º a §5º
+
+> [!question]- 21/09 16:58 · Reforma Tributária · Inéditas (AFRFB 2026) — Denominação errônea da defesa ou do recurso
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> A denominação equivocada atribuída à defesa ou ao recurso acarreta o seu indeferimento liminar, por inobservância de requisito formal essencial.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Certo · **Gabarito:** Errado
+>
+> **Obs.:** você só anotou "errei"; por ser Certo/Errado, o Certo é o que estava marcado.
+>
+> > [!success] Resposta
+> > **Errado.** A errônea denominação da defesa ou do recurso **não prejudica** a parte, desde que respeitados os prazos e os demais requisitos (art. 61).
+> >
+> > O indeferimento liminar existe, mas por **intempestividade, ilegitimidade ou inépcia** (art. 68), nunca pelo nome dado à peça. O processo tem formalismo moderado.
+> >
+> > Você marcou Certo tratando o nome errado como vício formal essencial. Regra de bolso: **prazo e requisitos contam, rótulo não**.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 16:59 · Reforma Tributária · FCC (AFFE SEFAZ CE 2026, #4122716) — Regras gerais do PAT do IBS
+> A LC 227, de 13/01/2026, trata da administração e da gestão do IBS. Segundo ela, no processo administrativo tributário do IBS:
+>
+> (A) os documentos serão arquivados em meio eletrônico, com presunção de autoria, de veracidade e de integridade, e seu conteúdo será considerado verdadeiro e completo para todos os efeitos legais.
+> (B) são assegurados o contraditório, a defesa técnica, por escrito ou em áudio visual, a sustentação oral, pré-gravada ou por escrito, antes do julgamento, e a juntada de provas nas formas, limites e prazos do regimento interno.
+> (C) na contagem dos prazos serão considerados os dias corridos, sem interrupção, excluído o dia do começo e incluído o dia do vencimento.
+> (D) consideram-se realizados os atos por meio eletrônico no dia e na hora impressos no recibo de juntada de documentos ao processo, sem o qual considera-se não realizado o ato.
+> (E) o processo terá sua formação, sua tramitação e seu julgamento realizados mediante utilização de sistema eletrônico.
+>
+> ⚠️ Gabarito preliminar.
+>
+> **Marquei:** A · **Gabarito:** E
+>
+> > [!success] Resposta
+> > **E** (art. 57, literal).
+> >
+> > - **A:** o art. 58 diz só que o documento eletrônico com garantia de autoria, autenticidade e integridade vale como **original**. "Presunção de veracidade" e "conteúdo verdadeiro e completo" foram inventados.
+> > - **B:** art. 60: ampla defesa **por escrito**, com **sustentação oral nas sessões de julgamento**. "Áudio visual" e "pré-gravada" não existem.
+> > - **C:** art. 62: **dias úteis**, não corridos.
+> > - **D:** art. 63: o ato eletrônico se considera realizado no **dia e hora do envio ao sistema**, comprovado por **protocolo eletrônico**. Não há "recibo de juntada".
+> >
+> > Você marcou A, a alternativa que parece garantia ao contribuinte. Em 20/09 (ISS Guarulhos, Q122) errou o mesmo art. 57 marcando D. A banca fabrica a alternativa errada em cima dos arts. 58 a 63 e deixa o texto literal do art. 57 como certa.
+> >
+> > **Macete:** o art. 57 é o "sistema eletrônico do CGIBS" (nome genérico, sem e-CAC). O resto da seção é **dia útil, dia do envio e protocolo**.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 16:59 · Reforma Tributária · Inéditas (AFRFB 2026, #4036476) — Tempestividade suscitada em preliminar
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> Se a tempestividade de impugnação ou recurso houver sido suscitada como preliminar, eles serão encaminhados à instância julgadora competente, cabendo recurso à Câmara Superior do IBS, no prazo de 20 (vinte) dias, caso a decisão reconheça a intempestividade.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Errado (no chute) · **Gabarito:** Errado
+>
+> **Obs.:** acertei, mas foi no chute.
+>
+> > [!success] Resposta
+> > **Errado** (art. 68, §§ 3º e 4º).
+> >
+> > A tempestividade suscitada em preliminar vai à instância julgadora competente, e da decisão colegiada que reconhece a **intempestividade não cabe recurso**. O item inventou recurso à Câmara Superior em 20 dias.
+> >
+> > Acertou no chute. Para não depender de sorte: a Câmara Superior só julga **uniformização** (10 dias) e retificação. Nunca é recurso genérico contra intempestividade.
+> >
+> > **Macete:** intempestivo, ilegítimo e inepto = indeferido, e a decisão de intempestividade é **irrecorrível**.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 17:00 · Reforma Tributária · Inéditas (AFRFB 2026, #4036479) — Prazo da diligência
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> Quando não estabelecido de forma expressa pela autoridade julgadora, o prazo para cumprimento de diligência será de 20 (vinte) dias úteis, prorrogável mediante pedido devidamente justificado, formulado pela autoridade responsável pela sua realização.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Certo · **Gabarito:** Certo
+>
+> **Obs.:** acertei, mas esses prazos sempre me pegam desprevenido.
+>
+> > [!success] Resposta
+> > **Certo** (art. 70, literal).
+> >
+> > Cuidado com dois vizinhos: a **parte** tem 20 dias para se manifestar (art. 71; todos os prazos do Título contam em dias úteis, art. 62) sobre os documentos juntados pela diligência. E se ninguém fixou prazo para ato da parte, o prazo é de **10 dias** (art. 62, §4º).
+> >
+> > **Macete:** quem pede a prorrogação é **quem faz a diligência**, não o contribuinte.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 17:01 · Reforma Tributária · Inéditas (AFRFB 2026, #4036489) — Rito sumário: menor complexidade
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> A exclusão de programas especiais de parcelamento figura entre as hipóteses de menor complexidade que autorizam a tramitação sob rito sumário.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Certo · **Gabarito:** Certo
+>
+> **Obs.:** acertei, mas as hipóteses de menor complexidade não estão bem definidas na memória.
+>
+> > [!success] Resposta
+> > **Certo** (art. 76, II, b).
+> >
+> > Rito sumário cabe quando **(I)** o crédito é inferior ao valor de alçada (até 1.000 UPFs) **ou (II)** a matéria é de menor complexidade, "tais como":
+> >
+> > - indeferimento de **restituição e ressarcimento**;
+> > - exclusão de **programas especiais de parcelamento**;
+> > - indeferimento de opção ou exclusão de ofício do **Simples Nacional**.
+> >
+> > Efeito: a decisão de 1ª instância é **definitiva**, salvo pedido de retificação, recurso especial e, só no caso do crédito de alçada, recurso de uniformização. **Não cabe recurso de ofício** (art. 77, §3º, VI).
+> >
+> > **Macete R-P-S:** **R**estituição, **P**arcelamento, **S**imples. São decisões de negar ou tirar um benefício, sem lançamento complexo. Lançamento de ofício comum não entra no II.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 17:01 · Reforma Tributária · Inéditas (AFRFB 2026, #4043953) — Recurso de ofício: quem amplia as hipóteses de não cabimento
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> Além das hipóteses previstas na própria lei, somente outra lei complementar poderá afastar o cabimento do recurso de ofício.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Certo · **Gabarito:** Errado
+>
+> > [!success] Resposta
+> > **Errado** (art. 77, §6º).
+> >
+> > O art. 77, §3º lista os casos em que não cabe recurso de ofício, e o §6º diz que **ato do CGIBS** pode criar outras hipóteses, em razão da controvérsia da matéria ou da natureza da infração. Não precisa de lei complementar.
+> >
+> > A armadilha é o **"somente"** somado a "lei complementar". O CGIBS tem poder normativo para resolver casos omissos e detalhar o Título (art. 102).
+> >
+> > **Macete:** nesse Título, quando a lei manda "nos termos de ato do CGIBS", a resposta não é LC.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 17:03 · Reforma Tributária · Inéditas (AFRFB 2026, #4043956) — Uniformização x especial
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> Caberá recurso especial, dirigido à Câmara Superior do IBS, no prazo de 20 (vinte) dias, contra decisão de segunda instância ou proferida no rito sumário, que conferir à legislação específica do IBS interpretação do direito divergente da que lhe haja atribuído outra decisão de segunda instância ou da própria Câmara Superior, com vistas a uniformizar a jurisprudência administrativa do IBS em âmbito nacional.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Certo · **Gabarito:** Errado
+>
+> **Obs.:** esses prazos, tipos de recursos, foros e autoridades julgadoras eu não domino; preciso de um jeito de decorar e entender.
+>
+> > [!success] Resposta
+> > **Errado.** O item descreve o **recurso de uniformização** (art. 79), mas o chama de "especial" e dá prazo de 20 dias.
+> >
+> > | Recurso | Legislação | Órgão | Prazo |
+> > |---|---|---|---|
+> > | Voluntário / ofício | qualquer | 2ª instância (Câmara Recursal) | 20 dias (dobro se a Fazenda perdeu) |
+> > | **Uniformização** (art. 79) | **específica do IBS** | Câmara Superior do IBS | **10 dias** (contrarrazões 10) |
+> > | **Especial** (art. 323-G, LC 214) | **comum IBS + CBS** | Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS | **10 dias úteis** |
+> >
+> > **Macete:** **U**niformização = **U**m tributo só (IBS). **E**special = **E**m conjunto (IBS e CBS). Os dois têm prazo de 10 dias, os "comuns" têm 20.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 17:04 · Reforma Tributária · Inéditas (AFRFB 2026, #4043968) — STF em controle difuso e provimentos vinculantes
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> Serão observadas no processo administrativo tributário as decisões do STF proferidas em controle difuso de constitucionalidade, bastando, para tanto, o trânsito em julgado da decisão que declarou a inconstitucionalidade do dispositivo legal.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Certo · **Gabarito:** Errado
+>
+> **Obs.:** me enrolo com PAT quando mistura cortes superiores, controles de constitucionalidade e demais agentes.
+>
+> > [!success] Resposta
+> > **Errado** (art. 74, III).
+> >
+> > No controle difuso não basta o trânsito em julgado: a execução do dispositivo precisa ter sido **suspensa por resolução do Senado** (art. 52, X, CF). A tese de que o STF já trata a decisão difusa como erga omnes (abstrativização) não muda a letra da LC 227. Para a prova, vale o texto.
+> >
+> > Os 6 provimentos vinculantes do art. 74 (desde que sem fundamento relevante para distinção):
+> >
+> > 1. súmulas vinculantes do STF;
+> > 2. decisões do STF em controle **concentrado**, transitadas em julgado;
+> > 3. decisões do STF em controle **difuso**, transitadas em julgado **e** com resolução do Senado;
+> > 4. decisões do STF/STJ em repercussão geral ou repetitivos, transitadas em julgado;
+> > 5. súmulas do **CGIBS**;
+> > 6. decisões da **Câmara Nacional** de Integração do Contencioso.
+> >
+> > Fora disso, o julgador **não afasta lei por inconstitucionalidade ou ilegalidade** (parágrafo único).
+> >
+> > **Macete 3-1-2:** 3 do STF (SV, concentrado, difuso+Senado), 1 de repetitivos (STF/STJ), 2 do próprio sistema (CGIBS e Câmara Nacional).
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 17:05 · Reforma Tributária · Inéditas (AFRFB 2026, #4043977) — Requisitos do julgador servidor
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> Relativamente aos requisitos para o exercício da função de julgador pelos representantes das administrações tributárias, é correto afirmar que devem ser integrantes das carreiras dotadas de competência para a realização do lançamento tributário ou de julgamento tributário, bem como possuir nível superior.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Errado · **Gabarito:** Certo
+>
+> **Obs.:** me enrolo com os requisitos para exercer as funções criadas na reforma; preciso de um jeito de entender o tema.
+>
+> > [!success] Resposta
+> > **Certo** (art. 89, §2º, I, "a" e "b").
+> >
+> > **Servidor da administração tributária:**
+> >
+> > - (a) carreira com competência para **lançamento ou julgamento**;
+> > - (b) **nível superior**;
+> > - (c) **preferencialmente** experiência em julgamento de PAT (preferência, não exigência).
+> >
+> > **Representante do contribuinte:** nível superior **há pelo menos 3 anos** e experiência **tributária e contábil** por 3 anos **após** a graduação.
+> >
+> > Você provavelmente marcou Errado por achar que faltava a experiência (que é só preferencial) ou por confundir com o requisito do contribuinte.
+> >
+> > **Macete C-S-P** (servidor): **C**arreira, **S**uperior, **P**referencialmente experiência. **3+3** (contribuinte): 3 anos de formado + 3 anos de experiência.
+> >
+> > Quadro geral: mandato de **2 anos** com recondução (art. 90); paridade Estados+DF x Municípios+DF; **30%** de mulheres, no mínimo.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 17:06 · Reforma Tributária · Inéditas (AFRFB 2026, #4060422) — Representação da Fazenda Pública
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> A representação e a defesa jurídica da Fazenda Pública perante as Câmaras de Julgamento serão exercidas exclusivamente por procuradores dos Estados, do Distrito Federal e dos Municípios.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Certo · **Gabarito:** Errado
+>
+> > [!success] Resposta
+> > **Errado** (art. 97).
+> >
+> > A representação é exercida por **procuradores** dos Estados, DF e Municípios **ou por autoridade fiscal** integrante das administrações tributárias, nos termos de lei do respectivo ente. O **"exclusivamente"** derruba o item.
+> >
+> > **Macete:** Fazenda = procurador **ou** auditor. Só quem julga é servidor de carreira com competência de lançamento ou julgamento (art. 89), e a representação nunca é do julgador.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+> [!question]- 21/09 17:07 · Reforma Tributária · Inéditas (AFRFB 2026, #4060432) — Perda de mandato do julgador
+> Julgue o item conforme a LC 227/2026 (CGIBS):
+> Cabe ao Presidente do CGIBS decidir sobre a proposta de perda de mandato do membro julgador, cabendo recurso ao colegiado formado pelas presidências das Câmaras Recursais de Julgamento.
+>
+> Certo ou Errado?
+>
+> **Marquei:** Certo · **Gabarito:** Errado
+>
+> **Obs.:** vários gargalos nas disposições finais do PAT: agentes, foros, recursos.
+>
+> > [!success] Resposta
+> > **Errado** (art. 101, §§ 1º e 2º).
+> >
+> > O item acerta quem decide (Presidente do CGIBS) e erra ao criar um recurso: **não cabe recurso** dessa decisão.
+> >
+> > Fluxo: falta grave ou meio ilícito de procrastinar/favorecimento → devido processo com ampla defesa e contraditório → o **Presidente da Câmara Superior** submete a proposta → o **Presidente do CGIBS decide** → **irrecorrível**.
+> >
+> > Não confundir com a **renúncia tácita** (art. 100): retardar processo, não redigir acórdão no prazo, ou faltar a **3 sessões consecutivas ou 5 alternadas no quadrimestre**. Justificativa prévia, por escrito e aceita pelo Presidente afasta.
+> >
+> > **Macete:** decisão do Presidente do CGIBS é a última palavra, sem porta de recurso.
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`

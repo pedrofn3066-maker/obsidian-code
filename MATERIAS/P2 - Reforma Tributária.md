@@ -1516,14 +1516,111 @@ Art. 42. O CGIBS elaborará, ao final de cada quadrimestre, o relatório de gest
 ## Processo administrativo tributário do IBS (LC 227/26)
 - [ ] status [dom:: 0] [peso:: 3]
 
-*Fonte: captura de questão (ISS Guarulhos, Q122, 20/09/2026). O texto da LC 227/26 sobre o processo ainda não está na nota.*
+*Fonte: captura de questão (ISS Guarulhos, Q122, 20/09/2026) e caderno de Reforma de 21/09/2026 (Inéditas AFRFB e FCC SEFAZ CE).*
 
 Princípios que o processo administrativo tributário do IBS observa, segundo o gabarito: <mark>simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé</mark>, dentre outros.
 
 ⚠️ Alternativas que o gabarito deu como erradas: (A) formação, tramitação e julgamento por sistema eletrônico <mark>e-CAC da Receita Federal</mark>; (B) intervenção pelo <mark>tomador de serviços ou adquirente</mark> como substituto processual; (C) prazos em <mark>dias corridos</mark>, incluindo o dia da intimação e excluindo o do vencimento; (D) sujeito passivo intimado <mark>15 dias</mark> após a data do comprovante de entrega no DTE ou no sistema de comunicação eletrônica.
 
+LC nº 227/2026, Título II (Do Processo Administrativo Tributário do IBS), arts. 56 a 102. Abaixo, os artigos onde errei ou fiquei em dúvida no caderno de 21/09/2026, com <mark>o ponto da pegadinha marcado</mark> para a releitura. Fonte do texto: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`.
+
+**Forma, prazos e intimação (arts. 57 a 63)**
+
+Art. 57 O processo administrativo tributário terá sua formação, sua tramitação e seu julgamento realizados mediante utilização de <mark>sistema eletrônico</mark>.
+Parágrafo único. Competem ao <mark>CGIBS</mark> a implementação e a gestão do sistema eletrônico referido no caput deste artigo, que será utilizado pelas administrações tributárias dos Estados, do Distrito Federal e dos Municípios.
+Art. 58 Os documentos transmitidos por meio eletrônico, com garantia de autoria, de autenticidade e de integridade, na forma estabelecida na legislação, serão considerados <mark>originais para todos os efeitos legais</mark>.
+Art. 60 São assegurados às partes o devido processo legal, o contraditório e a ampla defesa, <mark>aduzida por escrito</mark>, permitida a <mark>sustentação oral nas sessões de julgamento</mark>, e acompanhada de todas as provas que tiver, desde que produzidas na forma e nos prazos legais.
+Art. 61 A errônea denominação dada à defesa ou ao recurso <mark>não prejudicará a parte interessada</mark>, desde que observados os prazos e os demais requisitos previstos neste Título.
+Art. 62 Na contagem dos prazos processuais previstos neste Título, serão considerados <mark>somente os dias úteis</mark>, excluído o dia do começo e incluído o dia do vencimento, exceto se houver expressa disposição em contrário nesta Lei Complementar ou na Lei Complementar nº 214, de 16 de janeiro de 2025.
+§ 4º Se não houver prazo expressamente previsto para a prática do ato a cargo da parte, o prazo será de <mark>10 (dez) dias</mark>.
+Art. 63 Consideram-se realizados os atos processuais por meio eletrônico <mark>no dia e na hora do seu envio ao sistema</mark>, o que deverá ser comprovado ao interessado mediante fornecimento de <mark>protocolo eletrônico</mark>.
+LC nº 214/2025, art. 333, § 2º (reproduzido no PDF): Considera-se intimado o sujeito passivo após <mark>10 (dez) dias</mark> contados da data registrada no comprovante de entrega no DTE ou no sistema de comunicação eletrônica, caso o sujeito passivo não efetue a consulta durante esse prazo.
+
+⚠️ Pegadinhas de banca: inventar "presunção de veracidade" dos documentos (art. 58), defesa "em áudio visual" ou sustentação "pré-gravada" (art. 60), <mark>dias corridos</mark> (é dia útil), "recibo de juntada" (o marco é o envio ao sistema, art. 63) e prazo de intimação de 15 dias (são 10).
+
+**Impugnação, tempestividade e diligência (arts. 67 a 71)**
+
+Art. 67 § 1º O prazo para impugnação é de <mark>20 (vinte) dias</mark>, contado da intimação do lançamento de ofício.
+Art. 68 § 3º Se houver sido suscitada a tempestividade como preliminar, a impugnação ou o recurso serão encaminhados à instância julgadora competente.
+§ 4º <mark>Não caberá recurso</mark> da decisão colegiada a que se refere o § 3º deste artigo que decidir pela intempestividade.
+§ 5º Verificadas as irregularidades da representação [...], o contribuinte será intimado para saná-las em <mark>5 (cinco) dias</mark>, sob pena de preclusão e nulidade dos atos praticados e dos que lhes forem consequentes.
+Art. 70 Quando não estabelecido de forma expressa pela autoridade julgadora, o prazo para cumprimento de diligência será de <mark>20 (vinte) dias úteis</mark>, prorrogável mediante pedido devidamente justificado, formulado <mark>pela autoridade responsável pela sua realização</mark>.
+Art. 71 A parte será intimada de todos os documentos juntados ao processo administrativo tributário em decorrência da realização da diligência e terá o prazo de <mark>20 (vinte) dias</mark> para se manifestar.
+
+**Provimentos vinculantes (art. 74)**
+
+Art. 74. No âmbito do processo administrativo tributário, serão observados, desde que ausentes fundamentos relevantes para distinção:
+I - os enunciados das súmulas vinculantes do Supremo Tribunal Federal, na forma do art. 103-A da Constituição Federal;
+II - as decisões transitadas em julgado proferidas pelo Supremo Tribunal Federal em sede de controle concentrado de constitucionalidade, na forma do § 2º do art. 102 da Constituição Federal;
+III - as decisões transitadas em julgado proferidas pelo Supremo Tribunal Federal em sede de controle difuso que tenham declarado inconstitucional dispositivo legal <mark>cuja execução tenha sido suspensa por resolução do Senado Federal</mark>, na forma do inciso X do caput do art. 52 da Constituição Federal;
+IV - as decisões transitadas em julgado do Supremo Tribunal Federal ou do Superior Tribunal de Justiça proferidas na sistemática da repercussão geral ou dos recursos repetitivos, na forma do inciso III, in fine, do art. 927 e dos arts. 928 e 1.036 a 1.041 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil);
+V - as súmulas editadas pelo CGIBS, nos termos do § 1º do art. 81 desta Lei Complementar; e
+VI - as decisões da Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS de que trata o art. 323-G da Lei Complementar nº 214, de 16 de janeiro de 2025.
+Parágrafo único. Ressalvado o disposto neste artigo, é vedado às autoridades julgadoras, no âmbito do processo administrativo tributário, afastar a aplicação ou deixar de observar a legislação tributária sob o fundamento de inconstitucionalidade ou ilegalidade.
+
+⚠️ Pegadinha de banca: controle difuso só vincula o PAT com <mark>trânsito em julgado e resolução do Senado</mark> (inciso III). Mesmo que o STF já trate a decisão difusa como erga omnes (abstrativização), a LC 227 exige a resolução: responder pela letra da lei.
+
+**Recursos (arts. 75 a 80)**
+
+Art. 75 [...] poderão ser interpostos os seguintes recursos no âmbito do contencioso administrativo: I - recurso de ofício; II - recurso voluntário; III - recurso de uniformização; e IV - recurso especial, na forma do art. 323-G da Lei Complementar nº 214, de 16 de janeiro de 2025.
+§ 1º Exceto se houver disposição expressa em contrário ao previsto neste Título, o prazo para a interposição de recurso e das respectivas contrarrazões, quando cabíveis, será de <mark>20 (vinte) dias</mark>, contado da intimação do ato recorrido ou da intimação do ato de interposição do recurso, respectivamente.
+§ 2º O prazo previsto no § 1º deste artigo será contado <mark>em dobro</mark> quando a parte vencida for a administração tributária dos Estados, do Distrito Federal ou dos Municípios.
+Art. 76 A tramitação e o julgamento do processo administrativo tributário poderão ser diferenciados mediante adoção de <mark>rito sumário</mark>, nos termos definidos em ato do CGIBS, em razão:
+I - do crédito tributário inferior ao valor de alçada, fixado em caráter uniforme em âmbito nacional, desde que não ultrapasse o valor de 1.000 (mil) UPFs; ou
+II - da menor complexidade da matéria, <mark>tais como</mark>:
+a) indeferimento de pedido de restituição e ressarcimento;
+b) <mark>exclusão de programas especiais de parcelamento</mark>;
+c) indeferimento de opção ou exclusão de ofício do regime do Simples Nacional [...].
+Parágrafo único. Nas hipóteses de que trata este artigo, a decisão de primeira instância de julgamento será considerada <mark>definitiva</mark>, ressalvado o direito de interposição de pedido de retificação e dos recursos de que tratam o art. 323-G da Lei Complementar nº 214 [...] e, no caso do inciso I do caput deste artigo, o art. 79 desta Lei Complementar.
+Art. 77 O órgão julgador de primeira instância administrativa recorrerá de ofício à segunda instância sempre que a decisão for, no todo ou em parte, contrária à Fazenda Pública.
+§ 3º Não caberá recurso de ofício: [...] VI - no processo administrativo sujeito ao rito sumário, nos termos do art. 76 desta Lei Complementar.
+§ 6º <mark>Ato do CGIBS</mark> poderá estabelecer outras hipóteses de não cabimento do recurso de ofício, em razão da controvérsia da matéria ou da natureza da infração.
+Art. 79. Caberá recurso de uniformização, dirigido à <mark>Câmara Superior do IBS</mark>, no prazo de <mark>10 (dez) dias</mark>, contra decisão de segunda instância ou proferida no rito sumário de que trata o inciso I do caput do art. 76 desta Lei Complementar, que conferir à <mark>legislação específica do IBS</mark> interpretação do direito divergente da que lhe haja atribuído outra decisão de segunda instância ou da própria Câmara Superior, com vistas a uniformizar a jurisprudência administrativa do IBS em âmbito nacional.
+§ 6º Não é cabível a interposição de recurso de uniformização em relação à legislação comum do IBS e da CBS, hipótese em que será observado o disposto no art. 323-G da Lei Complementar nº 214, de 16 de janeiro de 2025.
+LC nº 214/2025, art. 323-G. Cabe <mark>recurso especial</mark>, no prazo de <mark>10 (dez) dias úteis</mark>, contra decisão do CGIBS proferida por Câmara Recursal de Julgamento ou por Câmara de Julgamento de primeira instância no rito sumário, ou contra decisão de Câmara, turma de Câmara, turma extraordinária ou turma especial do Conselho Administrativo de Recursos Fiscais (Carf), que conferir à <mark>legislação comum do IBS e da CBS</mark> interpretação do direito divergente [...]. § 1º O recurso de que trata o caput será apreciado pela <mark>Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS</mark>.
+Art. 80 Da decisão de qualquer instância administrativa, caberá pedido de retificação para a própria Câmara que a proferiu [...], no prazo de <mark>5 (cinco) dias</mark>, contado da intimação da decisão, exclusivamente para corrigir erro de fato, eliminar contradição ou obscuridade ou suprir omissão [...].
+
+⚠️ Pegadinhas de banca: (1) <mark>uniformização x especial</mark>: o da legislação <mark>específica do IBS</mark> (Câmara Superior, 10 dias) é a uniformização; o da legislação <mark>comum IBS + CBS</mark> (Câmara Nacional, 10 dias úteis) é o especial; (2) o rol de não cabimento do recurso de ofício se amplia por <mark>ato do CGIBS</mark>, não só por lei complementar; (3) o rito sumário não comporta recurso de ofício.
+
+**Julgadores: requisitos, mandato e perda (arts. 89, 90 e 100 a 101)**
+
+Art. 89 § 2º São requisitos para o exercício da função de julgador no processo administrativo tributário:
+I - no caso dos servidores das administrações tributárias, que: a) sejam integrantes das <mark>carreiras dotadas de competência para a realização do lançamento tributário ou de julgamento tributário</mark>; b) possuam <mark>graduação em curso de nível superior</mark>; c) <mark>preferencialmente</mark>, detenham experiência em julgamento de processos administrativos tributários em seus entes federativos de origem;
+II - no caso dos representantes dos contribuintes, que: a) possuam graduação em curso de nível superior <mark>há, pelo menos, 3 (três) anos</mark>; b) detenham experiência <mark>tributária e contábil</mark> há, pelo menos, 3 (três) anos após a graduação em curso de nível superior.
+§ 3º É assegurada a paridade de representação entre o conjunto dos Estados e do Distrito Federal e o conjunto dos Municípios e do Distrito Federal em todas as instâncias [...].
+§ 4º Pelo menos 30% (trinta por cento) das vagas de que trata o § 3º deste artigo serão ocupadas por mulheres.
+Art. 90 O mandato dos julgadores será de 2 (dois) anos, permitida a recondução.
+Art. 100 Caracteriza renúncia tácita ao mandato a conduta do membro julgador que: [...] III - deixar de comparecer a 3 (três) sessões de julgamento consecutivas ou a 5 (cinco) sessões alternadas no quadrimestre.
+Art. 101 Perderá o mandato o membro julgador que: I - empregar meios ilícitos para procrastinar o exame e o julgamento de processos, ou praticar, no exercício da função, quaisquer atos de favorecimento; ou II - incorrer em falta grave, prevista em ato do CGIBS.
+§ 1º Para os fins deste artigo, observado o devido processo administrativo em que sejam assegurados a ampla defesa e o contraditório, caberá: I - ao <mark>Presidente da Câmara Superior</mark> submeter a proposta de perda de mandato do membro julgador ao Presidente do CGIBS; II - ao <mark>Presidente do CGIBS</mark> decidir sobre a proposta de perda de mandato do membro julgador.
+§ 2º <mark>Não caberá recurso</mark> da decisão a que se refere o inciso II do § 1º deste artigo.
+
+**Representação da Fazenda Pública (art. 97)**
+
+Art. 97 A representação e a defesa jurídica da Fazenda Pública perante as Câmaras de Julgamento serão exercidas por <mark>procuradores dos Estados, do Distrito Federal e dos Municípios ou por autoridade fiscal integrante das administrações tributárias</mark>, nos termos de lei do respectivo ente federativo.
+
+⚠️ Pegadinha de banca: a palavra <mark>"exclusivamente"</mark> (só procuradores) torna o item errado.
+
+
+> [!tip]- Macetes do PAT do IBS (LC 227/26)
+> **Prazos.** Regra: **20 dias** (impugnação, recurso voluntário, contrarrazões, manifestação após diligência), sempre em **dias úteis** (art. 62). Exceções curtas: **10 dias** (uniformização e contrarrazões, especial em 10 dias úteis, prazo residual sem previsão, intimação presumida no DTE, antecedência da pauta) e **5 dias** (retificação, sanar representação). Fazenda vencida: prazo do recurso **em dobro**.
+>
+> **Recursos.** **U**niformização = **U**m tributo só (legislação específica do IBS), Câmara Superior, 10 dias. **E**special = **E**m conjunto (IBS e CBS), Câmara Nacional, 10 dias úteis (art. 323-G, LC 214). Voluntário: 2ª instância. Ofício: 1ª instância, contra decisão desfavorável à Fazenda, interposto ex lege.
+>
+> **Órgãos.** Escada de composição: 1ª instância **2+2** (só servidores), 2ª instância **2+2+4** (com contribuintes), Câmara Superior **4+4+8** (dobra). Presidente só vota em empate; presidência alternada a cada exercício. No DF, 4 servidores no lugar dos 2 do Estado.
+>
+> **Provimentos vinculantes (art. 74), 3-1-2.** 3 do STF (súmula vinculante, concentrado, difuso **com** resolução do Senado), 1 de repetitivos (STF/STJ), 2 do sistema (súmula do CGIBS e Câmara Nacional).
+>
+> **Rito sumário, R-P-S.** **R**estituição/ressarcimento, **P**arcelamento (exclusão de programas especiais), **S**imples (indeferimento de opção ou exclusão de ofício). Decisão de 1ª instância definitiva e sem recurso de ofício.
+>
+> **Julgador.** Servidor **C-S-P**: **C**arreira de lançamento ou julgamento, **S**uperior, experiência **P**referencial. Contribuinte **3+3**: 3 anos de formado e 3 de experiência tributária e contábil. Mandato de 2 anos, paridade Estados+DF x Municípios+DF, mínimo de 30% de mulheres.
+>
+> **Perda x renúncia tácita.** Perda (art. 101): Presidente da Câmara Superior propõe, Presidente do CGIBS decide, **sem recurso**. Renúncia tácita (art. 100): 3 faltas consecutivas ou 5 alternadas no quadrimestre, salvo justificativa prévia.
+>
+> **Gatilhos de pegadinha.** "exclusivamente" (art. 97), "somente lei complementar" (art. 77 §6º é ato do CGIBS), "dias corridos" (são úteis), "bastando o trânsito em julgado" (falta o Senado), "cabe recurso" da intempestividade ou da perda de mandato (não cabe).
+
 > [!warning]- Pendência: texto da LC 227/26
-> A captura não traz os artigos do processo administrativo. Não completei o que é certo em A a D (qual sistema, quem intervém, contagem dos prazos, quando se considera intimado). Trazer o texto da lei (ex.: `/absorver-pdf` no PDF da LC 227) e escrever daí.
+> Trazidos em 21/09 os arts. 57 a 63, 67 a 71, 74 a 80, 89, 90, 97, 100 e 101 (onde errei no caderno). Faltam os demais arts. 55 a 102: princípios (art. 55, só resumidos acima), nulidades e impedimentos (arts. 65 e 66), desistência e revelia (arts. 72 e 73), incidente de uniformização (arts. 81 a 87), composição e competência das Câmaras (arts. 88 e 91 a 96). Trazer o texto da lei (ex.: `/absorver-pdf` no PDF da LC 227) e escrever daí.
 
 > [!info]- Ponte
 > - [[P2 - Reforma Tributária#Contencioso administrativo: Comitê de Harmonização e delegação do julgamento]] — contencioso administrativo do IBS e da CBS na LC 214 (arts. 326 e ss.).
