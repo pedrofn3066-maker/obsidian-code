@@ -4,7 +4,7 @@ tipo: tec-arvore
 
 # TEC: árvore de assuntos das matérias do cofre
 
-Árvore pública de assuntos do TecConcursos (`tecconcursos.com.br/materias/<matéria>`), extraída em 2026-09-21, com o total de questões de cada assunto entre parênteses (o pai soma os filhos). Serve para escolher o assunto certo ao montar caderno no TEC. O casamento entre matéria do TEC e nota do cofre é sugestão, ajuste se precisar.
+Árvore pública de assuntos do TecConcursos (`tecconcursos.com.br/materias/<matéria>`), extraída em 2026-09-21, com o total de questões de cada assunto entre parênteses (o pai soma os filhos). Serve para escolher o assunto certo ao montar caderno no TEC. O casamento entre matéria do TEC e nota do cofre é sugestão, ajuste se precisar. Regerar: `python3 PY/tec-arvore.py --gravar`.
 
 Como usar: no TEC, em Filtros → Assunto, marque o nó exato da árvore abaixo. Assunto com poucas questões rende caderno curto; o pai é o guarda-chuva.
 
