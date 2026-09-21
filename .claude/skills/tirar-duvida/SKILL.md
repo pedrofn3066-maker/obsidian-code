@@ -5,7 +5,7 @@ description: Tira dúvidas sobre matérias e tópicos de estudo (Direito Tribut�
 
 # Tirar dúvida (cofre primeiro, internet depois)
 
-Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre por conta própria** — só lê. As únicas escritas permitidas são em `Questoes/Duvidas.md`: guardar a dúvida quando o Pedro pedir (ver "Guardar a dúvida") e triar a entrada já respondida para `## Respondidas` (ver "Arrumar o layout e mover para Respondidas").
+Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre por conta própria** — só lê. As únicas escritas permitidas são: guardar a dúvida em `Questoes/Duvidas.md` quando o Pedro pedir (ver "Guardar a dúvida") e mover a entrada já respondida para o caderno de erros da matéria (ver "Arrumar o layout e mover para o caderno da matéria").
 
 ## Passo 1 — buscar no cofre
 
@@ -55,7 +55,7 @@ Direta e de estudo, em português, do jeito que cai na prova (banca FCC/fiscal):
 
 Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta própria. Acrescente ao final da seção certa de `Questoes/Duvidas.md` (sem reescrever o resto), uma linha por dúvida:
 
-- **Respondida** → fim de `## Respondidas`.
+- **Respondida** → vai direto para `## 💭 Dúvidas respondidas` do caderno da matéria (`Erradas/ERRO <MATÉRIA>.md`), em callout (ver abaixo), não para `Duvidas.md`.
 - **Sem fonte confirmada** → fim de `## Dúvida`, a caixa de entrada: heading que o atalho do Pedro usa como alvo, não renomeie.
 
 
@@ -65,13 +65,13 @@ Só quando o Pedro pedir ("guarda essa dúvida", "anota isso"). Nunca por conta 
 
 Não use `Capturas.md`: o `/triar-inbox` distribui tudo que está lá. Dúvida sem resposta confirmada também pode ser guardada, marcada com `(sem fonte confirmada)`.
 
-## Arrumar o layout e mover para Respondidas
+## Arrumar o layout e mover para o caderno da matéria
 
-`## Dúvida` é a caixa de entrada do atalho: só deve ter o que ainda não foi respondido. Quando a dúvida respondida é uma entrada que já está lá (o atalho manda texto cru: enunciado colado, alternativas quebradas, nota do Pedro no fim), **depois de responder no chat, reformate a entrada e mova-a para `## Respondidas`**, no fim dessa seção. Só a entrada respondida, sem tocar nas outras nem em nada acima de `## Dúvida`.
+`## Dúvida` é a caixa de entrada do atalho: só deve ter o que ainda não foi respondido. Quando a dúvida respondida é uma entrada que já está lá (o atalho manda texto cru: enunciado colado, alternativas quebradas, nota do Pedro no fim), **depois de responder no chat, reformate a entrada e mova-a para o heading `## 💭 Dúvidas respondidas` do caderno de erros da matéria**, no fim desse heading. Só a entrada respondida, sem tocar nas outras.
 
-`## Respondidas` fica depois de `## Dúvida`, no fim da nota. Se o heading não existir, crie-o (`## Respondidas`, linha em branco, entrada). Assim `## Dúvida` fica livre para o atalho continuar acrescentando sem se misturar com o que já foi triado.
+Caderno da matéria: `Erradas/ERRO <MATÉRIA>.md` (ex.: `ERRO DIREITO TRIBUTÁRIO.md`, `ERRO REFORMA TRIBUTÁRIA.md`; LGPD vai em `ERRO DIREITO ADMINISTRATIVO.md`). `## 💭 Dúvidas respondidas` fica no fim da nota (depois de `# OUTRAS BANCAS`). Se o heading não existir, crie-o no fim (`---`, linha em branco, heading, linha em branco, callout). Se não houver caderno para a matéria, pergunte ao Pedro antes de criar. Assim `## Dúvida` em `Questoes/Duvidas.md` fica livre para o atalho continuar acrescentando.
 
-Layout (callout recolhível, um por dúvida; **sem sub-headings** — o atalho usa `mode=append` sob `## Dúvida` e um `###` pode desviar onde o texto novo entra):
+Layout (callout recolhível, um por dúvida; **sem sub-headings** — o heading `## 💭 Dúvidas respondidas` é o único da seção):
 
 ```
 > [!question]- 20/09 15:52 · Direito Tributário · IBAM (ISS Guarulhos) — Responsabilidade tributária
@@ -94,8 +94,8 @@ Regras do reformat:
 - **Título:** `dd/mm hh:mm · matéria · banca (prova) — tema em poucas palavras`. Data/hora vêm da linha original do atalho; banca/prova, do que o Pedro escreveu.
 - **Preserve o conteúdo do Pedro:** corrija só OCR/quebra de linha óbvia. Não reescreva enunciado nem apague a anotação dele ("errei porque…", "fiquei na dúvida…"); ela vira a linha **Marquei/Gabarito** ou uma linha **Obs.:**.
 - Dúvida sem enunciado (pergunta solta): callout só com a pergunta e a resposta.
-- Mover = tirar o bloco de `## Dúvida` (do `> [!question]-` até a última linha `>` do callout, mais a linha em branco que o separava) e inserir em `## Respondidas`. Nunca deixe a entrada duplicada nas duas seções.
-- Edite por índice de linha em Python (o vault tem NBSP; não confie em `old_string` exato) e confira depois: `grep -c '\[!question\]' Questoes/Duvidas.md` deve ficar igual ao de antes, e a entrada movida deve aparecer só abaixo de `## Respondidas`.
+- Mover = tirar o bloco de `## Dúvida` (do `> [!question]-` até a última linha `>` do callout, mais a linha em branco que o separava) e inserir no fim de `## 💭 Dúvidas respondidas` do caderno. Nunca deixe a entrada duplicada.
+- Edite por índice de linha em Python (o vault tem NBSP; não confie em `old_string` exato) e confira depois: `grep -c '\[!question\]' Questoes/Duvidas.md` cai em 1 por dúvida movida e o do caderno sobe em 1.
 - Nunca mova nem reformate entrada que ainda não foi respondida, e nunca apague dúvida.
 
 ## Regras
