@@ -8,7 +8,9 @@ slot do dia, por subtópico da matéria que a Grade Semanal marca para o slot.
     python3 PY/plano-dia.py --texto             # saída no terminal
     python3 PY/plano-dia.py --diag Penal        # audita casamentos e métricas de uma matéria
 
-Cada item traz também ONDE achar (link do TEC do assunto, material de apoio, caderno do
+Cada item traz também o ASSUNTO no TEC (código, nome, nº de questões e link, lidos de
+Questoes/TEC - Árvore de assuntos.md, gerada por PY/tec-arvore.py) e ONDE achar (link do
+TEC do assunto, material de apoio, caderno do
 erro), COMO estudar (método que depende da ação e do tipo de erro) e um TEMPO sugerido; o
 slot fecha com 5 min de registro. A página HTML tem checklist do dia (salvo no navegador).
 
@@ -16,6 +18,7 @@ Critérios, limitações e como ler: Questoes/Paineis/Plano do dia.md
 """
 import argparse
 import json
+import math
 import re
 import subprocess
 import tempfile
@@ -106,6 +109,9 @@ MATERIAL_POR_NOTA = {
     "P1 - Direito Administrativo": ["JURISPRUDENCIAS"],
     "P1 - Direito Constitucional": ["JURISPRUDENCIAS"],
 }
+
+ARVORE_TEC = VAULT / "Questoes" / "TEC - Árvore de assuntos.md"  # gerada por PY/tec-arvore.py
+SCORE_NO_TEC = 0.45       # Dice ponderado mínimo entre o tópico e o nome do assunto no TEC
 
 MIN_CONTEUDO = 3          # linhas de conteúdo real sob o heading para contar como "lido"
 JANELA_ERRO = 30          # dias em que um erro de caderno ainda puxa revisão
@@ -781,6 +787,97 @@ def material_de(stem):
     return achados
 
 
+RE_SEC_TEC = re.compile(r"^## (.+?)\s*$")
+RE_NOTAS_TEC = re.compile(r"Notas do cofre:\s*(.+?)\.\s*Página:\s*(\S+)")
+RE_NO_TEC = re.compile(r"^(\s*)- (?:(\d+(?:\.\d+)*) )?(?:\[(.+?)\]\((\S+?)\)|(.+?)) \((\d+|\?)\)\s*$")
+_arvore = None
+
+
+def arvore_tec():
+    """{stem da nota: [{materia, url, nos, idf}]} lido de Questoes/TEC - Árvore de assuntos.md
+    (gerada por PY/tec-arvore.py). Cada nó: hier, nome, url, n (questões), caminho (pais)."""
+    global _arvore
+    if _arvore is not None:
+        return _arvore
+    _arvore, grupo, pilha = {}, None, []
+    if ARVORE_TEC.exists():
+        for l in ARVORE_TEC.read_text(encoding="utf-8").split("\n"):
+            m = RE_SEC_TEC.match(l)
+            if m:
+                grupo = {"materia": m.group(1), "url": None, "nos": []}
+                pilha = []
+                continue
+            if grupo is None:
+                continue
+            m = RE_NOTAS_TEC.search(l)
+            if m:
+                grupo["url"] = m.group(2)
+                for stem in re.findall(r"\[\[(.+?)\]\]", m.group(1)):
+                    _arvore.setdefault(stem, []).append(grupo)
+                continue
+            m = RE_NO_TEC.match(l)
+            if not m:
+                continue
+            nivel = len(m.group(1)) // 2
+            nome = m.group(3) or m.group(5)
+            pilha = pilha[:nivel] + [nome]
+            grupo["nos"].append({"hier": m.group(2) or "", "nome": nome, "url": m.group(4),
+                                 "n": int(m.group(6)) if m.group(6).isdigit() else None,
+                                 "caminho": list(pilha[:-1])})
+        for grupos in {id(g): g for gs in _arvore.values() for g in gs}.values():
+            cont = {}
+            for no in grupos["nos"]:
+                for w in tokens(no["nome"], False) | tokens(no["nome"], True):
+                    cont[w] = cont.get(w, 0) + 1
+            total = max(len(grupos["nos"]), 1)
+            grupos["idf"] = {w: math.log(1 + total / c) for w, c in cont.items()}
+    return _arvore
+
+
+def _pontos_no(a, c, peso):
+    """Dice ponderado por raridade só nas palavras; números só ajustam (mesmo número sobe um
+    pouco, número diferente — CPC 02 x CPC 18 — derruba)."""
+    an, cn = {w for w in a if not w.isdigit()}, {w for w in c if not w.isdigit()}
+    inter = an & cn
+    if not inter:
+        return 0.0
+    pt = 2 * peso(inter) / (peso(an) + peso(cn))
+    ad, cd = a - an, c - cn
+    if ad and cd:
+        pt *= 1.1 if ad & cd else 0.6
+    return min(pt, 1.0)
+
+
+def no_tec(u):
+    """Assunto do TEC que melhor casa com o tópico, ou None se nada passa de SCORE_NO_TEC.
+    Casa pelo tópico da grade e pelo heading, com e sem o trecho entre parênteses."""
+    alvos = [t for t in (u.topico, u.heading_txt()) if t]
+    melhor, achado = 0.0, None
+    for g in arvore_tec().get(u.nota.stem, []):
+        idf = g["idf"]
+        peso = lambda ts: sum(idf.get(t, 1.0) for t in ts)
+        for alvo in alvos:
+            for par_a in (False, True):
+                a = tokens(alvo, par_a)
+                if not a:
+                    continue
+                for no in g["nos"]:
+                    for par_c in (False, True):
+                        pt = _pontos_no(a, tokens(no["nome"], par_c), peso)
+                        if pt > melhor:
+                            melhor, achado = pt, (g, no)
+    if melhor < SCORE_NO_TEC:
+        return None
+    g, no = achado
+    return {"materia": g["materia"], "hier": no["hier"], "nome": no["nome"], "url": no["url"],
+            "n": no["n"], "caminho": no["caminho"]}
+
+
+def rotulo_no_tec(no):
+    q = f" · {no['n']:,} questões".replace(",", ".") if no["n"] is not None else ""
+    return f"{no['materia']} › {(no['hier'] + ' ') if no['hier'] else ''}{no['nome']}{q}"
+
+
 def dicas(acao, u, razoes, hoje):
     """{'onde': [(rótulo, href|None)], 'como': str} — o que o item não diz sozinho."""
     onde = []
@@ -790,9 +887,13 @@ def dicas(acao, u, razoes, hoje):
 
     if not u.heading:
         onde.append((f"Criar heading em {u.nota.stem}", uri(u.nota)))
+    no = no_tec(u)
+    if no:
+        qtd = f" ({no['n']:,})".replace(",", ".") if no["n"] is not None else ""
+        onde.append((f"TEC · {no['hier'] + ' ' if no['hier'] else ''}{no['nome']}{qtd}", no["url"]))
     if u.tec_link:
         onde.append(("TEC · assunto", u.tec_link))
-    elif acao != "revisar":
+    elif acao != "revisar" and not no:
         onde.append((f"TEC: filtre por “{u.topico}”", None))
     if acao != "revisar" or not c:
         onde += material_de(u.nota_exibida().stem)
@@ -820,7 +921,7 @@ def dicas(acao, u, razoes, hoje):
     else:
         como = ("Recuperação ativa: escreva de memória o que lembra do heading (3 min) e só então "
                 "abra. O que faltar volta para a próxima revisão.")
-    return {"onde": onde, "como": como}
+    return {"onde": onde, "como": como, "tec": no}
 
 
 def alocar(minutos, secoes):
@@ -1093,7 +1194,11 @@ def render_texto(p):
                 out.append(f"       {meta_item(u)}")
                 out.append(f"       {' · '.join(razoes)}")
                 out.append(f"       ⏱ {faixa(extra)}")
-                out.append(f"       onde: {' · '.join(r for r, _ in extra['onde']) or '—'}")
+                if extra.get("tec"):
+                    out.append(f"       TEC: {rotulo_no_tec(extra['tec'])}")
+                onde_txt = ' · '.join(r for r, _ in extra['onde'] if not r.startswith('TEC · ') or r == 'TEC · assunto')
+                if onde_txt:
+                    out.append(f"       onde: {onde_txt}")
                 out.append(f"       como: {extra['como']}")
         if s["secoes"]:
             out += ["", f"  {REGISTRO}"]

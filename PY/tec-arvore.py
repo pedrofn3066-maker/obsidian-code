@@ -11,6 +11,10 @@ montar caderno.
     python3 PY/tec-arvore.py --gravar       grava em "Questoes/TEC - Árvore de assuntos.md"
     python3 PY/tec-arvore.py --so direito-tributario   só essa matéria (stdout)
 
+O PY/plano-dia.py lê a nota gravada para mostrar, em cada item, o assunto exato
+do TEC (código, nome, total de questões e link). Mantenha o formato dos bullets:
+`- <hierarquia> [<nome>](<url>) (<questões>)`.
+
 Usa `curl` (o urllib do Python falha na verificação de certificado atrás do
 proxy do sandbox). No sandbox do Claude, o host www.tecconcursos.com.br
 precisa estar liberado. A tabela MAPA abaixo é o casamento sugerido entre
@@ -47,6 +51,8 @@ MAPA = [  # (slug no TEC, notas do cofre)
     ("ti-banco-de-dados", ["P2 - Fluência de Dados BD"]),
     ("ti-ciencia-de-dados-e-inteligencia-artificial", ["P2 - Fluência de Dados CD"]),
     ("ti-gestao-e-governanca-de-ti", ["P2 - Tecnologia da Informação"]),
+    ("ti-engenharia-de-software", ["P2 - Tecnologia da Informação"]),
+    ("ti-seguranca-da-informacao", ["P2 - Tecnologia da Informação"]),
     ("informatica", ["P2 - Tecnologia da Informação"]),
 ]
 
@@ -74,7 +80,8 @@ def conta(nos):
 def desce(nos, nivel, saida):
     for n in nos:
         hier = (n.get("hierarquia") or "") + " " if n.get("hierarquia") else ""
-        saida.append("  " * nivel + f"- {hier}{n['nome']} ({n.get('totalQuestoes', '?')})")
+        nome = f"[{n['nome']}]({URL.format(n['url'])})" if n.get("url") else n["nome"]
+        saida.append("  " * nivel + f"- {hier}{nome} ({n.get('totalQuestoes', '?')})")
         desce(n.get("filhos") or [], nivel + 1, saida)
 
 
@@ -116,7 +123,7 @@ tipo: tec-arvore
 
 # TEC: árvore de assuntos das matérias do cofre
 
-Árvore pública de assuntos do TecConcursos (`tecconcursos.com.br/materias/<matéria>`), extraída em {date.today().isoformat()}, com o total de questões de cada assunto entre parênteses (o pai soma os filhos). Serve para escolher o assunto certo ao montar caderno no TEC. O casamento entre matéria do TEC e nota do cofre é sugestão, ajuste se precisar. Regerar: `python3 PY/tec-arvore.py --gravar`.
+Árvore pública de assuntos do TecConcursos (`tecconcursos.com.br/materias/<matéria>`; cada assunto é link para a página dele), extraída em {date.today().isoformat()}, com o total de questões de cada assunto entre parênteses (o pai soma os filhos). Serve para escolher o assunto certo ao montar caderno no TEC. O casamento entre matéria do TEC e nota do cofre é sugestão, ajuste se precisar. Regerar: `python3 PY/tec-arvore.py --gravar`.
 
 Como usar: no TEC, em Filtros → Assunto, marque o nó exato da árvore abaixo. Assunto com poucas questões rende caderno curto; o pai é o guarda-chuva.
 
