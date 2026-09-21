@@ -152,6 +152,6 @@ Formato: `- <data>, <hora> — [matéria] pergunta → resposta curta (fonte: co
 > >
 > > **Por que gerou dúvida:** o **parcelamento** também suspende a exigibilidade (art. 151, VI), mas o pedido de parcelamento costuma ser tratado pela jurisprudência do STJ como ato inequívoco de reconhecimento do débito (art. 174, IV), o que **interrompe** a prescrição. Por isso a "C" pode parecer certa; a banca ficou com a hipótese expressa, a "B".
 > >
-> > **Atenção ao texto:** o cofre traz o inciso II como "protesto judicial **ou extrajudicial**" (`MATERIAS/P2 - Direito Tributário.md:1147`), mas a redação dada pela LC 118/2005 é só "pelo protesto judicial"; o cofre já marca essa dúvida em `:1133`.
+> > **Atenção ao texto:** o cofre trazia o inciso II como "protesto judicial **ou extrajudicial**", mas a redação dada pela LC 118/2005 é só "pelo protesto judicial". Corrigido em `MATERIAS/P2 - Direito Tributário.md:1148` (nota em `:1132`).
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1144-1149`, `:929` · (sem fonte confirmada) a parte do STJ e a redação vigente do inciso II, por falta de acesso ao Planalto.
