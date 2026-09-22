@@ -1506,7 +1506,7 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 # Bloco D:   
 ## Simples Nacional;
 ### Das Disposições Preliminares (arts. 1º e 2º da LC nº 123/2006)
-- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-17
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-22
 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12729).
 
@@ -1697,6 +1697,50 @@ Efeitos do excesso de receita bruta (todas as linhas usam a régua de **20%** so
 > [!info]- Ponte
 > - [[P2 - Legislação Tributária Estadual (BA)#Simples Nacional na ótica estadual (LC 123/2006)]]: o mesmo tema pelo ângulo estadual (a nota registra a ADI 6.030 sobre ST e DIFAL para optantes); os sublimites de ICMS/ISS e a mesma régua de 20% estão em [[P2 - Direito Tributário#Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)]], no item "Sublimites".
 
+### Das Vedações da LC 123: quem fica fora do tratamento diferenciado (art. 3º, §§4º a 6º da LC nº 123/2006)
+- [ ] status [dom:: 0] [peso:: 3]
+
+- O rol do §4º vale <mark>para nenhum efeito legal</mark>: a PJ enquadrada em qualquer inciso fica fora do tratamento jurídico diferenciado da LC, **inclusive do Simples Nacional** (regime do art. 12). Não sobra "benefício não tributário" para quem está no rol.
+- **Forma jurídica** (o que mais cai): <mark>VI, cooperativa, salvo as de consumo</mark>; <mark>X, sociedade por ações</mark>. Cooperativa de consumo é a **única** exceção que pode entrar, e a banca inverte isso.
+- **Vínculos societários e exterior:** I (capital com outra PJ); II (filial, sucursal, agência ou representação no País de PJ com sede no exterior); VII (participa do capital de outra PJ); XII (tem filial, sucursal, agência ou representação **no exterior**, redação de 2025).
+- **Só vedam se a receita bruta global ultrapassar o limite do inciso II do art. 3º** (R$ 4,8 mi): III, IV (sócio com mais de 10% do capital de empresa fora da LC) e V (sócio ou titular, de fato ou de direito, administrador de outra PJ com fins lucrativos, redação de 2025).
+- **Atividade:** VIII (bancos, seguros, capitalização e afins) e XI (sócios com relação de pessoalidade, subordinação e habitualidade com o contratante do serviço).
+- **Situação:** IX (resultante ou remanescente de cisão ou desmembramento em um dos <mark>5 anos-calendário</mark> anteriores).
+- **Exceções do §5º:** os incisos IV e VII **não** se aplicam à participação no capital de cooperativas de crédito, centrais de compras, bolsas de subcontratação, consórcio do art. 50, **SPE do art. 56**, associações assemelhadas, sociedades de interesse econômico e de garantia solidária.
+- **Efeitos do §6º:** quem incorre em algum inciso é excluída com efeitos <mark>a partir do mês seguinte</mark> ao da situação impeditiva.
+
+> [!quote]- Texto literal: Art. 3º, §§4º a 6º (LC 123/2006, redação vigente)
+> § 4º Não poderá se beneficiar do tratamento jurídico diferenciado previsto nesta Lei Complementar, incluído o regime de que trata o art. 12 desta Lei Complementar, para nenhum efeito legal, a pessoa jurídica:
+> I - de cujo capital participe outra pessoa jurídica;
+> II - que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede no exterior;
+> III - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de outra empresa que receba tratamento jurídico diferenciado nos termos desta Lei Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput deste artigo;
+> IV - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra empresa não beneficiada por esta Lei Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput deste artigo;
+> V - cujo sócio ou titular de fato ou de direito seja administrador ou equiparado de outra pessoa jurídica com fins lucrativos, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput; (Redação dada pela Lei Complementar nº 214, de 2025)
+> VI - <mark>constituída sob a forma de cooperativas, salvo as de consumo</mark>;
+> VII - que participe do capital de outra pessoa jurídica;
+> VIII - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de caixa econômica, de sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de corretora ou de distribuidora de títulos, valores mobiliários e câmbio, de empresa de arrendamento mercantil, de seguros privados e de capitalização ou de previdência complementar;
+> IX - resultante ou remanescente de cisão ou qualquer outra forma de desmembramento de pessoa jurídica que tenha ocorrido em um dos 5 (cinco) anos-calendário anteriores;
+> X - <mark>constituída sob a forma de sociedade por ações</mark>.
+> XI - cujos titulares ou sócios guardem, cumulativamente, com o contratante do serviço, relação de pessoalidade, subordinação e habitualidade. (Incluído pela Lei Complementar nº 147, de 2014)
+> XII - que tenha filial, sucursal, agência ou representação no exterior. (Incluído pela Lei Complementar nº 214, de 2025)
+>
+> § 5º O disposto nos incisos IV e VII do § 4º deste artigo não se aplica à participação no capital de cooperativas de crédito, bem como em centrais de compras, bolsas de subcontratação, no consórcio referido no art. 50 desta Lei Complementar e na sociedade de propósito específico prevista no art. 56 desta Lei Complementar, e em associações assemelhadas, sociedades de interesse econômico, sociedades de garantia solidária e outros tipos de sociedade, que tenham como objetivo social a defesa exclusiva dos interesses econômicos das microempresas e empresas de pequeno porte.
+>
+> § 6º Na hipótese de a microempresa ou empresa de pequeno porte incorrer em alguma das situações previstas nos incisos do § 4º, será excluída do tratamento jurídico diferenciado previsto nesta Lei Complementar, bem como do regime de que trata o art. 12, com efeitos a partir do mês seguinte ao que incorrida a situação impeditiva.
+
+> [!tip]- Lupa: cooperativa e S/A, o erro de inverter a regra
+> **A ideia em uma frase:** o §4º diz quem **não** pode; cooperativa está no rol, e o "salvo as de consumo" é a única que escapa.
+>
+> **Passo a passo:**
+> 1. Leia o inciso como proibição: cooperativa fica **fora**; só a de **consumo** está liberada.
+> 2. Sociedade por ações (X) fica fora **pela forma**, mesmo que o serviço não seja vedado (transporte municipal, por exemplo).
+> 3. Se a alternativa disser "poderia ser ME" ou "poderá ser optante" para essas formas, está errada.
+>
+> **O erro clássico:** ler "cooperativa, salvo de consumo" como "pode, exceto de consumo". Foi assim que a alternativa E da questão VUNESP (Pref SP 2023, regras gerais) enganou. Nas questões CEBRASPE (SEFAZ RS 2019) e VUNESP (Pref GRU 2019), a banca também mirou nesses dois incisos.
+
+> [!info]- Ponte
+> - A **Res. CGSN 140, art. 15** repete o rol com outra numeração (VII cooperativa, XI sociedade por ações); veja a tabela do capítulo "Dos Tributos e Contribuições" acima. Em prova, o inciso pode vir de qualquer das duas normas.
+
 ### Da Inscrição e da Baixa (arts. 4º a 11 da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -1750,7 +1794,9 @@ Mudança na relação de códigos *(art. 8º, §4º, p. 13)*:
 > VI - caso a opção seja indeferida por pendências impeditivas do ingresso no Simples Nacional, o contribuinte poderá regularizá-las no prazo de até 30 (trinta) dias contados a partir da data de inscrição no CNPJ. (2025)
 
 ### Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
+
+*Isenção do IR sobre lucros distribuídos (art. 14), MEI (arts. 18-A a 18-F), Presunção de Omissão de Receita (art. 34) e Processo Administrativo/Judicial (arts. 39 a 41) têm headings próprios logo abaixo — fora da ordem de artigo dentro deste bloco, que segue os temas da Res. CGSN 140, não a numeração da LC 123.*
 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12732?indice=1&materia=1978)
 
@@ -2410,62 +2456,46 @@ Recolhimento e DAS *(arts. 40 a 45, p. 51–55)*:
 >
 > Parágrafo único. Aplica-se o disposto no caput na hipótese de a ME ou a EPP auferir receitas sujeitas ao Anexo IV desta Resolução, de forma isolada ou concomitantemente com receitas sujeitas aos Anexos I, II, III ou V desta Resolução.
 
-### Das Vedações da LC 123: quem fica fora do tratamento diferenciado (art. 3º, §§4º a 6º da LC nº 123/2006)
+### Da Isenção do Imposto de Renda sobre Lucros Distribuídos (art. 14 da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
 
-- O rol do §4º vale <mark>para nenhum efeito legal</mark>: a PJ enquadrada em qualquer inciso fica fora do tratamento jurídico diferenciado da LC, **inclusive do Simples Nacional** (regime do art. 12). Não sobra "benefício não tributário" para quem está no rol.
-- **Forma jurídica** (o que mais cai): <mark>VI, cooperativa, salvo as de consumo</mark>; <mark>X, sociedade por ações</mark>. Cooperativa de consumo é a **única** exceção que pode entrar, e a banca inverte isso.
-- **Vínculos societários e exterior:** I (capital com outra PJ); II (filial, sucursal, agência ou representação no País de PJ com sede no exterior); VII (participa do capital de outra PJ); XII (tem filial, sucursal, agência ou representação **no exterior**, redação de 2025).
-- **Só vedam se a receita bruta global ultrapassar o limite do inciso II do art. 3º** (R$ 4,8 mi): III, IV (sócio com mais de 10% do capital de empresa fora da LC) e V (sócio ou titular, de fato ou de direito, administrador de outra PJ com fins lucrativos, redação de 2025).
-- **Atividade:** VIII (bancos, seguros, capitalização e afins) e XI (sócios com relação de pessoalidade, subordinação e habitualidade com o contratante do serviço).
-- **Situação:** IX (resultante ou remanescente de cisão ou desmembramento em um dos <mark>5 anos-calendário</mark> anteriores).
-- **Exceções do §5º:** os incisos IV e VII **não** se aplicam à participação no capital de cooperativas de crédito, centrais de compras, bolsas de subcontratação, consórcio do art. 50, **SPE do art. 56**, associações assemelhadas, sociedades de interesse econômico e de garantia solidária.
-- **Efeitos do §6º:** quem incorre em algum inciso é excluída com efeitos <mark>a partir do mês seguinte</mark> ao da situação impeditiva.
+- **Regra geral** *(caput, p. 1)*: são <mark>isentos do imposto de renda</mark>, na fonte e na declaração de ajuste do beneficiário, os valores efetivamente pagos ou distribuídos ao titular ou sócio da ME/EPP optante pelo Simples Nacional. ⚠️ A isenção **não** alcança o que corresponder a <mark>pró-labore, aluguéis ou serviços prestados</mark>.
+- **Limite da isenção** *(§1º)*: fica limitada ao valor resultante da aplicação dos percentuais de presunção do <mark>art. 15 da Lei nº 9.249/1995</mark> sobre a receita bruta mensal (antecipação de fonte) ou a receita bruta total anual (declaração de ajuste), subtraído o valor já devido no Simples Nacional no período.
+- **Quando não se aplica** *(§2º)*: se a empresa mantém escrituração contábil e evidencia lucro superior a esse limite, o excedente **não** está isento.
 
-> [!quote]- Texto literal: Art. 3º, §§4º a 6º (LC 123/2006, redação vigente)
-> § 4º Não poderá se beneficiar do tratamento jurídico diferenciado previsto nesta Lei Complementar, incluído o regime de que trata o art. 12 desta Lei Complementar, para nenhum efeito legal, a pessoa jurídica:
-> I - de cujo capital participe outra pessoa jurídica;
-> II - que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede no exterior;
-> III - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de outra empresa que receba tratamento jurídico diferenciado nos termos desta Lei Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput deste artigo;
-> IV - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra empresa não beneficiada por esta Lei Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput deste artigo;
-> V - cujo sócio ou titular de fato ou de direito seja administrador ou equiparado de outra pessoa jurídica com fins lucrativos, desde que a receita bruta global ultrapasse o limite de que trata o inciso II do caput; (Redação dada pela Lei Complementar nº 214, de 2025)
-> VI - <mark>constituída sob a forma de cooperativas, salvo as de consumo</mark>;
-> VII - que participe do capital de outra pessoa jurídica;
-> VIII - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de caixa econômica, de sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de corretora ou de distribuidora de títulos, valores mobiliários e câmbio, de empresa de arrendamento mercantil, de seguros privados e de capitalização ou de previdência complementar;
-> IX - resultante ou remanescente de cisão ou qualquer outra forma de desmembramento de pessoa jurídica que tenha ocorrido em um dos 5 (cinco) anos-calendário anteriores;
-> X - <mark>constituída sob a forma de sociedade por ações</mark>.
-> XI - cujos titulares ou sócios guardem, cumulativamente, com o contratante do serviço, relação de pessoalidade, subordinação e habitualidade. (Incluído pela Lei Complementar nº 147, de 2014)
-> XII - que tenha filial, sucursal, agência ou representação no exterior. (Incluído pela Lei Complementar nº 214, de 2025)
+> [!quote]- Texto literal: Art. 14, caput, §§1º e 2º (LC 123/2006, p. 1)
+> Art. 14. Consideram-se isentos do imposto de renda, na fonte e na declaração de ajuste do beneficiário, os valores efetivamente pagos ou distribuídos ao titular ou sócio da microempresa ou empresa de pequeno porte optante pelo Simples Nacional, salvo os que corresponderem a pró-labore, aluguéis ou serviços prestados.
 >
-> § 5º O disposto nos incisos IV e VII do § 4º deste artigo não se aplica à participação no capital de cooperativas de crédito, bem como em centrais de compras, bolsas de subcontratação, no consórcio referido no art. 50 desta Lei Complementar e na sociedade de propósito específico prevista no art. 56 desta Lei Complementar, e em associações assemelhadas, sociedades de interesse econômico, sociedades de garantia solidária e outros tipos de sociedade, que tenham como objetivo social a defesa exclusiva dos interesses econômicos das microempresas e empresas de pequeno porte.
+> § 1º A isenção de que trata o caput deste artigo fica limitada ao valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta mensal, no caso de antecipação de fonte, ou da receita bruta total anual, tratando-se de declaração de ajuste, subtraído do valor devido na forma do Simples Nacional no período.
 >
-> § 6º Na hipótese de a microempresa ou empresa de pequeno porte incorrer em alguma das situações previstas nos incisos do § 4º, será excluída do tratamento jurídico diferenciado previsto nesta Lei Complementar, bem como do regime de que trata o art. 12, com efeitos a partir do mês seguinte ao que incorrida a situação impeditiva.
+> § 2º O disposto no § 1º deste artigo não se aplica na hipótese de a pessoa jurídica manter escrituração contábil e evidenciar lucro superior àquele limite.
 
-> [!tip]- Lupa: cooperativa e S/A, o erro de inverter a regra
-> **A ideia em uma frase:** o §4º diz quem **não** pode; cooperativa está no rol, e o "salvo as de consumo" é a única que escapa.
+> [!tip]- Lupa: o que fica isento e o que não fica
+> **A ideia em uma frase:** o sócio do Simples não paga IR de novo sobre o lucro que já foi tributado no DAS, mas só até o limite do lucro presumido — o que passar disso, sem contabilidade regular provando o contrário, é tributado.
 >
 > **Passo a passo:**
-> 1. Leia o inciso como proibição: cooperativa fica **fora**; só a de **consumo** está liberada.
-> 2. Sociedade por ações (X) fica fora **pela forma**, mesmo que o serviço não seja vedado (transporte municipal, por exemplo).
-> 3. Se a alternativa disser "poderia ser ME" ou "poderá ser optante" para essas formas, está errada.
+> 1. Lucro/dividendo distribuído ao titular ou sócio: isento, dentro do limite.
+> 2. Pró-labore, aluguel pago ao sócio ou pagamento por serviço prestado por ele: **nunca** isento por este artigo, segue a tributação normal de pessoa física.
+> 3. Sem escrituração contábil regular, a isenção some acima do percentual presumido da Lei 9.249/95; com escrituração regular, o sócio pode provar lucro maior e ficar isento sobre ele também.
 >
-> **O erro clássico:** ler "cooperativa, salvo de consumo" como "pode, exceto de consumo". Foi assim que a alternativa E da questão VUNESP (Pref SP 2023, regras gerais) enganou. Nas questões CEBRASPE (SEFAZ RS 2019) e VUNESP (Pref GRU 2019), a banca também mirou nesses dois incisos.
+> **O erro clássico:** achar que todo valor recebido pelo sócio de uma empresa do Simples é isento — pró-labore e aluguel pagam IR normalmente, só a distribuição de lucro (dentro do limite) é que é isenta.
 
-> [!info]- Ponte
-> - A **Res. CGSN 140, art. 15** repete o rol com outra numeração (VII cooperativa, XI sociedade por ações); veja a tabela do capítulo "Dos Tributos e Contribuições" acima. Em prova, o inciso pode vir de qualquer das duas normas.
-
-### Do MEI na LC 123 (arts. 18-A, 18-C e 18-E da LC nº 123/2006)
+### Do MEI na LC 123 (arts. 18-A a 18-F da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
 
 - **Regime:** o MEI recolhe os tributos do Simples em <mark>valores fixos mensais, independentemente da receita bruta do mês</mark> (art. 18-A, caput).
 - **Quem é MEI** *(§1º)*: o empresário individual (art. 966 do Código Civil) ou o empreendedor rural que auferiu receita bruta, no ano-calendário anterior, de até <mark>R$ 81.000,00</mark>, seja optante do Simples Nacional e não esteja impedido. O PDF do Planalto traz o texto antigo (R$ 60 mil) e o novo lado a lado: vale <mark>R$ 81 mil</mark>.
 - **Vedações da sistemática (§4º):** I (atividade tributada pelos Anexos V ou VI, salvo atividade isolada autorizada pelo CGSN); II (<mark>mais de um estabelecimento</mark>); III (participa de outra empresa como titular, sócio ou administrador); IV (empregado, **revogado** em 2016); V (<mark>constituído na forma de startup</mark>, LC 167/2019).
 - **Extrativista** *(§4º-A)*: observadas as demais condições, <mark>pode optar</mark> o empresário individual que exerça **comercialização e processamento de produtos de natureza extrativista**.
-- **Empregado** *(art. 18-C)*: pode ser MEI quem tiver <mark>um único empregado</mark> que receba <mark>exclusivamente 1 salário mínimo ou o piso da categoria</mark>.
+- **Empresa contratante de serviço do MEI** *(art. 18-B)*: quem contrata o MEI para <mark>hidráulica, eletricidade, pintura, alvenaria, carpintaria ou manutenção/reparo de veículos</mark> mantém a obrigação de recolher a contribuição previdenciária sobre contribuinte individual (Lei 8.212/91, art. 22, III e §1º) e cumprir as obrigações acessórias dessa contratação. ⚠️ Isso **não se aplica** havendo elementos de vínculo empregatício — aí a contratante responde por todas as obrigações trabalhistas, tributárias e previdenciárias normais (§2º).
+- **Empregado** *(art. 18-C, caput)*: pode ser MEI quem tiver <mark>um único empregado</mark> que receba <mark>exclusivamente 1 salário mínimo ou o piso da categoria</mark>.
+- **Obrigações do MEI com empregado** *(art. 18-C, §§1º e 2º)*: deve <mark>reter e recolher a contribuição previdenciária</mark> do segurado a seu serviço e prestar informações ao CGSN, além de recolher <mark>3%</mark> sobre o salário de contribuição (contribuição do art. 13, VI, a CPP). Em afastamento legal do único empregado, pode contratar outro, inclusive por prazo determinado, até cessar o afastamento.
+- **IPTU favorecido ao MEI residencial** *(art. 18-D)*: o município deve aplicar ao MEI que exerce a atividade <mark>na própria residência</mark> a menor alíquota de IPTU vigente na localidade, seja ela a residencial ou a comercial, sem prejuízo de isenção ou imunidade já existente.
 - **Opção** *(§5º, I)*: <mark>irretratável para todo o ano-calendário</mark>.
 - **Natureza** *(art. 18-E)*: política pública de <mark>formalização de pequenos empreendimentos</mark> e inclusão social e previdenciária; a formalização <mark>não tem caráter eminentemente econômico ou fiscal</mark> (§1º).
+- **Transportador autônomo de cargas MEI** *(art. 18-F)*: tem limite de receita bruta diferenciado, de <mark>R$ 251.600,00</mark> (ou R$ 20.966,67 × meses de atividade, no início de atividade), e recolhe a contribuição do art. 13, X, à alíquota de <mark>12%</mark> sobre o salário mínimo mensal — mais alta que a CPP padrão do MEI.
 
-> [!quote]- Texto literal: Art. 18-A (caput, §1º, §4º e §4º-A), Art. 18-C e Art. 18-E (LC 123/2006)
+> [!quote]- Texto literal: Art. 18-A (caput, §1º, §4º e §4º-A), Art. 18-B, Art. 18-C (caput e §§1º e 2º), Art. 18-D, Art. 18-E e Art. 18-F (LC 123/2006, p. 1-2)
 > Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional <mark>em valores fixos mensais, independentemente da receita bruta por ele auferida no mês</mark>, na forma prevista neste artigo.
 >
 > § 1º Para os efeitos desta Lei Complementar, considera-se MEI o empresário individual que se enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, ou o empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural, que tenha auferido receita bruta, no ano-calendário anterior, de até <mark>R$ 81.000,00 (oitenta e um mil reais)</mark>, que seja optante pelo Simples Nacional e que não esteja impedido de optar pela sistemática prevista neste artigo.
@@ -2479,21 +2509,38 @@ Recolhimento e DAS *(arts. 40 a 45, p. 51–55)*:
 >
 > § 4º-A. Observadas as demais condições deste artigo, poderá optar pela sistemática de recolhimento prevista no caput o empresário individual que exerça <mark>atividade de comercialização e processamento de produtos de natureza extrativista</mark>.
 >
-> Art. 18-C. Observado o disposto no caput e nos §§ 1º a 25 do art. 18-A desta Lei Complementar, poderá enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural que possua <mark>um único empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional</mark>. (Redação dada pela Lei Complementar nº 155, de 2016)
+> Art. 18-B. A empresa contratante de serviços executados por intermédio do MEI mantém, em relação a esta contratação, a obrigatoriedade de recolhimento da contribuição a que se refere o inciso III do caput e o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e o cumprimento das obrigações acessórias relativas à contratação de contribuinte individual.
+> § 1º Aplica-se o disposto neste artigo exclusivamente em relação ao MEI que for contratado para prestar serviços de hidráulica, eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos.
+> § 2º O disposto no caput e no § 1º não se aplica quando presentes os elementos da relação de emprego, ficando a contratante sujeita a todas as obrigações dela decorrentes, inclusive trabalhistas, tributárias e previdenciárias.
+>
+> Art. 18-C. Observado o disposto no caput e nos §§ 1º a 25 do art. 18-A desta Lei Complementar, poderá enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural que possua um único empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional. (Redação dada pela Lei Complementar nº 155, de 2016)
+> § 1º Na hipótese referida no caput, o MEI:
+> I - deverá reter e recolher a contribuição previdenciária relativa ao segurado a seu serviço na forma da lei, observados prazo e condições estabelecidos pelo CGSN;
+> II - é obrigado a prestar informações relativas ao segurado a seu serviço, na forma estabelecida pelo CGSN; e
+> III - está sujeito ao recolhimento da contribuição de que trata o inciso VI do caput do art. 13, calculada à alíquota de 3% (três por cento) sobre o salário de contribuição previsto no caput, na forma e prazos estabelecidos pelo CGSN.
+> § 2º Para os casos de afastamento legal do único empregado do MEI, será permitida a contratação de outro empregado, inclusive por prazo determinado, até que cessem as condições do afastamento, na forma estabelecida pelo Ministério do Trabalho e Emprego.
+>
+> Art. 18-D. A tributação municipal do imposto sobre imóveis prediais urbanos deverá assegurar tratamento mais favorecido ao MEI para realização de sua atividade no mesmo local em que residir, mediante aplicação da menor alíquota vigente para aquela localidade, seja residencial ou comercial, nos termos da lei, sem prejuízo de eventual isenção ou imunidade existente.
 >
 > Art. 18-E. O instituto do MEI é uma política pública que tem por objetivo a <mark>formalização de pequenos empreendimentos</mark> e a inclusão social e previdenciária. (Incluído pela Lei Complementar nº 147, de 2014)
 > § 1º A formalização de MEI <mark>não tem caráter eminentemente econômico ou fiscal</mark>. (Incluído pela Lei Complementar nº 147, de 2014)
+>
+> Art. 18-F. Para o transportador autônomo de cargas inscrito como MEI, nos termos do art. 18-A desta Lei Complementar:
+> I - o limite da receita bruta de que trata o § 1º e o inciso V do § 3º do art. 18-A desta Lei Complementar será de R$ 251.600,00 (duzentos e cinquenta e um mil e seiscentos reais);
+> II - o limite será de R$ 20.966,67 (vinte mil, novecentos e sessenta e seis reais e sessenta e sete centavos) multiplicados pelo número de meses compreendidos entre o início da atividade e o final do respectivo ano-calendário, consideradas as frações de meses como um mês inteiro, no caso de início de atividades de que trata o § 2º do art. 18-A desta Lei Complementar;
+> III - o valor mensal da contribuição de que trata o inciso X do § 1º do art. 13 desta Lei Complementar corresponderá ao valor resultante da aplicação da alíquota de 12% (doze por cento) sobre o salário-mínimo mensal.
 
 > [!tip]- Lupa: MEI que pode e MEI que não pode
-> **A ideia em uma frase:** o MEI é um regime pequeno e fixo; as vedações do §4º barram estrutura (mais de um estabelecimento, startup, sócio em outra empresa), e o empregado só entra dentro de uma regra estrita.
+> **A ideia em uma frase:** o MEI é um regime pequeno e fixo; as vedações do §4º barram estrutura (mais de um estabelecimento, startup, sócio em outra empresa), o empregado só entra dentro de uma regra estrita, e há dois desvios do padrão que a banca adora testar: o transportador de cargas (limite e alíquota maiores) e a empresa que contrata o MEI (que não se livra sozinha do INSS).
 >
 > **Passo a passo:**
-> 1. Receita: até **R$ 81 mil** no ano anterior, sem confundir com o limite antigo ou com o da ME (R$ 360 mil).
+> 1. Receita: até **R$ 81 mil** no ano anterior, sem confundir com o limite antigo ou com o da ME (R$ 360 mil) — **exceto** o transportador autônomo de cargas, que vai a **R$ 251.600** (art. 18-F).
 > 2. Estrutura: **um** estabelecimento, sem participar de outra empresa, **nunca startup**.
-> 3. Empregado: **um só**, com **1 salário mínimo ou o piso**; dois empregados ou salário maior tira o MEI.
+> 3. Empregado: **um só**, com **1 salário mínimo ou o piso**, e o MEI recolhe **3%** de CPP sobre ele; dois empregados ou salário maior tira o MEI.
 > 4. Extrativista pode; a atividade tributada pelos Anexos V ou VI, não.
+> 5. Quem contrata o MEI para hidráulica, elétrica, pintura, alvenaria, carpintaria ou conserto de veículo **não fica livre do INSS** por isso — só fica livre se não houver vínculo de emprego disfarçado.
 >
-> **O erro clássico:** trocar o limite (R$ 180 mil, das questões CEBRASPE SEFAZ AC 2024), dizer que o MEI é "lucro presumido" (é optante do Simples) ou tratar startup como permitida (VUNESP Pref SP 2023). Também erra quem descreve o MEI como política de "pequenos e médios empresários" com caráter "eminentemente fiscal": o art. 18-E diz o contrário.
+> **O erro clássico:** trocar o limite (R$ 180 mil, das questões CEBRASPE SEFAZ AC 2024), dizer que o MEI é "lucro presumido" (é optante do Simples) ou tratar startup como permitida (VUNESP Pref SP 2023); confundir o limite geral do MEI (R$ 81 mil) com o do transportador autônomo de cargas (R$ 251.600, art. 18-F); e achar que a empresa contratante do MEI (art. 18-B) está sempre livre de obrigação previdenciária. Também erra quem descreve o MEI como política de "pequenos e médios empresários" com caráter "eminentemente fiscal": o art. 18-E diz o contrário.
 
 > [!info]- Ponte
 > - [[P2 - Direito Tributário#Do MEI (Res. CGSN 140, arts. 100 a 120)]]: onde a nota trata do MEI pela Res. CGSN 140 (opção, desenquadramento e obrigações).
@@ -2527,8 +2574,44 @@ Recolhimento e DAS *(arts. 40 a 45, p. 51–55)*:
 >
 > **O erro clássico:** marcar a alternativa que exige "convênio específico" (FCC Pref J Guararapes 2024) ou que diz que a notificação "constituirá início de procedimento".
 
-### Das Licitações Públicas e da Cédula de Crédito Microempresarial (arts. 42 a 49 da LC nº 123/2006)
+### Do Processo Administrativo Fiscal e Judicial do Simples (arts. 39 a 41 da LC nº 123/2006)
 - [ ] status [dom:: 0] [peso:: 3]
+
+- **Competência do contencioso administrativo** *(art. 39, caput, redação da LC 227/2026)*: cabe ao órgão julgador do ente federativo que fez o <mark>lançamento</mark>, o <mark>indeferimento da opção</mark> ou a <mark>exclusão de ofício</mark>, dividida em três hipóteses: (I) órgãos da estrutura da União, quando a Receita Federal lançou/indeferiu/excluiu; (II) <mark>CGIBS</mark>, quando o lançamento/indeferimento/exclusão de ofício decorrer do **IBS**; (III) órgãos do próprio Estado, DF ou Município, nos demais casos.
+- ⚠️ O Município pode transferir por convênio o julgamento ao Estado onde se localiza (§1º).
+- **Omissão de receita sem origem identificável** *(§2º-A)*: a autuação usa a <mark>maior alíquota prevista na LC 123</mark>; nesse caso o julgamento cabe ao Estado ou ao DF (§3º).
+- **Consultas** *(art. 40)*: são solucionadas pela <mark>Secretaria da Receita Federal</mark>, salvo quando versarem sobre tributo estadual ou municipal — aí seguem a competência tributária respectiva.
+- **Processo judicial** *(art. 41, caput)*: os processos sobre tributos do Simples são ajuizados <mark>em face da União</mark>, representada pela <mark>Procuradoria-Geral da Fazenda Nacional (PGFN)</mark>. Estados, DF e Municípios prestam auxílio à PGFN quanto aos tributos de sua competência (§1º).
+
+> [!quote]- Texto literal: Art. 39, caput e incisos (redação da LC 227/2026), Art. 40 e Art. 41, caput e §1º (LC 123/2006, p. 3)
+> Art. 39. Observados os dispositivos legais relativos aos processos administrativos fiscais de cada ente federativo e o disposto em relação ao processo administrativo tributário do IBS, o contencioso administrativo relativo ao Simples Nacional será de competência:
+> I - dos órgãos julgadores integrantes da estrutura administrativa tributária da União, quando versar sobre o lançamento, o indeferimento da opção ou a exclusão de ofício realizados pela Secretaria Especial da Receita Federal do Brasil;
+> II - dos Estados, Distrito Federal e Municípios, por meio do CGIBS, quando versar sobre o lançamento, o indeferimento da opção ou a exclusão de ofício por eles realizados em decorrência do IBS;
+> III - dos órgãos julgadores integrantes da estrutura administrativa do Estado, Distrito Federal ou Município que efetuar o lançamento, o indeferimento da opção ou a exclusão de ofício não relacionados ao IBS.
+> § 1º No caso do inciso III do caput deste artigo, o Município poderá, mediante convênio, transferir a atribuição de julgamento exclusivamente ao respectivo Estado em que se localiza.
+>
+> Art. 40. As consultas relativas ao Simples Nacional serão solucionadas pela Secretaria da Receita Federal, salvo quando se referirem a tributos e contribuições de competência estadual ou municipal, que serão solucionadas conforme a respectiva competência tributária, na forma disciplinada pelo Comitê Gestor.
+>
+> Art. 41. Os processos relativos a impostos e contribuições abrangidos pelo Simples Nacional serão ajuizados em face da União, que será representada em juízo pela Procuradoria-Geral da Fazenda Nacional, observado o disposto no § 5º deste artigo.
+> § 1º Os Estados, Distrito Federal e Municípios prestarão auxílio à Procuradoria-Geral da Fazenda Nacional, em relação aos tributos de sua competência, na forma a ser disciplinada por ato do Comitê Gestor.
+
+> [!tip]- Lupa: dois PATs, dois times de julgadores — não confundir Simples com IBS
+> **A ideia em uma frase:** desde 2026, o contencioso do Simples não é mais "sempre o ente que lançou" — quando o lançamento nasceu do IBS, quem julga é o CGIBS, o mesmo colegiado que julga o processo administrativo tributário do IBS por fora do Simples.
+>
+> **Passo a passo:**
+> 1. Pergunte: o lançamento/indeferimento/exclusão veio da União (RFB)? Julga a estrutura federal.
+> 2. Veio de tributo do IBS dentro do Simples? Julga o **CGIBS**, não o Estado/Município isoladamente.
+> 3. Veio de outro tributo estadual/municipal (não IBS) dentro do Simples? Julga o órgão daquele ente, podendo o Município transferir por convênio ao Estado.
+> 4. Em qualquer caso, quem representa a União em juízo é sempre a **PGFN**, nunca a PGE ou a Procuradoria do Município — mesmo quando o tributo discutido é estadual ou municipal.
+>
+> **O erro clássico:** achar que o processo administrativo tributário do IBS (LC 227/26, fora do Simples) e o contencioso do Simples que envolve IBS seguem exatamente o mesmo rito e prazos — são regimes vizinhos, mas o art. 39 só manda usar o CGIBS como órgão julgador; não importa automaticamente todo o procedimento do PAT do IBS "puro".
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]]: o CGIBS que julga o Simples quando o tributo é IBS é o mesmo colegiado desse processo — errou 12/16 (75%) no Contencioso Administrativo e 7/10 (70%) nas Normas Processuais, no caderno de 21/09 em Reforma Tributária.
+> - [[P2 - Direito Tributário#Da Exclusão (Res. CGSN 140, arts. 81 a 84)]]: a exclusão de ofício cujo julgamento este heading trata.
+
+### Das Licitações Públicas e da Cédula de Crédito Microempresarial (arts. 42 a 49 da LC nº 123/2006)
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
 
 - **Regularidade fiscal e trabalhista** *(arts. 42 e 43)*: só é exigida para <mark>assinatura do contrato</mark>. Na licitação a ME/EPP <mark>deve apresentar toda a documentação, mesmo com restrição</mark>, e <mark>pode participar</mark>. Havendo restrição, tem <mark>5 dias úteis</mark> (a partir de ser declarada vencedora), prorrogáveis por igual período, para regularizar, pagar ou parcelar o débito e emitir certidões. Sem regularizar, decai do direito à contratação (§2º).
 - **Empate ficto** *(art. 44)*: preferência de contratação como critério de desempate. Empate é proposta <mark>igual ou até 10% superior</mark> à mais bem classificada (§1º); no **pregão**, <mark>até 5%</mark> (§2º).
@@ -2566,7 +2649,7 @@ Recolhimento e DAS *(arts. 40 a 45, p. 51–55)*:
 > **O erro clássico:** achar que o débito impede a participação (foi o que derrubou o item I na CEBRASPE, MPC TCE-PA 2019, marcada C em vez de E). O segundo erro é tratar a subcontratação como **obrigatória**: no art. 48, II é "poderá".
 
 ### Da Sociedade de Propósito Específico (art. 56 da LC nº 123/2006)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
 
 - **Finalidade:** compra e venda de bens e serviços, para os mercados nacional e internacional, por meio de SPE, conforme regulamento do Poder Executivo federal.
 - **Sócios** *(§1º)*: <mark>não podem integrar</mark> a SPE pessoas jurídicas <mark>não optantes</mark> pelo Simples Nacional. Todas têm de ser optantes; não basta uma.
@@ -2876,6 +2959,16 @@ Multas por declaração e comunicação *(arts. 97-A, 98 e 99)*:
 | **Falta de comunicação** obrigatória de exclusão (art. 99) | <mark>10%</mark> do total dos tributos do mês anterior ao início dos efeitos da exclusão | R$ 200,00, <mark>sem redução</mark> |
 
 - Nas multas de Defis e PGDAS-D: reduzidas à <mark>metade</mark> se a declaração é entregue após o prazo mas <mark>antes de qualquer procedimento de ofício</mark>, e a <mark>75%</mark> se entregue no prazo da intimação. A declaração que não atende às especificações do CGSN é considerada não entregue (intimação para nova entrega em 10 dias). *(arts. 97-A, §§2º e 4º; 98, §§3º a 5º)*
+- **Redução geral de multa por obrigação acessória** *(art. 38-B da LC 123/2006)*: fora das multas específicas do Simples (Defis, PGDAS-D, falta de comunicação etc.), quando a multa de qualquer órgão federal, estadual, distrital ou municipal for de valor fixo ou mínimo e não houver previsão mais favorável para o MEI/ME/EPP, ela é reduzida em <mark>90%</mark> para o MEI e <mark>50%</mark> para ME/EPP. ⚠️ Não vale em caso de fraude, resistência ou embaraço à fiscalização, nem se a multa não for paga em <mark>30 dias</mark> da notificação.
+
+> [!quote]- Texto literal: Art. 38-B, caput, incisos e parágrafo único (LC 123/2006, p. 3)
+> Art. 38-B. As multas relativas à falta de prestação ou à incorreção no cumprimento de obrigações acessórias para com os órgãos e entidades federais, estaduais, distritais e municipais, quando em valor fixo ou mínimo, e na ausência de previsão legal de valores específicos e mais favoráveis para MEI, microempresa ou empresa de pequeno porte, terão redução de:
+> I - 90% (noventa por cento) para os MEI;
+> II - 50% (cinquenta por cento) para as microempresas ou empresas de pequeno porte optantes pelo Simples Nacional.
+> Parágrafo único. As reduções de que tratam os incisos I e II do caput não se aplicam na:
+> I - hipótese de fraude, resistência ou embaraço à fiscalização;
+> II - ausência de pagamento da multa no prazo de 30 (trinta) dias após a notificação.
+
 
 > [!quote]- Texto literal: Arts. 92 e 96 (Res. CGSN 140, p. 91–93)
 > Art. 92. No caso em que a ME ou a EPP optante pelo Simples Nacional exerça atividades incluídas no campo de incidência do ICMS e do ISS e seja apurada omissão de receita de origem não identificável, a autuação será feita com utilização da maior das alíquotas relativas à faixa de receita bruta de enquadramento do contribuinte, dentre as tabelas aplicáveis às respectivas atividades.
@@ -3179,7 +3272,7 @@ Legitimidade ativa: o locatário não é contribuinte nem responsável pelo IPTU
 
 
 ### 2. Imposto sobre Serviços - ISS
-- [ ] status [dom:: 2] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
 
 Jurisprudência: incidência do ISS sobre leasing financeiro e lease-back, mas não sobre leasing operacional.
 > RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ISS. ARRENDAMENTO MERCANTIL. OPERAÇÃO DE LEASING FINANCEIRO. ARTIGO 156, III, DA CONSTITUIÇÃO DO BRASIL. O arrendamento mercantil compreende três modalidades, [i] o leasing operacional, [ii] o leasing financeiro e [iii] o chamado lease-back. No primeiro caso há locação, nos outros dois, serviço. A lei complementar não define o que é serviço, apenas o declara, para os fins do inciso III do artigo 156 da Constituição. Não inventa, simplesmente descobre o que é serviço para os efeitos do inciso III do artigo 156 da Constituição. No arrendamento mercantil (leasing financeiro), contrato autônomo que não é misto, o núcleo é o financiamento, não uma prestação de dar. E financiamento é serviço, sobre o qual o ISS pode incidir, resultando irrelevante a existência de uma compra nas hipóteses do leasing financeiro e do lease-back. (STF – RE 592.905, Rel. Min. Eros Grau, Tribunal Pleno, j. 02/12/2009, repercussão geral).
