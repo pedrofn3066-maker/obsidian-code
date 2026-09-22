@@ -66,3 +66,69 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 
 
 ---
+
+## 💭 Dúvidas respondidas
+
+*(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
+
+> [!question]- 22/09 13:22 · Auditoria · FCC (SEFAZ GO 2026) — Evidência de auditoria: cumulativa, fontes diferentes, adequação
+> TEC #3975968. A evidência em auditoria compreende as informações utilizadas pelo auditor para chegar às conclusões em que se fundamentam a sua opinião. Com base nas Normas Brasileiras de Contabilidade (NBC TA), considere as afirmações a seguir:
+>
+> I. A evidência de auditoria possui natureza cumulativa e é obtida principalmente por meio dos procedimentos realizados durante o curso do trabalho, sendo indispensável para fundamentar a opinião e o relatório do auditor.
+> II. O ceticismo profissional exige que o auditor mantenha uma postura alerta, entendendo-se que se obtém maior segurança quando as evidências são consistentes e provenientes de fontes ou naturezas diferentes do que quando consideradas individualmente.
+> III. A suficiência e a adequação são medidas interdependentes, em que a adequação se refere exclusivamente à quantidade de evidências obtidas de fontes externas e de especialistas para garantir que o erro seja minimizado.
+>
+> Está correto o que se afirma APENAS em
+> (A) I e II. · (B) III. · (C) I. · (D) I e III. · (E) II e III.
+>
+> **Marquei:** C · **Gabarito:** A
+> **Obs.:** já acertei diversas vezes essa questão, mas no final do item II, depois do "entendendo-se", achei que o texto tinha fugido da definição de ceticismo profissional.
+>
+> > [!success] Resposta
+> > **I e II certos; III errado.** I é o item A5 da NBC TA 500 quase literal ("natureza cumulativa… obtida principalmente a partir dos procedimentos… durante o curso do trabalho"). A segunda metade do II é o item A12, literal: "obtém-se mais segurança com evidência consistente obtida a partir de fontes diferentes ou de natureza diferente do que a partir de itens considerados individualmente". A banca só colou isso depois do ceticismo — a ponte não torna o item errado, porque o que vem depois do "entendendo-se" é norma pura.
+> >
+> > O III erra no conceito: **adequação = qualidade** (relevância e confiabilidade); **suficiência = quantidade** (item 5). Interdependentes, sim — quanto melhor a qualidade, menos quantidade se exige —, mas "exclusivamente à quantidade… de fontes externas" é invenção.
+> >
+> > **Como a FCC cobra:** colagem de dois trechos verdadeiros com um conector ("entendendo-se", "razão pela qual"). Não marque errado por estranhar a ligação; procure a palavra que quebra (aqui, *exclusivamente* e *quantidade* no III).
+> >
+> > **Fonte:** cofre `MATERIAS/P1 - Auditoria.md:227` (suficiência × adequação) · internet NBC TA 500 (R1), itens 5, A5 e A12 — https://www.legisweb.com.br/legislacao/?id=496590
+
+> [!question]- 22/09 13:24 · Auditoria · FGV (CFC/CVM 28º EQT 2025) — NBC TA 240: procedimento obrigatório contra burla de controles pela administração
+> TEC #3412082. A NBC TA 240 (R1) aborda as responsabilidades do auditor em relação à detecção de fraudes em auditorias de demonstrações contábeis, destacando que o auditor deve obter uma segurança razoável de que as demonstrações estão livres de distorções relevantes, sejam elas causadas por erro ou por fraude. A norma ressalta que a responsabilidade pela prevenção e detecção de fraudes
+>
+> (A) considerar se seria apropriado o Administrador retirar-se da Presidência da Empresa, quando essa saída for possível conforme a lei ou regulamentação aplicável.
+> (B) avaliar se os procedimentos analíticos aplicados perto do final do período, na formação da conclusão global, de que as demonstrações contábeis, como um todo, estão consistentes com o entendimento sobre a entidade e do seu ambiente.
+> (C) discutir com pessoa no nível apropriado da administração e com os responsáveis pela governança a saída do suspeito do trabalho e as razões para o seu afastamento.
+> (D) determinar as responsabilidades profissionais e legais aplicáveis à situação, inclusive se é necessário a comunicação às autoridades reguladoras. No Brasil, existem obrigações determinadas pelas autoridades reguladoras.
+> (E) testar a adequação dos lançamentos contábeis registrados no razão geral e outros ajustes efetuados na elaboração das demonstrações contábeis. Ao definir e aplicar procedimentos de auditoria para tais testes, o auditor deve selecionar lançamentos contábeis e outros ajustes feitos no final do período sob exame.
+>
+> **Marquei:** D · **Gabarito:** E
+>
+> **Resposta do professor (colada):**
+> reposta do professor : d) determinar as responsabilidades profissionais e legais aplicáveis à situação, inclusive se é necessário a comunicação às autoridades reguladoras. No Brasil, existem obrigações determinadas pelas autoridades reguladoras.
+>
+> INCORRETO. Na verdade, a alternativa traz um procedimento relacionado à situação na qual o auditor não tem condições de continuar o trabalho e não em resposta aos riscos relacionados com controles burlados pela administração. Vejamos o que a NBC TA 240 prevê sobre o tema:
+> Auditor sem condições de continuar o trabalho
+>
+> 38. Se, como resultado de uma distorção decorrente de fraude ou suspeita de fraude, o auditor encontrar circunstâncias excepcionais que coloquem em dúvida sua capacidade de continuar a realizar a auditoria, este deve:
+>
+> (a) determinar as responsabilidades profissionais e legais aplicáveis à situação, inclusive se é necessário ou não o auditor informar à pessoa ou pessoas que aprovaram a contratação da auditoria ou, em alguns casos, às autoridades reguladoras. No Brasil, existem obrigações determinadas pelas autoridades reguladoras;
+>
+> (...)
+>
+> Portanto, a alternativa não atende ao solicitado pelo comando da questão. Logo, está incorreta.
+>
+> e) testar a adequação dos lançamentos contábeis registrados no razão geral e outros ajustes efetuados na elaboração das demonstrações contábeis. Ao definir e aplicar procedimentos de auditoria para tais testes, o auditor deve selecionar lançamentos contábeis e outros ajustes feitos no final do período sob exame.
+>
+> CORRETO. Conforme explicamos anteriormente, é a alternativa correta.
+>
+> Diante do exposto, observe que a única alternativa que traz um procedimento que o auditor deve definir e aplicar, independentemente da avaliação dos riscos de que a administração burle controles é a letra E.
+>
+> > [!success] Resposta
+> > **E — item 32(a) da NBC TA 240.** Independentemente da avaliação do risco de a administração burlar controles, o auditor **sempre** aplica três procedimentos: (a) **testar lançamentos contábeis e outros ajustes** no razão geral, com foco nos do fim do período; (b) **revisar estimativas contábeis** em busca de tendenciosidade; (c) avaliar a **justificativa comercial de transações significativas fora do curso normal** dos negócios.
+> >
+> > A D é do item 38(a): é a reação quando o auditor **não tem condições de continuar** o trabalho por causa de fraude — outra situação. A e C deformam o mesmo item 38 (quem pode se retirar é o auditor, do trabalho). B é avaliação da evidência no fim, não resposta obrigatória à burla de controles.
+> >
+> > **Macete:** burla de controles pela administração → "**L-E-T**": **L**ançamentos, **E**stimativas, **T**ransações fora do normal. Tudo que fala em comunicar autoridade/retirar-se é o cenário de não continuar.
+> >
+> > **Fonte:** internet NBC TA 240 (R1), itens 32 e 38 — https://www.legisweb.com.br/legislacao/?id=496113 · resposta do professor colada na captura (sem lastro no cofre: `MATERIAS/P1 - Auditoria.md` só tem o triângulo da fraude, linha 237)

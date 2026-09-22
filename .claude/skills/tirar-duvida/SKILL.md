@@ -7,6 +7,16 @@ description: Tira dúvidas sobre matérias e tópicos de estudo (Direito Tribut�
 
 Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre por conta própria** — só lê. As únicas escritas permitidas são: guardar a dúvida em `Questoes/Duvidas.md` quando o Pedro pedir (ver "Guardar a dúvida") e mover a entrada já respondida para o caderno de erros da matéria (ver "Arrumar o layout e mover para o caderno da matéria").
 
+## Modo padrão: esvaziar `## Dúvida`
+
+Quando o Pedro chama `/tirar-duvida` **sem uma pergunta específica** (ou pede "responda o que está em Dúvida"), o trabalho é processar a caixa de entrada inteira, sem perguntar:
+
+1. Ler `## Dúvida` de `Questoes/Duvidas.md` e separar as entradas (cada uma começa com `- <data>, <hh:mm> —`). Entrada que só continua a anterior (ex.: "sobre a questão anterior…") vira callout próprio, com o título indicando "continuação de …".
+2. Para cada entrada: buscar no cofre (Passo 1); o que **não está no cofre** (súmula, artigo, item de norma que falta) completar na internet em fonte oficial (Passo 3). Na resposta, deixar claro o que é cofre e o que é novo.
+3. Mover **todas** para `## 💭 Dúvidas respondidas` do caderno da matéria (seção "Arrumar o layout…"), inclusive as que ficarem sem fonte confirmada (marcadas `(sem fonte confirmada)` na linha **Fonte**). Linhas soltas de registro (`- … [Matéria] pergunta → resposta (fonte…)`) que repetem uma entrada entram no callout dela e saem da caixa.
+4. **Ao final, `## Dúvida` fica vazio** (só o heading) e `Questoes/Duvidas.md` fica só com a introdução e a lista de links "Dúvidas respondidas, por matéria" — com link novo para cada caderno usado pela primeira vez.
+5. No chat, uma tabela curta: entrada → caderno → o que era novo (não estava no cofre). Não repita as respostas inteiras no chat; elas estão nos callouts.
+
 ## Passo 1 — buscar no cofre
 
 Ordem de busca (pare quando tiver base suficiente, mas confira 2 fontes se for tema cobrado por literalidade):
@@ -97,7 +107,9 @@ Regras do reformat:
 - Mover = tirar o bloco de `## Dúvida` (do `> [!question]-` até a última linha `>` do callout, mais a linha em branco que o separava) e inserir no fim de `## 💭 Dúvidas respondidas` do caderno. Nunca deixe a entrada duplicada.
 - Depois de mover, confira o topo de `Questoes/Duvidas.md` (lista "Dúvidas respondidas, por matéria"): se o caderno usado ainda não tem link lá, acrescente uma linha `- [[ERRO <MATÉRIA>#💭 Dúvidas respondidas|<Matéria>]]`, sem tocar nas outras.
 - Edite por índice de linha em Python (o vault tem NBSP; não confie em `old_string` exato) e confira depois: `grep -c '\[!question\]' Questoes/Duvidas.md` cai em 1 por dúvida movida e o do caderno sobe em 1.
-- Nunca mova nem reformate entrada que ainda não foi respondida, e nunca apague dúvida.
+- Nunca apague dúvida: toda entrada sai de `## Dúvida` **para dentro de um callout** do caderno. No modo padrão (esvaziar a caixa), a que não tiver resposta confirmada também é movida, com `(sem fonte confirmada)` na linha **Fonte** — `## Dúvida` não deve ficar com sobra.
+- Texto colado pelo Pedro (resposta do professor, ementa) fica no callout, em `> **Resposta do professor (colada):**` antes do `[!success]`; a resposta da skill resume e aponta o artigo/item, sem copiar de novo.
+- Caderno sem `## 💭 Dúvidas respondidas`: crie o heading no fim da nota e acrescente o link em `Questoes/Duvidas.md` sem perguntar (só pergunte se não existir o arquivo `Erradas/ERRO <MATÉRIA>.md`).
 
 ## Regras
 
