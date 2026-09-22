@@ -95,6 +95,7 @@ Regras do reformat:
 - **Preserve o conteúdo do Pedro:** corrija só OCR/quebra de linha óbvia. Não reescreva enunciado nem apague a anotação dele ("errei porque…", "fiquei na dúvida…"); ela vira a linha **Marquei/Gabarito** ou uma linha **Obs.:**.
 - Dúvida sem enunciado (pergunta solta): callout só com a pergunta e a resposta.
 - Mover = tirar o bloco de `## Dúvida` (do `> [!question]-` até a última linha `>` do callout, mais a linha em branco que o separava) e inserir no fim de `## 💭 Dúvidas respondidas` do caderno. Nunca deixe a entrada duplicada.
+- Depois de mover, confira o topo de `Questoes/Duvidas.md` (lista "Dúvidas respondidas, por matéria"): se o caderno usado ainda não tem link lá, acrescente uma linha `- [[ERRO <MATÉRIA>#💭 Dúvidas respondidas|<Matéria>]]`, sem tocar nas outras.
 - Edite por índice de linha em Python (o vault tem NBSP; não confie em `old_string` exato) e confira depois: `grep -c '\[!question\]' Questoes/Duvidas.md` cai em 1 por dúvida movida e o do caderno sobe em 1.
 - Nunca mova nem reformate entrada que ainda não foi respondida, e nunca apague dúvida.
 

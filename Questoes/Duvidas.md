@@ -11,5 +11,6 @@ Dúvidas respondidas, por matéria:
 - [[ERRO DIREITO TRIBUTÁRIO#💭 Dúvidas respondidas|Direito Tributário]]
 - [[ERRO REFORMA TRIBUTÁRIA#💭 Dúvidas respondidas|Reforma Tributária]]
 - [[ERRO DIREITO ADMINISTRATIVO#💭 Dúvidas respondidas|Direito Administrativo (LGPD)]]
+- [[ERRO P2 - Fluência de Dados CD#💭 Dúvidas respondidas|Fluência de Dados CD]]
 
 ## Dúvida
