@@ -5,6 +5,8 @@ gerado_em: 2026-09-20
 ---
 # Fechamento da semana
 
+<div class="botoes-painel"><a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=planodia01">📅 Plano do dia</a> <a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=s1ontem01">🧠 S1 - Revisão de ontem</a> <a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=fechasemana01">📊 Fechamento da semana</a></div>
+
 Semana de **21/09/2026** · fechado em 20/09/2026 · janela de 30 dias (76 cadernos) · meta 85%.
 
 Gerado por `PY/fechamento-semana.py` — não edite à mão, [▶ rode de novo](obsidian://shell-commands/?vault=vault-ba&execute=fechasemana01). O [[Plano do dia]] lê o bloco `json` no fim desta nota e só o aplica nos dias da semana acima.

@@ -90,6 +90,9 @@ NOME_RODIZIO = {
 }
 
 
+# Barra de botões dos painéis (estilo em .obsidian/snippets/painel.css)
+BOTOES = '<div class="botoes-painel"><a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=planodia01">📅 Plano do dia</a> <a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=s1ontem01">🧠 S1 - Revisão de ontem</a> <a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=fechasemana01">📊 Fechamento da semana</a></div>'
+
 def proxima_segunda(hoje):
     """Domingo -> amanhã. Segunda -> hoje (esqueceu no domingo). Terça a sábado -> a próxima."""
     return hoje if hoje.weekday() == 0 else hoje + timedelta(days=7 - hoje.weekday())
@@ -274,7 +277,7 @@ def montar(hoje, seg):
              "rodizios": rodizios, "historico_rodizios": historico}
 
     L = ["---", "tipo: fechamento", f"semana_inicio: {seg.isoformat()}", f"gerado_em: {hoje.isoformat()}", "---",
-         "# Fechamento da semana", "",
+         "# Fechamento da semana", "", BOTOES, "",
          f"Semana de **{seg.strftime('%d/%m/%Y')}** · fechado em {hoje.strftime('%d/%m/%Y')} · janela de {JANELA} dias "
          f"({len(cads)} cadernos) · meta {META:.0%}.", "",
          "Gerado por `PY/fechamento-semana.py` — não edite à mão, "

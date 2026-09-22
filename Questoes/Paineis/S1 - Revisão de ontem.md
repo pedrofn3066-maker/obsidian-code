@@ -4,6 +4,8 @@ tipo: painel
 
 # S1 — Revisão de ontem
 
+<div class="botoes-painel"><a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=planodia01">📅 Plano do dia</a> <a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=s1ontem01">🧠 S1 - Revisão de ontem</a> <a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=fechasemana01">📊 Fechamento da semana</a></div>
+
 Painel do slot **S1** (30 min, todos os dias): recuperação de memória do que entrou no vault no dia anterior, **sem consultar a nota**.
 
 S1 é o único slot que nunca aparece em `Questoes/Diario`, porque não é caderno de questões. O que ele revisa é o que você **escreveu** ontem — capturas do Atalho já triadas, anotações de aula, trechos de lei. Este painel reconstrói isso.

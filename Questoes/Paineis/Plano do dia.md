@@ -4,6 +4,8 @@ tipo: painel
 
 # Plano do dia
 
+<div class="botoes-painel"><a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=planodia01">📅 Plano do dia</a> <a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=s1ontem01">🧠 S1 - Revisão de ontem</a> <a class="botao" href="obsidian://shell-commands/?vault=vault-ba&amp;execute=fechasemana01">📊 Fechamento da semana</a></div>
+
 A [[Slots (Grade Semanal)]] diz **qual matéria** cai em cada slot. Não diz o que fazer dentro dela — e numa matéria de 26 tópicos, abrir a nota e escolher na hora é onde o slot se perde: o olho vai para o que está mais à mão, não para o que vale mais ponto.
 
 Este painel responde, para cada slot do dia, **quais subtópicos ler, quais praticar em questões e quais revisar**, cruzando quatro coisas que o vault já tem mas que nenhum outro painel junta no nível do tópico:
