@@ -770,6 +770,9 @@ Repartição do limite global (art. 20), em % da RCL:
 - [ ] status [dom:: 1] [peso:: 2]
 ## - Precatórios
 - [ ] status [dom:: 1] [peso:: 2]
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Dos Precatórios (art. 100 da CF/1988)]]: o lastro do art. 100 (preferências, RPV, prazo de 1º de fevereiro, sequestro, cessão, teto por RCL do § 23) está na nota de Constitucional.
+
 
 
 

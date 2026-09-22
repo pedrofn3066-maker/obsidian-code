@@ -698,6 +698,280 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3187?indi
 # Bloco B:
 ## - Organização do Estado (arts. 18 a 33);
 - [ ] status [dom:: 0] [peso:: 2]
+
+### Da Organização Político-Administrativa (arts. 18 e 19 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
+
+- **Art. 18, caput:** a organização político-administrativa da República compreende <mark>União, Estados, Distrito Federal e Municípios, todos autônomos</mark>, nos termos da CF. § 1º: Brasília é a Capital Federal. § 2º: os **Territórios Federais integram a União**; criação, transformação em Estado ou reintegração ao Estado de origem são reguladas em **lei complementar**. *(CF/88 EC 139, p. 24)*
+- **§ 3º — Estados** (incorporar-se entre si, subdividir-se, desmembrar-se para se anexar a outros, formar novos Estados ou Territórios): <mark>plebiscito da população diretamente interessada + Congresso Nacional, por lei complementar</mark>. *(p. 24)*
+- **§ 4º — Municípios** (criação, incorporação, fusão, desmembramento): <mark>lei estadual</mark>, dentro do período fixado por <mark>lei complementar federal</mark>, com **consulta prévia por plebiscito às populações dos Municípios envolvidos**, **após divulgação dos Estudos de Viabilidade Municipal**. *(p. 24)*
+- ⚠️ Estudo de Viabilidade só existe no § 4º (Municípios). O § 3º (Estados) não o exige.
+- **Art. 19 — vedado à União, aos Estados, ao DF e aos Municípios:** (I) estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, <mark>ressalvada, na forma da lei, a colaboração de interesse público</mark>; (II) recusar fé aos documentos públicos; (III) criar distinções entre brasileiros ou preferências entre si. *(p. 24)*
+
+> [!quote]- Texto literal: art. 18, §§ 3º e 4º (CF/88 EC 139, p. 24)
+> § 3º Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar.
+>
+> § 4º A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+> [!tip]- Lupa: mexer no território de Estado × de Município
+> **A ideia em uma frase:** a alteração de território sempre passa pela população (plebiscito) e por uma lei. O que muda é **qual lei** e se há **estudo prévio**.
+>
+> **Passo a passo:**
+> 1. É **Estado** (§ 3º)? Plebiscito da população diretamente interessada → **Congresso Nacional aprova por lei complementar**. Não há estudo de viabilidade.
+> 2. É **Município** (§ 4º)? Divulgação dos **Estudos de Viabilidade Municipal** → **plebiscito** nas populações dos Municípios envolvidos → **lei estadual**, editada dentro do período que a **lei complementar federal** fixar.
+> 3. *Exemplo ilustrativo (sem lastro):* dois distritos querem se separar do Município A e formar o Município B. A ordem é estudo divulgado → plebiscito → lei estadual, e tudo isso dentro da janela da LC federal. Se a lei estadual sair fora dessa janela, falta um requisito do § 4º.
+>
+> **O erro clássico:** transplantar o "estudo de viabilidade" para o desmembramento de Estado (você errou exatamente isso no CEBRASPE); dizer que a criação de Município é por lei complementar estadual ou por lei federal (é **lei estadual** ordinária, e a LC federal só fixa o **período**); trocar "população diretamente interessada" (§ 3º) por "populações dos Municípios envolvidos" (§ 4º).
+
+> [!info]- Ponte
+> - [[ERRO DIREITO CONSTITUCIONAL#CEBRASPE]]: seu erro registrado, em que o estudo de viabilidade foi posto como requisito do desmembramento de Estado (§ 3º × § 4º).
+> - [[P1 - Direito Constitucional#- Intervenção Federal e Estadual (arts. 34 a 36 da CF/1988);]]: a autonomia do art. 18, caput, é o que a intervenção limita temporariamente, e em Município de Estado quem intervém é o Estado.
+
+### União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
+
+**Bens da União (art. 20)** *(p. 24–25)*
+- (I) os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos; (V) recursos naturais da **plataforma continental e da zona econômica exclusiva**; (VI) **mar territorial**; (VII) **terrenos de marinha** e acrescidos; (VIII) **potenciais de energia hidráulica**; (IX) **recursos minerais, inclusive os do subsolo**; (X) cavidades naturais subterrâneas e sítios arqueológicos e pré-históricos; (XI) **terras tradicionalmente ocupadas pelos índios**.
+- (IV) as **praias marítimas**. Águas, ilhas e terras devolutas estão no quadro abaixo.
+- **§ 1º:** União, Estados, DF e Municípios têm assegurada, nos termos da lei, **participação no resultado** da exploração de petróleo ou gás natural, de recursos hídricos para energia elétrica e de outros recursos minerais no respectivo território, plataforma continental, mar territorial ou ZEE, **ou compensação financeira** por essa exploração.
+- **§ 2º:** <mark>faixa de fronteira: até 150 km de largura</mark> ao longo das fronteiras terrestres, fundamental para a defesa do território nacional; ocupação e utilização reguladas em lei.
+
+Bens da União × bens dos Estados (arts. 20 e 26, p. 24–25 e 28)
+
+| Bem | União (art. 20) | Estados (art. 26) |
+| --- | --- | --- |
+| Águas | Lagos, rios e correntes de água **em terrenos de seu domínio**, ou que **banhem mais de um Estado**, sirvam de **limites com outros países** ou se estendam a território estrangeiro ou dele provenham; terrenos marginais e praias fluviais (III) | Águas **superficiais ou subterrâneas**, fluentes, emergentes e em depósito, ressalvadas, na forma da lei, as decorrentes de **obras da União** (I) |
+| Ilhas fluviais e lacustres | As situadas **nas zonas limítrofes com outros países** (IV) | As **não pertencentes à União** (III) |
+| Ilhas oceânicas e costeiras | Sim, **excluídas as que contenham a sede de Municípios**, exceto as áreas afetadas ao serviço público e a unidade ambiental federal, e as do art. 26, II (IV) | As **áreas** nelas que estiverem no seu domínio, excluídas as sob domínio da União, Municípios ou terceiros (II) |
+| Terras devolutas | As **indispensáveis** à defesa das fronteiras, fortificações e construções militares, vias federais de comunicação e preservação ambiental, definidas em lei (II) | As **não compreendidas** entre as da União (IV) |
+
+> [!tip]- Lupa: de quem é o bem (União × Estado)
+> **A ideia em uma frase:** a União fica com o bem que tem **alcance nacional ou internacional** (fronteira, mais de um Estado, outro país, defesa). O Estado fica com o **resto**, e por isso quase todo inciso do art. 26 é residual ("não pertencentes à União", "não compreendidas entre as da União").
+>
+> **Passo a passo:**
+> 1. O bem aparece no art. 20? Veja se o critério de alcance bate: banha mais de um Estado, faz limite com outro país, fica em zona limítrofe, é indispensável à defesa.
+> 2. Bateu → União. Não bateu → Estado, pelo inciso residual do art. 26.
+> 3. Ilha costeira ou oceânica com **sede de Município** sai da União (ressalvadas as áreas afetadas ao serviço público e à unidade ambiental federal).
+> 4. *Exemplo ilustrativo (sem lastro):* um rio que nasce e morre dentro de um único Estado, fora de terreno da União, não bate nenhum critério do art. 20, III, e fica com o Estado pelo art. 26, I. Se ele cruzar a divisa com outro Estado, passa à União.
+>
+> **O erro clássico:** "as terras devolutas são bens da União" (só as indispensáveis do inciso II; o resto é do Estado); "as águas subterrâneas pertencem à União" (estão no art. 26, I); "toda ilha costeira é da União" (excluem-se as que contêm sede de Município); "a faixa de fronteira tem 150 km" (é **até** 150 km).
+
+**Competência material da União (art. 21)** *(p. 25–26)*
+- É o rol do **fazer**: "Compete à União". Não tem parágrafo de delegação.
+- Núcleo mais cobrado: relações exteriores e guerra/paz (I–II); **decretar estado de sítio, estado de defesa e intervenção federal** (V); **emitir moeda** (VII); **serviço postal e correio aéreo nacional** (X); explorar telecomunicações e, diretamente ou mediante autorização, concessão ou permissão, radiodifusão, energia elétrica, navegação aérea e infraestrutura aeroportuária, transporte ferroviário e aquaviário interestadual/de fronteira, transporte rodoviário interestadual e internacional de passageiros e portos (XI–XII); organizar e manter o **Poder Judiciário, o MP do DF e dos Territórios e a Defensoria Pública dos Territórios** (XIII); organizar e manter a polícia civil, a polícia penal, a polícia militar e o corpo de bombeiros militar **do DF** (XIV); **conceder anistia** (XVII); inspeção do trabalho (XXIV); **organizar e fiscalizar a proteção e o tratamento de dados pessoais** (XXVI).
+- **Nuclear (XXIII):** a União explora os serviços nucleares e tem **monopólio** da pesquisa, lavra, enriquecimento, reprocessamento, industrialização e comércio de minérios nucleares. (a) Toda atividade nuclear só para **fins pacíficos** e com **aprovação do Congresso Nacional**; (b) e (c) radioisótopos para pesquisa e usos agrícolas, industriais e médicos sob **regime de permissão**; (d) <mark>a responsabilidade civil por danos nucleares independe da existência de culpa</mark>.
+
+**Competência legislativa privativa da União (art. 22)** *(p. 26–27)*
+- É o rol do **legislar**: "Compete privativamente à União legislar sobre".
+- (I) <mark>direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho</mark>; (II) desapropriação; (IV) águas, energia, informática, telecomunicações e radiodifusão; (VI) sistema monetário; (XI) **trânsito e transporte**; (XIII) nacionalidade, cidadania e naturalização; (XXIII) **seguridade social**; (XXIV) **diretrizes e bases da educação nacional**; (XXV) registros públicos; (XXVII) <mark>normas gerais de licitação e contratação</mark>; (XXX) proteção e tratamento de dados pessoais.
+- **Parágrafo único:** <mark>lei complementar poderá autorizar os Estados a legislar sobre questões específicas</mark> das matérias do art. 22.
+- ⚠️ "Normas gerais" de licitação (XXVII) e de organização das polícias militares e corpos de bombeiros (XXI) estão no art. 22, que é **privativo**, e não no art. 24.
+
+**Competência comum (art. 23)** *(p. 27)*
+- **União, Estados, DF e Municípios**, em tarefas materiais: zelar pela Constituição e conservar o patrimônio público (I); saúde e assistência pública (II); proteger documentos, obras e bens de valor histórico, artístico e cultural (III–IV); acesso à cultura, educação, ciência, tecnologia, pesquisa e inovação (V); **proteger o meio ambiente e combater a poluição** (VI); preservar florestas, fauna e flora (VII); moradia e saneamento (IX); combater as causas da pobreza (X); fiscalizar concessões de pesquisa e exploração de recursos hídricos e minerais (XI); **política de educação para a segurança do trânsito** (XII).
+- **Parágrafo único:** <mark>leis complementares</mark> fixam normas de cooperação entre os entes.
+
+**Competência legislativa concorrente (art. 24)** *(p. 27–28)*
+- <mark>União, Estados e DF</mark>. **Municípios não constam do caput.**
+- (I) <mark>direito tributário, financeiro, penitenciário, econômico e urbanístico</mark>; (II) orçamento; (III) juntas comerciais; (IV) custas dos serviços forenses; (VI) florestas, caça, pesca, fauna, meio ambiente e poluição; (IX) educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa, desenvolvimento e inovação; (X) juizado de pequenas causas; (XI) **procedimentos em matéria processual**; (XII) **previdência social**, proteção e defesa da saúde; (XIII) assistência jurídica e defensoria pública; (XVI) organização, garantias, direitos e deveres das **polícias civis**.
+- **§ 1º:** a União limita-se a **normas gerais**. **§ 2º:** isso não exclui a competência **suplementar** dos Estados. **§ 3º:** sem lei federal de normas gerais, os Estados exercem a competência legislativa **plena**, para atender a suas peculiaridades. **§ 4º:** a superveniência de lei federal sobre normas gerais <mark>suspende a eficácia</mark> da lei estadual no que lhe for contrário.
+
+> [!quote]- Texto literal: art. 24, §§ 1º a 4º (CF/88 EC 139, p. 28)
+> § 1º No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais.
+>
+> § 2º A competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados.
+>
+> § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades.
+>
+> § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.
+
+> [!tip]- Lupa: arts. 21 × 22 × 23 × 24, qual é qual
+> **A ideia em uma frase:** dois eixos separam os quatro artigos: **fazer × legislar** e **só a União × vários entes**.
+>
+> | Art. | Verbo | Quem | Válvula |
+> | --- | --- | --- | --- |
+> | 21 | fazer (material) | só União | nenhuma no texto |
+> | 22 | legislar | só União ("privativamente") | p.ú.: LC autoriza Estados em questões específicas |
+> | 23 | fazer (material) | U + E + DF + **M** | p.ú.: LCs de cooperação |
+> | 24 | legislar | U + E + DF (**sem M**) | §§ 1º–4º: normas gerais × suplementar/plena |
+>
+> **Passo a passo:** diante do item, pergunte (1) o verbo é **executar/explorar/manter** ou **legislar sobre**? (2) O tema tem par no outro rol? Os pares mais trocados, todos do texto:
+> - emitir moeda (21, VII) × sistema monetário (22, VI);
+> - manter o serviço postal (21, X) × legislar sobre serviço postal (22, V);
+> - explorar serviços nucleares (21, XXIII) × atividades nucleares (22, XXVI);
+> - organizar e fiscalizar dados pessoais (21, XXVI) × legislar sobre dados pessoais (22, XXX);
+> - direito **processual** (22, I) × **procedimentos** em matéria processual (24, XI);
+> - direito civil, comercial, penal, do trabalho (22, I) × direito **tributário, financeiro, penitenciário, econômico e urbanístico** (24, I);
+> - **seguridade** social (22, XXIII) × **previdência** social (24, XII);
+> - diretrizes e bases da educação (22, XXIV) × educação, cultura, ensino (24, IX);
+> - trânsito e transporte (22, XI) × **educação** para a segurança do trânsito (23, XII);
+> - **proteger** o meio ambiente (23, VI, fazer) × **legislar** sobre proteção do meio ambiente (24, VI);
+> - normas gerais das polícias **militares** (22, XXI) × organização das polícias **civis** (24, XVI).
+>
+> **O erro clássico:** pôr o Município no art. 24 (ele está no 23); chamar de "concorrente" um tema do 22 só porque a redação fala em "normas gerais" (licitação, polícias militares); inverter a válvula de delegação (é o art. 22 que admite LC autorizando os Estados).
+
+> [!tip]- Lupa: a engrenagem do art. 24, §§ 1º a 4º
+> **A ideia em uma frase:** a União dá a moldura (normas gerais) e o Estado preenche. Se a moldura não existe, o Estado faz tudo, até ela chegar.
+>
+> **Passo a passo:**
+> 1. Há lei federal de normas gerais? **Sim** → o Estado só **suplementa** (§§ 1º e 2º).
+> 2. **Não** → o Estado legisla de forma **plena**, para atender a suas peculiaridades (§ 3º).
+> 3. Depois chega a lei federal de normas gerais → a lei estadual **não é revogada**: fica com a **eficácia suspensa** só no que for contrária (§ 4º). O resto continua valendo.
+> 4. *Exemplo ilustrativo (sem lastro):* o Estado edita, em 2020, lei plena sobre juntas comerciais (24, III) por falta de lei federal. Em 2024, sai a lei federal de normas gerais com um prazo diferente. Só o artigo estadual do prazo fica suspenso; os demais seguem eficazes.
+>
+> **O erro clássico:** "a lei federal superveniente **revoga** a lei estadual" (suspende a eficácia); "suspende a lei estadual inteira" (só no que lhe for contrário); "a competência suplementar só existe na falta de lei federal" (o § 2º diz que as normas gerais não a excluem).
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Espécies de Tributos;]]: a taxa municipal de fiscalização de torres e antenas caiu porque o tema é de competência **privativa** da União (art. 22, IV). É o art. 22 testado na jurisprudência.
+> - [[P1 - Direito Administrativo#- Licitações e Contratos Administrativos (Lei nº 14.133/2021).]]: heading da lei de licitações. Na CF, as normas gerais de licitação e contratação são competência **privativa** da União (art. 22, XXVII), e não concorrente.
+> - [[P1 - Direito Constitucional#Sistema Tributário Nacional (arts. 145 a 162 da CF/1988)]]: lá está a competência para **instituir** tributos. Legislar sobre direito tributário é outra coisa: competência **concorrente** (art. 24, I).
+> - [[P1 - Direito Constitucional#Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)]]: o Município não está no art. 24, mas suplementa a legislação federal e estadual pelo art. 30, II.
+
+### Estados Federados - Organização, Competências, Bens (arts. 25 a 28 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
+
+- **Art. 25, caput:** os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios da CF. **§ 1º:** <mark>são reservadas aos Estados as competências que não lhes sejam vedadas</mark> pela CF (competência remanescente). *(p. 28)*
+- **§ 2º:** cabe aos Estados explorar diretamente, ou mediante concessão, os **serviços locais de gás canalizado**, na forma da lei, <mark>vedada a edição de medida provisória</mark> para a sua regulamentação. *(p. 28)*
+- **§ 3º:** os Estados podem, **mediante lei complementar**, instituir **regiões metropolitanas, aglomerações urbanas e microrregiões**, constituídas por agrupamentos de **municípios limítrofes**, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum. *(p. 28)*
+- **Bens dos Estados (art. 26):** ver o quadro União × Estados em [[P1 - Direito Constitucional#União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)]]. *(p. 28)*
+- **Art. 27 — Assembleia Legislativa:** nº de deputados estaduais = <mark>triplo da representação do Estado na Câmara dos Deputados</mark>; atingido o número de **36**, soma-se **um para cada Deputado Federal acima de 12**. *(p. 28)*
+- **§ 1º:** mandato de **quatro anos**; aplicam-se as regras da CF sobre sistema eleitoral, inviolabilidade, imunidades, remuneração, perda de mandato, licença, impedimentos e incorporação às Forças Armadas. **§ 2º:** subsídio fixado por **lei de iniciativa da Assembleia Legislativa**, <mark>no máximo 75% do subsídio, em espécie, dos Deputados Federais</mark>. **§ 3º:** a AL dispõe sobre seu regimento interno, polícia, serviços administrativos e provimento dos cargos. **§ 4º:** a lei disporá sobre a **iniciativa popular** no processo legislativo estadual. *(p. 28–29)*
+- **Art. 28 — Governador e Vice:** mandato de **4 anos**; eleição no **1º domingo de outubro** (1º turno) e no **último domingo de outubro** (2º turno, se houver) do ano anterior ao término do mandato dos antecessores; <mark>posse em 6 de janeiro</mark> do ano subsequente; no mais, art. 77. *(p. 29)*
+- ⚠️ Nota do PDF: a **EC 111/2021** mudou a posse de 1º para **6 de janeiro**, com aplicação **só a partir das eleições de 2026**. Os eleitos em 2022 tomaram posse em 1º/1/2023 e ficam até a posse dos sucessores, em 6/1/2027. *(p. 29)*
+- **§ 1º:** <mark>perde o mandato o Governador que assumir outro cargo ou função na administração pública direta ou indireta</mark>, ressalvada a posse em virtude de **concurso público** e observado o art. 38, I, IV e V. **§ 2º:** subsídios do Governador, do Vice e dos Secretários de Estado fixados por **lei de iniciativa da Assembleia Legislativa**. *(p. 29)*
+
+> [!quote]- Texto literal: art. 27, caput e § 2º (CF/88 EC 139, p. 28)
+> Art. 27. O número de Deputados à Assembleia Legislativa corresponderá ao triplo da representação do Estado na Câmara dos Deputados e, atingido o número de trinta e seis, será acrescido de tantos quantos forem os Deputados Federais acima de doze.
+>
+> § 2º O subsídio dos Deputados Estaduais será fixado por lei de iniciativa da Assembleia Legislativa, na razão de, no máximo, setenta e cinco por cento daquele estabelecido, em espécie, para os Deputados Federais, observado o que dispõem os arts. 39, § 4º, 57, § 7º, 150, II, 153, III, e 153, § 2º, I.
+
+> [!tip]- Lupa: contar deputados estaduais (art. 27)
+> **A ideia em uma frase:** a regra do triplo vale só até 36 cadeiras. Dali em diante o crescimento é de **um por um**, para Assembleias de Estados grandes não explodirem.
+>
+> **Passo a passo:**
+> 1. Pegue o nº de deputados federais do Estado (F).
+> 2. Se F ≤ 12 → estaduais = **3 × F**. Com F = 12, você chega exatamente a 36.
+> 3. Se F > 12 → estaduais = **36 + (F − 12)**.
+> 4. *Exemplos ilustrativos (sem lastro):* F = 8 → 24. F = 12 → 36. F = 20 → 36 + 8 = 44. F = 39 → 36 + 27 = 63. F = 70 → 36 + 58 = 94.
+>
+> **O erro clássico:** triplicar tudo (70 × 3 = 210); somar a partir de 36 **todos** os federais (36 + 70); confundir o limite de 75% do subsídio (estadual sobre federal, art. 27, § 2º) com as faixas de 20% a 75% do vereador sobre o estadual (art. 29, VI).
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#- Poder Executivo (arts. 76 a 91);]]: o art. 28 remete ao **art. 77** (eleição do Presidente) para o resto das regras de eleição do Governador.
+> - [[P2 - Direito Tributário#Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)]]: o conceito de regiões metropolitanas, aglomerações urbanas e microrregiões formadas por Municípios limítrofes (art. 25, § 3º) reaparece na exceção do Simples para transporte intermunicipal.
+
+### Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
+
+- **Art. 29, caput — lei orgânica:** <mark>votada em dois turnos, com interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará</mark>, atendidos os princípios da CF e da Constituição do Estado. *(p. 29)*
+- (I) Prefeito, Vice e Vereadores: mandato de **4 anos**, pleito direto e **simultâneo em todo o País**. (II) Eleição de Prefeito e Vice no **1º domingo de outubro** do ano anterior ao término do mandato; regras do art. 77 (2º turno) nos <mark>Municípios com mais de 200 mil eleitores</mark>. (III) <mark>Posse de Prefeito e Vice em 1º de janeiro</mark> do ano subsequente ao da eleição. *(p. 29)*
+- ⚠️ A posse de Governador é em **6 de janeiro** (art. 28). A de Prefeito continua em **1º de janeiro** (art. 29, III).
+
+Número máximo de Vereadores (art. 29, IV, p. 29–30)
+
+| Habitantes | Máx. Vereadores |
+| --- | --- |
+| até 15.000 | 9 |
+| mais de 15.000 até 30.000 | 11 |
+| mais de 30.000 até 50.000 | 13 |
+| mais de 50.000 até 80.000 | 15 |
+| mais de 80.000 até 120.000 | 17 |
+| mais de 120.000 até 160.000 | 19 |
+| mais de 160.000 até 300.000 | 21 |
+| mais de 300.000 até 450.000 | 23 |
+| mais de 450.000 até 600.000 | 25 |
+| mais de 600.000 até 750.000 | 27 |
+| mais de 750.000 até 900.000 | 29 |
+| mais de 900.000 até 1.050.000 | 31 |
+| mais de 1.050.000 até 1.200.000 | 33 |
+| mais de 1.200.000 até 1.350.000 | 35 |
+| de 1.350.000 até 1.500.000 | 37 |
+| mais de 1.500.000 até 1.800.000 | 39 |
+| mais de 1.800.000 até 2.400.000 | 41 |
+| mais de 2.400.000 até 3.000.000 | 43 |
+| mais de 3.000.000 até 4.000.000 | 45 |
+| mais de 4.000.000 até 5.000.000 | 47 |
+| mais de 5.000.000 até 6.000.000 | 49 |
+| mais de 6.000.000 até 7.000.000 | 51 |
+| mais de 7.000.000 até 8.000.000 | 53 |
+| mais de 8.000.000 | 55 |
+
+- (V) Subsídios de **Prefeito, Vice e Secretários Municipais**: fixados por **lei de iniciativa da Câmara Municipal**. (VI) Subsídio dos **Vereadores**: fixado pelas Câmaras <mark>em cada legislatura para a subsequente</mark>, com os tetos do quadro abaixo. *(p. 30)*
+
+Teto do subsídio do Vereador (art. 29, VI, p. 30)
+
+| Habitantes | Teto (% do subsídio do Deputado Estadual) |
+| --- | --- |
+| até 10.000 | 20% |
+| 10.001 a 50.000 | 30% |
+| 50.001 a 100.000 | 40% |
+| 100.001 a 300.000 | 50% |
+| 300.001 a 500.000 | 60% |
+| mais de 500.000 | 75% |
+
+- (VII) O total da despesa com a remuneração dos Vereadores <mark>não pode ultrapassar 5% da receita do Município</mark>. (VIII) **Inviolabilidade** dos Vereadores por opiniões, palavras e votos <mark>no exercício do mandato e na circunscrição do Município</mark>. (IX) Proibições e incompatibilidades similares às dos congressistas e dos deputados estaduais. (X) <mark>Julgamento do Prefeito perante o Tribunal de Justiça</mark>. (XII) Cooperação das associações representativas no planejamento municipal. (XIII) **Iniciativa popular** de projetos de lei de interesse específico do Município, da cidade ou de bairros: <mark>pelo menos 5% do eleitorado</mark>. (XIV) Perda do mandato do Prefeito nos termos do art. 28, § 1º (o PDF anota: onde se lê "parágrafo único", leia-se § 1º, por força da EC 19/1998). *(p. 31)*
+- ⚠️ A inviolabilidade do Vereador tem **limite territorial** (circunscrição do Município). O inciso VIII não fala em imunidade.
+
+**Art. 29-A — teto da despesa total do Poder Legislativo municipal** (inclui subsídios dos Vereadores e gastos com inativos e pensionistas), calculado sobre o **somatório da receita tributária e das transferências do § 5º do art. 153 e dos arts. 158 e 159, efetivamente realizado no exercício anterior** *(p. 31)*:
+
+| População | Teto |
+| --- | --- |
+| até 100.000 | 7% |
+| entre 100.000 e 300.000 | 6% |
+| entre 300.001 e 500.000 | 5% |
+| entre 500.001 e 3.000.000 | 4,5% |
+| entre 3.000.001 e 8.000.000 | 4% |
+| acima de 8.000.001 | 3,5% |
+
+- **§ 1º:** a Câmara <mark>não gastará mais de 70% de sua receita com folha de pagamento</mark>, incluído o subsídio dos Vereadores.
+- **§ 2º — crime de responsabilidade do Prefeito:** (I) efetuar repasse **acima** dos limites; (II) **não enviar o repasse até o dia vinte** de cada mês; (III) enviá-lo **a menor** em relação à proporção da Lei Orçamentária.
+- **§ 3º — crime de responsabilidade do Presidente da Câmara:** desrespeitar o § 1º (os 70% com folha). *(p. 31)*
+
+> [!tip]- Lupa: 29-A, quem responde pelo quê
+> **A ideia em uma frase:** o 29-A tem dois tetos com dois responsáveis diferentes. Quem **repassa** o dinheiro (Prefeito) responde pelo repasse. Quem **gasta** (Presidente da Câmara) responde pela folha.
+>
+> **Passo a passo:**
+> 1. Teto 1, despesa total do Legislativo: % da receita-base do caput, por faixa de população. Violação no **repasse** (acima do limite, depois do dia 20 ou a menor) → **Prefeito** (§ 2º).
+> 2. Teto 2, folha da Câmara: 70% da **receita da própria Câmara** (§ 1º). Violação → **Presidente da Câmara** (§ 3º).
+> 3. *Exemplo ilustrativo (sem lastro):* Município de 250 mil habitantes, receita-base de R$ 100 mi → teto de 6%, R$ 6 mi para a Câmara. Dentro disso, no máximo 70%, R$ 4,2 mi, com folha. Se o Prefeito repassa R$ 7 mi, o crime é dele; se a Câmara gasta R$ 5 mi com folha, o crime é do Presidente da Câmara.
+>
+> **O erro clássico:** atribuir ao Prefeito o estouro dos 70% (é do Presidente da Câmara); trocar "até o dia vinte" por outro dia; aplicar os 70% sobre a receita do Município (é sobre a receita da Câmara); confundir os 5% do art. 29, VII (remuneração dos Vereadores sobre a receita do Município) com os percentuais do 29-A.
+
+**Competências dos Municípios (art. 30)** *(p. 31–32)*
+- (I) <mark>legislar sobre assuntos de interesse local</mark>; (II) <mark>suplementar a legislação federal e a estadual no que couber</mark>; (III) instituir e arrecadar seus tributos e aplicar suas rendas, com obrigação de prestar contas e publicar balancetes; (IV) criar, organizar e suprimir **distritos**, observada a legislação estadual; (V) organizar e prestar, diretamente ou sob concessão ou permissão, os serviços públicos de interesse local, incluído o <mark>transporte coletivo, que tem caráter essencial</mark>.
+- (VI) programas de **educação infantil e ensino fundamental** e (VII) atendimento à **saúde**, ambos **com a cooperação técnica e financeira da União e do Estado**; (VIII) ordenamento territorial, mediante planejamento e controle do uso, parcelamento e ocupação do solo urbano; (IX) proteção do patrimônio histórico-cultural local, observada a legislação e a ação fiscalizadora federal e estadual.
+
+**Fiscalização do Município (art. 31)** *(p. 32)*
+- **Caput:** <mark>controle externo pelo Poder Legislativo Municipal</mark> e controle interno pelos sistemas do Executivo Municipal, na forma da lei.
+- **§ 1º:** o controle externo da Câmara conta com o auxílio dos **Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver**, <mark>vedada sua extinção, criação ou instalação</mark>.
+- **§ 2º:** o **parecer prévio** sobre as contas anuais do Prefeito <mark>só deixa de prevalecer por decisão de dois terços dos membros da Câmara Municipal</mark>.
+- **§ 3º:** as contas ficam, **durante 60 dias**, anualmente, à disposição de **qualquer contribuinte**, que pode questionar-lhes a legitimidade, nos termos da lei.
+- **§ 4º:** <mark>é vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais</mark>.
+
+> [!quote]- Texto literal: art. 31, §§ 1º, 2º e 4º (CF/88 EC 139, p. 32)
+> § 1º O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver, vedada sua extinção, criação ou instalação.
+>
+> § 2º O parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal.
+>
+> § 4º É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais.
+
+> [!tip]- Lupa: art. 31, quem julga e o que está congelado
+> **A ideia em uma frase:** quem julga as contas do Prefeito é a **Câmara**. O tribunal de contas só **auxilia** com parecer prévio, e o mapa desses órgãos ficou congelado: os que existem ("onde houver") ficam, e novos não podem surgir.
+>
+> **Passo a passo:**
+> 1. O Prefeito presta contas anuais → o órgão de contas competente emite **parecer prévio**.
+> 2. A Câmara julga. O parecer **prevalece**, a menos que **2/3 dos membros** votem contra ele.
+> 3. Paralelamente, as contas ficam **60 dias** abertas a **qualquer contribuinte** (§ 3º).
+> 4. O órgão de contas que auxilia a Câmara é o que já existe (§ 1º, "onde houver"): a CF veda extingui-lo, criá-lo ou instalá-lo (§ 1º) e veda criar novos órgãos municipais de contas (§ 4º).
+> 5. *Exemplo ilustrativo (sem lastro):* Câmara de 15 vereadores. Para derrubar o parecer prévio, são precisos 10 votos. Com 9 votos contra o parecer, ele prevalece.
+>
+> **O erro clássico:** "o Tribunal de Contas julga as contas do Prefeito" (emite parecer; quem julga é a Câmara); "maioria absoluta derruba o parecer" (são 2/3); "o Município pode criar seu Tribunal de Contas" (§ 4º veda); "as contas ficam 30 dias à disposição apenas dos eleitores" (são **60 dias**, para **qualquer contribuinte**).
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Estados Federados - Organização, Competências, Bens (arts. 25 a 28 da CF/1988)]]: posse de Governador em 6/jan × de Prefeito em 1º/jan; teto de 75% do deputado estadual sobre o federal × faixas de 20–75% do vereador sobre o estadual.
+> - [[P1 - Direito Constitucional#União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)]]: o Município está no art. 23 (comum), fora do art. 24 (concorrente), e suplementa pelo art. 30, II.
+> - [[P1 - Direito Constitucional#Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75 da CF/1988)]]: o art. 31 é a versão municipal do controle externo com auxílio de tribunal de contas.
+> - [[P2 - Reforma Tributária#ADCT: distribuição do IBS de 2029 a 2077 (arts. 131 e 132)]]: os recursos do IBS distribuídos nesse período compõem a base de cálculo do art. 29-A.
 ## - Intervenção Federal e Estadual (arts. 34 a 36 da CF/1988);
 - [ ] status [dom:: 0] [peso:: 2]
 Resumo tec:
@@ -985,12 +1259,92 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/404?indice=1&materia=1951)
 
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)]]: o art. 31 (auxílio dos tribunais de contas à Câmara, parecer prévio que só cai por 2/3 e vedação de criar órgão municipal de contas) está no heading de Municípios.
+
 ## - Poder Executivo (arts. 76 a 91);
 - [ ] status [dom:: 0] [peso:: 2]
 - #jurisprudencia 
 - STF, ADI 4728/DF: <mark style="background:rgba(240, 167, 216, 0.55)">ofende os arts. 2º e 84, II, CF, norma de legislação estadual que estabelece prazo para o chefe do Poder Executivo apresentar a regulamentação de disposições legais</mark> — viola a separação dos poderes e a competência privativa do Executivo para regulamentar e administrar. O chefe do Executivo tem discricionariedade quanto ao momento oportuno para editar regulamentos.
 ## - Poder Judiciário (arts. 92 a 126);
 - [ ] status [dom:: 0] [peso:: 2]
+
+### Dos Precatórios (art. 100 da CF/1988)
+- [ ] status [dom:: 0] [peso:: 2]
+
+**Regime e preferências (caput e §§ 1º a 8º)** *(CF/88 EC 139, p. 62)*
+- **Caput:** os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais em virtude de sentença judiciária seguem <mark>exclusivamente a ordem cronológica de apresentação dos precatórios</mark>, à conta dos créditos respectivos, <mark>proibida a designação de casos ou de pessoas</mark> nas dotações orçamentárias e nos créditos adicionais.
+- **§ 1º — alimentares:** compreendem os débitos decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive a repetição de indébito sobre remuneração ou proventos de aposentadoria, e as indenizações por morte ou invalidez fundadas em responsabilidade civil, em virtude de sentença transitada em julgado. São pagos <mark>com preferência sobre todos os demais débitos, exceto os do § 2º</mark>.
+- **§ 2º — superpreferência:** débitos alimentares cujos titulares, originários ou por sucessão hereditária, tenham **60 anos**, sejam **portadores de doença grave** ou **pessoas com deficiência** (na forma da lei), pagos com preferência sobre todos os demais, <mark>até o triplo do valor fixado para a RPV (§ 3º), admitido o fracionamento</mark>. O restante segue a ordem cronológica.
+- **§ 3º — RPV:** o regime de precatórios não se aplica às **obrigações definidas em lei como de pequeno valor** decorrentes de sentença transitada em julgado. **§ 4º:** leis próprias podem fixar valores distintos por ente, segundo a capacidade econômica, sendo <mark>o mínimo igual ao valor do maior benefício do RGPS</mark>.
+- **§ 5º:** é obrigatória a inclusão no orçamento da verba para os precatórios <mark>apresentados até 1º de fevereiro</mark>, com <mark>pagamento até o final do exercício seguinte</mark> e valores atualizados monetariamente.
+- **§ 6º:** as dotações são consignadas ao **Poder Judiciário**. O **Presidente do Tribunal que proferiu a decisão exequenda** determina o pagamento integral e autoriza, a requerimento do credor, o **sequestro** da quantia, <mark>exclusivamente</mark> em caso de preterimento do direito de precedência ou de não alocação orçamentária do valor.
+- **§ 7º:** o Presidente do Tribunal que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatórios comete **crime de responsabilidade** e responde também perante o **CNJ**.
+- **§ 8º:** <mark>vedados os precatórios complementares ou suplementares de valor pago</mark> e o fracionamento, repartição ou quebra do valor da execução para enquadrar parte dele como RPV.
+- ⚠️ Fracionar é **admitido** para pagar a superpreferência (§ 2º) e **vedado** para transformar parte da execução em RPV (§ 8º).
+
+> [!quote]- Texto literal: art. 100, §§ 1º, 2º e 5º (CF/88 EC 139, p. 62)
+> § 1º Os débitos de natureza alimentícia compreendem aqueles decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive os oriundos de repetição de indébito incidente sobre remuneração ou proventos de aposentadoria, bem como indenizações por morte ou por invalidez, fundadas em responsabilidade civil, em virtude de sentença judicial transitada em julgado, e serão pagos com preferência sobre todos os demais débitos, exceto sobre aqueles referidos no § 2º deste artigo.
+>
+> § 2º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão hereditária, tenham 60 (sessenta) anos de idade, ou sejam portadores de doença grave, ou pessoas com deficiência, assim definidos na forma da lei, serão pagos com preferência sobre todos os demais débitos, até o valor equivalente ao triplo fixado em lei para os fins do disposto no § 3º deste artigo, admitido o fracionamento para essa finalidade, sendo que o restante será pago na ordem cronológica de apresentação do precatório.
+>
+> § 5º É obrigatória a inclusão no orçamento das entidades de direito público de verba necessária ao pagamento de seus débitos oriundos de sentenças transitadas em julgado constantes de precatórios judiciários apresentados até 1º de fevereiro, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente.
+
+> [!tip]- Lupa: a fila dos precatórios
+> **A ideia em uma frase:** a Fazenda condenada paga numa fila **cronológica e impessoal** (ninguém fura escolhendo nome). A própria CF abre um desvio, a RPV, e duas faixas preferenciais para o crédito alimentar.
+>
+> **Passo a passo:**
+> 1. O valor cabe na **RPV** do ente (fixada em lei, nunca abaixo do maior benefício do RGPS)? → paga **sem precatório** (§§ 3º e 4º).
+> 2. Não cabe → vira precatório. Se foi apresentado até **1º de fevereiro**, entra no orçamento seguinte e deve ser pago até o **fim do exercício seguinte** (§ 5º).
+> 3. Ordem de pagamento:
+>    - **1º lugar — superpreferência (§ 2º):** crédito **alimentar** + titular com 60 anos, doença grave ou deficiência, **até 3× a RPV**. Aqui pode fracionar.
+>    - **2º lugar — alimentares (§ 1º):** demais créditos alimentares. A sobra do § 2º, pelo texto, "será paga na ordem cronológica de apresentação do precatório".
+>    - **3º lugar — comuns:** ordem cronológica pura (caput).
+> 4. Credor preterido, ou valor não alocado no orçamento → pede ao **Presidente do Tribunal** o **sequestro** (§ 6º).
+> 5. *Exemplo ilustrativo (sem lastro):* RPV municipal fixada em R$ 10 mil. Credora de 65 anos com precatório alimentar de R$ 50 mil: R$ 30 mil (3 × 10 mil) saem na superpreferência e os R$ 20 mil restantes seguem a ordem cronológica. Se ela ceder o crédito a um fundo, o cessionário **não** leva a superpreferência nem a RPV (§ 13).
+>
+> **O erro clássico:** dizer que o alimentar "não se submete a precatório" (submete-se, só tem preferência); dar a superpreferência sem limite (é até 3× a RPV); dizer que o cessionário herda a preferência (o § 13 afasta os §§ 2º e 3º); trocar a data de corte de **1º de fevereiro**; dizer que o sequestro cabe por qualquer atraso (é **só** por preterição ou não alocação orçamentária).
+
+**Compensação, créditos, atualização e cessão (§§ 9º a 14)** *(p. 62–63)*
+- **§ 9º:** sem interrupção no pagamento e mediante comunicação da Fazenda ao Tribunal, o valor dos débitos **inscritos em dívida ativa** contra o credor é depositado à conta do juízo da ação de cobrança, que decide o destino definitivo. **§ 10:** antes da expedição, o Tribunal pede à Fazenda devedora, para resposta **em até 30 dias**, sob pena de **perda do direito de abatimento**, a informação sobre esses débitos.
+- **§ 11:** é facultado ao credor, conforme lei do ente devedor e <mark>com autoaplicabilidade para a União</mark>, ofertar créditos líquidos e certos (próprios ou adquiridos de terceiros) para: (I) quitar débitos parcelados ou inscritos em dívida ativa do ente, inclusive em transação resolutiva de litígio, e, subsidiariamente, débitos com sua administração autárquica e fundacional; (II) comprar imóveis públicos do ente disponibilizados para venda; (III) pagar outorga de delegações de serviços públicos e demais concessões negociais; (IV) adquirir participação societária disponibilizada para venda, inclusive minoritária; (V) comprar direitos disponibilizados para cessão, inclusive, no caso da União, a antecipação de valores do excedente em óleo nos contratos de partilha de petróleo.
+- **§ 12:** a atualização dos requisitórios, após a expedição e até o pagamento, segue o **índice oficial de remuneração básica da caderneta de poupança**, com juros simples no mesmo percentual da poupança, excluídos os juros compensatórios.
+- **§ 13:** o credor pode ceder o crédito, total ou parcialmente, <mark>independentemente da concordância do devedor</mark>, <mark>não se aplicando ao cessionário os §§ 2º e 3º</mark>. **§ 14:** a cessão só produz efeitos após **comunicação, por petição protocolizada, ao Tribunal de origem e ao ente devedor**.
+
+> [!warning]- Pendência: notas do PDF sobre os §§ 10 e 12
+> O PDF marca os §§ 10 e 12 com a nota "ver ADIs nºs 4.357 e 4.425", sem dizer o que o STF decidiu. O resultado dessas ADIs não está no lastro e não foi completado aqui. No § 12, o PDF também anota que "a partir da promulgação desta Emenda" se lê "da EC nº 62, de 2009" (p. 63).
+
+**Limites, financiamento e sanções (§§ 15 a 30)** *(p. 63–66)*
+- **§ 15:** lei complementar pode criar **regime especial** de precatórios para Estados, DF e Municípios (vinculação à RCL, forma e prazo). **§ 16:** a União pode, a seu critério exclusivo e na forma de lei, **assumir e refinanciar** precatórios de Estados, DF e Municípios.
+- **§ 17:** todos os entes aferem **mensalmente, em base anual**, o comprometimento da RCL com precatórios e RPV. **§ 18:** a RCL para esse fim é o somatório das receitas correntes (inclusive as do art. 20, § 1º), apurado no segundo mês anterior ao de referência e nos 11 meses precedentes, deduzidos: na União, os repasses constitucionais a Estados, DF e Municípios; nos Estados, os repasses constitucionais aos Municípios; em todos, a contribuição dos servidores para a previdência e a compensação financeira do art. 201, § 9º.
+- **§ 19:** se precatórios + RPV em 12 meses superarem a **média de comprometimento da RCL dos 5 anos anteriores**, o excesso pode ser **financiado** fora dos limites de endividamento (art. 52, VI e VII) e sem a vedação de vinculação de receita do art. 167, IV. **§ 19-A:** a União fica autorizada a instituir **linha de crédito especial**, por instituições financeiras estatais federais, exclusivamente para esses precatórios, nos termos de LC.
+- **§ 20:** precatório com valor <mark>superior a 15% do montante dos precatórios apresentados (§ 5º)</mark> → **15% até o final do exercício seguinte** e o restante **em parcelas iguais nos cinco exercícios subsequentes**, com juros de mora e correção; **ou** acordo direto perante Juízos Auxiliares de Conciliação de Precatórios, com <mark>redução máxima de 40%</mark> do crédito atualizado, desde que não penda recurso ou defesa judicial.
+- **§ 21:** União e demais entes, se ambas as partes aceitarem, podem usar valores de sentenças devidos **a pessoa jurídica de direito público** para amortizar dívidas vencidas ou vincendas: (I) contratos de refinanciamento cujos créditos sejam do ente devedor na sentença; (II) contratos com garantia prestada a outro ente; (III) parcelamentos de tributos ou contribuições sociais; (IV) obrigações por descumprimento de prestação de contas ou desvio de recursos. **§ 22:** nas vencidas, a amortização começa pelas **parcelas mais antigas**; nas vincendas, **reduz uniformemente** cada parcela, mantida a duração original.
+
+Teto anual de pagamento de precatórios por Estados, DF e Municípios (administração direta e indireta), art. 100, § 23 (p. 64–65)
+
+| Estoque em mora em 1º/jan (atualizado, com juros), relativo à RCL | Teto (% da RCL do exercício anterior) |
+| --- | --- |
+| sem estoque, ou até 15% | 1% |
+| mais de 15% até 25% | 1,5% |
+| mais de 25% até 35% | 2% |
+| mais de 35% até 45% | 2,5% |
+| mais de 45% até 55% | 3% |
+| mais de 55% até 65% | 3,5% |
+| mais de 65% até 75% | 4% |
+| mais de 75% até 85% | 4,5% |
+| mais de 85% | 5% |
+
+- **§ 24:** os limites do § 23 sobem **0,5 ponto percentual**, fixos por decênio, <mark>a partir de 1º de janeiro de 2036</mark> e a cada 10 anos, **se houver estoque de precatórios em mora**. **§ 25:** toda medida efetiva de redução de estoque conta para o plano anual de pagamento. **§ 26:** pagamentos feitos pelos §§ 11 e 21 **não entram** nos limites do § 23. **§ 28:** com dotação orçamentária específica, o ente **pode pagar acima** dos limites do § 23. *(p. 65–66)*
+- **§ 27 — recursos não liberados a tempo** (todo ou parte): (I) os limites do § 23 **ficam suspensos**; (II) o **Presidente do TJ local** determina o **sequestro**, até o valor devido, das contas do ente inadimplente; (III) o Governador ou o Prefeito responde pela **legislação de responsabilidade fiscal e de improbidade administrativa**; (IV) o ente fica **impedido de receber transferências voluntárias** enquanto durar a omissão. *(p. 65–66)*
+- **§ 29:** o credor de Estado, DF ou Município não pago por causa dos §§ 20 ou 23 pode optar por **acordo direto** perante Juízos Auxiliares de Conciliação, em **parcela única até o final do exercício seguinte**, **com renúncia de parcela** do crédito. **§ 30:** valores aportados às contas especiais do Judiciário são **imediatamente excluídos do estoque**, vedados juros, correção ou acréscimos sobre eles após a transferência. *(p. 66)*
+- ⚠️ Há **dois sequestros**: o do § 6º (Presidente do Tribunal que proferiu a decisão, por preterição ou não alocação) e o do § 27, II (Presidente do TJ local, sobre as contas do ente que não liberou os recursos).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Precatórios]]: heading do Direito Financeiro que as pontes da LRF já apontam; o lastro do art. 100 está aqui.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: pela LRF (art. 30, § 7º), o precatório não pago no exercício em que foi incluído integra a dívida consolidada, o que é o lado orçamentário do § 5º.
+> - [[P1 - Direito Administrativo#- Responsabilidade Civil do Estado.]]: a indenização do art. 37, § 6º, é paga pelo regime do art. 100, e a reserva do possível não afasta o dever (STJ, já na nota). É também um dos alimentares do § 1º (morte ou invalidez).
+> - [[P2 - Direito Tributário#Extinção do Crédito tributário]]: Súm. 461 STJ, o contribuinte escolhe entre precatório e compensação para o indébito reconhecido em sentença. O § 1º inclui a repetição de indébito sobre remuneração ou proventos entre os alimentares.
 ## - Funções Essenciais à Justiça (arts. 127 a 135);
 ### -  Ministério Público (arts. 127 a 130 da CF/1988)
         

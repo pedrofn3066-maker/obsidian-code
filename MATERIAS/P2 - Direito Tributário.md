@@ -69,7 +69,7 @@ De qualquer forma, não é matéria separada de LTE: é a mesma matéria em outr
 
 # Bloco A:  
 ## Conceito de Tributo;   
-- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-22
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5886?indice=1&materia=3680)
 
 **O poder público tem o dever de lançar e cobrar o tributo devido, não há análise de conveniência e de oportunidade, não há discricionariedade.**

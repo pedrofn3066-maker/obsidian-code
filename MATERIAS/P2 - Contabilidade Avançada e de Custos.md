@@ -771,7 +771,7 @@ Prazos fiscais, aplicáveis **só quando a questão omitir a vida útil contábi
 ## - Fornecedores;
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Empréstimos; 
-- [ ] status [dom:: 4] [peso:: 3]
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-21
 
 **1) Valor de Captação Líquido (VCL)**
 = Vlr. Empréstimo - Custo de Transação  

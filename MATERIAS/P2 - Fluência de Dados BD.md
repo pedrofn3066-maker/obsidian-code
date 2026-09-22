@@ -243,19 +243,19 @@ Portanto, a afirmação de que uma zona de disponibilidade é composta por um co
 # Bloco D:
 
 ## - Big Data
-- [ ] status [dom:: 4] [peso:: 3]
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-21
 
 Conjunto de dados que supera a capacidade de processamento dos sistemas convencionais, com alta variedade (estruturados e não estruturados) e que exige escalabilidade horizontal.
 
 **Os 5 V's:**
 
-| V | O que mede |
-| --- | --- |
-| **Volume** | quantidade de dados gerados |
-| **Velocidade** | ritmo de geração e necessidade de processamento |
-| **Variedade** | estruturados, semiestruturados, não estruturados |
+| V              | O que mede                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Volume**     | quantidade de dados gerados                                                                                          |
+| **Velocidade** | ritmo de geração e necessidade de processamento                                                                      |
+| **Variedade**  | estruturados, semiestruturados, não estruturados                                                                     |
 | **Veracidade** | qualidade e confiabilidade — grande volume aumenta o risco de dados imprecisos, incompletos ou de fonte questionável |
-| **Valor** | capacidade de extrair conhecimento e benefício da análise — é o objetivo final |
+| **Valor**      | capacidade de extrair conhecimento e benefício da análise — é o objetivo final                                       |
 
 <mark style="background:#fff88f">Distinguir de conceitos vizinhos que a banca gosta de confundir:</mark>
 

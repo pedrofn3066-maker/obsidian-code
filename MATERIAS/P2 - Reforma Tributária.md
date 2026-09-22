@@ -528,7 +528,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Fornecimento não oneroso e partes relacionadas (art. 5º)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-22
 
 > O inciso II (**brindes e bonificações**) e o §1º já estão acima, no texto colado do BLOCO 2. Aqui, o restante.
 
@@ -558,7 +558,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Imunidades (arts. 8º e 9º)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
 
 - **Art. 8º:** são imunes as **exportações** de bens e de serviços (Capítulo V do Título). *(Resumo LC 214 Tít. I, p. 17)*
 - **Art. 9º — fornecimentos imunes:** (I) realizados pela União, Estados, DF e Municípios; (II) por entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (III) por partidos políticos (com institutos e fundações), entidades sindicais dos trabalhadores e instituições de educação e de assistência social sem fins lucrativos; (IV) de **livros, jornais, periódicos e do papel** destinado à impressão; (V) de **fonogramas e videofonogramas musicais** produzidos no Brasil com obras de autores brasileiros e/ou interpretadas por artistas brasileiros, e seus suportes, **salvo na etapa de replicação industrial** de mídias ópticas de leitura a laser; (VI) de serviço de **comunicação de radiodifusão** sonora e de sons e imagens de recepção livre e gratuita; (VII) de **ouro**, quando definido em lei como ativo financeiro ou instrumento cambial. *(Resumo LC 214 Tít. I, p. 17–18)*
@@ -568,7 +568,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Momento de ocorrência do fato gerador (art. 10)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
 
 - **Regra (IMPORTANTE):** o fato gerador ocorre no momento do **fornecimento**, ainda que de execução continuada ou fracionada. *(Resumo LC 214 Tít. I, p. 19)*
 - **§1º — considera-se ocorrido o fornecimento** no momento: (I) do **início do transporte**, no serviço de transporte iniciado no País; (II) do **término do transporte**, no transporte de carga iniciado no exterior; (III) do **término do fornecimento**, nos demais serviços; (IV) em que o bem for **encontrado** desacobertado de documentação fiscal idônea; (V) da **aquisição do bem** em licitação pública de bem apreendido ou abandonado ou em leilão judicial. *(Resumo LC 214 Tít. I, p. 19)*
@@ -578,7 +578,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Local da operação (art. 11)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
 
 > O §3º (domicílio principal) já está no texto colado acima. Aqui, os incisos e os demais parágrafos.
 
@@ -602,7 +602,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Base de cálculo: complementos (arts. 12 e 13)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
 
 > A regra geral (art. 12, caput), parte do §1º, o §2º, IV e o parágrafo único do art. 13 já estão no texto colado acima. Aqui, o restante.
 
@@ -1514,7 +1514,7 @@ Art. 42. O CGIBS elaborará, ao final de cada quadrimestre, o relatório de gest
 
 
 ## Processo administrativo tributário do IBS (LC 227/26)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
 
 *Fonte: captura de questão (ISS Guarulhos, Q122, 20/09/2026) e caderno de Reforma de 21/09/2026 (Inéditas AFRFB e FCC SEFAZ CE).*
 
@@ -1528,7 +1528,7 @@ LC nº 227/2026, Título II (Do Processo Administrativo Tributário do IBS), art
 
 Art. 57 O processo administrativo tributário terá sua formação, sua tramitação e seu julgamento realizados mediante utilização de <mark>sistema eletrônico</mark>.
 Parágrafo único. Competem ao <mark>CGIBS</mark> a implementação e a gestão do sistema eletrônico referido no caput deste artigo, que será utilizado pelas administrações tributárias dos Estados, do Distrito Federal e dos Municípios.
-Art. 58 Os documentos transmitidos por meio eletrônico, com garantia de autoria, de autenticidade e de integridade, na forma estabelecida na legislação, serão considerados <mark>originais para todos os efeitos legais</mark>.
+Art. 58 Os documentos transmitidos por meio eletrônico,<mark style="background:#fff88f"> com garantia de autoria, de autenticidade e de integridade,</mark> na forma estabelecida na legislação, serão considerados <mark>originais para todos os efeitos legais</mark>.
 Art. 60 São assegurados às partes o devido processo legal, o contraditório e a ampla defesa, <mark>aduzida por escrito</mark>, permitida a <mark>sustentação oral nas sessões de julgamento</mark>, e acompanhada de todas as provas que tiver, desde que produzidas na forma e nos prazos legais.
 Art. 61 A errônea denominação dada à defesa ou ao recurso <mark>não prejudicará a parte interessada</mark>, desde que observados os prazos e os demais requisitos previstos neste Título.
 Art. 62 Na contagem dos prazos processuais previstos neste Título, serão considerados <mark>somente os dias úteis</mark>, excluído o dia do começo e incluído o dia do vencimento, exceto se houver expressa disposição em contrário nesta Lei Complementar ou na Lei Complementar nº 214, de 16 de janeiro de 2025.
@@ -1556,7 +1556,7 @@ III - as decisões transitadas em julgado proferidas pelo Supremo Tribunal Feder
 IV - as decisões transitadas em julgado do Supremo Tribunal Federal ou do Superior Tribunal de Justiça proferidas na sistemática da repercussão geral ou dos recursos repetitivos, na forma do inciso III, in fine, do art. 927 e dos arts. 928 e 1.036 a 1.041 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil);
 V - as súmulas editadas pelo CGIBS, nos termos do § 1º do art. 81 desta Lei Complementar; e
 VI - as decisões da Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS de que trata o art. 323-G da Lei Complementar nº 214, de 16 de janeiro de 2025.
-Parágrafo único. Ressalvado o disposto neste artigo, é vedado às autoridades julgadoras, no âmbito do processo administrativo tributário, afastar a aplicação ou deixar de observar a legislação tributária sob o fundamento de inconstitucionalidade ou ilegalidade.
+Parágrafo único. <mark style="background:rgba(18, 123, 223, 0.55)">Ressalvado o disposto neste artigo, é vedado às autoridades julgadoras, no âmbito do processo administrativo tributário, afastar a aplicação ou deixar de observar a legislação tributária sob o fundamento de inconstitucionalidade ou ilegalidade.</mark>
 
 ⚠️ Pegadinha de banca: controle difuso só vincula o PAT com <mark>trânsito em julgado e resolução do Senado</mark> (inciso III). Mesmo que o STF já trate a decisão difusa como erga omnes (abstrativização), a LC 227 exige a resolução: responder pela letra da lei.
 

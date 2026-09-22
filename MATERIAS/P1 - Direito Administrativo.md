@@ -191,7 +191,7 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
     
 ⚠️ _Os órgãos do Poder Judiciário e do Ministério Público informarão ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, respectivamente, as decisões que, em grau de recurso, negarem acesso a informações de interesse público._
 ## - Tratamento de dados pessoais pelo Poder Público: Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).
-- [ ] status [dom:: 3] [peso:: 2]
+- [x] status [dom:: 3] [peso:: 2] ✅ 2026-09-22
 
 **Alcance (art. 1º):** aplica-se ao tratamento de dados por pessoa natural ou jurídica, de direito público ou privado, inclusive nos meios digitais. Parágrafo único (EC 115/2022 + Lei nº 13.853): as normas gerais são de interesse nacional e devem ser observadas pela União, Estados, DF e Municípios.
 
@@ -270,7 +270,7 @@ O quadro da fonte traz o mnemônico <mark style="background:#fff88f">"FANTA e SP
 > - [[P1 - Direito Constitucional#-Habeas Data]]: o art. 5º, LXXIX, é do mesmo art. 5º da CF em que a nota de Constitucional trata o habeas data.
 
 ## LGPD — Requisitos do tratamento (arts. 7º a 16)
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 3] [peso:: 2] ✅ 2026-09-22
 
 **Hipóteses de tratamento (art. 7º)** — rol de **dez** hipóteses. (LGPD, p. 11)
 
@@ -398,7 +398,7 @@ O quadro da fonte traz o mnemônico <mark style="background:#fff88f">"FANTA e SP
 > - [[P1 - Direito Administrativo#- Empresas estatais: normas constitucionais, Lei nº 13.303/2016 e Decreto nº 8.945/2016.]]: o art. 24 aplica o critério do **art. 173 da CF** (atuação em regime de concorrência) a empresas públicas e sociedades de economia mista.
 
 ## LGPD — Transferência internacional (arts. 33 a 36)
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2]
 
 - **Art. 33:** a transferência internacional de dados pessoais **somente** é permitida nos casos abaixo. (LGPD, p. 24-25)
 
@@ -422,18 +422,19 @@ O quadro da fonte traz o mnemônico <mark style="background:#fff88f">"FANTA e SP
 - **Art. 35:** a **ANPD** define o conteúdo das **cláusulas-padrão** e verifica as cláusulas específicas, as normas corporativas globais e os selos, certificados e códigos de conduta. Pode designar **organismos de certificação**, que permanecem sob sua fiscalização (§ 3º), e rever ou anular os atos em desconformidade (§ 4º). **Art. 36:** as alterações nas garantias apresentadas devem ser **comunicadas à ANPD**. (LGPD, p. 26-27)
 
 ## LGPD — Agentes de tratamento e responsabilidade (arts. 37 a 45)
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 0] [peso:: 2] ✅ 2026-09-22
 
 **Controlador e operador (arts. 37 a 40)** (LGPD, p. 27):
 - **Art. 37:** controlador e operador **mantêm registro** das operações de tratamento, especialmente quando baseado no **legítimo interesse**.
 - **Art. 38:** a ANPD pode determinar ao controlador o **RIPD**, inclusive de dados sensíveis, observados os segredos comercial e industrial. O relatório contém, **no mínimo**: descrição dos tipos de dados coletados; metodologia da coleta e da garantia de segurança; análise do controlador sobre medidas, salvaguardas e mecanismos de mitigação de risco.
-- **Art. 39:** o **operador** trata segundo as **instruções do controlador**, que verifica a observância. **Art. 40:** a ANPD pode dispor sobre padrões de **interoperabilidade** (portabilidade, livre acesso, segurança) e sobre o **tempo de guarda dos registros**.
+- **Art. 39:** o **operador** trata segundo as **instruções do controlador**, que verifica a observância. 
+- **Art. 40:** a ANPD pode dispor sobre padrões de **interoperabilidade** (portabilidade, livre acesso, segurança) e sobre o **tempo de guarda dos registros**.
 
 **Encarregado (art. 41)** (LGPD, p. 28): o controlador **deverá indicar** encarregado. A identidade e o contato são divulgados publicamente, de forma clara e objetiva, **preferencialmente no sítio eletrônico** do controlador (§ 1º). Atividades (§ 2º): aceitar reclamações e comunicações dos titulares e adotar providências; receber comunicações da ANPD; **orientar funcionários e contratados** sobre as práticas; executar as demais atribuições do controlador ou de normas complementares. A ANPD pode estabelecer normas complementares, inclusive hipóteses de **dispensa** da indicação, conforme a natureza e o porte da entidade ou o volume de operações (§ 3º). ⚠️ A seção do encarregado está no capítulo dos agentes de tratamento, mas o **encarregado não é agente** (art. 5º, IX; observação da fonte, p. 28).
 
 **Responsabilidade e ressarcimento (arts. 42 a 45)** (LGPD, p. 28-29):
 - **Art. 42:** o controlador ou operador que, por atividade de tratamento, causar dano **patrimonial, moral, individual ou coletivo**, em violação à legislação de proteção de dados, **deve repará-lo**.
-- **§ 1º, I:** o **operador** responde **solidariamente** quando **descumprir** as obrigações da legislação ou **não seguir as instruções lícitas** do controlador (equipara-se ao controlador), salvo exclusão do art. 43. **§ 1º, II:** os **controladores diretamente envolvidos** no tratamento que causou o dano respondem **solidariamente**, salvo exclusão do art. 43.
+- **§ 1º, I:** o **operador** responde **solidariamente** quando **descumprir** as obrigações da legislação ou **não seguir as instruções lícitas** do controlador <mark style="background:rgba(5, 117, 197, 0.2)">(equipara-se ao controlador)</mark>, salvo exclusão do art. 43. **§ 1º, II:** os **controladores diretamente envolvidos** no tratamento que causou o dano respondem **solidariamente**, salvo exclusão do art. 43.
 - **§ 2º:** o juiz, no processo civil, **pode inverter o ônus da prova** a favor do titular quando a alegação for **verossímil**, houver **hipossuficiência** para a prova ou a prova for **excessivamente onerosa**. **§ 3º:** ações coletivas de reparação. **§ 4º:** quem repara tem **direito de regresso** contra os demais, na medida da participação no evento danoso.
 - **Art. 43 (excludentes):** os agentes só não respondem quando **provarem**: (I) que **não realizaram** o tratamento atribuído; (II) que, embora tenham realizado, **não houve violação** à legislação; (III) que o dano decorre de **culpa exclusiva do titular ou de terceiro**.
 - **Art. 44:** o tratamento é **irregular** quando deixa de observar a legislação ou não fornece a **segurança que o titular pode esperar**, considerados o modo de realização, o resultado e os riscos razoavelmente esperados e as técnicas disponíveis à época. **Parágrafo único:** responde pelos danos da violação da segurança quem, ao deixar de adotar as medidas do **art. 46**, der causa ao dano. **Art. 45:** violações do direito do titular em **relações de consumo** permanecem sujeitas à legislação de consumo.
