@@ -13,5 +13,6 @@ Dúvidas respondidas, por matéria:
 - [[ERRO DIREITO ADMINISTRATIVO#💭 Dúvidas respondidas|Direito Administrativo (LGPD)]]
 - [[ERRO P2 - Fluência de Dados CD#💭 Dúvidas respondidas|Fluência de Dados CD]]
 - [[ERRO AUDITORIA#💭 Dúvidas respondidas|Auditoria]]
+- [[ERRO CONTABILIDADE AVANÇADA#💭 Dúvidas respondidas|Contabilidade Avançada]]
 
 ## Dúvida

@@ -774,11 +774,11 @@ Prazos fiscais, aplicáveis **só quando a questão omitir a vida útil contábi
 - [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-21
 
 **1) Valor de Captação Líquido (VCL)**
-= Vlr. Empréstimo - Custo de Transação  
+= <mark style="background:#fff88f">Vlr. Empréstimo - Custo de Transação</mark>  
 = 10.000.000 − 571.927**  
 = 9.428.073,00**
 **2) Encargos Financeiros do Período**
-= VCL x Taxa Efetiva  
+= <mark style="background:#fff88f">VCL x Taxa Efetiva</mark>  
 = 9.428.073 x 1%**  
 = 94.280,73**
 **3) Saldo Líquido do Empréstimo no BP**
