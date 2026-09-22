@@ -230,7 +230,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > [!question]- 21/09 16:59 · Reforma Tributária · FCC (AFFE SEFAZ CE 2026, #4122716) — Regras gerais do PAT do IBS
 > A LC 227, de 13/01/2026, trata da administração e da gestão do IBS. Segundo ela, no processo administrativo tributário do IBS:
 >
-> (A) os documentos serão arquivados em meio eletrônico, com presunção de autoria, de veracidade e de integridade, e seu conteúdo será considerado verdadeiro e completo para todos os efeitos legais.
+> (A) os documentos serão arquivados em meio eletrônico, <mark style="background:rgba(163, 67, 31, 0.2)">com presunção de autoria, de veracidade e de integridade,</mark> e seu conteúdo será considerado verdadeiro e completo para todos os efeitos legais.
 > (B) são assegurados o contraditório, a defesa técnica, por escrito ou em áudio visual, a sustentação oral, pré-gravada ou por escrito, antes do julgamento, e a juntada de provas nas formas, limites e prazos do regimento interno.
 > (C) na contagem dos prazos serão considerados os dias corridos, sem interrupção, excluído o dia do começo e incluído o dia do vencimento.
 > (D) consideram-se realizados os atos por meio eletrônico no dia e na hora impressos no recibo de juntada de documentos ao processo, sem o qual considera-se não realizado o ato.
@@ -340,7 +340,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 
 > [!question]- 21/09 17:03 · Reforma Tributária · Inéditas (AFRFB 2026, #4043956) — Uniformização x especial
 > Julgue o item conforme a LC 227/2026 (CGIBS):
-> Caberá recurso especial, dirigido à Câmara Superior do IBS, no prazo de 20 (vinte) dias, contra decisão de segunda instância ou proferida no rito sumário, que conferir à legislação específica do IBS interpretação do direito divergente da que lhe haja atribuído outra decisão de segunda instância ou da própria Câmara Superior, com vistas a uniformizar a jurisprudência administrativa do IBS em âmbito nacional.
+> Caberá recurso especial, dirigido à Câmara Superior do IBS, no prazo de 20 (vinte) dias, contra <mark style="background:rgba(18, 123, 223, 0.55)">decisão de segunda instância ou proferida no rito sumário</mark>, que conferir à legislação específica do IBS interpretação do direito divergente da que lhe haja atribuído outra decisão de segunda instância ou da própria Câmara Superior, com vistas a uniformizar a jurisprudência administrativa do IBS em âmbito nacional.
 >
 > Certo ou Errado?
 >
