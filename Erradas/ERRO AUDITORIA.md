@@ -76,22 +76,44 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 >
 > I. A evidência de auditoria possui natureza cumulativa e é obtida principalmente por meio dos procedimentos realizados durante o curso do trabalho, sendo indispensável para fundamentar a opinião e o relatório do auditor.
 > II. O ceticismo profissional exige que o auditor mantenha uma postura alerta, entendendo-se que se obtém maior segurança quando as evidências são consistentes e provenientes de fontes ou naturezas diferentes do que quando consideradas individualmente.
-> III. A suficiência e a adequação são medidas interdependentes, em que a adequação se refere exclusivamente à quantidade de evidências obtidas de fontes externas e de especialistas para garantir que o erro seja minimizado.
+> III. A suficiência e a adequação são medidas interdependentes, em que a adequação se refere <span class="g-cond">exclusivamente</span> à quantidade de evidências obtidas de fontes externas e de especialistas para garantir que o erro seja minimizado.
 >
 > Está correto o que se afirma APENAS em
-> (A) I e II. · (B) III. · (C) I. · (D) I e III. · (E) II e III.
+> <mark style="background:#affad1">(A) I e II.</mark> · (B) III. · <mark style="background:rgba(163, 67, 31, 0.2)">(C) I.</mark> · (D) I e III. · (E) II e III.
 >
-> **Marquei:** C · **Gabarito:** A
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 A
 > **Obs.:** já acertei diversas vezes essa questão, mas no final do item II, depois do "entendendo-se", achei que o texto tinha fugido da definição de ceticismo profissional.
 >
-> > [!success] Resposta
-> > **I e II certos; III errado.** I é o item A5 da NBC TA 500 quase literal ("natureza cumulativa… obtida principalmente a partir dos procedimentos… durante o curso do trabalho"). A segunda metade do II é o item A12, literal: "obtém-se mais segurança com evidência consistente obtida a partir de fontes diferentes ou de natureza diferente do que a partir de itens considerados individualmente". A banca só colou isso depois do ceticismo — a ponte não torna o item errado, porque o que vem depois do "entendendo-se" é norma pura.
+> > [!success] ✅ Resposta — A (I e II)
+> > <mark style="background:#fff88f">I e II estão certos; o III erra ao dizer que adequação é quantidade</mark>. Adequação = **qualidade** (relevância e confiabilidade); suficiência = **quantidade** (NBC TA 500, item 5).
 > >
-> > O III erra no conceito: **adequação = qualidade** (relevância e confiabilidade); **suficiência = quantidade** (item 5). Interdependentes, sim — quanto melhor a qualidade, menos quantidade se exige —, mas "exclusivamente à quantidade… de fontes externas" é invenção.
+> > - **I** — item **A5**, quase literal: a evidência tem natureza cumulativa e vem principalmente dos procedimentos do curso do trabalho.
+> > - **II** — depois do "entendendo-se" vem o item **A12**, literal. A ponte com o ceticismo é da banca, mas o conteúdo é norma pura: certo.
+> > - **III** — interdependentes, sim (qualidade melhor → menos quantidade), mas "<span class="g-cond">exclusivamente</span> à quantidade… de fontes externas" é invenção.
+>
+> > [!example]- 🧩 Quadro — suficiência × adequação
+> > | | Suficiência | Adequação |
+> > | --- | --- | --- |
+> > | Mede | **quantidade** | **qualidade** |
+> > | Depende de | risco de distorção relevante e qualidade da evidência | relevância + confiabilidade |
+> > | Relação | quanto maior o risco, mais evidência | quanto melhor a qualidade, menos quantidade |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A FCC cola dois trechos verdadeiros com um conector ("entendendo-se", "razão pela qual"). Não marque errado por estranhar a ligação: procure a palavra que quebra o item — aqui, *exclusivamente* e *quantidade* no III.
+>
+> > [!tip] 💡 Macete
+> > **S**uficiência = **S**oma (quantidade) · **A**dequação = **A**tributos (qualidade).
+>
+> > [!quote]- 📜 Texto literal — NBC TA 500 (R1)
+> > **A5.** (…) Ela tem natureza cumulativa e é obtida principalmente a partir dos procedimentos de auditoria realizados durante o curso do trabalho.
 > >
-> > **Como a FCC cobra:** colagem de dois trechos verdadeiros com um conector ("entendendo-se", "razão pela qual"). Não marque errado por estranhar a ligação; procure a palavra que quebra (aqui, *exclusivamente* e *quantidade* no III).
+> > **A12.** Geralmente, obtém-se mais segurança com evidência de auditoria consistente obtida a partir de fontes diferentes ou de natureza diferente do que a partir de itens de evidência de auditoria considerados individualmente.
 > >
-> > **Fonte:** cofre `MATERIAS/P1 - Auditoria.md:227` (suficiência × adequação) · internet NBC TA 500 (R1), itens 5, A5 e A12 — https://www.legisweb.com.br/legislacao/?id=496590
+> > **Item 5.** Adequação: a medida da qualidade da evidência de auditoria, isto é, a sua relevância e confiabilidade (…). Suficiência: a medida da quantidade da evidência de auditoria (…).
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#Tipos de evidências|Auditoria › Tipos de evidências]] — **grifado agora:** "mensuração da quantidade" (suficiência) e "mensuração da qualidade" (adequação). Os itens A5 e A12 não estão no cofre (entraram pela internet).
+> > **Fonte:** cofre `MATERIAS/P1 - Auditoria.md:227` · internet NBC TA 500 (R1), itens 5, A5 e A12 — https://www.legisweb.com.br/legislacao/?id=496590
 
 > [!question]- 22/09 13:24 · Auditoria · FGV (CFC/CVM 28º EQT 2025) — NBC TA 240: procedimento obrigatório contra burla de controles pela administração
 > TEC #3412082. A NBC TA 240 (R1) aborda as responsabilidades do auditor em relação à detecção de fraudes em auditorias de demonstrações contábeis, destacando que o auditor deve obter uma segurança razoável de que as demonstrações estão livres de distorções relevantes, sejam elas causadas por erro ou por fraude. A norma ressalta que a responsabilidade pela prevenção e detecção de fraudes
@@ -99,10 +121,10 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 > (A) considerar se seria apropriado o Administrador retirar-se da Presidência da Empresa, quando essa saída for possível conforme a lei ou regulamentação aplicável.
 > (B) avaliar se os procedimentos analíticos aplicados perto do final do período, na formação da conclusão global, de que as demonstrações contábeis, como um todo, estão consistentes com o entendimento sobre a entidade e do seu ambiente.
 > (C) discutir com pessoa no nível apropriado da administração e com os responsáveis pela governança a saída do suspeito do trabalho e as razões para o seu afastamento.
-> (D) determinar as responsabilidades profissionais e legais aplicáveis à situação, inclusive se é necessário a comunicação às autoridades reguladoras. No Brasil, existem obrigações determinadas pelas autoridades reguladoras.
-> (E) testar a adequação dos lançamentos contábeis registrados no razão geral e outros ajustes efetuados na elaboração das demonstrações contábeis. Ao definir e aplicar procedimentos de auditoria para tais testes, o auditor deve selecionar lançamentos contábeis e outros ajustes feitos no final do período sob exame.
+> (D) <mark style="background:rgba(163, 67, 31, 0.2)">determinar as responsabilidades profissionais e legais aplicáveis à situação, inclusive se é necessário a comunicação às autoridades reguladoras.</mark> No Brasil, existem obrigações determinadas pelas autoridades reguladoras.
+> (E) <mark style="background:#affad1">testar a adequação dos lançamentos contábeis registrados no razão geral e outros ajustes efetuados na elaboração das demonstrações contábeis.</mark> Ao definir e aplicar procedimentos de auditoria para tais testes, o auditor deve selecionar lançamentos contábeis e outros ajustes feitos no final do período sob exame.
 >
-> **Marquei:** D · **Gabarito:** E
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 E
 >
 > **Resposta do professor (colada):**
 > reposta do professor : d) determinar as responsabilidades profissionais e legais aplicáveis à situação, inclusive se é necessário a comunicação às autoridades reguladoras. No Brasil, existem obrigações determinadas pelas autoridades reguladoras.
@@ -124,11 +146,28 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 >
 > Diante do exposto, observe que a única alternativa que traz um procedimento que o auditor deve definir e aplicar, independentemente da avaliação dos riscos de que a administração burle controles é a letra E.
 >
-> > [!success] Resposta
-> > **E — item 32(a) da NBC TA 240.** Independentemente da avaliação do risco de a administração burlar controles, o auditor **sempre** aplica três procedimentos: (a) **testar lançamentos contábeis e outros ajustes** no razão geral, com foco nos do fim do período; (b) **revisar estimativas contábeis** em busca de tendenciosidade; (c) avaliar a **justificativa comercial de transações significativas fora do curso normal** dos negócios.
+> > [!success] ✅ Resposta — E
+> > **NBC TA 240, item 32(a).** <mark style="background:#fff88f">Independentemente da avaliação do risco de a administração burlar controles</mark>, o auditor **sempre** testa lançamentos contábeis e outros ajustes no razão geral, com foco nos do fim do período.
 > >
-> > A D é do item 38(a): é a reação quando o auditor **não tem condições de continuar** o trabalho por causa de fraude — outra situação. A e C deformam o mesmo item 38 (quem pode se retirar é o auditor, do trabalho). B é avaliação da evidência no fim, não resposta obrigatória à burla de controles.
-> >
-> > **Macete:** burla de controles pela administração → "**L-E-T**": **L**ançamentos, **E**stimativas, **T**ransações fora do normal. Tudo que fala em comunicar autoridade/retirar-se é o cenário de não continuar.
-> >
-> > **Fonte:** internet NBC TA 240 (R1), itens 32 e 38 — https://www.legisweb.com.br/legislacao/?id=496113 · resposta do professor colada na captura (sem lastro no cofre: `MATERIAS/P1 - Auditoria.md` só tem o triângulo da fraude, linha 237)
+> > - **(D)** é do item **38(a)**: reação quando o auditor <span class="g-cond">não tem condições de continuar</span> o trabalho por causa de fraude — outra situação.
+> > - **(A)** e **(C)** deformam o mesmo item 38 (quem pode se retirar é o auditor, do trabalho).
+> > - **(B)** é avaliação da evidência perto do fim, não resposta obrigatória à burla de controles.
+>
+> > [!example]- 🧩 Quadro — as duas situações da NBC TA 240 que a banca mistura
+> > | | Burla de controles pela administração (item 32) | Auditor sem condições de continuar (item 38) |
+> > | --- | --- | --- |
+> > | Quando | **sempre**, qualquer que seja o risco avaliado | circunstância excepcional causada por fraude |
+> > | O que fazer | (a) testar **lançamentos** e ajustes; (b) revisar **estimativas** contábeis quanto a tendenciosidade; (c) avaliar **transações** significativas fora do curso normal | determinar responsabilidades legais (comunicar a quem contratou ou ao regulador); considerar **retirar-se do trabalho**; discutir a saída com a administração e a governança |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A FGV pôs como distratores os procedimentos do item 38 (não continuar o trabalho). O comando fala em responsabilidade pela prevenção/detecção e burla de controles → só a E responde.
+>
+> > [!tip] 💡 Macete
+> > Burla de controles → **L-E-T**: **L**ançamentos, **E**stimativas, **T**ransações fora do normal. Comunicar autoridade ou retirar-se = cenário de não continuar.
+>
+> > [!quote]- 📜 Texto literal — NBC TA 240 (R1), item 32
+> > Independentemente da avaliação do auditor dos riscos de que a administração burle controles, o auditor deve definir e aplicar procedimentos de auditoria para: (a) testar a adequação dos lançamentos contábeis registrados no razão geral e outros ajustes efetuados na elaboração das demonstrações contábeis. (…)
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Fraude e Erro;|Auditoria › Fraude e Erro]] — o cofre só tem o triângulo da fraude; os itens 32 e 38 **não estão no cofre** (nada a grifar).
+> > **Fonte:** internet NBC TA 240 (R1), itens 32 e 38 — https://www.legisweb.com.br/legislacao/?id=496113 · resposta do professor colada na captura

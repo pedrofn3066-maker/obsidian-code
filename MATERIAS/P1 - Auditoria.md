@@ -224,8 +224,8 @@ Na auditoria de demonstrações contábeis, o gabarito está correto porque **a
 
 - Questão cobrou a literalidade da NBC TA 500 que trata da Evidência de auditoria:
 Item 6. _O auditor deve definir e executar procedimentos de auditoria que sejam apropriados às circunstâncias com o objetivo de obter evidência de auditoria **apropriada e suficiente** (ver itens A1 a A25)_
-A **suficiência de evidência** é a mensuração da quantidade de evidências. A quantidade de evidência necessária é influenciada pelos riscos da informação do objeto ser distorcida de forma relevante (quanto maior forem os riscos, mais evidência será necessária) e também pela qualidade dessas evidências (quanto melhor a qualidade, menos será necessária).
-A **Adequação de evidência** é a mensuração da qualidade da evidência; ou seja, sua relevância e confiabilidade em fornecer fundamentação para a conclusão do auditor independente.
+A **suficiência de evidência** é a <mark style="background:#fff88f">mensuração da quantidade de evidências</mark>. A quantidade de evidência necessária é influenciada pelos riscos da informação do objeto ser distorcida de forma relevante (quanto maior forem os riscos, mais evidência será necessária) e também pela qualidade dessas evidências (quanto melhor a qualidade, menos será necessária).
+A **Adequação de evidência** é a <mark style="background:#fff88f">mensuração da qualidade da evidência</mark>; ou seja, sua relevância e confiabilidade em fornecer fundamentação para a conclusão do auditor independente.
 
 **Terminologia clássica × NBC TA 500** (bancas alternam os dois vocabulários):
 - Circularização (Confirmação) → <mark style="background:rgba(240, 200, 0, 0.2)">Confirmação Externa</mark>

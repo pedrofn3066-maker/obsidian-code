@@ -5,7 +5,7 @@ description: Tira dúvidas sobre matérias e tópicos de estudo (Direito Tribut�
 
 # Tirar dúvida (cofre primeiro, internet depois)
 
-Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre por conta própria** — só lê. As únicas escritas permitidas são: guardar a dúvida em `Questoes/Duvidas.md` quando o Pedro pedir (ver "Guardar a dúvida") e mover a entrada já respondida para o caderno de erros da matéria (ver "Arrumar o layout e mover para o caderno da matéria").
+Paths relativos à raiz do cofre (`vault-ba/`). Responde a dúvida de estudo. **Não edita o cofre por conta própria** — só lê. As únicas escritas permitidas são: guardar a dúvida em `Questoes/Duvidas.md` quando o Pedro pedir (ver "Guardar a dúvida"), mover a entrada já respondida para o caderno de erros da matéria (ver "Arrumar o layout e mover para o caderno da matéria") e grifar, na nota de `MATERIAS/`, o dispositivo que a resposta usou (ver "Grifar o dispositivo na matéria") — só envolvendo texto que já existe, nunca acrescentando conteúdo.
 
 ## Modo padrão: esvaziar `## Dúvida`
 
@@ -15,7 +15,7 @@ Quando o Pedro chama `/tirar-duvida` **sem uma pergunta específica** (ou pede "
 2. Para cada entrada: buscar no cofre (Passo 1); o que **não está no cofre** (súmula, artigo, item de norma que falta) completar na internet em fonte oficial (Passo 3). Na resposta, deixar claro o que é cofre e o que é novo.
 3. Mover **todas** para `## 💭 Dúvidas respondidas` do caderno da matéria (seção "Arrumar o layout…"), inclusive as que ficarem sem fonte confirmada (marcadas `(sem fonte confirmada)` na linha **Fonte**). Linhas soltas de registro (`- … [Matéria] pergunta → resposta (fonte…)`) que repetem uma entrada entram no callout dela e saem da caixa.
 4. **Ao final, `## Dúvida` fica vazio** (só o heading) e `Questoes/Duvidas.md` fica só com a introdução e a lista de links "Dúvidas respondidas, por matéria" — com link novo para cada caderno usado pela primeira vez.
-5. No chat, uma tabela curta: entrada → caderno → o que era novo (não estava no cofre). Não repita as respostas inteiras no chat; elas estão nos callouts.
+5. No chat, uma tabela curta: entrada → caderno → o que era novo (não estava no cofre) → o que foi grifado em `MATERIAS/`. Não repita as respostas inteiras no chat; elas estão nos callouts.
 
 ## Passo 1 — buscar no cofre
 
@@ -81,7 +81,7 @@ Não use `Capturas.md`: o `/triar-inbox` distribui tudo que está lá. Dúvida s
 
 Caderno da matéria: `Erradas/ERRO <MATÉRIA>.md` (ex.: `ERRO DIREITO TRIBUTÁRIO.md`, `ERRO REFORMA TRIBUTÁRIA.md`; LGPD vai em `ERRO DIREITO ADMINISTRATIVO.md`). `## 💭 Dúvidas respondidas` fica no fim da nota (depois de `# OUTRAS BANCAS`). Se o heading não existir, crie-o no fim (`---`, linha em branco, heading, linha em branco, callout). Se não houver caderno para a matéria, pergunte ao Pedro antes de criar. Assim `## Dúvida` em `Questoes/Duvidas.md` fica livre para o atalho continuar acrescentando.
 
-Layout (callout recolhível, um por dúvida; **sem sub-headings** — o heading `## 💭 Dúvidas respondidas` é o único da seção):
+Layout (callout recolhível, um por dúvida; **sem sub-headings** — o heading `## 💭 Dúvidas respondidas` é o único da seção). O callout externo guarda a questão; dentro dele, **blocos coloridos irmãos** (cada um é um callout de 2º nível, separados por uma linha `>`), na ordem abaixo. Só `[!success] Resposta` e `Fonte` são obrigatórios; os outros entram quando têm conteúdo de verdade.
 
 ```
 > [!question]- 20/09 15:52 · Direito Tributário · IBAM (ISS Guarulhos) — Responsabilidade tributária
@@ -89,16 +89,69 @@ Layout (callout recolhível, um por dúvida; **sem sub-headings** — o heading 
 >
 > I. …
 > II. …
-> (A) …
-> (B) …
+> (A) <mark style="background:#affad1">alternativa do gabarito</mark>
+> (B) <mark style="background:rgba(163, 67, 31, 0.2)">alternativa que marquei</mark> — com o trecho trocado pela banca em <span class="g-cond">exceto</span>
 >
-> **Marquei:** B · **Gabarito:** A
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+> **Obs.:** anotação do Pedro, intacta.
 >
-> > [!success] Resposta
-> > Resposta curta em 1–3 linhas, com regra/exceção/artigo/súmula.
+> > [!success] ✅ Resposta — A
+> > Uma frase com o <mark style="background:#fff88f">núcleo da regra</mark> e o artigo/súmula em **negrito**. Grifos semânticos nos dados que a banca troca: <span class="g-prazo">5 anos</span>, <span class="g-cond">salvo</span>, <span class="g-comp">lei complementar</span>, <span class="g-num">2/3</span>.
 > >
+> > Explicação curta (2–5 linhas), por que as outras erram, uma por linha: **(B)** troca X por Y.
+>
+> > [!example]- 🧩 Quadro
+> > | | Regra | Exceção |
+> > | --- | --- | --- |
+> > | … | … | … |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O que a banca trocou nesta questão e como ela costuma trocar.
+>
+> > [!tip] 💡 Macete
+> > Gancho de memória em uma linha.
+>
+> > [!quote]- 📜 Texto literal — art. X, CTN
+> > Lei seca do dispositivo, com os grifos semânticos.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Heading exato|Heading]] — grifado agora / já estava grifado / não está no cofre (entrou pela internet).
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:759` · internet <url> · (sem fonte confirmada) se for o caso
 ```
+
+Cores (mesmas do cofre, não invente outras):
+
+| Uso | Marcação |
+| --- | --- |
+| alternativa do gabarito | `<mark style="background:#affad1">` (verde) e 🟩 |
+| alternativa que o Pedro marcou errado | `<mark style="background:rgba(163, 67, 31, 0.2)">` (vermelho) e 🟥 |
+| núcleo da regra, uma vez por resposta | `<mark style="background:#fff88f">` (amarelo, o mais usado nas notas) |
+| prazo · condição/ressalva · competência · número | `<span class="g-prazo">` · `g-cond` · `g-comp` · `g-num` (`.obsidian/snippets/grifos.css`; regras de uso em `.claude/commands/triar-inbox-plus.md`, "Grifos semânticos") |
+
+Quando usar cada bloco:
+- **🧩 Quadro** (`[!example]-`, recolhido): tema complexo ou comparação — dois institutos parecidos (zona urbana × expansão urbana), vários incisos que a banca embaralha, momentos de uma operação, súmulas com sinal trocado. Tabela de 2 a 4 colunas; cada linha responde uma alternativa ou um caso. Pergunta simples não leva quadro.
+- **⚠️ Pegadinha**: só se der para dizer o que foi trocado (verbo invertido, definição trocada entre pares, "exclusivamente", colagem de dois itens).
+- **💡 Macete**: só se for um gancho real e curto (sigla, rima, "exportação Exonera, importação Incide").
+- **📜 Texto literal** (recolhido): quando a banca cobra literalidade. Norma pode ir literal; site e doutrina, não.
+- **🔗 Na matéria**: sempre que houver heading correspondente em `MATERIAS/`; wikilink para o heading exato (confira com `PY/achar-heading.py`).
+
+Grifos: expressão mínima, nunca atravessando linha, nunca grifo dentro de grifo (dentro de `<mark>` pode). Se metade da resposta ficou colorida, corte: o grifo é para o olho achar o que decide a questão. O texto do Pedro (enunciado, Obs.) só recebe `<mark>`/`<span>` em volta do que já está escrito, sem trocar palavra.
+
+### Grifar o dispositivo na matéria
+
+Se a resposta se apoiou num **dispositivo importante que já está na nota de `MATERIAS/`** (artigo, súmula, item de norma na forma literal) e a banca cobrou justamente o dado que ela troca, grife esse trecho na própria nota:
+
+- Só o trecho usado na resposta (a linha citada na **Fonte**), só texto literal/lastro — nunca lupa, ponte, heading, tracker, frontmatter, wikilink ou bloco de código.
+- Mesmas classes `g-prazo`/`g-cond`/`g-comp`/`g-num`, mais `<mark style="background:#fff88f">` no núcleo que a questão testou. Linha que já tem grifo nesse trecho fica como está.
+- Envolver sem reescrever: o texto sem os spans tem de ser o mesmo de antes. Valide:
+  ```bash
+  python3 PY/grifos.py "MATERIAS/<nota>.md"
+  git show HEAD:"MATERIAS/<nota>.md" | python3 PY/grifos.py --limpo - > "$TMPDIR/antes.md"
+  python3 PY/grifos.py --limpo "MATERIAS/<nota>.md" > "$TMPDIR/depois.md"
+  diff "$TMPDIR/antes.md" "$TMPDIR/depois.md" | grep -v '<mark' | head   # só pode mudar <mark>
+  ```
+- Registre no bloco **🔗 Na matéria** ("grifado agora: art. 79, I, b") e liste no resumo do chat.
+- Dispositivo que **não está** na nota: não acrescente (isso é `/triar-inbox`); diga "não está no cofre" no bloco 🔗 e no chat.
 
 Regras do reformat:
 - **Título:** `dd/mm hh:mm · matéria · banca (prova) — tema em poucas palavras`. Data/hora vêm da linha original do atalho; banca/prova, do que o Pedro escreveu.

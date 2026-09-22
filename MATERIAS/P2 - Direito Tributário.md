@@ -216,9 +216,9 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 > Art. 79 Os serviços públicos a que se refere o artigo 77 consideram-se:
 > I - utilizados pelo contribuinte:
 > a) efetivamente, quando por ele usufruídos a qualquer título;
-> b) potencialmente, quando, sendo de utilização compulsória, sejam postos à sua disposição mediante atividade administrativa em efetivo funcionamento;
-> II - específicos, quando possam ser destacados em unidades autônomas de intervenção, de utilidade ou de necessidade públicas;
-> III - divisíveis, quando suscetíveis de utilização, separadamente, por parte de cada um dos usuários.
+> b) potencialmente, quando, <mark style="background:#fff88f">sendo de utilização compulsória, sejam postos à sua disposição mediante atividade administrativa em efetivo funcionamento</mark>;
+> II - específicos, quando possam ser <mark style="background:#fff88f">destacados em unidades autônomas</mark> de intervenção, de utilidade ou de necessidade públicas;
+> III - divisíveis, quando suscetíveis de <mark style="background:#fff88f">utilização, separadamente, por parte de cada um</mark> dos usuários.
 >
 > Art. 80 Para efeito de instituição e cobrança de taxas, consideram-se compreendidas no âmbito das atribuições da União, dos Estados, do Distrito Federal ou dos Municípios aquelas que, segundo a Constituição Federal, as Constituições dos Estados, as Leis Orgânicas do Distrito Federal e dos Municípios e a legislação com elas compatível, competem a cada uma dessas pessoas de direito público.
 
@@ -3255,7 +3255,7 @@ Legitimidade ativa: o locatário não é contribuinte nem responsável pelo IPTU
 > Súmula STJ 614. O locatário não possui legitimidade ativa para discutir a relação jurídico-tributária de IPTU e de taxas referentes ao imóvel alugado nem para repetir indébito desses tributos.
 
 Área urbanizável/de expansão urbana: a lei municipal que assim classifica a área afasta, por si só, a exigência dos melhoramentos do art. 32, § 1º, CTN.
-> Súmula STJ 626. A incidência do IPTU sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana não está condicionada à existência dos melhoramentos elencados no art. 32, § 1º, do CTN.
+> Súmula STJ 626. A incidência do IPTU sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana <mark style="background:#fff88f">não está condicionada à existência dos melhoramentos</mark> elencados no art. 32, § 1º, do CTN.
 
 
 *(CTN comentado, Guruja, p. 18–19)*

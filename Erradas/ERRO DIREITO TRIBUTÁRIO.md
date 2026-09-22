@@ -491,37 +491,47 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 >
 > (A) divisíveis, quando possam ser destacados em unidades autônomas de intervenção, de utilidade ou de necessidades públicas.
 > (B) específicos, quando suscetíveis de utilização, separadamente, por parte de cada um dos seus usuários.
-> (C) utilizados potencialmente pelo contribuinte quando, sendo de utilização compulsória, sejam postos à sua disposição mediante atividade administrativa em efetivo funcionamento.
-> (D) utilizados efetivamente pelo contribuinte quando, sendo de utilização compulsória, sejam postos à sua disposição em efetivo funcionamento.
+> (C) <mark style="background:#affad1">utilizados potencialmente pelo contribuinte quando, sendo de utilização compulsória, sejam postos à sua disposição mediante atividade administrativa em efetivo funcionamento.</mark>
+> (D) <mark style="background:rgba(163, 67, 31, 0.2)">utilizados efetivamente pelo contribuinte quando, sendo de utilização compulsória, sejam postos à sua disposição em efetivo funcionamento.</mark>
 > (E) utilizados potencialmente pelo contribuinte quando por ele usufruídos a qualquer título.
 >
-> **Marquei:** D · **Gabarito:** C
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 C
 > **Obs.:** sempre confundo essa parte de potencial, efetivo, divisível e específico com relação às taxas.
 >
-> > [!success] Resposta
-> > **C — art. 79, I, "b", CTN, literal.** A banca só trocou as definições entre os pares: A e B invertem específico × divisível; D e E invertem efetivo × potencial.
+> > [!success] ✅ Resposta — C
+> > **Art. 79, I, "b", CTN, literal.** Utilização potencial = <mark style="background:#fff88f">utilização compulsória + posto à disposição + atividade administrativa em efetivo funcionamento</mark>. A banca só trocou as definições entre os pares:
 > >
+> > - **(A)** e **(B)** invertem **específico** × **divisível**.
+> > - **(D)** e **(E)** invertem **efetivo** × **potencial**. Na D, "efetivo funcionamento" é do **serviço** (está rodando), não do uso.
+>
+> > [!example]- 🧩 Quadro — os quatro termos do art. 79
 > > | Termo | Definição (art. 79) | Gancho |
 > > | --- | --- | --- |
 > > | **Efetivamente** | usufruído a qualquer título | usei |
-> > | **Potencialmente** | utilização **compulsória** + posto à disposição + atividade administrativa em **efetivo funcionamento** | podia usar, e era obrigatório |
+> > | **Potencialmente** | utilização <span class="g-cond">compulsória</span> + posto à disposição + atividade em efetivo funcionamento | podia usar, e era obrigatório |
 > > | **Específico** | destacado em **unidades autônomas** de intervenção, utilidade ou necessidade pública | sei **qual** serviço é |
 > > | **Divisível** | utilização **separada por cada usuário** | sei **quanto** cada um usou |
-> >
-> > Pegadinha da D: "efetivamente" com a definição de potencial. O "efetivo funcionamento" é do serviço (está rodando), não do uso.
-> >
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A VUNESP mantém o texto do CTN e troca só o rótulo (específico ↔ divisível, efetivo ↔ potencial). Leia a definição e pergunte qual rótulo é dela, não o contrário.
+>
+> > [!tip] 💡 Macete
+> > **ES**pecífico = **dES**tacado · **DIV**isível = **DIV**idido por usuário · **POT**encial = **P**osto + **O**brigatório + **T**rabalhando.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Taxas (arts. 77 a 80)|Direito Tributário › Taxas]] — **grifado agora:** art. 79, I, "b" (núcleo da utilização potencial), II ("destacados em unidades autônomas") e III ("utilização, separadamente, por parte de cada um").
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:216`
 
 > [!question]- 22/09 13:48 · Direito Tributário · VUNESP (ISS São Paulo 2023) — Contribuições sociais e CIDE: art. 149, §2º, CF
 > TEC #2635863. Segundo o regramento constitucional, no que se refere às contribuições sociais e de intervenção no domínio econômico, é correto afirmar que
 >
-> (A) incidirão sobre as receitas decorrentes de exportação e também sobre a importação de bens ou serviços.
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">incidirão sobre as receitas decorrentes de exportação</mark> e também sobre a importação de bens ou serviços.
 > (B) incidirão sobre bens ou serviços cujo destinatário seja pessoa jurídica, não podendo a pessoa natural ser equiparada para esse fim.
 > (C) terão alíquotas ad valorem tendo por base a unidade de medida adotada na exportação e na importação de bens ou serviços.
 > (D) incidirão sobre as receitas decorrentes de exportação de bens ou serviços e não incidirão sobre a importação de serviços.
-> (E) poderão ter alíquotas ad valorem tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro.
+> (E) <mark style="background:#affad1">poderão ter alíquotas ad valorem tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro.</mark>
 >
-> **Marquei:** A · **Gabarito:** E
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 E
 > **Obs.:** o texto da Constituição falando sobre esse tributo não é de muita recorrência minha. É um gap que vem sendo explorado em concursos de nível municipal.
 >
 > **Resposta do professor (colada):**
@@ -535,87 +545,143 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > a) ad valorem , tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro;
 > b) específica, tendo por base a unidade de medida adotada.
 >
-> > [!success] Resposta
-> > **E — art. 149, §2º, III, "a", CF.** O §2º tem três incisos e a banca joga com os três:
+> > [!success] ✅ Resposta — E
+> > **Art. 149, §2º, III, "a", CF.** <mark style="background:#fff88f">As contribuições sociais e a CIDE não incidem sobre receitas de exportação e incidem também sobre a importação</mark>; as alíquotas podem ser ad valorem ou específicas.
 > >
-> > - **I — não incidem sobre receitas de exportação** (imunidade) → erra A e D.
-> > - **II — incidem também sobre a importação** de produtos estrangeiros ou serviços → erra D.
-> > - **III — alíquotas:** (a) **ad valorem** sobre faturamento, receita bruta ou valor da operação e, na importação, **valor aduaneiro**; (b) **específica**, sobre a **unidade de medida** adotada → erra C (misturou ad valorem com unidade de medida).
-> > - **§3º:** a pessoa natural destinatária das operações de importação **pode ser equiparada** a pessoa jurídica, na forma da lei → erra B.
-> >
-> > **Macete:** exportação **E**xonera; importação **I**ncide.
-> >
-> > **Fonte:** internet CF, art. 149, §§ 2º e 3º — https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm · sem lastro no cofre: `MATERIAS/P2 - Direito Tributário.md:161` só tem o caput do art. 149
+> > - **(A)** e **(D)** — exportação é <span class="g-cond">não incidência</span> (§2º, I).
+> > - **(D)** — importação de serviços **incide** (§2º, II).
+> > - **(C)** — mistura ad valorem com **unidade de medida**, que é da alíquota **específica**.
+> > - **(B)** — a pessoa natural importadora <span class="g-cond">pode</span> ser equiparada a pessoa jurídica, na forma da lei (§3º).
+>
+> > [!example]- 🧩 Quadro — art. 149, §2º
+> > | Inciso | Regra | Erra |
+> > | --- | --- | --- |
+> > | I | **não** incidem sobre receitas de **exportação** | A, D |
+> > | II | incidem **também** sobre a **importação** de produtos ou serviços | D |
+> > | III, a | alíquota **ad valorem**: faturamento, receita bruta, valor da operação; na importação, **valor aduaneiro** | — (é a E) |
+> > | III, b | alíquota **específica**: **unidade de medida** adotada | C |
+> > | §3º | pessoa natural importadora <span class="g-cond">pode</span> ser equiparada a PJ | B |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Trocar o sinal da exportação/importação e cruzar as duas espécies de alíquota (ad valorem com unidade de medida).
+>
+> > [!tip] 💡 Macete
+> > **E**xportação **E**xonera · **I**mportação **I**ncide · **ad valorem** = **valor** (faturamento, receita, operação, aduaneiro) · **específica** = **medida**.
+>
+> > [!quote]- 📜 Texto literal — CF, art. 149
+> > § 2º As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
+> > I - <span class="g-cond">não incidirão</span> sobre as receitas decorrentes de exportação;
+> > II - incidirão também sobre a importação de produtos estrangeiros ou serviços;
+> > III - poderão ter alíquotas: a) ad valorem, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro; b) específica, tendo por base a unidade de medida adotada.
+> > § 3º A pessoa natural destinatária das operações de importação <span class="g-cond">poderá</span> ser equiparada a pessoa jurídica, na forma da lei.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Espécies de Tributos;|Direito Tributário › Espécies de Tributos]] — o cofre só tem o caput do art. 149; o §2º e o §3º **não estão no cofre** (nada a grifar).
+> > **Fonte:** internet CF, art. 149, §§ 2º e 3º — https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm · resposta do professor colada na captura
 
 > [!question]- 22/09 13:51 · Direito Tributário · IBAM (Pref. Mogi Mirim 2026) — IPTU: zona urbana, base de cálculo e progressividade
 > TEC #4163857. O IPTU incide sobre a propriedade, o domínio útil ou a posse de bem imóvel localizado na zona urbana do município. Analise as afirmativas a seguir.
 >
-> I. Para fins deste imposto, considera-se zona urbana a definida em lei municipal, observado o requisito mínimo de existência de pelo menos dois melhoramentos construídos pelo poder público.
-> II. A base de cálculo do imposto é o valor venal do imóvel, o qual não deve considerar o valor dos bens móveis mantidos em caráter permanente para fins de exploração do bem.
+> I. Para fins deste imposto, considera-se zona urbana a definida em lei municipal, observado o requisito mínimo de existência de pelo menos <span class="g-num">dois melhoramentos</span> construídos pelo poder público.
+> II. A base de cálculo do imposto é o valor venal do imóvel, o qual <span class="g-cond">não deve considerar</span> o valor dos bens móveis mantidos em caráter permanente para fins de exploração do bem.
 > III. O imposto predial e territorial urbano pode ser progressivo em razão do valor do imóvel e ter alíquotas diferentes de acordo com a localização e o uso do prédio.
 >
-> Está correto o que se afirma em: (A) II, apenas. · (B) I e III, apenas. · (C) I, II e III. · (D) I e II, apenas.
+> Está correto o que se afirma em: (A) II, apenas. · (B) I e III, apenas. · <mark style="background:#affad1">(C) I, II e III.</mark> · (D) I e II, apenas.
 >
-> **Marquei:** C · **Gabarito:** C (acertei)
+> **Marquei:** 🟩 C · **Gabarito:** 🟩 C (acertei)
 > **Obs.:** acertei, mas essa parte de a zona urbana definida em lei municipal ter que observar os requisitos mínimos de melhoramentos me confunde com algum outro dispositivo que não lembro bem, mas fala que existe a possibilidade de ser dispensada essa prerrogativa obrigatória. E a base de cálculo do IPTU: sempre fico na dúvida se os bens móveis integram ou não, porque tenho na memória que algum outro tributo considera para sua base de cálculo, mas não me recordo bem.
 >
-> > [!success] Resposta
-> > **Todas certas.** I = art. 32, §1º, CTN (mínimo de 2 dos 5 melhoramentos, construídos ou mantidos pelo poder público). III = art. 156, §1º, I e II, CF (depois da EC 29/2000).
+> > [!success] ✅ Resposta — C (todas certas)
+> > - **I** — art. 32, §1º, CTN: mínimo de <span class="g-num">2 dos 5</span> melhoramentos, construídos ou mantidos pelo poder público.
+> > - **II** — art. 33, parágrafo único, CTN: <mark style="background:#fff88f">não se considera o valor dos bens móveis mantidos no imóvel</mark>, em caráter permanente ou temporário.
+> > - **III** — art. 156, §1º, I e II, CF (depois da EC 29/2000): progressivo pelo valor; alíquotas diferentes por localização e uso.
 > >
-> > **O dispositivo que dispensa os melhoramentos** é o **art. 32, §2º, CTN**: a lei municipal pode considerar urbanas as áreas **urbanizáveis ou de expansão urbana**, constantes de **loteamentos aprovados** pelos órgãos competentes, destinadas à habitação, indústria ou comércio, mesmo fora da zona do §1º. A Súmula 626 STJ confirma: nessas áreas, os melhoramentos não são exigidos (ver callout seguinte).
+> > **O dispositivo que dispensa os melhoramentos** é o **art. 32, §2º, CTN**: áreas urbanizáveis ou de expansão urbana, de loteamentos aprovados, podem ser consideradas urbanas <span class="g-cond">mesmo que localizadas fora</span> da zona do §1º (Súmula 626 STJ — ver o callout seguinte).
 > >
-> > **Bens móveis no IPTU:** **não entram** — art. 33, parágrafo único, CTN: não se considera o valor dos bens móveis mantidos, em caráter permanente ou temporário, no imóvel, para efeito de utilização, exploração, aformoseamento ou comodidade. O que você lembra é provavelmente o **imóvel por acessão intelectual** do Código Civil de 1916 (móvel que o dono deixa de propósito no imóvel, como máquinas de uma fábrica) — era imóvel para o direito civil, e é justamente isso que o art. 33 manda tirar da base. O CC/2002 nem tem mais essa categoria.
+> > **Os bens móveis que você lembra** são provavelmente o **imóvel por acessão intelectual** do Código Civil de 1916 (móvel que o dono deixa de propósito no imóvel, como as máquinas de uma fábrica). Era imóvel para o direito civil — e é justamente o que o art. 33 manda tirar da base. O CC/2002 nem tem mais essa categoria.
+>
+> > [!example]- 🧩 Quadro — os três pontos do IPTU cobrados
+> > | Ponto | Regra | Dispositivo |
+> > | --- | --- | --- |
+> > | Zona urbana | lei municipal + <span class="g-num">2 de 5</span> melhoramentos | CTN 32, §1º |
+> > | Expansão urbana | loteamento aprovado, **sem** exigir melhoramentos | CTN 32, §2º · Súmula 626 STJ |
+> > | Base de cálculo | valor venal, **sem** os bens móveis | CTN 33, parágrafo único |
+> > | Alíquotas | progressiva pelo valor; diferente por localização e uso | CF 156, §1º (EC 29/2000) |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > "Requisito mínimo de melhoramentos" está certo para a zona urbana, mas a banca pode dizer que ele vale "em qualquer hipótese" — aí erra, por causa do §2º.
+>
+> > [!quote]- 📜 Texto literal — CTN, arts. 32, §2º, e 33, parágrafo único
+> > Art. 32, § 2º A lei municipal pode considerar urbanas as áreas urbanizáveis, ou de expansão urbana, constantes de loteamentos aprovados pelos órgãos competentes, destinados à habitação, à indústria ou ao comércio, <span class="g-cond">mesmo que localizados fora</span> das zonas definidas nos termos do parágrafo anterior.
 > >
-> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:3268` (2 de 5 melhoramentos e loteamento aprovado) e `:3247` (progressividade) · internet CTN, arts. 32 e 33 — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm (o art. 33, parágrafo único, não está no cofre)
+> > Art. 33, parágrafo único. Na determinação da base de cálculo, <span class="g-cond">não se considera</span> o valor dos bens móveis mantidos, em caráter permanente ou temporário, no imóvel, para efeito de sua utilização, exploração, aformoseamento ou comodidade.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#1. Introdução ao Imposto Predial e Territorial Urbano - IPTU|Direito Tributário › IPTU]] — **grifado agora:** Súmula 626. O art. 32, §2º, está no cofre só como resumo (linha da tabela "Flexibilização"); o art. 33, parágrafo único, **não está no cofre**.
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:3268` e `:3247` · internet CTN — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
 
 > [!question]- 22/09 13:53 · Direito Tributário · (continuação da IBAM Mogi Mirim) — Súmula 626 STJ: zona urbana × área de expansão urbana
-> Sempre importante relembrar a Súmula 626 do STJ: "A incidência do IPTU sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana não está condicionada à existência dos melhoramentos elencados no art. 32, § 1º, do CTN."
+> Sempre importante relembrar a Súmula 626 do STJ: "A incidência do IPTU sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana <mark style="background:#fff88f">não está condicionada à existência dos melhoramentos</mark> elencados no art. 32, § 1º, do CTN."
 >
 > **Obs.:** sobre a questão anterior, que estava com dúvida sobre os melhoramentos exigíveis para ter zona urbana: essa súmula responde, mas ainda fica nebuloso para mim entender a diferença. Me explique.
 >
-> > [!success] Resposta
-> > São **dois caminhos** para um imóvel pagar IPTU, e o requisito dos melhoramentos só vale no primeiro:
+> > [!success] ✅ Resposta
+> > São **dois caminhos** para o imóvel pagar IPTU, e <mark style="background:#fff88f">o requisito dos melhoramentos só vale no primeiro</mark>: a **zona urbana** propriamente dita (§1º). Na **área urbanizável ou de expansão urbana** (§2º), basta a lei municipal e o loteamento aprovado.
 > >
-> > | | Zona urbana (§1º) | Área urbanizável / de expansão urbana (§2º) |
+> > Lógica: a área de expansão ainda **vai** receber a infraestrutura. Exigir os melhoramentos agora impediria o Município de tributar o loteamento que ele mesmo aprovou para virar cidade.
+>
+> > [!example]- 🧩 Quadro — zona urbana × expansão urbana
+> > | | Zona urbana (§1º) | Área urbanizável / de expansão (§2º) |
 > > | --- | --- | --- |
 > > | O que é | o miolo já urbanizado | loteamento aprovado, ainda sendo ocupado |
-> > | Quem define | lei municipal | lei municipal |
-> > | Melhoramentos | **mínimo 2 de 5**, construídos ou mantidos pelo poder público | **dispensados** (Súmula 626) |
-> >
-> > Lógica: a área de expansão ainda **vai** receber a infraestrutura — exigir os melhoramentos agora impediria o Município de tributar o loteamento que ele mesmo aprovou para virar cidade. Então a questão IBAM está certa ao falar de "zona urbana" com os 2 melhoramentos, e a súmula trata da outra categoria.
-> >
-> > **Cuidado com o critério da destinação:** imóvel em zona urbana mas **usado para exploração rural** (extrativa vegetal, agrícola, pecuária ou agroindustrial) paga **ITR**, não IPTU (DL 57/66, art. 15; STJ, REsp 1.112.646/SP, repetitivo). Localização é a regra; destinação rural comprovada é a exceção.
-> >
-> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:3257` (Súmula 626) e `:3269` · internet CTN art. 32, §2º — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+> > | Quem define | <span class="g-comp">lei municipal</span> | <span class="g-comp">lei municipal</span> |
+> > | Melhoramentos | **mínimo <span class="g-num">2 de 5</span>**, construídos ou mantidos pelo poder público | **dispensados** (Súmula 626) |
+>
+> > [!warning] ⚠️ Cuidado — destinação rural
+> > Imóvel em zona urbana, mas **usado para exploração rural** (extrativa vegetal, agrícola, pecuária ou agroindustrial), paga **ITR**, não IPTU (DL 57/66, art. 15; STJ, REsp 1.112.646/SP, repetitivo). Localização é a regra; destinação rural comprovada é a exceção.
+>
+> > [!tip] 💡 Macete
+> > Cidade **pronta** → prova os melhoramentos. Cidade **em obra** → basta o loteamento aprovado.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#1. Introdução ao Imposto Predial e Territorial Urbano - IPTU|Direito Tributário › IPTU]] — **grifado agora:** Súmula STJ 626 ("não está condicionada à existência dos melhoramentos").
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:3257` e `:3269` · internet CTN art. 32, §2º — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
 
 > [!question]- 22/09 13:55 · Direito Tributário · VUNESP (ISS São Paulo 2023) — ISS nas súmulas do STF e do STJ
 > TEC #2635915. Tendo por base os enunciados das Cortes Superiores, no que concerne ao Imposto Sobre Serviços de Qualquer Natureza (ISS), assinale a alternativa correta.
 >
-> (A) O imposto sobre serviços incide sobre os depósitos, as comissões e taxas de desconto, cobrados pelos estabelecimentos bancários.
-> (B) O ISS não incide na operação de arrendamento mercantil de coisas móveis.
-> (C) O fornecimento de concreto, por empreitada, para construção civil, preparado no trajeto até a obra em betoneiras acopladas a caminhões, não é prestação de serviço, sujeitando-se apenas à incidência do ICMS.
-> (D) O ISS não incide sobre o valor de serviços de assistência médica, incluindo-se neles as refeições, os medicamentos e as diárias hospitalares.
-> (E) No tocante à base de cálculo, o ISSQN incide apenas sobre a taxa de agenciamento quando o serviço prestado por sociedade empresária de trabalho temporário for de intermediação, devendo, entretanto, englobar também os valores dos salários e encargos sociais dos trabalhadores por ela contratados nas hipóteses de fornecimento de mão de obra.
+> (A) O imposto sobre serviços <span class="g-cond">incide</span> sobre os depósitos, as comissões e taxas de desconto, cobrados pelos estabelecimentos bancários.
+> (B) <mark style="background:rgba(163, 67, 31, 0.2)">O ISS <span class="g-cond">não incide</span> na operação de arrendamento mercantil de coisas móveis.</mark>
+> (C) O fornecimento de concreto, por empreitada, para construção civil, preparado no trajeto até a obra em betoneiras acopladas a caminhões, <span class="g-cond">não é</span> prestação de serviço, sujeitando-se apenas à incidência do ICMS.
+> (D) O ISS <span class="g-cond">não incide</span> sobre o valor de serviços de assistência médica, incluindo-se neles as refeições, os medicamentos e as diárias hospitalares.
+> (E) <mark style="background:#affad1">No tocante à base de cálculo, o ISSQN incide apenas sobre a taxa de agenciamento quando o serviço prestado por sociedade empresária de trabalho temporário for de intermediação, devendo, entretanto, englobar também os valores dos salários e encargos sociais dos trabalhadores por ela contratados nas hipóteses de fornecimento de mão de obra.</mark>
 >
-> **Marquei:** B · **Gabarito:** E
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 E
 > **Obs.:** acho que já errei duas vezes essa questão. Não consigo visualizar bem ainda para acertar.
 >
-> > [!success] Resposta
-> > **E — Súmula 524 STJ, literal.** As outras quatro são súmulas com o sinal **invertido**:
+> > [!success] ✅ Resposta — E
+> > **Súmula 524 STJ, literal.** <mark style="background:#fff88f">Intermediação → base é só a taxa de agenciamento; fornecimento de mão de obra → base inclui salários e encargos</mark>. As outras quatro são súmulas com o **sinal invertido**.
 > >
+> > **Para visualizar a E:** no **agenciamento** a empresa só faz a ponte (o vínculo do trabalhador é com o tomador), então o serviço dela vale a comissão. No **fornecimento**, os trabalhadores são dela: o que ela vende é a mão de obra inteira, salário incluído. É o mesmo par que o cofre já usa no local de pagamento do ISS.
+>
+> > [!example]- 🧩 Quadro — as cinco súmulas
 > > | Alt. | Súmula | O que ela diz de verdade |
 > > | --- | --- | --- |
-> > | A | **588 STF** | ISS **não** incide sobre depósitos, comissões e taxas de desconto bancários (é operação financeira, não serviço) |
-> > | B | **138 STJ** | ISS **incide** no arrendamento mercantil de coisas móveis (STF: leasing financeiro e lease-back sim; operacional não) |
-> > | C | **167 STJ** | concreto por empreitada, preparado na betoneira a caminho da obra, **é serviço**, sujeito **apenas ao ISS** |
-> > | D | **274 STJ** | ISS **incide** sobre a assistência médica, **incluindo** refeições, medicamentos e diárias hospitalares |
-> > | E | **524 STJ** | intermediação → base = só a taxa de agenciamento; fornecimento de mão de obra → base inclui salários e encargos |
-> >
-> > **Para visualizar a E:** no **agenciamento** a empresa só faz a ponte (o vínculo é com o tomador), então o serviço dela vale só a comissão. No **fornecimento**, os trabalhadores são dela — o que ela vende é a mão de obra inteira, salário incluído. É o mesmo par que o cofre já tem no local de pagamento do ISS.
-> >
-> > **Macete de prova:** em questão de súmulas de ISS, a VUNESP inverte o verbo (incide × não incide). Banco e tarifa bancária = não; leasing, concreto, hospital = sim.
-> >
-> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:3366` (agenciamento × fornecimento de mão de obra) e `:3277` (leasing no STF) · internet súmulas 588 STF e 138, 167, 274, 524 STJ — https://scon.stj.jus.br/SCON/sumstj/ · https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp (nenhuma das cinco está no cofre)
+> > | A | **588 STF** | ISS <span class="g-cond">não</span> incide sobre depósitos, comissões e taxas de desconto bancários |
+> > | B | **138 STJ** | ISS <span class="g-cond">incide</span> no arrendamento mercantil de coisas móveis (STF: leasing financeiro e lease-back sim; operacional não) |
+> > | C | **167 STJ** | concreto por empreitada, preparado na betoneira a caminho da obra, **é serviço**, sujeito <span class="g-cond">apenas</span> ao ISS |
+> > | D | **274 STJ** | ISS <span class="g-cond">incide</span> sobre assistência médica, **incluindo** refeições, medicamentos e diárias hospitalares |
+> > | E | **524 STJ** | intermediação → só a taxa de agenciamento; fornecimento de mão de obra → salários e encargos entram |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Em questão de súmulas de ISS, a VUNESP mantém o enunciado e inverte o verbo (incide ↔ não incide). Você marcou a B porque a 138 STJ tem o sinal oposto.
+>
+> > [!tip] 💡 Macete
+> > **Banco** (depósito, comissão, desconto) = **não**. **Leasing, concreto, hospital** = **sim**, e só ISS. Trabalho temporário: **ponte** = comissão; **equipe própria** = tudo.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#2. Imposto sobre Serviços - ISS|Direito Tributário › ISS]] — o cofre tem agenciamento × fornecimento (linha 3366) e o leasing no STF (linha 3277), mas **nenhuma das cinco súmulas** (nada a grifar).
+> > **Fonte:** internet súmulas 588 STF e 138, 167, 274, 524 STJ — https://scon.stj.jus.br/SCON/sumstj/ · https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp
 
 > [!question]- 22/09 13:56 · Direito Tributário · VUNESP (ISS São Paulo 2023) — ITBI na consolidação da propriedade fiduciária
 > TEC #2635884. Acerca do imposto sobre a transmissão onerosa de bens imóveis (ITBI), ocorrendo a consolidação da propriedade em razão do inadimplemento do devedor fiduciante, é correto afirmar, com base na jurisprudência do STJ, que
@@ -623,10 +689,10 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > (A) nas operações diretas, sem intermediação de instituição financeira, incide sobre a compra e venda entre vendedor e comprador e não sobre a constituição da garantia, assim, se a garantia é executada em razão do inadimplemento do fiduciante, não há novo fato gerador do imposto.
 > (B) na transferência de imóvel pela compra e pela venda feitas com alienação fiduciária, há incidência do imposto em razão da compra e venda, mas não há incidência do imposto sobre o direito real de garantia oriundo do pacto acessório de alienação fiduciária, porquanto legalmente excetuado como hipótese de incidência, motivo pelo qual a operação inversa também não caracteri[za fato gerador].
 > (C) nessa operação, embora haja fato gerador do imposto, não haverá pagamento, porque se trata de transmissão do direito real de garantia, que é hipótese de exclusão tributária constitucionalmente qualificada.
-> (D) nessa operação, não há transferência de propriedade, posto que previamente ela já foi dada em garantia pelo devedor fiduciante ao credor fiduciário, como consequência do pacto acessório de alienação fiduciária, motivo pelo qual eventual nova cobrança do imposto caracterizará bitributação, vedada constitucionalmente.
-> (E) quando a propriedade se consolida em nome do credor fiduciário, por causa do inadimplemento do devedor fiduciante, ocorre novo fato gerador, conforme definido na Constituição Federal e no Código Tributário Nacional, consubstanciado na efetiva transferência do direito real, em sua plenitude, em favor do credor e, por esse motivo, incide o imposto.
+> (D) <mark style="background:rgba(163, 67, 31, 0.2)">nessa operação, não há transferência de propriedade, posto que previamente ela já foi dada em garantia</mark> pelo devedor fiduciante ao credor fiduciário, como consequência do pacto acessório de alienação fiduciária, motivo pelo qual eventual nova cobrança do imposto caracterizará bitributação, vedada constitucionalmente.
+> (E) <mark style="background:#affad1">quando a propriedade se consolida em nome do credor fiduciário, por causa do inadimplemento do devedor fiduciante, ocorre novo fato gerador</mark>, conforme definido na Constituição Federal e no Código Tributário Nacional, consubstanciado na efetiva transferência do direito real, em sua plenitude, em favor do credor e, por esse motivo, incide o imposto.
 >
-> **Marquei:** D · **Gabarito:** E
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 E
 > **Obs.:** me explique bem esse dispositivo, que ainda está nebuloso para mim.
 >
 > **Resposta com o entendimento do STJ (colada):**
@@ -634,17 +700,30 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > Esse é o entendimento do STJ:
 > RECURSO ESPECIAL. TRIBUTÁRIO. CONTRATO DE COMPRA E VENDA COM ALIENAÇÃO FIDUCIÁRIA. INADIMPLEMENTO DO DEVEDOR FIDUCIANTE. POSSE PLENA DO CREDOR FIDUCIÁRIO. INCIDÊNCIA DE ITBI. OBJETO DA DEMANDA (...) 4. Na transferência de imóvel pela compra e pela venda feitas com alienação fiduciária, há incidência do ITBI em razão da compra e venda, mas não há incidência do ITBI sobre o direito real de garantia oriundo do pacto acessório de alienação fiduciária, porquanto legalmente excetuado como hipótese de incidência (art. 156, II, CF; art. 35, II, CTN). Em outras palavras, em operações triangulares, em que existe uma instituição financeira, o vendedor transfere ao comprador a propriedade plena (com incidência do ITBI), e então o comprador, agora devedor fiduciante, entrega ao banco, credor fiduciário, a propriedade fiduciária (nessa operação não há o pagamento do citado tributo, pois se trata de transmissão do direito real de garantia, que é hipótese de exclusão tributária). Em operações diretas, sem intermediação de instituição financeira, o ITBI incide sobre a compra e a venda feitas entre vendedor e comprador e não sobre a constituição da garantia. CONSOLIDAÇÃO DA PROPRIEDADE PELO INADIMPLEMENTO DO DEVEDOR FIDUCIANTE - CARACTERIZAÇÃO DO FATO GERADOR DO ITBI NOS TERMOS DO ART. 156 DA CF E 35 DO CTN 5. Hipótese distinta se dá quando a propriedade se consolida em nome do credor fiduciário ante o inadimplemento do devedor fiduciante. Nesse caso ocorre novo fato gerador, nos termos definidos pela CF e pelo CTN, consubstanciado na efetiva transferência do direito real de propriedade, em sua plenitude, em favor do credor. 6. O fato de o credor fiduciário ter a propriedade resolúvel não significa dizer que não há transmissão de propriedade, nem que não ocorre o fato gerador do ITBI. Isso porque a propriedade fiduciária é qualificada como direito real de garantia (art. 1.367 do CC/2002), com regime jurídico correspondente, razão pela qual não há incidência do ITBI na constituição da aludida garantia. A propósito, elucidativo o teor do citado dispositivo: "Art. 1.367. A propriedade fiduciária em garantia de bens móveis ou imóveis sujeita-se às disposições do Capítulo I do Título X do Livro III da Parte Especial deste Código e, no que for específico, à legislação especial pertinente, não se equiparando, para quaisquer efeitos, à propriedade plena de que trata o art. 1.231." 7. O credor fiduciário, portanto, é mero detentor do citado direito de garantia, e não pleno proprietário, o que somente ocorre com a consolidação pelo inadimplemento da dívida pelo devedor, nos termos do parágrafo único do art. 1.368-B da mesma codificação: "Art. 1.368-B. A alienação fiduciária em garantia de bem móvel ou imóvel confere direito real de aquisição ao fiduciante, seu cessionário ou sucessor. Parágrafo único. O credor fiduciário que se tornar proprietário pleno do bem, por efeito de realização da garantia, mediante consolidação da propriedade, adjudicação, dação ou outra forma pela qual lhe tenha sido transmitida a propriedade plena, passa a responder pelo pagamento dos tributos sobre a propriedade e a posse, taxas, despesas condominiais e quaisquer outros encargos, tributários ou não, incidentes sobre o bem objeto da garantia, a partir da data em que vier a ser imitido na posse direta do bem." 8. Por isso é que incide o tributo em tal momento, pois há transmissão da propriedade plena do bem, que é exatamente o fato gerador do ITBI descrito como "transmissão a qualquer título da propriedade". Tanto é assim que o art. 26, § 7º, da Lei 9.514/1997 regula o procedimento registral ressaltando, inclusive de recolhimento do ITBI. (...) (REsp n. 1.837.704/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2019, DJe de 27/5/2020.)
 >
-> > [!success] Resposta
-> > **E — STJ, REsp 1.837.704/DF.** Separe a alienação fiduciária em **três momentos** e pergunte, em cada um, se alguém recebeu **propriedade plena**:
+> > [!success] ✅ Resposta — E
+> > **STJ, REsp 1.837.704/DF.** <mark style="background:#fff88f">Na consolidação, o credor fiduciário vira proprietário pleno: há transmissão da propriedade e, portanto, novo fato gerador do ITBI</mark>. Na constituição da garantia, não — direito real de garantia está <span class="g-cond">excetuado</span> (art. 156, II, CF; art. 35, II, CTN).
 > >
+> > - **(D)** trata a garantia como se o banco já fosse dono. Não era: a propriedade fiduciária **não se equipara** à propriedade plena (art. 1.367 CC). Não há bitributação: são dois fatos geradores diferentes (momentos 1 e 3 do quadro).
+> > - **(A)** e **(B)** usam trechos verdadeiros do acórdão (momentos 1 e 2) e tiram deles a conclusão errada para o momento 3.
+> > - **(C)** chama a garantia de "exclusão tributária"; ali simplesmente não há fato gerador.
+>
+> > [!example]- 🧩 Quadro — os três momentos da alienação fiduciária
 > > | Momento | O que passa | ITBI? |
 > > | --- | --- | --- |
 > > | 1. Compra e venda (vendedor → comprador) | propriedade plena | **incide** |
-> > | 2. Comprador dá o imóvel em garantia ao banco | propriedade **fiduciária** = direito real de **garantia** | **não incide** — art. 156, II, CF e art. 35, II, CTN excluem os direitos reais de garantia |
-> > | 3. Inadimplência → propriedade **se consolida** no credor | o credor vira **proprietário pleno** | **incide** — novo fato gerador |
-> >
-> > A D erra porque trata o momento 2 como se o banco já fosse dono. Não era: a propriedade fiduciária **não se equipara** à propriedade plena (art. 1.367 CC). Só na consolidação (momento 3) acontece a transmissão da propriedade plena — e a Lei 9.514/97, art. 26, §7º, até exige o recolhimento do ITBI para averbar a consolidação. Por isso não há bitributação: são dois fatos geradores diferentes (momentos 1 e 3). Se o devedor **quita** a dívida, a garantia só se cancela e nada é transmitido: sem ITBI.
-> >
-> > A e B pegam trechos verdadeiros do acórdão (momentos 1 e 2) e tiram deles a conclusão errada para o momento 3.
-> >
-> > **Fonte:** ementa do STJ colada na captura · cofre `MATERIAS/P2 - Direito Tributário.md:3520` (ITBI: "exceto os de garantia") — o caso da alienação fiduciária não está no cofre · internet CTN art. 35 — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+> > | 2. Comprador dá o imóvel em garantia ao banco | propriedade **fiduciária** = direito real de **garantia** | **não incide** — <span class="g-cond">exceto</span> os de garantia |
+> > | 3. Inadimplência → propriedade **se consolida** no credor | credor vira **proprietário pleno** | **incide** — novo fato gerador (Lei 9.514/97, art. 26, §7º, exige o ITBI para averbar) |
+> > | (3') Devedor quita a dívida | garantia se cancela, nada é transmitido | não incide |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > "Bitributação" e "a propriedade já tinha sido dada em garantia" soam bem, mas confundem garantia com propriedade plena. A pergunta certa em cada momento: alguém recebeu **propriedade plena**?
+>
+> > [!tip] 💡 Macete
+> > ITBI segue a **propriedade plena**: compra (**sim**) → garantia (**não**) → consolidação (**sim**).
+>
+> > [!quote]- 📜 Texto literal — CTN, art. 35, II
+> > II - a transmissão, a qualquer título, de direitos reais sobre imóveis, <span class="g-cond">exceto</span> os direitos reais de garantia;
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#7. Imposto sobre a Transmissão de Bens Imóveis — ITBI (arts. 35 a 42)|Direito Tributário › ITBI]] — o cofre tem o fato gerador em resumo ("exceto os de garantia", linha 3520), sem texto literal para grifar; o caso da alienação fiduciária **não está no cofre**.
+> > **Fonte:** ementa do STJ colada na captura · internet CTN art. 35 — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
