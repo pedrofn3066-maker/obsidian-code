@@ -21,7 +21,7 @@ Mesma ordem de peso da tabela "Percentual de cobrança" da nota principal.
 | ITCMD | 15,5% | [[P2 - Legislação Tributária Estadual (BA)#- ITCMD (Constituição Federal)\|pela CF]] · [[P2 - Legislação Tributária Estadual (BA)#ITD — transmissão causa mortis e doação (COTEB)\|pelo COTEB]] — **duas casas** |
 | IPVA | 8,0% | [[P2 - Legislação Tributária Estadual (BA)#- IPVA (Constituição Federal)\|pela CF]] · [[P2 - Legislação Tributária Estadual (BA)#IPVA (COTEB)\|pelo COTEB]] — **duas casas** |
 | LC nº 24/1975 e CONFAZ | 8,0% | [[P2 - Legislação Tributária Estadual (BA)#- Lei Complementar nº 24/75\|LC 24/75]] · [[P2 - Legislação Tributária Estadual (BA)#Benefícios fiscais estaduais, LC 24/75, CONFAZ e guerra fiscal\|benefícios e guerra fiscal]] |
-| LC nº 105/2001 — Sigilo | 6,0% | <mark style="background:#ffb8b8">**gap** — só existe na tabela e no checklist. Nenhum heading, nenhuma linha de conteúdo</mark> |
+| LC nº 105/2001 — Sigilo | 6,0% | [[P2 - Legislação Tributária Estadual (BA)#- Lei Complementar nº 105/2001\|Lei Complementar nº 105/2001]] |
 | LC nº 160/2017 | 5,0% | [[P2 - Legislação Tributária Estadual (BA)#Lei Complementar nº 160/17\|Lei Complementar nº 160/17]] |
 | LC nº 192/2022 | 2,0% | [[P2 - Legislação Tributária Estadual (BA)#- Lei Complementar nº 192/22\|Lei Complementar nº 192/22]] |
 
@@ -58,7 +58,6 @@ O ponto principal deste MOC. Quem estudar LTE só pelo checklist não encontra n
 
 Levantados em 2026-09-10. Confirmar contra a nota antes de tratar como definitivo — este mapa é curado, não calculado.
 
-- **LC 105/2001 (Sigilo), 6,0% do edital:** existe na tabela VINTEUM e no checklist, sem nenhum conteúdo no corpo. É o único item do checklist sem casa.
 - **ITCMD e IPVA têm duas casas cada** — um bloco pela Constituição Federal no topo, outro pelo COTEB lá embaixo. Decidir qual é o principal, ou fundir.
 - **Dois cadernos de erro para a mesma matéria:** [[ERRO LTE]] (31 linhas de conteúdo) e [[ERRO P2 - Legislação Tributária Estadual (BA)]] (29 linhas). Ambos em uso, mesmo template. Erro registrado num não aparece no outro.
 - **Aninhamento quebrado:** os 35 tópicos do esqueleto operacional são `###` que vêm depois de `# - IPVA (Constituição Federal)`, então aparecem visualmente dentro de IPVA quando na verdade são de ICMS em geral.
