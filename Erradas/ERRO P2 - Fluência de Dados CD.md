@@ -56,3 +56,28 @@ II. ~~Disponibilidade e acesso~~ (Reuso e redistribuição): os dados precisam
 
 # OUTRAS BANCAS 
 - #banca/outras
+
+---
+
+## 💭 Dúvidas respondidas
+
+*(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
+
+> [!question]- 21/09 22:12 · Fluência de Dados (Ferramentas de BI e Visualização de Dados) · FCC (Auditor Fiscal Tributário, Pref J Guararapes) — Ferramenta de BI para análise em tempo real
+> #3116008 FCC - 2024 - Auditor Fiscal Tributário (Pref J Guararapes)
+> Uma prefeitura, que possui grandes volumes de dados provenientes de várias fontes, busca otimizar a gestão de dados relacionados a serviços públicos, como saúde, educação e transporte. Para realizar análises em tempo real desses dados provenientes de várias fontes essa prefeitura deve usar a ferramenta de Business Intelligence (BI)
+> (A) Data Warehouse.
+> (B) OLAP (Online Analytical Processing).
+> (C) ETL (Extract, Transform, Load).
+> (D) Microsoft Access.
+> (E) QlikView.
+>
+> **Marquei:** B · **Gabarito:** E
+> **Obs.:** resposta de colegas do TEC — QlikView é BI conhecida por análise associativa, em memória, com dashboards interativos e conexão a diversas fontes; consegue lidar com grandes volumes e se integrar a tecnologias de Big Data.
+>
+> > [!success] Resposta
+> > A pergunta pede uma **ferramenta** de BI, ou seja, um produto pronto para análise em tempo real de várias fontes — é o que o QlikView é. As outras alternativas são conceitos/componentes, não produtos: OLAP é o modelo de análise multidimensional (o "como"), Data Warehouse é o repositório dos dados, ETL é o processo de extração/transformação/carga — nenhum deles é, sozinho, "a ferramenta" que a prefeitura contrataria. Access (D) é SGBD de uso pessoal, não ferramenta de BI para grande volume.
+> >
+> > **Pegadinha:** a banca troca o componente técnico (OLAP, DW, ETL) pelo produto final (QlikView, Power BI, Tableau).
+> >
+> > **Fonte:** cofre `MATERIAS/P2 - Fluência de Dados BD.md:297` (Business Intelligence e Analytics) e `:180` (OLAP). O nome "QlikView" como exemplo de ferramenta não está no cofre; a distinção conceito × ferramenta é do professor/análise, não do cofre.
