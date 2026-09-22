@@ -160,7 +160,7 @@ A transformação de dados é um processo no qual os dados brutos são modificad
 | **Custo de aquisição** | Custo de aquisição e verificação dos dados em sua forma original.                               |
 
 ##  4 Governança de Dados: papéis, políticas, accountability, stewardship e alinhamento estratégico.
-- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-19
+- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-21
 
 **De acordo com o DAMA DMBOK, a governança de dados tem como objetivo central habilitar a organização a gerenciar seus dados como ativos valiosos, exigindo _accountability_ (responsabilização), controle e regras bem definidas, de forma alinhada aos objetivos do negócio.**
 Veja os erros das outras opções:
@@ -495,6 +495,124 @@ DECISÃO / AÇÃO
 | **Conhecimento / Inteligência** | Interpretação capaz de apoiar decisões e ações. |
 
 ⭐ Pense como um ciclo: coletar → integrar → analisar → identificar riscos → priorizar → agir → avaliar resultados.
+
+## - Business Intelligence e Analytics
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Business Intelligence (BI)** é o conjunto de tecnologias, processos e práticas que transforma dados brutos em informações organizadas e visualmente compreensíveis, para apoiar a tomada de decisão. Segundo Turban, a arquitetura de BI tem quatro componentes:
+
+| Componente | Função |
+| --- | --- |
+| **Data Warehouse** | repositório com os dados-fonte, já integrados e tratados |
+| **Análise de Negócios** | ferramentas para manipular e analisar os dados do DW (inclui Data Mining) |
+| **Business Performance Management (BPM)** | monitora e otimiza o desempenho, conectando metas estratégicas a indicadores (ex.: Balanced Scorecard) |
+| **Interface de Usuário** | dashboards, portais e painéis que apresentam a informação de forma visual e interativa |
+
+O **processo de BI** segue esse fluxo: **Data Sources** (ERP, CRM, planilhas, APIs — lógica OLTP) → **ETL** → **Data Warehouse** (ou EDW) → ferramentas de consulta, relatório e visualização.
+
+⚠️ **BI clássico só faz análise descritiva e diagnóstica** ("o que aconteceu" e "por que aconteceu") — análise preditiva e prescritiva pertencem, a rigor, a Business Analytics, Data Science ou Analytics Avançado. Na prática, porém, ferramentas de BI (Power BI, Tableau, Qlik Sense) já embarcam funções preditivas simples.
+
+**BI 3.0** é a fase que incorpora inteligência artificial para automatizar a tomada de decisão em tempo real.
+
+O **dashboard** organiza a informação em três camadas: **monitoramento** (visão em tempo real), **análise** (exploração para gerar insight) e **gerenciamento** (apoio à decisão).
+
+Em BI, vale a tríade: **dado** (registro bruto) → **informação** (dado organizado) → **conhecimento** (valor gerado a partir da informação, para apoiar a decisão).
+
+> [!info]- Ponte
+> A mesma tríade dado → informação → conhecimento aparece em [[#- Inteligência Fiscal|Inteligência Fiscal]] (linha 493), aplicada ao contexto fiscal. Ferramentas de mercado citadas aqui (Power BI, Tableau, Qlik Sense) reaparecem em [[#- Ferramentas de BI e Visualização de Dados|Ferramentas de BI e Visualização de Dados]], logo abaixo, e na dúvida sobre QlikView em `Erradas/ERRO P2 - Fluência de Dados CD.md` (heading Dúvidas respondidas).
+
+## - Data Warehouse e Data Mart
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Definições formais** — palavras-chave mais cobradas em prova:
+
+| Autor | Definição |
+| --- | --- |
+| **Ralph Kimball** | conjunto de ferramentas e técnicas de projeto que, aplicadas às necessidades dos usuários e aos bancos de dados específicos, permitem planejar e construir um Data Warehouse |
+| **Bill Inmon** | coleção de dados orientada por assunto, integrada, variável com o tempo e **não volátil**, para dar suporte à tomada de decisão |
+| **Arun Sen** | banco de dados para suporte à decisão de negócios, com dados históricos sumarizados e consolidados a partir de bancos de dados operacionais |
+| **Kenneth Laudon** | banco de dados — com ferramentas de consulta e relatório — que armazena dados atuais e históricos extraídos de vários sistemas, consolidados para análise e relatórios administrativos |
+
+<mark style="background:rgba(240, 200, 0, 0.2)">Orientado por assunto</mark>: organizado por tema de negócio (Vendas, Clientes, Finanças), não por sistema. <mark style="background:rgba(240, 200, 0, 0.2)">Integrado</mark>: dados de várias fontes são padronizados e consolidados. <mark style="background:rgba(240, 200, 0, 0.2)">Variável no tempo</mark>: guarda a perspectiva histórica (ano, mês, dia). <mark style="background:rgba(240, 200, 0, 0.2)">Não volátil</mark>: depois de carregado via ETL, o dado não é alterado ou apagado individualmente — sem UPDATE/DELETE linha a linha, só atualização em ciclos.
+
+**Tipos de repositório no ecossistema do DW:**
+
+| Tipo | O que é |
+| --- | --- |
+| **Enterprise Data Warehouse (EDW)** | repositório corporativo centralizado, com dados de todas as áreas — a "fonte única da verdade" da empresa |
+| **Operational Data Store (ODS)** | intermediário entre OLTP e o DW; atualização quase em tempo real, sem grande histórico, e pode permitir atualização direta (insert/update/delete) |
+| **Data Mart (DM)** | subconjunto do DW dedicado a uma área (Vendas, RH, Finanças); mais simples e rápido que o EDW completo |
+
+> [!tip]- Lupa: Data Mart dependente × independente (Inmon × Kimball)
+> **A ideia em uma frase:** a banca cobra quem defende cada abordagem e a direção do fluxo de dados.
+> 
+> **O passo a passo:** no modelo **dependente** (Top-Down, Bill Inmon), o Data Mart nasce **depois** do EDW — puxa dados já integrados e limpos dele, o que dá mais governança mas exige que o EDW já exista. No modelo **independente** (Bottom-Up, Ralph Kimball), o Data Mart é construído **direto dos sistemas transacionais**, sem depender de um DW central — implantação mais rápida, mas com risco de inconsistência entre Data Marts e de "ilhas de informação" (data silos). O modelo **híbrido** combina os dois: recebe dados do DW e de fontes operacionais.
+> 
+> **O erro clássico:** trocar a autoria (dizer que Kimball defende o Top-Down ou Inmon o Bottom-Up) ou afirmar que o modelo independente sempre é pior — ele só troca governança por velocidade de implantação.
+
+#### Data Lake
+
+O Data Lake adota **schema-on-read**: os dados entram brutos e só são estruturados quando alguém precisa usá-los. O Data Warehouse, ao contrário, exige **schema-on-write**: a modelagem vem antes do armazenamento.
+
+⚠️ Sem governança, catalogação, controle de acesso e versionamento, o Data Lake vira um **Data Swamp** (pântano de dados): arquivos duplicados, dados desatualizados, sem metadados e sem utilidade prática.
+
+| Critério | Data Warehouse | Data Lake |
+| --- | --- | --- |
+| Tratamento dos dados | extraídos, transformados e só então carregados (ETL) | carregados brutos, transformados depois (ELT) |
+| Tipo de dados | principalmente estruturados | estruturados, semiestruturados (JSON, XML) e não estruturados (imagem, áudio, vídeo, log) |
+| Usuários | analistas de BI, gestores | cientistas e engenheiros de dados, IA/ML |
+| Esquema | schema-on-write | schema-on-read |
+| Objetivo | relatórios, dashboards, indicadores (KPI) | exploração, Machine Learning, Big Data |
+
+> [!info]- Ponte
+> A dúvida #3116008 (QlikView) em `Erradas/ERRO P2 - Fluência de Dados CD.md` troca justamente ferramenta de BI por componente técnico (OLAP, DW, ETL) — o mesmo cuidado vale aqui: Data Lake e Data Warehouse são repositórios, não ferramentas.
+
+## - OLAP × OLTP
+- [ ] status [dom:: 0] [peso:: 3]
+
+| Característica | OLTP (dados operacionais) | OLAP (dados informacionais) |
+| --- | --- | --- |
+| Finalidade | suporte a operações do dia a dia (transações) | suporte à análise, decisão e relatórios |
+| Conteúdo dos dados | valores atuais/detalhados, registro a registro | dados sumarizados, históricos, integrados de várias fontes |
+| Organização | por aplicação/processo (sistema de vendas, RH) | por assunto/tema de negócio (Vendas, Clientes, Finanças) |
+| Natureza | dinâmica (muda constantemente) | estática ou historizada (só muda em ciclos de carga) |
+| Modelo de dados | relacional, normalizado (3FN) | dimensional (fatos e dimensões), desnormalizado |
+| Atualização | CRUD frequente (INSERT/UPDATE/DELETE) | carregamento em lote (ETL/ELT), sem UPDATE direto na maior parte dos casos |
+| Tempo de resposta | milissegundos a menos de 1 segundo | segundos a minutos, conforme a complexidade |
+| Usuários típicos | operadores, sistemas de cadastro | gestores, analistas, BI, cientistas de dados |
+
+> [!info]- Ponte
+> O detalhamento dos tipos de armazenamento OLAP (MOLAP/ROLAP/HOLAP), das variações de acesso (DOLAP/WOLAP) e das operações sobre o cubo (slice, dice, pivot, drill down/up/across/through) está em [[P2 - Fluência de Dados BD#- OLAP e suas diferenças com OLTP|P2 - Fluência de Dados BD]] — não repito aqui para não duplicar.
+
+## - ETL (Extração, Transformação e Carga)
+- [ ] status [dom:: 0] [peso:: 3]
+
+O ETL é considerado uma das etapas mais críticas e demoradas de um projeto de Data Warehouse: estima-se que **70% a 80%** do esforço total do projeto esteja no ETL, e que cerca de **60%** do esforço do próprio ETL esteja só na **extração** — os dados vêm espalhados em sistemas, planilhas, APIs e bancos legados, cada um exigindo captura e conversão diferentes.
+
+Entre a extração e a carga, os dados passam pela **Staging Area** (ou ODS/Staging): uma zona técnica e temporária, não acessível a usuários finais, onde ocorrem limpeza, padronização de formatos (ex.: "SP", "São Paulo", "S. Paulo" viram um só padrão), remoção de duplicidades e verificação de integridade, antes da carga no DW.
+
+Depois da carga inicial (todo o histórico disponível), o mais comum é a **carga incremental**: carregar só o que é novo ou mudou desde a última atualização, usando técnicas como *timestamp*, logs de transação ou **Change Data Capture (CDC)**.
+
+> [!tip]- Lupa: ETL × ELT
+> **A ideia em uma frase:** as duas siglas levam dados de sistemas transacionais a um ambiente analítico — a diferença é **onde** a transformação acontece.
+> 
+> **O passo a passo:** no **ETL**, a ordem é Extrair → **Transformar** → Carregar: os dados só entram no destino (DW) depois de tratados. No **ELT**, a ordem é Extrair → Carregar → **Transformar**: os dados brutos vão primeiro para o repositório (DW, Data Lake ou Lakehouse) e são transformados **dentro** dele, sob demanda, geralmente com processamento paralelo em nuvem (MPP). O ELT virou tendência porque armazenamento e processamento em nuvem ficaram baratos e rápidos, permitindo guardar tudo bruto (schema-on-read) e deixar analistas transformarem via SQL/BI, sem depender só de engenheiros de dados.
+> 
+> **O erro clássico:** achar que ELT substitui ETL — na prática convivem em arquiteturas híbridas (ETL para dados críticos/legados, ELT para Big Data em nuvem); e esquecer que o ELT também tem risco, o de virar Data Swamp se faltar governança.
+
+> [!info]- Ponte
+> A distinção **ETL × API** (fluxo de dados × interface de comunicação entre sistemas) está em [[#- Integração de Sistemas|Integração de Sistemas]] (linha 459) — é outro corte, não confundir com ETL × ELT acima.
+
+## - Ferramentas de BI e Visualização de Dados
+- [ ] status [dom:: 0] [peso:: 3]
+
+Ferramentas de mercado citadas como exemplo de BI: **Power BI**, **Tableau**, **Qlik Sense** e **Excel avançado**.
+
+> [!warning]- Pendência de autoria
+> O material-fonte só cita esses nomes, sem comparar recursos, licenciamento ou arquitetura entre eles. Para um heading mais completo (o que cada ferramenta faz de diferente), falta capturar material específico sobre BI de mercado.
+
+> [!info]- Ponte
+> A dúvida #3116008, em `Erradas/ERRO P2 - Fluência de Dados CD.md` (heading Dúvidas respondidas), erra justamente ao confundir OLAP (componente técnico) com QlikView (ferramenta) — a pegadinha central deste heading. Ver também [[#- Business Intelligence e Analytics|Business Intelligence e Analytics]], que já cita as mesmas ferramentas.
 
 ## - Mapa de Fixação
 - [ ] status [dom:: 0] [peso:: 3]
