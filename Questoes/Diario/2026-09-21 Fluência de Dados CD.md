@@ -9,7 +9,7 @@ slot: S4
 total: 25
 acertos: 21
 tempo_min:
-erro_tipo:
+erro_tipo: excecao
 banca:
 origem: TEC (importado)
 tec:

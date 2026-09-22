@@ -19,7 +19,7 @@ slot: S3
 total: 61
 acertos: 42
 tempo_min:
-erro_tipo:
+erro_tipo: desconhecimento
 banca:
 origem: TEC (importado)
 tec:

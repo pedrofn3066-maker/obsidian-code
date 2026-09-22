@@ -18,7 +18,7 @@ slot: S2
 total: 22
 acertos: 18
 tempo_min:
-erro_tipo:
+erro_tipo: desatencao
 banca:
 origem: TEC (importado)
 tec:

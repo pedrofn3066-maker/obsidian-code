@@ -17,7 +17,7 @@ slot: S3
 total: 30
 acertos: 26
 tempo_min:
-erro_tipo:
+erro_tipo: excecao
 banca:
 origem: TEC (importado)
 tec:

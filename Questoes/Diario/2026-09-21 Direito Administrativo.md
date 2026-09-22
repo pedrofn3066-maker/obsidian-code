@@ -17,7 +17,7 @@ slot: S5
 total: 19
 acertos: 15
 tempo_min:
-erro_tipo:
+erro_tipo: desatencao
 banca:
 origem: TEC (importado)
 tec:
