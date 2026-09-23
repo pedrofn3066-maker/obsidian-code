@@ -2,15 +2,15 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "custom-background",
-    "extended-colorschemes",
     "painel",
     "topazio",
-    "vault-colors",
     "outline-heading-colors",
     "grifos",
     "branco",
     "radialStatusButAwesome",
-    "notion-cards"
+    "notion-cards",
+    "extended-colorschemes",
+    "vault-colors"
   ],
   "theme": "moonstone",
   "baseFontSize": 18,
