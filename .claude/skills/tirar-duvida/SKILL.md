@@ -128,6 +128,16 @@ Cores (mesmas do cofre, não invente outras):
 | núcleo da regra, uma vez por resposta | `<mark style="background:#fff88f">` (amarelo, o mais usado nas notas) |
 | prazo · condição/ressalva · competência · número | `<span class="g-prazo">` · `g-cond` · `g-comp` · `g-num` (`.obsidian/snippets/grifos.css`; regras de uso em `.claude/commands/triar-inbox-plus.md`, "Grifos semânticos") |
 
+### Validar a sintaxe antes de encerrar
+
+Cada `[!tipo]` acima é `[!tipo]` (fixo) ou `[!tipo]-` (recolhível, com o `-` colado no `]`, sem nada depois dele além do espaço e do título). Escrever esses marcadores à mão ou por concatenação de string em Python é onde nasce erro de colchete (ex.: `[!example]-]`, `[!quote]-]`) — o Obsidian não reconhece isso como callout e mostra o marcador cru na tela. Depois de gravar o(s) caderno(s), sempre rode:
+
+```bash
+grep -n '\[!.*\]-\]' "Erradas/ERRO <MATÉRIA>.md"
+```
+
+Tem que sair vazio. Se aparecer algo, é o bug do colchete: conserte para `[!tipo]-` e rode de novo. Vale também para qualquer callout novo que a resposta usar além dos listados aqui.
+
 Quando usar cada bloco:
 - **🧩 Quadro** (`[!example]-`, recolhido): tema complexo ou comparação — dois institutos parecidos (zona urbana × expansão urbana), vários incisos que a banca embaralha, momentos de uma operação, súmulas com sinal trocado. Tabela de 2 a 4 colunas; cada linha responde uma alternativa ou um caso. Pergunta simples não leva quadro.
 - **⚠️ Pegadinha**: só se der para dizer o que foi trocado (verbo invertido, definição trocada entre pares, "exclusivamente", colagem de dois itens).
@@ -169,3 +179,4 @@ Regras do reformat:
 - Nunca afirme que "está no cofre" sem ter lido o trecho. Nunca invente artigo, número de súmula ou percentual: se não achou, diga que não achou.
 - Dúvida ambígua (ex.: "ICMS" existe em Tributário e em Legislação Estadual BA): responda pela matéria mais provável e mencione a outra em uma linha, sem interrogatório.
 - Pedido de *editar* nota, absorver PDF ou triar capturas não é desta skill → `/absorver-pdf`, `/triar-inbox`.
+- **Nunca encerre a tarefa sem rodar** `grep -n '\[!.*\]-\]' "Erradas/ERRO <MATÉRIA>.md"` em todo caderno tocado (ver "Validar a sintaxe antes de encerrar"). É a mesma classe de erro que já vazou uma vez (colchete sobrando no `[!example]-]`) — checar sempre, não só quando desconfiar.
