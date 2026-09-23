@@ -48,6 +48,8 @@ prioridade: importante
 - [ ] Eficácia das Normas Constitucionais [dom:: 3] [peso:: 2.8]
 - [ ] Nacionalidade [dom:: 0] [peso:: 2.3]
 - [ ] Poder Executivo [dom:: 0] [peso:: 2.3]
+- [ ] Municípios - Organização e Competências (arts. 29 a 31 da CF/1988) [dom:: 0] [peso:: 2]
+- [ ] Dos Precatórios (art. 100 da CF/1988) [dom:: 0] [peso:: 2]
 
 Jurisprudência (Súmulas Vinculantes + julgados STF/STJ): [[Resumo Jurisprudencia - Direito Constitucional (VINTEUM)]] · [[Sumulas Vinculantes - Direito Constitucional]]
 
