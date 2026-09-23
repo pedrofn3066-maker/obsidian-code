@@ -763,7 +763,7 @@ Bens da União × bens dos Estados (arts. 20 e 26, p. 24–25 e 28)
 
 **Competência legislativa privativa da União (art. 22)** *(p. 26–27)*
 - É o rol do **legislar**: "Compete privativamente à União legislar sobre".
-- (I) <mark>direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho</mark>; (II) desapropriação; (IV) águas, energia, informática, telecomunicações e radiodifusão; (VI) sistema monetário; (XI) **trânsito e transporte**; (XIII) nacionalidade, cidadania e naturalização; (XXIII) **seguridade social**; (XXIV) **diretrizes e bases da educação nacional**; (XXV) registros públicos; (XXVII) <mark>normas gerais de licitação e contratação</mark>; (XXX) proteção e tratamento de dados pessoais.
+- (I) <mark>direito civil, comercial, penal, processual, eleitoral, agrário, marítimo, aeronáutico, espacial e do trabalho</mark>; (II) desapropriação; (IV) águas, energia, informática, telecomunicações e radiodifusão; (VI) sistema monetário; (XI) <mark>**trânsito e transporte**</mark>; (XIII) nacionalidade, cidadania e naturalização; (XXIII) **seguridade social**; (XXIV) **diretrizes e bases da educação nacional**; (XXV) registros públicos; (XXVII) <mark>normas gerais de licitação e contratação</mark>; (XXX) proteção e tratamento de dados pessoais.
 - **Parágrafo único:** <mark>lei complementar poderá autorizar os Estados a legislar sobre questões específicas</mark> das matérias do art. 22.
 - ⚠️ "Normas gerais" de licitação (XXVII) e de organização das polícias militares e corpos de bombeiros (XXI) estão no art. 22, que é **privativo**, e não no art. 24.
 
@@ -773,7 +773,7 @@ Bens da União × bens dos Estados (arts. 20 e 26, p. 24–25 e 28)
 
 **Competência legislativa concorrente (art. 24)** *(p. 27–28)*
 - <mark>União, Estados e DF</mark>. **Municípios não constam do caput.**
-- (I) <mark>direito tributário, financeiro, penitenciário, econômico e urbanístico</mark>; (II) orçamento; (III) juntas comerciais; (IV) custas dos serviços forenses; (VI) florestas, caça, pesca, fauna, meio ambiente e poluição; (IX) educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa, desenvolvimento e inovação; (X) juizado de pequenas causas; (XI) **procedimentos em matéria processual**; (XII) **previdência social**, proteção e defesa da saúde; (XIII) assistência jurídica e defensoria pública; (XVI) organização, garantias, direitos e deveres das **polícias civis**.
+- (I) <mark>direito tributário, financeiro, penitenciário, econômico e urbanístico</mark>; (II) orçamento; (III) juntas comerciais; (IV) custas dos serviços forenses; (VI) florestas, caça, pesca, fauna, meio ambiente e poluição; (IX) educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa, desenvolvimento e inovação; (X) juizado de pequenas causas; (XI) <mark>**procedimentos em matéria processual**</mark>; (XII) **previdência social**, proteção e defesa da saúde; (XIII) assistência jurídica e defensoria pública; (XVI) organização, garantias, direitos e deveres das **polícias civis**.
 - **§ 1º:** a União limita-se a **normas gerais**. **§ 2º:** isso não exclui a competência **suplementar** dos Estados. **§ 3º:** sem lei federal de normas gerais, os Estados exercem a competência legislativa **plena**, para atender a suas peculiaridades. **§ 4º:** a superveniência de lei federal sobre normas gerais <mark>suspende a eficácia</mark> da lei estadual no que lhe for contrário.
 
 > [!quote]- Texto literal: art. 24, §§ 1º a 4º (CF/88 EC 139, p. 28)
@@ -896,7 +896,7 @@ Número máximo de Vereadores (art. 29, IV, p. 29–30)
 | mais de 7.000.000 até 8.000.000 | 53 |
 | mais de 8.000.000 | 55 |
 
-- (V) Subsídios de **Prefeito, Vice e Secretários Municipais**: fixados por **lei de iniciativa da Câmara Municipal**. (VI) Subsídio dos **Vereadores**: fixado pelas Câmaras <mark>em cada legislatura para a subsequente</mark>, com os tetos do quadro abaixo. *(p. 30)*
+- (V) Subsídios de **Prefeito, Vice e Secretários Municipais**: fixados por <mark>**lei de iniciativa da Câmara Municipal**</mark>. (VI) Subsídio dos **Vereadores**: fixado pelas Câmaras <mark>em cada legislatura para a subsequente</mark>, com os tetos do quadro abaixo. *(p. 30)*
 
 Teto do subsídio do Vereador (art. 29, VI, p. 30)
 
@@ -1276,11 +1276,11 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 - **Caput:** os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais em virtude de sentença judiciária seguem <mark>exclusivamente a ordem cronológica de apresentação dos precatórios</mark>, à conta dos créditos respectivos, <mark>proibida a designação de casos ou de pessoas</mark> nas dotações orçamentárias e nos créditos adicionais.
 - **§ 1º — alimentares:** compreendem os débitos decorrentes da relação laboral ou previdenciária, independentemente da sua natureza tributária, inclusive a repetição de indébito sobre remuneração ou proventos de aposentadoria, e as indenizações por morte ou invalidez fundadas em responsabilidade civil, em virtude de sentença transitada em julgado. São pagos <mark>com preferência sobre todos os demais débitos, exceto os do § 2º</mark>.
 - **§ 2º — superpreferência:** débitos alimentares cujos titulares, originários ou por sucessão hereditária, tenham **60 anos**, sejam **portadores de doença grave** ou **pessoas com deficiência** (na forma da lei), pagos com preferência sobre todos os demais, <mark>até o triplo do valor fixado para a RPV (§ 3º), admitido o fracionamento</mark>. O restante segue a ordem cronológica.
-- **§ 3º — RPV:** o regime de precatórios não se aplica às **obrigações definidas em lei como de pequeno valor** decorrentes de sentença transitada em julgado. **§ 4º:** leis próprias podem fixar valores distintos por ente, segundo a capacidade econômica, sendo <mark>o mínimo igual ao valor do maior benefício do RGPS</mark>.
+- **§ 3º — RPV:** o regime de precatórios <mark>não se aplica</mark> às **obrigações definidas em lei como de pequeno valor** decorrentes de sentença transitada em julgado. **§ 4º:** leis próprias podem fixar valores distintos por ente, segundo a capacidade econômica, sendo <mark>o mínimo igual ao valor do maior benefício do RGPS</mark>.
 - **§ 5º:** é obrigatória a inclusão no orçamento da verba para os precatórios <mark>apresentados até 1º de fevereiro</mark>, com <mark>pagamento até o final do exercício seguinte</mark> e valores atualizados monetariamente.
-- **§ 6º:** as dotações são consignadas ao **Poder Judiciário**. O **Presidente do Tribunal que proferiu a decisão exequenda** determina o pagamento integral e autoriza, a requerimento do credor, o **sequestro** da quantia, <mark>exclusivamente</mark> em caso de preterimento do direito de precedência ou de não alocação orçamentária do valor.
+- **§ 6º:** as dotações são <mark>consignadas ao **Poder Judiciário**</mark>. O **Presidente do Tribunal que proferiu a decisão exequenda** determina o pagamento integral e autoriza, a requerimento do credor, o **sequestro** da quantia, <mark>exclusivamente</mark> em caso de preterimento do direito de precedência ou de não alocação orçamentária do valor.
 - **§ 7º:** o Presidente do Tribunal que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatórios comete **crime de responsabilidade** e responde também perante o **CNJ**.
-- **§ 8º:** <mark>vedados os precatórios complementares ou suplementares de valor pago</mark> e o fracionamento, repartição ou quebra do valor da execução para enquadrar parte dele como RPV.
+- **§ 8º:** <mark>vedados os precatórios complementares ou suplementares de valor pago</mark> e <mark>o fracionamento, repartição ou quebra do valor da execução para enquadrar parte dele como RPV</mark>.
 - ⚠️ Fracionar é **admitido** para pagar a superpreferência (§ 2º) e **vedado** para transformar parte da execução em RPV (§ 8º).
 
 > [!quote]- Texto literal: art. 100, §§ 1º, 2º e 5º (CF/88 EC 139, p. 62)
