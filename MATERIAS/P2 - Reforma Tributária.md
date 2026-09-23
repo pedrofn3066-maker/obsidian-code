@@ -1348,6 +1348,10 @@ Fator de correção aplicado à Receita-Base dos Entes: <mark style="background:
 >
 > III - a forma pela qual o crédito de que trata este artigo poderá ser ressarcido ao contribuinte pelo Comitê Gestor do Imposto sobre Bens e Serviços, caso não seja possível compensar o valor da parcela nos termos do § 3º.
 
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Saldo credor do ICMS: caracterização e homologação (arts. 132 a 134)]] — a LC 227/26 detalha o procedimento (prazos de pedido/resposta, os dois regimes de homologação) que cumpre esta regra constitucional.
+> - [[P2 - Reforma Tributária#Saldo credor do ICMS: compensação, transferência e ressarcimento (arts. 135 a 141)]] — o detalhe operacional de compensação, transferência e ressarcimento (arts. 135 a 141) que cumpre o § 6º deste artigo.
+
 
 # LC 227/26 . Comitê Gestor do IBS (CGIBS)
 
@@ -2229,3 +2233,80 @@ Art. 131 — o CGIBS envia aos entes as informações de classificação dos cr�
 > [!info]- Ponte
 > - [[P2 - Reforma Tributária#Execução orçamentária e gestão fiscal do CGIBS (art. 42 e correlatos)]] — a dedução "financiamento do CGIBS" (arts. 118 a 128) alimenta esse orçamento.
 > - [[P2 - Reforma Tributária#ADCT: base de cálculo, saldos credores e demais transições (arts. 133 a 137)]] — o saldo credor de ICMS deduzido no art. 118, II, "a".
+
+## Saldo credor do ICMS: caracterização e homologação (arts. 132 a 134)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título IV, Capítulo I (Da Caracterização, da Homologação e da Utilização do Saldo Credor do ICMS), Seções I e II (Dos Saldos Credores; Do Pedido de Homologação), arts. 132 a 134. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.160-163.
+
+Art. 132: os saldos credores de ICMS <mark>existentes em 31 de dezembro de 2032</mark> (data da extinção definitiva do ICMS) são reconhecidos pelos Estados e pelo DF e utilizados pelos contribuintes nos termos deste Capítulo. § 1º: considera-se saldo credor o valor que (I) seja admitido pela legislação estadual/distrital vigente em 31/12/2032, decorrente de operações até essa data; (II) esteja regularmente apurado na escrituração fiscal, ainda que escriturado depois; (III) não tenha sido compensado/utilizado até 31/12/2032; e (IV) tenha sido <mark>homologado</mark> nos termos do art. 134. § 2º: também são homologados os créditos reconhecidos após o prazo, inclusive por decisão administrativa definitiva ou judicial transitada em julgado favorável ao sujeito passivo.
+
+Art. 133: a partir de <mark>1º de fevereiro de 2033</mark>, os saldos credores do art. 132 são atualizados pela variação do <mark>IPCA desde dezembro de 2032</mark>.
+
+Art. 134: regime de homologação — regra geral: o contribuinte protocola o pedido em até <mark>5 anos</mark> a partir de 1º/01/2033, e o Estado/DF se pronuncia em até <mark>24 meses</mark> do protocolo. Regime especial para créditos de <mark>ativo permanente</mark> (Lei Kandir, art. 20, § 5º — apropriação em 1/48 avos): o pedido é protocolado no mesmo período de apuração em que começar o aproveitamento do crédito (para bens que entrarem no estabelecimento a partir de 1º/01/2029), e o Estado/DF se pronuncia em até <mark>60 dias</mark>, prorrogável uma única vez por igual período se houver fiscalização em andamento. § 3º: se o Estado/DF não responder nos prazos, o saldo é <mark>homologado tacitamente</mark>. § 4º: a homologação tácita não impede o lançamento posterior, enquanto não decaído o direito da Fazenda de constituir o crédito.
+
+⚠️ Pegadinha de banca: não confundir os três prazos — <mark>5 anos</mark> é o prazo do contribuinte para pedir (regra geral); <mark>24 meses</mark> é o prazo do Estado/DF para responder (regra geral); <mark>60 dias</mark> (prorrogável 1x) é o prazo do Estado/DF só no regime especial do ativo permanente, cujo pedido não segue o prazo de 5 anos — segue o próprio período de apuração do início do aproveitamento.
+
+> [!quote]- Texto literal — Art. 134, caput, I e II (p.161)
+> "Para efeito de homologação dos saldos credores a que se refere o art. 132 desta Lei Complementar, ressalvado o disposto no § 1º deste artigo, será observado o seguinte: I - o interessado deverá protocolar o pedido no prazo máximo de 5 (cinco) anos, contado do dia 1º de janeiro de 2033; e II - o Estado ou o Distrito Federal deverá pronunciar-se no prazo máximo de 24 (vinte e quatro) meses, contado da data do respectivo protocolo."
+
+> [!tip]- Lupa: os dois regimes de homologação do saldo credor
+> **A ideia em uma frase:** o saldo credor "comum" segue um relógio de anos; o saldo do ativo permanente, que já tinha seu próprio cronograma de apropriação na Lei Kandir (1/48 avos), segue um relógio mais curto e amarrado a esse cronograma.
+> **O passo a passo:** (1) regime geral — pedido em até 5 anos (a partir de 1/1/2033), resposta do Estado em até 24 meses; (2) regime do ativo permanente — só vale para bens que entraram no estabelecimento a partir de 1/1/2029; o pedido é protocolado já no período em que começa o aproveitamento do crédito (não espera os 5 anos), e a resposta do Estado é rápida, 60 dias, prorrogável 1 vez se houver fiscalização em curso; (3) em ambos, silêncio do Estado dentro do prazo = homologação tácita, que não impede fiscalização posterior enquanto não decair o direito da Fazenda.
+> **O erro clássico:** aplicar o prazo de 5 anos também ao pedido de crédito de ativo permanente — esse pedido é atrelado ao período de apuração do início do aproveitamento, não a um prazo fixo de anos.
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#ADCT: base de cálculo, saldos credores e demais transições (arts. 133 a 137)]] — a regra-mãe constitucional (ADCT, art. 134) já registrada lá; esta nota detalha o procedimento que a LC 227/26 criou para cumpri-la (prazos de pedido/resposta, os dois regimes de homologação).
+
+---
+
+## Saldo credor do ICMS: compensação, transferência e ressarcimento (arts. 135 a 141)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título IV, Capítulo I, Seções III a VII (Da Compensação do Saldo Credor do ICMS com o ICMS; com o IBS; Da Transferência; Do Ressarcimento; Disposições Finais), arts. 135 a 141. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.163-167.
+
+Art. 135: havendo <mark>concordância entre o Estado/DF e o sujeito passivo</mark>, o saldo credor homologado pode ser usado para compensar crédito tributário de <mark>ICMS</mark> (constituído ou não).
+
+Art. 136: o Estado/DF informa ao CGIBS, em até <mark>30 dias</mark> da homologação, o valor do saldo, o titular e a data de conclusão da compensação, segregando (I) créditos de ativo permanente e (II) demais créditos.
+
+Art. 137: compensação com o <mark>IBS</mark> — (I) créditos de ativo permanente: pelo <mark>prazo remanescente</mark> do 1/48 avos da Lei Kandir; (II) demais créditos: em <mark>240 parcelas</mark> mensais, iguais e sucessivas. Parágrafo único: início no mês seguinte ao recebimento da informação pelo CGIBS.
+
+Art. 138: o titular pode <mark>transferir</mark> o saldo homologado a integrantes do mesmo grupo econômico ou a terceiros, que só podem usá-lo para compensar (I) ICMS no próprio Estado/DF ou (II) IBS via CGIBS. § 1º: na transferência, mantém-se a mesma quantidade de <mark>parcelas remanescentes</mark> do titular original. § 2º: comunicada ao CGIBS por documento fiscal eletrônico específico.
+
+Art. 139: <mark>ressarcimento em espécie</mark> pelo CGIBS — opção subsidiária, só na impossibilidade de compensação — em 240 parcelas ou pelo prazo remanescente (se já havia compensação em curso). § 1º: pago em até <mark>90 dias</mark> após o mês em que ocorreria a compensação, sem acréscimos. § 2º: atraso além disso → correção pela <mark>Selic</mark> a partir do 91º dia.
+
+Art. 140: transferência e pagamento do ressarcimento condicionados à <mark>regularidade do titular quanto a IBS e ICMS</mark>. Parágrafo único: a partir de 2034, se a arrecadação do IBS crescer acima do histórico (corrigido pelo IPCA), o Estado/DF pode antecipar o pagamento das parcelas.
+
+Art. 141: o CGIBS deduz da arrecadação do IBS do Estado/DF o valor compensado/ressarcido — esse valor <mark>não compõe a base de cálculo</mark> das vinculações constitucionais (repasse de 25% aos Municípios, saúde, ensino, Fundeb etc.).
+
+⚠️ Pegadinha de banca: são <mark>3 formas de uso</mark> do saldo credor, nessa ordem de preferência lógica — compensar com ICMS (só se o Estado concordar) ou com IBS (240 parcelas); se não puder compensar, transferir a terceiro; se nem isso, pedir ressarcimento em espécie (subsidiário, também 240 parcelas). O ressarcimento não é a primeira opção.
+
+> [!quote]- Texto literal — Art. 137 e Art. 139, § 1º (p.163-165)
+> "Art. 137 O saldo credor informado ao CGIBS, na forma prevista no art. 136 desta Lei Complementar, será utilizado para compensação com o IBS: I - quanto aos créditos de que trata o inciso I do caput do art. 136 desta Lei Complementar, pelo prazo remanescente em relação ao previsto no § 5º do art. 20 da Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir); II - quanto aos créditos de que trata o inciso II do caput do art. 136 desta Lei Complementar, em 240 (duzentas e quarenta) parcelas mensais, iguais e sucessivas." (...) "§ 1º O ressarcimento de que trata o caput deste artigo será efetuado em até 90 (noventa) dias após o encerramento do mês em que ocorreria a respectiva compensação, vedada a incidência de acréscimos de qualquer natureza."
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#ADCT: base de cálculo, saldos credores e demais transições (arts. 133 a 137)]] — o § 3º do art. 134 do ADCT já anunciava os 240 parcelas × prazo remanescente; aqui está o detalhe operacional (compensação, transferência, ressarcimento) que a LC 227/26 criou para cumprir o § 6º daquele artigo.
+> - [[P2 - Reforma Tributária#Destinação da receita aos entes federativos: deduções, FCP e transparência (arts. 118-131)]] — a "compensação/ressarcimento do saldo credor de ICMS" já aparece lá como dedução da Receita-Base (art. 118, II, "a").
+
+---
+
+## Aproveitamento do ICMS-ST sobre estoque em 31/12/2032 (arts. 142 a 145)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título IV, Capítulo II (Do Aproveitamento do ICMS Incidente por Substituição Tributária Relativo às Mercadorias em Estoque em 31 de Dezembro de 2032), arts. 142 a 145. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.167-169.
+
+Art. 142: o contribuinte com mercadoria em <mark>estoque em 31/12/2032</mark> sujeita ao regime de <mark>substituição tributária</mark> do ICMS pode se creditar do valor do imposto retido.
+
+Art. 143: o valor do crédito corresponde ao ICMS (I) retido por substituição, se a mercadoria foi comprada diretamente de quem reteve; (II) recolhido por substituição, se o próprio contribuinte apurou o imposto na entrada; ou (III) incidido sobre as operações, informado no documento fiscal, se comprada de substituído ou de quem apurou o imposto na entrada. § 1º: se não for possível identificar a correspondência mercadoria-recebimento, usa-se a <mark>média das entradas dos últimos 3 meses</mark>, até o limite do inventário. § 2º: também conta como estoque a mercadoria cuja saída ocorreu até 31/12/2032 mas cuja entrada no destinatário se dá depois, se o ICMS-ST já tiver sido retido/recolhido.
+
+Art. 144: procedimento — o contribuinte (a) inventaria as mercadorias em 31/12/2032, (b) apura o valor do ICMS-ST incidente, e (c) encaminha inventário e demonstrativo ao Estado/DF e ao CGIBS. O Estado/DF informa ao CGIBS, em até <mark>60 dias</mark>, o valor para compensação em <mark>12 parcelas mensais</mark> com o IBS devido; se não informar no prazo, o <mark>CGIBS usa o valor do próprio demonstrativo</mark> do contribuinte. Parágrafo único: essa compensação não implica reconhecimento nem homologação dos valores informados.
+
+Art. 145: essa compensação <mark>não se aplica ao optante do Simples Nacional</mark> — este apenas inventaria as mercadorias e pede <mark>restituição</mark> diretamente ao Estado/DF, pelas regras do ente.
+
+⚠️ Pegadinha de banca (já sinalizada pelo próprio material comercial): o saldo credor geral do ICMS se recupera em <mark>240 parcelas</mark> (art. 137); o crédito do estoque de ICMS-ST se recupera em só <mark>12 parcelas</mark> (art. 144) — ou por restituição direta, se o contribuinte for do Simples Nacional (art. 145).
+
+> [!quote]- Texto literal — Art. 144, II e III (p.168)
+> "II - o Estado e o Distrito Federal informarão ao CGIBS, em até 60 (sessenta) dias contados do recebimento do demonstrativo previsto na alínea “c” do inciso I deste caput, o valor que será utilizado para compensação em 12 (doze) parcelas mensais, iguais e sucessivas com o montante de IBS devido pelo contribuinte nos meses subsequentes; e III - caso não seja prestada a informação a que se refere o inciso II deste artigo no prazo nele assinalado, o CGIBS utilizará o valor constante do demonstrativo previsto na alínea “c” do inciso I do caput deste artigo para efeito da referida compensação."
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Saldo credor do ICMS: compensação, transferência e ressarcimento (arts. 135 a 141)]] — mesma pegadinha em espelho: 240 parcelas (saldo credor geral) × 12 parcelas (estoque de ICMS-ST).
