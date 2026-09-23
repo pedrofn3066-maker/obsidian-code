@@ -4,8 +4,8 @@ data: 2026-09-22
 materia: Contabilidade Geral
 bloco: Cont. Geral e Pública
 assuntos:
-  - "Empréstimos e Fornecedores"
-slot:
+  - Empréstimos e Fornecedores
+slot: S2
 total: 16
 acertos: 14
 tempo_min:

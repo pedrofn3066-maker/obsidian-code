@@ -4,10 +4,10 @@ data: 2026-09-22
 materia: Auditoria
 bloco: Auditoria
 assuntos:
-  - "Evidência em Auditoria"
-  - "Fraude e Erro (Auditoria)"
-  - "Documentação de Auditoria/Papéis de Trabalho"
-slot:
+  - Evidência em Auditoria
+  - Fraude e Erro (Auditoria)
+  - Documentação de Auditoria/Papéis de Trabalho
+slot: S4
 total: 24
 acertos: 22
 tempo_min:

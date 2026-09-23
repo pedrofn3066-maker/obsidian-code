@@ -4,12 +4,12 @@ data: 2026-09-22
 materia: Direito Constitucional
 bloco: Const./Adm./Civil/Penal
 assuntos:
-  - "Da Organização Político-Administrativa (arts. 18 e 19 da CF/1988)"
+  - Da Organização Político-Administrativa (arts. 18 e 19 da CF/1988)
   - "União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)"
-  - "Estados Federados - Organização, Competências, Bens (arts. 25 a 28 da CF/1988)"
-  - "Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)"
-  - "Dos Precatórios (art. 100 da CF/1988)"
-slot:
+  - Estados Federados - Organização, Competências, Bens (arts. 25 a 28 da CF/1988)
+  - Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)
+  - Dos Precatórios (art. 100 da CF/1988)
+slot: S5
 total: 23
 acertos: 16
 tempo_min:

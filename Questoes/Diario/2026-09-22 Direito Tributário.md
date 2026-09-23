@@ -4,17 +4,17 @@ data: 2026-09-22
 materia: Direito Tributário
 bloco: Direito Tributário
 assuntos:
-  - "Taxas (CF/1988 e CTN)"
-  - "Contribuições de Melhoria (CF/1988 e CTN)"
-  - "Empréstimo Compulsório (CF/1988 e CTN)"
-  - "Contribuições Especiais (CF/1988)"
-  - "Imposto sobre Serviços - ISS (CF/1988 e CTN)"
-  - "Imposto Predial e Territorial Urbano - IPTU (CF/1988 e CTN)"
-  - "Imposto sobre Transmissão de Bens Imóveis - ITBI (CF/1988 e CTN)"
-  - "Jurisprudência dos Tribunais Superiores sobre ISS"
-  - "Jurisprudência dos Tribunais Superiores sobre IPTU"
-  - "Jurisprudência dos Tribunais Superiores sobre ITBI"
-slot:
+  - Taxas (CF/1988 e CTN)
+  - Contribuições de Melhoria (CF/1988 e CTN)
+  - Empréstimo Compulsório (CF/1988 e CTN)
+  - Contribuições Especiais (CF/1988)
+  - Imposto sobre Serviços - ISS (CF/1988 e CTN)
+  - Imposto Predial e Territorial Urbano - IPTU (CF/1988 e CTN)
+  - Imposto sobre Transmissão de Bens Imóveis - ITBI (CF/1988 e CTN)
+  - Jurisprudência dos Tribunais Superiores sobre ISS
+  - Jurisprudência dos Tribunais Superiores sobre IPTU
+  - Jurisprudência dos Tribunais Superiores sobre ITBI
+slot: S3
 total: 33
 acertos: 25
 tempo_min:
