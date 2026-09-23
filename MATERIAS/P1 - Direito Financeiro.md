@@ -37,7 +37,7 @@ prioridade: importante
 - [ ] Créditos Adicionais [dom:: 4] [peso:: 6.6]
 - [ ] Classificações do Orçamento Público [dom:: 4] [peso:: 5.3]
 
-> ****Zero na âncora BA 2019** — disciplina autônoma em CE 2026**
+> **Zero na âncora BA 2019** — disciplina autônoma em CE 2026
 > Prioridade: **importante**
 
 Cobertura preventiva. Tem sobreposição forte com Finanças Públicas — estude as duas juntas para não pagar duas vezes pelo mesmo conteúdo.
@@ -153,10 +153,77 @@ D- **D**espesa.
 - [ ] status [dom:: 3] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1740)
 
+*Fonte: Lei nº 4.320/1964, arts. 40-46. Origem: `(Lei 4.320, p. 20-22)`.*
+
+<mark>Créditos adicionais</mark> são as autorizações de despesa **não computadas ou insuficientemente dotadas** na Lei de Orçamento (art. 40), classificados em três espécies (art. 41):
+
+| Espécie | Destinação | Autorização/abertura |
+| --- | --- | --- |
+| **Suplementares** | reforço de dotação orçamentária já existente | lei + decreto executivo |
+| **Especiais** | despesas para as quais **não há** dotação orçamentária específica | lei + decreto executivo |
+| **Extraordinários** | despesas urgentes e imprevistas (guerra, comoção intestina, calamidade pública) | **decreto** do Executivo, com imediata comunicação ao Legislativo |
+
+(Lei 4.320, art. 41-42 e 44, p. 20-21)
+
+A abertura de suplementares e especiais **depende da existência de recursos disponíveis** (art. 43). São recursos, desde que não comprometidos (art. 43, §1º): (I) superávit financeiro do exercício anterior; (II) excesso de arrecadação; (III) anulação parcial/total de dotações ou de créditos adicionais; (IV) produto de operações de crédito autorizadas.
+
+Fórmulas do próprio PDF, a partir dos termos legais dos §§2º-3º (a notação em si é <mark>exemplo ilustrativo (sem lastro)</mark> quanto ao formato, mas os componentes vêm da lei):
+
+- **Superávit Financeiro** = Ativo Financeiro − Passivo Financeiro − Créditos Adicionais Transferidos + Operações de Crédito Vinculadas (art. 43, §2º).
+- **Excesso de Arrecadação** = saldo positivo das diferenças **acumuladas mês a mês** entre a receita prevista e a realizada, considerada a tendência do exercício (art. 43, §3º).
+
+Os créditos adicionais têm vigência **restrita ao exercício** em que forem abertos, salvo disposição legal em contrário quanto aos especiais e extraordinários, que podem ser reabertos (art. 45).
+
+> [!quote]- Texto literal: Art. 41 e Art. 43, §§2º-3º (Lei 4.320, p. 20-21)
+> Art. 41 Os créditos adicionais classificam-se em: I - suplementares, os destinados a reforço de dotação orçamentária; II - especiais, os destinados a despesas para as quais não haja dotação orçamentária específica; III - extraordinários, os destinados a despesas urgentes e imprevistas, em caso de guerra, comoção intestina ou calamidade pública.
+>
+> § 2º Entende-se por superavit financeiro a diferença positiva entre o ativo financeiro e o passivo financeiro, conjugando-se, ainda, os saldos dos créditos adicionais transferidos e as operações de crédito a eles vinculadas.
+>
+> § 3º Entende-se por excesso de arrecadação, para os fins deste artigo, o saldo positivo das diferenças acumuladas mês a mês, entre a arrecadação prevista e a realizada, considerando-se, ainda, a tendência do exercício.
+
+> [!tip]- Lupa: as 3 espécies e o que muda entre elas
+> **A ideia em uma frase:** suplementar reforça o que já existe; especial cria o que não existia; extraordinário é a válvula de emergência, sem esperar lei prévia.
+>
+> **Passo a passo:**
+> 1. Suplementar e especial: **autorizados por lei**, abertos por decreto — a lei pode até ser a própria LOA (autorização prévia para abrir suplementar até certo limite).
+> 2. Extraordinário: dispensa lei prévia — nasce direto de **decreto**, exatamente porque a urgência (guerra, comoção, calamidade) não espera o trâmite legislativo.
+> 3. Todos, menos o extraordinário, dependem de **recursos disponíveis** comprovados (superávit, excesso de arrecadação, anulação, operação de crédito).
+>
+> **O erro clássico:** exigir decreto **e** lei prévia para o extraordinário (só decreto); ou achar que suplementar pode ser aberto sem nenhuma autorização legal (sempre precisa de lei, ainda que genérica na LOA).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Princípios Orçamentários]]: os créditos suplementares e as operações de crédito por ARO são as duas exceções expressas do princípio da exclusividade (art. 165, §8º, CF).
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]]: o art. 12, §2º, da LRF (operação de crédito ≤ despesa de capital) dialoga com o produto de operações de crédito como fonte de crédito adicional aqui.
+
 
 
 ## - Fundos na Lei 4.320/54
 - [ ] status [dom:: 2] [peso:: 2]
+
+*Fonte: Lei nº 4.320/1964, arts. 71-74 (Título VII — Dos Fundos Especiais). Origem: `(Lei 4.320, p. 25)`.*
+
+<mark>Fundo especial</mark> é o produto de receitas especificadas que, por lei, se **vinculam à realização de determinados objetivos ou serviços**, facultada a adoção de normas peculiares de aplicação (art. 71). A aplicação das receitas vinculadas a fundos especiais se dá por **dotação consignada na Lei de Orçamento** ou em créditos adicionais (art. 72).
+
+Salvo determinação em contrário da lei instituidora, o **saldo positivo** do fundo especial, apurado em balanço, é **transferido para o exercício seguinte**, a crédito do mesmo fundo (art. 73) — ou seja, o fundo especial não perde seu saldo ao fim do exercício, ao contrário da regra geral orçamentária. A lei instituidora pode ainda determinar normas peculiares de controle e prestação/tomada de contas, **sem afastar** a competência do Tribunal de Contas (art. 74).
+
+> [!quote]- Texto literal: Arts. 71 e 73 (Lei 4.320, p. 25)
+> Artigo 71. Constitui fundo especial o produto de receitas especificadas que, por lei, se vinculam à realização de determinados objetivos ou serviços, facultada a adoção de normas peculiares de aplicação.
+>
+> Artigo 73. Salvo determinação em contrário da lei que o instituiu, o saldo positivo do fundo especial apurado em balanço será transferido para o exercício seguinte, a crédito do mesmo fundo.
+
+> [!tip]- Lupa: fundo especial x princípio da não afetação de receitas
+> **A ideia em uma frase:** o fundo especial é uma das exceções legítimas à vedação de vincular receita de imposto a órgão, fundo ou despesa.
+>
+> **Passo a passo:**
+> 1. Uma lei cria o fundo e vincula receitas específicas a ele (não necessariamente de imposto — se for de imposto, precisa estar entre as exceções constitucionais do art. 167, IV, CF).
+> 2. O gasto desses recursos passa pela LOA ou por créditos adicionais, como qualquer despesa (art. 72) — o fundo não é uma "caixa paralela" fora do orçamento.
+> 3. O saldo positivo não caduca: soma para o ano seguinte, dentro do próprio fundo (art. 73) — diferente da regra geral, em que o crédito orçamentário não gasto se extingue no fim do exercício.
+>
+> **O erro clássico:** achar que fundo especial dispensa a LOA (não dispensa — art. 72); ou que o saldo do fundo é devolvido ao caixa único (a regra é o contrário: fica no fundo, salvo lei em sentido diverso).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Princípios Orçamentários]]: mnemônico "iFOD" (não vincular impostos a Fundo, Órgão, Despesa) — o fundo especial é onde essa vedação mais aparece em prova.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]]: o art. 43, §1º, da LRF trata dos fundos de previdência em conta separada — espécie de fundo especial com regime próprio.
 
 # Bloco B:
 
@@ -247,43 +314,384 @@ CF/88, Art. 165 §7º — <mark style="background:#fff88f">os orçamentos fiscal
 
 ## - Receita: Conceitos, classificações e estágio
 
+*Fonte destes tópicos (Receita e Despesa, Bloco C): Lei nº 4.320/1964, arts. 2º a 98 (PDF didático, ed. 2 colunas). Origem por página: `(Lei 4.320, p. N)`.*
+
 ### Conceitos Gerais (Orçamentária e Extraorçamentária, Afetação Patrimonial, Regularidade, Coercitividade)
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1524?indice=1&materia=1486)
+
+<mark>Receita orçamentária</mark> é a que integra o total da Lei de Orçamento e se sujeita aos estágios de previsão, lançamento, arrecadação e recolhimento. Pelo art. 57, ressalvada a exceção do art. 3º, parágrafo único, classificam-se como receita orçamentária **todas as receitas arrecadadas**, sob as rubricas próprias, inclusive as provenientes de operações de crédito, **ainda que não previstas no Orçamento** (Lei 4.320, p. 22-23).
+
+**Receita extraorçamentária** é a que não integra o total da LOA: pelo art. 3º, parágrafo único, não se consideram, para fins da universalidade do orçamento, as <mark>operações de crédito por antecipação da receita (ARO)</mark>, as emissões de papel-moeda e outras entradas compensatórias no ativo e passivo financeiros (Lei 4.320, p. 5-6). São ingressos de caixa que não representam receita definitiva — por isso ficam fora do total que a LOA discrimina.
+
+⚠️ Os Restos a Pagar do exercício são computados **na receita extraorçamentária**, para compensar sua inclusão na despesa orçamentária (Lei 4.320, p. 29, art. 103, parágrafo único) — o valor empenhado (despesa orçamentária) tem contrapartida na receita extraorçamentária no Balanço Financeiro, sem afetar o resultado orçamentário.
+
+> [!quote]- Texto literal: Art. 3º, caput e parágrafo único (Lei 4.320, p. 6)
+> Art. 3º A Lei de Orçamento compreenderá todas as receitas, inclusive as de operações de crédito autorizadas em lei.
+>
+> Parágrafo único. Não se consideram para os fins deste artigo as operações de crédito por antecipação da receita, as emissões de papel-moeda e outras entradas compensatórias, no ativo e passivo financeiros.
+
+> [!tip]- Lupa: orçamentária x extraorçamentária, o critério
+> **A ideia em uma frase:** entra no total da LOA (orçamentária) o que é ingresso definitivo do ente; fica de fora (extraorçamentária) o que é só movimento de caixa a devolver ou compensar.
+>
+> **Passo a passo:**
+> 1. A receita é **orçamentária** por padrão — o art. 57 manda classificar como tal tudo que é arrecadado, mesmo sem previsão prévia.
+> 2. Três hipóteses do art. 3º, parágrafo único, ficam **fora do total da universalidade**: ARO, emissão de papel-moeda, entradas compensatórias no ativo/passivo financeiros.
+> 3. Os Restos a Pagar do exercício entram como receita **extraorçamentária** no Balanço Financeiro, só para equilibrar a despesa orçamentária já reconhecida (empenhada) e ainda não paga.
+>
+> **O erro clássico:** achar que ARO nunca aparece nas contas do ente — ela aparece, como ingresso extraorçamentário; o que o art. 3º exclui é da **contagem do total da LOA**, não da escrituração do caixa.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Princípios Orçamentários]]: a universalidade (art. 2º, caput) é o princípio que o art. 3º, parágrafo único, excepciona.
+> - [[P1 - Direito Financeiro#- Restos a pagar]]: o mesmo Restos a Pagar aparece ali como despesa empenhada não paga; aqui, como contrapartida na receita extraorçamentária.
     
 ### Classificação por Natureza da Receita
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1487?indice=1&materia=1486)
+
+A receita se classifica em duas <mark>categorias econômicas</mark>: **Receitas Correntes** e **Receitas de Capital** (art. 11). Tributo é receita derivada, instituída pelas entidades de direito público (impostos, taxas e contribuições) — art. 9º (Lei 4.320, p. 8).
+
+| Receitas Correntes | Receitas de Capital |
+| --- | --- |
+| Tributária, de Contribuições, Patrimonial, Agropecuária, Industrial, de Serviços, Outras | Operações de Crédito, Alienação de Bens, Amortização de Empréstimos (concedidos), Transferências de Capital, Outras Receitas de Capital |
+
+(Lei 4.320, art. 11, §§1º-2º, p. 8-9)
+
+⚠️ O **superávit do Orçamento Corrente** (balanceamento positivo entre receitas e despesas correntes) é classificado como **receita de capital** (art. 11, §2º), mas **não constitui item de receita orçamentária** (art. 11, §3º) — para evitar dupla contagem, já que ele resulta do próprio orçamento corrente.
+
+> [!quote]- Texto literal: Art. 11, §§1º a 3º (Lei 4.320, p. 8-9)
+> § 1º São Receitas Correntes as receitas tributária, de contribuições, patrimonial, agropecuária, industrial, de serviços e outras e, ainda, as provenientes de recursos financeiros recebidos de outras pessoas de direito público ou privado, quando destinadas a atender despesas classificáveis em Despesas Correntes.
+>
+> § 2º São Receitas de Capital as provenientes da realização de recursos financeiros oriundos de constituição de dívidas; da conversão, em espécie, de bens e direitos; os recursos recebidos de outras pessoas de direito público ou privado, destinados a atender despesas classificáveis em Despesas de Capital e, ainda, o superávit do Orçamento Corrente.
+>
+> § 3º O superávit do Orçamento Corrente resultante do balanceamento dos totais das receitas e despesas correntes, apurado na demonstração a que se refere o Anexo nº 1, não constituirá item de receita orçamentária.
+
+> [!tip]- Lupa: por que o superávit corrente não é receita orçamentária
+> **A ideia em uma frase:** contar o superávit corrente como receita de novo seria contar duas vezes o mesmo dinheiro.
+>
+> **Passo a passo:**
+> 1. O superávit do orçamento corrente nasce do próprio confronto entre receitas e despesas correntes já lançadas.
+> 2. A lei o classifica como receita de capital (art. 11, §2º) — mas isso é só para fins de **origem de recursos** do orçamento de capital (ex.: financiar investimento com sobra do custeio).
+> 3. Por isso o art. 11, §3º tira ele da conta como item de **receita orçamentária**: ele já está contado nas receitas correntes que o formaram.
+>
+> **O erro clássico:** dizer que o superávit corrente não é receita de capital (ele é, por classificação) ou que ele soma normalmente ao total da receita orçamentária (não soma; é o parágrafo seguinte que retira).
     
 ### Classificação da Receita por Esfera Orçamentária
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1466?indice=1&materia=1486)
+
+*Fonte: MCASP 11ª ed., Parte I, itens 3.2 (p. 37), 4.2.3.3 (p. 76) e 4.3 (p. 98-99).*
+
+⚠️ **Achado da absorção:** o MCASP lista, no item 3.2, **apenas três** classificadores oficiais da receita orçamentária — Natureza, Fonte/Destinação de Recursos e Indicador de Resultado Primário (MCASP, p. 37). A <mark>esfera orçamentária</mark> **não é um classificador da receita**; é a divisão do próprio **orçamento** em três blocos, prevista no art. 165, §5º, da CF/88: **Orçamento Fiscal**, **Orçamento da Seguridade Social** e **Orçamento de Investimento** (das empresas estatais não dependentes). O MCASP confirma isso ao definir o crédito orçamentário inicial como o "aprovado pela lei orçamentária anual, constante dos orçamentos fiscal, da seguridade social e de investimento das empresas estatais não dependentes" (MCASP, p. 98-99).
+
+Na prática, a esfera orçamentária aparece como um dos classificadores do **subtítulo/localizador de gasto**, do lado da despesa — ao lado de grupo de natureza de despesa, modalidade de aplicação, identificador de resultado primário, identificador de uso e fonte de recursos (MCASP, p. 76).
+
+> [!quote]- Texto literal (MCASP, p. 76 e 98-99)
+> [4.2.3.3] Na União, o subtítulo representa o menor nível de categoria de programação e será detalhado por esfera orçamentária (fiscal, seguridade e investimento), grupo de natureza de despesa, modalidade de aplicação, identificador de resultado primário, identificador de uso e fonte de recursos [...]
+>
+> [4.3] Por crédito orçamentário inicial, entende-se aquele aprovado pela lei orçamentária anual, constante dos orçamentos fiscal, da seguridade social e de investimento das empresas estatais não dependentes.
+
+> [!tip]- Lupa: por que "esfera orçamentária" engana quem espera um 4º classificador da receita
+> **A ideia em uma frase:** a receita tem 3 classificadores oficiais (Natureza, Fonte/Destinação, Indicador de Resultado Primário); esfera orçamentária é outra coisa — é em qual dos 3 orçamentos da CF a receita/despesa está alocada.
+>
+> **Passo a passo:**
+> 1. Toda LOA se divide em 3 orçamentos (art. 165, §5º, CF): Fiscal, Seguridade Social, Investimento (das estatais não dependentes).
+> 2. Cada receita e cada despesa pertence a um desses três — mas o MCASP não trata isso como "classificador da receita" com capítulo dedicado, ao contrário de Natureza, Fonte/Destinação e Indicador de Resultado Primário.
+> 3. Se a banca perguntar quais são os classificadores oficiais da receita orçamentária pelo MCASP, a esfera **não entra** na lista de 3.
+>
+> **O erro clássico:** listar "esfera orçamentária" como 4º classificador oficial da receita ao lado de natureza/fonte/indicador — o MCASP não classifica a receita dessa forma.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Princípios Orçamentários]]: a unidade orçamentária (art. 2º, Lei 4.320) explica por que existe um único documento (LOA) mesmo havendo três orçamentos internos.
+> - [[P1 - Direito Financeiro#- Despesa: Conceitos, classificações e estágio]]: é do lado da despesa (subtítulo) que a esfera orçamentária de fato aparece como classificador, segundo o MCASP.
     
 ### Classificação por Fonte / Destinação de Recursos
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1489?indice=1&materia=1486)
+
+*Fonte: MCASP 11ª ed., Parte I, Capítulo 5 (Fonte ou Destinação de Recursos), itens 5.1-5.5, p. 140-147.*
+
+A classificação por <mark>Fonte ou Destinação de Recursos (FR)</mark> agrupa receitas que possuem as **mesmas normas de aplicação** na despesa. É um mecanismo integrador entre receita e despesa: para a receita, o código de FR indica a **destinação** dos recursos; para a despesa, identifica a **origem** dos recursos utilizados (MCASP, p. 140).
+
+A destinação se classifica em: <mark>Vinculada</mark> — vinculação entre origem e aplicação em atendimento a finalidade específica prevista em lei; ou <mark>Livre</mark> — alocação livre entre origem e aplicação, dentro das competências do órgão/entidade (MCASP, p. 140).
+
+**Estrutura da codificação** (Portaria Conjunta STN/SOF nº 20/2021): código de **3 dígitos**. Faixa **000 a 499** — fontes da União (Portaria SOF). Faixa **500 a 999** — fontes de Estados, DF e Municípios (Portaria STN) (MCASP, p. 142). Para Estados/DF/Municípios, um dígito adicional identifica o exercício do recurso: **1** = Recursos do Exercício Corrente; **2** = Recursos de Exercícios Anteriores; **9** = Recursos Condicionados (MCASP, p. 145).
+
+⚠️ Dois códigos de recursos livres, usados para controle dos mínimos constitucionais: **500** — recursos não vinculados de impostos e transferências de impostos (usado para apurar os limites mínimos de saúde/ASPS e educação/MDE); **501** — demais recursos livres, sem vinculação, mas que não vêm de impostos (MCASP, p. 146).
+
+> [!quote]- Texto literal (MCASP, p. 140 e 142)
+> [5.1] A classificação por fontes ou destinações de recursos (FR) tem como objetivo agrupar receitas que possuam as mesmas normas de aplicação na despesa. [...] Para a receita orçamentária, esse código tem a finalidade de indicar a destinação de recursos para a realização de determinadas despesas orçamentárias. Para a despesa orçamentária, identifica a origem dos recursos que estão sendo utilizados.
+>
+> [5.3] Essa estrutura está definida com 3 dígitos [...] As fontes ou destinações de recursos a serem utilizadas pela União são definidas [...] no intervalo de 000 a 499. Já as de Estados, Distrito Federal e Municípios são definidas [...] no intervalo de 500 a 999.
+
+> [!tip]- Lupa: por que a mesma classificação serve pra receita e pra despesa
+> **A ideia em uma frase:** a fonte/destinação é o "carimbo" que amarra um real que entra a um real que só pode sair de um jeito específico.
+>
+> **Passo a passo:**
+> 1. A receita entra com um código de FR (ex.: 500 — recursos não vinculados de impostos).
+> 2. Esse código vira **disponibilidade** controlada em conta própria (DDR — Disponibilidade por Destinação de Recursos).
+> 3. Na despesa, o empenho só pode consumir a disponibilidade da **mesma** FR — é assim que a vinculação legal (ex.: mínimo de saúde/educação) é fiscalizada na prática contábil.
+> 4. Mudar a FR de uma dotação em execução pode exigir autorização legislativa, porque mexe na vinculação legal do recurso.
+>
+> **O erro clássico:** achar que FR é só um atributo da despesa — ela nasce **na receita** (destinação) e reaparece na despesa (origem); é o mesmo código nos dois lados.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Princípios Orçamentários]]: a não vinculação de impostos (mnemônico "iFOD") é a regra geral; a fonte 500 é exatamente o controle contábil dessa vinculação/desvinculação.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]]: o art. 8º, parágrafo único, da LRF (recurso vinculado só para seu objeto) é a base legal citada pelo próprio capítulo de FR do MCASP.
     
 ### Classificação da Receita por Identificador de Resultado Primário
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/4208?indice=1&materia=1486)
+
+*Fonte: MCASP 11ª ed., Parte I, item 3.2.5, p. 55.*
+
+A <mark>Classificação da Receita para Apuração do Resultado Primário</mark> não é obrigatória para todos os entes — foi instituída para a **União**, para identificar quais receitas (e despesas) compõem o **resultado primário** do Governo Federal (diferença entre receitas primárias e despesas primárias) (MCASP, p. 55).
+
+| Receitas Primárias | Receitas Financeiras |
+| --- | --- |
+| predominantemente correntes (exceto juros): tributos, contribuições sociais, concessões, dividendos recebidos pela União, cota-parte de compensações financeiras, esforço próprio de arrecadação, doações e convênios; também receitas de capital primárias (alienação de bens, transferências de capital) | não contribuem para o resultado primário: emissão de títulos, operações de crédito de organismos oficiais, aplicações financeiras da União (juros recebidos), privatizações, amortização de empréstimos concedidos — criam/extinguem obrigação ou direito financeiro |
+
+(MCASP, p. 55)
+
+> [!quote]- Texto literal (MCASP, p. 55)
+> 3.2.5. Classificação da Receita para Apuração do Resultado Primário. Esta classificação orçamentária da receita não tem caráter obrigatório para todos os entes e foi instituída para a União com o objetivo de identificar quais são as receitas e as despesas que compõem o resultado primário do Governo Federal, que é representado pela diferença entre as receitas primárias e as despesas primárias.
+
+> [!tip]- Lupa: primária x financeira, o teste rápido
+> **A ideia em uma frase:** receita primária é a que financia o gasto do governo de verdade; receita financeira é a que só troca um ativo por outro (ou cria uma dívida).
+>
+> **Passo a passo:**
+> 1. Pergunte: essa receita **cria uma obrigação** ou **extingue um direito** de natureza financeira (empréstimo, título, aplicação)? Se sim → **financeira**.
+> 2. Se a receita vem de tributo, contribuição, concessão, dividendo, ou alienação/transferência de capital comum → **primária**.
+> 3. O resultado primário (receitas primárias − despesas primárias) mede o esforço fiscal **sem** o efeito de dívida — por isso juros e operações de crédito ficam de fora.
+>
+> **O erro clássico:** achar que toda receita de capital é financeira (a alienação de bens e as transferências de capital "comuns" são primárias; só a parte ligada a crédito/dívida é financeira).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]]: o Anexo de Metas Fiscais da LDO (art. 4º, §1º, LRF) fixa metas de resultado primário — esta classificação da receita é o insumo para apurá-las.
+> - [[P1 - Macro Economia#- Dívida Pública, NFSP e Tipos de Déficit Público no Brasil]]: resultado primário x nominal, na ótica macroeconômica.
     
 ### Estágios da Receita Pública
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1503?indice=1&materia=1486)
+
+A receita percorre quatro estágios: <mark>previsão</mark> → <mark>lançamento</mark> → <mark>arrecadação</mark> → <mark>recolhimento</mark>.
+
+**Previsão** — os órgãos de contabilidade ou arrecadação organizam demonstrações **mensais** da receita arrecadada, que servem de base à estimativa da proposta orçamentária; a estimativa toma por base a arrecadação dos **três últimos exercícios**, mais as circunstâncias que possam afetar a produtividade de cada fonte (arts. 29-30, Lei 4.320, p. 14-15).
+
+**Lançamento** — são objeto de lançamento os **impostos diretos** e quaisquer outras rendas com vencimento determinado em lei, regulamento ou contrato (art. 52). O lançamento é ato da repartição competente, que verifica a procedência do crédito fiscal e a pessoa devedora, e **inscreve o débito** (art. 53) (Lei 4.320, p. 22).
+
+**Arrecadação** — momento em que os contribuintes recolhem o tributo aos agentes arrecadadores, que devem fornecer **recibo**, com nome do pagador, proveniência, classificação, data e assinatura do agente (art. 55, §§1º-2º) (Lei 4.320, p. 22).
+
+**Recolhimento** — transferência dos valores arrecadados ao caixa único do Tesouro, sob o <mark>princípio da unidade de tesouraria</mark>, sendo **vedada qualquer fragmentação para criação de caixas especiais** (art. 56) (Lei 4.320, p. 22-23).
+
+> [!quote]- Texto literal: Arts. 52, 53 e 56 (Lei 4.320, p. 22-23)
+> Art. 52 São objeto de lançamento os impostos diretos e quaisquer outras rendas com vencimento determinado em lei, regulamento ou contrato.
+>
+> Art. 53 O lançamento da receita é ato da repartição competente, que verifica a procedência do crédito fiscal e a pessoa que lhe é devedora e inscreve o débito desta.
+>
+> Art. 56 O recolhimento de todas as receitas far-se-á em estrita observância ao princípio de unidade de tesouraria, vedada qualquer fragmentação para criação de caixas especiais.
+
+> [!tip]- Lupa: os 4 estágios, na ordem
+> **A ideia em uma frase:** primeiro se estima quanto vai entrar, depois se identifica quem deve, depois o dinheiro entra no caixa, depois esse dinheiro é centralizado.
+>
+> **Passo a passo:**
+> 1. **Previsão** — na proposta orçamentária, com base nos 3 últimos exercícios.
+> 2. **Lançamento** — só para tributos com fato gerador e devedor identificáveis (não existe lançamento para toda receita, ex.: uma doação não é lançada).
+> 3. **Arrecadação** — o contribuinte paga, o agente arrecadador dá recibo.
+> 4. **Recolhimento** — o valor arrecadado converge para a conta única, sem caixas especiais.
+>
+> **O erro clássico:** inverter arrecadação (o contribuinte paga ao agente) com recolhimento (o agente repassa ao caixa único do ente) — são momentos e agentes diferentes.
+
+> [!info]- Ponte
+> - [[P2 - CASP#1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL]]: no enfoque orçamentário a receita usa regime de **caixa** (reconhecida na arrecadação); no patrimonial, regime de **competência** (reconhecida no lançamento) — mesma dualidade que a nota de CASP já detalha.
     
 ### Dívida Ativa
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1491?indice=1&materia=1486)
 
+*Fonte: Lei nº 4.320/1964, arts. 39 e 39-A. Origem: `(Lei 4.320, p. 15-18)`.*
+
+Os créditos da Fazenda Pública, de natureza **tributária ou não tributária**, são escriturados como receita do exercício em que forem arrecadados (art. 39). Os créditos **exigíveis pelo transcurso do prazo para pagamento** são inscritos, após apurada a **liquidez e certeza**, como <mark>Dívida Ativa</mark>, em registro próprio, escriturando-se a respectiva receita a esse título (art. 39, §1º) (Lei 4.320, p. 15-16).
+
+| Dívida Ativa Tributária | Dívida Ativa Não Tributária |
+| --- | --- |
+| crédito da Fazenda Pública proveniente de obrigação legal relativa a **tributos** e respectivos adicionais e multas | demais créditos: empréstimos compulsórios, contribuições estabelecidas em lei, multas de qualquer origem (exceto tributárias), foros, laudêmios, aluguéis, custas processuais, preços de serviços públicos, indenizações, reposições, restituições, alcances de responsáveis, obrigações em moeda estrangeira, sub-rogação de garantias, contratos em geral |
+
+(Lei 4.320, art. 39, §§2º-4º, p. 16-17)
+
+⚠️ **Pegadinha do próprio PDF:** sob o enfoque orçamentário, os **empréstimos compulsórios** não compõem as receitas tributárias — por isso são tratados como Dívida Ativa **não tributária**, mesmo sendo cobrados como tributo pela doutrina tributária.
+
+A Dívida Ativa da **União** é apurada e inscrita na **Procuradoria da Fazenda Nacional** (art. 39, §5º). Desde 2024, a Lei permite **cessão onerosa** de direitos originados de créditos tributários e não tributários (inclusive já inscritos em dívida ativa) a pessoas jurídicas de direito privado ou fundos de investimento CVM, desde que preservada a natureza do crédito, as garantias e a prerrogativa de cobrança judicial/extrajudicial da Fazenda, entre outras condições do art. 39-A (Lei 4.320, p. 17-18).
+
+> [!quote]- Texto literal: Art. 39, §§1º, 2º e 5º (Lei 4.320, p. 16)
+> § 1º Os créditos de que trata este artigo, exigíveis pelo transcurso do prazo para pagamento, serão inscritos, na forma da legislação própria, como Dívida Ativa, em registro próprio, após apurada a sua liquidez e certeza, e a respectiva receita será escriturada a esse título.
+>
+> § 2º Dívida Ativa Tributária é o crédito da Fazenda Pública dessa natureza, proveniente de obrigação legal relativa a tributos e respectivos adicionais e multas, e Dívida Ativa não Tributária são os demais créditos da Fazenda Pública [...]
+>
+> § 5º A Dívida Ativa da União será apurada e inscrita na Procuradoria da Fazenda Nacional.
+
+> [!tip]- Lupa: o que faz um crédito virar Dívida Ativa
+> **A ideia em uma frase:** nem todo crédito não pago é Dívida Ativa — só o que já passou pelo prazo de pagamento e teve liquidez e certeza apuradas.
+>
+> **Passo a passo:**
+> 1. O crédito nasce (tributário ou não) e tem um prazo para pagamento.
+> 2. Esgotado o prazo sem pagamento, a Fazenda apura **liquidez e certeza**.
+> 3. Só então inscreve como Dívida Ativa, em registro próprio — e escritura a receita correspondente a esse título.
+> 4. Classifica entre tributária (tributos, adicionais, multas tributárias) e não tributária (todo o resto, inclusive empréstimo compulsório e multa não tributária).
+>
+> **O erro clássico:** classificar empréstimo compulsório como Dívida Ativa tributária (é **não tributária**, apesar de sua natureza jurídica ser tributo); ou achar que a inscrição é automática, sem apurar liquidez e certeza antes.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]]: o art. 13 da LRF exige metas bimestrais de arrecadação com medidas de cobrança da dívida ativa.
+> - [[P2 - Direito Tributário#Dívida Ativa Tributária (arts. 201 a 204 do CTN)]]: a CDA (Certidão de Dívida Ativa) como título executivo — mesma inscrição, vista pelo processo tributário.
+
 
 ## - Despesa: Conceitos, classificações e estágio
 - [ ] status [dom:: 2] [peso:: 2]
+
+*Fonte: Lei nº 4.320/1964, arts. 12-13 (classificação) e 47-65 (estágios). Origem por página: `(Lei 4.320, p. N)`.*
+
+A despesa se classifica nas mesmas duas <mark>categorias econômicas</mark> da receita: **Despesas Correntes** e **Despesas de Capital** (art. 12) (Lei 4.320, p. 9).
+
+| Despesas Correntes | Despesas de Capital |
+| --- | --- |
+| **Despesas de Custeio** (pessoal civil/militar, material de consumo, serviços de terceiros, encargos diversos) | **Investimentos** (obras públicas, equipamentos e instalações, material permanente, constituição de capital de empresas industriais/agrícolas) |
+| **Transferências Correntes** (subvenções sociais e econômicas, inativos, pensionistas, juros da dívida pública, contribuições de previdência) | **Inversões Financeiras** (aquisição de imóveis/bens de capital já em uso, aquisição de títulos de capital de empresas já constituídas, constituição/aumento de capital de empresas comerciais ou financeiras) |
+| | **Transferências de Capital** (amortização da dívida pública, auxílios para obras/equipamentos/inversões financeiras) |
+
+(Lei 4.320, art. 12, §§1º-6º, p. 9-11)
+
+**Subvenções** são as transferências correntes destinadas a cobrir despesas de **custeio** das entidades beneficiadas: <mark>sociais</mark> — a instituições públicas ou privadas de caráter assistencial ou cultural, sem fins lucrativos; <mark>econômicas</mark> — a empresas públicas ou privadas de caráter industrial, comercial, agrícola ou pastoril (art. 12, §3º c/c arts. 16-18) (Lei 4.320, p. 10-12).
+
+⚠️ Não confundir **amortização da dívida pública** (Transferência de Capital — despesa) com **amortização de empréstimos** *concedidos* (Receita de Capital) — mesma palavra, lados opostos do balanço.
+
+### Estágios da despesa
+
+A despesa percorre: <mark>fixação</mark> (na LOA) → <mark>empenho</mark> → <mark>liquidação</mark> → <mark>pagamento</mark>.
+
+**Empenho** (arts. 58-61) — ato de autoridade competente que **cria para o Estado obrigação de pagamento**, pendente ou não de implemento de condição; não pode exceder o limite dos créditos concedidos; é **vedada despesa sem prévio empenho** (art. 60), ressalvados casos especiais em lei; pode ser **por estimativa**, quando o montante não se possa determinar, ou **global**, para despesas contratuais sujeitas a parcelamento (Lei 4.320, p. 23-24).
+
+**Liquidação** (arts. 62-63) — verificação do **direito adquirido pelo credor**, com base nos títulos e documentos comprobatórios do crédito; apura a origem e o objeto do que se deve pagar, a importância exata e o credor. Para fornecimentos/serviços, tem por base o contrato, a nota de empenho e os comprovantes de entrega/prestação (Lei 4.320, p. 24).
+
+**Pagamento** (arts. 64-65) — só se efetua **após a regular liquidação**, mediante **ordem de pagamento** exarada por autoridade competente; é feito por tesouraria/pagadoria de estabelecimento bancário credenciado ou, excepcionalmente, por **adiantamento** (Lei 4.320, p. 24-25) — ver [[P1 - Direito Financeiro#- Suprimento de fundos]].
+
+> [!quote]- Texto literal: Arts. 58, 60 e 63 (Lei 4.320, p. 23-24)
+> Art. 58 O empenho de despesa é o ato emanado de autoridade competente que cria para o Estado obrigação de pagamento pendente ou não de implemento de condição.
+>
+> Art. 60 É vedada a realização de despesa sem prévio empenho.
+>
+> Art. 63 A liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito.
+
+> [!tip]- Lupa: os 4 estágios da despesa, o que cada um verifica
+> **A ideia em uma frase:** primeiro se reserva o dinheiro (empenho), depois se confere que o credor tem direito a ele (liquidação), só depois se paga.
+>
+> **Passo a passo:**
+> 1. **Fixação** — a LOA fixa o valor máximo autorizado para a despesa (é o espelho da previsão da receita).
+> 2. **Empenho** — reserva a dotação; cria a obrigação; nunca pode passar do crédito disponível.
+> 3. **Liquidação** — verifica se o credor cumpriu (entregou o bem, prestou o serviço); é aqui que a Contabilidade reconhece a VPD, via de regra.
+> 4. **Pagamento** — extingue a obrigação; só depois de liquidada.
+>
+> **O erro clássico:** achar que o empenho já é o pagamento (ele só reserva e obriga); ou que a liquidação precisa de ordem de pagamento prévia (é o contrário: a ordem de pagamento só existe depois da liquidação).
+
+> [!info]- Ponte
+> - [[P2 - CASP#1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL]]: no enfoque orçamentário a despesa usa regime de **competência** (reconhecida no empenho); no patrimonial, a VPD é reconhecida, via de regra, na **liquidação**.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]]: os arts. 15-17 da LRF (geração de despesa e DOCC) exigem estimativa de impacto **antes** do empenho.
 ## - Despesa de exercícios anteriores
 - [ ] status [dom:: 0] [peso:: 2]
+
+*Fonte: Lei nº 4.320/1964, art. 37. Origem: `(Lei 4.320, p. 15-16)`.*
+
+As <mark>Despesas de Exercícios Encerrados (DEA)</mark> são as despesas para as quais o orçamento respectivo consignava crédito próprio, com saldo suficiente para atendê-las, mas que **não se processaram na época própria** — mais os <mark>Restos a Pagar com prescrição interrompida</mark> e os **compromissos reconhecidos após o encerramento do exercício** correspondente. Podem ser pagas à conta de dotação específica, discriminada por elementos, observada, sempre que possível, a **ordem cronológica** (art. 37) (Lei 4.320, p. 15-16).
+
+⚠️ **A distinção mais cobrada da banca:**
+
+| | Restos a Pagar | Despesa de Exercício Anterior (DEA) |
+| --- | --- | --- |
+| Situação do empenho | **já foi empenhada**, mas não paga até 31/dez | **não foi empenhada**, ou o empenho foi anulado/cancelado |
+| Natureza do pagamento | despesa **extraorçamentária** | despesa **orçamentária** (do exercício em que se processa o pagamento) |
+
+(Lei 4.320, p. 15-16, quadro "Não confundir!" do PDF)
+
+> [!quote]- Texto literal: Art. 37 (Lei 4.320, p. 15-16)
+> Art. 37. As despesas de exercícios encerrados, para as quais o orçamento respectivo consignava crédito próprio, com saldo suficiente para atendê-las, que não se tenham processado na época própria, bem como os Restos a Pagar com prescrição interrompida e os compromissos reconhecidos após o encerramento do exercício correspondente poderão ser pagos à conta de dotação específica consignada no orçamento, discriminada por elementos, obedecida, sempre que possível, a ordem cronológica.
+
+> [!tip]- Lupa: por que DEA é orçamentária e Restos a Pagar é extraorçamentária
+> **A ideia em uma frase:** se a despesa já tinha passado pelo empenho no exercício de origem, o pagamento depois é só um acerto de caixa (extraorçamentário); se nunca foi empenhada, o pagamento agora precisa nascer de novo, com dotação e empenho no exercício atual (orçamentário).
+>
+> **Passo a passo:**
+> 1. Pergunte: a despesa foi empenhada no exercício em que devia ser? Se **sim** e só não foi paga → é **Restos a Pagar**; o pagamento agora é extraorçamentário (o gasto orçamentário já tinha sido reconhecido lá atrás, no empenho).
+> 2. Se a despesa **não foi empenhada** (por erro, atraso, ou porque o empenho foi cancelado) e o exercício já fechou → é **DEA**; precisa de nova dotação específica e o pagamento é despesa orçamentária **do exercício atual**.
+> 3. Restos a Pagar com **prescrição interrompida** (aquele RAP que prescreveria mas teve a prescrição interrompida) também vira DEA, porque volta a depender de nova dotação.
+>
+> **O erro clássico:** tratar RAP e DEA como sinônimos, ou inverter qual dos dois é orçamentário (quem nunca foi empenhado gera despesa orçamentária nova; quem já foi empenhado não gera despesa orçamentária de novo, só o desembolso).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Restos a pagar]]: o lado "já empenhado" dessa mesma distinção.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: o art. 42 da LRF (vedação de deixar obrigação sem caixa no fim do mandato) trata do mesmo risco que gera DEA.
 ## - Restos a pagar
 - [ ] status [dom:: 2] [peso:: 2]
+
+*Fonte: Lei nº 4.320/1964, arts. 36, 38 e 92 (dívida flutuante) e 98 (dívida fundada). Origem: `(Lei 4.320, p. N)`.*
+
+Consideram-se <mark>Restos a Pagar</mark> as despesas **empenhadas mas não pagas até 31 de dezembro**, distinguindo-se as **processadas** (já liquidadas) das **não processadas** (ainda não liquidadas) (art. 36) (Lei 4.320, p. 15). Os empenhos de créditos com **vigência plurienal** que não tenham sido liquidados só entram em Restos a Pagar **no último ano de vigência do crédito** (art. 36, parágrafo único).
+
+Se a despesa empenhada for **anulada no próprio exercício**, o valor reverte à dotação; se a anulação ocorrer **após o encerramento** do exercício, o valor vira **receita** do exercício em que a anulação se efetivar (art. 38) — ⚠️ mas o MCASP frisa que os recursos de **cancelamento de Restos a Pagar não devem ser reconhecidos como receita orçamentária** (nota do próprio PDF, p. 16).
+
+### Dívida fundada e dívida flutuante (Lei 4.320)
+
+A <mark>dívida flutuante</mark> compreende (art. 92): (I) os **restos a pagar**, excluídos os serviços da dívida; (II) os **serviços da dívida a pagar**; (III) os **depósitos**; (IV) os **débitos de tesouraria**. A <mark>dívida fundada</mark> compreende os compromissos de **exigibilidade superior a 12 meses**, contraídos para atender a desequilíbrio orçamentário ou financeiro, ou a obras e serviços públicos (art. 98) (Lei 4.320, p. 19-20).
+
+⚠️ Não confundir com a nomenclatura da LRF: lá, a dívida se chama **consolidada** (compromissos > 12 meses, art. 29, I, LC 101 — equivalente à fundada) e **mobiliária** (títulos emitidos). A Lei 4.320 usa fundada/flutuante; a LRF usa consolidada/mobiliária — bancas trocam os pares.
+
+> [!quote]- Texto literal: Arts. 36, 92 e 98 (Lei 4.320, p. 15, 19-20)
+> Art. 36. Consideram-se Restos a Pagar as despesas empenhadas mas não pagas até o dia 31 de dezembro distinguindo-se as processadas das não processadas.
+>
+> Art. 92. A dívida flutuante compreende: I - os restos a pagar, excluídos os serviços da dívida; II - os serviços da dívida a pagar; III - os depósitos; IV - os débitos de tesouraria.
+>
+> Art. 98. A dívida fundada compreende os compromissos de exigibilidade superior a doze meses, contraídos para atender a desequilíbrio orçamentário ou financeiro de obras e serviços públicos.
+
+> [!tip]- Lupa: fundada/flutuante (Lei 4.320) x consolidada/mobiliária (LRF)
+> **A ideia em uma frase:** são duas classificações diferentes sobre a mesma realidade — uma pelo prazo de exigibilidade (fundada x flutuante), outra pela forma de representação (consolidada x mobiliária).
+>
+> **Passo a passo:**
+> 1. Fundada (Lei 4.320) = exigibilidade **> 12 meses** → equivale, na prática, à consolidada da LRF.
+> 2. Flutuante (Lei 4.320) = curto prazo — restos a pagar, serviço da dívida a pagar, depósitos, débitos de tesouraria.
+> 3. Restos a Pagar aparece **dentro da dívida flutuante** — é um dos quatro componentes, não sinônimo dela.
+>
+> **O erro clássico:** achar que "dívida fundada" e "dívida consolidada" têm definição legal idêntica (são conceitos de leis diferentes, com núcleo semelhante mas sem equivalência textual expressa); ou dizer que toda dívida flutuante é Restos a Pagar (é só um dos quatro itens do art. 92).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: dívida consolidada e mobiliária (art. 29, LRF) — o par mais cobrado hoje.
+> - [[P2 - CASP#- Balanço Financeiro]]: os quadros de RAP processados/não processados que o RGF (LRF) e o RREO pedem, na seção "Restos a pagar — os dois quadros".
+> - [[P1 - Direito Financeiro#- Despesa de exercícios anteriores]]: o lado "nunca empenhado" da mesma distinção.
 ## - Suprimento de fundos
 - [ ] status [dom:: 2] [peso:: 2]
+
+*Fonte: Lei nº 4.320/1964, arts. 68-69. Origem: `(Lei 4.320, p. 24-25)`.*
+
+O regime de <mark>adiantamento</mark> — conhecido como <mark>suprimento de fundos</mark> — aplica-se aos casos de despesa **expressamente definidos em lei** e consiste na entrega de numerário a **servidor**, sempre precedida de **empenho na dotação própria**, para despesas que **não possam subordinar-se ao processo normal de aplicação** (empenho → liquidação → pagamento) (art. 68) (Lei 4.320, p. 24-25).
+
+**Vedações** (art. 69): não se fará adiantamento a servidor **em alcance** (que já deve prestar contas de outro adiantamento não regularizado) nem a responsável por **dois adiantamentos** simultâneos.
+
+> [!quote]- Texto literal: Arts. 68 e 69 (Lei 4.320, p. 24-25)
+> Art. 68 O regime de adiantamento é aplicável aos casos de despesas expressamente definidos em lei e consiste na entrega de numerário a servidor, sempre precedida de empenho na dotação própria para o fim de realizar despesas, que não possam subordinar-se ao processo normal de aplicação.
+>
+> Art. 69. Não se fará adiantamento a servidor em alcance nem a responsável por dois adiantamentos.
+
+> [!tip]- Lupa: por que o suprimento de fundos foge da ordem normal
+> **A ideia em uma frase:** existe para despesas pequenas e urgentes em que esperar empenho → liquidação → pagamento, nessa ordem, para cada nota fiscal, atrapalharia o serviço.
+>
+> **Passo a passo:**
+> 1. O empenho **já existe**, antes da entrega do dinheiro ao servidor (é precondição, não dispensa).
+> 2. O servidor recebe o numerário e realiza a despesa por fora do trâmite comum de liquidação prévia.
+> 3. Depois presta contas — é aí que a liquidação e a baixa contábil de fato ocorrem.
+> 4. Enquanto não presta contas de um adiantamento, o servidor está **em alcance** e não pode receber outro (art. 69).
+>
+> **O erro clássico:** achar que o suprimento de fundos dispensa empenho (não dispensa — o empenho é anterior); ou que qualquer servidor pode acumular adiantamentos (é vedado enquanto o anterior não for prestado).
+
+> [!info]- Ponte
+> - [[P2 - CASP#- Balanço Financeiro]]: no exemplo de suprimento de fundos da nota de CASP, a concessão é uma VPD independente que reduz o ativo, sem afetar o resultado da execução orçamentária.
+> - [[P1 - Direito Financeiro#- Despesa: Conceitos, classificações e estágio]]: o pagamento "por adiantamento" é uma das formas do estágio de pagamento (art. 65).
 
 # Bloco D:
 
@@ -770,6 +1178,14 @@ Repartição do limite global (art. 20), em % da RCL:
 - [ ] status [dom:: 1] [peso:: 2]
 ## - Precatórios
 - [ ] status [dom:: 1] [peso:: 2]
+
+*Fonte: Lei nº 4.320/1964, art. 67. Origem: `(Lei 4.320, p. 25)`.*
+
+Os pagamentos devidos pela Fazenda Pública em virtude de **sentença judiciária** far-se-ão na **ordem de apresentação dos precatórios** e à conta dos créditos respectivos, sendo **proibida a designação de casos ou de pessoas** nas dotações orçamentárias e nos créditos adicionais abertos para esse fim (art. 67) (Lei 4.320, p. 25).
+
+> [!quote]- Texto literal: Art. 67 (Lei 4.320, p. 25)
+> Art. 67 Os pagamentos devidos pela Fazenda Pública, em virtude de sentença judiciária, far-se-ão na ordem de apresentação dos precatórios e à conta dos créditos respectivos, sendo proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para esse fim.
+
 > [!info]- Ponte
 > - [[P1 - Direito Constitucional#Dos Precatórios (art. 100 da CF/1988)]]: o lastro do art. 100 (preferências, RPV, prazo de 1º de fevereiro, sequestro, cessão, teto por RCL do § 23) está na nota de Constitucional.
 

@@ -16,7 +16,7 @@
   "baseFontSize": 18,
   "translucency": true,
   "baseFontSizeAction": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "showViewHeader": true,
   "nativeMenus": true
 }

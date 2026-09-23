@@ -843,8 +843,118 @@ Exemplo já usado nos lançamentos desta nota: `2.x.7.x.x.xx.xx` (Provisões, cl
 
 Escrituração: [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Balancete, Atos e Fatos;\|comparar com a Lei 6.404 privada]] — aqui não se trata de livros comerciais, mas do mesmo princípio de registro padronizado e sistemático.
 
-## - NBC TSP 16 e 17
+## NBC TSP 17 — Demonstrações Contábeis Consolidadas
 - [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP 17 — Demonstrações Contábeis Consolidadas (Resolução CFC, 18/10/2018, elaborada a partir da Ipsas 35).
+
+**Objetivo e alcance:** a entidade que elabora e apresenta demonstrações contábeis pelo **regime de competência** aplica esta norma às demonstrações contábeis consolidadas da entidade econômica; a controladora que controla uma ou mais entidades **deve** apresentar demonstrações contábeis consolidadas. (NBC TSP 17, itens 1-3, p. 2)
+
+> ⚠️ **Não confundir categorias** — item 3A: <mark style="background:rgba(240, 200, 0, 0.2)">a consolidação das demonstrações contábeis de que trata esta norma não se confunde com a consolidação para fins de prestação de contas, bem como com a consolidação das contas, nacional e por esfera de governo, exigidas pela legislação brasileira</mark>. (NBC TSP 17, item 3A, p. 2)
+
+> [!tip]- Lupa: duas "consolidações" que a banca adora trocar
+> **A ideia em uma frase:** a NBC TSP 17 consolida **demonstrações contábeis** (ativos, passivos, PL, receitas, despesas de controladora + controladas, como se fossem uma só entidade); a LRF consolida **contas para fins de prestação de contas**, por esfera de governo — são exercícios diferentes, com prazos e órgãos responsáveis diferentes.
+> **O passo a passo:** a LRF (art. 50, § 2º) atribui as normas gerais de consolidação ao órgão central de contabilidade da União; o art. 51 manda o Executivo da União consolidar, nacional e por esfera, as contas de todos os entes até **30 de junho**, com Estados e Municípios enviando as suas até **30 de abril**.
+> **O erro clássico:** tratar as duas consolidações como a mesma obrigação, ou aplicar o prazo/órgão de uma à outra.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]] — art. 50, § 2º e art. 51: a consolidação "para fins de prestação de contas" que o item 3A distingue da consolidação contábil.
+
+**Dispensa da consolidação** — a controladora não precisa apresentar demonstrações consolidadas se atender **cumulativamente** a todas estas condições (item 5, p. 2-3):
+- (a) a própria controladora é controlada, e as necessidades de informação dos usuários são atendidas pelas demonstrações consolidadas de SUA controladora — e, em controle parcial, os demais proprietários não se opuseram;
+- (b) seus instrumentos de dívida ou patrimoniais **não são negociados** em mercado aberto;
+- (c) não arquivou nem está arquivando demonstrações em comissão de valores mobiliários ou órgão regulador, visando emissão de instrumentos em mercado aberto; e
+- (d) a controladora final (ou intermediária) elabora demonstrações públicas conforme as NBCs TSP, com as controladas consolidadas ou a valor justo pelo resultado.
+
+⚠️ A exceção do item 5 **não se aplica** quando as necessidades de informação dos usuários da controlada não são atendidas pelas demonstrações consolidadas da controladora — ex.: demonstrações consolidadas do governo como um todo podem não atender às necessidades de informação sobre um setor-chave. (item 9, p. 3)
+
+**Definições** (item 14, p. 3-4):
+- **Controle:** a entidade controla outra quando está exposta ou tem direitos a **benefícios variáveis** decorrentes de seu envolvimento com essa outra entidade e tem a **capacidade de afetar** a natureza ou o valor desses benefícios por meio de seu **poder** sobre ela.
+- **Controlada** / **Controladora:** a controlada é a entidade controlada por outra; a controladora é a que controla uma ou mais controladas.
+- **Entidade econômica:** a controladora e todas as suas controladas.
+- **Entidade de investimento:** obtém recursos de investidores para prestar serviços de gestão de investimentos, com o propósito exclusivo de retorno (valorização de capital, receita de investimento, ou ambos), mensurando e avaliando o desempenho de **substancialmente todos** os investimentos a valor justo.
+- **Participação de não controlador:** a parte do patrimônio líquido da controlada **não atribuível**, direta ou indiretamente, à controladora.
+- **Poder:** direitos existentes que dão a capacidade atual de dirigir as **atividades relevantes** de outra entidade.
+- **Direitos de proteção:** destinados a proteger o interesse de quem os detém, **sem dar poder** sobre a entidade a que se referem.
+- **Direitos de destituição:** direitos de privar o tomador de decisões de sua autoridade de tomada de decisões.
+
+> [!info]- Ponte
+> - [[P2 - Contabilidade Avançada e de Custos#CPC 36 - Demonstrações Consolidadas;]] — a definição de "participação de não controlador" é literalmente a mesma no CPC 36 privado: "a parte do PL da controlada não atribuível, direta ou indiretamente, à controladora".
+
+**Controle: os 3 atributos cumulativos** (item 20, p. 4-5) — a entidade controla outra **se, e somente se**, possuir **todos** os seguintes atributos:
+1. **poder** sobre essa outra entidade;
+2. **exposição ou direitos a benefícios variáveis** decorrentes do envolvimento com ela; e
+3. a **capacidade de usar** esse poder para afetar a natureza ou o valor dos benefícios.
+
+⚠️ A existência de direitos sobre outra entidade **não necessariamente** gera poder: a entidade **não** tem poder sobre outra apenas por causa de (a) **controle regulatório**; ou (b) **dependência econômica**. (item 26, p. 5-6)
+
+> [!tip]- Lupa: poder ≠ regular, poder ≠ ser essencial
+> **A ideia em uma frase:** o poder da NBC TSP 17 é o poder de **dirigir as atividades relevantes** da outra entidade — não o poder de fiscalizá-la (regulação) nem o fato de ela depender economicamente de você.
+> **O passo a passo:** a norma dá o exemplo do banco central — sua independência em relação à política monetária **não impede** que ele seja controlado (item 25); e um órgão de auditoria geral com poderes legais para operar de forma independente também pode ser controlado, se o controlador tiver a capacidade de dirigir suas políticas financeira e operacional.
+> **O erro clássico:** a banca apresenta um órgão regulador fiscalizando uma entidade, ou uma entidade financeiramente dependente de outra, e conclui (errado) que há controle — regulação e dependência econômica, **isoladamente**, não bastam.
+
+**Procedimentos de consolidação** (itens 38-40, p. 8) — a controladora usa **políticas contábeis uniformes**; a consolidação da controlada começa quando a entidade **obtém o controle** e cessa quando **perde o controle**. As demonstrações consolidadas:
+- (a) **combinam** itens similares de ativos, passivos, PL, receitas, despesas e fluxos de caixa da controladora com os das controladas;
+- (b) **eliminam** o valor contábil do investimento da controladora em cada controlada e a parcela do PL de cada controlada correspondente (o ágio por expectativa de rentabilidade futura segue a **NBC TSP 21**); e
+- (c) **eliminam integralmente** ativos, passivos, PL, receitas, despesas e fluxos de caixa de transações **entre entidades da mesma entidade econômica** — superávits/déficits de transações internas (estoque, ativo fixo) são eliminados por completo. ⚠️ Perdas entre entidades do grupo **podem indicar** redução ao valor recuperável, que exige reconhecimento nas demonstrações consolidadas.
+
+> [!info]- Ponte
+> - [[P2 - CASP#- Redução ao valor recuperável]] — a mecânica do teste de impairment já está detalhada ali; aqui, a novidade é que uma perda **intragrupo** pode ser o gatilho.
+
+**Participação de não controladores e perda de controle:**
+- A controladora apresenta as participações de não controladores no **balanço patrimonial consolidado**, **dentro do patrimônio líquido**, **separadamente** do PL dos proprietários da controladora. (item 47, p. 9)
+- Se a controladora **perde o controle** da controlada, deve: (a) **desreconhecer** os ativos e passivos da ex-controlada; (b) **reconhecer** o investimento remanescente a **valor justo**, na data em que o controle é perdido; e (c) **reconhecer o ganho ou a perda** associado à perda do controle, atribuível à ex-controladora. (item 52, p. 9-10)
+
+> [!info]- Ponte
+> - [[P2 - Contabilidade Avançada e de Custos#CPC 36 - Demonstrações Consolidadas;]] — mesma regra de destaque no PL: "a participação dos acionistas não controladores... de forma destacada no PL (no balanço consolidado)".
+
+**Entidade de investimento** (itens 56-64, p. 11-12): salvo exceção, a entidade de investimento **não consolida** suas controladas — em vez disso, **mensura o investimento a valor justo por meio do resultado**. ⚠️ **Exceção:** se a controlada (que não é, ela mesma, entidade de investimento) tem por finalidade principal prestar serviços **relacionados às atividades de investimento** da investidora, essa controlada **é consolidada** normalmente.
+
+> [!tip]- Lupa: entidade de investimento — a exceção da exceção
+> **A ideia em uma frase:** entidade de investimento normalmente não consolida (haveria distorção medir a valor justo e ainda somar linha a linha) — mas se a controlada só existe para *servir* a atividade de investir (ex.: uma controlada que presta serviços administrativos ao fundo), ela volta a ser consolidada.
+> **O passo a passo:** (1) a entidade se qualifica como entidade de investimento (capta de vários investidores, busca só retorno de capital/receita, avalia a valor justo)? (2) a controlada específica também presta serviços ligados à atividade de investimento? Se sim ao 2, consolida essa controlada; as demais, mensura a valor justo.
+> **O erro clássico:** a banca generaliza "entidade de investimento nunca consolida" — a exceção do item 57 existe e é exatamente o contrário.
+
+**Vigência:** esta norma se aplica a partir de **1º de janeiro de 2021** (salvo normativo nacional com prazo específico), e revoga, na mesma data, a **NBC T 16.7** (Resolução CFC 1.134/2008). (NBC TSP 17, item Vigência, p. 12)
+
+## NBC TSP 16 — Demonstrações Contábeis Separadas
+- [ ] status [dom:: 0] [peso:: 3]
+
+**Fonte:** NBC TSP 16 — Demonstrações Contábeis Separadas (Resolução CFC, 18/10/2018, elaborada a partir da Ipsas 34).
+
+**Objetivo e alcance:** a norma estabelece critérios de **contabilização e divulgação** para investimentos em controladas, em empreendimentos controlados em conjunto (ECC) e em coligadas, **quando** a entidade elabora demonstrações contábeis separadas — a norma **não determina** quais entidades devem elaborá-las, só regula como fazê-lo quando a entidade (por escolha ou exigência regulatória) apresenta essas demonstrações. (NBC TSP 16, itens 1-3, p. 1-2)
+
+**Definição:** nas demonstrações contábeis separadas, a entidade pode escolher contabilizar seus investimentos em controladas, ECC e coligadas: (a) **ao custo**; (b) **ao valor justo por meio do resultado**; ou (c) pelo **método da equivalência patrimonial (MEP)**, conforme a NBC TSP 18. (item 6, p. 2)
+
+> [!info]- Ponte
+> - [[P2 - Contabilidade Avançada e de Custos#- Investimentos MEP (CPC 18);]] — o MEP é a mesma técnica do CPC 18/CPC 36 privado; aqui é só uma das três opções de mensuração, não a única.
+
+> ⚠️ **Separadas ≠ comuns ≠ consolidadas** — as demonstrações separadas são apresentadas **adicionalmente** às consolidadas, ou às demonstrações de investidor que só tem coligada/ECC (que, pela NBC TSP 18, em regra usa MEP). <mark style="background:rgba(240, 200, 0, 0.2)">As demonstrações contábeis de entidade que não possui investimento em controlada, em coligada ou em empreendimento controlado em conjunto não são consideradas [demonstrações separadas]</mark> — são demonstrações comuns. (itens 7-8, p. 2)
+
+> [!tip]- Lupa: três rótulos, três situações
+> **A ideia em uma frase:** "separada" não é sinônimo de "individual comum" — é um rótulo técnico que só existe quando há, ao lado dela, uma consolidação (ou um MEP) da qual ela é o par.
+> **O passo a passo:** (1) a entidade tem controlada, ECC ou coligada? Se não, suas demonstrações são só demonstrações — ponto final. (2) Se tem controlada, ela é chamada a consolidar (NBC TSP 17); se, além disso (ou em vez disso, por dispensa), apresenta demonstrações próprias contabilizando esses investimentos a custo/valor justo/MEP, essas são as "separadas". (3) Se só tem coligada/ECC (sem controlada), o "padrão" já é usar MEP nas suas demonstrações comuns — só quando dispensada dessa regra (NBC TSP 18, item 23) é que voltam a ser chamadas de "separadas".
+> **O erro clássico:** chamar de "demonstrações separadas" qualquer demonstração de entidade sem holding — o rótulo exige a existência de investimento relevante (controlada/ECC/coligada) e de uma norma da qual a entidade se afasta ou complementa.
+
+**Quando as separadas podem ser as ÚNICAS demonstrações:** a entidade **dispensada** de consolidar (NBC TSP 17, item 5) ou de aplicar o MEP (NBC TSP 18, item 23) pode apresentar as separadas como suas únicas demonstrações; o mesmo vale para a entidade de investimento obrigada a mensurar **todas** as controladas a valor justo pelo resultado (NBC TSP 17, item 56). (itens 9-10, p. 2)
+
+**Elaboração:** as separadas seguem todas as NBCs TSP aplicáveis; a escolha entre custo, valor justo pelo resultado ou MEP deve ser **uniforme** para toda a categoria (todas as coligadas/ECC, ou o investimento em controlada nos termos exigidos pela NBC TSP 17). (itens 11-14, p. 2-3)
+
+**Dividendos:** reconhecidos no **resultado** das demonstrações separadas quando o direito ao recebimento é estabelecido — **exceto** se a entidade usa o MEP, caso em que o dividendo **reduz o valor contábil do investimento** (não vai para o resultado). (item 16, p. 3)
+
+> [!tip]- Lupa: dividendo — resultado ou redução do investimento?
+> **A ideia em uma frase:** o destino do dividendo depende do método de mensuração escolhido para aquele investimento nas demonstrações separadas.
+> **O passo a passo:** (1) o investimento está a custo ou a valor justo pelo resultado? O dividendo recebido vai para o **resultado**, quando o direito é estabelecido. (2) O investimento está pelo **MEP**? O dividendo **não** é receita — ele **abate o saldo contábil do investimento**, porque o lucro da investida já foi reconhecido antes, via equivalência patrimonial.
+> **O erro clássico:** lançar o dividendo de uma coligada avaliada pelo MEP como receita no resultado — dobraria o reconhecimento do lucro (uma vez na equivalência, outra no dividendo).
+
+> [!info]- Ponte
+> - [[P2 - Contabilidade Avançada e de Custos#5. Aplicação do MEP]] — o exemplo numérico privado mostra exatamente essa mecânica: `D Dividendos a Receber / C Investimento`, dividendo debitando (reduzindo) o investimento, não o resultado.
+
+**Reorganização societária:** quando a controladora cria nova entidade como sua controladora, e (a) a nova controladora obtém o controle da original por troca de instrumentos patrimoniais (ou mecanismo equivalente); (b) os ativos e passivos da entidade econômica são os mesmos antes e depois; e (c) os proprietários mantêm a mesma participação absoluta e relativa — a nova controladora contabiliza o investimento **ao custo**, mensurando ao custo o valor contábil de sua participação no PL da controladora original na data da reorganização. Regra equivalente se aplica quando quem cria a nova controladora não é, ela mesma, controladora. (itens 17-18, p. 3-4)
+
+**Divulgação** — quando a controladora usa a dispensa de consolidação e apresenta as separadas alternativamente, deve divulgar: (a) o fato de serem separadas, que usou a dispensa, o nome e o endereço de onde obter as consolidadas do grupo; (b) a lista dos investimentos significativos em controladas/ECC/coligadas (nome, localização principal, proporção de participação e como foi determinada); (c) o método usado para cada investimento listado. (itens 19-23, p. 4-5)
+
+**Vigência:** a partir de **1º de janeiro de 2021**, salvo normativo nacional com prazo específico — mesma data da NBC TSP 17. (item Vigência, p. 5)
 
 # Bloco D:
 

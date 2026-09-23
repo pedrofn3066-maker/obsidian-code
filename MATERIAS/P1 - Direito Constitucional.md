@@ -702,7 +702,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3187?indi
 - [ ] status [dom:: 0] [peso:: 2]
 
 ### Da Organização Político-Administrativa (arts. 18 e 19 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2]
 
 - **Art. 18, caput:** a organização político-administrativa da República compreende <mark>União, Estados, Distrito Federal e Municípios, todos autônomos</mark>, nos termos da CF. § 1º: Brasília é a Capital Federal. § 2º: os **Territórios Federais integram a União**; criação, transformação em Estado ou reintegração ao Estado de origem são reguladas em **lei complementar**. *(CF/88 EC 139, p. 24)*
 - **§ 3º — Estados** (incorporar-se entre si, subdividir-se, desmembrar-se para se anexar a outros, formar novos Estados ou Territórios): <mark>plebiscito da população diretamente interessada + Congresso Nacional, por lei complementar</mark>. *(p. 24)*
@@ -730,7 +730,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3187?indi
 > - [[P1 - Direito Constitucional#- Intervenção Federal e Estadual (arts. 34 a 36 da CF/1988);]]: a autonomia do art. 18, caput, é o que a intervenção limita temporariamente, e em Município de Estado quem intervém é o Estado.
 
 ### União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 2] [peso:: 2] ✅ 2026-09-23
 
 **Bens da União (art. 20)** *(p. 24–25)*
 - (I) os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos; (V) recursos naturais da **plataforma continental e da zona econômica exclusiva**; (VI) **mar territorial**; (VII) **terrenos de marinha** e acrescidos; (VIII) **potenciais de energia hidráulica**; (IX) **recursos minerais, inclusive os do subsolo**; (X) cavidades naturais subterrâneas e sítios arqueológicos e pré-históricos; (XI) **terras tradicionalmente ocupadas pelos índios**.
@@ -830,7 +830,7 @@ Bens da União × bens dos Estados (arts. 20 e 26, p. 24–25 e 28)
 > - [[P1 - Direito Constitucional#Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)]]: o Município não está no art. 24, mas suplementa a legislação federal e estadual pelo art. 30, II.
 
 ### Estados Federados - Organização, Competências, Bens (arts. 25 a 28 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 0] [peso:: 2] ✅ 2026-09-23
 
 - **Art. 25, caput:** os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios da CF. **§ 1º:** <mark>são reservadas aos Estados as competências que não lhes sejam vedadas</mark> pela CF (competência remanescente). *(p. 28)*
 - **§ 2º:** cabe aos Estados explorar diretamente, ou mediante concessão, os **serviços locais de gás canalizado**, na forma da lei, <mark>vedada a edição de medida provisória</mark> para a sua regulamentação. *(p. 28)*
@@ -863,7 +863,7 @@ Bens da União × bens dos Estados (arts. 20 e 26, p. 24–25 e 28)
 > - [[P2 - Direito Tributário#Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)]]: o conceito de regiões metropolitanas, aglomerações urbanas e microrregiões formadas por Municípios limítrofes (art. 25, § 3º) reaparece na exceção do Simples para transporte intermunicipal.
 
 ### Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 2] [peso:: 2] ✅ 2026-09-23
 
 - **Art. 29, caput — lei orgânica:** <mark>votada em dois turnos, com interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará</mark>, atendidos os princípios da CF e da Constituição do Estado. *(p. 29)*
 - (I) Prefeito, Vice e Vereadores: mandato de **4 anos**, pleito direto e **simultâneo em todo o País**. (II) Eleição de Prefeito e Vice no **1º domingo de outubro** do ano anterior ao término do mandato; regras do art. 77 (2º turno) nos <mark>Municípios com mais de 200 mil eleitores</mark>. (III) <mark>Posse de Prefeito e Vice em 1º de janeiro</mark> do ano subsequente ao da eleição. *(p. 29)*
@@ -1272,7 +1272,7 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 - [ ] status [dom:: 0] [peso:: 2]
 
 ### Dos Precatórios (art. 100 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 1] [peso:: 2]
 
 **Regime e preferências (caput e §§ 1º a 8º)** *(CF/88 EC 139, p. 62)*
 - **Caput:** os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais em virtude de sentença judiciária seguem <mark>exclusivamente a ordem cronológica de apresentação dos precatórios</mark>, à conta dos créditos respectivos, <mark>proibida a designação de casos ou de pessoas</mark> nas dotações orçamentárias e nos créditos adicionais.

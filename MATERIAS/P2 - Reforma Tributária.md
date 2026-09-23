@@ -1351,166 +1351,400 @@ Fator de correção aplicado à Receita-Base dos Entes: <mark style="background:
 
 # LC 227/26 . Comitê Gestor do IBS (CGIBS)
 
+## Instituição e natureza jurídica do CGIBS (art. 1º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo I (Disposições Gerais), art. 1º. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.7.
+
+Art. 1º institui o CGIBS como <mark>entidade pública com caráter técnico e operacional, sob regime especial</mark>, com sede e foro no Distrito Federal, dotado de independência técnica, administrativa, orçamentária e financeira, para administrar o IBS (art. 156-A, CF) em competência compartilhada entre Estados, DF e Municípios. Parágrafo único: o CGIBS (I) define diretrizes e coordena, de forma integrada, a atuação das administrações tributárias e Procuradorias dos entes, observadas as competências de cada um; e (II) atua com <mark>ausência de vinculação, tutela ou subordinação hierárquica</mark> a qualquer órgão da administração pública.
+
+⚠️ Pegadinha de banca: o CGIBS não é órgão de nenhum ente federativo nem "subordinado" a eles — é entidade pública autônoma, de regime especial, compartilhada pelos três níveis.
+
+> [!quote]- Texto literal — Art. 1º, caput (p.7)
+> "É instituído o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS), entidade pública com caráter técnico e operacional sob regime especial, com sede e foro no Distrito Federal, dotado de independência técnica, administrativa, orçamentária e financeira, relativamente à competência compartilhada para administrar o Imposto sobre Bens e Serviços (IBS), de que trata o art. 156-A da Constituição Federal."
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Art. 156-B: Comitê Gestor do IBS]] — mesma entidade e mesma base constitucional (art. 156-B, CF), aqui detalhada pela LC 227/26.
+
+---
+
+## Competências administrativas do CGIBS (art. 2º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo II, Seção I (Das Competências do CGIBS), art. 2º. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.7-14.
+
+O caput do art. 2º dá aos Estados, DF e Municípios <mark>3 competências exclusivas</mark>, exercidas de forma integrada só por meio do CGIBS: (I) editar regulamento único e uniformizar a interpretação/aplicação da legislação do IBS; (II) arrecadar, compensar, reter e distribuir o produto da arrecadação; (III) decidir o contencioso administrativo. O § 8º acrescenta, à parte, uma quarta: <mark>cabe exclusivamente ao CGIBS criar obrigações acessórias do IBS</mark> — os entes federativos não podem fazê-lo.
+
+O § 1º acrescenta outras 24 competências, sem repetir a ressalva de exclusividade do caput:
+
+| Inciso | Competência (§1º) |
+| --- | --- |
+| I | harmonizar normas, interpretações, obrigações acessórias e procedimentos com o Executivo federal (regras comuns IBS/CBS) |
+| II | compartilhar informações fiscais e de cobrança com a RFB e a PGFN, de modo cooperativo e recíproco |
+| III | gestão compartilhada, com a RFB, do sistema de registro de fiscalizações do IBS/CBS |
+| IV | disciplinar o regime especial de fiscalização |
+| V | realizar avaliação quinquenal (regimes aduaneiros especiais/ZPE/bens de capital, devolução personalizada, Cesta Básica Nacional, regimes diferenciados e específicos) |
+| VI | coordenar fiscalização/lançamento/cobrança/representação administrativa (adm. tributárias) e cobrança/representação judicial (Procuradorias), e inscrição em dívida ativa |
+| VII | promover inscrição em dívida ativa por delegação, preservada a titularidade dos entes |
+| VIII | coordenar solução adequada de conflitos entre entes e sujeitos passivos, padronizando critérios |
+| IX | reter e distribuir aos Municípios sua parcela (25%) do IBS distribuído aos Estados, ou depositar em conta de precatórios (ADCT, art. 104) |
+| X | efetuar as demais retenções previstas na CF e em LC |
+| XI | com a RFB, calcular/fixar/divulgar alíquotas do IBS/CBS para regimes específicos |
+| XII | com a RFB, encaminhar proposta do redutor de alíquotas nas contratações da Adm. Pública direta/autarquias/fundações |
+| XIII | deduzir da arrecadação do IBS dos Estados o valor compensado de saldo credor de ICMS (art. 137) |
+| XIV | executar atividades orçamentárias, financeiras, contábeis e de tesouraria |
+| XV | prestar contas a órgãos de controle externo |
+| XVI | solicitar cessão de servidores efetivos (carreiras da adm. tributária/Procuradorias e outras carreiras) |
+| XVII | estruturar plano de cargos/salários e contratar empregados públicos via concurso, regime celetista |
+| XVIII | contratar serviços terceirizados administrativos e de apoio |
+| XIX | estruturar vantagens remuneratórias/indenizatórias a membros do Conselho Superior e servidores cedidos |
+| XX | instituir e manter a Escola Nacional de Tributação |
+| XXI | com a RFB, metodologia de apuração de crédito de adquirentes de combustíveis (dispensa de comprovação de pagamento) |
+| XXII | editar atos exclusivos ou conjuntos com o Executivo federal |
+| XXIII | instituir programas de incentivo à cidadania e à educação fiscal |
+| XXIV | exercer outras competências conferidas em lei complementar |
+
+Entre os demais parágrafos: § 3º — controle centralizado das inscrições em dívida ativa, por sistema único. § 4º — o regulamento único define o prazo máximo de cobrança administrativa, <mark>não superior a 12 meses</mark>, contado da constituição definitiva do crédito. § 5º — exaurido esse prazo, a administração tributária encaminha o expediente à procuradoria para cobrança judicial ou extrajudicial. § 7º — CGIBS, RFB e PGFN podem implementar soluções integradas de administração e cobrança (não confundir com o § 8º).
+
+⚠️ Pegadinha de banca: só as 3 competências do caput (I-III) — mais a do § 8º, isolada — são rotuladas "exclusivas" e exercidas "só por meio do CGIBS"; as 24 do § 1º não repetem essa ressalva.
+
+> [!quote]- Texto literal — Art. 2º, § 4º e § 8º (p.14)
+> "§ 4º O regulamento único do IBS definirá o prazo máximo para a realização das atividades de cobrança administrativa, desde que não superior a 12 (doze) meses, contado da constituição definitiva do crédito tributário." (...) "§ 8º Cabe exclusivamente ao CGIBS a criação de obrigações acessórias relativas ao IBS."
+
+> [!tip]- Lupa: competência exclusiva × competência do § 1º
+> **A ideia em uma frase:** o art. 2º tem dois "andares" de competência — um núcleo duro e exclusivo (caput + § 8º) e uma lista ampla de atribuições operacionais (§ 1º) que não carrega o mesmo rótulo.
+> **O passo a passo:** (1) o caput fixa 3 competências como exclusivas dos entes exercidas só via CGIBS — regulamento único/uniformização, arrecadação/compensação/retenção/distribuição, contencioso administrativo; (2) o § 8º isola uma quarta exclusividade, a criação de obrigações acessórias; (3) o § 1º lista mais 24 atribuições (harmonização, cessão de servidores, Escola Nacional de Tributação, avaliação quinquenal etc.) sem repetir a palavra "exclusivamente".
+> **O erro clássico:** afirmar que qualquer competência do § 1º é "exclusiva do CGIBS" nos mesmos termos do caput — a lei reserva esse rótulo só para I-III do caput e para o § 8º.
+
+---
+
+## Diretrizes de fiscalização compartilhada e delegação (arts. 3º a 6º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo II, Seção II (Das Diretrizes para a Fiscalização e a Cobrança Compartilhadas e Coordenadas do IBS), arts. 3º a 6º. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.19-24.
+
+Art. 3º: a administração tributária de cada ente pode fiscalizar sujeitos passivos (I) situados no seu território, ainda que realizem operações destinadas a outros entes; ou (II) em qualquer localidade, se a operação for destinada ao seu território (ou houver indício disso) ou por <mark>delegação</mark> do ente competente.
+
+Art. 4º: o CGIBS coordena a fiscalização entre os entes, <mark>vedada a segregação de fiscalização por atividade econômica, porte do sujeito passivo ou outro critério</mark>. § 1º: multa punitiva e juros de mora sobre ela pertencem ao ente que promoveu a fiscalização. §§ 2º-3º tratam da fiscalização concomitante por 2 ou mais entes — regime de <mark>titular, cotitular e participante</mark>: regra geral, 1 titular e 1 cotitular de esferas federativas diversas; exceção, se for o DF ou não houver interessado de esfera diversa, titular e cotitular podem ser da mesma esfera; as demais administrações que se habilitarem viram "participantes", e há <mark>delegação presumida</mark> para quem não se habilitar, salvo manifestação em contrário no prazo regulamentar. O lançamento é feito pelo somatório das alíquotas do Município e do Estado de destino, com créditos individualizados por ente, desde que ao menos um titular/cotitular tenha se habilitado ou recebido delegação.
+
+Art. 5º: o CGIBS coordena a cobrança e a representação (administrativa e judicial), exercidas exclusivamente por servidores efetivos de carreira específica — administração tributária (cobrança/representação administrativa) ou procurador (cobrança extrajudicial/judicial e representação judicial). § 4º permite delegar essas atividades entre entes, nos termos das diretrizes do CGIBS.
+
+Art. 6º: as regras dos arts. 3º a 5º aplicam-se também aos créditos do IBS apurados no Simples Nacional.
+
+⚠️ Pegadinha de banca: a regra geral é 1 titular + 1 cotitular de esferas **diversas**; só na exceção (DF, ou ausência de interessado de esfera diversa) é que titular e cotitular podem ser da **mesma** esfera.
+
+> [!quote]- Texto literal — Art. 4º, § 3º, I (p.21)
+> "em relação a cada procedimento fiscalizatório, haverá somente uma administração tributária titular e uma cotitular, de esferas federativas diversas, exceto quando se tratar do Distrito Federal ou não houver administrações tributárias de esferas diversas interessadas em participar do procedimento."
+
+> [!tip]- Lupa: titular, cotitular e participante na fiscalização compartilhada
+> **A ideia em uma frase:** quando mais de um ente quer fiscalizar o mesmo sujeito passivo pelos mesmos fatos, a lei elege só 2 "donos" do procedimento e trata o resto como coadjuvante.
+> **O passo a passo:** (1) regra geral — 1 administração titular + 1 cotitular, de esferas diferentes; (2) exceção — se for o DF, ou não houver interessado de esfera diversa, titular e cotitular podem ser da mesma esfera; (3) quem mais se habilitar vira "participante", sem status de titular/cotitular; (4) quem não se habilitar tem delegação presumida aos titular/cotitular, salvo manifestação expressa em contrário; (5) o lançamento final soma as alíquotas do Município e do Estado de destino, com créditos individualizados por ente.
+> **O erro clássico:** achar que "participante" também lança tributo — só titular e cotitular lançam; os demais, se não se habilitarem, são só considerados como tendo delegado a competência.
+
+---
+
 ## Órgãos do CGIBS, sigilo e conflito de interesses (art. 7º)
 - [ ] status [dom:: 0] [peso:: 3]
 
-LC nº 227, de 13 de janeiro de 2026, Título I, Capítulo III (Da Estrutura Organizacional do CGIBS, arts. 7º a 39), Seção I (Dos Órgãos do CGIBS).
+LC nº 227/2026, Título I, Capítulo III, Seção I (Dos Órgãos do CGIBS), art. 7º. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.24-28.
 
-Art. 7º Integram a estrutura organizacional básica do <span class="g-comp">CGIBS</span>:
-I - o Conselho Superior;
-II - a Presidência e a Vice-Presidência;
-III - a Diretoria Executiva e as suas diretorias;
-IV - a Secretaria-Geral;
-V - a Assessoria de Relações Institucionais e Interfederativas;
-VI - a Corregedoria; e
-VII - a Auditoria Interna.
-§ 1º Os membros dos órgãos indicados no caput deste artigo, os empregados contratados e os servidores em exercício no <span class="g-comp">CGIBS</span> deverão resguardar o sigilo fiscal e adotar medidas de segurança adequadas para proteger as informações fiscais sob sua responsabilidade e as que tenham acesso em razão do cargo, função ou emprego que exercem, de forma a garantir sua confidencialidade e integridade, observada a legislação específica.
-§ 2º O disposto no § 1º deste artigo aplica-se, inclusive, <span class="g-prazo">após o desligamento</span> das pessoas nele indicadas do <span class="g-comp">CGIBS</span>, sob pena de responsabilização civil, administrativa, tributária e penal.
-§ 3º Configura conflito de interesses <span class="g-prazo">no exercício</span> de cargo, função ou emprego no âmbito do <span class="g-comp">CGIBS</span>:
-I - divulgar ou fazer uso de informação privilegiada, em proveito próprio ou de terceiros, obtida em razão das atividades exercidas;
-II - exercer atividade que implique a prestação de serviços ou a manutenção de relação de negócio com pessoa física ou jurídica que tenha interesse em decisão do ocupante de cargo, função ou emprego ou de colegiado do qual este participe;
-III - exercer, direta ou indiretamente, atividade que, em razão de sua natureza, seja incompatível com as atribuições do cargo, função ou emprego ou do colegiado, assim considerada, inclusive, a atividade desenvolvida em áreas ou matérias correlatas;
-IV - atuar, <span class="g-cond">ainda que</span> informalmente, como procurador, consultor, assessor ou intermediário de interesses privados nos órgãos ou nas entidades da administração pública direta ou indireta de quaisquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios;
-V - praticar ato em benefício de interesse de pessoa jurídica de que participe o ocupante de cargo, função ou emprego, seu cônjuge, companheiro ou parentes, consanguíneos ou afins, em linha reta ou colateral, <span class="g-num">até o terceiro grau</span>, e que possa ser por ele beneficiada ou influir em seus atos de gestão:
-a) <span class="g-cond">em qualquer caso</span>, se o ato é praticado em favor de pessoa jurídica de direito privado;
-b) <span class="g-cond">nas hipóteses previstas no regimento interno</span>, se o ato é praticado em favor de pessoa jurídica de direito público;
-VI - receber presente de quem tenha interesse em decisão do ocupante de cargo, função ou emprego ou de colegiado do qual este participe; e
-VII - prestar serviços, ainda que eventuais, a empresa cuja atividade seja controlada, fiscalizada ou regulada pelo ente ao qual o ocupante de cargo, função ou emprego esteja vinculado, <span class="g-cond">com exceção</span> do exercício da docência.
-§ 4º <span class="g-cond">Não se considera</span> prestação de serviço, para os efeitos do inciso II do § 3º deste artigo, a existência de vínculo funcional entre o servidor indicado ou cedido ao <span class="g-comp">CGIBS</span> e o ente federativo que o indicou ou cedeu.
-§ 5º Configura conflito de interesses <span class="g-prazo">após o exercício</span> de cargo, função ou emprego no âmbito do <span class="g-comp">CGIBS</span>:
-I - <span class="g-prazo">a qualquer tempo</span>, divulgar ou fazer uso de informação privilegiada obtida em razão das atividades exercidas; e
-II - no período de <span class="g-prazo">6 (seis) meses</span>, contado da data da dispensa, exoneração, destituição, demissão ou aposentadoria:
-a) prestar, direta ou indiretamente, qualquer tipo de serviço a pessoa física ou jurídica com quem tenha estabelecido relacionamento relevante em razão do exercício do cargo, função ou emprego, <span class="g-cond">com exceção</span> do exercício da docência;
-b) aceitar cargo de administrador ou de conselheiro ou estabelecer vínculo profissional com pessoa física ou jurídica que desempenhe atividade relacionada à área de competência do cargo, função ou emprego ocupado;
-c) celebrar com órgãos ou entidades dos Poderes Executivos da União, dos Estados, do Distrito Federal ou dos Municípios, com os quais tenha estabelecido relacionamento relevante em razão do exercício do cargo, função ou emprego, contratos de serviço, consultoria, assessoramento ou atividades similares vinculadas, ainda que indiretamente, ao <span class="g-comp">CGIBS</span>; ou
-d) intervir, direta ou indiretamente, em favor de interesse privado perante órgão do <span class="g-comp">CGIBS</span> ou dos Poderes Executivos da União, dos Estados, do Distrito Federal e dos Municípios em que haja ocupado cargo, função ou emprego ou com o qual tenha estabelecido relacionamento relevante em razão do exercício do cargo, função ou emprego.
-§ 6º O conflito de interesses de que tratam os §§ 3º e 5º deste artigo será precedido de manifestação de <span class="g-comp">comissão de ética</span> instituída nos termos do regimento interno, aplicando-se, <span class="g-cond">enquanto não instituído</span> pelo <span class="g-comp">CGIBS</span> procedimento próprio a ser observado, no que couber, o disposto na Lei nº 12.813, de 16 de maio de 2013, sem prejuízo da compensação remuneratória em caso de quarentena, equivalente à do cargo, função ou emprego que ocupava.
+Art. 7º define os <mark>7 órgãos da estrutura básica</mark> do CGIBS: Conselho Superior; Presidência e Vice-Presidência; Diretoria Executiva e suas diretorias; Secretaria-Geral; Assessoria de Relações Institucionais e Interfederativas; Corregedoria; e Auditoria Interna. §§ 1º-2º: sigilo fiscal obrigatório a membros, empregados e servidores do CGIBS, inclusive <mark>após o desligamento</mark>, sob pena de responsabilização civil, administrativa, tributária e penal.
 
-## Conselho Superior do CGIBS: composição, eleições e competências (arts. 8º a 11)
+Os §§ 3º a 6º tratam de <mark>conflito de interesses</mark> em dois blocos temporais distintos.
+
+⚠️ Pegadinha de banca: a lei separa o conflito **durante** o exercício do cargo (§ 3º) do conflito **após** o exercício (§ 5º) — incisos e prazos não se misturam.
+
+**Durante o exercício (§ 3º)** — configura conflito: divulgar/usar informação privilegiada; exercer atividade ou manter relação de negócio com quem tenha interesse em decisão sua; atividade incompatível com as atribuições; atuar (mesmo informalmente) como procurador/intermediário de interesses privados perante a administração pública de qualquer ente; praticar ato em benefício de PJ de que participe (ou cônjuge/parente até o 3º grau) que possa beneficiá-lo ou influir em sua gestão; receber presente de interessado em decisão sua; prestar serviço a empresa controlada/fiscalizada/regulada pelo ente ao qual esteja vinculado — só nesta última hipótese, <mark>exceção para o exercício da docência</mark>.
+
+**Após o exercício, por 6 meses da dispensa/exoneração/destituição/demissão/aposentadoria (§ 5º)** — configura conflito: divulgar/usar informação privilegiada, <mark>a qualquer tempo</mark> (sem o limite de 6 meses); prestar serviço a quem teve relacionamento relevante em razão do cargo; aceitar cargo de administrador/conselheiro ou vínculo profissional em área relacionada à competência do cargo; celebrar contratos com o Executivo de ente com quem teve relacionamento relevante; intervir em favor de interesse privado perante o CGIBS ou Executivos onde atuou — com exceção de docência na hipótese de prestação de serviço.
+
+§ 6º: o conflito de interesses é precedido de manifestação de comissão de ética (regimento interno); enquanto não instituída, aplica-se a Lei nº 12.813/2013, sem prejuízo de compensação remuneratória em quarentena.
+
+> [!quote]- Texto literal — Art. 7º, §§ 1º e 2º (sigilo, p.24)
+> "§ 1º Os membros dos órgãos indicados no caput deste artigo, os empregados contratados e os servidores em exercício no CGIBS deverão resguardar o sigilo fiscal e adotar medidas de segurança adequadas para proteger as informações fiscais sob sua responsabilidade (...). § 2º O disposto no § 1º deste artigo aplica-se, inclusive, após o desligamento das pessoas nele indicadas do CGIBS, sob pena de responsabilização civil, administrativa, tributária e penal."
+
+> [!tip]- Lupa: conflito de interesses — durante × após o exercício
+> **A ideia em uma frase:** a lei protege o CGIBS tanto de quem já está lá quanto de quem acabou de sair, com regras e prazos diferentes para cada momento.
+> **O passo a passo:** (1) durante o cargo, § 3º, 7 vedações amplas; (2) ao sair, só a vedação de usar informação privilegiada "sobrevive" sem prazo (§ 5º, I — a qualquer tempo); (3) as demais 3 hipóteses do § 5º valem só nos 6 meses seguintes à saída (prestar serviço a quem teve relação relevante, assumir cargo/vínculo em área relacionada, contratar ou intervir perante quem teve relação relevante); (4) ambos os blocos ressalvam a docência.
+> **O erro clássico:** aplicar o prazo de 6 meses do § 5º também à vedação de divulgar informação privilegiada — essa é vedada a qualquer tempo, sem prazo.
+
+> [!info]- Ponte
+> - [[2026-09-15 Reforma Tributária]] — caderno testou "Estrutura Organizacional do CGIBS (arts. 7º a 39)" e errou 15/21 (71%), a maior massa de erro do caderno.
+
+---
+
+## Conselho Superior do CGIBS: composição e eleições (arts. 8º e 9º)
 - [ ] status [dom:: 0] [peso:: 3]
 
-LC nº 227/26, Título I, Capítulo III, Seção II (Do Conselho Superior do CGIBS, arts. 8º a 11).
+LC nº 227/2026, Título I, Capítulo III, Seção II (Do Conselho Superior do CGIBS), arts. 8º e 9º. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.29-34.
 
-Art. 8º O <span class="g-comp">Conselho Superior do CGIBS</span>, instância máxima de deliberação da entidade, tem a seguinte composição:
-I - <span class="g-num">27 (vinte e sete)</span> membros e respectivos suplentes, representantes de cada <span class="g-comp">Estado</span> e do <span class="g-comp">Distrito Federal</span>; e
-II - <span class="g-num">27 (vinte e sete)</span> membros e respectivos suplentes, representantes do conjunto dos <span class="g-comp">Municípios</span> e do <span class="g-comp">Distrito Federal</span>.
-§ 1º Os membros e os respectivos suplentes de que trata:
-I - o inciso I do caput deste artigo serão indicados pelo <span class="g-comp">chefe do Poder Executivo de cada Estado e do Distrito Federal</span>; e
-II - o inciso II do caput deste artigo serão indicados pelos <span class="g-comp">chefes dos Poderes Executivos dos Municípios e do Distrito Federal</span>, da seguinte forma:
-a) <span class="g-num">14 (quatorze)</span> representantes eleitos com base nos votos de cada Município, com valor igual para todos; e
-b) <span class="g-num">13 (treze)</span> representantes eleitos com base nos votos de cada Município, ponderados pelas respectivas populações.
-§ 2º A escolha dos representantes dos Municípios no <span class="g-comp">Conselho Superior do CGIBS</span>, a que se refere o inciso II do caput deste artigo, será efetuada mediante realização de eleições distintas para definição dos membros e respectivos suplentes de cada um dos grupos referidos nas alíneas “a” e “b” do inciso II do § 1º deste artigo.
-§ 3º As eleições de que trata o § 2º deste artigo:
-I - serão realizadas por meio eletrônico, observado que <span class="g-cond">apenas</span> o <span class="g-comp">chefe do Poder Executivo municipal</span> em exercício terá direito a voto;
-II - terão a garantia da representação de, <span class="g-num">no mínimo, 1 (um)</span> Município de cada região do País, podendo o <span class="g-comp">Distrito Federal</span> ser representante da Região Centro-Oeste;
-III - serão regidas pelo princípio democrático, garantida a participação de todos os Municípios, sem prejuízo da observância de requisitos mínimos para a candidatura, nos termos desta Lei Complementar e do regulamento eleitoral;
-IV - serão realizadas por meio de <span class="g-num">um único</span> processo eleitoral, organizado pelas <span class="g-comp">associações de representação de Municípios</span> referidas nos §§ 5º e 6º deste artigo, por meio de regulamento eleitoral conjunto.
-§ 4º Os <span class="g-comp">Municípios</span> <span class="g-cond">somente</span> poderão indicar, dentre os membros a que se refere o inciso II do caput deste artigo, <span class="g-num">1 (um) único</span> membro titular ou suplente, inclusive para o processo eleitoral.
-§ 5º Para a eleição prevista no § 2º, em relação aos representantes referidos na alínea “a” do inciso II do § 1º, as chapas, em <span class="g-num">número mínimo de 2 (duas)</span>, serão apresentadas pela <span class="g-comp">Confederação Nacional de Municípios (CNM)</span>, <span class="g-cond">ressalvado</span> o disposto no § 7º deste artigo, mediante regras de habilitação estabelecidas pela própria associação e aprovação da sua instância máxima de deliberação, contendo <span class="g-num">14 (quatorze)</span> nomes titulares, observado o seguinte:
-I - os nomes indicados e os respectivos Municípios comporão uma única chapa, <span class="g-cond">não podendo</span> constar de outra chapa;
-II - cada titular terá <span class="g-num">2 (dois)</span> suplentes, obrigatoriamente de Municípios distintos e observado o disposto no inciso I deste parágrafo;
-III - em caso de impossibilidade de atuação do titular, caberá ao primeiro suplente sua imediata substituição;
-IV - vencerá a eleição a chapa que obtiver <span class="g-num">mais de 50% (cinquenta por cento)</span> dos votos válidos, <span class="g-cond">ressalvado</span> o disposto no § 7º deste artigo;
-V - caso nenhuma das chapas atinja o percentual de votos indicado no inciso IV deste parágrafo, será realizado um segundo turno de votação com as <span class="g-num">2 (duas)</span> chapas mais votadas, hipótese em que será considerada vencedora a chapa que obtiver a <span class="g-num">maioria dos votos válidos</span>, <span class="g-cond">ressalvado</span> o disposto no § 7º deste artigo.
-§ 6º Para a eleição prevista no § 2º, em relação aos representantes referidos na alínea “b” do inciso II do § 1º, as chapas, em <span class="g-num">número mínimo de 2 (duas)</span>, serão apresentadas pela <span class="g-comp">Frente Nacional de Prefeitas e Prefeitos (FNP)</span>, <span class="g-cond">ressalvado</span> o disposto no § 7º deste artigo, mediante regras de habilitação estabelecidas pela própria associação e aprovação da sua instância máxima de deliberação, contendo <span class="g-num">13 (treze)</span> nomes titulares e observado o disposto nos incisos I a V do § 5º deste artigo.
-§ 7º <span class="g-cond">Na hipótese de</span> a chapa mais bem votada nas eleições de que tratam os §§ 5º e 6º deste artigo não angariar votos correspondentes a <span class="g-num">pelo menos 30% (trinta por cento)</span> do total de Municípios do País ou <span class="g-num">30% (trinta por cento)</span> da população do País, respectivamente, será reaberto o prazo e facultada a apresentação de uma chapa também pela outra associação, procedendo-se a nova eleição.
-§ 8º O <span class="g-comp">Distrito Federal</span> <span class="g-cond">não poderá</span> votar nas eleições destinadas a definir a representação dos Municípios no <span class="g-comp">Conselho Superior do CGIBS</span>.
-§ 9º As eleições terão o acompanhamento, <span class="g-prazo">durante todo o processo eleitoral</span>, de <span class="g-num">4 (quatro)</span> membros do <span class="g-comp">Conselho Superior do CGIBS</span>, escolhidos pelos <span class="g-num">27 (vinte e sete)</span> representantes dos Municípios de que trata o inciso II do caput deste artigo.
-§ 10. O regulamento eleitoral poderá definir outras atribuições dos membros de que trata o § 9º deste artigo para acompanhamento do processo eleitoral.
-§ 11. O foro competente para solucionar as ações judiciais relativas aos processos eleitorais de que trata este artigo é o da <span class="g-comp">circunscrição judiciária de Brasília, no Distrito Federal</span>.
+Art. 8º: composição de <mark>54 membros</mark> titulares (+ suplentes) em 2 grupos — <mark>27</mark> representantes de cada Estado e do DF (indicados pelo chefe do Executivo) e <mark>27</mark> representantes do conjunto dos Municípios e do DF, eleitos: <mark>14</mark> por voto igual de cada Município (chapas da <mark>CNM</mark>) e <mark>13</mark> por voto ponderado pela população (chapas da <mark>FNP</mark>). O DF tem assento nos <mark>dois</mark> grupos.
 
-Art. 9º Os membros do <span class="g-comp">Conselho Superior do CGIBS</span> serão escolhidos entre cidadãos de reputação ilibada e de notório conhecimento em administração tributária, observado o seguinte:
-I - a representação titular dos <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span> será exercida pelo ocupante, no momento da indicação, do cargo de Secretário de Fazenda, Finanças, Tributação ou cargo similar que corresponda à autoridade máxima da administração tributária dos referidos entes federativos; e
-II - a representação dos <span class="g-comp">Municípios</span> e do <span class="g-comp">Distrito Federal</span> será exercida por membro que, no momento da indicação, mantenha vínculo de subordinação hierárquica com a esfera federativa que o indicou e atenda, ao menos, a <span class="g-num">1 (um)</span> dos seguintes requisitos:
-a) ocupar o cargo de Secretário de Fazenda, Finanças, Tributação ou cargo similar que corresponda à autoridade máxima da administração tributária do <span class="g-comp">Município</span> ou do <span class="g-comp">Distrito Federal</span>;
-b) ter experiência de, no mínimo, <span class="g-prazo">10 (dez) anos</span> em cargo efetivo de autoridade fiscal integrante da administração tributária do <span class="g-comp">Município</span> ou do <span class="g-comp">Distrito Federal</span>;
-c) ter experiência de, no mínimo, <span class="g-prazo">4 (quatro) anos</span> como ocupante de cargos de direção, de chefia ou de assessoramento superiores na administração tributária do <span class="g-comp">Município</span> ou do <span class="g-comp">Distrito Federal</span>.
-§ 1º Os membros de que trata o caput deste artigo devem, cumulativamente, no momento da indicação:
-I - ter formação acadêmica em nível superior compatível com o cargo para o qual foram indicados;
-II - não se enquadrar nas hipóteses de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990.
-§ 2º Os membros do <span class="g-comp">Conselho Superior do CGIBS</span> serão nomeados e investidos para o exercício da função pelo prazo de <span class="g-prazo">2 (dois) anos</span> e <span class="g-cond">somente</span> perderão o cargo em razão de:
-I - renúncia;
-II - condenação judicial transitada em julgado:
-a) a pena privativa de liberdade, nos termos do inciso I do caput do art. 92 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), ou de lei penal especial;
-b) por improbidade administrativa, nos termos dos incisos I e II do caput do art. 12 da Lei nº 8.429, de 2 de junho de 1992;
-III - pena demissória decorrente de processo administrativo disciplinar no ente de origem;
-IV - sanção disciplinar no âmbito do <span class="g-comp">CGIBS</span>, assegurados o contraditório e a ampla defesa, por:
-a) conflito de interesses, nos termos do § 3º do art. 7º desta Lei Complementar;
-b) falta grave, assim entendida aquela tipificada em resolução do <span class="g-comp">CGIBS</span> e que demonstre inequívoca inidoneidade para o exercício do mandato;
-V - perda de vínculo com a esfera federativa representada, na forma do regimento interno.
-§ 3º O suplente substituirá o titular em suas ausências e seus impedimentos, na forma do regimento interno.
-§ 4º Em caso de vacância, a função será exercida pelo respectivo suplente durante o período remanescente.
-§ 5º Na hipótese de morte ou perda do cargo do titular e dos respectivos suplentes, será, para o remanescente do período referido no § 2º deste artigo:
-I - realizada nova indicação pelo <span class="g-comp">Poder Executivo</span>, em se tratando de representantes dos <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span>;
-II - realizada nova eleição para a ocupação das respectivas vagas, no prazo previsto pelo regimento interno do <span class="g-comp">CGIBS</span>, no caso de representantes dos <span class="g-comp">Municípios</span> e do <span class="g-comp">Distrito Federal</span>.
+Mecânica eleitoral (§§ 2º a 11): eleições distintas e eletrônicas (só o chefe do Executivo municipal em exercício vota); garantida representação mínima de <mark>1 Município por região</mark> do País (DF pode representar o Centro-Oeste); processo eleitoral único, organizado pela CNM (14 membros) e pela FNP (13 membros); cada Município só indica 1 membro; chapas em número mínimo de <mark>2</mark>, cada titular com <mark>2 suplentes de Municípios distintos</mark>; vence quem obtiver mais de <mark>50%</mark> dos votos válidos, senão 2º turno entre as 2 mais votadas; § 8º — o DF <mark>não</mark> vota nessas eleições municipais; acompanhamento por 4 membros do próprio Conselho, escolhidos pelos 27 representantes municipais; foro: circunscrição judiciária de Brasília/DF.
 
-Art. 10. A aprovação das deliberações do <span class="g-comp">Conselho Superior do CGIBS</span> dar-se-á, cumulativamente, pelos votos:
-I - em relação ao conjunto dos <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span>:
-a) da <span class="g-num">maioria absoluta</span> de seus representantes; e
-b) de representantes de <span class="g-comp">Estados</span> e do <span class="g-comp">Distrito Federal</span> que correspondam a <span class="g-num">mais de 50% (cinquenta por cento)</span> da população do País; e
-II - em relação ao conjunto dos <span class="g-comp">Municípios</span> e do <span class="g-comp">Distrito Federal</span>, da <span class="g-num">maioria absoluta</span> de seus representantes.
+Art. 9º: membros escolhidos entre cidadãos de reputação ilibada e notório conhecimento em administração tributária. Estados/DF: quem ocupa, na indicação, o cargo de Secretário de Fazenda/Finanças/Tributação (ou similar, autoridade máxima da administração tributária do ente). Municípios/DF: vínculo de subordinação hierárquica ao ente + ao menos 1 de 3 requisitos — Secretário/cargo similar; ou <mark>10 anos</mark> em cargo efetivo de autoridade fiscal; ou <mark>4 anos</mark> em cargos de direção/chefia/assessoramento superior. § 1º: cumulativamente, formação superior compatível + não inelegibilidade (LC 64/1990, art. 1º, I). § 2º: mandato de <mark>2 anos</mark>; perda do cargo só por renúncia, condenação transitada em julgado (pena privativa de liberdade ou improbidade administrativa), pena demissória em PAD no ente de origem, sanção disciplinar no CGIBS (conflito de interesses do art. 7º ou falta grave tipificada em resolução) ou perda de vínculo com a esfera representada.
+
+> [!quote]- Texto literal — Art. 8º, caput, e § 7º (composição e quórum eleitoral, p.29-31)
+> "I - 27 (vinte e sete) membros e respectivos suplentes, representantes de cada Estado e do Distrito Federal; e II - 27 (vinte e sete) membros e respectivos suplentes, representantes do conjunto dos Municípios e do Distrito Federal." (...) "§ 7º Na hipótese de a chapa mais bem votada nas eleições de que tratam os §§ 5º e 6º deste artigo não angariar votos correspondentes a pelo menos 30% (trinta por cento) do total de Municípios do País ou 30% (trinta por cento) da população do País, respectivamente, será reaberto o prazo e facultada a apresentação de uma chapa também pela outra associação, procedendo-se a nova eleição."
+
+> [!tip]- Lupa: fluxo eleitoral dos representantes municipais (CNM × FNP)
+> **A ideia em uma frase:** os 27 assentos municipais se dividem em duas eleições paralelas, cada uma com sua associação organizadora e seu critério de voto.
+> **O passo a passo:** (1) CNM organiza a eleição dos 14 membros por voto igual (1 Município = 1 voto); (2) FNP organiza a eleição dos 13 membros por voto ponderado pela população; (3) em cada eleição, chapas (mín. 2) disputam mais de 50% dos votos válidos, com 2º turno se ninguém atingir esse percentual; (4) se a chapa vencedora não atingir o piso de representatividade, reabre-se a eleição para a outra associação também apresentar chapa.
+> **O erro clássico:** trocar o critério do piso entre as duas eleições — <mark>30% dos Municípios</mark> é o piso da eleição da CNM (voto igual); <mark>30% da população</mark> é o piso da eleição da FNP (voto ponderado) — não são intercambiáveis.
+
+> [!info]- Ponte
+> - [[ERRO REFORMA TRIBUTÁRIA#CEBRASPE]] — erro já registrado: a exigência de "notórios conhecimentos de administração tributária" (art. 9º, caput) vale para a composição do Conselho Superior como um todo, não é uma exigência isolada do cargo de Presidente.
+
+---
+
+## Conselho Superior do CGIBS: deliberações e competências (arts. 10 e 11)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo III, Seção II (Do Conselho Superior do CGIBS), arts. 10 e 11. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.36-38.
+
+Art. 10: a aprovação das deliberações do Conselho Superior exige, <mark>cumulativamente</mark>, dois quóruns: (I) do conjunto Estados+DF — maioria absoluta dos representantes **e** representantes que somem mais de <mark>50% da população</mark> do País; (II) do conjunto Municípios+DF — maioria absoluta dos representantes.
 
 ⚠️ No art. 10, o Distrito Federal soma voto nos dois conjuntos (I — Estados e DF; II — Municípios e DF) para aprovar deliberações do Conselho Superior. Não confundir com o art. 8º, § 8º: ali o DF não pode votar nas eleições dos representantes municipais.
 
-<mark style="background:#fff88f">Regras de reeleição (§ 2º — conferir na LC 227/26 a qual artigo este parágrafo pertence, não veio identificado na captura): regra geral, vedada para o mesmo cargo na eleição imediatamente subsequente; exceção, permite-se a reeleição se o mandato anterior teve duração igual ou inferior a 12 (doze) meses.</mark>
+Art. 11 lista 22 competências do Conselho Superior — destaque para: eleger/destituir, a qualquer tempo, os titulares da Diretoria Executiva (e suas diretorias), da Corregedoria e da Auditoria Interna (I); aprovar o regulamento único do IBS (II) e o regimento interno (III); aprovar ato normativo uniformizador da legislação do IBS (IV); aprovar propostas de atos conjuntos com o Executivo federal (V); propor o orçamento anual (VI); aprovar plano de cargos/salários (VII) e vantagens remuneratórias/indenizatórias (VIII); aprovar as contas do CGIBS (IX); aprovar a metodologia e o cálculo da alíquota de referência para envio ao TCU (X); indicar representantes ao Comitê de Harmonização das Administrações Tributárias (CHAT) e ao Fórum de Harmonização Jurídica das Procuradorias — Fohjup (XII); e <mark>avocar total ou parcialmente as competências da Diretoria Executiva e rever suas decisões</mark> (XXI). Parágrafo único: reunião ordinária a cada <mark>3 meses</mark>.
 
-Art. 11. Compete ao <span class="g-comp">Conselho Superior do CGIBS</span>:
-I - eleger e destituir, a qualquer tempo, os titulares:
-a) da <span class="g-comp">Diretoria Executiva</span> e suas diretorias;
-b) da <span class="g-comp">Corregedoria</span>; e
-c) da <span class="g-comp">Auditoria Interna</span>;
-II - aprovar o regulamento único do IBS;
-III - aprovar o regimento interno do <span class="g-comp">CGIBS</span>;
-IV - aprovar ato normativo com vistas a uniformizar a interpretação e a aplicação da legislação do IBS;
-V - aprovar as propostas dos atos normativos conjuntos com o <span class="g-comp">Poder Executivo federal</span>, em matéria de interesse comum do IBS e da CBS;
-VI - propor o orçamento anual do <span class="g-comp">CGIBS</span>, para aprovação na forma dos §§ 2º a 9º do art. 47 desta Lei Complementar;
-VII - aprovar o plano de cargos e salários de seus empregados públicos, contratados sob regime celetista, mediante concurso público, observado o disposto no inciso XI do caput do art. 37 da Constituição Federal;
-VIII - dispor sobre vantagens remuneratórias ou indenizatórias aos membros do <span class="g-comp">Conselho Superior do CGIBS</span> e aos servidores de carreira cedidos ao <span class="g-comp">CGIBS</span>;
-IX - aprovar as contas relativas à execução contábil, financeira, orçamentária, operacional e patrimonial dos recursos próprios do <span class="g-comp">CGIBS</span>, bem como a prestação de contas relativa à gestão financeira dos recursos de terceiros sob sua guarda, pertencentes aos entes federativos e aos contribuintes do IBS;
-X - aprovar a metodologia e o cálculo da alíquota de referência para envio ao <span class="g-comp">Tribunal de Contas da União</span>;
-XI - divulgar as alíquotas do IBS relativas aos regimes específicos nas hipóteses previstas na Lei Complementar nº 214, de 16 de janeiro de 2025;
-XII - indicar representantes das carreiras das administrações tributárias e das <span class="g-comp">Procuradorias</span> dos <span class="g-comp">Estados</span>, do <span class="g-comp">Distrito Federal</span> e dos <span class="g-comp">Municípios</span> para atuarem, respectivamente, no <span class="g-comp">Comitê de Harmonização das Administrações Tributárias</span> e no <span class="g-comp">Fórum de Harmonização Jurídica das Procuradorias</span>;
-XIII - indicar representantes das carreiras das administrações tributárias para compor a <span class="g-comp">Comissão Tripartite</span> responsável pela análise dos projetos de reabilitação urbana de zonas históricas e de áreas críticas de recuperação e de reconversão urbanística dos <span class="g-comp">Municípios</span> ou do <span class="g-comp">Distrito Federal</span>;
-XIV - aprovar a avaliação quinquenal de que trata o inciso V do § 1º do art. 2º desta Lei Complementar;
-XV - aprovar a aplicação de sanção disciplinar ou o afastamento preventivo de empregado público;
-XVI - aprovar os planos elaborados pela <span class="g-comp">Diretoria Executiva</span> para o exercício das atividades sob sua responsabilidade, acompanhar a sua execução e avaliar os resultados alcançados, conforme periodicidade definida no regimento interno;
-XVII - aprovar a indicação de servidores a que se refere o inciso XVI do § 1º do art. 2º desta Lei Complementar para atuarem no <span class="g-comp">CGIBS</span>;
-XVIII - estabelecer diretrizes operacionais e regras para o registro e o controle administrativo das informações relativas às atividades sujeitas à tributação;
-XIX - estabelecer diretrizes relativas à cobrança a ser exercida pelos entes federativos, abrangendo as diversas modalidades de pagamento, parcelamento, autorregularização, protesto, arrolamento administrativo de bens, inscrição em cadastro de inadimplentes e de proteção ao crédito e tratamento de devedores contumazes;
-XX - estabelecer diretrizes para as atividades administrativas relacionadas às hipóteses de suspensão, de extinção e de exclusão do crédito tributário;
-XXI - avocar total ou parcialmente as competências da <span class="g-comp">Diretoria Executiva</span> e de suas diretorias, bem como rever as suas decisões; e
-XXII - deliberar sobre outras matérias relacionadas ao IBS e de harmonização com a CBS.
-Parágrafo único. O <span class="g-comp">Conselho Superior do CGIBS</span> reunir-se-á, ordinariamente, a cada <span class="g-prazo">3 (três) meses</span> e, extraordinariamente, nos termos do regimento interno.
+> [!quote]- Texto literal — Art. 10 (p.36)
+> "A aprovação das deliberações do Conselho Superior do CGIBS dar-se-á, cumulativamente, pelos votos: I - em relação ao conjunto dos Estados e do Distrito Federal: a) da maioria absoluta de seus representantes; e b) de representantes de Estados e do Distrito Federal que correspondam a mais de 50% (cinquenta por cento) da população do País; e II - em relação ao conjunto dos Municípios e do Distrito Federal, da maioria absoluta de seus representantes."
 
-## Corregedoria do CGIBS (art. 21)
+---
+
+## Presidência e Vice-Presidência do CGIBS (arts. 12 a 17)
 - [ ] status [dom:: 0] [peso:: 3]
 
-Art. 21. A <span class="g-comp">Corregedoria</span>, órgão subordinado ao Conselho Superior do CGIBS, é responsável pela orientação, apuração e correição disciplinar dos servidores públicos cedidos e dos empregados públicos do CGIBS, mediante a adoção de ações preventivas e a instauração de sindicância e de processo administrativo disciplinar.
-§ 3º O cargo de Corregedor-Geral, os cargos diretivos e as estruturas da Corregedoria observarão a paridade e, nos termos do regimento interno, a alternância entre os representantes do conjunto dos Estados e do Distrito Federal e os do conjunto dos Municípios e do Distrito Federal.
+LC nº 227/2026, Título I, Capítulo III, Seção III, Subseções I e II (Da Presidência, da Vice-Presidência e da Eleição do Presidente e dos Vice-Presidentes), arts. 12 a 17. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.39-42.
+
+Art. 12: competências do Presidente — presidir o Conselho Superior (I); coordenar a implantação do CGIBS (II); convocar/presidir as sessões (IV); dar posse aos titulares da Diretoria Executiva, Corregedoria e Auditoria Interna (VI); proclamar o resultado das votações (VII); promulgar as resoluções do Conselho Superior (VIII); representar legalmente o CGIBS (IX); prestar informações à Câmara/Senado/comissões quando convocado (X) e responder pedidos escritos das Mesas dessas Casas (XI); apresentar a anteproposta de orçamento anual (XII).
+
+Art. 13: a Vice-Presidência é composta de <mark>2 Vice-Presidentes</mark>. Art. 14: o <mark>1º Vice-Presidente</mark> substitui o Presidente. Art. 15: o <mark>2º Vice-Presidente</mark> substitui o 1º Vice-Presidente.
+
+Art. 16: Presidente e Vices são eleitos entre os membros titulares do Conselho Superior, mandato de <mark>2 anos</mark>. § 2º: <mark>vedada a reeleição para o mesmo cargo na eleição imediatamente subsequente</mark>, ressalvado mandato anterior com duração ≤ <mark>12 meses</mark>. § 3º: perda do cargo — automaticamente, nas hipóteses de renúncia/condenação transitada em julgado (art. 9º, § 2º, I e II); ou por <mark>maioria absoluta do Conselho Superior</mark>, nas demais hipóteses do art. 9º, § 2º (pena demissória, sanção disciplinar, perda de vínculo).
+
+Art. 17: alternância assegurada para a Presidência entre o conjunto Estados+DF e o conjunto Municípios+DF. § 1º: o <mark>1º Vice-Presidente</mark> representa, necessariamente, esfera <mark>diversa</mark> da do Presidente. § 2º: o <mark>2º Vice-Presidente</mark> representa, necessariamente, a <mark>mesma</mark> esfera do Presidente. § 3º: no conjunto Estados+DF, alternância também entre as unidades federativas.
+
+⚠️ Pegadinha de banca: 1º Vice = esfera **diversa** do Presidente; 2º Vice = **mesma** esfera do Presidente — fácil de trocar.
+
+> [!quote]- Texto literal — Art. 16, § 2º (p.40-41)
+> "É vedada a reeleição para o mesmo cargo na eleição imediatamente subsequente, ressalvada a hipótese de a eleição anterior ter ocorrido para o exercício de mandato com período igual ou inferior a 12 (doze) meses."
+
+> [!tip]- Lupa: perda do cargo do Presidente/Vices — automática × por deliberação
+> **A ideia em uma frase:** nem toda causa de perda do mandato do art. 9º, § 2º opera do mesmo jeito para o Presidente e os Vices — a lei separa o que é automático do que depende de voto do Conselho.
+> **O passo a passo:** (1) renúncia e condenação transitada em julgado (privativa de liberdade ou improbidade) → perda automática; (2) pena demissória em PAD, sanção disciplinar do CGIBS (conflito de interesses ou falta grave) e perda de vínculo com o ente → só operam mediante decisão da maioria absoluta do Conselho Superior.
+> **O erro clássico:** achar que qualquer sanção disciplinar do CGIBS já derruba automaticamente o Presidente — essa hipótese depende da manifestação do Conselho.
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Conselho Superior do CGIBS: composição e eleições (arts. 8º e 9º)]] — os mesmos incisos de perda de cargo (art. 9º, § 2º) reaparecem aqui, para Presidente e Vices.
+
+---
+
+## Secretaria-Geral e Assessoria de Relações Institucionais (arts. 18 a 20)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo III, Seção III, Subseções III e IV (Da Secretaria-Geral e Da Assessoria de Relações Institucionais e Interfederativas), arts. 18 a 20. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.42-44.
+
+Art. 18: a Secretaria-Geral, subordinada ao Conselho Superior e <mark>dirigida pelo 2º Vice-Presidente</mark>, cuida do apoio técnico-administrativo ao Conselho Superior e da integração dos órgãos do CGIBS.
+
+Art. 19: a Assessoria de Relações Institucionais e Interfederativas, subordinada ao Conselho Superior e <mark>dirigida pelo 1º Vice-Presidente</mark>, é responsável pela ouvidoria e pela interlocução institucional do CGIBS.
+
+⚠️ Pegadinha de banca (espelha o art. 17, §§ 1º-2º): quem dirige a Secretaria-Geral é o 2º Vice (mesma esfera do Presidente); quem dirige a Assessoria é o 1º Vice (esfera diversa) — fácil de inverter.
+
+Art. 20: competências da Assessoria — planejar/coordenar/supervisionar programas de comunicação interna e externa (I); assessorar dirigentes no relacionamento com a imprensa (II); produzir textos/matérias para veículos do CGIBS (III); manter atualizados sítios eletrônicos, intranet e redes sociais (V); promover a interlocução institucional com Estados/DF/Municípios (VII, "a" — <mark>ressalvado o art. 27, XXIII</mark>), com o Legislativo federal (VII, "b") e com entidades de representação dos contribuintes (VII, "c"); receber e responder manifestações da sociedade (VIII); atividades de ouvidoria (X). Parágrafo único: <mark>3 representantes da sociedade civil</mark> atuam na ouvidoria, além dos servidores dos entes federativos.
+
+> [!quote]- Texto literal — Art. 20, parágrafo único (p.43)
+> "Além dos servidores dos entes federativos em atuação no CGIBS, atuarão na atividade de ouvidoria 3 (três) representantes da sociedade civil escolhidos conforme critérios estabelecidos no regimento interno."
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Diretoria Executiva do CGIBS: competências (art. 27)]] — o art. 20, VII, "a" ressalva expressamente a competência de interlocução da Diretoria Executiva (art. 27, XXIII); mesma pegadinha registrada nos dois headings.
+
+---
+
+## Corregedoria do CGIBS (arts. 21 e 22)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo III, Seção III, Subseção V (Da Corregedoria), arts. 21 e 22. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.44-45.
+
+Art. 21: a Corregedoria, subordinada ao Conselho Superior, é responsável pela orientação, apuração e correição disciplinar dos servidores cedidos e dos empregados públicos do CGIBS, por ações preventivas, sindicância e processo administrativo disciplinar (PAD). § 1º: dirigida pelo Corregedor-Geral. § 3º: o cargo de Corregedor-Geral, os cargos diretivos e as estruturas da Corregedoria observam paridade e, nos termos do regimento interno, <mark>alternância</mark> entre os representantes dos dois conjuntos (Estados+DF / Municípios+DF).
+
+Art. 22 lista as competências da Corregedoria — instaurar sindicância/PAD, de ofício ou por provocação (II); propor ao Presidente do Conselho Superior a aplicação de sanção disciplinar ou o afastamento preventivo de empregado público (IV); requisitar informações, diligências e servidores para compor comissão (V-VI); realizar sindicâncias/PAD dos <mark>empregados públicos próprios</mark> do CGIBS pelo <mark>regime disciplinar da CLT</mark> (VII); determinar PAD contra <mark>servidores cedidos</mark>, processado por comissão de servidores do ente de origem, aplicando-se o <mark>regime disciplinar do ente de origem</mark> (VIII).
+
+⚠️ Pegadinha de banca: o regime disciplinar aplicado depende de quem é julgado — empregado público próprio do CGIBS → regime da CLT; servidor cedido pelo ente → regime disciplinar do ente de origem, com comissão formada por servidores desse mesmo ente.
+
+> [!quote]- Texto literal — Art. 22, VII e VIII (p.44-45)
+> "VII - realizar sindicâncias e instaurar processos administrativos disciplinares dos empregados públicos próprios, conforme disposições e procedimentos estabelecidos no regimento interno editado pelo CGIBS, adotando-se o regime disciplinar da Consolidação das Leis do Trabalho (CLT) (...); VIII - determinar a instauração de processos administrativos disciplinares contra servidores públicos cedidos ao CGIBS, que serão processados e julgados por comissão processante integrada por servidores do ente de origem, especialmente convocados pelo Conselho Superior do CGIBS para esse fim, adotando-se o regime disciplinar a que o servidor esteja vinculado no ente de origem."
+
+---
+
+## Auditoria Interna do CGIBS (arts. 23 e 24)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo III, Seção III, Subseção VI (Da Auditoria Interna), arts. 23 e 24. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.45-46.
+
+Art. 23: a Auditoria Interna, subordinada ao Conselho Superior, é responsável pelo controle interno do CGIBS. § 1º: dirigida pelo Auditor Interno-Geral. § 2º: paridade e alternância entre os dois conjuntos (Estados+DF / Municípios+DF). § 3º: <mark>ao menos 30% das vagas ocupadas por mulheres</mark>.
+
+Art. 24 lista as competências: fiscalizar os atos dos administradores e o cumprimento de seus deveres legais/regimentais (I); opinar sobre o relatório anual da administração (II); comunicar atos ilícitos à chefia e, se as providências não forem tomadas, representar ao Conselho Superior (III); analisar periodicamente o balancete e as demonstrações fiscais/financeiras (IV-V).
+
+⚠️ Pegadinha de banca: a cota de <mark>30% para mulheres</mark> aparece mais de uma vez na estrutura do CGIBS (Auditoria Interna, art. 23, § 3º; Diretoria Executiva e diretorias, art. 26, § 3º) — sempre o mesmo percentual, não confundir com outro número.
+
+> [!quote]- Texto literal — Art. 23, § 3º (p.45)
+> "No preenchimento dos cargos da Auditoria Interna, pelo menos 30% (trinta por cento) das vagas serão ocupadas por mulheres."
+
+---
+
+## Diretoria Executiva do CGIBS: estrutura e Diretor-Executivo (arts. 25, 26, 28 e 29)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo III, Seção IV, Subseções I e III (Disposições Gerais e Do Diretor-Executivo), arts. 25, 26, 28 e 29. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.46-51.
+
+Art. 25: a Diretoria Executiva, subordinada ao Conselho Superior, é o <mark>órgão técnico e executivo</mark> do CGIBS. Art. 26: integrada por 1 Diretor-Executivo (que a chefia) e os titulares das diretorias. § 1º: mandato de <mark>2 anos</mark>. § 2º: reputação ilibada, notório conhecimento na área, dedicação exclusiva, escolhidos entre servidores de carreira da administração tributária ou, conforme o caso, de outras carreiras da administração pública ou das procuradorias. § 3º: paridade e alternância entre os dois conjuntos, observado o <mark>mínimo de 30% das vagas para mulheres</mark>.
+
+Art. 28: o Diretor-Executivo é eleito pelo Conselho Superior. § 1º: alternância a cada <mark>2 anos</mark> entre os dois conjuntos. § 2º: designa seu substituto nas ausências/impedimentos.
+
+Art. 29: incumbências do Diretor-Executivo — convocar/presidir as reuniões da Diretoria Executiva (I); planejar/gerir/supervisionar/coordenar as atividades das diretorias técnicas e administrativas, <mark>dirimindo conflitos de competência entre elas</mark> (II); interlocução com o Conselho Superior (III); promover integração com as administrações tributárias e Procuradorias dos entes (IV).
+
+> [!quote]- Texto literal — Art. 26, § 3º (paridade e cota, p.46)
+> "(...) respeitadas a paridade e, nos termos do regimento interno, a alternância entre os representantes do conjunto dos Estados e do Distrito Federal e os do conjunto dos Municípios e do Distrito Federal, observado que pelo menos 30% (trinta por cento) das vagas deverão ser ocupadas por mulheres."
+
+---
 
 ## Diretoria Executiva do CGIBS: competências (art. 27)
 - [ ] status [dom:: 0] [peso:: 3]
 
-Art. 27. Compete à <span class="g-comp">Diretoria Executiva</span>, conforme disposto no regimento interno:
-I - planejar, gerir e supervisionar a execução das atividades relativas à elaboração e à divulgação da legislação tributária relativa ao IBS, especialmente no que concerne ao regulamento único do IBS e aos atos normativos editados conjuntamente com o Poder Executivo federal e com os seus órgãos;
-XIX - coordenar as atividades relacionadas à elaboração, para fins de aprovação pelo Conselho Superior do CGIBS:
-a) dos demonstrativos periódicos de resultados gerenciais do CGIBS;
-b) da proposta orçamentária do CGIBS, obedecidos os parâmetros estabelecidos nesta Lei Complementar; e
-c) da proposta de fixação do percentual da arrecadação do IBS destinado à manutenção do CGIBS;
-XXIII - promover a interlocução com as administrações tributárias e as Procuradorias dos Estados, do Distrito Federal e dos Municípios, com a RFB e com a PGFN;
+LC nº 227/2026, Título I, Capítulo III, Seção IV, Subseção II (Das Competências da Diretoria Executiva), art. 27. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.47-49.
 
-⚠️ Pegadinha de banca: essa competência (interlocução com administrações tributárias e Procuradorias) é da <span class="g-comp">Diretoria Executiva</span> — não da <span class="g-comp">Assessoria de Relações Institucionais e Interfederativas</span>, mesmo o nome desta sugerindo o contrário.
+Art. 27 lista <mark>27 competências</mark> da Diretoria Executiva, todas "conforme disposto no regimento interno". O verbo predominante é <mark>planejar, gerir e supervisionar</mark> a execução das atividades relativas a: elaboração/divulgação da legislação do IBS, inclusive regulamento único (I); arrecadação, retenções, compensações e distribuição do produto (II); cadastro de contribuintes e documentos fiscais, podendo integrar sistemas com a RFB (III); contencioso administrativo do IBS (IV); atendimento ao público externo (VI); controle centralizado das inscrições em dívida ativa (IX); sistemas de informática do CGIBS (X); intercâmbios com administrações tributárias/Procuradorias e órgãos externos (Ministério Público, União, Judiciário) no combate a crimes contra a ordem tributária (XIV); uniformização da interpretação e aplicação da legislação do IBS (XV). Também: propor diretrizes de registro/controle de informações (V), de cobrança (VII) e de suspensão/extinção/exclusão do crédito tributário (VIII); coordenar a padronização de procedimentos de fiscalização e de análise de restituições (XIII); supervisionar e submeter ao Conselho Superior a estimativa de receita anual do IBS (XVII), os planos nacionais/regionais de ações integradas (XVIII) e a prestação de contas (XX); propor manifestação sobre proposições legislativas de interesse do CGIBS (XXII); definir estratégias de melhoria de resultados (XXIV); e, sobre a <mark>devolução do IBS a pessoas físicas de baixa renda</mark> (cashback), normatizar/coordenar/supervisionar a execução, definir procedimentos de cálculo e pagamento, e elaborar relatórios (XXVI, "a" a "c").
 
-Compete também a uma das diretorias vinculadas à Diretoria Executiva (art. 7º, III — "a Diretoria Executiva e as suas diretorias"; artigo específico da Diretoria de Arrecadação e Cobrança não veio identificado na captura) coordenar as atividades de cobrança, abrangendo as diversas modalidades de pagamento, parcelamento, protesto, arrolamento administrativo de bens, inscrição em cadastro de inadimplentes e de proteção ao crédito e tratamento de devedores contumazes.
+⚠️ Pegadinha de banca: a competência do inciso XXIII — <mark>promover a interlocução com as administrações tributárias e as Procuradorias dos Estados, DF e Municípios, com a RFB e com a PGFN</mark> — é da Diretoria Executiva, não da Assessoria de Relações Institucionais e Interfederativas (art. 20), mesmo o nome desta sugerindo o contrário (o art. 20, VII, "a" ressalva expressamente essa exceção).
+
+> [!quote]- Texto literal — Art. 27, XXIII (p.49)
+> "promover a interlocução com as administrações tributárias e as Procuradorias dos Estados, do Distrito Federal e dos Municípios, com a RFB e com a PGFN;"
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Secretaria-Geral e Assessoria de Relações Institucionais (arts. 18 a 20)]] — mesma pegadinha em espelho (art. 20, VII, "a" ressalva o art. 27, XXIII).
+
+---
+
+## As diretorias do CGIBS (arts. 30 a 39)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo III, Seção IV, Subseção IV (Das Diretorias), arts. 30 a 39. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.52-58.
+
+Art. 30 lista as <mark>9 diretorias</mark> que integram a Diretoria Executiva. § 1º: devem manter integração constante com as administrações tributárias e Procuradorias dos entes. § 2º: o Conselho Superior pode redistribuir competências entre elas ou atribuir novas, não previstas expressamente na lei.
+
+| Diretoria (art.) | Competência-síntese |
+| --- | --- |
+| Fiscalização (31) | coordena a fiscalização do IBS entre os entes; aperfeiçoa técnicas de auditoria/controle fiscal; coordena conformidade e autorregularização |
+| Arrecadação e Cobrança (32) | arrecada o IBS; controla retenções/compensações/restituições; coordena a cobrança **administrativa** e a devolução a PF; projeta receita |
+| Tributação (33) | propõe o regulamento único e atos conjuntos com a União; uniformiza a interpretação da legislação; emite pareceres em consultas; estima impacto de PLs nas alíquotas de referência |
+| Informações Econômico-Fiscais (34) | registra/armazena informações econômico-fiscais; controla o cadastro de contribuintes e a emissão de documentos fiscais |
+| Tecnologia da Informação e Comunicação (35) | governança de TI, proteção de dados, sistemas integrados, arquitetura tecnológica do CGIBS |
+| Revisão do Crédito Tributário (36) | revisão do lançamento de ofício, pelos órgãos de julgamento administrativo; apoio técnico-administrativo a eles |
+| Administrativa (37) | orçamento, gestão financeira, compras/contratações, recursos humanos e logística do CGIBS |
+| Procuradorias (38) | consultoria/assessoramento jurídico; coordena a cobrança **judicial** e extrajudicial; representação judicial de agentes do CGIBS; inscrição em dívida ativa por delegação |
+| Tesouraria (39) | gestão financeira e registro contábil dos recursos; guarda/distribuição/aplicação financeira; controle de vinculação e devolução de créditos |
+
+⚠️ Pegadinha de banca: a <mark>cobrança judicial</mark> do IBS é coordenada pela Diretoria de <mark>Procuradorias</mark> (art. 38, II) — não pela Diretoria de Arrecadação e Cobrança, que cuida só da cobrança **administrativa** (art. 32, V).
+
+> [!tip]- Lupa: quem faz o quê nas 9 diretorias
+> **A ideia em uma frase:** a Diretoria Executiva se divide por função (arrecadar, fiscalizar, tributar, litigar, gerir), e a banca gosta de trocar competências entre diretorias de nome parecido.
+> **O passo a passo:** separe pela fase do crédito — antes de existir (Tributação normatiza, Fiscalização apura), na cobrança (Arrecadação e Cobrança faz a fase **administrativa**; Procuradorias faz a **judicial e extrajudicial**), depois de contestado (Revisão do Crédito Tributário cuida do contencioso), e o dinheiro em si (Tesouraria guarda e distribui; Informações Econômico-Fiscais e TIC dão suporte de dados/sistemas).
+> **O erro clássico:** atribuir a cobrança judicial à Diretoria de Arrecadação e Cobrança — ela só cuida da fase administrativa; a judicial e extrajudicial é da Diretoria de Procuradorias.
+
+---
+
+## Controle Externo do CGIBS (art. 40)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo IV (Do Controle Externo do CGIBS), art. 40. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.59-60.
+
+Art. 40: a fiscalização contábil, financeira, orçamentária, operacional e patrimonial do CGIBS (art. 156-B, § 2º, IV, CF) é exercida de forma <mark>coordenada, compartilhada e colegiada pelos Tribunais de Contas dos Estados, do Distrito Federal e dos Municípios</mark> — reunião preferencialmente virtual.
+
+§ 1º: resolução por ato conjunto dos Tribunais de Contas disciplina: indicação de <mark>1 conselheiro e respectivo substituto</mark> responsáveis pela apreciação/julgamento dos processos (I); procedimento de escolha do relator e de julgamento (II); atuação dos auditores de controle externo (III); uniformização vinculante de entendimento entre os representantes (IV). § 2º: atua o <mark>Ministério Público de Contas que oficie perante o tribunal de contas do relator</mark>. § 3º: julgamento das contas até o <mark>término do exercício seguinte</mark> ao de sua apresentação.
+
+⚠️ Pegadinha de banca: o controle externo do CGIBS não é do TCU nem de um único Tribunal de Contas — é colegiado, entre os Tribunais de Contas dos Estados, do DF e dos Municípios, de forma coordenada e compartilhada.
+
+> [!quote]- Texto literal — Art. 40, caput (p.59-60)
+> "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do CGIBS a que se refere o inciso IV do § 2º do art. 156-B da Constituição Federal será realizada de forma coordenada, compartilhada e colegiada pelos Tribunais de Contas dos Estados, do Distrito Federal, dos Municípios e Municipais, que se reunirão, preferencialmente, de modo virtual."
+
+> [!info]- Ponte
+> - [[2026-09-15 Reforma Tributária]] — errou 2/3 (67%) nesse tema no caderno de 15/09; até esta rodada, não havia heading correspondente na nota.
+
+---
 
 ## Execução orçamentária e gestão fiscal do CGIBS (art. 42 e correlatos)
 - [ ] status [dom:: 0] [peso:: 3]
 
-Faz parte do relatório resumido da execução orçamentária do CGIBS o demonstrativo da execução das receitas, por categoria econômica e fonte, especificando a previsão inicial, a previsão atualizada para o exercício, a receita realizada no bimestre, a receita realizada no exercício e a previsão da receita a realizar. (artigo não identificado na captura.)
+LC nº 227/2026, Título I, Capítulo V (Dos Instrumentos de Transparência do CGIBS), arts. 41 a 44. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.61-67.
 
-Art. 42. O CGIBS elaborará, ao final de cada quadrimestre, o relatório de gestão fiscal de que tratam os arts. 54 e 55 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), adaptado às especificidades do CGIBS.
-§ 1º O limite de despesa total com pessoal do CGIBS será definido na forma do seu regimento interno.
-§ 2º Os limites globais e as condições para as operações de crédito externa e interna do CGIBS, bem como o limite global para o montante de sua dívida consolidada, serão definidos por resolução do Senado Federal.
+Art. 41: <mark>Relatório Resumido da Execução Orçamentária (RREO)</mark>, elaborado até <mark>30 dias</mark> após o encerramento de cada bimestre (LRF, arts. 52-53, adaptados). Composto de: balanço orçamentário por categoria econômica (I); demonstrativos da execução de receitas — por categoria econômica e fonte, com previsão inicial, previsão atualizada, receita realizada no bimestre e no exercício, e previsão a realizar (II, "a") —, de despesas (II, "b") e por função/subfunção (II, "c"); demonstrativos dos restos a pagar (III).
+
+Art. 42: <mark>Relatório de Gestão Fiscal (RGF)</mark>, ao final de cada <mark>quadrimestre</mark> (LRF, arts. 54-55), com 4 demonstrativos: despesa total com pessoal (I); dívida consolidada (II); operações de crédito, inclusive por antecipação de receita — ARO (III); disponibilidade de caixa (IV). § 1º: limite de despesa com pessoal definido no regimento interno. § 2º: limites de operações de crédito e de dívida consolidada por resolução do Senado Federal — § 3º: <mark>exceto</mark> os recursos da União para instalação do CGIBS (LC 214/2025, art. 484). § 4º: publicado até <mark>30 dias</mark> após o encerramento do período.
+
+Art. 43: <mark>relatórios mensais</mark>, com no mínimo: recursos efetivamente arrecadados (I); valores totais/individualizados por ente da arrecadação (II); valores totais retidos, individualizados por tipo de retenção (III); valores retidos/transferidos aos Municípios — 25% do IBS estadual (art. 158, § 2º, CF) (IV); valores compensados/ressarcidos (V); saldo de créditos de ICMS homologados a compensar (VI); valores devolvidos a PF (cashback), quantidade de beneficiários e receita anulada (VII); arrecadação por ente, segregada entre a parte não retida e a parte relativa à distribuição (VIII); valor destinado a entes com menor fatia da arrecadação — ADCT, art. 132, § 1º (IX).
+
+Art. 44: <mark>demonstrativos anuais</mark> — balanço patrimonial, demonstração das variações patrimoniais (DVP), demonstração dos fluxos de caixa (DFC), balanço orçamentário e balanço financeiro. Parágrafo único: prestação de contas anual até <mark>30 de abril</mark>, disponibilizada no sítio eletrônico do CGIBS.
+
+> [!quote]- Texto literal — Art. 41, II, "a" (p.61)
+> "demonstrativos da execução das: a) receitas, por categoria econômica e fonte, especificando a previsão inicial, a previsão atualizada para o exercício, a receita realizada no bimestre, a receita realizada no exercício e a previsão da receita a realizar;"
+
+> [!tip]- Lupa: RREO × RGF × relatórios mensais × demonstrativos anuais — periodicidade
+> **A ideia em uma frase:** o CGIBS presta contas em 4 cadências diferentes, cada uma com seu prazo e conteúdo — a banca gosta de trocar o prazo de um instrumento pelo de outro.
+> **O passo a passo:** <mark>bimestral</mark> → RREO (art. 41), publicado em até 30 dias; <mark>quadrimestral</mark> → RGF (art. 42), publicado em até 30 dias; <mark>mensal</mark> → relatório de arrecadação/distribuição (art. 43), sem prazo de publicação fixado na lei; <mark>anual</mark> → demonstrativos contábeis + prestação de contas (art. 44), até 30/04.
+> **O erro clássico:** aplicar o prazo de "30 dias" do RREO/RGF ao relatório mensal (art. 43) — este só tem periodicidade mensal de conteúdo, sem prazo de publicação fixado no texto.
+
+---
+
+## Orçamento do CGIBS: receitas, proposta e financiamento (arts. 45 a 48)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulo VI (Do Orçamento do CGIBS), arts. 45 a 48. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.67-70.
+
+Art. 45: receitas/despesas orçamentárias do CGIBS constam de demonstrativos próprios, sujeitos ao Conselho Superior e ao controle interno/externo. § 1º: a receita orçamentária <mark>não inclui</mark> a parcela das receitas custodiadas pelo CGIBS que pertence aos sujeitos passivos ou aos entes. § 2º: as despesas do CGIBS <mark>não entram</mark> nos demonstrativos/relatórios dos entes (Lei nº 4.320/1964 e LRF).
+
+Art. 46: receitas do CGIBS — percentual da arrecadação do IBS destinado a cada ente (art. 48) (I); rendimentos de aplicações financeiras (II); outros recursos (III).
+
+Art. 47: o Conselho Superior propõe, anualmente, até <mark>31 de julho</mark>: o percentual do IBS destinado ao financiamento do CGIBS no exercício seguinte, <mark>limitado a 0,2%</mark> (I); e o orçamento do CGIBS (II). § 2º: no prazo de <mark>30 dias</mark> da publicação, os Legislativos dos entes de origem dos membros titulares do Conselho Superior manifestam-se sobre aprovar/rejeitar as propostas. § 3º: rejeição exige manifestação de <mark>maioria absoluta</mark> desses Legislativos. § 4º: silêncio = <mark>aprovação tácita</mark>. § 5º: se rejeitado, aplica-se a última proposta não rejeitada, corrigida pelo IPCA, à razão de <mark>1/12 por mês</mark>. §§ 8º-9º: nova proposta em até 30 dias da rejeição, com novo prazo de manifestação de <mark>15 dias</mark>.
+
+Art. 48: financiamento — retenção do percentual do art. 47, I, sobre a arrecadação corrente destinada a cada ente (I); outras receitas (II). § 1º: essa retenção <mark>independe de autorização legislativa</mark> no orçamento dos entes. § 2º: até <mark>0,05%</mark> da arrecadação corrente pode custear programas de cidadania fiscal. § 7º: contratação de operações de crédito depende de aprovação pela maioria dos Legislativos de origem dos titulares do Conselho Superior.
+
+⚠️ Pegadinha de banca: não confundir os dois tetos percentuais — <mark>0,2%</mark> é o teto do financiamento do CGIBS (art. 47, I); <mark>0,05%</mark> é o teto, dentro desse orçamento, para programas de cidadania fiscal (art. 48, § 2º).
+
+> [!quote]- Texto literal — Art. 47, caput, I (p.67)
+> "O Conselho Superior do CGIBS proporá, anualmente, até 31 de julho: I - o percentual do produto da arrecadação do IBS de cada ente federativo que será destinado ao financiamento do CGIBS no exercício financeiro subsequente, o qual não poderá ser superior a 0,2% (dois décimos por cento) (...)."
+
+> [!info]- Ponte
+> - [[2026-09-15 Reforma Tributária]] — o caderno testou "Orçamento (arts. 45-48)" e acertou 100%, mas a nota, até esta rodada, só cobria o art. 42 (heading vizinho) — o acerto merece ser conferido de novo agora que o conteúdo certo está escrito.
+
+---
+
+## Contratações, publicidade e disposições transitórias do CGIBS (arts. 49 a 53)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título I, Capítulos VII e VIII (Das Contratações e da Publicidade dos Atos Normativos do CGIBS; Disposições Transitórias), arts. 49 a 53. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.70-74.
+
+Art. 49: licitações e contratações do CGIBS seguem as <mark>normas gerais de licitação e contratação aplicáveis às administrações públicas diretas, autárquicas e fundacionais</mark> de todos os entes. Art. 50: o CGIBS observa o <mark>princípio da publicidade</mark>, veiculando seus atos normativos, inclusive por meio eletrônico.
+
+Art. 51 (Disposições Transitórias): o percentual de financiamento do CGIBS (art. 47, I) segue um <mark>escalonamento decrescente</mark> de 2026 a 2032: <mark>até 100%</mark> do orçamento aprovado em 2026; <mark>até 50%</mark> em 2027-2028; depois tetos fixos decrescentes — <mark>2%</mark> (2029), <mark>1%</mark> (2030), <mark>0,67%</mark> (2031), <mark>0,5%</mark> (2032). Só a partir de 2033 vale o teto definitivo de <mark>0,2%</mark> do art. 47.
+
+Art. 52: o orçamento do CGIBS de 2025-2028 usa os recursos do financiamento da União (LC 214/2025, art. 484 — até R$ 3,8 bilhões). § 6º: esses recursos podem custear despesas correntes (inclusive pessoal) e de capital, sem a vedação do art. 167, X, CF, quanto a esses valores.
+
+Art. 53: na instituição do órgão, a <mark>Presidência do Conselho Superior cabe a representante do conjunto dos Estados e do Distrito Federal</mark>. Parágrafo único — regra transitória: independentemente de cessão, o CGIBS pode requisitar servidores das carreiras do art. 2º, § 1º, XVI, para atuação provisória <mark>até 30/06/2026</mark>, permanecendo o servidor vinculado ao ente de origem, inclusive quanto ao ônus remuneratório.
+
+⚠️ Pegadinha de banca: o escalonamento do art. 51 não é linear — cai de "até 100%" para "até 50%" e só depois vira um teto fixo por ano (2%→1%→0,67%→0,5%), convergindo para o teto definitivo de 0,2% do art. 47 a partir de 2033.
+
+> [!quote]- Texto literal — Art. 53 (p.74)
+> "Na instituição do órgão, o cargo de Presidente do Conselho Superior do CGIBS caberá a representante do conjunto dos Estados e do Distrito Federal. Parágrafo único. Independentemente de cessão, o CGIBS poderá solicitar a disponibilização imediata de servidores das carreiras de que trata o inciso XVI do § 1º do art. 2º desta Lei Complementar para atuarem provisoriamente na entidade até 30 de junho de 2026, permanecendo o servidor, para todos os efeitos funcionais, vinculado ao ente de origem, inclusive no que tange ao ônus remuneratório e demais encargos legais."
+
+> [!tip]- Lupa: escalonamento do financiamento do CGIBS (2026-2032)
+> **A ideia em uma frase:** o teto de 0,2% do art. 47 só vale em regime de cruzeiro (a partir de 2033) — até lá, a lei dá uma rampa maior para o CGIBS se instalar e depois convergir.
+> **O passo a passo:** 2026 → até 100% do orçamento aprovado; 2027-2028 → até 50%; 2029 → no máximo 2%; 2030 → no máximo 1%; 2031 → no máximo 0,67%; 2032 → no máximo 0,5%; 2033 em diante → teto definitivo de 0,2% (art. 47, I).
+> **O erro clássico:** aplicar o teto de 0,2% (art. 47) já em 2026 — no período de instalação, os limites são os, bem mais altos, do art. 51.
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Orçamento do CGIBS: receitas, proposta e financiamento (arts. 45 a 48)]] — o art. 51 é a regra de transição do teto de 0,2% fixado no art. 47, I.
 
 
 ## Processo administrativo tributário do IBS (LC 227/26)
@@ -1618,11 +1852,380 @@ Art. 97 A representação e a defesa jurídica da Fazenda Pública perante as C�
 > **Perda x renúncia tácita.** Perda (art. 101): Presidente da Câmara Superior propõe, Presidente do CGIBS decide, **sem recurso**. Renúncia tácita (art. 100): 3 faltas consecutivas ou 5 alternadas no quadrimestre, salvo justificativa prévia.
 >
 > **Gatilhos de pegadinha.** "exclusivamente" (art. 97), "somente lei complementar" (art. 77 §6º é ato do CGIBS), "dias corridos" (são úteis), "bastando o trânsito em julgado" (falta o Senado), "cabe recurso" da intempestividade ou da perda de mandato (não cabe).
-
-> [!warning]- Pendência: texto da LC 227/26
-> Trazidos em 21/09 os arts. 57 a 63, 67 a 71, 74 a 80, 89, 90, 97, 100 e 101 (onde errei no caderno). Faltam os demais arts. 55 a 102: princípios (art. 55, só resumidos acima), nulidades e impedimentos (arts. 65 e 66), desistência e revelia (arts. 72 e 73), incidente de uniformização (arts. 81 a 87), composição e competência das Câmaras (arts. 88 e 91 a 96). Trazer o texto da lei (ex.: `/absorver-pdf` no PDF da LC 227) e escrever daí.
-
 > [!info]- Ponte
 > - [[P2 - Reforma Tributária#Contencioso administrativo: Comitê de Harmonização e delegação do julgamento]] — contencioso administrativo do IBS e da CBS na LC 214 (arts. 326 e ss.).
 > - [[P2 - Reforma Tributária#Órgãos do CGIBS, sigilo e conflito de interesses (art. 7º)]] — o CGIBS, cujo processo a LC 227 disciplina.
 > - [[ERRO REFORMA TRIBUTÁRIA]] — errou em 20/09 (marcou D; gabarito E).
+
+## Princípios do processo administrativo tributário (art. 55)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo I, Seção I (Disposições Preliminares), art. 55. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.75-76.
+
+Art. 55 lista <mark>16 princípios</mark> do PAT do IBS: simplicidade (I), verdade material (II), ampla defesa (III), contraditório (IV), publicidade (V), transparência (VI), lealdade e boa-fé (VII), motivação (VIII), oficialidade (IX), cooperação (X), eficiência (XI), formalismo moderado (XII), razoável duração do processo (XIII), segurança jurídica (XIV), devido processo legal (XV) e celeridade da tramitação (XVI).
+
+O próprio material organiza os 16 em <mark>4 grupos de 4</mark> — útil para não depender da ordem literal:
+
+| Grupo | Princípios |
+| --- | --- |
+| Garantias da parte | ampla defesa, contraditório, devido processo legal, lealdade e boa-fé |
+| Transparência e forma | simplicidade, publicidade, transparência, formalismo moderado |
+| Atuação do Estado | verdade material, motivação, oficialidade, eficiência |
+| Dinâmica do processo | cooperação, razoável duração do processo, segurança jurídica, celeridade |
+
+⚠️ Pegadinha de banca: a verdade é a <mark>material</mark> (busca da realidade dos fatos, não só o que está nos autos); o formalismo é <mark>moderado</mark> (nem inexistente, nem burocrático em excesso); <mark>oficialidade</mark> é o impulso do próprio Estado ao processo, sem depender de provocação da parte.
+
+> [!quote]- Texto literal — Art. 55 (p.75-76)
+> "No processo administrativo tributário, serão observados os seguintes princípios: I - da simplicidade; II - da verdade material; III - da ampla defesa; IV - do contraditório; V - da publicidade; VI - da transparência; VII - da lealdade e boa-fé; VIII - da motivação; IX - da oficialidade; X - da cooperação; XI - da eficiência; XII - do formalismo moderado; XIII - da razoável duração do processo; XIV - da segurança jurídica; XV - do devido processo legal; e XVI - da celeridade da tramitação."
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] — a questão do ISS Guarulhos (Q122) já testou 8 desses 16 princípios (simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé) como gabarito.
+
+---
+
+## Forma dos atos, escopo do Título e intimação — complementos (arts. 54, 56, 59, 62 e 64)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo I, Seções I e II (Disposições Preliminares; Dos Atos e dos Termos Processuais), arts. 54, 56, 59, 62 e 64. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.75-79.
+
+Art. 54: o Título II trata do PAT relativo ao lançamento de ofício (I), a penalidades por descumprimento/atraso de obrigações acessórias (II), ao indeferimento de restituição/ressarcimento (III) e a outros casos previstos no regulamento único do IBS (IV).
+
+Art. 56: os atos e termos processuais <mark>independem de forma determinada</mark>, salvo exigência expressa da lei — são válidos os que, mesmo por outro modo, cumprirem sua finalidade essencial. § 1º: formalizados/tramitados/comunicados em formato eletrônico, conforme ato do CGIBS. § 2º: documentos digitalizados pela administração tributária têm o <mark>mesmo valor probante</mark> dos originais físicos.
+
+Art. 59: a intervenção no PAT é feita diretamente pela parte ou por procurador devidamente constituído.
+
+Art. 62 (complementa o § 4º já registrado no heading "Processo administrativo tributário do IBS", que cobre só o prazo residual de 10 dias): § 1º os prazos só se iniciam/vencem em dia de expediente normal; § 2º <mark>suspende-se o prazo processual entre 20 de dezembro e 20 de janeiro</mark>, inclusive; § 3º nesse período não há sessões de julgamento; § 5º os entes informam ao CGIBS as datas que não são dias úteis, e o CGIBS divulga o calendário; § 6º não é "dia de expediente normal" quando o sistema eletrônico do CGIBS estiver indisponível por mais de <mark>60 minutos entre 6h e 23h</mark>, ou por qualquer tempo entre <mark>23h e 24h</mark>.
+
+Art. 64: a intimação das partes segue ato do CGIBS, por <mark>Domicílio Tributário Eletrônico (DTE)</mark> ou sistema de comunicação eletrônica (LC 214/2025, arts. 332-333). A intimação por DTE é <mark>considerada pessoal</mark> para todos os efeitos; presume-se realizada <mark>10 dias</mark> após a data do comprovante de entrega, se o sujeito passivo não consultar o sistema nesse prazo.
+
+⚠️ Pegadinha de banca: o recesso processual (20/dez a 20/jan) suspende prazos e cancela sessões de julgamento — não é feriado nem simples "não conta o dia", é <mark>suspensão do curso do prazo</mark> por todo o período.
+
+> [!quote]- Texto literal — Art. 62, § 2º (p.78)
+> "Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive."
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] — complementa o § 4º do art. 62 (prazo residual de 10 dias) já registrado lá.
+
+---
+
+## Nulidades e impedimento do julgador (arts. 65 e 66)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo I, Seção II, Subseção IV (Dos Vícios e das Nulidades), arts. 65 e 66. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.79-84.
+
+Art. 65: a administração tributária <mark>deve anular</mark> seus próprios atos eivados de vício de legalidade.
+
+Art. 66 lista os atos <mark>nulos</mark>: praticados por autoridade/órgão/servidor incompetente ou impedido (I); com preterição do direito de defesa (II); decisões não fundamentadas (III); com erro na identificação do sujeito passivo (IV — ressalvado o § 13); intimações sem observância das prescrições legais (V).
+
+⚠️ Pegadinha de banca (§ 13, ressalva do inciso IV): em lançamento de ofício com <mark>múltiplos autuados</mark>, erro na identificação de um deles <mark>não anula</mark> a exigência se pelo menos um estiver corretamente identificado — só exclui do polo passivo quem foi mal qualificado.
+
+Regras gerais de nulidade: § 2º o comparecimento do interessado supre falta/irregularidade da intimação; § 3º a nulidade só prejudica atos posteriores que dela diretamente dependam; § 6º o sujeito passivo <mark>não pode arguir nulidade a que deu causa</mark> ou para a qual concorreu; § 7º se o mérito puder ser decidido a favor de quem a nulidade beneficiaria, a autoridade <mark>não a pronuncia</mark>; § 8º a nulidade deve ser arguida na primeira oportunidade, sob pena de preclusão (exceto as cognoscíveis de ofício); § 12 irregularidades diferentes das listadas não geram nulidade — são sanadas só se prejudicarem o sujeito passivo, salvo se ele mesmo deu causa ou se não influírem no litígio.
+
+<mark>Impedimento do julgador</mark> (§ 9º, complementa o inciso I): considera-se impedido quem foi autuante, autor da manifestação fiscal ou responsável pelo controle de qualidade da autuação — ou teve essas funções exercidas por cônjuge/parente até o 3º grau (I); participou de diligência (II); subscreveu resposta a consulta do sujeito passivo sobre a mesma matéria (III); tem interesse econômico/financeiro, próprio ou de cônjuge/parente até 3º grau (IV); foi ou é contabilista/advogado/consultor/empregado do sujeito passivo (V); tem vínculo societário/empregatício com escritório/empresa de assessoria vinculada ao mandatário da parte (VI); ou tem vínculo como sócio/conselheiro/diretor de PJ parte no processo (VII). § 10: o julgador apresenta lista de empresas com as quais teve relação, a cada novo mandato. § 11: o impedimento pode ser declarado durante a sessão, e o processo é redistribuído a outra Câmara/Turma.
+
+> [!quote]- Texto literal — Art. 66, § 13 (p.84)
+> "Na hipótese de ocorrer erro na identificação do sujeito passivo em lançamento de ofício que contenha múltiplos autuados, não será declarada a nulidade da exigência fiscal se pelo menos um deles estiver corretamente identificado, excluindo-se do polo passivo aquele erroneamente qualificado."
+
+> [!tip]- Lupa: nulidade × irregularidade sanável
+> **A ideia em uma frase:** nem todo defeito do processo é nulidade — só os do rol do art. 66; o resto é irregularidade, corrigível.
+> **O passo a passo:** (1) checar se o defeito está no rol taxativo do art. 66 (incompetência/impedimento, preterição de defesa, decisão não fundamentada, erro de identificação do SP, intimação irregular); (2) se estiver, é nulidade, mas só contamina os atos posteriores diretamente dependentes; (3) se não estiver no rol, é mera irregularidade — só é sanada (corrigida) se prejudicar o SP, e nem isso se ele mesmo deu causa ou se não influir no resultado do litígio.
+> **O erro clássico:** tratar qualquer defeito processual como nulidade automática — a lei reserva esse efeito para o rol do art. 66 e ainda impõe limites (comparecimento supre falta de intimação, quem deu causa não pode arguir, mérito favorável ao SP dispensa a declaração).
+
+---
+
+## Provas, diligências e classificação de vícios processuais (art. 67, §§ 2º a 7º; art. 68, §§ 1º e 2º; e art. 69)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo II, Seção I (Disposições Gerais) e Seção II (Das Diligências), arts. 67, 68 e 69. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.85-87.
+
+Art. 67, § 2º: as provas devem vir <mark>junto com a impugnação</mark>, sob pena de preclusão — exceto se (I) a apresentação oportuna era impossível por justa causa/força maior/fato ou direito superveniente, ou (II) a prova se destina a contrapor alegação posterior nos autos. §§ 3º-4º: nesses casos, a prova é apreciada diretamente pela instância onde o processo estiver, com intimação da parte contrária. § 5º: reconhecimento parcial do crédito na impugnação → o montante incontroverso <mark>vai direto para a cobrança administrativa</mark>. §§ 6º-7º: diligências/perícias podem ser requeridas junto com as provas, com os pontos a esclarecer indicados expressamente (senão preclusão); em perícia, o sujeito passivo indica nome/endereço/qualificação do assistente técnico.
+
+Art. 68, §§ 1º-2º: a impugnação/recurso é classificada como <mark>intempestiva</mark> (fora do prazo), com <mark>vício de ilegitimidade de parte</mark> (sem capacidade/competência, inclusive sem legítimo interesse ou com representação ilegal) ou <mark>inepta</mark> (sem pedido/fundamentos; matéria estranha à legislação tributária; sem elementos essenciais de identificação, inclusive assinatura). § 2º: a intempestividade <mark>não suspende</mark> a exigibilidade do crédito.
+
+Art. 69: no exame do litígio, a autoridade julgadora <mark>não fica presa</mark> às razões de fato/direito invocadas, podendo determinar diligências ou pedir manifestação dos interessados, mesmo após outras medidas já tomadas. § 1º: a decisão que determina diligência precisa de motivação. § 2º: deliberada a diligência, é <mark>vedado recusar-se a cumpri-la</mark>.
+
+⚠️ Pegadinha de banca: os três defeitos do art. 68 têm nomes técnicos diferentes e não são sinônimos — intempestivo (prazo), com vício de ilegitimidade (quem assina/postula) e inepto (conteúdo do pedido) — a banca troca essas categorias entre si.
+
+> [!quote]- Texto literal — Art. 67, § 5º (p.85)
+> "Na impugnação, caso o sujeito passivo reconheça parcialmente o crédito tributário lançado, o montante incontroverso será encaminhado à cobrança administrativa."
+
+---
+
+## Desistência e revelia (arts. 72 e 73)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo II, Seção III (Da Desistência e da Revelia), arts. 72 e 73. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.87-88.
+
+Art. 72: opera-se a <mark>desistência</mark> do litígio administrativo (I) expressamente, por pedido do sujeito passivo, ou (II) tacitamente — pelo pagamento/parcelamento/compensação do crédito em litígio (a); pela propositura de ação judicial sobre a mesma matéria (b — reconhecida pela autoridade julgadora); ou pela <mark>não apresentação tempestiva do recurso</mark> (c). § 1º: havendo vários interessados, a desistência só atinge quem a formulou/nela incorreu. § 2º: se a ação judicial tratar de matéria <mark>distinta</mark> da do processo administrativo, não há desistência tácita quanto à parte diferente, que segue tramitando.
+
+Art. 73: não cumprida a exigência nem apresentada defesa no prazo, o sujeito passivo é considerado <mark>revel</mark>.
+
+⚠️ Pegadinha de banca: a propositura de ação judicial só gera desistência tácita da <mark>mesma matéria</mark> — se a ação judicial tratar de questão diferente da discutida no PAT, o processo administrativo continua normalmente quanto ao que não se sobrepõe.
+
+> [!quote]- Texto literal — Art. 72, II, "c" (p.87)
+> "Opera-se a desistência do litígio na esfera administrativa: (...) II - tacitamente: (...) c) pela não apresentação tempestiva do recurso."
+
+---
+
+## Recursos — complementos: voluntário, ofício e uniformização (art. 77, §§ 1º, 2º, 4º e 5º; art. 78; e art. 79, §§ 1º a 5º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo II, Seção V (Das Espécies Recursais), Subseções II, III e IV, arts. 77, 78 e 79. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.94-96.
+
+Art. 77, § 1º: o recurso de ofício se formaliza <mark>na própria decisão</mark>. § 2º: é <mark>interposto ex lege</mark> (por força da lei), independentemente disso — a instância superior avoca os autos e conhece o recurso, se presentes os pressupostos. § 4º: o valor-limite para não cabimento (inciso I do § 3º, já registrado no heading "Processo administrativo tributário do IBS") deve ser <mark>único e nacional</mark>. § 5º: no caso de cancelamento por remissão (inciso III do § 3º), a representação fazendária deve se manifestar <mark>antes</mark> da decisão.
+
+Art. 78: das decisões de primeira instância <mark>contrárias ao sujeito passivo</mark>, cabe <mark>recurso voluntário</mark> ao colegiado de segunda instância. § 1º: se admitido, devolve o conhecimento de <mark>toda</mark> a matéria recorrida. § 2º: recurso de <mark>parte</mark> da decisão implica reconhecimento da parte <mark>não recorrida</mark>.
+
+Art. 79 (complementa o § 6º já registrado lá): § 1º pode interpor o recurso de uniformização a representação da Fazenda Pública ou o sujeito passivo. § 2º: cabe ao recorrente <mark>comprovar a divergência</mark>, sob pena de não conhecimento. § 3º: não será conhecido se adotar como paradigma decisão prejudicada (inclusive por legislação superveniente) ou contrariar entendimento sumulado pelo CGIBS. § 4º: contrarrazões em <mark>10 dias</mark>. § 5º: se conhecido, devolve à Câmara Superior <mark>só a matéria da divergência</mark>.
+
+⚠️ Pegadinha de banca: o recurso de ofício é interposto <mark>ex lege</mark> — não depende de ato voluntário da autoridade julgadora nem de pedido da Fazenda; já o recurso voluntário é sempre iniciativa do sujeito passivo contra decisão que lhe foi desfavorável.
+
+> [!quote]- Texto literal — Art. 78, caput e § 1º (p.96)
+> "Das decisões de primeira instância contrárias ao sujeito passivo, caberá recurso voluntário ao colegiado de segunda instância. § 1º O recurso voluntário admitido devolve o conhecimento de toda a matéria nele versada."
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] — complementa os arts. 75-80 já registrados lá (recurso de ofício, §§ 3º e 6º; recurso de uniformização, § 6º).
+
+---
+
+## Incidente de uniformização (arts. 81 a 87)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo II, Seção VII (Do Incidente de Uniformização Relativo à Legislação Específica do IBS), arts. 81 a 87. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.100-102.
+
+Art. 81: cabe <mark>incidente de uniformização</mark> perante a Câmara Superior do IBS, sobre a legislação específica do IBS, em duas hipóteses: (I) matérias repetitivas, com julgamentos reiterados sobre a mesma questão; ou (II) decisão de segunda instância que deixa de aplicar provimento vinculante do art. 74. § 1º: o julgamento fixa <mark>tese</mark>, e a Câmara Superior edita <mark>súmula</mark> com efeito de provimento vinculante, a partir da publicação no Diário Eletrônico do CGIBS. § 2º: o efeito vinculante alcança impugnações e recursos <mark>pendentes ou futuros</mark> sobre a mesma questão. § 3º: cabe revisão da tese, de ofício ou a pedido dos legitimados dos arts. 84/87.
+
+Duas subespécies, com requisitos e efeitos distintos:
+
+| | Por matérias repetitivas (arts. 82-84) | Por inobservância de provimento vinculante (arts. 85-87) |
+| --- | --- | --- |
+| Requisito | <mark>5 decisões</mark> definitivas de Câmara de 2ª instância, ou <mark>3 decisões</mark> da Câmara Superior, por maioria, em sessões distintas | indicação do provimento vinculante que deixou de ser aplicado |
+| Quem suscita | Fazenda Pública; Presidentes das Câmaras de 2ª instância ou da Câmara Superior | Fazenda Pública; sujeito passivo |
+| Efeito sobre a exigibilidade | <mark>não suspende</mark> | <mark>suspende</mark> |
+
+⚠️ Pegadinha de banca: as duas subespécies têm legitimados e efeitos opostos sobre a exigibilidade do crédito — troca comum da banca é inverter "suspende"/"não suspende" entre elas.
+
+> [!quote]- Texto literal — Art. 83 e Art. 87, parágrafo único (p.101-102)
+> "A suscitação do incidente de uniformização previsto nesta Subseção deverá estar acompanhada de 5 (cinco) decisões definitivas proferidas por Câmara de Julgamento de segunda instância ou por 3 (três) decisões proferidas pela Câmara Superior do IBS, por, no mínimo, maioria de votos, em sessões de julgamento distintas, sob pena de não conhecimento." (...) "O incidente de uniformização previsto nesta Subseção suspenderá a exigibilidade do crédito tributário."
+
+> [!tip]- Lupa: as duas portas do incidente de uniformização
+> **A ideia em uma frase:** o incidente de uniformização serve tanto para consolidar jurisprudência repetida quanto para forçar o cumprimento de uma tese já vinculante que uma Câmara ignorou — e a lei trata cada situação de um jeito.
+> **O passo a passo:** (1) matérias repetitivas — precisa de um "volume" de decisões no mesmo sentido (5 de 2ª instância ou 3 da Câmara Superior) para provar que a questão já se repete; suscitada só pela Fazenda ou pelos Presidentes das Câmaras; não trava a cobrança; (2) inobservância de provimento vinculante — não precisa de volume nenhum, só apontar que uma decisão ignorou uma tese já vinculante; suscitada pela Fazenda ou pelo próprio sujeito passivo; trava a cobrança (suspende a exigibilidade), porque a decisão contestada já deveria ter seguido a tese.
+> **O erro clássico:** achar que o sujeito passivo pode suscitar o incidente por matérias repetitivas — só a Fazenda e os Presidentes das Câmaras podem; o SP só entra na segunda modalidade (inobservância de provimento vinculante).
+
+---
+
+## Órgãos de julgamento: estrutura, sessões e composição das Câmaras (art. 88; art. 89, § 1º; e arts. 91 a 96)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo III (Dos Órgãos de Julgamento), Seções I a IV, arts. 88, 89 (§ 1º) e 91 a 96. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.103-111.
+
+Art. 88: o contencioso administrativo do IBS é decidido, de forma integrada, só via CGIBS. § 1º: as sessões de julgamento são <mark>virtuais e síncronas</mark>, com audiências, sustentações orais e memoriais assegurados em todas as instâncias. § 2º: as partes são intimadas da inclusão em pauta com <mark>ao menos 10 dias de antecedência</mark>.
+
+Art. 89, § 1º: a 1ª e a 2ª instância são organizadas <mark>por unidade federativa estadual e distrital</mark> — não há uma câmara nacional única para elas (só a instância de uniformização é nacional).
+
+<mark>Composição das 3 instâncias</mark> — a "escada" 2+2 / 2+2+4 / 4+4+8:
+
+| Instância | Órgão | Composição (art.) |
+| --- | --- | --- |
+| 1ª (arts. 91-92) | 27 Câmaras de Julgamento | 2 servidores do Estado (ou 4, se DF) + 2 servidores dos Municípios do Estado + Presidente (só vota em empate) |
+| 2ª (arts. 93-94) | 27 Câmaras Recursais de Julgamento | 2 servidores do Estado (ou 4, se DF) + 2 servidores dos Municípios + 4 representantes dos contribuintes + Presidente (só vota em empate) |
+| Uniformização (arts. 95-96) | Câmara Superior do IBS | 4 servidores dos Estados+DF + 4 servidores dos Municípios+DF + 8 representantes dos contribuintes + Presidente (só vota em empate) |
+
+Em todas: presidência exercida <mark>alternadamente a cada exercício</mark>, entre servidores do Estado e dos Municípios; suplentes em igual número; funcionamento disciplinado por ato do CGIBS. As Câmaras podem se dividir em Turmas, conforme o volume de processos (quantidade definida pelo CGIBS). Representantes dos contribuintes (2ª instância e Câmara Superior): indicados por entidades representativas de categorias econômicas, aprovados em <mark>processo seletivo público</mark>. Câmara Superior, adicionalmente (art. 96, § 4º): seus integrantes vêm de quem já passou por Câmaras de 2ª instância por <mark>ao menos 2 mandatos</mark>.
+
+Competências: 1ª instância julga o lançamento impugnado e o pedido de retificação (art. 91); 2ª instância julga recurso de ofício, recurso voluntário e pedido de retificação das próprias decisões (art. 93); instância de uniformização julga recurso de uniformização, incidente de uniformização, pedido de retificação e delibera sobre provimentos vinculantes (art. 95).
+
+⚠️ Pegadinha de banca: só a 2ª instância e a Câmara Superior têm <mark>representantes dos contribuintes</mark> na composição (4 e 8, respectivamente) — a 1ª instância é <mark>exclusivamente de servidores</mark> de carreira dos Estados/Municípios/DF.
+
+> [!quote]- Texto literal — Art. 92, caput, e Art. 96, § 1º (p.104 e 107)
+> "A primeira instância de julgamento será composta de 27 (vinte e sete) Câmaras de Julgamento virtuais, integradas, de forma colegiada e paritária, exclusivamente por servidores de carreira dos Estados e dos respectivos Municípios, ou do Distrito Federal, com competência para a realização do lançamento tributário ou julgamento tributário." (...) "§1º A Câmara Superior do IBS será integrada (...): I - por 4 (quatro) servidores indicados pelas administrações tributárias dos Estados e do Distrito Federal; II - por 4 (quatro) servidores indicados pelas administrações tributárias dos Municípios e do Distrito Federal; III - por 8 (oito) representantes dos contribuintes; e IV - pelo Presidente, que votará apenas em caso de empate."
+
+> [!tip]- Lupa: a escada de composição das Câmaras (2+2 → 2+2+4 → 4+4+8)
+> **A ideia em uma frase:** cada instância dobra de tamanho e ganha um novo tipo de integrante — a estrutura cresce à medida que o processo sobe.
+> **O passo a passo:** (1) 1ª instância — 2 servidores do Estado + 2 dos Municípios (ou 4 do DF sozinho, já que ele soma as duas bases), só servidores; (2) 2ª instância — os mesmos 2+2 (ou 4 do DF) de servidores, mas soma 4 representantes dos contribuintes; (3) Câmara Superior — dobra os servidores para 4+4 (Estados+DF e Municípios+DF) e dobra os contribuintes para 8; (4) em todas, o Presidente só vota para desempatar.
+> **O erro clássico:** dar direito a voto a representante de contribuinte na 1ª instância — ela é toda de servidores; contribuintes só entram a partir da 2ª instância.
+
+---
+
+## Disposições finais do PAT: publicidade, imunidade dos julgadores e casos omissos (arts. 98, 99 e 102)
+- [ ] status [dom:: 0] [peso:: 3]
+
+LC nº 227/2026, Título II, Capítulo V (Disposições Finais), arts. 98, 99 e 102. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.112-114.
+
+Art. 98: as decisões e acórdãos devem indicar <mark>com clareza</mark> os pressupostos de fato e de direito que os determinaram; cabe ao CGIBS assegurar sua publicidade.
+
+Art. 99: <mark>exceto em caso de dolo ou excesso de linguagem</mark>, os julgadores não podem ser punidos nem prejudicados pelas opiniões que manifestarem ou pelo teor de suas decisões — uma garantia de independência funcional.
+
+Art. 102: compete ao CGIBS resolver <mark>os casos omissos</mark> e editar os atos normativos necessários à execução do Título.
+
+⚠️ Pegadinha de banca: a imunidade do art. 99 não é absoluta — cai se houver dolo ou excesso de linguagem na decisão/opinião.
+
+> [!quote]- Texto literal — Art. 99 (p.113)
+> "Exceto nos casos de dolo ou de excesso de linguagem, os julgadores não poderão ser punidos ou prejudicados pelas opiniões que manifestarem ou pelo teor das decisões que proferirem."
+
+## Distribuição do IBS: disposições preliminares (arts. 103-104)
+- [ ] status [dom:: 2] [peso:: 3]
+
+LC nº 227/2026, Título III (Da Distribuição do Produto da Arrecadação do IBS), Capítulo I (Disposições Preliminares), arts. 103 e 104. Fonte do texto: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.114-115.
+
+Art. 103 Os <mark>rendimentos de aplicações financeiras</mark> do produto da arrecadação do IBS são distribuídos <mark>integral e diretamente</mark> aos Estados, ao DF e aos Municípios, proporcionalmente à participação de cada ente na receita do IBS apurada com base nas alíquotas de referência, nos <mark>12 meses imediatamente anteriores</mark>. § 2º: são <mark>receitas patrimoniais</mark> dos entes e **não** integram a base de cálculo das vinculações constitucionais de saúde, educação, Fundeb e cultura (arts. 158, IV; 198, §2º; 204, § único; 212; 212-A, II; 216, §6º, CF).
+
+> [!quote]- Texto literal — Art. 103, § 1º (p.114)
+> "Os valores referidos no caput deste artigo serão distribuídos diretamente aos entes federativos, **não integrando o fluxo de distribuição previsto nos arts. 104 a 131** desta Lei Complementar."
+
+Art. 104 A distribuição geral do produto da arrecadação pelo CGIBS observa "período de determinação": o CGIBS define a periodicidade dos repasses, que **não pode ser inferior a 1 dia útil** nem **mais extensa que o período de apuração do IBS**. A receita apurada em cada período de determinação é transferida aos entes em **até 3 dias úteis** após seu encerramento.
+
+⚠️ Pegadinha de banca: trocar "período de determinação" (frequência mínima de cálculo/repasse, definida pelo CGIBS, piso de 1 dia útil) por "período de apuração" do IBS (a referência que limita o teto do primeiro) — são conceitos diferentes e o art. 104, §2º, só limita o teto, não o piso, ao período de apuração.
+
+---
+
+## Receita Inicial e Receita-Base: composição e ajustes (arts. 105-113)
+- [ ] status [dom:: 2] [peso:: 3]
+
+LC nº 227/2026, Título III, Capítulo II (Da Receita-Base dos Entes Federativos), arts. 105 a 113. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.115-137.
+
+**O pipeline (arts. 105 a 111)**
+
+Art. 105: a cada período de determinação, o CGIBS calcula a <mark>Receita-Base</mark> de cada ente. Receita-Base = Receita Inicial (art. 106), **após os ajustes** dos arts. 107 a 111.
+
+Art. 106 — compõem a <mark>Receita Inicial</mark>: (I) IBS extinto não apropriado como crédito, nas operações de destino do ente, tributadas pelo regime regular (alíquota-padrão, reduzida 30% ou 60%), pelo Simples Nacional, ou por regimes específicos (art. 113); (II) IBS extinto em regimes específicos, nos termos do art. 113; (III) IBS extinto destinado ao ente **contratante** em operações da administração pública direta/autarquias/fundações (split especial do art. 149-C, CF — alíquota zerada para os demais entes, elevada para o contratante). §3º **exclui** da receita inicial: aquisições de produtor rural/transportador autônomo não contribuintes (vão para o rateio do art. 108, §3º) e aquisições de MEI (vão pela LC 123/2006). §4º **inclui com critério próprio**: retenções do Simples Nacional (rateadas pelo CGIBS ao fim do período) e anulações de crédito por imunidade/isenção do art. 51 da LC 214/2025 (vão pelo rateio residual do art. 112, §2º).
+
+Art. 107 — <mark>1º ajuste</mark>: dedução do valor do **cashback** (devolução geral do IBS às pessoas físicas, LC 214/2025), calculado por percentual fixado pelo CGIBS por período — **mesmo percentual para todos os entes**; e ajuste pela alíquota fixada pelo ente **acima ou abaixo** da alíquota de referência (dedução se superior, acréscimo se inferior).
+
+Art. 108 — <mark>2º ajuste</mark>: dedução do valor destinado aos **créditos presumidos** de IBS (LC 214/2025 — produtor rural, transportador autônomo, reciclagem, bens usados, cooperativas, Zona Franca de Manaus/ALC), por percentual fixado pelo CGIBS; e acréscimo das **multas e juros de mora** entre contribuintes do regime regular. §5º-6º: se a retenção do inciso I exceder o necessário, o CGIBS pode reservar o excedente, reduzir o percentual futuro ou devolver aos entes (devolução é somada de volta ao valor do art. 107 ou 108, conforme a dedução original).
+
+Art. 109 — <mark>retenção temporal para transição</mark> (financia o Cap. III, art. 114), de **2029 a 2077**: <mark>80%</mark> (2029-2032) → <mark>90%</mark> (2033) → reduzido à razão de <mark>1/45 por ano</mark> (2034-2077). Multas punitivas e seus juros **não** entram nessa retenção.
+
+Art. 110 — <mark>retenção adicional para transição complementar</mark> (financia o Cap. IV, art. 117), de **2029 a 2096**, incidindo **após** a retenção do art. 109: <mark>5%</mark> (2029-2077) → reduzido à razão de <mark>1/20 por ano</mark> (2078-2096).
+
+Art. 111 — Receita-Base final: valor apurado nos termos do art. 108, **após** as retenções dos arts. 109 e 110, reajustado pelo mesmo mecanismo de alíquota do art. 107, II (acréscimo/dedução conforme a alíquota fixada pelo ente).
+
+> [!quote]- Texto literal — Retenções dos arts. 109 e 110 (p.125-126)
+> Art. 109, caput: "**de 2029 a 2032, 80%** (...); **em 2033, 90%** (...); **de 2034 a 2077**, percentual correspondente ao aplicado em 2033, **reduzido à razão de 1/45 (...) por ano**."
+> Art. 110, caput: "**de 2029 a 2077, 5%** (...); **de 2078 a 2096**, o percentual (...) reduzido à razão de **1/20 (...) por ano**."
+
+Art. 112 — competência do CGIBS para apurar e ajustar (arts. 106 a 111); item de receita/redução **não alocável diretamente** a um ente é rateado entre **todos** os Estados, DF e Municípios, proporcionalmente à participação de cada um na arrecadação por alíquotas de referência, nos 12 meses anteriores. Excepcionalmente em 2027-2028, o CGIBS pode apurar por receita agregada (sem apuração por operação) e usar estimativas próprias.
+
+**Regras de composição por regime específico (art. 113)**
+
+Art. 113 detalha, para cada regime específico, como se apura o IBS extinto que compõe a Receita Inicial e para qual ente ele vai:
+
+| Regime (art. 113) | Apuração | Vai para o ente de... |
+|---|---|---|
+| Combustíveis (incidência única), I | diferença entre IBS extinto pelo conjunto dos sujeitos passivos e o crédito apropriado nas aquisições | destino da operação sem creditamento (exceto revenda/distribuição) |
+| Serviços financeiros — crédito, câmbio, títulos, derivativos, securitização, factoring, II, a | diferença IBS extinto − crédito apropriado por tomadores de crédito/emissores de títulos | rateio pelas alíquotas de referência (12 meses) |
+| Arrendamento mercantil, II, b | diferença IBS extinto − crédito do arrendatário | domicílio principal do contratante, sem crédito |
+| Administração de consórcio, II, c | diferença IBS extinto − crédito do adquirente | domicílio principal do adquirente, sem crédito |
+| Fundos de investimento/FIDC, II, d | IBS extinto nas operações que destinam bens/serviços ao fundo | domicílio principal dos cotistas, proporcional às cotas |
+| Gestão/administração de recursos (exceto fundo), II, e | IBS extinto pelos sujeitos passivos | domicílio principal dos investidores |
+| FGTS, II, f | IBS extinto | rateio pelas alíquotas de referência (12 meses) |
+| Arranjos de pagamento, II, g | diferença IBS extinto − crédito do tomador | domicílio principal do tomador, sem crédito, proporcional à remuneração paga |
+| Liquidação antecipada de recebíveis, II, h | diferença IBS extinto (desconto na antecipação) − crédito do tomador | domicílio principal do tomador, sem crédito |
+| Mercados organizados/infraestrutura/depositárias, II, i | diferença IBS extinto − crédito do adquirente | domicílio principal do adquirente, sem crédito |
+| Seguros e resseguros, II, j | diferença IBS extinto − crédito do adquirente | domicílio principal do adquirente, sem crédito, proporcional ao prêmio pago |
+| Previdência complementar / seguro de pessoas c/ sobrevivência, II, k | IBS extinto | domicílio principal do participante/segurado, proporcional a contribuições/prêmios + encargos do fundo |
+| Capitalização, II, l | diferença IBS extinto − crédito do adquirente | domicílio do adquirente **ou** local de comercialização (se subscritor não identificado) |
+| Ativos virtuais, II, m | diferença IBS extinto − crédito do adquirente | domicílio principal do adquirente, sem crédito |
+| Fundos garantidores/executores de políticas públicas (exceto FGTS), II, n | IBS extinto | regra do art. 149-C se cotista único for adm. pública; senão domicílio dos cotistas (com cotas) ou rateio por alíquotas de referência (sem cotas) |
+| Planos de assistência à saúde, III | diferença IBS extinto − crédito do regime regular | domicílio principal do titular do plano, proporcional a prêmios/contraprestações, sem crédito |
+| Concursos de prognósticos, IV | IBS extinto | local da aposta (presencial) ou domicílio do apostador (demais casos) |
+| Agências de turismo, V | diferença IBS extinto − crédito do adquirente | domicílio principal do adquirente, sem crédito |
+| Sociedade anônima de futebol, VI | IBS extinto mensal | domicílio principal da SAF, na proporção das alíquotas de IBS |
+
+§1º: para todos esses regimes (exceto combustíveis), a distribuição é sempre com base no montante de IBS extinto nas operações de cada sujeito passivo. §2º: a regra "k" (previdência) não se aplica a planos fechados, e a regra do III não se aplica a autogestão em saúde — nesses dois casos o valor vai pelo rateio residual do art. 112, §2º.
+
+> [!tip]- Lupa: o pipeline Receita Inicial → Receita-Base
+> **A ideia em uma frase:** antes de mandar dinheiro pro ente, o CGIBS precisa "normalizar" o valor bruto arrecadado (que varia conforme a alíquota que cada ente escolheu) para poder calcular benefícios e retenções sobre uma base comparável — só no fim do processo ele devolve o valor real que o ente tem direito.
+> **O passo a passo:** (1) Receita Inicial (art. 106) — o dinheiro bruto que entrou, já na alíquota real de cada ente; (2) art. 107 — ajusta pelo cashback e por alíquota (gera uma base "padronizada" pela alíquota de referência); (3) art. 108 — sobre essa base padronizada, desconta créditos presumidos e soma multas/juros; (4) arts. 109-110 — retém percentuais (80-90%→0 e depois +5%→0) pra financiar os capítulos de transição (114 e 117); (5) art. 111 — Receita-Base final, já devolvendo o ajuste de alíquota real do ente (deixa de ser "padronizada" e volta a ser o valor que o ente efetivamente recebe).
+> **O erro clássico:** achar que a Receita-Base (art. 111) é só a Receita Inicial menos retenções — ela também reincorpora o ajuste de alíquota do art. 107, II, que tinha sido usado só para padronizar o cálculo dos arts. 107-108, não para reduzir de fato o que o ente recebe.
+
+---
+
+## Distribuição da receita retida para transição: coeficiente de participação (arts. 114-116)
+- [ ] status [dom:: 2] [peso:: 3]
+
+LC nº 227/2026, Título III, Capítulo III (Da Distribuição da Receita Retida para Fins de Transição), arts. 114 a 116. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.137-143.
+
+Art. 114: de 2029 a 2077, o valor retido pelo art. 109 é distribuído a cada período de determinação, proporcionalmente ao <mark>coeficiente de participação</mark> de cada ente = razão entre a receita média de referência do ente e a receita média de referência do conjunto dos Estados, DF e Municípios.
+
+Art. 115 — cálculo da <mark>receita média de referência</mark>: para Estados, arrecadação com ICMS (após a fatia de 25% que é dos Municípios) + receita de contribuições a fundos estaduais em funcionamento em 30/04/2023; para o DF, ICMS + ISSQN; para Municípios, ISSQN + parcela de ICMS entregue pelo Estado. Considera valores anuais de <mark>2019 a 2026</mark>, corrigidos pela variação nominal da arrecadação total de ICMS+ISSQN até 2026; inclui receita do Simples Nacional, do Fundo de Combate à Pobreza (art. 82 ADCT) e o montante total arrecadado (com juros/multas, inscrito ou não em dívida ativa). §7º: a parcela distribuída deve ser **segregada por componente** (ICMS "puro" vs. fundo estadual; ICMS vs. ISSQN no DF; ISSQN vs. parcela de ICMS no Município) — essa segregação reaparece no art. 121 (Seção II do Cap. V).
+
+Art. 116 — o CGIBS calcula e divulga o coeficiente de participação de cada ente **até 31/08/2027**, usando dados do Siconfi (podendo usar outras fontes uniformes: Simples Nacional, cota-parte municipal, relatórios da LRF) e podendo estimar valores de ente que não prestou contas ou cujos dados sejam inconsistentes (desde que critérios objetivos tenham sido divulgados previamente). Contestação do coeficiente: <mark>30 dias</mark> da publicação; resposta do CGIBS: <mark>90 dias</mark> do recebimento da última contestação, com republicação se houver alteração.
+
+> [!quote]- Texto literal — Art. 116, §§ 7º-8º (p.142-143)
+> "os Estados, o Distrito Federal ou os Municípios poderão apresentar contestação (...) no prazo de **30 (trinta) dias** (...). Se houver contestação (...), o CGIBS deverá, no prazo de **90 (noventa) dias** (...): I - divulgar as respostas fundamentadas a todas as contestações apresentadas, **não cabendo nova contestação ou recurso administrativo**."
+
+⚠️ Pegadinha de banca: dizer que cabe recurso da resposta do CGIBS à contestação do coeficiente — **não cabe** (art. 116, §8º, I, fecha a via administrativa nesse ponto).
+
+> [!tip]- Lupa: coeficiente de participação
+> **A ideia em uma frase:** quem arrecadava mais no passado (pelo ICMS/ISSQN histórico) recebe uma fatia maior do valor retido para a transição.
+> **O passo a passo:** coeficiente do ente = receita média de referência do ente (2019-2026, corrigida) ÷ receita média de referência de todos os entes somados; o valor retido pelo art. 109 é rateado exatamente nessa proporção.
+> **O erro clássico:** confundir a receita média de referência (histórico, base do art. 115) com a Receita-Base do período corrente (art. 111) — são grandezas diferentes usadas em momentos diferentes do sistema.
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#ADCT: distribuição do IBS de 2029 a 2077 (arts. 131 e 132)]] — mesma janela de transição 2029-2077/2096 no plano constitucional.
+
+---
+
+## Distribuição complementar por perda de participação (art. 117)
+- [ ] status [dom:: 2] [peso:: 3]
+
+LC nº 227/2026, Título III, Capítulo IV (Da Distribuição Complementar para os Entes Federativos com Maior Perda de Participação Relativa na Receita), art. 117. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.143-146.
+
+Art. 117: de 2029 a 2096, o valor retido pelo art. 110 é distribuído **mensalmente** aos entes com as **menores razões** entre: (I) a média, nos 12 meses anteriores, da receita mensal do IBS por alíquotas de referência; e (II) a <mark>receita média de referência ajustada</mark> do ente. §1º: a distribuição é sequencial — vai equalizando a razão dos entes que recebem, até que todos os beneficiados fiquem com a mesma razão entre (receita atual + valor recebido) e a receita média de referência ajustada.
+
+§§3º-6º: <mark>receita média de referência ajustada</mark> = **o menor valor** entre (i) a receita média de referência do ente (art. 115) e (ii) um **teto populacional** — 3 vezes o produto entre a receita média de referência per capita do conjunto (Estados, Municípios ou DF conforme o caso) e a população do próprio ente (médias do IBGE, 2019-2026). Mesma regra para Estado, Município e DF, mudando só a base de cálculo (DF soma as duas bases, estadual e municipal). §8º: revisão de estimativa populacional não retroage sobre valores já distribuídos.
+
+> [!quote]- Texto literal — Art. 117, caput (p.143-144)
+> "De 1º de janeiro de 2029 a 31 de dezembro de 2096, o valor retido nos termos do art. 110 desta Lei Complementar será **distribuído mensalmente** aos Estados, ao Distrito Federal ou aos Municípios com as **menores razões** entre: I - a média, nos 12 (doze) meses anteriores, da receita mensal do IBS (...); e II - a receita média de referência ajustada (...)."
+
+> [!tip]- Lupa: o mecanismo do "menor valor" e da "menor razão"
+> **A ideia em uma frase:** o Capítulo IV é um seguro contra perdas muito grandes na transição — quem está mais "atrás" da sua própria média histórica é atendido primeiro, mas com um teto para não distorcer o sistema.
+> **O passo a passo:** (1) calcula-se a razão "receita atual ÷ receita histórica ajustada" de cada ente; (2) quem tem a menor razão (maior perda relativa) recebe primeiro; (3) a distribuição continua, sequencialmente, até equalizar essa razão entre os entes atendidos; (4) a "receita histórica ajustada" nunca pode passar de um teto populacional (3x a média per capita nacional × a população do ente) — isso evita que um ente pequeno ou com receita histórica atípica capture a maior parte do fundo.
+> **O erro clássico:** achar que o teto populacional **substitui** a receita histórica real — ele só entra se for **menor** que ela (é um limitador, não um valor automático).
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#ADCT: transição do IBS e da CBS e extinção do ICMS e do ISS (arts. 124 a 129)]] — errou 50% no caderno de 21/09; a distribuição complementar do art. 117 é o mecanismo compensatório dessa mesma transição.
+
+---
+
+## Destinação da receita aos entes federativos: deduções, FCP e transparência (arts. 118-131)
+- [ ] status [dom:: 2] [peso:: 3]
+
+LC nº 227/2026, Título III, Capítulo V (Da Destinação da Receita dos Entes Federativos), Seções I a IV, arts. 118 a 131. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.146-160.
+
+**Seção I — destinação da Receita-Base (arts. 118 a 120, espelhados para Estado/Município/DF)**
+
+A Receita-Base de cada ente (art. 111) é **acrescida** das multas punitivas e juros de mora quando o próprio ente promoveu a fiscalização (se dois ou mais entes fiscalizaram em conjunto, o CGIBS rateia); e **deduzida** de: compensação/ressarcimento do saldo credor de ICMS; compensação por estoque de mercadoria sujeita à substituição tributária em 31/12/2032; devolução específica de IBS a pessoas físicas (lei própria do ente). Se essas deduções excederem a Receita-Base do período, o excedente é descontado nos períodos seguintes da Seção II. Do saldo resultante, é deduzida a parcela do **Fundo de Combate à Pobreza** (percentual da lei do ente); do que resulta, deduz-se o percentual do **Fundeb** (art. 212-A, II, CF) e o percentual de **financiamento do CGIBS**. Transferência ao ente no mesmo prazo do art. 104, §3º (3 dias úteis).
+
+**Seção II — destinação da receita distribuída pelos Caps. III e IV (arts. 121 a 127)**
+
+Art. 121: a receita transferida nos termos dos arts. 114 e 117 (já deduzido o excedente da Seção I, quando houver) é **segregada pelos mesmos componentes** do art. 115 — Estado: (a) parcela ICMS "puro", (b) parcela de contribuições a fundos estaduais; DF: (a) ICMS, (b) ISSQN; Município: (a) ISSQN, (b) parcela de ICMS entregue pelo Estado. Cada componente (arts. 122 a 127, dois artigos espelhados por ente) sofre a **mesma cadeia de deduções**: Fundo de Combate à Pobreza → Fundeb (só no componente ligado a ICMS/imposto equivalente) → financiamento do CGIBS. Transferência no mesmo prazo do art. 104, §3º.
+
+**Seção III — destinação da parcela municipal do art. 158, IV, "b", CF (art. 128)**
+
+O CGIBS transfere aos Municípios o valor retido pelo art. 118, §3º, nos critérios do art. 158, §2º, CF: <mark>80%</mark> na proporção da população; <mark>10%</mark> por indicadores de aprendizagem/equidade (lei estadual); <mark>5%</mark> por indicadores ambientais (lei estadual); <mark>5%</mark> em montantes iguais para todos os Municípios do Estado. Descontam-se, também aqui, Fundeb e financiamento do CGIBS.
+
+**Seção IV — Disposições Finais (arts. 129 a 131)**
+
+Art. 129 — o percentual do IBS destinado ao **Fundo de Combate à Pobreza** (art. 82, ADCT) pode ser fixado por lei própria do ente, com **limite de 1%**, a partir de <mark>1º/01/2033</mark>. Para o ente que **já tinha** o fundo antes da EC 132/2023, o limite é escalonado com base na relação histórica entre o adicional de alíquota (2019-2026) e a receita bruta correspondente: <mark>3/4</mark> dessa relação (2033-2040), <mark>1/2</mark> (2041-2048), <mark>1/4</mark> (2049-2056), e só a partir de 2057 vale o teto geral de <mark>1%</mark>. Aplica-se sempre o **menor** entre o limite escalonado e o percentual fixado pelo ente; o percentual deve ser informado ao CGIBS **até 31 de julho** do ano anterior à sua aplicação.
+
+Art. 130 — os Estados informam ao CGIBS os coeficientes de participação de cada Município na distribuição do art. 128.
+
+Art. 131 — o CGIBS envia aos entes as informações de classificação dos créditos transferidos e os dados de cálculo dos valores distribuídos, e mantém **portal público** com o detalhamento do cálculo da receita de IBS de cada ente.
+
+> [!quote]- Texto literal — Art. 128, incisos (p.157) e Art. 129, §2º (p.158)
+> Art. 128: "I - **80%** (...) na proporção da população; II - **10%** (...) indicadores de melhoria (...) aprendizagem e (...) equidade (...); III - **5%** (...) indicadores de preservação ambiental (...); IV - **5%** (...) em montantes iguais para todos os Municípios do Estado."
+> Art. 129, §2º: "I - **3/4** (...) no período de 2033 a 2040; II - **metade** (...) no período de 2041 a 2048; III - **1/4** (...) no período de 2049 a 2056; IV - **1%** a partir de 2057."
+
+⚠️ Pegadinha de banca: dizer que o limite do Fundo de Combate à Pobreza é sempre 1% a partir de 2033 — isso só vale para o ente que **não** tinha fundo antes da EC 132/2023; quem já tinha, segue a escala decrescente (3/4 → 1/2 → 1/4 → 1%) até 2057, e vale sempre o **menor** valor entre a escala e o percentual fixado em lei do ente.
+
+> [!tip]- Lupa: a ordem das deduções em cascata
+> **A ideia em uma frase:** antes de o dinheiro chegar ao caixa livre do ente, a lei resolve primeiro as compensações da transição do ICMS e as prioridades constitucionais (educação/combate à pobreza), nessa ordem.
+> **O passo a passo:** (1) Receita-Base (ou receita segregada por componente); (2) soma multas/juros de fiscalização própria; (3) desconta saldo credor de ICMS, estoque de ST e devolução específica (só na Seção I); (4) desconta o Fundo de Combate à Pobreza sobre o que sobrou; (5) desconta Fundeb e financiamento do CGIBS sobre o resultado do passo 4 — cada corte incide sobre o que restou do corte anterior, não sobre o valor bruto original.
+> **O erro clássico:** calcular Fundeb ou CGIBS como percentual da Receita-Base bruta, em vez de sobre o valor já líquido do Fundo de Combate à Pobreza.
+
+> [!info]- Ponte
+> - [[P2 - Reforma Tributária#Execução orçamentária e gestão fiscal do CGIBS (art. 42 e correlatos)]] — a dedução "financiamento do CGIBS" (arts. 118 a 128) alimenta esse orçamento.
+> - [[P2 - Reforma Tributária#ADCT: base de cálculo, saldos credores e demais transições (arts. 133 a 137)]] — o saldo credor de ICMS deduzido no art. 118, II, "a".

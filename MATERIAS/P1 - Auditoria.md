@@ -215,6 +215,32 @@ Na auditoria de demonstrações contábeis, o gabarito está correto porque **a
 
 > NBC T 11, alínea e — **revisão analítica**: verificação do comportamento de valores significativos, mediante índices, quocientes, quantidades absolutas ou outros meios, com vistas à identificação de situação ou tendências atípicas.
 
+> **NBC TA 330 (R1), item 4 — definições:**
+> - **Teste de controle:** procedimento de auditoria planejado para **avaliar a efetividade operacional dos controles** na prevenção, ou na detecção e correção, de distorções relevantes no nível de afirmações.
+> - **Procedimento substantivo:** procedimento de auditoria planejado para **detectar distorções relevantes no nível de afirmações**; compreende (a) **testes de detalhes** (de classes de transações, saldos de contas e divulgações) e (b) **procedimentos analíticos substantivos**.
+
+**Duas abordagens gerais de resposta ao risco** (NBC TA 330, item 8 c/c item 18):
+- **Abordagem combinada:** o auditor executa **testes de controle**, conjugados com **procedimentos substantivos** — cabível quando espera que os controles sejam efetivos, ou quando só procedimentos substantivos não bastam.
+- **Abordagem substantiva:** o auditor **não** testa a efetividade operacional dos controles, e responde ao risco **apenas** com procedimentos substantivos. Mesmo nessa abordagem, o item 18 **obriga** procedimentos substantivos para **toda** classe de transações, saldo de contas e divulgação significativos — já registrado acima.
+
+> ⚠️ **Risco significativo** (NBC TA 330, item 21) — se o auditor optar por **não** testar a efetividade operacional dos controles relativos a um risco avaliado como **significativo**, os procedimentos substantivos executados em resposta a esse risco **devem incluir testes de detalhes**. Um procedimento analítico substantivo, isoladamente, **não é suficiente** diante de risco significativo.
+
+**Procedimentos analíticos substantivos × testes de detalhes:**
+- **Procedimentos analíticos substantivos** costumam ser mais aplicáveis a **grandes volumes de transações que tendem a ser previsíveis** ao longo do tempo.
+- **Testes de detalhes** costumam ser mais apropriados para obter evidência sobre **afirmações relacionadas a saldos contábeis**, como existência e avaliação.
+
+**Timing — data intermediária × final do período** (NBC TA 330, item 22):
+- Quanto **maior o risco avaliado** de distorção relevante, **maior a probabilidade** de o auditor executar procedimentos substantivos **próximo ou no final do período**, em vez de em data intermediária.
+- Se testes de controle ou procedimentos substantivos forem executados em **data intermediária**, o auditor deve cobrir o **período remanescente** mediante: (a) procedimentos substantivos combinados com testes de controle; ou (b), se suficiente, apenas **procedimentos substantivos adicionais** — que forneçam base razoável para estender as conclusões da data intermediária até o final do período.
+
+> [!tip]- Lupa: abordagem substantiva × combinada — quando o teste de detalhes é obrigatório?
+> **A ideia em uma frase:** testar o controle é sempre uma **escolha estratégica** do auditor, nunca uma obrigação isolada — mas se o risco for **significativo** e o auditor optar por não confiar nos controles, a norma fecha a porta do "só analítico": exige teste de detalhes.
+> **O erro clássico:** a banca troca, no risco significativo, "deve incluir testes de detalhes" por "deve incluir apenas procedimentos analíticos"; ou afirma que a abordagem combinada é **sempre** obrigatória (não é — é opção do auditor, pesando custo-benefício e confiança nos controles); ou esquece que o item 18 exige procedimentos substantivos **mesmo** quando os controles são efetivos.
+
+> [!info]- Ponte
+> - [[P1 - Auditoria#- Materialidade, Relevância e Risco em Auditoria Independente;|Materialidade, Relevância e Risco]] — é ali (NBC TA 315) que um risco é classificado como "significativo"; aqui, vemos o efeito prático dessa classificação.
+> - [[P1 - Auditoria#- Evidência em Auditoria;|Evidência em Auditoria]] — os testes e procedimentos acima são o **meio**; a evidência apropriada e suficiente (NBC TA 500) é o **fim**.
+
 
 ## - Evidência em Auditoria;
 - [ ] status [dom:: 0] [peso:: 2]
@@ -310,6 +336,31 @@ A NBC TA 560(R1) trata da responsabilidade do auditor independente em relação 
     - **Compatibilizar** as necessidades dos usuários do SPED.
     - **Estabelecer** a política de segurança e de acesso às informações armazenadas no SPED.
 
+#### 1.1 Conceitos de SPED e seus Módulos
+- [ ] status [dom:: 0] [peso:: 2]
+
+- O SPED **não é uma obrigação única**: é um **ecossistema** de escriturações e documentos fiscais eletrônicos que compartilham a mesma infraestrutura de recepção, validação, armazenamento e autenticação criada pelo Decreto 6.022/2007 acima.
+
+**Principais módulos** (fonte: Portal SPED — Receita Federal):
+
+| Módulo | Sigla | O que escritura |
+| --- | --- | --- |
+| Escrituração Contábil Digital | **ECD** | Livro Diário, Livro Razão e auxiliares, Balancetes/Balanços — substitui os livros contábeis em papel |
+| Escrituração Contábil Fiscal | **ECF** | Apuração do IRPJ e da CSLL; substituiu a antiga DIPJ |
+| Escrituração Fiscal Digital do ICMS/IPI | **EFD-ICMS/IPI** | Livros fiscais de ICMS e IPI (entradas, saídas, apuração, inventário, CIAP, produção e estoque) |
+| EFD-Contribuições | — | Apuração do PIS/PASEP e da COFINS |
+| EFD-Reinf | — | Retenções na fonte e outras informações fiscais não previstas no eSocial |
+| Nota Fiscal Eletrônica | **NF-e** (modelo 55) | Documenta operações com mercadorias, com validade jurídica garantida por assinatura digital e autorização de uso |
+| Conhecimento de Transporte Eletrônico | **CT-e** | Documenta a prestação de serviço de transporte |
+| Manifesto Eletrônico de Documentos Fiscais | **MDF-e** | Vincula os documentos fiscais transportados em um mesmo veículo |
+| Nota Fiscal de Consumidor Eletrônica | **NFC-e** (modelo 65) | Substitui o cupom fiscal no varejo |
+
+> [!info]- Ponte
+> - O Decreto 6.022/2007, logo acima, é a **norma-mãe**: cria o SPED como sistema único; cada módulo desta tabela tem sua **própria norma regulamentadora** (Convênios/Ajustes SINIEF, Instruções Normativas da RFB).
+> - **ECD e ECF** são detalhados em [[P1 - Auditoria#4. ECD e ECF (outros módulos do SPED)|ECD e ECF]], adiante nesta nota.
+> - **EFD-ICMS/IPI** é detalhada no Ajuste SINIEF 02/2009 e no Guia Prático, logo abaixo; a **NF-e**, no Ajuste SINIEF 07/2005.
+> - Estes são os módulos "estaduais/federais" cobrados também em Legislação Tributária Estadual, mas o conteúdo mora aqui — ver [[MOC - Legislação Tributária Estadual]].
+
 ### 2. AJUSTE SINIEF Nº 02/2009 — EFD
 - [x] status [dom:: 1] [peso:: 2] ✅ 2026-09-15
 
@@ -385,7 +436,7 @@ As alíneas b a f do inciso I valem para os industriais de empresa com faturamen
 
 > [!info]- Ponte
 > - Os conceitos de **estabelecimento industrial** e **faturamento** estão logo acima, nesta nota, e o Bloco K os usa como régua.
-> - [[2026-09-04 S4 Auditoria]] e [[2026-09-06 Legislação Tributária Estadual]] têm erro em "Registros da EFD-ICMS/IPI". Este Ajuste só cita os **Registros K200 e K280** (e o **Bloco H**) no escalonamento; o layout dos registros não está neste PDF.
+> - [[2026-09-04 S4 Auditoria]] e [[2026-09-06 Legislação Tributária Estadual]] têm erro em "Registros da EFD-ICMS/IPI". Este Ajuste só cita os **Registros K200 e K280** (e o **Bloco H**) no escalonamento; o layout completo dos blocos e registros está logo abaixo, em [[P1 - Auditoria#2.1 Guia Prático da EFD-ICMS/IPI — Estrutura de Blocos e Registros|Guia Prático da EFD-ICMS/IPI]].
 - O **arquivo digital da EFD** será gerado pelo **contribuinte** de acordo com as especificações do leiaute definido em **Ato COTEPE** e conterá a **totalidade** das **informações econômico-fiscais e contábeis** correspondentes ao período compreendido entre o **1º e o último dia do mês**.
     
     💡 **Totalidade das informações:**
@@ -494,6 +545,35 @@ As alíneas b a f do inciso I valem para os industriais de empresa com faturamen
 > - Mesma regra em duas normas: o Decreto diz que o SPED **não dispensa a guarda** dos livros e documentos; a cl. 7ª, parágrafo único, diz o mesmo da EFD.
 > - [[P2 - Legislação Tributária Estadual (BA)#Escrituração fiscal digital, SPED e arquivos eletrônicos]]: o heading de LTE está vazio (`dom 0`); o conteúdo da EFD mora aqui em Auditoria, como indica o MOC.
 
+#### 2.1 Guia Prático da EFD-ICMS/IPI — Estrutura de Blocos e Registros
+- [ ] status [dom:: 0] [peso:: 2]
+
+- O **Guia Prático da EFD-ICMS/IPI** é o ato infralegal (aprovado por **Ato COTEPE**, na forma da cl. 8ª do Ajuste SINIEF 02/2009 acima) que detalha o **leiaute** do arquivo digital: a divisão em **blocos**, cada um com registro de **abertura**, registros de **dados** e registro de **encerramento**.
+
+**Os 10 blocos do arquivo** (entre o registro **0000** de abertura e o **9999** de encerramento):
+
+| Bloco | Conteúdo |
+| --- | --- |
+| **0** | Abertura, identificação do declarante e **tabelas de referência** (ex.: cadastro de produtos, clientes, fornecedores) |
+| **B** | Escrituração e apuração do **ISS** — uso restrito às UFs com competência sobre ISS na EFD (ex.: Distrito Federal) |
+| **C** | Documentos fiscais **I — mercadorias** (ICMS/IPI): notas fiscais de entrada e saída — bloco mais volumoso (registros **C100/C170**: cabeçalho e itens da NF-e) |
+| **D** | Documentos fiscais **II — serviços** de transporte e comunicação sujeitos ao ICMS |
+| **E** | **Apuração** do ICMS e do IPI: débitos, créditos e saldo apurado no período (registro **E110**: apuração do ICMS) |
+| **G** | Controle do Crédito de ICMS do **Ativo Permanente — CIAP** |
+| **H** | **Inventário físico** de estoque (registro **H010**: itens do inventário) |
+| **K** | Controle da **Produção e do Estoque** — ver escalonamento do Bloco K acima (registros **K200/K280**: saldos de estoque) |
+| **1** | Outras informações (ajustes de apuração, informações complementares por UF) |
+| **9** | Controle e **encerramento** do arquivo: totalização dos registros de cada bloco |
+
+> [!tip]- Lupa: como não confundir os blocos
+> **A ideia em uma frase:** os blocos seguem o fluxo do negócio — **entra mercadoria (C)**, **presta serviço (D)**, **apura o imposto (E)**, **controla crédito de ativo (G)**, **confere estoque (H)**, **controla produção (K)** — com o **0** abrindo e o **9** fechando o arquivo.
+> **O erro clássico:** a banca troca o conteúdo do Bloco **G** (CIAP, crédito de ativo permanente) pelo do Bloco **K** (produção e estoque); ou diz que o Bloco **H** (inventário) é obrigatório mensalmente — em regra é **anual**, na data do inventário.
+
+> [!info]- Ponte
+> - O escalonamento do **Bloco K** por faturamento e CNAE já está detalhado acima, no Ajuste SINIEF 02/2009.
+> - Os Registros **K200 e K280** (saldos de estoque) e o **Bloco H** citados no escalonamento correspondem, respectivamente, aos blocos **K** e **H** desta tabela.
+> - [[P1 - Auditoria#1.1 Conceitos de SPED e seus Módulos|Conceitos de SPED e seus Módulos]] — a EFD-ICMS/IPI é um dos módulos do SPED; este Guia Prático é o detalhamento técnico dela.
+
 ### 3. AJUSTE SINIEF Nº 07/2005 — NF-e
 - [ ] status [dom:: 0] [peso:: 2]
 
@@ -568,9 +648,30 @@ As alíneas b a f do inciso I valem para os industriais de empresa com faturamen
 
 - **ECD — Escrituração Contábil Digital:** parte integrante do projeto SPED, tem por objetivo a substituição da escrituração em papel pela escrituração transmitida via arquivo — corresponde à obrigação de transmitir, em versão digital: I - Livro Diário e seus auxiliares, se houver; II - Livro Razão e seus auxiliares, se houver; III - Livro Balancetes Diários, Balanços e fichas de lançamento comprobatórias dos assentamentos neles transcritos. (Fonte: [SPED — Perguntas Frequentes](http://sped.rfb.gov.br/pagina/show/499))
 
+**Base legal atual: IN RFB nº 2.003/2021** (revogou as instruções normativas anteriores sobre a ECD):
+
+- **Obrigadas** (art. 3º): pessoas jurídicas, **inclusive as equiparadas** e as **entidades imunes e isentas**, obrigadas a manter escrituração contábil nos termos da legislação comercial.
+- **Dispensadas** (art. 3º, § 1º):
+    - Optantes pelo **Simples Nacional**.
+    - **Órgãos públicos.**
+    - Pessoas jurídicas **inativas**.
+    - Entidades **imunes/isentas** com receita total anual inferior a **R$ 4.800.000,00**.
+    - **Lucro presumido** com escrituração contábil simplificada (Livro Caixa), nas condições da lei.
+    - **Itaipu Binacional.**
+- **Prazo** (art. 5º, redação da IN RFB 2.142/2023): até o **último dia útil do mês de junho** do ano subsequente ao ano-calendário.
+- **Efeitos jurídicos** (arts. 6º e 9º): o **recibo de entrega da ECD** emitido pelo SPED **dispensa** a autenticação dos livros contábeis por outros órgãos (Junta Comercial, Registro Civil de Pessoas Jurídicas etc.); a escrituração digital **supre** a exigência de escrituração em papel.
+
+> [!tip]- Lupa: a dispensa da ECD pode virar exigência em outro regime
+> **A ideia em uma frase:** o Simples Nacional dispensa a ECD, mas a **falta de ECD** (ou de Livro Caixa regular) é, ela mesma, hipótese de **exclusão de ofício** do Simples quando a ME/EPP recebeu aporte de capital — a dispensa de um regime vira exigência no outro.
+> **Ponte:** ver a tabela de hipóteses de exclusão de ofício em [[P2 - Direito Tributário#Simples Nacional;|Direito Tributário › Simples Nacional]] (condutas do inciso IV: "falta de ECD com aporte de capital, ou de Livro Caixa").
+
 - **ECF — Escrituração Contábil Fiscal:** Art. 1º A ECF será apresentada, a partir do ano-calendário de 2014, por todas as pessoas jurídicas, inclusive as equiparadas, de forma centralizada pela matriz.
     - § 1º A obrigatoriedade **não se aplica**: II - aos órgãos públicos, às autarquias e às **fundações públicas**.
     - ⚠️ Diferente da EFD (ICMS/IPI, item 2 acima), a ECD/ECF são módulos do SPED **contábil/fiscal federal**, não estadual.
+
+> [!info]- Ponte
+> - [[P1 - Auditoria#1.1 Conceitos de SPED e seus Módulos|Conceitos de SPED e seus Módulos]] — tabela com todos os módulos do SPED, incluindo ECD e ECF.
+> - [[P1 - Auditoria#1. DECRETO Nº 6.022/2007]] — a regra de que o SPED "não dispensa a guarda" dos livros e documentos vale também para a ECD.
 
 ## - Perícia Contábil;
 - [ ] status [dom:: 0] [peso:: 2]
