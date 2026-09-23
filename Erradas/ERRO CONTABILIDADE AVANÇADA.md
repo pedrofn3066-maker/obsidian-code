@@ -108,7 +108,7 @@ Um quinto processo, considerado remoto no ano anterior, foi condenado em última
 > > 1. **Juros compostos**, 3 meses (30/09 a 31/12/2013), taxa 1% a.m.: Montante = 200.000 × (1,01)<span class="g-num">³</span> = **206.060,20**.
 > > 2. **Correção pelo índice de preços**, <span class="g-num">3%</span>, sobre o montante já com juros: 206.060,20 × 1,03 = **212.242,01**.
 >
-> > [!example]-] 🧩 Quadro — por que a A e a D erram
+> > [!example]- 🧩 Quadro — por que a A e a D erram
 > > | Alt. | O que fez | Erro |
 > > | --- | --- | --- |
 > > | **A — 206.000,00** | 200.000 × (1 + 3 × 1%) | usou **juros simples** (foi o seu erro) em vez de compostos, e nem aplicou a correção |
@@ -148,7 +148,7 @@ Um quinto processo, considerado remoto no ano anterior, foi condenado em última
 > >
 > > O custo de transação **não aparece de novo** em nenhum cálculo posterior: ele já fez seu efeito ao reduzir o VCL, que é o saldo que cresce mês a mês pelos encargos até chegar ao valor de resgate no vencimento.
 >
-> > [!example]-] 🧩 Quadro — lançamento na obtenção do empréstimo (01/12/2017)
+> > [!example]- 🧩 Quadro — lançamento na obtenção do empréstimo (01/12/2017)
 > > **Método líquido** (o que o cofre usa em Empréstimos — registra direto pelo VCL):
 > > ```
 > > D Caixa                         10.000.000
