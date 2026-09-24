@@ -15,5 +15,7 @@ Dúvidas respondidas, por matéria:
 - [[ERRO AUDITORIA#💭 Dúvidas respondidas|Auditoria]]
 - [[ERRO CONTABILIDADE AVANÇADA#💭 Dúvidas respondidas|Contabilidade Avançada]]
 - [[ERRO DIREITO CONSTITUCIONAL#💭 Dúvidas respondidas|Direito Constitucional]]
+- [[ERRO CASP#💭 Dúvidas respondidas|CASP]]
+- [[ERRO DIREITO FINANCEIRO#💭 Dúvidas respondidas|Direito Financeiro]]
 
 ## Dúvida

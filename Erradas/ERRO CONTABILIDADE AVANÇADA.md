@@ -90,6 +90,8 @@ Um quinto processo, considerado remoto no ano anterior, foi condenado em última
 
 *(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
 
+### 22/09
+
 > [!question]- 22/09 20:00 · Contabilidade Avançada · FCC (SEFAZ PI 2015) — Passivo com juros compostos + correção por índice de preços
 > TEC #256477. Em 30/09/2013, uma empresa obteve um empréstimo no valor de R$ 200.000,00 que será liquidado integralmente (principal e juros) em 30/09/2016. A taxa de juros compostos contratada foi 1% ao mês e o saldo do empréstimo é corrigido por um índice de preços que variou 3% entre a data da obtenção do empréstimo e a data de 31/12/2013. Considere que os meses são de 30 dias corridos.
 >

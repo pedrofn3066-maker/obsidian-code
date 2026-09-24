@@ -76,6 +76,8 @@ _[...]_
 
 *(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
 
+### 22/09
+
 > [!question]- 22/09 22:07 · Direito Constitucional · IBAM (Procurador, Pref Praia Grande 2024) — Competência concorrente: o que NÃO é (art. 24)
 > TEC #3178028. Indique, dentre as alternativas abaixo, aquela que contempla matéria que NÃO é de competência legislativa concorrente da União, Estados e Distrito Federal.
 >

@@ -66,6 +66,8 @@ Art. 12. § 1º  Considera-se <mark style="background:#fff88f">erro grosseiro</
 
 *(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
 
+### 21/09
+
 > [!question]- 21/09 19:10 · Direito Administrativo (LGPD) · CEBRASPE — Controlador × operador e responsabilidade
 > #4144825 CEBRASPE (CESPE) - 2026 - Assistente em Arrecadação (Pref Porto Velho)
 > Uma grande rede de comércio varejista (controladora) contratou uma empresa especializada em tecnologia da informação (operadora) para realizar o processamento e o armazenamento do banco de dados de seus clientes. Sem o conhecimento da rede varejista, a empresa de tecnologia descumpriu as diretrizes de segurança combinadas e efetuou o tratamento dos dados em total desconformidade com as instruções lícitas fornecidas e com as normas legais, o que resultou no vazamento de informações sensíveis e causou danos morais e materiais aos consumidores. Em razão do incidente, um grupo de clientes ingressou com uma ação judicial de reparação de danos.

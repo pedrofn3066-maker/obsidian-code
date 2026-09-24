@@ -3571,7 +3571,7 @@ O **Direito Processual Tributário** compreende o conjunto de normas que regulam
 
 🎯 **Objetivo principal**: garantir a satisfação do crédito tributário definitivamente constituído e não pago pelo sujeito passivo.
 
-- #dominio/baixo 
+- #dominio/baixo [cad:: 3d] [prox:: 2026-09-26]
 ## 1. Introdução à Execução Fiscal
 
 ### 1.1. Constituição Definitiva do Crédito Tributário

@@ -93,6 +93,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 
 *(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
 
+### 20/09
+
 > [!question]- 20/09 15:51 · Direito Tributário · IBAM (ISS Guarulhos) — Certidão positiva com efeitos de negativa
 > Assertiva: A existência de crédito tributário formalizado e vencido impede, em qualquer hipótese, a expedição de certidão positiva com efeitos de negativa enquanto não houver pagamento integral do débito.
 >
@@ -236,6 +238,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > **Atenção à vigência:** a LC 208/2024 passou o inciso II para "protesto judicial **ou extrajudicial**". Em prova de 2023 vale a redação antiga (só judicial), por isso a "B" fechava; hoje o extrajudicial também interrompe. Ver `MATERIAS/P2 - Direito Tributário.md:1132`.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1144-1149`, `:929` · (sem fonte confirmada) a parte do STJ e a redação vigente do inciso II, por falta de acesso ao Planalto.
+
+### 21/09
 
 > [!question]- 21/09 09:23 · Direito Tributário · (banca não informada) — Súmula STJ 614: legitimidade ativa do locatário
 > Alternativa avaliada como **errada**: o locatário teria legitimidade ativa para postular a declaração de inexistência de relação jurídica tributária ou a repetição de indébito do IPTU, da Taxa de Conservação e Limpeza Pública e da Taxa de Iluminação Pública do imóvel alugado.
@@ -485,6 +489,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > Reforço: a **SV 41** proíbe remunerar iluminação pública por **taxa**. O art. 149-A, após a EC 132, também cobre sistemas de monitoramento para segurança e preservação de logradouros públicos, e a cobrança pode vir na fatura de energia. Pegadinha: alternativa que chama a COSIP de taxa ou de imposto.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:190` e `:252` (COSIP) · cofre `MATERIAS/P2 - Reforma Tributária.md:240` (art. 149-A) · cofre `wiki/concepts/Sumulas Vinculantes - Direito Tributario.md:42` (SV 41). O RE 573.675 vem do comentário do professor, sem trecho no cofre (conferir em stf.jus.br).
+
+### 22/09
 
 > [!question]- 22/09 13:45 · Direito Tributário · VUNESP (Pref. Aparecida-SP 2024) — Taxas: efetivo, potencial, específico e divisível
 > TEC #3210119. No que se refere às taxas pela utilização de serviços públicos, é correto afirmar que tais serviços, a fim de legitimarem a cobrança do tributo, são considerados

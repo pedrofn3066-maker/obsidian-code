@@ -71,6 +71,8 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 
 *(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
 
+### 22/09
+
 > [!question]- 22/09 13:22 · Auditoria · FCC (SEFAZ GO 2026) — Evidência de auditoria: cumulativa, fontes diferentes, adequação
 > TEC #3975968. A evidência em auditoria compreende as informações utilizadas pelo auditor para chegar às conclusões em que se fundamentam a sua opinião. Com base nas Normas Brasileiras de Contabilidade (NBC TA), considere as afirmações a seguir:
 >

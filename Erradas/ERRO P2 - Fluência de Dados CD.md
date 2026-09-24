@@ -63,6 +63,8 @@ II. ~~Disponibilidade e acesso~~ (Reuso e redistribuição): os dados precisam
 
 *(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
 
+### 21/09
+
 > [!question]- 21/09 22:12 · Fluência de Dados (Ferramentas de BI e Visualização de Dados) · FCC (Auditor Fiscal Tributário, Pref J Guararapes) — Ferramenta de BI para análise em tempo real
 > #3116008 FCC - 2024 - Auditor Fiscal Tributário (Pref J Guararapes)
 > Uma prefeitura, que possui grandes volumes de dados provenientes de várias fontes, busca otimizar a gestão de dados relacionados a serviços públicos, como saúde, educação e transporte. Para realizar análises em tempo real desses dados provenientes de várias fontes essa prefeitura deve usar a ferramenta de Business Intelligence (BI)

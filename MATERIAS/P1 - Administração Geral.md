@@ -60,7 +60,7 @@ resumo de administrador
 - Habilidades <mark style="background:rgba(255, 183, 139, 0.55)">Conceituais</mark>: Pensamento estratégico e visão organizacional (nível estratégico).
 <mark style="background:rgba(255, 183, 139, 0.55)">Administradores que desejam liderar suas organizações de maneira eficaz e estratégica devem investir prioritariamente em programas que os qualifiquem profissionalmente para o desenvolvimento de habilidades</mark>
 
-- #revisar/7dias 
+- #revisar/7dias [cad:: 7d] [prox:: 2026-09-30]
 **6. Papéis do Administrador (Mintzberg)**
 - Papéis Interpessoais: Representação, liderança e criação de alianças.
 - Papéis Informacionais: Coletar, disseminar e representar informações externamente.

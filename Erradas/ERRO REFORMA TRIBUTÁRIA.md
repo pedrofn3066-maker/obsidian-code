@@ -12,8 +12,8 @@ tags:
 
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
-- 
-- 
+- **Padrão comportamental, não de conteúdo:** no caderno C01 RETRI (23/09/2026), 5 dos 6 erros de "Estrutura Organizacional do CGIBS" foram marcar Errado em item que era cópia literal do art. 27/29/32/41 (competência de órgão) — desconfiança da extensão/detalhe do item, não falta de conteúdo. Item longo e específico sobre competência costuma ser literal, não pegadinha.
+- Da Estrutura Organizacional do CGIBS (arts. 7º a 39 da LC nº 227/2026) — 6/7 erros do caderno C01 RETRI (23/09/2026) vieram daqui.
 
 ---
 
@@ -62,6 +62,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 ## 💭 Dúvidas respondidas
 
 *(Dúvidas tiradas com `/tirar-duvida`, com a questão e o apontamento. Uma por callout, a mais nova no fim.)*
+
+### 21/09
 
 > [!question]- 21/09 08:33 · Reforma Tributária · SEFAZ CE 2026 (Inéditas Literais) — Fornecimento não oneroso a empregados
 > Julgue o item a seguir com base na Lei Complementar nº 214/2025.
@@ -459,3 +461,153 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > **Macete:** decisão do Presidente do CGIBS é a última palavra, sem porta de recurso.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+
+### 15/09
+
+> [!question]- 15/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #3876770) — Requisitos do representante municipal no Conselho Superior (art. 9º)
+> Julgue o item que segue conforme a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Sabendo que os membros do Conselho Superior do CGIBS serão escolhidos entre cidadãos de reputação ilibada e de notório conhecimento em administração tributária, julgue o item abaixo.
+>
+> A representação dos Municípios e do Distrito Federal será exercida por membro que, no momento da indicação, mantenha vínculo de subordinação hierárquica com a esfera federativa que o indicou e que tenha experiência de, no mínimo, 5 (cinco) anos em cargo efetivo de autoridade fiscal integrante da administração tributária do Município ou do Distrito Federal.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: o prazo é 10 anos, não 5
+> > O item pegou 1 dos <mark style="background:#fff88f">3 critérios alternativos</mark> do art. 9º, II e trocou o número: o prazo de experiência em cargo efetivo de autoridade fiscal é de <span class="g-num">10 anos</span>, não 5. Os 3 critérios (não cumulativos, basta 1) são: Secretário/cargo similar; ou 10 anos em cargo efetivo; ou <span class="g-num">4 anos</span> em direção/chefia/assessoramento superior.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca de número no requisito de experiência — 5 por 10 anos — isolando 1 dos 3 critérios alternativos como se fosse o único.
+>
+> > [!quote]- 📜 Texto literal — art. 9º, II, "a" a "c"
+> > "a) ocupar o cargo de Secretário de Fazenda, Finanças, Tributação ou cargo similar que corresponda à autoridade máxima da administração tributária do Município ou do Distrito Federal; (...) b) ter experiência de, no mínimo, 10 (dez) anos em cargo efetivo de autoridade fiscal integrante da administração tributária do Município ou do Distrito Federal; (...) c) ter experiência de, no mínimo, 4 (quatro) anos como ocupante de cargos de direção, de chefia ou de assessoramento superiores na administração tributária do Município ou do Distrito Federal."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Conselho Superior do CGIBS: composição e eleições (arts. 8º e 9º)]] — "10 anos" já estava grifado nessa nota.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1489`
+
+> [!question]- 15/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #3924725) — Competência da Diretoria Executiva sobre a legislação do IBS (art. 27, I)
+> Julgue o item que segue conforme a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Compete à Diretoria Executiva, conforme disposto no regimento interno, planejar, gerir e supervisionar a execução das atividades relativas à elaboração e à divulgação da legislação tributária relativa ao IBS, especialmente no que concerne ao regulamento único do IBS e aos atos normativos editados conjuntamente com o Poder Executivo federal e com os seus órgãos.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 27, I
+> > <mark style="background:#fff88f">Planejar/gerir/supervisionar a elaboração e divulgação da legislação do IBS, inclusive o regulamento único</mark>, é competência literal da Diretoria Executiva (art. 27, I). Não teve troca de palavra — o erro foi desconfiar de um item longo e específico como se fosse pegadinha.
+>
+> > [!quote]- 📜 Texto literal — art. 27, I
+> > "I - planejar, gerir e supervisionar a execução das atividades relativas à elaboração e à divulgação da legislação tributária relativa ao IBS, especialmente no que concerne ao regulamento único do IBS e aos atos normativos editados conjuntamente com o Poder Executivo federal e com os seus órgãos;"
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Diretoria Executiva do CGIBS: competências (art. 27)]]
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1622`
+
+> [!question]- 15/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #3929562) — Competência da Diretoria Executiva sobre orçamento do CGIBS (art. 27, XIX)
+> Julgue o item que segue conforme a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Compete à Diretoria Executiva, conforme disposto no regimento interno, coordenar as atividades relacionadas à elaboração, para fins de aprovação pelo Conselho Superior do CGIBS, dos demonstrativos periódicos de resultados gerenciais do Comitê; da proposta orçamentária deste, obedecidos os parâmetros estabelecidos nesta Lei Complementar; e também da proposta de fixação do percentual da arrecadação do IBS destinado à manutenção do CGIBS.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 27, XIX
+> > Mesmo padrão da questão anterior: <mark style="background:#fff88f">coordenar a elaboração dos demonstrativos de resultados, da proposta orçamentária e do percentual de manutenção do CGIBS</mark> é competência literal da Diretoria Executiva (art. 27, XIX), para aprovação do Conselho Superior.
+>
+> > [!quote]- 📜 Texto literal — art. 27, XIX
+> > "XIX - coordenar as atividades relacionadas à elaboração, para fins de aprovação pelo Conselho Superior do CGIBS: a) dos demonstrativos periódicos de resultados gerenciais do CGIBS; b) da proposta orçamentária do CGIBS, obedecidos os parâmetros estabelecidos nesta Lei Complementar; e c) da proposta de fixação do percentual da arrecadação do IBS destinado à manutenção do CGIBS;"
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Diretoria Executiva do CGIBS: competências (art. 27)]]
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1622`
+
+> [!question]- 15/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #3929564) — Interlocução com RFB/PGFN: Diretoria Executiva, não Assessoria (art. 27, XXIII)
+> Julgue o item que segue conforme a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Compete à Assessoria de Relações Institucionais e Interfederativas, conforme disposto no regimento interno, promover a interlocução com as administrações tributárias e as Procuradorias dos Estados, do Distrito Federal e dos Municípios, com a RFB e com a PGFN.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: essa competência é da Diretoria Executiva
+> > <mark style="background:#fff88f">Promover a interlocução com administrações tributárias, Procuradorias, RFB e PGFN</mark> é competência da **Diretoria Executiva** (art. 27, XXIII), não da Assessoria de Relações Institucionais e Interfederativas — apesar do nome desta sugerir o contrário.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca do órgão responsável: atribui à Assessoria de Relações Institucionais uma competência que é da Diretoria Executiva. O cofre já tinha essa pegadinha documentada antes desta questão.
+>
+> > [!quote]- 📜 Texto literal — art. 27, XXIII
+> > "promover a interlocução com as administrações tributárias e as Procuradorias dos Estados, do Distrito Federal e dos Municípios, com a RFB e com a PGFN;"
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Diretoria Executiva do CGIBS: competências (art. 27)]] — pegadinha já grifada nessa nota, com ponte pro art. 20 (Assessoria).
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1624`
+
+> [!question]- 15/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #3929567) — Incumbências do Diretor-Executivo (art. 29, I e II)
+> Julgue o item que segue conforme a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Incumbe ao Diretor-Executivo tanto convocar e presidir as reuniões da Diretoria Executiva quanto planejar, gerir, supervisionar e coordenar as atividades a serem executadas pelas diretorias técnicas e administrativas, cabendo-lhe, inclusive dirimir eventuais conflitos de competência entre elas.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: soma literal dos incisos I e II do art. 29
+> > O item junta dois incisos do art. 29 num só período — <mark style="background:#fff88f">convocar/presidir reuniões (I) **e** coordenar as diretorias técnicas, dirimindo conflitos (II)</mark> — mas ambos são do Diretor-Executivo, então a soma é literal, não invenção.
+>
+> > [!quote]- 📜 Texto literal — art. 29, I e II
+> > "I - convocar e presidir as reuniões da Diretoria Executiva; II - planejar, gerir, supervisionar e coordenar as atividades a serem executadas pelas diretorias técnicas e administrativas, inclusive dirimir eventuais conflitos de competência entre elas;"
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Diretoria Executiva do CGIBS: estrutura e Diretor-Executivo (arts. 25, 26, 28 e 29)]]
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1610`
+
+> [!question]- 15/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #3945655) — Diretoria de Arrecadação e Cobrança: modalidades de cobrança (art. 32, V)
+> Julgue o item que segue conforme a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Compete à Diretoria de Arrecadação e Cobrança coordenar as atividades de cobrança, abrangendo as diversas modalidades de pagamento, parcelamento, protesto, arrolamento administrativo de bens, inscrição em cadastro de inadimplentes e de proteção ao crédito e tratamento de devedores contumazes.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 32, V
+> > A lista de modalidades (pagamento, parcelamento, protesto, arrolamento, cadastro de inadimplentes, devedores contumazes) é <mark style="background:#fff88f">cópia literal do art. 32, V</mark> — competência da Diretoria de Arrecadação e Cobrança. Cuidado: essa Diretoria só cuida da cobrança **administrativa**; a cobrança **judicial** é da Diretoria de Procuradorias (art. 38, II) — mas essa questão não testou essa distinção.
+>
+> > [!quote]- 📜 Texto literal — art. 32, V
+> > "V - coordenar as atividades de cobrança, abrangendo as diversas modalidades de pagamento, parcelamento, protesto, arrolamento administrativo de bens, inscrição em cadastro de inadimplentes e de proteção ao crédito e tratamento de devedores contumazes;"
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#As diretorias do CGIBS (arts. 30 a 39)]] — a nota já tem a pegadinha administrativa × judicial documentada, útil pra próxima vez.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1644`, `:1653`
+
+> [!question]- 15/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #3950387) — Relatório Resumido da Execução Orçamentária: demonstrativo de receitas (art. 41, II, "a")
+> Julgue o item que segue conforme a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Faz parte do relatório resumido da execução orçamentária do CGIBS o demonstrativo da execução das receitas, por categoria econômica e fonte, especificando a previsão inicial, a previsão atualizada para o exercício, a receita realizada no bimestre, a receita realizada no exercício e a previsão da receita a realizar.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 41, II, "a"
+> > Os 5 valores do demonstrativo de receitas (<span class="g-num">previsão inicial, previsão atualizada, realizada no bimestre, realizada no exercício, a realizar</span>) são <mark style="background:#fff88f">cópia literal do art. 41, II, "a"</mark> do RREO (Relatório Resumido da Execução Orçamentária).
+>
+> > [!quote]- 📜 Texto literal — art. 41, II, "a"
+> > "demonstrativos da execução das: a) receitas, por categoria econômica e fonte, especificando a previsão inicial, a previsão atualizada para o exercício, a receita realizada no bimestre, a receita realizada no exercício e a previsão da receita a realizar;"
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Execução orçamentária e gestão fiscal do CGIBS (art. 42 e correlatos)]]
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1686`, `:1694-1695`
