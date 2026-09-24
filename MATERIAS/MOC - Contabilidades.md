@@ -110,7 +110,7 @@ Levantados em 2026-09-10. Este mapa é curado, não calculado — confira antes 
 
 - **Checklist duplicado:** os mesmos 26 tópicos vivem em duas notas. Atualizar um `dom` em uma não atualiza a outra. Decidir qual é a fonte única.
 - **`P1 - Contabilidade Geral` virou roteador**, não casca — mas ainda **carrega o checklist duplicado** de 26 tópicos. Atualizar um `dom` lá não atualiza o da Avançada. A fonte única deveria ser a Avançada.
-- **Análise das demonstrações não tem fonte alguma** — nem no vault, nem no guia VINTEUM de Contabilidade. É o único tópico da P1 sem lastro; falta um material de Análise de Balanços.
+- ~~**Análise das demonstrações não tem fonte alguma**~~ — preenchido em 2026-09-24 com fórmulas buscadas na internet (Estratégia Concursos + finanças corporativas), já que nem o vault nem o guia VINTEUM cobriam o tema. Ver [[P1 - Contabilidade Geral#Análise das demonstrações|P1 — Análise das demonstrações]]; ainda sem validação contra exercício, então `dom` continua 0.
 - **CPC 25, DRE, as reservas, DVA, DMPL e DFC foram preenchidos em 2026-09-10.** Todos os 26 tópicos do checklist compartilhado têm conteúdo na Avançada.
 - **CASP inteiro preenchido em 2026-09-10** — os 12 tópicos do checklist têm conteúdo, com quatro fontes trazidas especificamente para isso (ver seção CASP acima).
 - **Um arquivo, duas disciplinas:** [[P2 - Contabilidade Avançada e de Custos]] tem 1432 linhas e duas tabelas VINTEUM. Dividir facilitaria navegação e faria os painéis medirem Avançada e Custos separadamente — hoje ambas caem no mesmo `bloco`.

@@ -2088,7 +2088,7 @@ Na condicionada, o ativo **não monetário** deve ser reconhecido pelo **valor j
 
 **Custo de transformação** (produção própria): custos diretos (mão de obra de chão de fábrica e matéria-prima) mais custos indiretos, variáveis e fixos. Os fixos são alocados pela **capacidade normal** — produção média ao longo de vários períodos, já considerando paradas programadas e férias coletivas.
 
-⚠️ **Pegadinha do volume anormal:** o custo fixo por unidade **não** pode subir por baixo volume ou ociosidade — o excedente vira **despesa**, não custo do estoque. Em volume anormalmente **alto**, o custo fixo unitário deve **diminuir**. Exemplo do guia: produção normal 100 un a $1,00/un; produzindo 20 un, mantém-se $1,00/un e os $80 restantes viram despesa; produzindo 200 un, cai para $0,50/un.
+⚠️ **Pegadinha do volume anormal:** <mark style="background:#fff88f">o custo fixo por unidade **não** pode subir por baixo volume ou ociosidade — o excedente vira **despesa**, não custo do estoque</mark>. Em volume anormalmente **alto**, o custo fixo unitário deve **diminuir**. Exemplo do guia: produção normal 100 un a $1,00/un; produzindo 20 un, mantém-se $1,00/un e os $80 restantes viram despesa; produzindo 200 un, cai para $0,50/un.
 
 Outro formato de cobrança: quando a capacidade ociosa é dada em percentual de um custo fixo (ex.: 50% do aluguel da fábrica correspondendo a capacidade ociosa), essa parcela ociosa vai a resultado como despesa, e só o restante (os outros 50%) é ativado ao custo do estoque.
 
@@ -2464,7 +2464,7 @@ Os R$ 18.000,00 são distribuídos só entre o que está em amarelo. Os R$ 1.600
 ### Alavancagem Operacional (GAO)
 - [ ] status [dom:: 0] [peso:: 3]
 
-O **Grau de Alavancagem Operacional (GAO)** mede o efeito de um aumento no volume de vendas sobre o lucro do período.
+O **Grau de Alavancagem Operacional (GAO)** mede o efeito de um aumento no volume de vendas sobre o lucro do período. Contraparte: a Alavancagem Financeira (GAF), em [[P1 - Contabilidade Geral#Análise das demonstrações|P1 — Análise das demonstrações]].
 
 Fórmulas alternativas:
 - GAO = 1 + (Custos Fixos / Lucro)

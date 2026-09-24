@@ -199,10 +199,106 @@ O CPC 25, as reservas, DVA, DMPL e agora a DFC foram preenchidos em 2026-09-10. 
 
 Nível P1: índices de liquidez, endividamento, rentabilidade e atividade; análise vertical e horizontal.
 
-> [!warning] Lacuna de lastro — nenhuma fonte no vault
-> **Não existe conteúdo de análise de balanços em lugar nenhum**, e o guia VINTEUM de Contabilidade Geral e Avançada **não cobre o tema** — só o cita como uma das quatro técnicas contábeis, e dá duas peças soltas: *Capital Circulante Líquido = AC − PC* e a classificação de Disponibilidades como *liquidez imediata*.
->
-> É o único tópico da P1 sem nenhuma fonte. Precisa vir do TEC ou de um guia de Análise de Balanços — não está no material baixado. Enquanto isso, `dom` aqui não deve passar de 0.
+> [!note]- Fronteira do que veio da captura
+> Este bloco não vem do TEC nem do guia VINTEUM — nenhum dos dois cobre o tema (o VINTEUM só cita a técnica de relance e dá duas peças soltas: *CCL = AC − PC* e Disponibilidades como *liquidez imediata*). Conteúdo buscado na internet (Estratégia Concursos + fontes de finanças corporativas) em 2026-09-24 e organizado no formato do vault. Confira as fórmulas contra um exercício/gabarito antes de fixar como verdade — `dom` aqui deve continuar 0 até isso acontecer.
+
+**As três técnicas:** Análise Horizontal (evolução da mesma conta no tempo), Análise Vertical (estrutura entre contas diferentes no mesmo período) e Análise por Índices (liquidez, endividamento, rentabilidade, atividade).
+
+### Análise Vertical e Horizontal
+
+| | Compara | Fórmula |
+| --- | --- | --- |
+| **Vertical** (estrutura) | contas diferentes, mesmo período | Conta / Total do grupo (Ativo, Passivo ou Receita) × 100 |
+| **Horizontal** (evolução) | mesma conta, períodos diferentes | (Valor do período atual − Valor do período-base) / Valor do período-base × 100 |
+
+⚠️ Pegadinha clássica: trocar as duas — Vertical é **foto** de uma conta contra o todo; Horizontal é **filme** da mesma conta ao longo do tempo.
+
+### Índices de Liquidez
+
+Medem a capacidade de pagamento. AC = Ativo Circulante, PC = Passivo Circulante, ANC = Ativo Não Circulante (parcela realizável a longo prazo), PNC = Passivo Não Circulante.
+
+| Índice | Fórmula | Leitura |
+| --- | --- | --- |
+| Liquidez Corrente (LC) | AC / PC | quanto de AC para cada R$1 de dívida de curto prazo |
+| Liquidez Seca (LS) | (AC − Estoques) / PC | igual à LC, mas sem depender de vender estoque |
+| Liquidez Imediata (LI) | Disponibilidades / PC | só caixa e equivalentes cobrem a dívida de curto prazo |
+| Liquidez Geral (LG) | (AC + Realizável a Longo Prazo) / (PC + PNC) | inclui curto **e** longo prazo — o mais cauteloso |
+
+Em todos: quanto maior, melhor (acima de 1 é considerado sadio) — exceto a Liquidez Imediata, que costuma ser baixa mesmo em empresa saudável, por não ser eficiente manter caixa parado.
+
+### Índices de Endividamento (Estrutura de Capital)
+
+Medem de onde vem o capital (próprio × terceiros) e o perfil da dívida.
+
+| Índice | Fórmula | Leitura |
+| --- | --- | --- |
+| Participação de Capital de Terceiros (PCT) | (PC + PNC) / PL | quanto de capital de terceiros para cada R$1 de capital próprio — quanto menor, melhor |
+| Composição do Endividamento (CE) | PC / (PC + PNC) | fatia da dívida total que vence no curto prazo — quanto menor, melhor (dívida mais alongada) |
+| Imobilização do Patrimônio Líquido (IPL) | (Investimentos + Imobilizado + Intangível) / PL | quanto do capital próprio está aplicado no ativo permanente — quanto menor, melhor (sobra PL para financiar o giro) |
+| Imobilização de Recursos Não Correntes (IRNC) | (Investimentos + Imobilizado + Intangível) / (PL + PNC) | idem, mas contra todo o capital de longo prazo (próprio + terceiros) — quanto menor, melhor |
+
+⚠️ Pegadinha de banca (CEBRASPE cobra a fórmula literal): o numerador da IPL e da IRNC é só o **ativo permanente** (Investimentos + Imobilizado + Intangível) — **não** o ANC inteiro. O Realizável a Longo Prazo (ANC ≠ ativo permanente) fica de fora, porque é um direito/crédito de longo prazo, não uma aplicação fixa de capital. Se IPL > 1, o PL não cobre nem o ativo permanente — parte dele foi financiada com capital de terceiros, e o CCL tende a ficar negativo (ver adiante).
+
+### Índices de Rentabilidade e Lucratividade (margens)
+
+Rentabilidade relaciona o lucro a uma base de **investimento** (Ativo ou PL); Lucratividade (margens) relaciona o lucro à **receita**.
+
+| Índice | Fórmula | Leitura |
+| --- | --- | --- |
+| Giro do Ativo | Receita Líquida / Ativo Total | quantas vezes o Ativo "girou" em vendas no período |
+| Rentabilidade do Ativo (ROA) | Lucro Líquido / Ativo Total | retorno sobre tudo que a empresa possui |
+| Rentabilidade do PL (ROE) | Lucro Líquido / Patrimônio Líquido | retorno sobre o capital do sócio — o mais olhado pelo investidor |
+| Margem Bruta | Lucro Bruto / Receita Líquida | quanto sobra da venda só depois do CMV/CPV |
+| Margem Operacional | Lucro Operacional (EBIT) / Receita Líquida | quanto sobra depois das despesas operacionais, antes de juros e impostos |
+| Margem Líquida | Lucro Líquido / Receita Líquida | quanto sobra no fim, depois de tudo |
+
+Em todos: quanto maior, melhor.
+
+### Índices de Atividade (Prazos Médios / Rotatividade)
+
+Medem, em **dias**, cada etapa do ciclo operacional. Convenção usual: ano comercial de 360 dias.
+
+| Índice | Fórmula | Leitura |
+| --- | --- | --- |
+| PMRE (Prazo Médio de Rotação de Estoques) | Estoque médio × 360 / CMV | dias até o estoque virar venda |
+| PMRV (Prazo Médio de Recebimento de Vendas) | Contas a Receber × 360 / Vendas | dias até receber do cliente |
+| PMPC (Prazo Médio de Pagamento de Compras) | Fornecedores × 360 / Compras (ou CMV) | dias que a empresa leva para pagar o fornecedor |
+
+PMRE e PMRV: quanto menor, melhor (gira mais rápido). PMPC: quanto maior, melhor (a empresa se financia com o fornecedor) — mas exagerar aqui pode sinalizar dificuldade de pagar em dia, não só eficiência.
+
+### Ciclo Operacional e Ciclo Financeiro
+
+- **Ciclo Operacional (CO)** = PMRE + PMRV → da entrada da mercadoria no estoque até o recebimento da venda.
+- **Ciclo Financeiro (Ciclo de Caixa)** = Ciclo Operacional − PMPC = PMRE + PMRV − PMPC → tempo que a empresa precisa financiar com recursos próprios, não coberto pelo fornecedor.
+
+⚠️ Ciclo Financeiro maior = mais dias sem cobertura do fornecedor = mais Necessidade de Capital de Giro.
+
+### Capital de Giro e Necessidade de Capital de Giro (NCG)
+
+- **Capital Circulante Líquido (CCL)** = AC − PC (a peça que já estava registrada no vault). CCL negativo = parte do Ativo Não Circulante financiada com dívida de curto prazo.
+- **Necessidade de Capital de Giro (NCG)**, também chamada Investimento Operacional em Giro (IOG): NCG = Ativo Circulante Operacional (ACO) − Passivo Circulante Operacional (PCO). Só entram contas **operacionais/cíclicas** (estoques, clientes, fornecedores) — caixa, aplicações financeiras e empréstimos de curto prazo ficam de fora, por serem financeiros/erráticos, não operacionais.
+- Pela ótica do ciclo: a NCG cresce quando o Ciclo Financeiro se alonga (estoque parado, cliente demorando a pagar, fornecedor cobrando rápido).
+
+📌 Trio clássico de prova: **CCL** (visão contábil, todo o AC/PC) × **NCG** (visão operacional, só o cíclico) × **Saldo de Tesouraria (ST)** = CCL − NCG (folga ou aperto financeiro de curto prazo, olhando só a parte não operacional).
+
+### EBITDA (LAJIDA)
+
+**EBITDA** (Earnings Before Interest, Taxes, Depreciation and Amortization) = **LAJIDA** (Lucro Antes de Juros, Impostos, Depreciação e Amortização).
+
+EBITDA = Lucro Operacional (EBIT/LAJIR) + Depreciação + Amortização (+ Exaustão)
+
+Mede a geração de caixa operacional "bruta", isolada de decisões de financiamento (juros), tributação e de contas que não envolvem desembolso (depreciação/amortização). Margem EBITDA = EBITDA / Receita Líquida.
+
+⚠️ EBITDA não é fluxo de caixa: ignora variações no capital de giro (estoque, recebíveis) e investimentos em ativo fixo (CAPEX) — só neutraliza D&A, juros e impostos.
+
+### Alavancagem Operacional × Alavancagem Financeira
+
+| | O que mede | Fórmula |
+| --- | --- | --- |
+| **Alavancagem Operacional (GAO)** | efeito de Δ vendas sobre o lucro operacional, via custos fixos | GAO = 1 + (Custos Fixos / Lucro) — desenvolvido em [[P2 - Contabilidade Avançada e de Custos#- Alavancagem Operacional (GAO)\|Avançada — Bloco C]] |
+| **Alavancagem Financeira (GAF)** | efeito do capital de terceiros sobre o retorno do sócio | GAF = ROE / ROA (equivalente: LAJIR / LAIR) |
+
+GAF > 1: a dívida trabalha a favor do acionista (o retorno sobre o Ativo supera o custo da dívida, e o excedente potencializa o ROE) → alavancagem financeira favorável. GAF < 1: desfavorável (o custo da dívida corrói o retorno do sócio). GAF = 1: neutra.
 
 
 ## Noções de contabilidade aplicada ao setor público (CASP) — cobertura preventiva

@@ -17,5 +17,11 @@ Dúvidas respondidas, por matéria:
 - [[ERRO DIREITO CONSTITUCIONAL#💭 Dúvidas respondidas|Direito Constitucional]]
 - [[ERRO CASP#💭 Dúvidas respondidas|CASP]]
 - [[ERRO DIREITO FINANCEIRO#💭 Dúvidas respondidas|Direito Financeiro]]
+- [[ERRO CONTABILIDADE GERAL#💭 Dúvidas respondidas|Contabilidade Geral]]
 
 ## Dúvida
+- 24 de set. de 2026, 15:23 — nao sei porque mas em direito tributario sempre me enrolo para saber se a substituicao tributária é regressiva ou progressiva
+- 24 de set. de 2026, 15:37 — - reler responsabilidade tributária de fundos de comércios 
+
+
+
