@@ -73,11 +73,33 @@ Em síntese, a Atividade Financeira do Estado consiste em:
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1455?indice=1&materia=6054)
 
+<mark>Normas gerais de direito financeiro</mark> são normas de caráter **nacional** — aplicáveis simultaneamente à União, Estados, DF e Municípios —, cuja edição a CF/88 reserva à **lei complementar** (art. 163, I). Como essa LC específica nunca foi editada, a **Lei nº 4.320/1964** segue **recepcionada com status de lei complementar** nessa parte, preenchendo a lacuna até hoje (entendimento pacífico na doutrina e na jurisprudência do STF).
+
+**Não confundir dois fundamentos constitucionais distintos:**
+- **Art. 24, I, CF** — competência **legislativa concorrente** da União, Estados e DF para legislar sobre direito financeiro em geral (a União edita normas gerais comuns; os Estados exercem competência suplementar, e competência plena na omissão da União — art. 24, §§ 1º a 4º).
+- **Art. 163, I, CF** — reserva específica de **lei complementar federal** para as normas gerais de finanças públicas (hoje suprida pela Lei 4.320/64 quanto ao orçamento/contabilidade e pela LC 101/2000 — LRF — quanto à responsabilidade fiscal).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Dos orçamentos na CF 88 (Art. 163 ao Art. 169 da CF 88)]]: detalhamento do art. 163, caput e incisos, e de como Lei 4.320 + LRF hoje compõem essa "LC das finanças públicas".
 
 ### Funções de Governo
 - [ ] status [dom:: 3.5] [peso:: 2]
 
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/389?indice=1&materia=6054)
+
+<mark>Função</mark> e <mark>subfunção</mark> são o nível mais agregado da **classificação funcional da despesa** — uma das classificações orçamentárias (ao lado da institucional, da econômica e por programas), que responde "**em que área** o governo está gastando", independentemente de qual órgão executa o gasto.
+
+- **Função**: nível mais agregado, vinculado à área de atuação do governo (ex.: Saúde = 10, Educação = 12, Segurança Pública = 06).
+- **Subfunção**: nível de agregação imediatamente inferior à função, identifica a natureza específica da atuação (ex.: "Atenção Básica" dentro da função Saúde).
+
+**Regramento (Portaria nº 42/1999, do então Ministério do Orçamento e Gestão):** unificou, a partir do exercício de 2000, o rol de funções e subfunções para todos os entes da Federação.
+- O rol de **funções é taxativo/fechado** — nenhum ente pode criar função nova.
+- Já as **subfunções podem ser criadas livremente** pelo ente, conforme sua necessidade, inclusive combinando uma subfunção com uma função diferente daquela a que originalmente pertence (a chamada **subfunção "cruzada"**).
+
+⚠️ **Pegadinha:** função/subfunção **não se confundem com programa**. Função e subfunção são classificação padronizada nacionalmente (fins estatísticos e de comparação entre entes); **programa** é de livre escolha de cada ente, definido no seu próprio PPA. Um mesmo órgão pode ter despesas em várias funções, e uma mesma função pode ser executada por vários órgãos diferentes.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Percentual de cobrança (VINTEUM Fiscal 4.0)]]: "Classificação da Despesa" no topo da tabela de incidência inclui esta classificação funcional junto com a institucional, econômica e por programas.
 
 ## Orçamento Público
 
@@ -85,21 +107,65 @@ Em síntese, a Atividade Financeira do Estado consiste em:
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1457?indice=1&materia=4226)
 
+**Conceito:** orçamento público é o documento legal que contém a **previsão das receitas** e a **fixação (autorização) das despesas** de um ente público para um exercício financeiro, refletindo o programa de trabalho do governo para o período.
 
+**Natureza jurídica mista** — o orçamento reúne, ao mesmo tempo:
+- **Aspecto jurídico**: é uma lei, com processo legislativo próprio (arts. 165-166, CF);
+- **Aspecto político**: reflete escolhas e prioridades, fruto da negociação entre Executivo e Legislativo (emendas parlamentares);
+- **Aspecto econômico**: instrumento de política fiscal (funções alocativa, distributiva e estabilizadora);
+- **Aspecto técnico/contábil**: documento de registro, execução e controle financeiro-contábil.
+
+**No Brasil, a LOA é lei ordinária**, de **iniciativa privativa do Poder Executivo** (art. 165, *caput*, c/c art. 61, § 1º, II, "b", CF), mas de **efeitos concretos**: não inova a ordem jurídica em abstrato como uma lei geral, e sim autoriza um gasto específico e determinado.
+
+**Orçamento autorizativo x impositivo:** regra geral, o orçamento brasileiro é **autorizativo** — a LOA autoriza, mas não obriga, o Executivo a realizar a despesa nela prevista. Exceções que tornam a execução **obrigatória**: despesas legalmente obrigatórias (pessoal, serviço da dívida) e as **emendas parlamentares individuais impositivas** (EC 86/2015 e EC 100/2019).
+
+> [!tip]- Lupa: por que a LOA pode ser controlada por ADI mesmo sendo "concreta"
+> **A ideia em uma frase:** durante muito tempo a jurisprudência (antiga Súmula 399/STF) tratava a lei orçamentária como mero **ato de efeitos concretos**, não impugnável em controle abstrato por lhe faltar generalidade/abstração. O STF superou essa posição nas **ADI 4048 e ADI 4049 (2008)**, ao julgar créditos extraordinários abertos por MP sem urgência/imprevisibilidade reais: admitiu-se o controle concentrado de normas orçamentárias específicas, justamente porque mesmo uma lei "concreta" pode violar diretamente a Constituição (ali, o próprio art. 167, § 3º).
+> **O erro clássico:** achar que lei orçamentária nunca pode ser objeto de ADI — pode, desde a mudança de entendimento do STF em 2008.
 
 ### Classificações do Orçamento Público
 
 #### Tipos de Orçamento Público (Executivo, Legislativo, Misto)
 - [ ] status [dom:: 3] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/3169?indice=1&materia=4226)
-    
+
+Classificação segundo **quem elabora e quem aprova** o orçamento:
+
+| Tipo | Elaboração | Aprovação | Observação |
+| --- | --- | --- | --- |
+| **Legislativo** | Poder Legislativo | Poder Legislativo | sem participação do Executivo na elaboração |
+| **Executivo** | Poder Executivo | Poder Executivo (ou aprovação dispensada) | típico de regimes não democráticos, sem controle efetivo do Legislativo |
+| **Misto** | Poder Executivo (iniciativa privativa) | Poder Legislativo (discute, emenda e aprova) | modelo adotado pelo **Brasil** (art. 165 c/c art. 84, XXIII, CF) |
+
+⚠️ **Pegadinha:** mesmo no tipo misto, a **iniciativa é sempre exclusiva do Executivo** — o Legislativo participa da fase de discussão/emenda/aprovação, mas não pode dar início ao processo (não pode apresentar projeto de PPA, LDO ou LOA).
+
 #### Aspectos/Dimensões do Orçamento Público (Jurídico, Político, Social, etc)
 - [ ] status [dom:: 2] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/3171?indice=1&materia=4226)
-    
+
+O orçamento público pode ser analisado sob múltiplos ângulos simultâneos:
+
+- **Jurídico**: é uma lei, com rito legislativo próprio e efeitos concretos (ver heading "Conceito e Natureza Jurídica" acima).
+- **Político**: espelha as prioridades do governo e a correlação de forças entre Executivo e Legislativo — é o campo por excelência das emendas parlamentares.
+- **Econômico**: instrumento de intervenção do Estado na economia — cumpre as funções alocativa (distribuição de recursos entre bens públicos), distributiva (redução de desigualdades) e estabilizadora (política fiscal anticíclica), na clássica tripartição de Musgrave.
+- **Social**: instrumento de atendimento a demandas da sociedade e de redistribuição de renda via gasto público (saúde, educação, assistência).
+- **Técnico/administrativo (ou contábil)**: instrumento de planejamento, execução e controle da gestão, com classificações e técnicas padronizadas (função, natureza da despesa, programas).
+
 #### Técnicas/Espécies Orçamentárias (Orçamento Programa, Tradicional, Participativo, Base Zero, etc)
 - [ ] status [dom:: 3.5] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1454?indice=1&materia=4226)
+
+- **Orçamento Tradicional (clássico)**: técnica mais antiga; foco nos **meios/objetos de gasto** (o que se compra — pessoal, material), sem vínculo com objetivos ou metas de governo; elaboração tipicamente **incremental**, partindo do valor do exercício anterior.
+- **Orçamento de Desempenho (*performance budget*)**: evolução do tradicional, com foco nas **realizações** (produtos e serviços entregues), buscando eficiência — mas ainda sem integração formal com um planejamento de médio/longo prazo.
+- **Orçamento-Programa**: técnica **oficialmente adotada no Brasil** (Decreto-Lei nº 200/1967, art. 16, e Lei nº 4.320/1964) — integra planejamento e orçamento por meio de uma estrutura programática (função, subfunção, **programa**, ação) vinculada a objetivos e metas. É a técnica vigente hoje, materializada no trinômio PPA/LDO/LOA.
+- **Orçamento Base Zero (OBZ)**: cada despesa deve ser **justificada do zero** a cada exercício, sem tomar como piso automático o valor já gasto no exercício anterior — contrapõe-se à lógica incremental do orçamento tradicional.
+- **Orçamento Participativo**: técnica em que a **população participa diretamente** das decisões de alocação de recursos, por audiências e consultas públicas — reforçado no plano legal pelo art. 48, parágrafo único, da LRF (incentivo à participação popular na elaboração e discussão do PPA, da LDO e da LOA).
+
+> [!tip]- Lupa: não confundir "participativo" (técnica) com "transparência" (princípio/instrumento de controle)
+> **A ideia em uma frase:** orçamento participativo é uma **técnica de elaboração** (a sociedade ajuda a decidir prioridades antes de o orçamento ser votado); os mecanismos de transparência da LRF (audiências públicas do art. 48-A, divulgação em tempo real) são **instrumentos de controle e publicidade** durante e depois da execução — coisas parecidas, mas de momentos e finalidades diferentes.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Lei orçamentárias (LDO, PPA e LOA)]]: o PPA é exatamente onde a técnica de orçamento-programa se materializa em programas, objetivos e metas.
 
 
 
@@ -305,10 +371,75 @@ CF/88, Art. 165 §7º — <mark style="background:#fff88f">os orçamentos fiscal
 
 ## - Ciclo orçamentário
 - [ ] status [dom:: 3] [peso:: 2]
+
+> [!tip]- Lupa: as 4 fases e por que elas se sobrepõem
+> **A ideia em uma frase:** o ciclo orçamentário é a sequência de etapas pelas quais passa o orçamento, do planejamento ao controle — mas, na prática, **vários ciclos correm ao mesmo tempo**: enquanto se **executa** o orçamento do ano corrente, já se **elabora** o do ano seguinte e ainda se **controla/avalia** o do ano anterior. Não é uma linha reta que termina em dezembro; é um processo contínuo e superposto.
+>
+> 1. **Elaboração (ou proposta):** o Executivo redige os projetos de lei do PPA, da LDO e da LOA — iniciativa **exclusiva** do Poder Executivo (art. 165, caput, CF), o Legislativo não pode dar início a esses projetos.
+> 2. **Discussão, emenda, votação e aprovação (fase legislativa):** os projetos vão à Comissão mista permanente de Senadores e Deputados (art. 166, § 1º), que emite parecer, recebe emendas (compatíveis com PPA/LDO e com indicação de recursos por anulação de despesa — art. 166, § 3º) e submete ao Plenário das duas Casas.
+> 3. **Execução:** depois de sancionada a LOA, o Executivo programa a liberação de recursos (cronograma de desembolso, contingenciamento se a receita vier abaixo do previsto), empenha, liquida e paga a despesa (Lei 4.320, arts. 58 a 65) — é aqui que entram os créditos adicionais quando a LOA se revela insuficiente ou mal distribuída.
+> 4. **Controle e avaliação:** concomitante às demais fases (não é só o "último passo") — controle **interno**, de cada Poder (art. 74, CF), e **externo**, pelo Congresso com auxílio do TCU (art. 71, CF); ao final, a avaliação de resultados retroalimenta o PPA seguinte.
+> **O erro clássico:** tratar o ciclo como um processo **linear e fechado dentro do exercício** — a fiscalização de um exercício segue ocorrendo depois que ele termina (o TCU aprecia as contas do Presidente em até 60 dias, já no ano seguinte), e o planejamento do próximo já começa antes de o atual acabar.
+
+**Nomenclatura alternativa (cobrada por sinônimo):** parte da doutrina chama as mesmas 4 fases de **elaboração → aprovação → execução → controle**; outra parte desdobra a execução em **programação financeira** + **execução propriamente dita**, chegando a 5 fases. Não há um número "oficial" na CF ou na Lei 4.320 — o examinador costuma testar se você reconhece a mesma fase sob nomes diferentes, não a contagem exata.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Lei orçamentárias (LDO, PPA e LOA)]]: a fase de elaboração, com PPA/LDO/LOA detalhados artigo por artigo.
+> - [[P1 - Direito Financeiro#- Créditos Adicionais]]: o principal instrumento de ajuste da fase de execução, quando a LOA aprovada não é suficiente ou está mal alocada.
+> - [[P1 - Direito Financeiro#- Programação e descentralização orçamentária e financeira]]: o detalhamento operacional da fase de execução (cronograma de desembolso, cotas, descentralização de créditos).
+> - [[P1 - Direito Constitucional#Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75 da CF/1988)]]: a fase de controle, pelo ângulo constitucional (TCU e controle interno).
+
 ## - Vedações orçamentárias na CF 88
 - [ ] status [dom:: 2] [peso:: 2]
+
+> [!quote]- Texto literal: art. 167, caput, incisos I a IX (Planalto)
+> Art. 167. São vedados: I - o início de programas ou projetos não incluídos na lei orçamentária anual; II - a realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais; III - a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta; IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para atividades da administração tributária (arts. 198, § 2º, 212 e 37, XXII), e a prestação de garantias às operações de crédito por antecipação de receita (art. 165, § 8º); V - a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes; VI - a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra ou de um órgão para outro, sem prévia autorização legislativa; VII - a concessão ou utilização de créditos ilimitados; VIII - a utilização, sem autorização legislativa específica, de recursos dos orçamentos fiscal e da seguridade social para suprir necessidade ou cobrir déficit de empresas, fundações e fundos; IX - a instituição de fundos de qualquer natureza, sem prévia autorização legislativa.
+
+> [!tip]- Lupa: os dois incisos que a banca mais cobra — regra de ouro (III) e não afetação de imposto (IV)
+> **A ideia em uma frase:** o art. 167 é uma lista de doze vedações (I a XIV, com os incisos X a XIV incluídos depois por emenda), mas duas concentram quase toda a cobrança.
+> - **Inciso III — "regra de ouro":** o volume de **operações de crédito** contratadas no ano não pode superar o volume de **despesas de capital** — trava contra endividar-se para financiar despesa corrente (folha, custeio). Exceção: crédito suplementar/especial com finalidade precisa, aprovado por **maioria absoluta** do Legislativo.
+> - **Inciso IV — não afetação de imposto:** imposto nasce **não vinculado** (art. 16, CTN); vinculá-lo a fundo/despesa específica violaria essa lógica. Exceções **taxativas**: repartição constitucional (arts. 158 e 159), saúde (art. 198, § 2º), educação (art. 212), administração tributária (art. 37, XXII) e garantia de operação por antecipação de receita — ARO (art. 165, § 8º). ⚠️ A vedação é só de **imposto** — taxa, contribuição e empréstimo compulsório já nascem vinculados, então a regra não os alcança.
+> **Demais incisos, em bloco (para prova de eliminação):** sem dotação = sem despesa (I e II); crédito adicional sem autorização legislativa nem indicação de recursos = vedado (V); remanejar verba entre categorias/órgãos sem autorização legislativa = vedado, salvo ciência/tecnologia/inovação por ato do Executivo (VI, com a ressalva do § 5º); crédito **ilimitado** nunca existe no orçamento público (VII); cobrir rombo de estatal/fundo sem autorização específica = vedado (VIII); criar fundo sem lei autorizativa = vedado (IX).
+
+**§ 1º — investimento plurianual:** nenhum investimento que ultrapasse um exercício financeiro pode começar sem estar no PPA (ou sem lei que o inclua), sob pena de **crime de responsabilidade** — é o mesmo dispositivo já citado no heading do PPA acima, agora do lado das vedações.
+**§ 3º — crédito extraordinário:** só para despesas **imprevisíveis e urgentes** (guerra, comoção interna, calamidade pública) — é a hipótese que dispensa até a prévia autorização legislativa (via medida provisória, art. 62).
+**§ 4º — vinculação permitida:** por exceção à própria regra do IV, é permitida a vinculação das receitas de ICMS/ISS/IBS/FPE/FPM (arts. 155, 156, 156-A, 157, 158 e certas alíneas do 159) para **garantia ou contragarantia à União** e pagamento de débitos com ela — é o instrumento que sustenta as operações de crédito dos entes subnacionais garantidas pela União.
+
+> [!quote]- Texto literal: art. 167-A, caput (Planalto — Incluído pela EC nº 109/2021)
+> Art. 167-A. Apurado que, no período de 12 (doze) meses, a relação entre despesas correntes e receitas correntes supera 95% (noventa e cinco por cento), no âmbito dos Estados, do Distrito Federal e dos Municípios, é facultado aos Poderes Executivo, Legislativo e Judiciário, ao Ministério Público, ao Tribunal de Contas e à Defensoria Pública do ente, enquanto permanecer a situação, aplicar o mecanismo de ajuste fiscal de vedação de reajustes de remuneração, criação de cargo, admissão de pessoal, concurso público, criação de despesa obrigatória e concessão de benefício tributário, entre outras medidas.
+
+**"Gatilho" fiscal (art. 167-A, EC 109/2021):** quando a relação despesa corrente/receita corrente passa de **95%** por 12 meses, o ente pode acionar um pacote de vedações (congelamento de reajustes, concursos, novos cargos, novos benefícios tributários); a **85%**, o Chefe do Executivo já pode antecipar essas medidas por ato próprio (§ 1º), sujeito a ratificação em regime de urgência pelo Legislativo (§ 2º).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] e [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: onde a regra de ouro e a não afetação de receita ganham números concretos (limites de dívida consolidada, operações de crédito, ARO) pela LRF.
+> - [[P1 - Direito Constitucional#Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75 da CF/1988)]] e o heading espelho [[P1 - Direito Constitucional#Sistema Tributário Nacional (arts. 145 a 162 da CF/1988)]]: o mesmo art. 167 e a mesma lógica de não afetação de imposto, do lado do Direito Constitucional — com o texto literal completo e a tabela de exceções.
+
 ## - Dos orçamentos na CF 88 (Art. 163 ao Art. 169 da CF 88)
 - [ ] status [dom:: 2] [peso:: 2]
+
+*Os arts. 165 e 166 (PPA/LDO/LOA e o processo legislativo orçamentário, com emendas) já estão detalhados nos headings "Lei orçamentárias (LDO, PPA e LOA)" e "Emendas" acima; o art. 167 (vedações) está no heading anterior. Este bloco fecha o que falta: arts. 163, 164, 164-A, 168 e 169.*
+
+> [!quote]- Texto literal: art. 163, caput e incisos (Planalto)
+> Art. 163. Lei complementar disporá sobre: I - finanças públicas; II - dívida pública externa e interna, incluída a das autarquias, fundações e demais entidades controladas pelo Poder Público; III - concessão de garantias pelas entidades públicas; IV - emissão e resgate de títulos da dívida pública; V - fiscalização financeira da administração pública direta e indireta; VI - operações de câmbio realizadas por órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios; VII - compatibilização das funções das instituições oficiais de crédito da União; VIII - sustentabilidade da dívida (Incluído pela EC nº 109/2021); IX - condições e limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária (Incluído pela EC nº 135/2024).
+
+**A "LC das finanças públicas" hoje** é a soma da **Lei 4.320/1964** (normas gerais de direito financeiro, art. 163, I) com a **LRF** (dívida, garantias, sustentabilidade fiscal — incisos II a VIII). O inciso IX é o mais novo (EC 135/2024): renúncia de receita federal nova passa a depender de condições fixadas nessa LC.
+
+> [!quote]- Texto literal: art. 164, caput e §§ 1º a 3º (Planalto)
+> Art. 164. A competência da União para emitir moeda será exercida exclusivamente pelo banco central. § 1º É vedado ao banco central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira. § 2º O banco central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros. § 3º As disponibilidades de caixa da União serão depositadas no banco central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei.
+> Art. 164-A. A União, os Estados, o Distrito Federal e os Municípios devem conduzir suas políticas fiscais de forma a manter a dívida pública em níveis sustentáveis, na forma da lei complementar referida no inciso VIII do art. 163. (Incluído pela EC nº 109/2021)
+
+> [!tip]- Lupa: por que o BC não pode financiar o Tesouro
+> **A ideia em uma frase:** o § 1º é a trava contra financiar gasto público "imprimindo dinheiro" — o Banco Central **não pode** emprestar ao Tesouro nem a qualquer órgão que não seja instituição financeira. O que ele **pode** é comprar/vender títulos **já emitidos** em operações de mercado aberto (§ 2º), para regular moeda/juros — isso é política monetária, não financiamento do governo.
+> **Caixa único (§ 3º):** a caixa da **União** vai para o Banco Central; a de **Estados/DF/Municípios** (e suas estatais controladas) vai para **instituições financeiras oficiais** — não é escolha livre de banco.
+
+**Duodécimos (art. 168):** as dotações destinadas a Legislativo, Judiciário, MP e Defensoria são entregues em parcelas mensais (1/12) até o **dia 20** de cada mês — garantia de autonomia financeira desses órgãos frente ao Executivo. Vedada a transferência desses repasses a fundos; saldo não usado volta ao caixa único ou é abatido do duodécimo seguinte.
+
+**Despesa com pessoal (art. 169):** limites fixados pela **LRF** — 50% da RCL para a União e 60% para Estados/DF/Municípios, subdivididos por Poder. Sequência de ajuste se o limite for excedido: **(1)** corte de ao menos 20% em cargos comissionados/funções de confiança e exoneração dos não estáveis; **(2)** só se isso não bastar, perda do cargo do servidor **estável**, com indenização de um mês de remuneração por ano de serviço e vedação de recriar o cargo extinto por **4 anos**.
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#- Finanças Públicas (arts. 163 a 169)]]: mesmos artigos com o texto literal completo, incluindo os §§ do art. 165 (PPA/LDO/LOA) e o restante do art. 167 (vedações), pelo filtro do Direito Constitucional.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: onde os limites concretos de dívida e de despesa com pessoal do art. 169 ganham os percentuais e prazos da LRF.
+> - [[P1 - Direito Constitucional#Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75 da CF/1988)]]: quem fiscaliza o cumprimento de tudo isso (TCU e controle interno).
 
 # Bloco C:
 
@@ -1170,12 +1301,73 @@ Repartição do limite global (art. 20), em % da RCL:
 
 ## - Manual de demonstrativos fiscais
 - [ ] status [dom:: 2] [peso:: 2]
+
+O <mark>Manual de Demonstrativos Fiscais (MDF)</mark> é publicação da **Secretaria do Tesouro Nacional (STN)** que padroniza, para todos os entes da Federação, os **modelos, prazos, conceitos e forma de elaboração** dos demonstrativos exigidos pela LRF: o **Relatório Resumido da Execução Orçamentária (RREO)** (arts. 52-53, LRF) e o **Relatório de Gestão Fiscal (RGF)** (arts. 54-55, LRF).
+
+**Função:** uniformizar a linguagem contábil-fiscal entre União, Estados, DF e Municípios, permitindo **comparabilidade** e **consolidação nacional** das contas públicas — condição necessária para o controle social e para os órgãos de controle interno e externo.
+
+**Correlação:** complementa o **MCASP (Manual de Contabilidade Aplicada ao Setor Público)**, também editado pela STN — o MCASP trata da parte estritamente contábil (plano de contas, procedimentos, PCASP), enquanto o MDF foca especificamente nos demonstrativos fiscais exigidos pela LRF.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: onde RREO e RGF (periodicidade, conteúdo, prazos e sanção por atraso) estão detalhados artigo por artigo.
+
 ## - SIAFI, Conta única, Lei 10.180
 - [ ] status [dom:: 1] [peso:: 2]
+
+**SIAFI (Sistema Integrado de Administração Financeira do Governo Federal):** sistema informatizado que processa e controla, em tempo real, a execução orçamentária, financeira, contábil e patrimonial da **União**, sob gestão da STN. É a principal fonte de dados para a geração dos demonstrativos fiscais e contábeis federais (inclusive os do RREO/RGF e do MDF acima).
+
+**Conta Única do Tesouro Nacional:** decorre do princípio da **unidade de caixa**, previsto no art. 164, § 3º, CF — os recursos financeiros da **União** são centralizados numa conta mantida no **Banco Central**, sendo vedado, como regra, manter disponibilidades fora dela (ressalvados casos previstos em lei). Objetivo: reduzir o custo de captação do Tesouro e permitir gestão de caixa mais eficiente, evitando a pulverização de recursos em múltiplas contas. Para os demais entes (Estados/DF/Municípios e suas estatais controladas), a Constituição manda depositar as disponibilidades em **instituições financeiras oficiais**.
+
+**Lei nº 10.180/2001:** organiza e disciplina os sistemas federais de:
+1. **Planejamento e Orçamento Federal** — órgão central: **SOF** (Secretaria de Orçamento Federal);
+2. **Administração Financeira Federal** — órgão central: **STN** (Secretaria do Tesouro Nacional);
+3. **Contabilidade Federal** — órgão central: também a **STN**;
+4. **Controle Interno do Poder Executivo Federal** — órgão central: **CGU** (Controladoria-Geral da União).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Dos orçamentos na CF 88 (Art. 163 ao Art. 169 da CF 88)]]: o art. 164, §3º, CF (caixa único) já aparece ali detalhado ao lado dos demais parágrafos do art. 164.
+
 ## - Outros aspectos da lei 4.320
 - [ ] status [dom:: 1] [peso:: 2]
+
+Fecha o que ainda não foi coberto do **Título VIII — Da Contabilidade** (arts. 83 a 106) da Lei nº 4.320/1964, já que Receita, Despesa, Créditos Adicionais, Fundos e Restos a Pagar estão detalhados em headings próprios acima.
+
+**Sistema de contas (art. 85):** a escrituração contábil deve evidenciar, de forma sintética, quatro grandes grupos:
+- **Orçamentário** — receita e despesa orçamentária;
+- **Financeiro** — ingressos e dispêndios extraorçamentários;
+- **Patrimonial** — bens, direitos e obrigações;
+- **Compensação** — atos que não afetam de imediato o patrimônio (garantias, direitos e obrigações contratuais etc.).
+
+**Os quatro balanços exigidos (art. 101):**
+| Balanço | Artigo | Conteúdo |
+| --- | --- | --- |
+| **Orçamentário** | art. 102 | confronta receita prevista × arrecadada e despesa fixada × realizada |
+| **Financeiro** | art. 103 | ingressos e dispêndios orçamentários e extraorçamentários, evidenciando os Restos a Pagar |
+| **Patrimonial** | art. 105 | ativo, passivo, saldo patrimonial e contas de compensação |
+| **Demonstração das Variações Patrimoniais** | art. 104 | variações do patrimônio decorrentes da execução orçamentária e de fatos não orçamentários, e o resultado patrimonial do exercício |
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Restos a pagar]]: o Restos a Pagar aparece no Balanço Financeiro (art. 103) como o elo entre a despesa empenhada e o que efetivamente já foi pago.
+
 ## - Programação e descentralização orçamentária e financeira
 - [ ] status [dom:: 1] [peso:: 2]
+
+**Programação financeira:** instrumento de execução orçamentária pelo qual o Executivo estabelece o **cronograma de desembolso mensal** e as **metas bimestrais de arrecadação** (arts. 8º e 13, LRF), compatibilizando o ritmo de liberação de recursos com o comportamento real da receita. É esse descompasso entre receita prevista e realizada que fundamenta o **contingenciamento** — a limitação de empenho e de movimentação financeira do art. 9º, LRF.
+
+**Descentralização de créditos orçamentários:** mecanismo pelo qual a execução de um crédito é repassada a unidade gestora diferente daquela a que foi originalmente consignado, **sem alterar sua classificação orçamentária**. No âmbito federal (Decreto nº 825/1993), distinguem-se:
+- **Provisão** — descentralização **interna**, entre unidades gestoras do **mesmo órgão** ou da mesma estrutura administrativa.
+- **Destaque** — descentralização **externa**, entre órgãos de estruturas administrativas **diferentes** (inclusive entre Poderes ou entre entes, quando prevista em lei/convênio).
+
+Em ambos os casos, quem **recebe** o crédito passa a poder empenhar e executar a despesa, mas o crédito continua **classificado no orçamento do órgão de origem**.
+
+O recurso **financeiro** que acompanha o crédito descentralizado segue a mesma lógica interna/externa, mas com nome próprio: na **provisão** (interna), o repasse financeiro chama-se **sub-repasse**; no **destaque** (externo), chama-se **repasse**.
+
+⚠️ **Pegadinha:** "descentralização interna, externa" é a terminologia literal do Decreto nº 825/1993 (art. 2º); **"provisão" e "destaque"** são a nomenclatura consagrada no SIAFI e cobrada em prova como sinônimos — não confundir "provisão" aqui (descentralização de crédito) com "provisão contábil" (reconhecimento de obrigação futura provável, no regime de competência patrimonial).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Ciclo orçamentário]]: a programação financeira e a descentralização são o detalhamento operacional da fase de **execução** do ciclo orçamentário.
+> - [[P1 - Direito Financeiro#- Créditos Adicionais]]: descentralização não é a mesma coisa que crédito adicional — descentralizar apenas transfere a execução de um crédito já existente entre unidades; crédito adicional cria ou reforça dotação.
+
 ## - Precatórios
 - [ ] status [dom:: 1] [peso:: 2]
 
