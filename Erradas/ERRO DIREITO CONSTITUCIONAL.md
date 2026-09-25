@@ -12,7 +12,7 @@ tags:
 
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
-- 
+- **Bloco Fiscalização/Controle Externo + Finanças Públicas (arts. 70 a 169, CF) — 3 dos 6 erros do caderno C03 (25/09/2026):** competências do TCU (apreciar × julgar contas do Presidente), competência dos Tribunais de Contas estaduais/municipais (por extensão do art. 75), e emenda parlamentar a projeto orçamentário (art. 63/166). Confirmado pelo próprio Pedro como gap de conteúdo, não é padrão comportamental — vale revisar o bloco inteiro (arts. 70-91 e 163-169), não só os pontos específicos errados.
 - 
 
 ---
@@ -277,3 +277,118 @@ _[...]_
 > > [!info] 🔗 Na matéria
 > > [[P1 - Direito Constitucional#Dos Precatórios (art. 100 da CF/1988)]] — **grifado agora:** "não se aplica" (§ 3º, a exclusão da RPV do regime de precatórios).
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Constitucional.md:1279` (§3º) e `:1278` (§2º)
+
+### 25/09
+
+> [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Auditor Fiscal de Tributos Municipais, Pref Jundiaí 2017) — TCU: apreciar × julgar contas do Presidente, natureza jurídica do órgão
+> A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta será exercida pelo Congresso Nacional, mediante controle externo, com auxílio do TCU, e pelo controle interno de cada Poder. Considerando o papel do TCU no controle externo, é possível afirmar:
+>
+> (A) tendo em vista a hierarquia e subordinação existente entre o TCU e os demais Tribunais de Contas, compete a ele revisar as decisões das demais cortes de contas.
+> (B) as decisões do TCU das quais resulte imputação de débito ou multa não possuem eficácia de título executivo extrajudicial em virtude do postulado da inafastabilidade do Poder Judiciário.
+> <mark style="background:#affad1">(C) o TCU como órgão que é não possui personalidade jurídica, porém detém capacidade postulatória para defesa em juízo de suas competências e direitos próprios.</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) dentre as competências constitucionalmente atribuídas ao TCU, se encontra a de apreciar e julgar as contas prestadas pelo Exmo. Sr. Presidente da República.</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 C
+> **Obs.:** Pedro sinalizou que as competências do TCU ainda deixam dúvida de forma geral — ver a Lupa "apreciar × julgar" já registrada no cofre, que é exatamente o ponto testado aqui.
+>
+> > [!success] ✅ Resposta — C
+> > O TCU **não tem personalidade jurídica própria**, mas o STF reconhece a órgãos de estatura constitucional (Tribunais de Contas, Ministério Público) <mark style="background:#fff88f">capacidade processual para defender suas próprias competências e prerrogativas em juízo</mark> (RE 595.176 AgR/DF). **(A)** erra: não há hierarquia entre o TCU e os TCs estaduais/municipais — cada um fiscaliza pela origem do recurso (federal/estadual/municipal). **(B)** erra: pelo art. 71, § 3º, a decisão condenatória do TCU **tem** eficácia de título executivo. **(D)** é a pegadinha clássica: o TCU só **aprecia** as contas do Presidente, mediante parecer prévio (art. 71, I) — quem **julga** é o **Congresso Nacional** (art. 49, IX).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Trocar "apreciar" por "julgar" nas contas do Presidente da República — o TCU emite só parecer prévio; julgar é competência exclusiva do Congresso.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Constitucional#- Competências para Fiscalização e Tribunal de Contas da União (arts. 70 a 73 da CF/1988)]] — a Lupa "apreciar × julgar" e o art. 71, § 3º (título executivo) já estão no cofre; não precisei regrifar.
+> > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:1444` (Lupa) e `:1441` (§ 3º)
+
+> [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Procurador Previdenciário, GUARUJÁPREV 2023) — Competência dos Tribunais de Contas Estaduais
+> Indique, dentre as alternativas abaixo, aquela que contempla ação que se insere na esfera de competência dos Tribunais de Contas Estaduais.
+>
+> <mark style="background:#affad1">(A) Determinar à autoridade administrativa que promova a anulação do contrato e, se for o caso, da licitação de que se originou em caso de ilegalidade.</mark>
+> (B) Sustar, se não atendido, a execução de contrato administrativo celebrado pelo Município.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) Analisar a prestação de contas da aplicação de recursos financeiros oriundos do Fundo Nacional de Assistência Social, repassados aos Estados e Municípios.</mark>
+> (D) Examinar previamente a validade de contratos administrativos celebrados pelo Município.
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 A
+> **Obs.:** Pedro sinalizou que Tribunais de Contas estaduais e municipais também são um gap de conteúdo (não só o TCU).
+>
+> > [!success] ✅ Resposta — A (dedução: o TEC não publicou comentário para esta questão)
+> > O art. 75, caput, estende aos Tribunais de Contas estaduais/municipais, no que couber, as regras do TCU (art. 70-75). Anular contrato/licitação ilegal é **controle de legalidade posterior**, correspondente ao poder do art. 71, IX/X do TCU (mandar sustar/corrigir ato ilegal), aplicável por simetria ao TCE. **(C)** é a armadilha: fiscalizar recursos **repassados pela União** (FNAS) a Estados/Municípios é competência do **TCU** (art. 71, VI), não do TCE — o TCE fiscaliza os repasses que **o próprio Estado** faz aos Municípios, não os da União.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Constitucional#- Tribunais de Contas Estaduais, Distrital e Municipais]] (extensão via art. 75) e [[P1 - Direito Constitucional#- Competências para Fiscalização e Tribunal de Contas da União (arts. 70 a 73 da CF/1988)]] (art. 71, VI, sobre recursos repassados pela União) — já no cofre; não precisei regrifar.
+> > **Fonte:** TEC (sem comentário publicado) · cofre `MATERIAS/P1 - Direito Constitucional.md:1485` e `:1431`
+
+> [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Advogado, CAU RJ 2023) — Taxas e contribuições: base de cálculo e fato gerador
+> Em conformidade com a Constituição Federal, no que diz respeito às taxas e às contribuições, é correta a seguinte afirmativa:
+>
+> (A) as taxas podem ter base de cálculo própria de impostos.
+> (B) as taxas podem remunerar serviços públicos indivisíveis.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) as contribuições de melhoria podem ter fato gerador próprio de impostos.</mark>
+> <mark style="background:#affad1">(D) as contribuições de melhoria têm caráter vinculado a uma atividade estatal específica.</mark>
+> (E) as contribuições sociais têm destinação específica e são arrecadadas pela União, pelos Estados e pelos Municípios.
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 D
+> **Obs.:** Pedro ficou em dúvida na C porque entendeu que a valorização imobiliária também poderia ser fato gerador do IR — pergunta direta: "seria pego pelo IR essa valorização?"
+>
+> > [!success] ✅ Resposta — D
+> > Contribuição de melhoria é tributo **vinculado**: sua cobrança depende de uma atuação estatal específica — a realização de obra pública da qual resulte valorização imobiliária (art. 145, III, CF). **(A)** e **(B)** erram porque invertem o art. 145, § 2º e o inciso II: taxa **não pode** ter base de cálculo de imposto, e só remunera serviço **específico e divisível** (nunca indivisível). **(E)** erra: contribuições sociais são competência **exclusiva da União** (art. 149), não dos Estados/Municípios.
+> >
+> > **Sobre a dúvida da C** — não, a valorização imobiliária **em si** não é fato gerador do IR. O IR (art. 43, CTN) incide sobre a **aquisição de disponibilidade econômica ou jurídica** de renda/proventos; o cofre já registra que o "ganho de capital" (uma espécie de provento) só se configura na **venda do imóvel por valor superior ao de aquisição** — é a **realização** da valorização, não a valorização em tese enquanto o imóvel continua na posse do dono. Contribuição de melhoria tributa a valorização **no momento da obra** (fato gerador vinculado à atuação estatal); um eventual IR sobre ganho de capital só nasceria **depois**, e só **se** o imóvel for alienado — são fatos geradores distintos, não o "mesmo" fato gerador de um imposto. Por isso a C está errada: o fato gerador da contribuição de melhoria não é "próprio de imposto", é próprio dela mesma (a valorização decorrente da obra).
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Constitucional#Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)]] (taxas/contribuição de melhoria) + [[P2 - Direito Tributário]]:3580 (ganho de capital como provento, só na venda) — ambos já no cofre; não precisei regrifar.
+> > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:1852` e `MATERIAS/P2 - Direito Tributário.md:3580`
+
+> [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Auditor Fiscal Municipal, Pref Caruaru 2023) — Limitações ao poder de tributar: legalidade, confisco, pedágio, anterioridade
+> Com relação aos limites ao poder de tributar, assinale a alternativa correta:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) É vedado à União, aos Estados, ao Distrito Federal e aos Municípios exigir tributo sem lei que o estabeleça, mas é possível aumentar o valor do tributo por meio de ato administrativo.</mark>
+> (B) É vedado utilizar tributo com efeito de confisco, exceto na hipótese de IPTU progressivo incidente em imóvel utilizado para cultivo de plantas psicotrópicas.
+> (C) É vedada a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público.
+> <mark style="background:#affad1">(D) É vedado cobrar tributos no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou.</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D (princípio da anterioridade anual, art. 150, III, "b")
+> > <mark style="background:#fff88f">A CF exige lei em sentido estrito tanto para instituir quanto para majorar tributo</mark> — não há exceção por ato administrativo, o que já derruba a **(A)**. **(B)** confunde institutos: a vedação ao confisco (art. 150, IV) é **absoluta**, sem exceções no texto constitucional; a menção a "plantas psicotrópicas" é da **expropriação** do art. 243 (sanção patrimonial sem indenização), que não é tributo. **(C)** inverte a regra: o art. 150, V **ressalva expressamente** a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Constitucional#Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)]] — a Lupa da tabela anterioridade anual × nonagesimal já está no cofre; não precisei regrifar.
+> > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:1893`
+
+> [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Analista Tributário, Pref Saquarema 2023) — Repartição das receitas tributárias: o que cabe ao Município
+> No que tange à repartição das receitas tributárias, a alternativa que apresenta corretamente o que caberá ao Município é:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) o produto da arrecadação do imposto e das contribuições federais sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituíram e mantiverem.</mark>
+> (B) cinquenta por cento do produto da arrecadação do IPVA estadual, assim divididos em sistema de simples rateio, independentemente de onde estejam licenciados.
+> <mark style="background:#affad1">(C) até 35% da participação sobre o ICMS, observada, obrigatoriamente, a distribuição de, no mínimo, dez pontos percentuais com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da equidade, conforme lei estadual.</mark>
+> (D) metade do produto da arrecadação das taxas ambientais cobradas pelos Estados, com base no local onde estiver estabelecido o contribuinte.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 C
+> **Obs.:** Pedro relatou "alucinação mental" nessa questão — dúvida real na A, e não lembrava bem da C.
+>
+> > [!success] ✅ Resposta — C (art. 158, IV, "a", e § 1º, II, CF)
+> > Pertence aos Municípios <mark style="background:#fff88f">25% do ICMS estadual</mark>, sendo no mínimo 65% pelo valor adicionado fiscal (VAF) e **até 35% conforme lei estadual**, respeitado o piso de 10 pontos percentuais com base em indicadores de aprendizagem/equidade. **(A)** erra por um detalhe fino: pertence ao Município o IR da União retido na fonte sobre pagamentos feitos **por ele** — mas **não** "as contribuições federais", só o **imposto** (art. 158, I). **(B)** erra: o IPVA repassado (50%) é sobre veículos **licenciados no território do Município**, não "independentemente de onde estejam licenciados" (é rateio por local de licenciamento, não simples rateio). **(D)** não tem previsão constitucional.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Constitucional#Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)]] — a tabela "mapa da repartição" já cobre exatamente os percentuais de ICMS (25%/65% VAF/35% lei estadual) e IPVA (50%, por licenciamento); não precisei regrifar.
+> > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:2037` (ICMS) e `:2044` (art. 157, I)
+
+> [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Procurador Jurídico I, Pref Piraí 2019) — Emenda parlamentar a projeto de iniciativa exclusiva do Executivo (orçamento)
+> Em virtude de fortes chuvas, certo Município concedeu aluguel social aos moradores em risco de deslizamento. Após quase um ano, o Chefe do Executivo apresentou projeto de lei para revogar o benefício, mas foi aposta emenda parlamentar para mantê-lo por mais um ano. A respeito, é correto afirmar:
+>
+> (A) o Poder Legislativo pode apresentar emendas supressivas, restritivas e ampliativas.
+> <mark style="background:#affad1">(B) as restrições ao poder da emenda ficam reduzidas à proibição de aumento da despesa e à hipótese de impertinência da emenda ao tema do projeto.</mark>
+> (C) as emendas parlamentares não poderão versar sobre projetos orçamentários previstos no art. 165, I, II e III da Constituição Federal.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) por implicar aumento de despesa, a emenda parlamentar não deverá prosperar, uma vez que esta iniciativa é privada do Chefe do Poder Executivo.</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 B
+> **Obs.:** Pedro sinalizou que orçamento público (finanças públicas) também é um gap de conteúdo.
+>
+> > [!success] ✅ Resposta — B
+> > O STF admite emenda parlamentar a projeto de iniciativa exclusiva do Presidente desde que haja <mark style="background:#fff88f">pertinência temática e não haja aumento de despesa</mark> — **exceto nos projetos orçamentários** (art. 165, I a III), onde a CF **admite expressamente** aumento de despesa por emenda (art. 63, I, c/c art. 166, §§ 3º e 4º). **(A)** erra a nomenclatura: os tipos de emenda são aditiva, aglutinativa, substitutiva, modificativa e supressiva — não existem "restritivas" ou "ampliativas". **(C)** inverte a regra: a CF não veda emendas a projetos orçamentários, pelo contrário, regula-as especificamente (art. 166, §§ 1º-2º). **(D)** é a pegadinha do enunciado: o caso é **exatamente** a exceção (orçamento) em que o aumento de despesa por emenda **é permitido**.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Constitucional#Dos Orçamentos (Finanças Públicas, arts. 165 a 169 da CF/1988)]] — o cofre cobre PPA/LDO/LOA e a vedação geral de vincular receita, mas o dispositivo específico desta questão (art. 63, I, c/c art. 166, §§ 3º-4º, sobre emenda a projeto de iniciativa exclusiva) não está lá — não está no cofre.
+> > **Fonte:** TEC (comentário da questão)

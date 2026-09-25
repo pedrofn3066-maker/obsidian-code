@@ -445,7 +445,7 @@ Mecânica da distribuição: (+) total arrecadado de IBS no período (-) reserva
 - §1º: <mark>energias com valor econômico</mark> equiparam-se a bens materiais. §2º: incluem-se no conceito de fornecedor as **entidades sem personalidade jurídica** (sociedade em comum, sociedade em conta de participação, consórcio, condomínio e fundo de investimento). §3º: **locação, arrendamento e cessão temporária** do bem são operações com bens. *(Resumo LC 214 Tít. I, p. 8)*
 
 
-# BLOCO 2.  LC 214: Regra-Matriz de Incidência Tributária (RMIT)
+# BLOCO 2.  LC 214: Regra-Matriz de Incidência Tributária (RMIT) (IBS/CBS sobre Operações II)
 	Então, quanto às doações sem contraprestação em benefício do doador:
 - **Regra geral:** **Não incide IBS e CBS**
 	**Ressalva:** Caso a <font color="#ff0000">doação</font> 
@@ -670,7 +670,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 
-# BLOCO 3 . LC 214: Modalidades de Extinção, Pagamento Indevido, Ressarcimento, Não Cumulatividade e Regimes de Apuração
+# BLOCO 3 . LC 214: Modalidades de Extinção, Pagamento Indevido, Ressarcimento, Não Cumulatividade e Regimes de Apuração (IBS/CBS sobre Operações III/IV)
 
 ## Modalidades de extinção dos débitos (arts. 27 e 28)
 - [ ] status [dom:: 0] [peso:: 3]

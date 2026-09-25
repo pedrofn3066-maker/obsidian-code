@@ -4,21 +4,21 @@ data: 2026-09-20
 materia: Direito Tributário
 bloco: Direito Tributário
 assuntos:
-  - "Lançamento e Constituição do Crédito Tributário (arts. 142 a 150 do CTN)"
-  - "Suspensão da Exigibilidade do Crédito Tributário (arts. 151 a 155-A do CTN)"
-  - "Extinção do Crédito Tributário (arts. 156 a 174 do CTN)"
-  - "Exclusão do Crédito Tributário (arts. 175 a 182 do CTN)"
-  - "Tópicos Mesclados de Extinção, Exclusão e Suspensão do Crédito Tributário"
-  - "Fiscalização Tributária (arts. 194 a 200 do CTN)"
-  - "Certidão Negativa (arts. 205 a 208 do CTN)"
-  - "Imposto sobre Serviços - ISS (CF/1988 e CTN)"
-  - "Imposto Predial e Territorial Urbano - IPTU (CF/1988 e CTN)"
-  - "Imposto sobre Transmissão de Bens Imóveis - ITBI (CF/1988 e CTN)"
+  - Lançamento e Constituição do Crédito Tributário (arts. 142 a 150 do CTN)
+  - Suspensão da Exigibilidade do Crédito Tributário (arts. 151 a 155-A do CTN)
+  - Extinção do Crédito Tributário (arts. 156 a 174 do CTN)
+  - Exclusão do Crédito Tributário (arts. 175 a 182 do CTN)
+  - Tópicos Mesclados de Extinção, Exclusão e Suspensão do Crédito Tributário
+  - Fiscalização Tributária (arts. 194 a 200 do CTN)
+  - Certidão Negativa (arts. 205 a 208 do CTN)
+  - Imposto sobre Serviços - ISS (CF/1988 e CTN)
+  - Imposto Predial e Territorial Urbano - IPTU (CF/1988 e CTN)
+  - Imposto sobre Transmissão de Bens Imóveis - ITBI (CF/1988 e CTN)
   - "Planejamento Tributário: Elisão, Evasão e Elusão Fiscal"
-  - "Jurisprudência dos Tribunais Superiores sobre Lançamento e Constituição do Crédito Tributário"
-  - "Jurisprudência dos Tribunais Superiores sobre ISS"
-  - "Fato Gerador e Hipóteses de Não Incidência (arts. 1º e 2º da LC nº 116/2003)"
-  - "Alíquota, Base de Cálculo e Valor a Ser Pago (arts. 7º e 8º-A da LC nº 116/2003)"
+  - Jurisprudência dos Tribunais Superiores sobre Lançamento e Constituição do Crédito Tributário
+  - Jurisprudência dos Tribunais Superiores sobre ISS
+  - Fato Gerador e Hipóteses de Não Incidência (arts. 1º e 2º da LC nº 116/2003)
+  - Alíquota, Base de Cálculo e Valor a Ser Pago (arts. 7º e 8º-A da LC nº 116/2003)
 slot:
 total: 40
 acertos: 35

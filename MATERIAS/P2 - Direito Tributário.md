@@ -1568,20 +1568,25 @@ Os prazos são contados em <mark>dias úteis</mark>, excluindo o dia de início 
 
 *(CTN comentado, Guruja, p. 39)*
 
-- O quadro da CF/88 no PDF traz o **art. 159, I**: da arrecadação do IR, do IPI e do imposto do art. 153, VIII, a União entrega **50%**, sendo <mark>21,5%</mark> ao Fundo de Participação dos Estados e do DF (alínea "a"), <mark>22,5%</mark> ao Fundo de Participação dos Municípios ("b") e <mark>1%</mark> ao FPM, entregue no **primeiro decêndio de dezembro** ("d").
+- O quadro da CF/88 no PDF traz o **art. 159, I**: da arrecadação do IR, do IPI e do imposto do art. 153, VIII, a União entrega **50%**, sendo <mark>21,5%</mark> ao Fundo de Participação dos Estados e do DF ("a"), <mark>22,5%</mark> ao Fundo de Participação dos Municípios ("b"), <mark>3%</mark> para programas de financiamento do setor produtivo do Norte/Nordeste/Centro-Oeste ("c") e mais <mark>3 × 1%</mark> ao FPM, entregues em **dezembro** ("d"), **julho** ("e") e **setembro** ("f") — total do FPM: 22,5% + 1% + 1% + 1% = **25,5%**.
 
-> [!quote]- Texto literal: CF/88, Art. 159, I, "a", "b" e "d" (CTN Guruja, p. 39)
+> [!quote]- Texto literal: CF/88, Art. 159, I, "a" a "f" (Planalto — redação dada pela EC nº 132/2023 e EC nº 112/2021)
 > Art. 159. A União entregará:
 > I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados e do imposto previsto no art. 153, VIII, 50% (cinquenta por cento), da seguinte forma:
 > a) vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
 > b) vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
+> c) três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos destinados à Região, na forma que a lei estabelecer;
 > d) um por cento ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de dezembro de cada ano;
+> e) 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de julho de cada ano;
+> f) 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês de setembro de cada ano. (Incluída pela EC nº 112/2021)
 
-> [!warning]- Pendência: alínea "c" e demais
-> O quadro do PDF pula da alínea "b" para a "d" e não traz as alíneas seguintes. Copiei só o que está na p. 39, sem completar. As tabelas de fator do FPE e de coeficientes do FPM (p. 37–38) ficaram de fora porque o próprio PDF marca os arts. 83 a 95 como parcialmente revogados ou não recepcionados.
+> [!tip]- Lupa: por que três alíneas (d, e, f) fazem a mesma coisa
+> **A ideia em uma frase:** "d", "e" e "f" não são parcelas diferentes — são o **mesmo 1% ao FPM**, mas cada uma foi incluída por uma emenda distinta (EC 55/2007, EC 84/2014, EC 112/2021) para escalonar a entrega ao longo do ano, em vez de concentrar tudo em dezembro. Resultado: o FPM recebe reforços extras em **julho**, **setembro** e **dezembro**, além da fatia mensal regular do "b".
+> **Pendência fechada:** a alínea "c" não é para o FPE nem para o FPM — é uma parcela **regional** (3%), destinada a financiamento produtivo via instituições financeiras regionais (BASA, BNB, e os fundos constitucionais FNO/FNE/FCO), com reserva de metade dos recursos do Nordeste para o semiárido. As tabelas de fator do FPE e coeficientes do FPM (p. 37-38 do PDF) seguem de fora de propósito: dependem de LC própria (hoje, LC 62/1989 c/c LC 143/2013) e de cálculo anual do TCU (art. 161, parágrafo único, CF) — não são texto constitucional fixo para decorar.
 
 > [!info]- Ponte
-> - [[P2 - Finanças Públicas#Federalismo fiscal e repartição de competências]]: o mesmo assunto visto pela matéria de Finanças Públicas (peso 3).
+> - [[P1 - Direito Constitucional#Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)]]: mesmo assunto pelo filtro constitucional — tem o mapa completo de quem repassa o quê (art. 157 a 162), a regra do IOF-ouro (30/70) e o texto literal dos arts. 157, 160 e 162. A ponte antiga apontava para uma nota "P2 - Finanças Públicas" que nunca existiu no cofre; corrigida para esta seção.
+> - [[P1 - Micro e Finanças Públicas]]: a matéria de Finanças Públicas propriamente dita, caso o assunto volte a ser tratado por lá.
 
 
 
