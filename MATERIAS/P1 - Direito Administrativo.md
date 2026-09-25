@@ -79,6 +79,95 @@ A avocação é o ato discricionário mediante o qual **o superior hierárquico
 
 ## - Centralização e descentralização da atividade administrativa do Estado. Administração pública direta e indireta.
 - [ ] status [dom:: 0] [peso:: 2]
+
+**Centralização x Descentralização x Desconcentração**
+
+<mark style="background:rgba(240, 200, 0, 0.2)">Centralização</mark>: o Estado presta o serviço diretamente, por seus próprios órgãos, sem criar outra pessoa jurídica. <mark style="background:rgba(240, 200, 0, 0.2)">Descentralização</mark>: o Estado transfere a execução da atividade a **outra pessoa**, física ou jurídica, distinta do ente central — por **outorga** (lei cria pessoa jurídica de direito público ou privado da Administração Indireta, que passa a ser titular do serviço) ou por **delegação** (contrato — concessão — ou ato unilateral — permissão/autorização — a particular, que fica só com a execução, mantendo o Estado a titularidade).
+
+⚠️ **Desconcentração** não é espécie de descentralização: é a distribuição interna de competências **dentro da mesma pessoa jurídica**, entre órgãos hierarquizados (ex.: Secretarias, Delegacias Regionais). Não cria nova pessoa jurídica, não afasta a hierarquia — o traço que distingue desconcentração de descentralização é justamente a **ausência (desconcentração) ou presença (descentralização) de hierarquia** entre quem transfere e quem recebe a competência.
+
+> [!tip]- Lupa: outorga x delegação
+> **A ideia em uma frase:** outorga transfere a **titularidade** do serviço (por lei, para pessoa da Administração Indireta); delegação transfere só a **execução** (por contrato ou ato, a particular), mantendo o Estado titular.
+>
+> **O passo a passo:**
+> 1. **Outorga** (descentralização por serviços): **só por lei específica**; cria autarquia, ou autoriza a criação de fundação pública, empresa pública ou sociedade de economia mista; a entidade passa a ser titular da atividade.
+> 2. **Delegação** (descentralização por colaboração): **contrato** (concessão) ou **ato unilateral** (permissão, autorização); o particular só executa, o Estado permanece titular e pode retomar a qualquer momento (nos limites do contrato).
+> 3. Em ambos os casos há **descentralização**: a execução sai da pessoa jurídica central. A diferença é **quem passa a exercer** — pessoa da própria Administração (outorga) ou particular estranho a ela (delegação).
+>
+> **O erro clássico:** a banca chama de "desconcentração" a criação de uma autarquia (é descentralização, porque cria nova pessoa jurídica); ou diz que a permissionária de serviço público "passa a ser titular" do serviço (ela só executa — a titularidade é indelegável, salvo outorga por lei).
+
+**Órgãos públicos**
+
+<mark style="background:rgba(240, 200, 0, 0.2)">Órgão público</mark> é um centro de competência, **sem personalidade jurídica própria**, integrante da estrutura de uma pessoa jurídica, cujas manifestações são **imputadas** a essa pessoa jurídica. A explicação prevalente é a **Teoria do Órgão** (Otto Gierke — imputação volitiva): o agente manifesta a vontade do próprio Estado, não há representação (não há dois sujeitos, mandante e mandatário) — o ato do agente **é** o ato do órgão, que **é** o ato da pessoa jurídica.
+
+- Órgãos **não têm personalidade jurídica**, mas podem ter, excepcionalmente, capacidade processual reconhecida pela jurisprudência para defender suas prerrogativas institucionais em mandado de segurança (ex.: Mesa da Câmara, Presidência do Tribunal) — capacidade processual **especial**, não geral.
+- Classificação quanto à posição estatal: **independentes** (sem subordinação — Presidência, Congresso, Tribunais, MP), **autônomos** (subordinados diretamente ao chefe, ampla autonomia — Ministérios, Secretarias), **superiores** (poder de direção, mas subordinados — Gabinetes, Procuradorias), **subalternos** (mera execução, sem poder decisório).
+- Classificação quanto à estrutura: **simples** (sem outros órgãos agregados) x **compostos** (reúnem outros órgãos menores).
+- Classificação quanto à atuação funcional: **singulares/unipessoais** (um agente) x **colegiados/pluripessoais** (vários agentes, decisão por manifestação conjunta).
+
+**Administração Pública Direta**: o conjunto de órgãos **integrados** na estrutura da própria pessoa federativa (União, Estados, DF, Municípios), sem personalidade jurídica própria — todos respondem sob a personalidade do ente político.
+
+**Administração Pública Indireta**: pessoas jurídicas **próprias**, criadas para executar de forma descentralizada atividades de interesse público, vinculadas (não subordinadas) ao ente político que as criou. Integram-na quatro espécies: **autarquias, fundações públicas, empresas públicas e sociedades de economia mista** (CF, art. 37, XIX; Decreto-Lei nº 200/1967, art. 4º, II).
+
+> [!info]- Ponte
+> - [[P1 - Direito Administrativo#- Empresas estatais: normas constitucionais, Lei nº 13.303/2016 e Decreto nº 8.945/2016.]]: a Lei 13.303/2016 detalha o regime específico das empresas públicas e sociedades de economia mista tratadas aqui.
+> - [[P1 - Direito Administrativo#- Convênios, Consórcios e Instrumentos Congêneres.]]: os consórcios públicos, tratados abaixo, também compõem essa engrenagem de descentralização.
+
+### Características comuns às entidades da Administração Indireta
+- **Criação e extinção**: autarquia é criada **diretamente por lei específica** (CF, art. 37, XIX); fundação pública, empresa pública e sociedade de economia mista têm sua criação **autorizada por lei específica**, mas a personalidade só nasce com o **registro dos atos constitutivos** no órgão competente. A extinção segue simetria: exige lei.
+- **Personalidade jurídica e patrimônio próprios**, distintos dos do ente criador.
+- **Especialização das finalidades**: só podem atuar dentro do objeto para o qual foram criadas (princípio da especialidade) — não podem ser desviadas para finalidade diversa sem alteração legal.
+- **Ausência de hierarquia** em relação ao ente criador — existe apenas **controle finalístico** (tutela, supervisão ministerial), nunca subordinação hierárquica. A tutela verifica se a entidade persegue os fins legais, **não substitui o mérito** da decisão da entidade.
+- ⚠️ Não há **hierarquia** entre a Administração Direta e a Indireta, nem entre entidades da Administração Indireta entre si — apenas entre os órgãos internos de cada uma.
+
+### As quatro entidades — características comparadas
+
+| | **Autarquia** | **Fundação Pública** | **Empresa Pública** | **Sociedade de Economia Mista** |
+| --- | --- | --- | --- | --- |
+| **Personalidade jurídica** | Direito público | Pode ser de direito público (**fundação autárquica**) ou de direito privado (**fundação governamental/estatal**) | Direito privado | Direito privado |
+| **Capital** | Não tem capital social (não é empresa) | Patrimônio próprio destacado, sem fins lucrativos | 100% público (admite capital de mais de um ente/entidade pública, nunca privado) | Público + privado, com **maioria do capital votante nas mãos do Poder Público** |
+| **Forma societária** | — | — | **Qualquer forma** admitida em direito (inclusive S.A.) | **Obrigatoriamente S.A.** |
+| **Objeto** | Atividade típica de Estado (poder de polícia, fiscalização, previdência, regulação) | Atividade de interesse social, sem fins lucrativos (saúde, ensino, pesquisa, cultura, assistência) | Exploração de atividade econômica ou prestação de serviço público | Exploração de atividade econômica ou prestação de serviço público |
+| **Regime de pessoal** | Estatutário (em regra) | Regra geral: mesmo regime da Administração Direta que a instituiu | **Celetista** (CLT) — mas concurso público obrigatório (CF, art. 37, II) | **Celetista** (CLT) — concurso público obrigatório |
+| **Regime tributário** | Imunidade tributária recíproca (CF, art. 150, VI, "a") sobre patrimônio, renda e serviços vinculados às finalidades essenciais | Imunidade recíproca, se sem fins lucrativos e atendidos os requisitos do art. 14 do CTN | **Não têm** imunidade quando exploram atividade econômica em concorrência com a iniciativa privada (CF, art. 173, § 2º) — tratamento tributário igual ao do particular | Idem empresa pública |
+| **Foro processual (Justiça Federal)** | Sim, se federal (CF, art. 109, I) | Sim, se federal | **Não** — mesmo sendo federal, litiga na Justiça Estadual (exceção expressa do art. 109, I, CF) | Não — Justiça Estadual |
+| **Falência** | Não se sujeita (bens impenhoráveis, execução por precatório) | Não se sujeita | Em regra não se sujeita à Lei 11.101/2005 (art. 2º, I) mesmo explorando atividade econômica | Idem empresa pública |
+| **Bens** | Públicos (impenhoráveis, imprescritíveis) | Públicos, se de direito público; regime especial se de direito privado | Em regra, privados — mas os afetados à prestação de serviço público recebem proteção especial (impenhorabilidade) pela jurisprudência (continuidade do serviço) | Idem empresa pública |
+| **Responsabilidade civil** | Objetiva (CF, art. 37, § 6º) — presta serviço público | Objetiva, se presta serviço público; subsidiária do ente político | Objetiva se prestadora de serviço público; se exploradora de atividade econômica, regime de direito privado, mas responsabilidade subsidiária do Estado é debatida | Idem empresa pública |
+| **Controle pelo TCU e licitação** | Sujeita à Lei 14.133/2021 integralmente | Sujeita à Lei 14.133/2021 integralmente | Regime próprio e mais flexível da **Lei 13.303/2016** | Regime próprio da **Lei 13.303/2016** |
+
+> [!tip]- Lupa: reconhecer a entidade certa na questão
+> **A ideia em uma frase:** três perguntas resolvem 90% das questões de identificação — tem capital social? é S.A.? explora atividade econômica ou é atividade típica de Estado?
+>
+> **O passo a passo:**
+> 1. **Tem personalidade de direito público, sem capital social e exerce atividade típica de Estado** (poder de polícia, regulação, previdência)? → **Autarquia**.
+> 2. **Patrimônio destacado para fim social, sem fins lucrativos** (saúde, pesquisa, cultura)? → **Fundação pública**. Se a lei diz que ela tem personalidade de direito público, trate como uma "autarquia fundacional" (mesmo regime); se de direito privado, regime mais próximo de empresa estatal.
+> 3. **Tem sócios, é sociedade e o capital é 100% público**? → **Empresa pública** (qualquer forma societária — inclusive **Ltda.** ou forma singular, como a EBC ou os Correios).
+> 4. **Capital público e privado, com o Estado no controle acionário**? → **Sociedade de economia mista** — e ela **só pode ser S.A.** (nunca Ltda.).
+> 5. Quer saber o **foro**? Só a empresa pública **federal** foge da regra do art. 109, I (vai para a Justiça Estadual, junto com a sociedade de economia mista).
+>
+> _Exemplo ilustrativo (sem lastro):_ um edital cria uma "sociedade anônima com 60% do capital votante da União e ações negociadas em bolsa" para operar um porto. É **sociedade de economia mista** (capital misto + S.A. obrigatória), sujeita à Lei 13.303/2016, sem imunidade tributária (exploração econômica), Justiça Estadual.
+>
+> **O erro clássico:** achar que toda empresa pública é S.A. (pode ser qualquer forma, a SEM que é sempre S.A.); dizer que empresa pública federal litiga na Justiça Federal (é a **exceção expressa** do art. 109, I); confundir a **imunidade tributária** (existe se presta serviço público, não existe se explora atividade econômica em concorrência) com **isenção** (que é benefício legal, revogável, e não constitucional).
+
+### Agências reguladoras e agências executivas
+
+**Agência reguladora**: natureza jurídica de **autarquia de regime especial** (não é uma quinta espécie de entidade — é autarquia com atributos reforçados de autonomia), criada para regular e fiscalizar um setor específico (ANEEL, ANATEL, ANP, ANS, ANVISA etc.). O "regime especial" se traduz em: **mandato fixo** dos dirigentes (só perdem o cargo por renúncia, condenação judicial transitada em julgado ou PAD), **quarentena** após o fim do mandato (impedimento temporário de atuar no setor regulado ou para empresas reguladas), maior autonomia financeira e decisória (poder normativo técnico).
+
+**Agência executiva**: é uma **qualificação** (não uma nova entidade) que autarquias ou fundações públicas **já existentes** podem receber, mediante **contrato de gestão** com o ministério supervisor e um plano de reestruturação, em troca de mais autonomia gerencial, orçamentária e financeira (Lei nº 9.649/1998, arts. 51 e 52; Decreto nº 2.487/1998).
+
+⚠️ Pegadinha recorrente: agência reguladora e agência executiva **não são categorias que se excluem** — uma autarquia pode, teoricamente, acumular status regulador **e** qualificação de agência executiva, mas na prática cada rótulo persegue objetivo diferente (regular um setor x ganhar eficiência gerencial via contrato de gestão).
+
+### Consórcios públicos (Lei nº 11.107/2005)
+
+Consórcio público é a pessoa jurídica formada por **dois ou mais entes federativos**, mediante **contrato**, precedido de **protocolo de intenções** ratificado por lei em cada ente consorciado, para a **gestão associada** de serviços públicos e objetivos de interesse comum. Pode ter personalidade jurídica de **direito público** (associação pública, que integra a Administração Indireta de **todos** os entes consorciados) ou de **direito privado** (sem fins econômicos — mas neste caso sujeita-se, ainda assim, às normas de direito público quanto à licitação, prestação de contas e admissão de pessoal).
+
+- **Contrato de rateio**: formaliza as obrigações financeiras de cada ente consorciado; sua vigência não pode ser superior à das dotações que o suportam.
+- **Contrato de programa**: constitui e regula as obrigações entre um ente da Federação (ou entidade de sua Administração Indireta) e o consórcio público ou outro ente, no âmbito da gestão associada.
+- A retirada do consorciado só produz efeitos após a assembleia geral aprovar (protege a estabilidade do consórcio).
+
+> [!info]- Ponte
+> - [[P1 - Direito Administrativo#- Convênios, Consórcios e Instrumentos Congêneres.]]: aqui está o detalhamento distintivo entre consórcio público (personalidade jurídica própria) e convênio (sem personalidade jurídica, mera cooperação).
 ## - Ato administrativo e fatos da administração pública.
 - [ ] status [dom:: 0] [peso:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/1/assuntos/504).
@@ -121,10 +210,62 @@ Entretanto, o STF não seguiu essa linha de raciocínio. <mark style="backgroun
 ## - Controle da administração pública no direito brasileiro.
 - [ ] status [dom:: 0] [peso:: 2]
 
-b) **sistema da jurisdição una (unidade de jurisdição)**: de origem inglesa e norte-americana, o sistema confere ao Poder Judiciário a prerrogativa de decidir de maneira definitiva sobre a juridicidade de todos os atos praticados por particulares ou pela Administração Pública. **É o sistema adotado no Brasil por meio do princípio da inafastabilidade do controle do Poder Judiciário (art. 5.º, XXXV, da CRFB).
+**Conceito**: conjunto de mecanismos jurídicos e administrativos de fiscalização e correção da atuação estatal, para assegurar que a Administração observe a **legalidade** (e a juridicidade, em sentido amplo — princípios) e persiga o **interesse público** (mérito).
+
+**Classificação**
+- **Quanto ao órgão controlador**:
+  - **Controle interno** — exercido pela própria Administração, dentro de sua estrutura (autotutela); no âmbito federal, centralizado no **Sistema de Controle Interno** (CF, art. 74), com destaque para a **CGU**.
+  - **Controle externo** — exercido por um Poder **distinto** daquele que praticou o ato: controle **legislativo/parlamentar** (com auxílio do Tribunal de Contas) e controle **judicial**.
+  - Controle **social**: exercido diretamente pela sociedade (participação popular, ouvidorias, audiências públicas, ação popular) — não é sinônimo de controle externo, é categoria à parte.
+- **Quanto ao momento**: **prévio/preventivo** (antes da prática do ato — ex.: autorização legislativa prévia para operações de crédito), **concomitante** (durante a execução — acompanhamento de obra), **posterior/corretivo** (depois de praticado o ato — julgamento de contas, anulação).
+- **Quanto ao aspecto controlado**: **de legalidade/legitimidade** (confronto do ato com a lei e os princípios — pode ser exercido por qualquer dos três Poderes) x **de mérito** (conveniência e oportunidade — em regra, **só a própria Administração** pode rever o mérito de seus atos discricionários; o Judiciário não substitui o mérito, sob pena de violar a separação de poderes, salvo controle de proporcionalidade/razoabilidade como filtro de legalidade).
+
+**Autotutela (controle interno por excelência)**: a Administração pode **rever seus próprios atos**, anulando os ilegais e revogando os inconvenientes/inoportunos, independentemente de provocação do Judiciário.
+
+> **Súmula 346, STF** — A Administração Pública pode declarar a nulidade dos seus próprios atos.
+> **Súmula 473, STF** — A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.
+
+⚠️ A Lei nº 9.784/1999, art. 54, limita esse poder: a Administração **decai** do direito de anular atos administrativos favoráveis a destinatários, de que não decorram efeitos patrimoniais contínuos, em **5 anos**, contados da prática, salvo comprovada **má-fé**.
+
+**Controle externo pelo Legislativo, com auxílio do Tribunal de Contas** (CF, arts. 70 a 75)
+- O controle externo cabe ao **Congresso Nacional** (ou Assembleia/Câmara, nos demais entes), com o **auxílio** do Tribunal de Contas — o TCU **não é órgão do Judiciário nem subordinado ao Legislativo**: é **órgão auxiliar**, de natureza **administrativa**, com autonomia funcional própria.
+- **Competências do TCU** (CF, art. 71) — as mais cobradas: apreciar as **contas do Presidente da República**, mediante **parecer prévio** (quem **julga** essas contas é o **Congresso Nacional**, não o TCU); **julgar** as contas dos **administradores e demais responsáveis** por dinheiros, bens e valores públicos (aqui o TCU **julga diretamente**, decisão definitiva na esfera administrativa); apreciar a **legalidade dos atos de admissão de pessoal** e de concessão de aposentadorias, reformas e pensões, **para registro**; realizar **inspeções e auditorias**; fiscalizar as contas nacionais das empresas supranacionais; fiscalizar a aplicação de recursos repassados a Estados/DF/Municípios; <mark style="background:#fff88f">**sustar**, se não atendido, a **execução do ato impugnado**</mark> (comunicando à Câmara e ao Senado) e, no caso de **contrato**, comunicar ao Congresso, que **solicita** ao Executivo as medidas — se o Congresso ou o Executivo não agirem em 90 dias, **o próprio TCU decide** a respeito (art. 71, § 1º e § 2º).
+
+> [!tip]- Lupa: TCU julga ou só aprecia?
+> **A ideia em uma frase:** para as contas do **Chefe do Executivo**, o TCU só **opina** (quem julga é o Legislativo); para as contas de **todo o resto**, o TCU **julga** de forma definitiva.
+>
+> **O passo a passo:**
+> 1. **Contas do Presidente/Governador/Prefeito**: TCU emite **parecer prévio** (opinativo, mas só pode ser afastado por decisão de **2/3** dos membros da Casa Legislativa) — quem **julga** é o **Legislativo**.
+> 2. **Contas de administradores e demais responsáveis** (ordenadores de despesa, gestores de autarquias etc.): o TCU **julga diretamente**, sem passar pelo Legislativo — a decisão, se imputar débito ou multa, tem **eficácia de título executivo extrajudicial** (CF, art. 71, § 3º).
+> 3. **Sustar ato**: o TCU pode sustar diretamente, comunicando ao Legislativo. **Sustar contrato**: o TCU **não pode sustar diretamente** — comunica ao Legislativo, que aciona o Executivo; só se ninguém agir em 90 dias o TCU decide.
+>
+> **O erro clássico:** dizer que o TCU "julga as contas do Presidente" (ele só aprecia/emite parecer — quem julga é o Congresso); achar que o TCU pode sustar contrato do mesmo jeito que sustar um ato administrativo comum (o rito para contrato é mais longo, passando pelo Legislativo e pelo Executivo antes).
+
+**Controle pelo Judiciário**
+- O Brasil adota o **sistema de jurisdição una** (inglês/americano — CF, art. 5º, XXXV, princípio da inafastabilidade): só o Judiciário profere decisão **definitiva e com força de coisa julgada material** sobre atos da Administração — diferente do sistema de **dualidade de jurisdição/contencioso administrativo** francês, em que o próprio Judiciário administrativo julga em definitivo.
+- **Limite clássico**: o Judiciário controla a **legalidade/juridicidade** do ato (inclusive proporcionalidade e razoabilidade, hoje entendidas como parte do controle de legalidade), mas **não substitui o mérito administrativo** (juízo de conveniência e oportunidade), sob pena de violar a separação de poderes.
+- **Teoria dos motivos determinantes**: quando a Administração declara os motivos que fundamentam o ato, ainda que a lei não os exija, fica **vinculada a eles** — a invalidade dos motivos declarados invalida o ato, mesmo que fosse dispensável motivá-lo.
+- Instrumentos processuais de controle judicial: **mandado de segurança**, **ação popular**, **ação civil pública**, **mandado de injunção**, **habeas data**, **habeas corpus**, ações ordinárias e a própria via da anulação de atos administrativos.
+
 - #jurisprudencia 
 - <mark style="background:rgba(240, 167, 216, 0.55)">A intervenção do Judiciário em políticas públicas de direitos fundamentais, havendo ausência ou deficiência grave do serviço, não viola a separação dos poderes</mark>. Em regra, a decisão judicial não deve determinar medidas pontuais, e sim fixar as finalidades a alcançar e determinar que a Administração apresente plano/meios adequados.
 - Ex.: déficit de profissionais em serviços de saúde pode ser suprido por concurso público, remanejamento de recursos humanos ou contratação de OS/OSCIP.
+
+**Controle social**: mecanismos de participação direta da sociedade — **audiências e consultas públicas**, **ouvidorias**, **conselhos de política pública**, o direito de petição e de certidão (CF, art. 5º, XXXIV), a **Lei de Acesso à Informação** (já tratada em heading próprio) e a **ação popular** (CF, art. 5º, LXXIII — qualquer cidadão pode propor ação para anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, isento de custas e do ônus da sucumbência, salvo má-fé).
+
+> [!tip]- Lupa: sistema de jurisdição una x dualidade de jurisdição
+> **A ideia em uma frase:** no sistema francês (dualidade), o próprio Judiciário administrativo julga em definitivo os litígios com a Administração; no sistema inglês/brasileiro (unicidade), só o Poder Judiciário comum tem a última palavra.
+>
+> **O passo a passo:**
+> 1. **Dualidade de jurisdição** (França): existe um contencioso administrativo **separado** do Judiciário comum, com força de coisa julgada própria — a Administração pode, em tese, "julgar" definitivamente certos litígios.
+> 2. **Jurisdição una** (Inglaterra, EUA, **Brasil**): mesmo que a Administração decida internamente (processo administrativo, julgamento do TCU), essa decisão **nunca é definitiva** — cabe sempre revisão pelo Judiciário (CF, art. 5º, XXXV).
+> 3. Isso não significa que o Judiciário decida tudo **de novo**: ele revisa **legalidade**, não substitui o **mérito** administrativo (ver o limite clássico acima).
+>
+> **O erro clássico:** achar que o Brasil adota "contencioso administrativo" só porque existe processo administrativo e TCU (esses são controles **internos/externos administrativos**, sempre revisáveis pelo Judiciário — a unicidade de jurisdição é sobre **quem tem a última palavra**, não sobre a existência de instâncias administrativas).
+
+> [!info]- Ponte
+> - [[P1 - Direito Administrativo#- Direito de acesso à informação: normas constitucionais, Lei nº 12.527/2011.]]: a LAI é o principal instrumento normativo do controle social tratado aqui.
+> - [[P1 - Direito Administrativo#- Improbidade administrativa (Lei nº 8.429/1992).]]: o julgamento de contas pelo TCU pode, a partir de irregularidades apuradas, subsidiar ação de improbidade — mas são searas autônomas (a Súmula Vinculante 3, já registrada nesta nota, delimita o alcance do TCU quanto ao contraditório).
 
 
 ## - Terceiro Setor (OS, OSCIP, OSC, ...)
@@ -156,6 +297,58 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 
 ## - Responsabilidade Civil do Estado.
 - [ ] status [dom:: 0] [peso:: 2]
+
+**Evolução histórica** — da irresponsabilidade à responsabilidade objetiva:
+1. **Teoria da irresponsabilidade** (Estado absolutista — "The King can do no wrong"): superada, incompatível com o Estado de Direito.
+2. **Teorias civilistas**: aplicavam a responsabilidade subjetiva do Código Civil, distinguindo **atos de império** (o Estado não respondia) e **atos de gestão** (respondia como particular).
+3. **Teorias publicistas**:
+   - **Culpa administrativa (faute du service / culpa anônima do serviço)**: não se discute a culpa do agente individualmente, mas a **falha do serviço** — inexistência, mau funcionamento ou atraso. Ainda **subjetiva**, mas com culpa **presumida** em favor da vítima.
+   - **Risco administrativo**: responsabilidade **objetiva** — basta conduta, dano e nexo causal, **sem discutir culpa ou dolo**. É a teoria adotada pela **CF, art. 37, § 6º**. Admite **excludentes e atenuantes** (culpa concorrente da vítima).
+   - **Risco integral**: responsabilidade objetiva **sem excludentes** — o Estado responde mesmo diante de caso fortuito, força maior ou culpa exclusiva da vítima. Não é a regra geral; incide em hipóteses **excepcionais e legalmente previstas** (ex.: dano nuclear — Lei nº 6.453/1977; atentados terroristas em aeronaves — Lei nº 10.744/2003; parte da doutrina estende ao dano ambiental).
+
+> **Art. 37, § 6º, CF** — As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+
+**Requisitos da responsabilidade objetiva (risco administrativo)**: (i) conduta **comissiva** de agente público; (ii) o agente atuando **nessa qualidade** (não é necessário que esteja em serviço, basta que se valha da condição de agente); (iii) dano (patrimonial ou moral); (iv) **nexo de causalidade** entre a conduta e o dano. ⚠️ Note que **não se exige dolo ou culpa** do agente para responsabilizar o Estado — o elemento subjetivo só importa depois, na ação de regresso.
+
+**Sujeitos que respondem objetivamente**: pessoas jurídicas de **direito público** (União, Estados, DF, Municípios, autarquias, fundações públicas de direito público) e pessoas jurídicas de **direito privado prestadoras de serviço público** (empresas públicas, sociedades de economia mista, concessionárias e permissionárias), **quanto aos danos ligados à prestação do serviço público**.
+
+- #jurisprudencia
+- <mark style="background:rgba(240, 167, 216, 0.55)">A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva em relação a usuários e a não usuários do serviço</mark> — STF, RE 591.874 (Tema 130, repercussão geral), Rel. Min. Ricardo Lewandowski. Basta o nexo causal entre o ato e o dano ao terceiro, mesmo que ele não utilize o serviço.
+
+**Responsabilidade por omissão do Estado**: divide a doutrina e é ponto clássico de prova.
+- **Corrente subjetiva** (majoritária no STF para omissão genérica): exige a demonstração de **culpa do serviço** — o serviço não funcionou, funcionou mal ou funcionou atrasado, quando **deveria** ter agido para evitar o dano (**dever jurídico específico de agir**). Não basta o dano ter ocorrido; é preciso provar a falha do serviço.
+- **Corrente objetiva** (minoritária): aplica a regra geral do art. 37, § 6º, também para a omissão, dispensando a prova de culpa.
+- Caso que o STF trata sob regime **objetivo mesmo sendo omissivo**: **morte ou lesão de detento sob custódia do Estado** — dever específico de guarda e integridade física, decorrente da posição de garante, <mark style="background:rgba(240, 167, 216, 0.55)">RE 841.526 (Tema 592, repercussão geral)</mark>.
+
+**Excludentes e atenuantes da responsabilidade**
+- **Caso fortuito e força maior**: em regra excluem o nexo causal (salvo risco integral); se o dano decorreu de obra ou omissão estatal **conjugada** ao evento natural, a responsabilidade pode subsistir (ex.: enchente agravada por falta de manutenção do sistema de drenagem).
+- **Culpa exclusiva da vítima**: exclui a responsabilidade estatal — rompe o nexo causal.
+- **Culpa concorrente**: apenas **atenua** (reduz proporcionalmente) a indenização, não exclui.
+- **Fato exclusivo de terceiro**: em regra exclui, salvo se o Estado tinha o dever específico de evitar (ex.: falha de segurança em presídio que permite agressão de um detento por outro).
+
+**Ação de reparação e ação de regresso**
+- A vítima aciona **diretamente o Estado** (responsabilidade objetiva, sem precisar provar dolo/culpa do agente). O STF consagrou a **tese da dupla garantia**: o particular **não pode acionar diretamente o agente público** — só o Estado; e o agente só responde perante o Estado, em ação de regresso (<mark style="background:rgba(240, 167, 216, 0.55)">RE 327.904</mark>, Rel. Min. Carlos Britto). A dupla garantia protege a vítima (Estado sempre solvente) e o agente (que só responde internamente, mediante prova de dolo ou culpa).
+- **Ação de regresso** (Estado contra o agente): natureza **subjetiva** — exige prova de **dolo ou culpa** do agente (CF, art. 37, § 6º, parte final).
+- #jurisprudencia
+- <mark style="background:rgba(240, 167, 216, 0.55)">São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato **doloso** tipificado na Lei de Improbidade Administrativa</mark> — STF, RE 852.475 (Tema 897, repercussão geral). ⚠️ O próprio julgamento distinguiu dolo de culpa para esse efeito: se o ato for **culposo**, aplica-se a prescrição comum — atenção a esse recorte em prova.
+
+**Responsabilidade por atos legislativos e judiciais** (regra: **irresponsabilidade**, por exceção)
+- **Atos legislativos**: em regra o Estado não responde por lei geral e abstrata (risco inerente à vida em sociedade). Exceções: **lei declarada inconstitucional** pelo STF (após o reconhecimento da inconstitucionalidade, cabe responsabilização pelos danos); **leis de efeitos concretos** (que, embora com forma de lei, têm destinatário determinado — equiparam-se a ato administrativo).
+- **Atos judiciais**: em regra o Estado não responde pelo exercício regular da função jurisdicional (independência dos magistrados). Exceção expressa: **erro judiciário e prisão além do tempo fixado na sentença**, em matéria penal (CF, art. 5º, LXXV) — responsabilidade **objetiva** do Estado nesses casos.
+
+> [!tip]- Lupa: risco administrativo x risco integral, na prática
+> **A ideia em uma frase:** o risco administrativo (a regra) admite defesa do Estado provando excludente; o risco integral (a exceção) não admite defesa nenhuma.
+>
+> **O passo a passo:**
+> 1. Pergunta: **existe previsão legal específica** afastando as excludentes (dano nuclear, terrorismo em aeronave, e para parte da doutrina, dano ambiental)? Se sim → **risco integral**, Estado responde mesmo com culpa exclusiva da vítima ou força maior.
+> 2. Se não há previsão especial → **risco administrativo** (regra do art. 37, § 6º): Estado responde objetivamente, mas pode **provar** caso fortuito/força maior, culpa exclusiva da vítima ou de terceiro para se eximir (total ou parcialmente).
+> 3. A **omissão genérica** foge dessa lógica: aí o STF, em regra, volta a exigir prova de **culpa do serviço** (corrente subjetiva) — não confundir com o risco administrativo aplicado à conduta comissiva.
+>
+> **O erro clássico:** aplicar risco integral como regra geral (é exceção, prevista em lei específica); achar que a vítima pode acionar o agente público diretamente (a dupla garantia veda); achar que toda omissão segue o mesmo regime da conduta comissiva (a jurisprudência trata a omissão, em regra, sob culpa do serviço, salvo posição de garante — ex.: detento sob custódia).
+
+> [!info]- Ponte
+> - [[P1 - Direito Administrativo#- Improbidade administrativa (Lei nº 8.429/1992).]]: o Tema 897 do STF (imprescritibilidade do ressarcimento por ato doloso de improbidade) conecta diretamente com essa nota.
+> - [[P1 - Direito Administrativo#- Serviço Público.]]: a responsabilidade objetiva das concessionárias e permissionárias, inclusive frente a terceiros não usuários (Tema 130), decorre da qualidade de prestadoras de serviço público tratada nessa nota.
 
 - #jurisprudencia 
 - “<mark style="background:rgba(240, 167, 216, 0.55)">É objetiva a Responsabilidade Civil do Estado</mark> em **relação à profissional da imprensa ferido por agentes policiais durante cobertura jornalística**, em manifestações em que haja tumulto ou conflitos entre policiais e manifestantes. <mark style="background:#d3f8b6">Cabe a excludente da responsabilidade por culpa exclusiva da vítima, nas hipóteses em que o profissional de imprensa descumprir ostensiva e clara advertência sobre acesso a áreas delimitadas, em que haja grave risco à sua integridade física.”</mark> _  
@@ -579,10 +772,106 @@ Sanções aplicáveis pela **ANPD** aos **agentes de tratamento** (art. 52). Os 
 
 ## - Bens Públicos.
 - [ ] status [dom:: 0] [peso:: 2]
+
+**Conceito e classificação quanto à titularidade**: bens públicos são os que integram o patrimônio das pessoas jurídicas de direito público (União, Estados, DF, Municípios, autarquias e fundações públicas de direito público) — classificam-se, quanto à titularidade, em **federais, estaduais, distritais ou municipais**.
+
+**Classificação quanto à destinação (CC, art. 99)**
+- **I — Bens de uso comum do povo**: destinados ao uso **indistinto** da coletividade (ruas, praças, praias, mares, rios). Podem ser gratuitos ou remunerados (pedágio).
+- **II — Bens de uso especial**: aparelhados à **prestação de um serviço público** ou ao funcionamento da Administração (prédios de repartições, escolas públicas, veículos oficiais, imóveis onde funcionam hospitais públicos).
+- **III — Bens dominicais (dominiais)**: não estão afetados a uma finalidade pública específica — constituem o **patrimônio disponível** do Estado, podendo ser objeto de **direitos reais** (compra e venda, locação) nas condições da lei (terras devolutas, prédios públicos desativados, dívida ativa).
+
+⚠️ Só os bens **dominicais** admitem alienação em condições ordinárias — os de uso comum e de uso especial **precisam ser desafetados** primeiro (transformados em dominicais) para poderem ser alienados.
+
+**Regime jurídico — os quatro atributos**
+- **Inalienabilidade relativa (alienabilidade condicionada)**: bens de uso comum e uso especial são **inalienáveis enquanto conservarem essa qualificação** (CC, art. 100); os dominicais **podem ser alienados**, observados os requisitos legais (Lei nº 14.133/2021, art. 76: para bens imóveis, em regra, autorização legislativa, avaliação prévia e licitação na modalidade **leilão** ou **concorrência**; para móveis, avaliação prévia e licitação, dispensada em hipóteses legais).
+- **Imprescritibilidade**: bens públicos **não podem ser adquiridos por usucapião**, de nenhuma espécie, **mesmo os dominicais** (CF, arts. 183, § 3º, e 191, parágrafo único; CC, art. 102; <mark style="background:rgba(240, 200, 0, 0.2)">Súmula 340 do STF</mark>). ⚠️ Essa é a pegadinha mais recorrente: parte da doutrina defende usucapião de dominical sem função social, mas para a banca e para o STF **todo bem público é imprescritível**, independentemente da afetação.
+- **Impenhorabilidade**: bens públicos não se sujeitam a penhora — a satisfação de créditos contra a Fazenda Pública segue o regime constitucional do **precatório** (CF, art. 100) ou de **requisição de pequeno valor (RPV)**.
+- **Não onerabilidade**: bens públicos não podem ser gravados com **direitos reais de garantia** (penhor, hipoteca, anticrese), consequência lógica da impenhorabilidade.
+
+**Afetação e desafetação**
+- **Afetação**: ato ou fato administrativo que destina um bem a uso comum ou uso especial (o oposto da situação dominical).
+- **Desafetação**: retira a destinação pública específica, tornando o bem **dominical** — só a partir daí ele pode, em tese, ser alienado. Pode ocorrer por lei, ato administrativo ou fato (ex.: incêndio que destrói o prédio público).
+
+**Formas de uso de bem público por particular**
+- **Autorização de uso**: ato unilateral, discricionário e precário, no interesse **predominante do particular**, sem licitação (ex.: autorização para um evento eventual numa praça).
+- **Permissão de uso**: <mark style="background:#fff88f">ato unilateral, discricionário e precário, mas voltado a interesse **também coletivo/da Administração**</mark> (ex.: permissão de uso de box em mercado municipal), em regra precedida de licitação.
+- **Concessão de uso**: **contrato administrativo**, bilateral, a título gratuito ou oneroso, por prazo certo ou indeterminado, com maior estabilidade que a permissão — exige licitação e autorização legislativa em regra.
+- **Concessão de direito real de uso** (Decreto-Lei nº 271/1967): direito real, resolúvel, para fins específicos (urbanização, edificação, industrialização, cultivo, outras utilizações de interesse social), transmissível por ato *inter vivos* ou *causa mortis*.
+- **Concessão de uso especial para fins de moradia** (MP nº 2.220/2001): direito subjetivo do possuidor de imóvel público urbano de até 250 m², usado para moradia, de forma mansa e pacífica, por 5 anos até 30/06/2001, sem ser proprietário de outro imóvel — análoga à usucapião especial urbana, mas incidente sobre bem **público** (por isso não é usucapião, que é vedada).
+
+> [!tip]- Lupa: qual instrumento de uso cabe
+> **A ideia em uma frase:** quanto mais o interesse for do particular e mais precário/informal o uso, mais simples o instrumento (autorização); quanto mais estável e formal, mais próximo do contrato (concessão de uso).
+>
+> **O passo a passo:**
+> 1. Uso **eventual**, no interesse do particular → **autorização de uso** (ato, discricionário, precário, sem licitação).
+> 2. Uso com alguma **regularidade**, interesse compartilhado → **permissão de uso** (ato, discricionário, precário, licitação em regra).
+> 3. Uso **estável**, formalizado, prazo definido → **concessão de uso** (contrato).
+> 4. Uso ligado a **moradia** em imóvel público urbano ocupado antes de 30/06/2001 → **concessão de uso especial para fins de moradia** (MP 2.220/2001) — não é usucapião, é direito próprio contra bem público.
+>
+> **O erro clássico:** chamar a concessão de uso especial para fins de moradia de "usucapião de bem público" (bem público é sempre imprescritível — o instituto é análogo, mas juridicamente distinto); ou achar que toda ocupação de bem público gera direito à permanência (em regra, é possível a retomada, respeitado o devido processo e eventual indenização por benfeitorias, conforme o instrumento usado).
+
+> [!info]- Ponte
+> - [[P1 - Direito Administrativo#- Licitações e Contratos Administrativos (Lei nº 14.133/2021).]]: os requisitos de alienação de bens públicos (art. 76 da Lei 14.133/2021) estão detalhados nessa nota.
+
 ## - Intervenção do Estado na propriedade. 
 - [ ] status [dom:: 0] [peso:: 2]
 ## - Serviço Público.
 - [ ] status [dom:: 0] [peso:: 2]
+
+**Conceito**: atividade material que a lei atribui ao Estado para que a exerça diretamente ou por meio de seus delegatários, com o objetivo de satisfazer necessidades coletivas, sob regime predominantemente de **direito público**. Três elementos compõem o conceito clássico (Celso Antônio Bandeira de Mello): (i) elemento **material** (a própria atividade prestada); (ii) elemento **subjetivo** (o Estado, por si ou por delegação); (iii) elemento **formal** (regime jurídico de direito público, ainda que parcialmente derrogado por normas de direito privado).
+
+⚠️ A **titularidade** do serviço público é **sempre e exclusivamente do Poder Público** — ele pode delegar a **execução**, nunca a titularidade (por isso a concessionária responde objetivamente: ela exerce uma função pública por delegação, não uma atividade privada).
+
+**Princípios do serviço público**
+- **Continuidade**: o serviço não pode ser interrompido arbitrariamente. É o fundamento da mitigação (não exclusão) da **exceção do contrato não cumprido** pelo particular contra a Administração nos contratos de concessão — a Lei 8.987/1995, art. 39, parágrafo único, só admite a paralisação após decisão judicial ou arbitral que reconheça o inadimplemento da Administração superior a 90 dias, e mesmo assim ressalvados os serviços essenciais. Também fundamenta a possibilidade de **corte no fornecimento por inadimplemento do usuário**, desde que precedido de aviso (jurisprudência do STJ: o corte é lícito, mas não pode ser feito por dívida antiga sem aviso, nem em situações que coloquem em risco a vida — hospitais, por exemplo).
+- **Mutabilidade (adaptabilidade)**: o serviço deve se adaptar à evolução das necessidades e da técnica — daí a **cláusula exorbitante de alteração unilateral** nos contratos de concessão e o **direito ao reequilíbrio econômico-financeiro** do concessionário quando a alteração onera a prestação.
+- **Generalidade (universalidade)**: o serviço deve ser prestado ao maior número possível de usuários, sem discriminação, dentro das possibilidades técnicas.
+- **Modicidade das tarifas**: a tarifa deve ser acessível — tensiona com o equilíbrio econômico-financeiro do contrato, que assegura a remuneração adequada do concessionário.
+- **Cortesia (atualidade)**: atendimento educado; **atualidade** compreende modernidade das técnicas, instalações e equipamentos, e sua conservação.
+
+**Classificação**
+- Quanto à **essencialidade**: **próprios** (essenciais, prestados diretamente pelo Estado ou por delegação sob intenso controle estatal — segurança, saúde) x **impróprios** (de menor essencialidade, geralmente delegados com mais liberdade — ex.: serviços funerários).
+- Quanto aos **destinatários**: **uti universi (gerais)** — prestados à coletividade indistintamente, sem usuário determinado, financiados por **imposto** (ex.: iluminação pública — Súmula Vinculante 41: taxa de iluminação pública é inconstitucional, daí a Contribuição para Custeio da Iluminação Pública — COSIP, art. 149-A CF) x **uti singuli (individuais/singulares)** — têm usuário determinado, mensurável, remunerados por **taxa** (se compulsório, ex.: coleta de lixo domiciliar) ou por **tarifa/preço público** (se facultativo e contratual, ex.: energia elétrica, água).
+
+> [!tip]- Lupa: taxa x tarifa no serviço público
+> **A ideia em uma frase:** taxa é tributo (compulsória, regime de direito público, prescrição tributária); tarifa é preço contratual (facultativa em tese, regime contratual, pode ser reajustada por ato administrativo sem lei).
+>
+> **O passo a passo:**
+> 1. Serviço **compulsório e específico/divisível** prestado diretamente pelo Estado ou por órgão da Administração Direta → **taxa** (regime tributário: legalidade estrita, anterioridade, prescrição quinquenal).
+> 2. Serviço prestado por **concessionária/permissionária**, de utilização **facultativa** (o usuário pode não usar) → **tarifa/preço público** (regime contratual: reajuste por ato administrativo, sem necessidade de lei, prescrição segundo o Código Civil).
+> 3. Pegadinha clássica: água e esgoto, quando prestados por autarquia/órgão público em regime compulsório, a jurisprudência historicamente trata como **taxa**; quando por concessionária, como **tarifa**. A banca explora esse "depende de quem presta".
+>
+> **O erro clássico:** achar que toda remuneração de serviço público é taxa (só é taxa se compulsória e prestada sob regime tributário); ou que a tarifa pode ser majorada livremente sem previsão contratual (o reequilíbrio segue regras do contrato de concessão).
+
+**Formas de prestação**
+1. **Execução direta**: o próprio ente federativo presta, por seus órgãos.
+2. **Descentralização por outorga**: lei cria/autoriza entidade da Administração Indireta (autarquia, fundação, empresa pública, SEM) que passa a ser **titular** da execução.
+3. **Descentralização por delegação a particular**: **concessão** (contrato), **permissão** (ato unilateral precário, formalizado por contrato de adesão) ou **autorização** (ato unilateral, discricionário e precário, para serviços de baixa complexidade ou de interesse restrito — ex.: táxi, despachante).
+
+**Concessão de serviço público (Lei nº 8.987/1995)**
+- Contrato administrativo, precedido de **licitação na modalidade concorrência** (em regra), celebrado com **pessoa jurídica ou consórcio de empresas**, por sua conta e risco, por **prazo determinado**.
+- **Poder concedente**: a pessoa política titular do serviço (não é a Administração Indireta, salvo delegação legal expressa).
+- **Equilíbrio econômico-financeiro**: garantido; alterações unilaterais impostas pelo poder concedente (cláusulas regulamentares/de serviço) que onerem o concessionário geram direito ao reequilíbrio; já as **cláusulas econômico-financeiras** não podem ser alteradas unilateralmente nem pelo poder concedente.
+- **Extinção da concessão** (art. 35): (I) advento do termo contratual; (II) **encampação** — retomada do serviço pelo poder concedente **durante o prazo**, por motivo de **interesse público**, mediante lei autorizativa específica e **prévia indenização**; (III) **caducidade** — extinção por **inadimplemento do concessionário**, declarada pelo poder concedente após processo administrativo com contraditório, indenização (se houver) apurada depois; (IV) rescisão — por iniciativa do concessionário, **só por via judicial** (não pode simplesmente interromper o serviço, dado o princípio da continuidade); (V) anulação — por ilegalidade na licitação ou no contrato; (VI) falência ou extinção da empresa concessionária.
+
+> [!tip]- Lupa: encampação x caducidade
+> **A ideia em uma frase:** encampação é o poder concedente retomando por conveniência (**culpa é dele**, por isso indeniza antes); caducidade é o poder concedente punindo o inadimplemento do concessionário (**culpa é dele**, por isso a indenização — se houver — vem depois, compensada com eventuais débitos).
+>
+> **O passo a passo:**
+> 1. **Encampação**: motivo de **interesse público**; exige **lei autorizativa específica**; **indenização prévia** (o concessionário não fez nada de errado).
+> 2. **Caducidade**: motivo de **inadimplemento contratual** do concessionário; exige **processo administrativo** com contraditório e ampla defesa; indenização (se cabível) é apurada **no curso do processo**, mas paga **depois**, descontadas eventuais multas e danos.
+> 3. Em ambos, o serviço continua sendo prestado (princípio da continuidade) — quem muda é o prestador.
+>
+> **O erro clássico:** trocar as duas hipóteses; achar que a encampação dispensa lei (é a única causa de extinção que **exige lei específica**); achar que a caducidade indeniza antes (é depois, e pode ser compensada com débitos do concessionário).
+
+**Permissão de serviço público**: ato administrativo unilateral, discricionário e **precário**, mas a Lei 8.987/1995 (art. 40) exige que seja formalizada por **contrato de adesão**, precedida de licitação — por isso a doutrina moderna a trata como **"ato-contrato"**: precária na origem (pode ser revogada sem indenização, em tese), mas com feição contratual na prática. É outorgada, em regra, a **pessoa física ou jurídica** (a concessão só a pessoa jurídica ou consórcio).
+
+**Autorização de serviço público**: ato unilateral, discricionário e precário, para serviços de **menor relevância** ou situações **transitórias/emergenciais**, sem licitação obrigatória — ex.: autorização de táxi, de despachante aduaneiro, de transporte escolar. Não se confunde com "autorização" enquanto ato de polícia (essa é outro instituto, ligado ao poder de polícia, não à prestação de serviço público).
+
+> [!info]- Ponte
+> - [[P1 - Direito Administrativo#- Parcerias Público-Privadas (Lei nº 11.079/2004).]]: a PPP (concessão patrocinada ou administrativa) é uma espécie qualificada de concessão, com contraprestação pecuniária do parceiro público.
+> - [[P1 - Direito Administrativo#- Responsabilidade Civil do Estado.]]: a responsabilidade objetiva da concessionária, inclusive frente a terceiros não usuários (RE 591874, Tema 130), está detalhada nessa nota.
+
 ## - Convênios, Consórcios e Instrumentos Congêneres.
 - [ ] status [dom:: 0] [peso:: 2]
 

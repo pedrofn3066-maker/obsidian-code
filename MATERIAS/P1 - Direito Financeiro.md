@@ -140,7 +140,7 @@ D- **D**espesa.
 
 ⚠️ **Pegadinha:** despesa orçamentária depende de autorização legislativa — **exceto** as despesas urgentes e imprevistas, abertas por **créditos extraordinários**. Isso não fere a Universalidade; é a própria exceção que a norma prevê.
 
-**Exclusividade** — ver [[#LOA - Lei Orçamentária Anual (CF/1988 e Lei nº 4.320/1964)|seção LOA]], art. 165 §8º: a LOA não pode conter matéria estranha à previsão da receita e à fixação da despesa, salvo a autorização para créditos suplementares e operações de crédito por ARO.
+**Exclusividade** — ver [[#LOA - Lei Orçamentária Anual (CF/1988 e Lei nº 4.320/1964)|seção LOA]], art. 165 §8º: <mark style="background:#fff88f">a LOA não pode conter matéria estranha à previsão da receita e à fixação da despesa, salvo a autorização para créditos suplementares e operações de crédito por ARO.</mark>
 
 **Não Vinculação — dois complementos ao mnemônico "iFOD"/GATES/CGU acima:**
 - É **permitida** a vinculação de receitas **próprias** geradas pelos impostos — a vedação atinge a receita do imposto em si, não as receitas próprias do ente decorrentes dele.

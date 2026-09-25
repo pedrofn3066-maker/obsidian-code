@@ -14,13 +14,16 @@ A ordem importa: primeiro os dois blocos abaixo dizem **onde** você mexeu; só 
 
 ## 1. Onde você mexeu ontem
 
+> [!info]- Temporário: escopo inclui `LTM ISS SANTOS`
+> Enquanto durar a preparação para o ISS Santos, o `FROM` abaixo também escaneia `LTM ISS SANTOS` (fora de `MATERIAS/`). Depois da prova, tirar ` OR "LTM ISS SANTOS"` do `FROM` da query.
+
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Nota",
   bloco AS "Bloco",
   prioridade AS "Prioridade",
   dateformat(file.mtime, "HH:mm") AS "Última edição"
-FROM ("MATERIAS" OR "Questoes" OR "Erradas") AND -"Questoes/Paineis"
+FROM ("MATERIAS" OR "Questoes" OR "Erradas" OR "LTM ISS SANTOS") AND -"Questoes/Paineis"
 WHERE file.mtime >= date(today) - dur(1 day) AND file.mtime < date(today)
 SORT file.mtime ASC
 ```

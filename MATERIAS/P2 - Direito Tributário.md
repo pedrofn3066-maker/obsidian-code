@@ -252,6 +252,27 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 #### COSIP (art. 82-A)
 
 Instituída por **lei municipal ou distrital**, respeitados legalidade, irretroatividade, **anterioridade anual e nonagesimal** (CF 150, I e III, "a", "b", "c").
+Desde a **Lei Complementar nº 227/2026**, o art. 82-A deixou de cobrir só iluminação pública: o Município e o DF podem instituir a contribuição também para custear, expandir e melhorar <mark>sistemas de monitoramento para segurança e preservação de logradouros públicos</mark>. ⚠️ É <mark>facultada</mark> a cobrança na fatura de energia elétrica — não é obrigatório usar essa via.
+
+> [!quote]- Texto literal: Art. 82-A, caput e §§1º-2º (L. 5.172/1966, redação da LC 227/2026, p. 1)
+> Art. 82-A Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos, observado o disposto nos incisos I e III do caput do art. 150 da Constituição Federal.
+>
+> § 1º Para os fins do disposto no caput deste artigo, considera-se:
+> I - custeio, expansão e melhoria do serviço de iluminação pública: a aquisição, a implementação, a instalação, a expansão, a manutenção, a operação, a gestão e o desenvolvimento dos projetos, dos equipamentos, das tecnologias, dos serviços e dos ativos destinados à prestação de serviços relativos à rede de iluminação pública, temporária ou permanente, com o objetivo de prover iluminância em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital; e
+> II - custeio, expansão e melhoria de sistemas de monitoramento para segurança e preservação de logradouros públicos: a aquisição, a implementação, a instalação, a expansão, a manutenção, a operação, a gestão e o desenvolvimento dos projetos, dos sistemas, das tecnologias, dos meios de transmissão da informação, da infraestrutura e dos equipamentos destinados ao monitoramento para administração, controle, segurança, preservação e prevenção a desastres em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital, incluídos os ativos necessários ao funcionamento de centros integrados de operação e controle e à integração de sistemas de gestão de monitoramento pela administração pública.
+>
+> § 2º É facultada a cobrança da contribuição a que se refere o caput deste artigo na fatura de consumo de energia elétrica.
+
+> [!tip]- Lupa: COSIP, o objeto ficou maior depois de 2026
+> **A ideia:** a COSIP nasceu para bancar a iluminação pública (porque não dá para cobrar taxa disso — Súmula Vinculante 41); a LC 227/2026 estendeu o mesmo tributo *sui generis* para também financiar monitoramento de segurança nos logradouros.
+>
+> **O passo a passo:** (1) Município ou DF institui por lei própria; (2) pode cobrar para iluminação pública **e/ou** para sistemas de monitoramento (câmeras, centrais de operação, infraestrutura de segurança em vias e logradouros); (3) a lei pode embutir a cobrança na fatura de energia elétrica, mas isso é opção, não obrigação. *Exemplo ilustrativo (sem lastro):* um Município que já cobra COSIP para postes de luz pode, sem criar tributo novo, ampliar a mesma contribuição para bancar câmeras de monitoramento na praça central.
+>
+> **O erro clássico:** achar que "sistemas de monitoramento" é um tributo novo, ou que a cobrança na fatura de energia é obrigatória — o texto usa "poderá".
+
+> [!info]- Ponte
+> - [[ERRO DIREITO TRIBUTÁRIO#21/09]] — errou em 21/09 (IBAM) questão sobre COSIP e RE 573.675: a alternativa vencedora já assumia esse objeto ampliado (segurança/monitoramento), espelhando a CF, art. 149-A, pós-EC 132/2023.
+> - [[P2 - Reforma Tributária#Base de cálculo: complementos (arts. 12 e 13)]] — a COSIP é um dos tributos que **não integram** a base de cálculo do IBS/CBS (art. 12, §2º).
 
 
 ## Limitações ao Poder de Tributar; 
@@ -1340,6 +1361,12 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 > I - representações fiscais para fins penais;
 > II - inscrições na Dívida Ativa da Fazenda Pública;
 > III - parcelamento ou moratória; e IV - incentivo, renúncia, benefício ou imunidade de natureza tributária cujo beneficiário seja pessoa jurídica.
+**Art. 198, §§4º-5º** (Incluídos pela LC 208/2024): a administração tributária pode <mark>requisitar informações cadastrais e patrimoniais</mark> do sujeito passivo a órgãos ou entidades, públicos ou privados, que operem cadastros e registros ou controlem operações de bens e direitos (§4º); e, <mark>independentemente de requisição</mark>, os órgãos e entidades da administração pública direta e indireta devem colaborar compartilhando essas bases de dados (§5º).
+
+> [!quote]- Texto literal: Art. 198, §§4º-5º (L. 5.172/1966, redação da LC 208/2024, p. 2)
+> § 4º Sem prejuízo do disposto no art. 197, a administração tributária poderá requisitar informações cadastrais e patrimoniais de sujeito passivo de crédito tributário a órgãos ou entidades, públicos ou privados, que, inclusive por obrigação legal, operem cadastros e registros ou controlem operações de bens e direitos.
+>
+> § 5º Independentemente da requisição prevista no § 4º deste artigo, os órgãos e as entidades da administração pública direta e indireta de qualquer dos Poderes colaborarão com a administração tributária visando ao compartilhamento de bases de dados de natureza cadastral e patrimonial de seus administrados e supervisionados.
 
 
 ### Dívida Ativa Tributária (arts. 201 a 204 do CTN)
@@ -1413,6 +1440,61 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 > - [[P2 - Direito Tributário#Dívida Ativa Tributária (arts. 201 a 204 do CTN)]] — heading vizinho no CTN (arts. 201 a 204), que precede a certidão.
 > - [[ERRO DIREITO TRIBUTÁRIO]] — errou em 20/09 (marcou D; gabarito B).
 
+
+### Processo Administrativo Fiscal (arts. 208-A a 208-J do CTN)
+- [ ] status [dom:: 0] [peso:: 3]
+
+*Capítulo IV do CTN, entre a Certidão Negativa e as Disposições Finais — inteiramente novo, incluído pela Lei Complementar nº 236/2026. Estabelece normas gerais do processo administrativo fiscal (PAF) para todos os entes federativos, e não só para o IBS.*
+
+**Art. 208-A:** o Capítulo assegura aos litigantes devido processo legal, contraditório, ampla defesa e <mark>duplo grau de jurisdição</mark>. ⚠️ O duplo grau só é **obrigatório** para entes com **mais de 100.000 habitantes** (pelo último censo do IBGE) — entes menores não estão sujeitos a essa exigência mínima.
+
+**Art. 208-B:** o auto de infração deve conter, entre outros: identificação do autuado, descrição clara dos fatos, dispositivo legal infringido e penalidade, subsunção dos fatos ao dispositivo, intimação para cumprir ou impugnar, local/data/hora da lavratura, assinatura e matrícula do autuante.
+
+**Art. 208-C:** a impugnação tempestiva instaura o contencioso e <mark>suspende a exigibilidade</mark> do crédito imediatamente (art. 151, III, do próprio CTN). Cabem recurso voluntário e remessa necessária contra a 1ª instância; e recurso especial contra a 2ª instância quando ela divergir de outro colegiado do mesmo tribunal administrativo. Cabem embargos de declaração (obscuridade, omissão, contradição, erro material), que **interrompem** o prazo de outros recursos. ⚠️ Não cabe recurso hierárquico ao Secretário de Estado/Ministro/integrante do Executivo contra decisão definitiva favorável ao sujeito passivo.
+
+**Art. 208-D — prazos:**
+
+| Ato | Prazo |
+| --- | --- |
+| Impugnação | 20 dias, da ciência da lavratura do auto |
+| Recurso voluntário | 20 dias, da ciência da decisão de 1ª instância desfavorável |
+| Recurso especial | 20 dias, da ciência da decisão de 2ª instância desfavorável |
+| Embargos de declaração | 5 dias, da ciência do despacho/decisão/acórdão |
+| Contrarrazões | mesmo prazo do recurso correspondente |
+| Divulgação da pauta de julgamento | antecedência mínima de 10 dias |
+
+Os prazos são contados em <mark>dias úteis</mark>, excluindo o dia de início e incluindo o do vencimento, e só correm em dia de expediente normal. ⚠️ <mark>Suspende-se o prazo entre 20 de dezembro e 20 de janeiro</mark>, inclusive — as partes podem pedir retirada de pauta de julgamentos previstos nesse período. O contribuinte deve alegar fatos e direito e juntar provas documentais já na primeira manifestação; provas ou razões novas só depois se: (I) houve força maior; (II) o fato/direito é superveniente; ou (III) servem para contrapor o que a outra parte trouxe depois.
+
+**Art. 208-E:** o sujeito passivo tem o <mark>dever de informar</mark> se a matéria impugnada no PAF também foi levada ao Judiciário, juntando cópia da petição. ⚠️ Propor ação judicial com o **mesmo objeto** do processo administrativo importa <mark>renúncia ao recurso administrativo</mark> (e desistência do que já foi interposto).
+
+**Art. 208-F:** decisões e acórdãos devem indicar claramente os fundamentos de fato e de direito; as administrações devem publicizar decisões e acórdãos para consulta.
+
+**Art. 208-G — efeito vinculante no PAF:** súmulas vinculantes do STF; decisões transitadas em julgado do STF/STJ em repercussão geral ou recursos repetitivos; decisões do STF em controle concentrado; resolução do Senado que suspende execução de lei (art. 52, X, CF); súmulas dos próprios tribunais administrativos. § 1º: nesses casos, **não se lavra** auto de infração/notificação, **não se nega** impugnação/restituição/recurso, e **não se inscreve** em dívida ativa o crédito fundado em matéria já decidida a favor do sujeito passivo. § 2º: o tribunal administrativo mantém banco eletrônico com os fundamentos da súmula consolidada.
+
+**Art. 208-H — nulidades:** são nulos os atos de autoridade/órgão/servidor incompetente e os lançamentos sem fundamentação legal (dois incisos do rol foram **vetados**). Intimação nula é **sanada** pelo comparecimento da parte. A nulidade só contamina os atos que dela dependam diretamente. ⚠️ Se a autoridade julgadora **pode decidir o mérito a favor** de quem a nulidade beneficiaria, ela **não pronuncia a nulidade** nem manda repetir o ato — decide direto o mérito.
+
+**Art. 208-I:** o rito do PAF pode ser diferenciado conforme o **valor do crédito**, o **indébito pleiteado** ou o **porte da pessoa jurídica**.
+
+**Art. 208-J:** o PAF sobre a mesma questão jurídica é **sobrestado automaticamente** quando STF/STJ suspenderam coletivamente processos judiciais sobre ela (precedente qualificado). Questões independentes no mesmo processo podem ser destacadas para autos apartados. Isso não impede liminar ou tutela provisória.
+
+> [!quote]- Texto literal: Art. 208-A, §1º, e Art. 208-D, §§3º e 5º (L. 5.172/1966, incluído pela LC 236/2026, p. 2-3)
+> Art. 208-A [...] § 1º No contencioso administrativo fiscal, os entes federativos com mais de 100.000 (cem mil) habitantes residentes deverão assegurar aos contribuintes o duplo grau de jurisdição, nos termos da legislação específica.
+>
+> Art. 208-D [...] § 3º Os prazos serão contados em dias úteis, excluindo-se o dia do início e incluindo-se o do vencimento.
+>
+> § 5º Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive.
+
+> [!tip]- Lupa: PAF do CTN × PAT do IBS — a mesma mecânica, com números diferentes
+> **A ideia:** a LC 236/2026 criou normas **gerais** de processo administrativo fiscal, válidas para qualquer tributo de qualquer ente; a LC 227/2026 já tinha criado normas **específicas** para o IBS (arts. 56 a 102), com o CGIBS como pano de fundo. São regimes vizinhos, não o mesmo texto.
+>
+> **O passo a passo (onde coincidem e onde não):** prazo de impugnação e de recurso: **20 dias** nos dois regimes. Embargos de declaração: **5 dias** nos dois. Contagem: **dias úteis**, exclui o começo e inclui o fim, nos dois. Mas o **PAF geral** (CTN) tem uma regra que o PAT do IBS não repete no mesmo lugar — a **suspensão do prazo entre 20/dez e 20/jan** —, e o **PAT do IBS** tem uma regra que o PAF geral não tem — o **prazo em dobro** para recurso quando quem perde é a administração tributária estadual, distrital ou municipal (LC 227/26, art. 75, §2º). *Exemplo ilustrativo (sem lastro):* um PAF de IPTU (tributo municipal comum) segue só o CTN — sem prazo em dobro; um contencioso de IBS segue a LC 227 — com prazo em dobro para a Fazenda recorrer.
+>
+> **O erro clássico:** aplicar uma regra do regime do IBS (prazo em dobro, CGIBS, Câmara Superior) a um PAF comum de ISS ou IPTU, ou vice-versa — cada um usa a sua lei complementar, mesmo quando o número do prazo coincide.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Disposições Finais e Transitórias (arts. 209 a 218 do CTN)]] — a lupa do art. 210 (contagem de prazos) já registrava que "a regra própria da LC 227 continua pendente"; este heading fecha essa pendência para o regime geral.
+> - [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] — comparação completa do regime específico do IBS (arts. 56 a 102), inclusive o prazo em dobro do art. 75, §2º, que o CTN geral não repete.
+> - [[P2 - Direito Tributário#Suspensão do Crédito tributário]] — o art. 208-C, I remete expressamente ao art. 151, III, do próprio CTN (impugnação suspende a exigibilidade).
 
 ### Disposições Finais e Transitórias (arts. 209 a 218 do CTN)
 - [ ] status [dom:: 0] [peso:: 3]
@@ -3537,6 +3619,20 @@ Art. 39: **revogado (2026)**.
 > § 3º Verificada a preponderância referida neste artigo, tornar-se-á devido o imposto, nos termos da lei vigente à data da aquisição, sobre o valor do bem ou direito nessa data.
 >
 > § 4º O disposto neste artigo não se aplica à transmissão de bens ou direitos, quando realizada em conjunto com a da totalidade do patrimônio da pessoa jurídica alienante.
+**Art. 38, §§3º-4º** (Incluídos pela LC 227/2026): as administrações tributárias municipais/distritais devem <mark>divulgar os critérios</mark> usados para estimar o valor venal, e o contribuinte pode contestá-los por <mark>avaliação contraditória</mark> em procedimento específico (§3º); os serviços registrais e notariais (cartórios) devem <mark>compartilhar as informações</mark> das operações com imóveis com o Fisco municipal/distrital, sob pena de multa (§4º).
+
+**Art. 41** (redação da LC 227/2026): o imposto compete ao <mark>Município da situação do bem</mark>, ou ao Distrito Federal — mesma regra de sempre, só reescrita.
+
+> [!quote]- Texto literal: Art. 38, §§3º-4º, e Art. 41 (L. 5.172/1966, redação da LC 227/2026, p. 1)
+> § 3º As administrações tributárias dos Municípios e do Distrito Federal deverão divulgar os critérios utilizados para estimar o valor venal a que se refere o caput deste artigo, o qual poderá ser contestado pelo contribuinte mediante a apresentação de avaliação contraditória em procedimento específico, nos termos da legislação específica municipal ou distrital.
+>
+> § 4º Os serviços registrais e notariais deverão compartilhar as informações das operações realizadas com bens imóveis com as administrações tributárias dos Municípios e do Distrito Federal, sob pena de multa prevista em lei específica municipal ou distrital.
+>
+> Art. 41 O imposto compete ao Município da situação do bem, ou ao Distrito Federal.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Lançamento]] — o art. 148 (arbitramento) já tratado ali também prevê avaliação contraditória quando o sujeito passivo contesta o valor arbitrado pelo Fisco; a mesma lógica agora está expressa no art. 38, §3º, específica para o ITBI.
+> - [[ERRO DIREITO TRIBUTÁRIO#22/09]] — errou em 22/09 (VUNESP, ISS São Paulo) questão sobre ITBI e fato gerador na consolidação da propriedade fiduciária; mesmo heading.
 
 
 ### 8. ICMS — energia, telecomunicações e combustíveis; serviços (arts. 68 a 70, 74 a 76)
@@ -3551,6 +3647,15 @@ Art. 39: **revogado (2026)**.
 | **derivados de petróleo, combustíveis e minerais** | ICMS · II · IE · IBS · IS (153, VIII) |
 
 Art. 76 (imposto extraordinário de guerra) ↔ CF 154, II: impostos extraordinários, compreendidos ou não na competência tributária, **suprimidos gradativamente** cessadas as causas. ⚠️ Cruzar com [[P2 - Reforma Tributária]] (IBS e IS).
+**Art. 18-A** (Incluído pela LC 194/2022): combustíveis, gás natural, energia elétrica, comunicações e transporte coletivo são <mark>bens e serviços essenciais e indispensáveis</mark>, que não podem ser tratados como supérfluos — para fins do ICMS (CF, art. 155, II). ⚠️ Parágrafo único: (I) é <mark>vedada</mark> alíquota sobre essas operações em patamar **superior** ao das operações em geral; (II) é <mark>facultada</mark> (não obrigatória) alíquota **reduzida** para beneficiar o consumidor. O inciso III desse parágrafo já foi revogado (LC 201/2023).
+
+> [!quote]- Texto literal: Art. 18-A, caput e parágrafo único, I e II (L. 5.172/1966, redação da LC 194/2022, p. 1)
+> Art. 18-A Para fins da incidência do imposto de que trata o inciso II do caput do art. 155 da Constituição Federal, os combustíveis, o gás natural, a energia elétrica, as comunicações e o transporte coletivo são considerados bens e serviços essenciais e indispensáveis, que não podem ser tratados como supérfluos.
+>
+> Parágrafo único. Para efeito do disposto neste artigo:
+> I - é vedada a fixação de alíquotas sobre as operações referidas no caput deste artigo em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços;
+> II - é facultada ao ente federativo competente a aplicação de alíquotas reduzidas em relação aos bens referidos no caput deste artigo, como forma de beneficiar os consumidores em geral; e
+> III - (Revogado pela Lei Complementar nº 201, de 2023)
 
 
 ## Planejamento Tributário: Elisão, Evasão e Elusão Fiscal

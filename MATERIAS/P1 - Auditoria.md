@@ -594,11 +594,11 @@ As alíneas b a f do inciso I valem para os industriais de empresa com faturamen
     - **Em regra**, a NF-e será **transmitida** por meio da utilização software desenvolvido ou adquirido pelo **CONTRIBUINTE**.
         
         - Na hipótese da NF-e for emitida por sistema eletrônico **disponibilizado pelas ADMINISTRAÇÕES TRIBUTÁRIAS** das UFs em seus correspondentes endereços eletrônicos, contendo a assinatura digital da respectiva administração tributária teremos a **Nota Fiscal AVULSA eletrônica – NFA-e, modelo 55**.
-- O arquivo digital da NF-e só poderá ser utilizado como **documento fiscal**, após:
+- O arquivo digital da NF-e <mark style="background:#fff88f">só poderá ser utilizado como **documento fiscal**, após</mark>:
     
     1. Ser **transmitido** eletronicamente à administração tributária.
         
-    2. Ter seu uso autorizado por meio de **Autorização de Uso da NF-e**. _**(a Autorização de Uso identifica a NF-e de forma ÚNICA!)**_
+    2. <mark style="background:#fff88f">Ter seu uso autorizado por meio de **Autorização de Uso da NF-e**</mark>. _**(a Autorização de Uso identifica a NF-e de forma ÚNICA!)**_
         
         🔎 **PREVIAMENTE à concessão da Autorização de Uso da NF-e, a administração tributária da UF do contribuinte analisará, no mínimo, os seguintes elementos:**
         

@@ -13,6 +13,7 @@ tags:
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
 - Dívida Ativa — 2 erros no caderno C02 (23/09/2026): requisitos da cessão onerosa de créditos (art. 39-A) e lançamento contábil (PCASP) dos juros/encargos de mora — o segundo está fora do cofre (código de conta específico, não é conceito legal).
+- PPA x LDO x LOA — 4 erros no caderno C01 (16/09/2026): confundiu PPA com LDO em definição direta e literal do art. 165, §1º, CF (2x seguidas, questões #2904122 e #2503100), errou regra do processo legislativo orçamentário — recursos sem despesa correspondente após rejeição do PLOA (#3178039) — e a regra de cumulatividade LOA+LDO para revisão geral anual, STF RE 905.357 (#3166989). Padrão: sabe os conceitos isolados, mas troca qual lei faz o quê — revisar o quadro comparativo de vigência/função em [[P1 - Direito Financeiro#- Lei orçamentárias (LDO, PPA e LOA)]] e o processo legislativo (art. 166) na seção LOA antes da próxima bateria de AFO.
 - 
 
 ---
@@ -282,3 +283,148 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [!info] 🔗 Na matéria
 > > [[P1 - Direito Financeiro#Dívida fundada e dívida flutuante (Lei 4.320)]] — já estava grifado (dívida flutuante/dívida fundada em amarelo).
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:642`
+
+### 16/09
+
+> [!question]- 16/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Auditor Fiscal de Tributos, Pref. Bragança Paulista, 2026) — Não afetação de impostos x princípio da Exclusividade
+> Considerando as normas de Direito Financeiro aplicáveis à gestão municipal, assinale a alternativa correta.
+>
+> (A) A inscrição de despesas em Restos a Pagar Não Processados ocorre quando o empenho foi realizado no exercício financeiro, mas a despesa não foi liquidada até 31 de dezembro, sendo que tais despesas não são consideradas para o cálculo do resultado primário, ainda que venham a ser pagas em exercícios seguintes.
+> (B) A despesa com pessoal do Município, para fins de apuração dos limites estabelecidos pela LRF, inclui os gastos com inativos e pensionistas, mas exclui as despesas com contratação de pessoal por tempo determinado para atender a necessidade temporária de excepcional interesse público, por não se configurarem como vínculo permanente.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) A Lei Orçamentária Anual (LOA), por ser o instrumento que estima a receita e fixa a despesa para o exercício financeiro, não pode conter autorização para a contratação de operações de crédito, mas sim para a abertura de créditos adicionais suplementares. É vedado também para a LOA a inclusão de dispositivos sobre alterações na legislação tributária, que devem ser tratadas exclusivamente na Lei de Diretrizes Orçamentárias (LDO).</mark>
+> <mark style="background:#affad1">(D) O princípio da não afetação da receita, que veda a vinculação de receitas de impostos a órgão, fundo ou despesa, não se aplica às receitas de impostos municipais destinadas à manutenção e desenvolvimento do ensino e às ações e serviços públicos de saúde, por expressa exceção constitucional.</mark>
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D: não afetação veda vincular receita de IMPOSTOS, salvo exceções do art. 167, IV, CF
+> > <mark style="background:#fff88f">O princípio da não afetação (não vinculação) só atinge receita de IMPOSTOS — não tributos em geral — e tem exceções constitucionais expressas: saúde, manutenção e desenvolvimento do ensino, administração tributária, repartição do produto da arrecadação (arts. 158/159) e garantia a operações de crédito por ARO.</mark> (A) erra: restos a pagar não processados de despesa **primária** SÃO computados no resultado primário quando pagos. (B) erra: pessoal contratado por tempo determinado (art. 37, IX, CF) **entra** na despesa total com pessoal da LRF (art. 18). (C) inverte a regra: a LOA **pode** conter autorização para operação de crédito — é uma das duas exceções ao princípio da Exclusividade (junto com créditos suplementares), não uma vedação.
+>
+> > [!example]- 🧩 Quadro — duas vedações que a banca troca: Exclusividade x Não Afetação
+> > | | O que veda | Exceções | Onde está |
+> > | --- | --- | --- | --- |
+> > | **Exclusividade** | a LOA ter matéria estranha à previsão de receita/fixação de despesa | autorizar créditos suplementares · autorizar operação de crédito (inclusive ARO) | art. 165, §8º, CF |
+> > | **Não Afetação (Não Vinculação)** | vincular receita de **impostos** a órgão, fundo ou despesa | saúde · MDE (ensino) · administração tributária · repartição arts. 158/159 · garantia a ARO · garantia/contragarantia à União | art. 167, IV, CF |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > (C) mistura as duas vedações: nega à LOA algo que ela **pode** fazer (operação de crédito, que é uma das exceções à Exclusividade) e empurra pra LDO um assunto que também não é exclusivo dela. Ler "não pode"/"vedado" com desconfiança quando o texto descreve justamente uma exceção conhecida.
+>
+> > [!quote]- 📜 Texto literal — CF/88, art. 165 §8º e art. 167, IV
+> > Art. 165, § 8º A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.
+> >
+> > Art. 167. São vedados: (...) IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária (...), e a prestação de garantias às operações de crédito por antecipação de receita (...).
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#- Princípios Orçamentários]] — grifei agora o trecho da Exclusividade (créditos suplementares e ARO como exceções); a Não Afetação já está no mnemônico "iFOD"/GATES, mas sem o texto literal do art. 167, IV.
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:143` (grifado agora) · CF/88 art. 165 §8º e art. 167, IV (literal, citado do comentário do TEC)
+
+> [!question]- 16/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Contador, Pref. Caruaru, 2023) — PPA x LDO: qual lei traz as diretrizes de médio prazo
+> Documento que traz as diretrizes, objetivos e metas de médio prazo da administração pública e que prevê, entre outras coisas, as grandes obras públicas a serem realizadas nos próximos anos. Deve ser elaborado criteriosamente, imaginando-se aonde se quer chegar nos próximos quatro anos. Expressa a visão estratégica da gestão pública. A descrição acima se refere a:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) lei de diretrizes orçamentárias</mark>
+> <mark style="background:#affad1">(B) plano plurianual</mark>
+> (C) lei de reforma administrativa
+> (D) lei orçamentária anual
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: plano plurianual (art. 165, §1º, CF)
+> > <mark style="background:#fff88f">O PPA é o plano de MÉDIO PRAZO: 4 anos, do segundo ano de um mandato até o encerramento do primeiro exercício financeiro do mandato seguinte</mark>, com diretrizes, objetivos e metas regionalizadas para as despesas de capital e para os programas de duração continuada. A LDO (A), apesar do nome "diretrizes", **não** é o plano de médio prazo — ela é anual e serve de ponte entre o PPA (4 anos) e a LOA (1 ano). (D) LOA só fixa despesa e estima receita do exercício, sem visão de médio prazo.
+>
+> > [!example]- 🧩 Quadro — PPA x LDO x LOA: o que cada lei faz e por quanto tempo vale
+> > | | PPA | LDO | LOA |
+> > | --- | --- | --- | --- |
+> > | **Vigência** | 4 anos (do 2º ano do mandato ao 1º exercício do mandato seguinte) | 1 ano (elaborada no ano anterior, orienta a LOA seguinte) | 1 ano (o próprio exercício financeiro) |
+> > | **O que fixa** | diretrizes, objetivos e metas regionalizadas p/ despesas de capital e programas de duração continuada | metas e prioridades da administração, política fiscal, altera legislação tributária | estima a receita e fixa a despesa do exercício |
+> > | **Base constitucional** | art. 165, §1º | art. 165, §2º | art. 165, §5º a §8º |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O nome "Lei de **Diretrizes** Orçamentárias" engana: parece que é ela quem traça as grandes diretrizes de médio/longo prazo, mas esse papel é do PPA. A LDO é anual — suas "diretrizes" são só para orientar a LOA do ano seguinte, não um plano de 4 anos.
+>
+> > [!tip] 💡 Macete
+> > PPA = "**P**lano" já entrega que é planejamento plurianual (4 anos). LDO, apesar do nome, é **anual** — pensa nela como o elo de 1 ano entre o PPA e a LOA, nunca como o plano de médio prazo.
+>
+> > [!quote]- 📜 Texto literal — CF/88, art. 165, §§1º-2º
+> > § 1º A lei que instituir o plano plurianual estabelecerá, de forma regionalizada, as diretrizes, objetivos e metas da administração pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada.
+> >
+> > § 2º A lei de diretrizes orçamentárias compreenderá as metas e prioridades da administração pública federal, estabelecerá as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública, orientará a elaboração da lei orçamentária anual, disporá sobre as alterações na legislação tributária e estabelecerá a política de aplicação das agências financeiras oficiais de fomento.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#PPA - Plano Plurianual (CF/1988 e Lei nº 4.320/1964)]] e [[P1 - Direito Financeiro#LDO - Lei de Diretrizes Orçamentárias (CF/1988 e Lei nº 4.320/1964)]] — cobrem diretrizes/objetivos/metas/despesas de capital (PPA) e o Anexo de Riscos Fiscais (LDO) em resumo próprio, mas sem a redação literal do art. 165 §§1º-2º; não grifei por não ser citação literal no cofre.
+> > **Fonte:** cofre (parcial) `MATERIAS/P1 - Direito Financeiro.md:231` (PPA) e `:255` (LDO) · CF/88 art. 165 §§1º-2º (literal, fora do cofre, citado do comentário do TEC)
+
+> [!question]- 16/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Assistente, CAU RJ, 2023) — PPA x LDO: mesma confusão da questão anterior
+> O instrumento de planejamento que estabelece, "de forma regionalizada, as diretrizes, objetivos e metas para administração pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada" é denominado:
+>
+> (A) Plano Diretor
+> (B) Plano de Metas
+> <mark style="background:#affad1">(C) Plano Plurianual</mark>
+> (D) Orçamento Anual
+> <mark style="background:rgba(163, 67, 31, 0.2)">(E) Diretrizes Orçamentárias</mark>
+>
+> **Marquei:** 🟥 E · **Gabarito:** 🟩 C
+> **Obs.:** é literalmente o texto do art. 165, §1º, CF (a mesma redação da questão anterior, #2904122) — errei marcando LDO de novo. Padrão claro: ver "🎯 Mapeamento de Pontos Cegos".
+>
+> > [!success] ✅ Resposta — C: Plano Plurianual (art. 165, §1º, CF)
+> > <mark style="background:#fff88f">O enunciado é a transcrição do art. 165, §1º</mark> — definição do PPA, não da LDO. (A) e (B) não são instrumentos orçamentários constitucionais. (D) Orçamento Anual (LOA) só estima receita e fixa despesa do exercício, sem a visão regionalizada de médio prazo.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#PPA - Plano Plurianual (CF/1988 e Lei nº 4.320/1964)]] — mesmo link da questão anterior.
+> > **Fonte:** cofre (parcial) `MATERIAS/P1 - Direito Financeiro.md:231` · CF/88 art. 165, §1º (literal, citado do comentário do TEC)
+
+> [!question]- 16/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Procurador, Pref. Praia Grande, 2024) — Processo legislativo das leis orçamentárias: ache a alternativa INCORRETA
+> A propósito do processo legislativo de elaboração das leis orçamentárias, está incorreto o que se afirma em:
+>
+> <mark style="background:#affad1">(A) os recursos que, em decorrência de rejeição do projeto de lei orçamentária anual, ficarem sem despesas correspondentes poderão ser utilizados de acordo com a Lei Orçamentária do exercício anterior.</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) as emendas ao projeto de lei do orçamento anual não poderão ser aprovadas quando incompatíveis com o plano plurianual.</mark>
+> (C) é vedada a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem indicação dos recursos correspondentes.
+> (D) as emendas ao projeto de lei de diretrizes orçamentárias não poderão ser aprovadas quando incompatíveis com o plano plurianual.
+>
+> **Marquei:** 🟥 B (a questão pede a INCORRETA; marquei B, mas B é uma afirmação CERTA) · **Gabarito:** 🟩 A (é a que está errada)
+>
+> > [!success] ✅ Resposta — A é a incorreta: recursos sem despesa correspondente vão para crédito especial/suplementar com autorização legislativa, não "para o orçamento do ano anterior"
+> > <mark style="background:#fff88f">Recursos que ficarem sem despesa correspondente por veto, emenda ou rejeição do PLOA são usados mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa</mark> (art. 166, §8º) — não existe a solução de "usar a Lei Orçamentária do exercício anterior" que (A) inventa. (B), (C) e (D) estão certas: emendas ao PLOA e ao PLDO só passam se compatíveis com o PPA (§§3º e 4º), e crédito suplementar/especial sempre exige prévia autorização legislativa e indicação de recursos (art. 167, V).
+>
+> > [!example]- 🧩 Quadro — regras do processo legislativo orçamentário que a banca embaralha
+> > | Regra | O que diz | Artigo |
+> > | --- | --- | --- |
+> > | Emendas ao PLOA | só aprovadas se compatíveis com PPA e LDO, indicarem recursos (só de anulação de despesa, exceto pessoal/dívida/transferências constitucionais) ou corrigirem erro/dispositivo do projeto | art. 166, §3º |
+> > | Emendas ao PLDO | só aprovadas se compatíveis com o PPA | art. 166, §4º |
+> > | Recursos sem despesa (veto/emenda/rejeição do PLOA) | créditos especiais ou suplementares, com prévia e específica autorização legislativa | art. 166, §8º |
+> > | Crédito suplementar/especial | vedado abrir sem prévia autorização legislativa e sem indicação dos recursos | art. 167, V |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > (A) troca o mecanismo técnico exigido (crédito especial/suplementar com autorização legislativa específica) por uma solução de "bom senso" mais simples e intuitiva ("usa o orçamento do ano passado") — mas que não existe na CF. Nas questões "ache a incorreta", a armadilha mais comum é justamente essa: uma alternativa parece óbvia demais para estar errada.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#LOA - Lei Orçamentária Anual (CF/1988 e Lei nº 4.320/1964)]] — já traz o art. 166, §3º (II e III) literal; o §4º (emendas ao PLDO) e o §8º (recursos sem despesa correspondente) não estão no cofre.
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:274` (art. 166 §3º) · CF/88 art. 166 §§4º e 8º e art. 167, V (literal, fora do cofre, citado do comentário do TEC)
+
+> [!question]- 16/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Procurador Municipal, Pref. São Vicente, 2023) — Revisão geral anual: LOA + LDO cumulativamente (STF, RE 905.357)
+> O sindicato dos Servidores Municipais ingressou com ação coletiva postulando o pagamento de reajuste de 5,85% com revisão geral anual do vencimento de seus representados, que a Prefeitura havia deixado de realizar por ausência de previsão de dotação na Lei Orçamentária Anual. O Sindicato argumenta na ação que a verba foi incluída na Lei de Diretrizes Orçamentárias que, na forma da Constituição Federal, estabelece, dentre outros, as metas e prioridades da administração pública em consonância com a trajetória sustentável da dívida pública, de sorte que não poderia a Prefeitura abster-se de realizar a revisão geral anual. A esse respeito, o Supremo Tribunal Federal firmou o seguinte entendimento:
+>
+> (A) a Lei de Diretrizes Orçamentárias que contempla previsão de recursos para revisão geral anual, autoriza a realização da despesa, insuscetível de justificar a mora, por ausência de previsão na Lei Orçamentária Anual.
+> (B) o reajuste de remuneração dos servidores públicos, mediante revisão geral anual, se constitui patrimônio irrenunciável, de sorte que há o dever legal da Administração Pública em cumprir com a obrigação.
+> <mark style="background:#affad1">(C) a revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias.</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) somente a previsão de recursos em dotação orçamentária da Lei Orçamentária Anual fundamenta a obrigação de aplicar e pagar o reajuste de vencimentos em revisão geral anual.</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C: RGA depende CUMULATIVAMENTE de dotação na LOA e previsão na LDO (STF, RE 905.357)
+> > <mark style="background:#fff88f">A revisão geral anual só é exigível quando há, ao mesmo tempo, dotação na LOA e previsão na LDO</mark> — uma sem a outra não basta. (A) erra ao dizer que só a LDO já autoriza a despesa. (D) — que marquei — erra ao dizer que só a LOA já basta. (B) erra ao tratar o reajuste como direito automático e irrenunciável: sem as duas previsões, não há dever de pagar.
+>
+> > [!example]- 🧩 Quadro — o que cada combinação garante (ou não)
+> > | Situação | Gera dever de pagar a RGA? |
+> > | --- | --- |
+> > | Só dotação na LOA | Não |
+> > | Só previsão na LDO | Não |
+> > | LOA **+** LDO juntas | **Sim** — é a única combinação que gera o dever |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca isola só uma das duas leis (ora só a LOA, ora só a LDO) quando o STF exige as duas cumulativamente. A palavra-chave da tese é "cumulativamente" — se a alternativa fala "somente" ou usa só uma lei, desconfie.
+>
+> > [!quote]- 📜 Texto literal — STF, RE 905.357 (tese de repercussão geral)
+> > "A revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias."
+>
+> > [!info] 🔗 Na matéria
+> > Não achei heading sobre revisão geral anual / RE 905.357 em `P1 - Direito Financeiro`; não está no cofre.
+> > **Fonte:** comentário do TEC (STF, RE 905.357) · (sem fonte no cofre)

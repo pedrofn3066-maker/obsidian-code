@@ -93,7 +93,7 @@ function melhorMatch(topico, headings) {
 }
 
 const linhas = [];
-for (const page of dv.pages(`"${MATERIAS}"`)) {
+for (const page of dv.pages(`"${MATERIAS}" or "LTM ISS SANTOS"`)) {  // TEMP ISS Santos — voltar para `"${MATERIAS}"` depois da prova
   if (PULAR.has(page.file.name)) continue;
   const txt = await dv.io.load(page.file.path);
   const checklist = parseChecklist(txt);

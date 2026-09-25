@@ -1,7 +1,7 @@
 ---
 disciplina: Contabilidade Aplicada ao Setor Público
 bloco: Cont. Geral e Pública
-revisado:
+revisado: 2026-09-24
 prova: II
 peso: 3
 pontos: 0
@@ -43,12 +43,39 @@ prioridade: crítico
 - [ ] Depreciação, Amortização e Exaustão [dom:: 3] [peso:: 3.6]
 - [ ] Patrimônio Público [dom:: 4] [peso:: 3.3]
 
+## Tabela de vigência — NBC TSP citadas nesta nota
+
+*Levantada em 2026-09-24, contra a lista oficial de normas vigentes do CFC. O CFC revisou (R1) 30 das ~34 normas entre dezembro/2025 e março-abril/2026, alinhando ao IPSASB Handbook 2024-2025 — os números não mudaram de tópico (exceto a Imobilizado), mas o texto de cada norma revisada é posterior à fonte secundária usada na maior parte desta nota (Possati, 2018).*
+
+| Norma | Tema | DOU | Situação |
+| --- | --- | --- | --- |
+| Estrutura Conceitual (R1) | Conceitos gerais | 07/04/2026 | vigente — conferida contra a nota |
+| NBC TSP 01 | Receita sem contraprestação | 28/10/2016 | vigente, não revisada |
+| NBC TSP 02 | Receita com contraprestação | 28/10/2016 | vigente, não revisada |
+| NBC TSP 03 (R1) | Provisões, Passivos e Ativos Contingentes | 17/03/2026 | vigente — conferida, sem divergência de mecânica |
+| NBC TSP 04 (R1) | Estoques | 17/03/2026 | vigente, não conferida em profundidade |
+| NBC TSP 05 (R1) | Concessão de Serviços Públicos: Concedente | 17/03/2026 | vigente, não conferida em profundidade |
+| NBC TSP 06 (R1) | Propriedade para Investimento | 17/03/2026 | vigente, não conferida em profundidade |
+| NBC TSP 07 | Ativo Imobilizado | 28/09/2017 | **vigente até 31/12/2026** — revogada por NBC TSP 37 em 1º/1/2027 |
+| NBC TSP 08 (R1) | Ativo Intangível | 17/03/2026 | vigente, não conferida em profundidade |
+| NBC TSP 09 (R1) | Redução ao Valor Recuperável — não gerador de caixa | 17/03/2026 | vigente — conferida, sem divergência |
+| NBC TSP 10 (R1) | Redução ao Valor Recuperável — gerador de caixa | 17/03/2026 | vigente — conferida, sem divergência |
+| NBC TSP 11 (R1) | Apresentação das Demonstrações Contábeis | 17/03/2026 | vigente — conferida, 3 itens novos incorporados (ver BP) |
+| NBC TSP 12 (R1) | Demonstração dos Fluxos de Caixa | 17/03/2026 | vigente — conferida, sem divergência |
+| NBC TSP 13 (R1) | Informação Orçamentária nas Demonstrações Contábeis | 17/03/2026 | vigente, não conferida em profundidade |
+| NBC TSP 16 (R1) | Demonstrações Contábeis Separadas | 17/03/2026 | vigente — nota ainda reflete o texto de 2018, sinalizado no corpo |
+| NBC TSP 17 (R1) | Demonstrações Contábeis Consolidadas | 17/03/2026 | vigente — nota ainda reflete o texto de 2018, sinalizado no corpo |
+| NBC TSP 18 (R1) | Investimento em Coligada/Empreendimento Controlado em Conjunto | 17/03/2026 | vigente, não conferida em profundidade |
+| NBC TSP 21 (R1) | Combinações no Setor Público | 17/03/2026 | vigente, não conferida em profundidade |
+| NBC TSP 34 | Custos no Setor Público | 10/12/2021 | vigente, não revisada |
+| NBC TSP 37 | Ativo Imobilizado | 11/12/2025 | **só entra em vigor em 1º/1/2027** — até lá, NBC TSP 07 é a norma correta |
+
 # Bloco A:
 
 ## - NBC TSP - Estrutura Conceitual
 - [ ] status [dom:: 0] [peso:: 3]
 
-**Fonte:** NBC TSP Estrutura Conceitual + [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Gilmar Possati, Estratégia Concursos, 2018).
+**Fonte:** NBC TSP Estrutura Conceitual + [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Gilmar Possati, Estratégia Concursos, 2018). ⚠️ **Revisada (R1)** em DOU 07/04/2026 — a seção "Elementos das demonstrações contábeis" abaixo já incorpora os conceitos novos da R1 (Direitos, Unidade Contábil, Acordos Vinculantes); o restante do capítulo (RCPG, características qualitativas, usuários) ainda reflete só o Possati 2018, não conferido contra o texto revisado.
 
 **Alcance:** a Estrutura Conceitual e as demais NBC TSP aplicam-se **obrigatoriamente** às entidades do setor público na elaboração dos RCPGs — governos, poderes (inclusive tribunais de contas, defensorias, MP), autarquias, fundações públicas, fundos, consórcios públicos e **empresas estatais dependentes**. Empresas estatais **independentes** ficam fora do alcance, salvo aplicação facultativa.
 
@@ -70,7 +97,7 @@ Base da Estrutura Conceitual (Possati, p. 6–14): o objetivo da maioria das ent
 
 **Seis características do setor público:** (a) volume e significância das transações **sem contraprestação**; (b) importância do **orçamento público**; (c) natureza dos programas e **longevidade** do setor público; (d) natureza e propósito dos ativos e passivos; (e) **papel regulador** das entidades; (f) relacionamento com as **estatísticas de finanças públicas (EFP)**.
 
-**Objetivo dos RCPGs:** fornecer informação útil para **prestação de contas e responsabilização (accountability)** e para **tomada de decisão**. Usuários de serviços e provedores de recursos precisam avaliar: desempenho no exercício; **liquidez** (obrigações atuais) e **solvência** (obrigações de longo prazo); **sustentabilidade** da prestação de serviços; capacidade de se adaptar a novas situações. ⚠️ A lista é **exemplificativa**, não taxativa.
+**Objetivo dos RCPGs:** fornecer informação útil para **prestação de contas e responsabilização (accountability)** e para **tomada de decisão**. ⚠️ Quem exerce essa fiscalização tem base constitucional própria: [[P1 - Direito Constitucional#Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75 da CF/1988)|arts. 70-75 da CF/88]] (controle externo pelo Tribunal de Contas + controle interno) — e o orçamento que os RCPGs de entes públicos precisam refletir está em [[P1 - Direito Financeiro|arts. 163-169 da CF/88]]. Usuários de serviços e provedores de recursos precisam avaliar: desempenho no exercício; **liquidez** (obrigações atuais) e **solvência** (obrigações de longo prazo); **sustentabilidade** da prestação de serviços; capacidade de se adaptar a novas situações. ⚠️ A lista é **exemplificativa**, não taxativa.
 
 | Usuário | Precisa de informação para avaliar |
 | --- | --- |
@@ -115,13 +142,16 @@ Ente governamental ou outra organização, programa ou área identificável de a
 <mark style="background:#fff88f">Comparar com a Estrutura Conceitual privada — [[P2 - Contabilidade Avançada e de Custos#- Contabilidade Básica;\|CPC 00]] — as definições são estruturalmente parecidas, mas a pública fala em "situação patrimonial líquida", não "patrimônio líquido" como nome primário, e substitui "proprietários" por "contribuições/distribuições de proprietários" mesmo sem estrutura acionária típica.</mark>
 
 - **Ativo:** recurso controlado no presente, resultado de evento passado. Três condições cumulativas: gera benefício econômico futuro ou potencial de serviços, é controlado pela entidade, resulta de evento passado.
-    - **Recurso** (5.7): item com **potencial de serviços** ou com **capacidade de gerar benefícios econômicos**. A **forma física não é condição necessária**. O potencial ou a capacidade podem surgir do próprio recurso ou dos **direitos de sua utilização**, o que inclui o direito de usá-lo para prestar serviços ou de convertê-lo em caixa por alienação. Item que copia esse conceito foi dado como CERTO.
+    - **Recurso** (5.6A, corrigindo a numeração — o antigo item 5.7 foi **eliminado** na revisão R1 de 2026): **um direito** ao potencial de serviços ou à capacidade de gerar benefícios econômicos (ou a ambos). A **forma física não é condição necessária**. Item que copia esse conceito foi dado como CERTO.
+        - **Direitos** (5.7A-5.7G, **conceito novo da R1**): duas famílias — (a) direitos que correspondem a uma **obrigação de outra parte** (receber caixa, receber bens/serviços, trocar recursos em condição favorável, beneficiar-se de obrigação condicionada a evento futuro); (b) direitos que **não** correspondem a obrigação de outra parte (direito sobre objeto físico — imobilizado, estoque — ou sobre propriedade intelectual). ⚠️ Nem todo direito é ativo: só é ativo se tiver potencial/benefício **além do disponível a todas as partes** (direito de acesso público, tipo passagem sobre terra pública, normalmente não é ativo) **e** for controlado pela entidade.
     - **Potencial de serviços** (5.8 e 5.9): capacidade de prestar serviços que contribuam para os objetivos da entidade, permitindo alcançá-los **sem necessariamente gerar entrada líquida de caixa**. Podem ser ativos de recreação, do patrimônio cultural, comunitários, de defesa nacional e outros mantidos pelos governos para prestar serviços a terceiros.
-    - **Benefícios econômicos** (5.10): **entradas de caixa ou reduções das saídas de caixa**, derivadas (a) da utilização do ativo na produção e na venda de serviços ou (b) da troca direta do ativo por caixa ou por outros recursos.
-- **Passivo:** obrigação presente, derivada de evento passado, cuja extinção resulta em **saída de recursos**. Obrigação legal ou não legalmente vinculada, mas inevitável pela entidade.
+    - **Benefícios econômicos** (5.10): **entradas de caixa ou reduções das saídas de caixa**, derivadas (a) da utilização do ativo na produção e na venda de serviços, (b) da troca direta do ativo por caixa ou por outros recursos, ou (c) da **extinção ou redução de um passivo por meio da transferência de um ativo**.
+- **Passivo** (5.14A, três condições cumulativas, espelhando o tripé do Ativo): (a) a entidade **tem uma obrigação**; (b) a obrigação é **para transferir recursos**; (c) é obrigação **presente**, decorrente de evento(s) passado(s). Obrigação legal ou não legalmente vinculada, mas inevitável pela entidade. ⚠️ **Poder soberano não afasta a definição de passivo** (5.15E) — o governo poder alterar a lei não significa que a obrigação atual deixe de ser passivo.
 - **Situação Patrimonial Líquida:** ativos − passivos (após outros recursos/obrigações). Pode ser residual positivo ou negativo.
 - **Receita:** aumento na situação líquida **não oriundo de contribuição dos proprietários**.
 - **Despesa:** diminuição na situação líquida **não oriunda de distribuição aos proprietários**.
+- **Unidade contábil** (5.26A-H, **conceito novo da R1**): o direito/obrigação (ou grupo) ao qual se aplicam os critérios de reconhecimento e mensuração — pode haver unidade de reconhecimento diferente da unidade de mensuração. ⚠️ **Não confundir com compensação** (netting): unidade contábil agrupa direitos/obrigações interdependentes num único ativo/passivo; compensação seria liquidar ativo e passivo já reconhecidos separadamente — a Estrutura Conceitual diz que compensação **geralmente não é apropriada**.
+- **Acordos vinculantes igualmente não executados** (5.26I-J, **conceito novo da R1**, equivalente a *executory contracts*): quando nenhuma parte cumpriu suas obrigações (ou ambas cumpriram igualmente em parte), o direito e a obrigação de trocar recursos são interdependentes e formam **um único ativo ou passivo** — ativo se os termos forem atualmente favoráveis à entidade, passivo se desfavoráveis. Quando uma parte cumpre primeiro, o combinado vira ativo puro (direito a receber) ou passivo puro (obrigação a transferir).
 
 #### Reconhecimento e mensuração
 
@@ -328,7 +358,7 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 ## - Base de mensuração
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Patrimônio público
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-24
 
 **Fonte:** Lei 4.320/1964 + MCASP 11ª edição (STN), Parte I.
 
@@ -356,7 +386,7 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 É essa dualidade que justifica a segregação de classes no [[#- PCASP e escrituração contábil pública\|PCASP]] (patrimonial × orçamentária × controle) e o tratamento diferenciado dos [[#1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL\|regimes]] já vistos acima.
 
 ## - Princípios de CASP
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-24
 
 **Princípio da Oportunidade:** base indispensável à integridade e à fidedignidade dos processos de reconhecimento, mensuração e evidenciação da informação contábil, dos atos e dos fatos que afetam ou possam afetar o patrimônio da entidade pública, observadas as NBC aplicadas ao Setor Público.
 
@@ -415,7 +445,7 @@ Integridade e fidedignidade: as variações devem ser reconhecidas **na sua tota
 ## - Imobilizado
 - [ ] status [dom:: 0] [peso:: 3]
 
-**Fonte:** NBC TSP 07 — Ativo Imobilizado, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018).
+**Fonte:** NBC TSP 07 — Ativo Imobilizado, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018). ⚠️ **NBC TSP 07 é a norma vigente até 31/12/2026** — a partir de **1º/1/2027** ela é revogada pela **NBC TSP 37** (DOU 11/12/2025, elaborada com base na IPSAS 45, mais recente que a IPSAS 17 que embasava a 07). Se a prova for até o fim de 2026, cobrar "NBC TSP 07" ainda é correto; para provas de 2027 em diante, checar a 37.
 
 <mark style="background:#fff88f">Comparar com [[P2 - Contabilidade Avançada e de Custos#- Imobilizado (CPC 27);\|CPC 27 privado]] — o núcleo (reconhecimento, custo, modelo de custo × reavaliação) é quase idêntico. As diferenças reais: alcance específico (equipamento militar, ativos de infraestrutura), a **frequência obrigatória** de reavaliação por classe de volatilidade, e o **patrimônio cultural** como categoria própria.</mark>
 
@@ -497,7 +527,7 @@ Quando: (a) alienado; ou (b) **não há mais expectativa** de benefício econôm
 ## - Depreciação
 - [ ] status [dom:: 0] [peso:: 3]
 
-**Fonte:** NBC TSP 07 + MCASP 11ª edição (STN), item 11.5.
+**Fonte:** NBC TSP 07 (vigente até 31/12/2026; revogada pela **NBC TSP 37** a partir de 1º/1/2027) + MCASP 11ª edição (STN), item 11.5.
 
 > [!info]- Correção de duas suposições anteriores
 > O callout de lacuna que existia aqui apostava em duas coisas — as duas **erradas**, conferidas contra o MCASP: (1) **bens de uso comum** (ativos de infraestrutura — rodovias, redes de esgoto, pontes) **depreciam sim**, pela mesma base dos demais imobilizados, com valor justo estimado por **custo de reposição depreciado** quando não há mercado observável; (2) a vida útil e o valor residual **não** vêm de tabela fixa do MCASP — são **estimados pelo próprio ente**, conforme suas características de uso (o mesmo veículo pode ter vida útil diferente na rotina burocrática × na ronda policial). O que **não** deprecia é mais restrito do que eu supunha: só **terrenos** (salvo pedreiras/aterros) e **bens de natureza cultural**.
@@ -765,7 +795,7 @@ Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a cap
 | edifício **próprio ou em arrendamento financeiro**, arrendado sob **arrendamento operacional com fins comerciais**; edifício **desocupado** mantido para arrendar | em construção **por conta de terceiros**; **ocupada pelo proprietário**; arrendada a outra entidade sob **arrendamento financeiro**; mantida para **serviço social** que também gera caixa; mantida para **propósitos estratégicos** |
 | propriedade em construção para uso futuro como PPI | |
 
-⚠️ **Imóvel para aluguel:** aluguel ligado à **atividade-fim** da entidade → **imobilizado (NBC TSP 07)**; **não** ligado → **propriedade para investimento (NBC TSP 06)**.
+⚠️ **Imóvel para aluguel:** aluguel ligado à **atividade-fim** da entidade → **imobilizado (NBC TSP 07 até 31/12/2026; NBC TSP 37 a partir de 2027)**; **não** ligado → **propriedade para investimento (NBC TSP 06)**.
 
 **Reconhecimento:** só se (a) provável fluxo de benefícios econômicos ou potencial de serviços **e** (b) custo ou valor justo mensurável com confiança. Manutenção usual **não** integra o valor contábil — é **VPD**.
 
@@ -803,7 +833,7 @@ Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a cap
 ## - PCASP e escrituração contábil pública
 - [x] status [dom:: 1] [peso:: 3] ✅ 2026-09-19
 
-**Fonte:** MCASP 11ª edição (STN), Parte IV — Plano de Contas Aplicado ao Setor Público.
+**Fonte:** MCASP 11ª edição (STN), Parte IV — Plano de Contas Aplicado ao Setor Público. **Base normativa da edição vigente:** Portaria Conjunta STN/SOF nº 26/2024, Portaria Conjunta STN/SRPC nº 25/2024 e Portaria STN/MF nº 2.016/2024 (todas de 18/12/2024) — é daí que vem a obrigatoriedade e a competência da STN para criar/alterar/codificar as contas.
 
 **Conceito:** estrutura básica da escrituração — relação padronizada de contas que permite registro sistematizado dos atos e fatos, e a elaboração de relatórios e demonstrações conforme a necessidade dos usuários.
 
@@ -846,7 +876,7 @@ Escrituração: [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Bal
 ## NBC TSP 17 — Demonstrações Contábeis Consolidadas
 - [ ] status [dom:: 0] [peso:: 3]
 
-**Fonte:** NBC TSP 17 — Demonstrações Contábeis Consolidadas (Resolução CFC, 18/10/2018, elaborada a partir da Ipsas 35).
+**Fonte:** NBC TSP 17 — Demonstrações Contábeis Consolidadas (Resolução CFC, 18/10/2018, elaborada a partir da Ipsas 35). ⚠️ **Revisada (R1)** em DOU 17/03/2026, alinhada ao IPSASB Handbook — a norma abaixo ainda reflete o texto de 2018; conferir o texto revisado antes de tratar como vigente na íntegra (inclusive a data de vigência do item abaixo).
 
 **Objetivo e alcance:** a entidade que elabora e apresenta demonstrações contábeis pelo **regime de competência** aplica esta norma às demonstrações contábeis consolidadas da entidade econômica; a controladora que controla uma ou mais entidades **deve** apresentar demonstrações contábeis consolidadas. (NBC TSP 17, itens 1-3, p. 2)
 
@@ -920,7 +950,7 @@ Escrituração: [[P2 - Contabilidade Avançada e de Custos#- Escrituração, Bal
 ## NBC TSP 16 — Demonstrações Contábeis Separadas
 - [ ] status [dom:: 0] [peso:: 3]
 
-**Fonte:** NBC TSP 16 — Demonstrações Contábeis Separadas (Resolução CFC, 18/10/2018, elaborada a partir da Ipsas 34).
+**Fonte:** NBC TSP 16 — Demonstrações Contábeis Separadas (Resolução CFC, 18/10/2018, elaborada a partir da Ipsas 34). ⚠️ **Revisada (R1)** em DOU 17/03/2026, alinhada ao IPSASB Handbook — a norma abaixo ainda reflete o texto de 2018; conferir o texto revisado antes de tratar como vigente na íntegra.
 
 **Objetivo e alcance:** a norma estabelece critérios de **contabilização e divulgação** para investimentos em controladas, em empreendimentos controlados em conjunto (ECC) e em coligadas, **quando** a entidade elabora demonstrações contábeis separadas — a norma **não determina** quais entidades devem elaborá-las, só regula como fazê-lo quando a entidade (por escolha ou exigência regulatória) apresenta essas demonstrações. (NBC TSP 16, itens 1-3, p. 1-2)
 
@@ -1031,6 +1061,8 @@ Regime orçamentário e critério de classificação; período do orçamento; en
 ## - Balanço Financeiro
 - [ ] status [dom:: 0] [peso:: 3]
 
+**Base legal:** Lei 4.320/1964, art. 103 (caput e parágrafo único) — única demonstração do bloco que não decorre da NBC TSP 11 (ver [[#- Patrimônio público|aviso de que o BF não integra o conjunto completo da NBC TSP 11]]).
+
 **Atributos de classificação — Financeiro (F) × Permanente (P):**
 
 | Grupo | Financeiro (F) | Permanente (P) |
@@ -1084,7 +1116,7 @@ Regime orçamentário e critério de classificação; período do orçamento; en
 ## - BP
 - [ ] status [dom:: 1] [peso:: 3]
 
-**Fonte:** NBC TSP 11 — Apresentação das Demonstrações Contábeis, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018).
+**Fonte:** NBC TSP 11 — Apresentação das Demonstrações Contábeis, via [NBC TSP Resumidas e Esquematizadas](https://www.estrategiaconcursos.com.br) (Possati, 2018). ⚠️ **Revisada (R1)**, DOU 17/03/2026 — conteúdo abaixo conferido contra o texto revisado (ver itens novos na lista de conteúdo mínimo).
 
 **Tempestividade:** a entidade deve estar **pronta para divulgar em até 6 meses** da data-base. Complexidade das operações **não justifica** atraso além do prazo — só legislação específica pode dilatar.
 
@@ -1111,6 +1143,8 @@ Tudo o que não se enquadra é **não circulante**.
 #### Itens mínimos do Balanço Patrimonial (NBC TSP 11)
 
 Imobilizado · propriedade para investimento · intangível · ativos financeiros · investimentos por equivalência patrimonial · estoques · valores a receber de transação **sem** contraprestação (impostos, transferências) · contas a receber de transação **com** contraprestação · caixa e equivalentes · tributos e transferências a pagar · contas a pagar de transação com contraprestação · provisões · passivos financeiros · participação de não controladores (destacada no PL) · patrimônio líquido atribuível à controladora.
+
+⚠️ **Três itens novos da revisão R1 (2026)**, ligados a normas que não existiam em 2018: **ativos mantidos para negociação/venda** (grupos de alienação, conforme NBC TSP 36 — Ativo Não Circulante Mantido para Venda e Operação Descontinuada) · **passivos de benefícios sociais** · **passivos incluídos em grupos de alienação mantidos para venda** (mesma NBC TSP 36).
 
 ⚠️ A norma **não determina ordem nem formato** de apresentação das contas — só o conteúdo mínimo.
 
@@ -1190,7 +1224,7 @@ Ganhos e perdas não realizados de variação cambial **não são fluxos de caix
 **Saldo final** = geração líquida + saldo inicial = 48.772.320 + 12.000.000 = **R$ 60.772.320**
 
 ## - DMPL
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-24
 
 **Fonte:** NBC TSP Resumidas e Esquematizadas (Possati, Estratégia Concursos, 2018), NBC TSP 11 (p. 69–70).
 

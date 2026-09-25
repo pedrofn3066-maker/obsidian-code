@@ -12,8 +12,10 @@ tags:
 
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
-- **Padrão comportamental, não de conteúdo:** no caderno C01 RETRI (23/09/2026), 5 dos 6 erros de "Estrutura Organizacional do CGIBS" foram marcar Errado em item que era cópia literal do art. 27/29/32/41 (competência de órgão) — desconfiança da extensão/detalhe do item, não falta de conteúdo. Item longo e específico sobre competência costuma ser literal, não pegadinha.
+- **Padrão comportamental, não de conteúdo:** no caderno C01 RETRI (23/09/2026), 5 dos 6 erros de "Estrutura Organizacional do CGIBS" foram marcar Errado em item que era cópia literal do art. 27/29/32/41 (competência de órgão) — desconfiança da extensão/detalhe do item, não falta de conteúdo. Item longo e específico sobre competência costuma ser literal, não pegadinha. **Confirmado de novo no caderno C04 RETRI (24/09/2026):** 3 dos 8 erros (split payment, art. 32 § 4º / art. 34, V / art. 55) foram de novo marcar Errado em item literal correto — o padrão não é pontual, é recorrente.
 - Da Estrutura Organizacional do CGIBS (arts. 7º a 39 da LC nº 227/2026) — 6/7 erros do caderno C01 RETRI (23/09/2026) vieram daqui.
+- **Modalidades de Extinção dos Débitos — split payment (arts. 27 a 37):** 4/8 erros do caderno C04 RETRI (24/09/2026). Confusão entre procedimento **padrão** (art. 32, exige identificação e consulta ao sistema) × **simplificado** (art. 33, percentual preestabelecido, e agora com opção automática por omissão — art. 33, § 2º-A, LC 227/2026); e entre **fornecedor** × **adquirente** nos prazos de devolução do excedente (sempre ao fornecedor, em 3 dias úteis).
+- **Não Cumulatividade (arts. 47 a 56):** 3/8 erros do caderno C04 RETRI (24/09/2026). Estorno de crédito por alíquota reduzida (não ocorre — art. 47, § 10 — ao contrário de imunidade/isenção, que anulam créditos pelo art. 51); vedação/exceção de transferência de créditos (art. 55: vedada em regra, exceto sucessão por fusão/cisão/incorporação); e a relação regime regular × diferenciado × Simples Nacional (art. 41: regular compreende diferenciado; art. 47, § 9º: crédito ao comprar de optante do Simples fora do regular).
 
 ---
 
@@ -611,3 +613,206 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Execução orçamentária e gestão fiscal do CGIBS (art. 42 e correlatos)]]
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1686`, `:1694-1695`
+
+### 24/09
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFFE SEFAZ CE 2026, #4042641) — Split payment simplificado: falta de identificação implica opção automática (§2º-A)
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> A originação de transação de pagamento relativa à operação com bem ou com serviço sem a identificação dos valores do IBS e da CBS implica opção pelo procedimento simplificado do split payment.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: a omissão vira opção automática pelo simplificado
+> > Art. 33, <span class="g-comp">§ 2º-A</span> (incluído pela LC 227/2026): se o originador da transação **não** identifica os valores de IBS e CBS (identificação exigida no procedimento **padrão**, art. 32, § 1º, II), esse silêncio **por si só** já <mark style="background:#fff88f">configura a opção pelo procedimento simplificado</mark>, sem precisar de declaração expressa.
+> >
+> > A lógica: o procedimento padrão só funciona se o prestador de pagamento conseguir isolar quanto é IBS/CBS na operação para consultar o sistema do CGIBS/RFB; sem essa informação, o sistema cai automaticamente para o simplificado, que calcula por percentual preestabelecido (art. 33, §§ 1º e 2º), sem precisar do valor exato do débito.
+> >
+> > **Marquei Errado por falta de familiaridade com essa regra:** é dispositivo novo, incluído pela LC 227/2026 — vale reler o art. 33 inteiro para fixar a diferença entre padrão (identifica e consulta) e simplificado (percentual fixo, opcional ou automático por omissão).
+>
+> > [!quote]- 📜 Texto literal — art. 33, § 2º-A
+> > "A originação de transação de pagamento relativa à operação com bem ou com serviço sem a identificação dos valores do IBS e da CBS, nos termos do inciso II do § 1º do art. 32 desta Lei Complementar, implica opção pelo procedimento simplificado de que trata este artigo. (Incluído pela Lei Complementar nº 227, de 2026)"
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)]] — o § 2º-A ainda não está registrado nessa nota (a nota resume o art. 33 até o § 7º, sem o § 2º-A da LC 227/2026); vale acrescentar na próxima passada pelo `/absorver-pdf` da LC 227/2026.
+> > **Fonte:** comentário do TEC (LC 214/2025 + LC 227/2026, art. 33)
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354359) — Split payment padrão: consulta indisponível — CGIBS/RFB transferem ao fornecedor, não ao adquirente (§4º)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> Quanto ao procedimento padrão do split payment, caso a consulta ao sistema do Comitê Gestor do IBS e da RFB não possa ser efetuada, caberá ao Comitê Gestor do IBS e à RFB efetuar o cálculo dos valores dos débitos do IBS e da CBS das operações vinculadas à transação de pagamento, com a dedução das parcelas já extintas por quaisquer das modalidades previstas nesta Lei Complementar, e também transferir ao adquirente, em até cinco dias úteis, os valores recebidos que excederem ao montante calculado.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: dois erros no mesmo item — fornecedor (não adquirente) e 3 dias úteis (não 5)
+> > Art. 32, § 4º, II, "b": quando a consulta ao sistema do CGIBS/RFB não pode ser feita, o prestador de pagamento segrega e recolhe com base nas informações que tem (inciso I); depois, CGIBS e RFB calculam a dedução das parcelas já extintas (alínea "a") e transferem o excedente ao <mark style="background:#fff88f">fornecedor</mark> — quem recebe o pagamento, não o adquirente que paga — em até <span class="g-prazo">3 (três) dias úteis</span>, não 5.
+> >
+> > **Quem é quem:** o dinheiro entra pelo pagamento do adquirente; o que sobra depois do split volta pra quem vendeu (fornecedor), porque é ele quem tem direito ao valor líquido da venda.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca dupla no mesmo item: sujeito (adquirente por fornecedor) e prazo (5 dias por 3 dias úteis) — a mesma estrutura de erro que caiu no item seguinte sobre não responsabilidade dos prestadores (mesmo artigo, mesmo lote).
+>
+> > [!quote]- 📜 Texto literal — art. 32, § 4º
+> > "§ 4º Caso a consulta não possa ser efetuada nos termos do § 3º deste artigo, deverá ser adotado o seguinte procedimento: I - o prestador de serviços de pagamento ou a instituição operadora do sistema de pagamentos segregará e recolherá ao Comitê Gestor do IBS e à RFB o valor dos débitos do IBS e da CBS incidentes sobre as operações vinculadas à transação de pagamento, com base nas informações recebidas; e II - o Comitê Gestor do IBS e a RFB: a) efetuarão o cálculo dos valores dos débitos do IBS e da CBS das operações vinculadas à transação de pagamento, com a dedução das parcelas já extintas por quaisquer das modalidades previstas no art. 27 desta Lei Complementar; e b) transferirão ao fornecedor, em até 3 (três) dias úteis, os valores recebidos que excederem ao montante de que trata a alínea "a" deste inciso."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Split payment (arts. 31 a 35)]] — já registrado ("CGIBS e RFB calculam a dedução das parcelas já extintas e transferem ao fornecedor o excedente em até 3 dias úteis"); trecho já estava correto no cofre, sem grifo de mark, o Pedro só não tinha fixado.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:712`
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354367) — Split payment: prestadores de pagamento não são responsáveis tributários (art. 34, V, "b")
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> No split payment, os prestadores de serviços de pagamentos e as instituições operadoras de sistemas de pagamento não serão responsáveis tributários pelo IBS e pela CBS incidentes sobre as operações com bens e com serviços cujos pagamentos eles liquidem.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 34, V, "b"
+> > Art. 34, V, "b": os prestadores de pagamento **segregam e recolhem** o IBS/CBS no split, mas <mark style="background:#fff88f">não respondem tributariamente</mark> pelos tributos das operações cujo pagamento liquidam — a responsabilidade continua com o contribuinte da operação. É item longo e específico, mas literal — sem troca de palavra.
+> >
+> > **Obs.:** este mesmo ponto já apareceu em 20/09 (ISS Guarulhos, Q116) — a mesma regra do art. 34, V, "b" foi cobrada como alternativa correta lá também.
+>
+> > [!quote]- 📜 Texto literal — art. 34, V
+> > "V - os prestadores de serviços de pagamentos e as instituições operadoras de sistemas de pagamento: (...) b) não serão responsáveis tributários pelo IBS e pela CBS incidentes sobre as operações com bens e com serviços cujos pagamentos eles liquidem."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)]] — o não-responsabilidade dos prestadores já está registrada aqui, com a mesma pegadinha de 20/09 na ponte da nota.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:720`
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354373) — Recolhimento pelo adquirente quando o instrumento de pagamento não permite split (art. 36)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> O adquirente de bens ou de serviços que seja contribuinte do IBS e da CBS pelo regime regular poderá pagar o IBS e a CBS incidentes sobre a operação caso o pagamento ao fornecedor seja efetuado mediante a utilização de instrumento de pagamento que não permita a segregação e o recolhimento por split payment. Essa opção de extinção do débito será exercida exclusivamente mediante o recolhimento, pelo adquirente, do IBS e da CBS incidentes sobre a operação.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 36, caput e § 1º
+> > Art. 36, caput: o adquirente contribuinte do **regime regular** pode pagar o IBS/CBS da operação quando o instrumento de pagamento usado **não permite** a segregação do split. Art. 36, § 1º: essa opção se exerce <mark style="background:#fff88f">exclusivamente pelo recolhimento</mark> — não há outra forma de manifestar a escolha (não é declaração, é o próprio pagamento que constitui a opção).
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Recolhimento pelo adquirente e pelo responsável (arts. 36 e 37)]] — já grifado ("3 dias úteis" do § 3º), o trecho do caput e § 1º usado nesta resposta está sem mark, mas o texto já está correto no cofre.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:734`
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3370870) — Ressarcimento integral ou parcial: o remanescente pode ser compensado **ou ressarcido**, não só compensado (art. 39, § 1º)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> O contribuinte do IBS e da CBS que apurar saldo a recuperar na forma descrita nesta Lei Complementar ao final do período de apuração poderá solicitar seu ressarcimento integral ou parcial. Caso o ressarcimento não seja solicitado ou a solicitação seja parcial, o valor remanescente do saldo a recuperar constituirá crédito do contribuinte, o qual apenas poderá ser utilizado para compensação em períodos posteriores.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: o remanescente serve para compensação **ou** ressarcimento, não "apenas" compensação
+> > A primeira parte do item é literal (art. 39, caput): saldo a recuperar → ressarcimento integral ou parcial. O erro está no fecho: o valor **não solicitado** ou a parte **não ressarcida** vira crédito do contribuinte, utilizável para <mark style="background:#fff88f">compensação OU ressarcido em períodos posteriores</mark> (art. 39, § 1º) — a palavra "apenas" fecha uma porta que a lei deixa aberta.
+> >
+> > **Por que isso faz sentido:** o crédito não vira "prisioneiro" da compensação. Se num período seguinte o contribuinte ainda tiver saldo a recuperar (agora somado a esse remanescente), ele pode pedir ressarcimento de novo, normalmente — não existe regra que condicione esse crédito remanescente a só abater débito futuro.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Item longo e majoritariamente literal (2 dispositivos corretos seguidos), com a restrição indevida ("apenas") plantada só no final — fácil de ler rápido e marcar Certo por inércia do que veio antes.
+>
+> > [!quote]- 📜 Texto literal — art. 39, caput e § 1º
+> > "Art. 39. O contribuinte do IBS e da CBS que apurar saldo a recuperar na forma do art. 45 ao final do período de apuração poderá solicitar seu ressarcimento integral ou parcial. § 1º Caso o ressarcimento não seja solicitado ou a solicitação seja parcial, o valor remanescente do saldo a recuperar constituirá crédito do contribuinte, o qual poderá ser utilizado para compensação ou ressarcido em períodos posteriores."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Ressarcimento (arts. 39 e 40)]] — já registrado corretamente ("utilizável em compensação ou ressarcimento posterior"); já estava certo no cofre, o erro foi só na leitura do enunciado.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:753`
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3314342) — Alíquota reduzida na saída NÃO gera estorno dos créditos de entrada (art. 47, § 10)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> A realização de operações sujeitas a alíquota reduzida acarretará o estorno, parcial ou integral, dos créditos apropriados pelo contribuinte em suas aquisições, salvo quando expressamente previsto nesta Lei Complementar.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: é o oposto — alíquota reduzida NÃO acarreta estorno
+> > Art. 47, § 10: operar com alíquota reduzida <mark style="background:#fff88f">não acarreta estorno</mark>, parcial ou integral, dos créditos das aquisições — salvo previsão expressa em contrário. O item inverteu o verbo (acarretará → não acarretará).
+> >
+> > **Por que a regra é essa:** a não cumulatividade do IBS/CBS credita **tudo** que entra (regra ampla, [[P2 - Reforma Tributária#Não cumulatividade: apropriação de créditos (arts. 47 e 48)|art. 47, caput]]) e só corta esse direito nas hipóteses que a lei lista de forma fechada — uso/consumo pessoal (art. 57), imunidade/isenção (que **anulam** créditos anteriores pelo art. 51, essa sim com estorno proporcional) e alguns casos de perecimento/roubo (§ 6º). Alíquota **reduzida** não está nessa lista: o crédito de entrada é calculado sobre o que foi pago na aquisição, não sobre o que vai ser devido na saída, então reduzir a alíquota da venda não devolve nada do crédito já apropriado. É diferente de **alíquota zero**, que o art. 52 trata à parte mantendo os créditos anteriores (mesma lógica, resultado igual: sem estorno).
+> >
+> > **Cuidado para não confundir:** **imunidade/isenção** → anulam crédito anterior, proporcionalmente (art. 51); **alíquota reduzida ou zero** → mantêm o crédito integral (arts. 47, § 10 e 52). A banca gosta de testar essa distinção trocando a operação.
+>
+> > [!quote]- 📜 Texto literal — art. 47, § 10
+> > "§ 10. A realização de operações sujeitas a alíquota reduzida não acarretará o estorno, parcial ou integral, dos créditos apropriados pelo contribuinte em suas aquisições, salvo quando expressamente previsto nesta Lei Complementar."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Não cumulatividade: Simples, alíquota reduzida, falência e devolução (art. 47, §§ 9º a 13)]] — já registrado ("operar com alíquota reduzida não gera estorno de créditos, salvo previsão expressa"); já estava certo no cofre, com `<mark>` no § 10.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:823`
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354326) — Créditos do IBS/CBS: vedada a transferência a terceiro, salvo fusão, cisão ou incorporação (art. 55)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> É vedada a transferência, a qualquer título, para outra pessoa ou entidade sem personalidade jurídica, de créditos do IBS e da CBS. No entanto, na hipótese de fusão, cisão ou incorporação, os créditos apropriados e ainda não utilizados poderão ser transferidos para a pessoa jurídica sucessora, ficando preservada a data original da apropriação dos créditos para efeitos da contagem do prazo de extinção do direito à utilização dos créditos.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> **Obs.:** dúvida do Pedro — "em nenhuma hipótese mesmo é vedada a transferência de créditos para outra pessoa ou entidade sem personalidade jurídica?"
+>
+> > [!success] ✅ Resposta — A: item literal do art. 55, caput e parágrafo único
+> > A regra geral (caput) é <mark style="background:#fff88f">vedada a transferência de créditos, a qualquer título</mark>, para outra pessoa ou entidade sem personalidade jurídica — sim, "em nenhuma hipótese" nesse sentido amplo. A única exceção (parágrafo único) não é bem uma "transferência a terceiro": em **fusão, cisão ou incorporação** a pessoa jurídica original deixa de existir (ou se reorganiza) e a sucessora **assume sua posição jurídica** — não é ceder crédito a outra empresa, é continuidade do mesmo patrimônio jurídico sob outra "casca" societária. Nessa hipótese, os créditos ainda não usados passam à sucessora, e a <span class="g-prazo">contagem do prazo de 5 anos (art. 54)</span> continua correndo da data original de apropriação — a sucessão não reinicia o prazo.
+> >
+> > **Por isso "em nenhuma hipótese" fica certo para o item:** o texto não fala em "vedada, exceto fusão/cisão/incorporação, que não é transferência" — ele só afirma os dois fatos, na ordem da lei, e ambos batem com o art. 55.
+>
+> > [!quote]- 📜 Texto literal — art. 55
+> > "Art. 55. É vedada a transferência, a qualquer título, para outra pessoa ou entidade sem personalidade jurídica, de créditos do IBS e da CBS. Parágrafo único. Na hipótese de fusão, cisão ou incorporação, os créditos apropriados e ainda não utilizados poderão ser transferidos para a pessoa jurídica sucessora, ficando preservada a data original da apropriação dos créditos para efeitos da contagem do prazo de que trata o art. 54 desta Lei Complementar."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Não cumulatividade: utilização, prazo e transferência (arts. 53 a 56)]] — já registrado ("vedada a transferência de créditos a outra pessoa ou entidade; na fusão, cisão ou incorporação, os créditos não usados passam à sucessora, preservada a data original de apropriação"); já estava certo no cofre.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:844`
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRE SEFAZ GO 2025, #3561805) — Regime regular compreende os diferenciados; crédito na aquisição de optante do Simples (arts. 41 e 47, § 9º)
+> De acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária, analise o que se pede.
+>
+> No que diz respeito à não cumulatividade do IBS e da CBS, assinale a alternativa correta:
+>
+> (A) Nas operações em que o contribuinte seja adquirente de combustíveis tributados no regime específico, ele somente poderá apropriar os créditos do IBS e da CBS quando comprovar a extinção dos débitos relativos às operações em que seja adquirente.
+> (B) O contribuinte sujeito ao regime regular do IBS e da CBS fica dispensado do requisito de extinção dos débitos para fins de apropriação dos créditos do IBS e da CBS, exclusivamente, se não houver sido implementada as modalidades de extinção por recolhimento na liquidação financeira da operação (split payment) nem por pagamento pelo contribuinte, ficando a apropriação dos créditos condicionada a declaração dos valores corretos desses tributos relativos à aquisição na EFD do fornecedor.
+> (C) Na hipótese de o pagamento do IBS e da CBS ser realizado por meio do Simples Nacional, quando não for exercida a opção pelo regime regular, será permitida a apropriação de créditos do IBS e da CBS pelo optante pelo Simples Nacional.
+> (D) O contribuinte sujeito ao regime regular poderá apropriar créditos do IBS e da CBS quando ocorrer a extinção por qualquer das modalidades previstas nesta Lei Complementar dos débitos relativos às operações em que seja adquirente. No entanto, essa regra não se aplica nas aquisições de bem ou serviço fornecido por contribuinte sujeito a regime específico ou diferenciado do IBS e da CBS e nem por optante pelo Simples Nacional.
+> <mark style="background:#affad1">(E) Na hipótese de o pagamento do IBS e da CBS ser realizado por meio do Simples Nacional, quando não for exercida a opção pelo regime regular, será permitida ao contribuinte sujeito ao regime diferenciado do IBS e da CBS a apropriação de créditos do IBS e da CBS correspondentes aos valores desses tributos pagos na aquisição de bens e de serviços de optante pelo Simples Nacional em montante equivalente ao devido por meio desse regime.</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 E
+>
+> **Obs.:** dúvida do Pedro — como o "regime regular" e o "regime diferenciado" se relacionam, e o que dizem os arts. 41 e 47 sobre isso.
+>
+> > [!success] ✅ Resposta — E
+> > **A chave de tudo aqui:** o art. 41, caput, diz que o <mark style="background:#fff88f">regime regular compreende todas as regras de incidência e apuração da LC, inclusive as dos regimes diferenciados e específicos</mark> — ou seja, "regime diferenciado" não é um regime **fora** do regular; é uma forma específica de apurar **dentro** dele. Por isso um contribuinte do regime diferenciado continua, para os fins do art. 47, § 9º, II, sendo "contribuinte do regime regular".
+> > **(A) errada:** combustíveis do regime específico têm regra própria (art. 47, § 4º): fica **dispensada** a comprovação de extinção, crédito calculado pelo valor do IBS/CBS no documento fiscal — o oposto do que a alternativa afirma.
+> > **(B) errada:** a dispensa de comprovar extinção (art. 48) exige que **nem split nem recolhimento pelo adquirente** tenham sido implementados, e condiciona o crédito ao **destaque correto no documento fiscal eletrônico**, não a "declaração na EFD do fornecedor" (EFD nem existe mais no desenho do IBS/CBS, que roda em cima do DF-e).
+> > **(C) errada:** é o inverso do art. 47, § 9º, I — quando o pagamento é feito pelo Simples **sem** opção pelo regime regular, o **optante do Simples não se credita** (a regra do Simples já embute o "IVA" dele por dentro).
+> > **(D) errada:** a regra do art. 47 se aplica **inclusive** às aquisições de fornecedor sujeito a regime específico/diferenciado e de optante do Simples (art. 47, § 3º) — a alternativa inverte "aplica-se" em "não se aplica".
+> > **(E) certa:** art. 47, § 9º, II — quando o fornecedor optante do Simples não escolhe o regime regular, quem compra dele (mesmo sendo do regime **diferenciado**, que está dentro do regular pelo art. 41) pode se creditar do valor efetivamente pago por esse fornecedor no Simples, não do valor cheio do IBS/CBS.
+>
+> > [!tip]- 🧩 Quadro — regime regular × diferenciado × específico × Simples, para não cumulatividade
+> > | Situação | Crédito? |
+> > | --- | --- |
+> > | Adquirente do regime regular (inclusive diferenciado/específico) comprando de fornecedor com débito extinto | Sim, regra geral do art. 47 |
+> > | Adquirente comprando combustível do regime específico | Sim, dispensada a extinção — crédito pelo valor no DF-e (§§ 4º e 5º) |
+> > | Optante do Simples que NÃO foi para o regime regular, comprando de qualquer fornecedor | Não se credita (§ 9º, I) |
+> > | Contribuinte do regime regular (inclusive diferenciado) comprando de fornecedor optante do Simples que não foi para o regular | Sim, mas só o valor equivalente ao pago pelo Simples (§ 9º, II) |
+>
+> > [!quote]- 📜 Texto literal — art. 41, caput; art. 47, §§ 3º, 4º e 9º
+> > "Art. 41. O regime regular do IBS e da CBS compreende todas as regras de incidência e de apuração previstas nesta Lei Complementar, incluindo aquelas aplicáveis aos regimes diferenciados e aos regimes específicos."
+> > "Art. 47, § 3º O disposto neste artigo aplica-se, inclusive, nas aquisições de bem ou serviço fornecido por optante pelo Simples Nacional."
+> > "§ 9º Na hipótese de o pagamento do IBS e da CBS ser realizado por meio do Simples Nacional, quando não for exercida a opção pelo regime regular de que trata o § 3º do art. 41 desta Lei Complementar: I - não será permitida a apropriação de créditos do IBS e da CBS pelo optante pelo Simples Nacional; e II - será permitida ao contribuinte sujeito ao regime regular do IBS e da CBS a apropriação de créditos do IBS e da CBS correspondentes aos valores desses tributos pagos na aquisição de bens e de serviços de optante pelo Simples Nacional, em montante equivalente ao devido por meio desse regime."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Regimes de apuração (arts. 41 a 46)]] e [[P2 - Reforma Tributária#Não cumulatividade: Simples, alíquota reduzida, falência e devolução (art. 47, §§ 9º a 13)]] — os dois artigos já estão no cofre, mas separados; vale, num próximo `/triar-inbox`, acrescentar uma ponte entre eles citando exatamente essa questão (regime regular compreende diferenciado → por isso o diferenciado também se credita pelo § 9º, II).
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:774`, `:816`, `:823`

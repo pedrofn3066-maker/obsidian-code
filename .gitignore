@@ -7,3 +7,7 @@
 inbox/*.pdf
 __pycache__/
 PY/.tec-cookie
+
+# Temporário: matéria extra do ISS Santos, integrada só até a prova (ver LTM ISS SANTOS/MOC - AFTM Santos.md).
+# Remover esta linha (e a pasta) depois da prova.
+LTM ISS SANTOS/

@@ -12,8 +12,8 @@ tags:
 
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
-- 
-- 
+- **Controle da Administração (TCU/Tribunais de Contas)** — 24/09: 2 de 5 erros do caderno "DADM Ninja" foram nesse tema (sustar ato/contrato, julgar x apreciar contas, Súmula 347, competência STF x STJ p/ crime de responsabilidade de Ministro de Tribunal de Contas). Coincide com o heading que estava **vazio** no cofre até hoje — gargalo de conteúdo confirmado, não falha de leitura.
+- **Bens Públicos (domínio eminente x patrimonial, formas de uso por particular)** — 24/09: outros 2 de 5 erros foram aqui. Mesmo padrão: heading também estava vazio até hoje.
 
 ---
 
@@ -170,3 +170,99 @@ Art. 12. § 1º  Considera-se <mark style="background:#fff88f">erro grosseiro</
 > > Correto, e é o art. 42, § 1º, I. Guarde os **dois** casos do operador (descumprir a lei; não seguir instruções **lícitas**) e o par do § 1º, II (controlador **diretamente envolvido**). Fora disso vale o art. 43: o agente se livra se **provar** não ter feito o tratamento, não ter havido violação ou culpa exclusiva do titular/terceiro. Erro clássico da banca: dizer que o operador **sempre** responde solidariamente.
 > >
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Administrativo.md:435-438`
+
+### 24/09
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Direito Administrativo · IBAM (Advogado, CAU RJ, 2023) — Empresa pública x sociedade de economia mista: capital e vedações (Lei 13.303/2016)
+> Com relação às empresas públicas e sociedades de economia mista, é **correta** a seguinte afirmativa:
+>
+> <mark style="background:#affad1">(A) desde que a maioria do capital votante permaneça em propriedade da União, do Estado, do Distrito Federal ou do Município, será admitida, no capital da empresa pública, a participação de outras pessoas jurídicas de direito público interno, bem como de entidades da administração indireta da União, dos Estados, do Distrito Federal e dos Municípios</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) as empresas públicas poderão lançar debêntures ou outros títulos ou valores mobiliários, conversíveis em ações, bem como poderão emitir partes beneficiárias</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: capital da empresa pública admite outras PJ de direito público, desde que a maioria votante seja do ente
+> > A (art. 3º, parágrafo único, Lei 13.303/2016): <mark style="background:#fff88f">desde que a maioria do capital votante fique com o ente, admite-se no capital da empresa pública a participação de outras PJ de direito público interno e de entidades da Administração Indireta</mark> — empresa pública não precisa ter capital 100% de um único ente. D é o oposto do art. 11: a empresa pública **não pode** lançar debêntures/títulos conversíveis em ações nem emitir partes beneficiárias (vedação expressa, incisos I e II).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A alternativa D inverte a vedação do art. 11 em permissão ("poderão" no lugar de "não poderá") — mesmo truque que costuma aparecer nos incisos do art. 12 (SEM pode arbitragem) e do art. 6º (proteção do acionista é obrigatória, não vedada).
+>
+> > [!quote]- 📜 Texto literal — Lei 13.303/2016, arts. 3º e 11
+> > "Art. 3º (...) Parágrafo único. Desde que a maioria do capital votante permaneça em propriedade da União, do Estado, do Distrito Federal ou do Município, será admitida, no capital da empresa pública, a participação de outras pessoas jurídicas de direito público interno, bem como de entidades da administração indireta da União, dos Estados, do Distrito Federal e dos Municípios." · "Art. 11. A empresa pública não poderá: I - lançar debêntures ou outros títulos ou valores mobiliários, conversíveis em ações; II - emitir partes beneficiárias." (citados do comentário do TEC)
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Administrativo#- Centralização e descentralização da atividade administrativa do Estado. Administração pública direta e indireta.]] — a tabela comparada já registra que o capital da empresa pública é "100% público (admite capital de mais de um ente/entidade pública, nunca privado)", batendo com esta questão; os artigos literais da Lei 13.303/2016 (3º, 4º, 6º, 11, 12) não estão no cofre — o heading [[P1 - Direito Administrativo#- Empresas estatais: normas constitucionais, Lei nº 13.303/2016 e Decreto nº 8.945/2016.|Empresas estatais]] ainda está vazio.
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Administrativo.md:123-140` (tabela) · Lei 13.303/2016, arts. 3º e 11 (fora do cofre, citados do comentário do TEC)
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Direito Administrativo · IBAM (Procurador, Pref. Itatiaia, 2019) — TCU: assinar prazo e sustar ato/contrato (CF, art. 71, IX e X)
+> O Tribunal de Contas de determinado Estado, exercendo função típica de controle, após auditoria técnica em contrato administrativo e obra pública com execução em curso, observou grave vício de legalidade que provoca prejuízo ao erário público. Com base nestas informações, é possível afirmar que:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) a ilegalidade de despesa ou irregularidade de contas permite aplicações de sanções como multa proporcional ao dano causado, mas não é competente a Corte de Contas para sustar a execução do ato impugnado</mark>
+> <mark style="background:#affad1">(D) o Tribunal de Contas assinará prazo para que o órgão ou entidade adote as providências necessárias ao exato cumprimento da lei, se verificada ilegalidade, bem como sustará, por conseguinte, o ato impugnado, se não atendidas as providências recomendadas, comunicando tal decisão à Assembleia Legislativa local</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D: TCU/TCE pode sim sustar o ato impugnado (art. 71, X, CF)
+> > B nega justamente o que a CF garante: a Corte de Contas **tem** competência para sustar a execução do ato impugnado (art. 71, X — já grifado no cofre hoje), comunicando a decisão ao Legislativo. D reúne as duas competências corretas: assinar prazo para regularização (art. 71, IX) e, não atendido, sustar o ato (art. 71, X) — normas do TCU aplicadas ao TCE por simetria (CF, art. 75).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Negar o poder de sustação do TC é o erro mais testado nesse tema — é fácil confundir com a regra (mais restrita) de sustar **contrato**, que passa pelo Legislativo antes do TC poder decidir sozinho (ver a Lupa "TCU julga ou só aprecia?" no cofre).
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Administrativo#- Controle da administração pública no direito brasileiro.]] — grifado agora o trecho "sustar, se não atendido, a execução do ato impugnado"; o art. 75 (simetria TCU → TCE/TCM) não está no cofre.
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Administrativo.md:232` (art. 71, IX e X) · CF, art. 75 (fora do cofre, citado do comentário do TEC)
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Direito Administrativo · IBAM (Auditor Fiscal de Tributos Municipais, Pref. Jundiaí, 2017) — TC pode apreciar constitucionalidade (Súmula 347) e a definitividade absoluta é só da função jurisdicional
+> No âmbito do Estado Democrático de Direito, avalie: (I) de acordo com o STF, o Tribunal de Contas, no exercício de suas atribuições, pode apreciar a constitucionalidade das leis e dos atos do Poder Público; (II) o mandado de segurança é cabível para impugnar atos de gestão; (III) o STJ é competente para aplicar sanções de caráter político tanto em relação aos Ministros do TCU quanto dos Tribunais de Contas dos Estados e Municípios; (IV) a definitividade da função jurisdicional e da decisão administrativa são absolutas.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) F, F, F, F</mark>
+> <mark style="background:#affad1">(D) V, F, F, F</mark>
+>
+> **Marquei:** 🟥 A (F, F, F, F) · **Gabarito:** 🟩 D (V, F, F, F)
+>
+> > [!success] ✅ Resposta — só o item I é verdadeiro
+> > **I verdadeiro** (Súmula 347/STF): o Tribunal de Contas pode apreciar a constitucionalidade de leis e atos do Poder Público no exercício de suas atribuições. **II falso**: a Lei 12.016/2009, art. 1º, § 2º, **veda** mandado de segurança contra atos de gestão comercial de empresa pública, SEM e concessionária. **III falso**: quem julga crime de responsabilidade de Ministro do **TCU** é o **STF** (CF, art. 102, I, "c"); o **STJ** julga membros dos Tribunais/Conselhos de Contas dos **Estados e Municípios** (CF, art. 105, I, "a") — a questão trocou as competências. **IV falso**: só a função jurisdicional tem definitividade **absoluta** (coisa julgada); a decisão administrativa é sempre **relativa**, revisável pelo Judiciário — é a mesma lógica da unicidade de jurisdição já registrada no cofre.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Emenda um item certo (I) a três errados, testando se você confirma os quatro por associação com o primeiro que reconheceu como verdadeiro.
+>
+> > [!quote]- 📜 Texto literal — Súmula 347/STF e Lei 12.016/2009, art. 1º, § 2º
+> > "O Tribunal de Contas, no exercício de suas atribuições, pode apreciar a constitucionalidade das leis e dos atos do poder público." (Súmula 347/STF) · "Não cabe mandado de segurança contra os atos de gestão comercial praticados pelos administradores de empresas públicas, de sociedade de economia mista e de concessionárias de serviço público." (Lei 12.016/2009, art. 1º, § 2º) — citados do comentário do TEC
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Administrativo#- Controle da administração pública no direito brasileiro.]] — a definitividade absoluta (Judiciário) x relativa (Administração) já está na Lupa "sistema de jurisdição una x dualidade de jurisdição"; a Súmula 347, a vedação de MS contra ato de gestão e a competência STF (TCU) x STJ (TCE/TCM) para crime de responsabilidade não estão no cofre.
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Administrativo.md:256-264` (Lupa) · Súmula 347/STF, Lei 12.016/2009 art. 1º § 2º, CF arts. 102, I, "c" e 105, I, "a" (fora do cofre, citados do comentário do TEC)
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Direito Administrativo · IBAM (Controlador Interno, CM Bebedouro, 2025) — Domínio público eminente x domínio público patrimonial
+> O gerenciamento administrativo estatal implica no exercício do domínio sobre os bens existentes em seu território. Avalie: (I) o domínio público abrange apenas os bens das pessoas jurídicas de Direito Público Interno, excluindo bens de utilidade coletiva como águas, jazidas e florestas; (II) o domínio público eminente é exercido exclusivamente sobre os bens particulares e não possui relação com a soberania interna do Estado; (III) o domínio público inclui bens de utilidade coletiva que merecem proteção do Direito Público, como águas, jazidas e florestas.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) I, II e III</mark>
+> <mark style="background:#affad1">(C) III, apenas</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 C
+>
+> **TEC não publicou comentário nesta questão** — resposta construída por doutrina padrão (Hely Lopes Meirelles), sem lastro direto no cofre.
+>
+> > [!success] ✅ Resposta — só o item III é verdadeiro
+> > A doutrina (Hely Lopes Meirelles) desdobra o domínio público em **domínio eminente** (poder político da soberania interna do Estado sobre **todos** os bens do território — públicos e particulares) e **domínio patrimonial** (direito de propriedade do Estado sobre os bens que lhe pertencem — o "bem público" que o cofre já classifica em uso comum/especial/dominical). **I falso**: o domínio público não se limita aos bens de PJ de direito público — abrange também bens de utilidade coletiva sujeitos a regime de direito público, mesmo sem titularidade estatal direta. **II falso** em dois pontos: o domínio eminente não é exclusivo sobre bens particulares (alcança também os públicos) e é justamente o exercício da soberania interna, não algo desconectado dela. **III correto**: bate com a definição doutrinária de domínio público em sentido amplo.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Administrativo#- Bens Públicos.]] — a nota cobre a classificação do domínio patrimonial (uso comum/especial/dominical), mas não a dicotomia domínio eminente x domínio patrimonial; não está no cofre, entrou pela internet.
+> > **Fonte:** internet — doutrina de Hely Lopes Meirelles sobre domínio público (sem confirmação do TEC, questão sem comentário publicado)
+
+> [!question]- 24/09 (mesma captura, sem hora registrada) · Direito Administrativo · IBAM (Agente de Administração, Pref. Guaxupé, 2023) — Permissão de uso de bem público: ato unilateral e precário, não contrato
+> Os bens municipais poderão ser utilizados em caráter privado por particulares mediante prévia autorização que, quanto à permissão, constitui-se por:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) contrato administrativo, por prazo determinado, voltado para o aproveitamento do bem de acordo com a destinação definida pela administração pública</mark>
+> <mark style="background:#affad1">(C) ato administrativo unilateral e precário, voltado para o aproveitamento do bem que enseje, diretamente, o desenvolvimento de atividade prestada à comunidade</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 C
+>
+> **TEC não publicou comentário nesta questão** — resposta construída a partir da própria nota da matéria (Bens Públicos, escrita hoje no cofre).
+>
+> > [!success] ✅ Resposta — C: permissão é ato unilateral e precário, não contrato
+> > A é a descrição da **concessão de uso** (contrato administrativo, prazo determinado), não da permissão. C acerta: a **permissão de uso** é ato unilateral, discricionário e precário — e o que a distingue da autorização de uso é servir também a um interesse coletivo/da comunidade, não só ao interesse do particular autorizado (exatamente o "enseje, diretamente, o desenvolvimento de atividade prestada à comunidade" do enunciado).
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Administrativo#- Bens Públicos.]] — grifado agora o trecho sobre permissão de uso.
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Administrativo.md:797`

@@ -16,7 +16,9 @@ const PONTOS = {
   "Fluência de Dados": 20, "Mat. Fin./Estat./RLM": 12,
   "Const./Adm./Civil/Penal": 12, "Língua Portuguesa": 10,
   "Adm. e Governança": 10, "Economia": 10,
-  "Cont. Geral e Pública": 10, "Direito Financeiro": 8, "Auditoria": 8
+  "Cont. Geral e Pública": 10, "Direito Financeiro": 8, "Auditoria": 8,
+  // TEMP ISS Santos — remover esta linha depois da prova
+  "Legislação Tributária Municipal de Santos, PAF e Dívida Ativa": 16
 };
 
 const META = 0.85;
@@ -45,7 +47,7 @@ for (const [b, v] of Object.entries(agg)) {
 
 // 3. Resumos, ordenados pelo ganho do seu bloco
 const rows = [];
-for (const p of dv.pages(`"${RESUMOS}"`)) {
+for (const p of dv.pages(`"${RESUMOS}" or "LTM ISS SANTOS"`)) {  // TEMP ISS Santos — voltar para `"${RESUMOS}"` depois da prova
   if (!p.bloco) continue;
   const b = String(p.bloco);
   const info = ganho[b];
