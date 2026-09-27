@@ -295,10 +295,14 @@ Valor presente é a estimativa do valor corrente de um fluxo de caixa futuro no 
 - Momento: em regra, no **reconhecimento inicial** de ativos e passivos.
 - A taxa **não** é líquida de efeitos fiscais — usa-se a taxa **antes** dos impostos.
 - <mark style="background:#fff88f">IRPJ diferido, ativo ou passivo, **não** é passível de AVP.</mark>
+- Também **não** sofrem AVP: adiantamento em dinheiro para recebimento ou pagamento em bens e serviços; financiamentos do BNDES contratados com taxa de juros **diferente da praticada pelo mercado** em geral; contrato de mútuo **sem data definida de vencimento**.
 - Valor justo e valor presente **podem coincidir, mas não são sinônimos**.
 - AVP de venda a longo prazo **reduz a receita bruta de vendas** na DRE.
 - Se financiar a venda for prática da empresa, a receita de juros **pode** aparecer na DRE como receita operacional.
 - Item 27: o desconto a valor presente é exigido para passivos **contratuais e não contratuais**, e a taxa deve necessariamente considerar o **risco de crédito**.
+
+> [!quote]- Texto literal — CPC 12 (R1), item 26
+> Os elementos integrantes do ativo e do passivo decorrentes de operações de longo prazo, ou de curto prazo quando houver efeito relevante, devem ser ajustados a valor presente com base em taxas de desconto que reflitam as melhores avaliações do mercado quanto ao valor do dinheiro no tempo e aos riscos específicos do ativo e do passivo em suas datas originais.
 
 Exemplo do guia — mercadoria por 100.000 a receber/pagar em 2 anos, valor à vista 90.000:
 
@@ -388,6 +392,22 @@ A entidade **deve** alterar a política se: for exigida por um CPC (obrigatória
 | --- | --- |
 | **Política** contábil | **Retrospectiva** — como se sempre tivesse sido aplicada, a tantos períodos anteriores quanto possível |
 | **Estimativa** contábil | **Prospectiva** |
+
+**Não configura mudança de política contábil:** adotar política para transação/evento que **difere em essência** dos anteriores; ou adotar política nova para transação/evento que **não ocorria antes**, ou que era **imaterial**. Nesses casos não há "mudança" a aplicar retrospectivamente — é a primeira vez que o fato acontece.
+
+⚠️ **Difícil separar mudança de política de mudança de estimativa?** A norma resolve pela **estimativa** — trata-se como mudança de estimativa contábil (aplicação prospectiva).
+
+**Retificação de erro:** erros de registro, mensuração, apresentação ou divulgação. Erro do período corrente descoberto no próprio período deve ser corrigido **antes** de as DC's serem autorizadas para publicação. **Erro material de período anterior** é corrigido **retrospectivamente**, no primeiro conjunto de DC's autorizado após a descoberta: reapresentam-se os valores comparativos do período em que ocorreu o erro, e os saldos de abertura (ativos, passivos, PL) do período anterior mais antigo apresentado.
+
+<mark style="background:#fff88f">Resumo da aplicação — a pegadinha é o erro **imaterial**:</mark>
+
+| Evento | Aplicação |
+| --- | --- |
+| Mudança de política contábil | Retrospectiva |
+| Mudança de estimativa contábil | Prospectiva |
+| Erro material (intencional ou não) | Retrospectiva |
+| Erro imaterial **intencional** | Retrospectiva |
+| Erro imaterial **não intencional** | Sem aplicação (não corrige) |
 
 Quando for impraticável determinar o efeito em períodos anteriores, aplica-se a nova política ao saldo mais antigo para o qual a aplicação retrospectiva seja praticável; os ajustes vão para **Ajustes de Exercícios Anteriores**, conta do PL.
 
@@ -553,6 +573,23 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos os cr
 
 **Crédito tributário diferido (IR/CSLL sobre prejuízo fiscal)** — ativo fiscal diferido originado de prejuízo fiscal (IRPJ) e base negativa (CSLL) compensáveis com lucros tributáveis futuros. Classificação pela expectativa de realização: até 12 meses → Ativo Circulante; acima de 12 meses → ARLP. Como a compensação normalmente depende de lucros futuros, a classificação típica é ARLP.
 
+> [!warning]- Possível tensão com CPC 26
+> O bizu Guruja traz uma regra geral do CPC 26 dizendo que **impostos diferidos, ativos ou passivos, são sempre classificados no Não Circulante** (ver heading de Apresentação das DC's, abaixo) — sem exceção pela expectativa de realização. Isso parece **conflitar** com a classificação por prazo (12 meses) descrita acima para o crédito tributário diferido. Não resolvi essa tensão sozinho — os dois textos ficam registrados como estão; vale conferir com fonte oficial (CPC 26 e CPC 32) antes de decidir qual regra vale numa questão que cobrar isso.
+
+### - Perda Estimada com Crédito de Liquidação Duvidosa (PECLD);
+- [ ] status [dom:: 0] [peso:: 3]
+
+Ajuste de Contas a Receber pela expectativa de perdas de crédito — conta retificadora do Ativo.
+
+```
+Constituição            D Despesa com Constituição da PECLD (Resultado) / C PECLD (Retificadora do Ativo)
+Baixa de incobrável     D PECLD (baixa da provisão já constituída) / C Clientes (baixa do direito incobrável)
+Reversão do saldo       D PECLD (saldo não utilizado) / C Outras Receitas Operacionais (Resultado)
+  remanescente
+```
+
+⚠️ Na **baixa** de um título considerado incobrável, quem sai é a **PECLD** (a provisão já reconhecida), não uma despesa nova — a despesa já tinha sido reconhecida no momento da **constituição**.
+
 ### - Redução ao Valor Recuperável (CPC 01);
 - [ ] status [dom:: 0] [peso:: 3]
 **1. Definições** :: ?
@@ -602,7 +639,9 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos os cr
 <mark style="background:#fff88f">Três casos exigem o teste ao menos anualmente, mesmo sem qualquer indicação de desvalorização:</mark>
 - ativo intangível com vida útil **indefinida**;
 - ativo intangível **ainda não disponível para uso**;
-- **goodwill** (ágio por expectativa de rentabilidade futura) adquirido em combinação de negócios.
+- **goodwill** (ágio por expectativa de rentabilidade futura) adquirido em combinação de negócios — não sofre amortização, mas segue sujeito ao teste anual.
+
+**Quando fazer o teste, na prática:** pode ser realizado **a qualquer momento** do período anual, desde que seja **sempre no mesmo período**, ano após ano; intangíveis **diferentes** podem ser testados em momentos diferentes entre si. No **ano em que o intangível é reconhecido**, o teste deve ser feito **antes do fim** daquele ano corrente — não pode ser empurrado pro ano seguinte.
 
 #### 2.3. Roteiro de Cálculo e Reconhecimento da Perda
 - [ ] status [dom:: 0] [peso:: 3]
@@ -612,6 +651,15 @@ Sequência que evita comparar grandezas incompatíveis:
 2. **Valor recuperável** → maior entre valor em uso e valor justo líquido de despesas de venda.
 3. **Comparação** → contábil > recuperável: reconhece perda pela diferença; contábil = recuperável: sem ajuste; contábil < recuperável: sem nova perda; havendo perda anterior e requisitos de reversão atendidos, avalia a reversão dentro do teto normativo.
 4. **Atualização prospectiva** → após perda ou reversão, recalcula a depreciação/amortização/exaustão futura pelo valor contábil revisado, líquido do residual, ao longo da vida útil remanescente.
+
+**Lançamento da perda:** `D Perda por Redução ao Valor Recuperável (Despesa) / C Perdas Acumuladas (Retificadora do Ativo)`.
+**Lançamento da reversão:** `D Perdas Acumuladas (Retificadora do Ativo) / C Reversão de Perda por Redução ao Valor Recuperável (Receita)`.
+
+<mark style="background:#fff88f">O "teto normativo" da reversão citado no item 3 são **dois limites**, e vale o **menor** dos dois:</mark>
+(a) até o limite da **perda já reconhecida** anteriormente para aquele ativo;
+(b) até o **valor contábil líquido de depreciação/amortização/exaustão** que o ativo teria se nenhuma perda tivesse sido reconhecida nos anos anteriores.
+
+**Ativo com reserva de reavaliação:** se o ativo desvalorizado tiver [[#Reavaliação|reserva de reavaliação]] constituída, a perda é **descontada dessa reserva** (lançada no PL) em vez de ir direto ao resultado; só o que **exceder** o saldo da reserva vai para o Resultado. Mesma lógica de assimetria da Reavaliação do Imobilizado, no sentido inverso: lá o aumento não passa pelo resultado, aqui a perda "consome" o que o aumento já havia constituído.
 
 ### - Instrumentos Financeiros (CPC 48);
 - [ ] status [dom:: 0] [peso:: 3]
@@ -688,6 +736,11 @@ Juros, em regra, **não** entram no custo — são despesa pelo regime de compet
 | instalação, montagem e **testes** | **garantia estendida** |
 | honorários profissionais diretamente relacionados | |
 | benefícios a empregados decorrentes da aquisição (CPC 33) — vale-refeição, vale-transporte | |
+
+⚠️ **Venda de itens gerados durante os testes** do imobilizado (antes de ele estar em condições de operar, ex.: peças-piloto produzidas no teste de uma máquina) **não abate o custo do imobilizado** — o produto da venda e o custo desses itens vão para o **resultado**, mensurado pelas regras do CPC 16 (Estoques), não pelo CPC 27.
+
+> [!quote]- Texto literal — CPC 27, item 20A
+> A entidade deve reconhecer o produto da venda de tais itens, e o custo desses itens, no resultado de acordo com as normas contábeis aplicáveis. A entidade deve mensurar o custo desses itens aplicando os requisitos de mensuração do CPC 16.
 
 ⚠️ **Seguro do frete** entra; **seguro anual** não — é serviço, despesa.
 
@@ -960,6 +1013,14 @@ Garante a integridade do Capital Social — serve só para **compensar prejuízo
 - **Teto**: RLegal atual + RLegal a constituir = **20% do CS Realizado**.
 - **Dispensa** de constituir no exercício se RLegal + Reservas de Capital já somam **30% do CS**.
 
+**Exemplo numérico** (abate o prejuízo acumulado antes dos 5%):
+```
+Lucro Líquido do Exercício (LLE) ......... 100.000
+(−) Prejuízos Acumulados ................. (10.000)
+(=) Base de cálculo da Reserva Legal ...... 90.000
+∴ Reserva Legal = 90.000 × 5% = 4.500
+```
+
 #### Reserva Estatutária
 
 O estatuto cria reservas próprias, desde que defina para cada uma: **finalidade**, **parcela anual do LL** destinada, e **limite máximo**.
@@ -1166,6 +1227,18 @@ As provisões **devem ser reavaliadas em toda data de balanço**.
 
 ## - Propriedades para Investimento
 - [ ] status [dom:: 0] [peso:: 3]
+
+Propriedade para Investimento (PPI, CPC 28) é imóvel mantido para **auferir aluguel ou valorização de capital**, não para uso próprio nem para venda no curso ordinário do negócio.
+
+| **É PPI** (item 8) | **Não é PPI** (item 9) |
+| --- | --- |
+| Terreno mantido para valorização de capital a longo prazo (não para venda a curto prazo) | Propriedade destinada à venda no decurso ordinário das atividades |
+| Terreno sem destinação específica | Propriedade Ocupada pelo Proprietário (POP) ou por empregados (paguem ou não aluguel) |
+| Edifício próprio (ou mantido em arrendamento) desocupado ou que aufira rendimento por **arrendamento operacional** | Propriedade arrendada a outra entidade sob **arrendamento financeiro** |
+| Propriedade em construção/desenvolvimento para futura utilização como PPI | |
+
+⚠️ **A chave do quadro é quem arrenda o quê:** se a entidade é a **arrendadora** e o contrato é **operacional** (na essência, um aluguel), o imóvel é PPI para ela. Se o contrato é **arrendamento financeiro** (na essência, uma venda), o imóvel **não** é PPI para a arrendadora — o ativo já "saiu", na prática, para o arrendatário.
+
 ## - Ativo Não Circulante Mantido para Venda
 - [ ] status [dom:: 0] [peso:: 3]
 ## - Ajustes de Conversão de Câmbio (CPC 02);
@@ -1205,7 +1278,7 @@ Na conversão para o Balanço Patrimonial consolidado, usa-se a **taxa de câmbi
 Combo de prova: (1) ativo da entidade no exterior — (2) moeda funcional de lá — (3) taxa de fechamento — (4) diferença cambial → ORA/PL, nunca DRE.
 
 ### 5. Resultado da Equivalência Patrimonial (REP)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-27
 **No Cálculo da Equivalência Patrimonial:**
 
 - **Coligada** → **Eliminação do LÑR é Proporcional** à participação
@@ -1227,7 +1300,7 @@ Combo de prova: (1) ativo da entidade no exterior — (2) moeda funcional de lá
     - O **Resultado Negativo** de Equivalência Patrimonial será reconhecido pelo **Valor Integral.**
 
 ### 7. Método do Custo
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 4] [peso:: 3]
 
 - Método utilizado para **Investimentos Permanentes** que **não se enquadram em Coligadas, Controladas e ECC.**
     - São Avaliados → Custo de Aquisição - Provisão para perdas prováveis (comprovada como **permanente**).
@@ -1642,6 +1715,12 @@ Fatos subsequentes, aplicando os 80%:
 
 Saldo do investimento no balanço individual: 240.000 + 72.000 − 18.000 = **294.000**.
 
+**Eventos que também alteram o Investimento pelo MEP, além de lucro/prejuízo/dividendos** — o [[#- Ajustes de Conversão de Câmbio (CPC 02);\|Ajuste Acumulado de Conversão (AAC)]] da investida no exterior, na proporção da participação:
+```
+AAC credor na investida (↑ Investimento)  D Investimento em Coligadas/Controladas/ECC / C AAC (PL)
+AAC devedor na investida (↓ Investimento) D AAC (PL) / C Investimento em Coligadas/Controladas/ECC
+```
+
 ### 6. Resultado da Equivalência Patrimonial (REP)
 - [ ] status [dom:: 3.5] [peso:: 3]
 
@@ -1653,6 +1732,17 @@ Saldo do investimento no balanço individual: 240.000 + 72.000 − 18.000 = **29
 - **Controlada** → **Eliminação do LÑR é Integral**
     - **1°** aplica-se o **% de Participação** da investidora.
     - **2°** é deduzido todo o **LÑR.**
+
+<mark style="background:#fff88f">Em fórmula, a mesma ordem de operações acima:</mark>
+
+```
+Equivalência Patrimonial = Resultado da Investida × (% Participação)
+
+Coligada:   (Lucro da Coligada − LÑR) × (% Participação)
+Controlada: (Lucro da Controlada × % Participação) − LÑR
+
+LÑR = (Lucro da Operação Intragrupo) × (% de Mercadorias em Estoque)
+```
 
 ![[Captura de Tela 2026-08-20 às 10.37.50.png|1182]]
 
@@ -1690,7 +1780,21 @@ Lucro líquido ajustado, que é a base de cálculo:
 
 ⚠️ **As reservas usadas no ajuste são as constituídas no ano da distribuição** — não as que já vinham de anos anteriores. É onde a questão costuma pegar.
 
-Dividendo = 50% do lucro líquido ajustado, com **mínimo de 25%**. O pagamento pode se limitar à parcela do lucro líquido já **realizada**, desde que a diferença seja registrada como **reserva de lucros a realizar**.
+<mark style="background:#fff88f">O percentual do dividendo obrigatório depende do que o estatuto diz, em três cenários:</mark>
+
+| Situação do estatuto | Dividendo obrigatório |
+| --- | --- |
+| **Omisso** ou nada previsto | **50%** do LLE Ajustado |
+| **Assembleia altera o estatuto** para introduzir norma sobre o cálculo | não pode ser **inferior a 25%** do LLE Ajustado |
+| **Percentual fixado** em estatuto | usa-se **esse percentual** |
+
+O pagamento pode se limitar à parcela do lucro líquido já **realizada**, desde que a diferença seja registrada como **reserva de lucros a realizar**.
+
+**Lançamento do dividendo obrigatório a distribuir:** `D Lucros Acumulados / C Dividendos a Pagar (Passivo)`.
+
+**Dividendos adicionais propostos:** o saldo remanescente de lucros acumulados **não distribuídos** — se **declarado antes** do encerramento do período contábil, fica registrado no **PL** até a aprovação pela Assembleia (quando migra para o Passivo); se **declarado depois** do período contábil, **não é contabilizado**, só é **divulgado em Nota Explicativa**.
+
+**Lançamento do adicional proposto antes do período contábil:** `D Lucros Acumulados / C Dividendo Adicional Proposto (PL)`.
 
 ## - Lei 6.404 e suas alterações
 - [ ] status [dom:: 0] [peso:: 3]
@@ -1725,6 +1829,20 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 | DRA               | X                  | X                        |
 
 * O CPC 26 (R1) afirma que a DVA deve ser divulgada se exigida legalmente => Ela é exigida pela Lei 11.638/07.
+
+**O conjunto completo de demonstrações contábeis (CPC 26) também inclui**, além dos demonstrativos da tabela acima: Notas Explicativas (política contábil material e outras informações elucidativas); informações comparativas com o período anterior; e o **Balanço Patrimonial do início do período mais antigo** comparativamente apresentado, quando a entidade aplica política contábil retrospectivamente, reapresenta itens retrospectivamente, ou reclassifica itens das DC's.
+
+⚠️ Se as DC's **não forem elaboradas no pressuposto da continuidade**, esse fato deve ser divulgado, junto com as bases sobre as quais foram elaboradas e a razão pela qual não se pressupõe a continuidade.
+
+**Regras gerais de elaboração:**
+- **Regime de competência** para todas as demonstrações — **exceção: a DFC**, que é elaborada pelo regime de **caixa**.
+- Item **não material**: não precisa de divulgação específica exigida por um Pronunciamento.
+- **Não compensar** ativos e passivos, nem receitas e despesas — a menos que a compensação seja exigida ou permitida por um Pronunciamento. A entidade deve informar ativos, passivos, receitas e despesas **separadamente**.
+- **Frequência:** o conjunto completo de DC's, inclusive informação comparativa, deve ser apresentado **pelo menos anualmente**.
+- 🚨 **Impostos diferidos, ativos ou passivos**, são sempre classificados no **Não Circulante** — regra do CPC 26 (ver tensão com a classificação por prazo do crédito tributário diferido em [[#- Ativo Realizável a Longo Prazo - ARLP;\|ARLP]]).
+- **Ciclo operacional:** tempo entre a aquisição de ativos para processamento e sua realização em caixa ou equivalentes. Se não for claramente identificável, **presume-se 12 meses**.
+- **Quebra de covenant** (cláusula contratual de dívida): a exigibilidade continua **Circulante** mesmo que o credor tenha concordado, **após** a data do balanço, em não exigir pagamento antecipado. Só vira **Não Circulante** se o credor tiver concordado, **até** a data do balanço, em dar dilação de prazo que termine pelo menos 12 meses após a data do balanço.
+- **Notas Explicativas** devem: apresentar a base de elaboração das DC's e as políticas contábeis específicas usadas; divulgar informação exigida pelos Pronunciamentos que não tenha sido apresentada nas DC's; e prover informação adicional relevante para a compreensão das DC's, mesmo que não exigida.
 
 ## - Balanço Patrimonial;
 - [ ] status [dom:: 3.5] [peso:: 3]
@@ -1774,7 +1892,11 @@ Receita Bruta                                = Faturamento bruto − IPI
 
 CMV: cálculo e lançamento em [[#- Estoques (CPC 16)\|Estoques]].
 
+**Resultado das Operações Descontinuadas, em linha didática:** é o resultado gerado pela parte do negócio que a entidade **decidiu** encerrar, vender ou abandonar — do momento da decisão até a descontinuação se efetivar. Ex.: uma praça de alimentação com pizzaria, hamburgueria e sorveteria decide encerrar a sorveteria; o resultado da sorveteria, nesse intervalo, sai das operações contínuas e vira uma linha única separada na DRE, para não distorcer a análise do desempenho do que continua operando (*exemplo ilustrativo, sem lastro normativo*).
+
 #### Participações estatutárias — cálculo em cascata
+
+Mnemônico da ordem: **DEAPF** — Debenturistas, Empregados, Administradores, Partes beneficiárias, Fundos de assistência/previdência.
 
 Cada participação incide sobre o que **sobra** depois da anterior, na ordem legal:
 
@@ -1812,7 +1934,7 @@ Demonstra a **riqueza gerada** pela entidade e como ela é **distribuída** entr
 
 ⚠️ **Não é exigida pelas normas internacionais** (IFRS) — é peculiaridade brasileira.
 
-**Obrigatoriedade:** companhias de capital **aberto**, e outras que a lei determinar; **recomendada** para as demais. A tabela completa de obrigatoriedade por demonstração (BP, DRE, DFC, DVA, DMPL, DRA, DLPA, NE) ainda não está escrita em [[#- Apresentação das Demonstrações Contábeis (CPC 26);\|CPC 26]] — heading vazio.
+**Obrigatoriedade:** companhias de capital **aberto**, e outras que a lei determinar; **recomendada** para as demais. Tabela completa de obrigatoriedade por demonstração em [[#- Apresentação das Demonstrações Contábeis (CPC 26);\|CPC 26]].
 
 DVA **consolidada** parte das demonstrações consolidadas e evidencia a participação dos sócios **não controladores**.
 
@@ -1906,7 +2028,7 @@ Saldos finais
 
 ⚠️ A **DRA pode estar contida** na DMPL, mas é **vedada** sua apresentação **somente** na DMPL — ela precisa aparecer em algum lugar separado também (DRE ou demonstração própria).
 
-Obrigatoriedade por demonstração, do CPC 26: [[#- Apresentação das Demonstrações Contábeis (CPC 26);\|ainda não escrita]].
+Obrigatoriedade por demonstração, do CPC 26: [[#- Apresentação das Demonstrações Contábeis (CPC 26);\|tabela]].
 
 ## - Demonstração de Lucro e Prejuízo Acumulado (DLPA);
 - [ ] status [dom:: 0] [peso:: 3]
@@ -2009,6 +2131,8 @@ FC = FCO + FCI + FCF
 - (±) compra/venda de ações da **própria** empresa
 - (−) pagamento de dividendos/JCP
 
+⚠️ **Só entra no FCF o dividendo/JCP efetivamente pago** — é fluxo de **caixa**. Dividendo apenas **provisionado** para pagamento futuro não aparece na DFC do período.
+
 <mark style="background:#fff88f">Juros e dividendos/JCP têm classificação principal e alternativa (item 34) — a entidade escolhe e divulga qual usa:</mark>
 
 | Item | Principal | Alternativa |
@@ -2068,7 +2192,15 @@ Subvenção governamental é assistência do governo, em regra pecuniária, gera
 | **Incondicionada** | Receita reconhecida **imediatamente**: `D Caixa ou outro ativo / C Receita com Subvenção` (direto na DRE) |
 | **Condicionada** | Enquanto os requisitos não são atendidos, a contrapartida vai para **Receita Diferida** no passivo |
 
-Na condicionada, o ativo **não monetário** deve ser reconhecido pelo **valor justo**, e a receita diferida **pode** retificar o valor contábil do próprio ativo — caso em que o ativo pode iniciar com valor contábil zero. A baixa ocorre ao longo do tempo: `D Receita Diferida (P) / C Receita com Subvenção (R)`.
+Na condicionada, o ativo **não monetário** deve ser reconhecido pelo **valor justo** — regra. **Exceção:** na impossibilidade de mensurar o valor justo, registra-se pelo **valor nominal**. A receita diferida **pode** retificar o valor contábil do próprio ativo — caso em que o ativo pode iniciar com valor contábil zero. A baixa ocorre ao longo do tempo: `D Receita Diferida (P) / C Receita com Subvenção (R)`.
+
+**Sequência completa de lançamentos — subvenção sujeita a condição (ex.: recebimento de imobilizado):**
+```
+1) No recebimento:              D Imobilizado (ANC)         / C Doação e Subvenções (Passivo)
+2) Na implementação da condição: D Doação e Subvenções (P)   / C Receita Diferida (PNC)
+3) Na apropriação (competência): D Receita Diferida (PNC)    / C Outras Receitas (Resultado)
+```
+A forma de recebimento (dinheiro ou redução de passivo) **não** influencia o método de contabilização a ser adotado.
 
 **Base para reconhecer a receita:** em **ativo depreciável**, ao longo da vida útil do bem e na **mesma proporção da depreciação**. Se a receita diferida foi lançada como retificadora do ativo, a depreciação registrada será menor.
 
@@ -2087,6 +2219,15 @@ Na condicionada, o ativo **não monetário** deve ser reconhecido pelo **valor j
 - (−) tributos **recuperáveis** · (−) descontos comerciais/incondicionais · (−) abatimentos sobre compras
 
 **Custo de transformação** (produção própria): custos diretos (mão de obra de chão de fábrica e matéria-prima) mais custos indiretos, variáveis e fixos. Os fixos são alocados pela **capacidade normal** — produção média ao longo de vários períodos, já considerando paradas programadas e férias coletivas.
+
+**Não compõem o custo dos estoques — vão direto para despesa do período:**
+- valor **anormal** de desperdício de materiais, mão de obra ou outros insumos de produção;
+- gastos com **armazenamento**, a menos que sejam necessários ao processo produtivo entre uma fase e outra;
+- despesas **administrativas** que não contribuem para trazer o estoque à sua condição e localização atuais;
+- despesas de **comercialização** — venda e entrega dos bens/serviços aos clientes.
+
+**Ajuste quando VRL < Custo:** a perda é reconhecida via conta retificadora do ativo.
+`D Despesas por Redução ao VRL (Resultado) / C Perdas Estimadas por Redução ao VRL de Estoques (Retificadora do Ativo)`
 
 ⚠️ **Pegadinha do volume anormal:** <mark style="background:#fff88f">o custo fixo por unidade **não** pode subir por baixo volume ou ociosidade — o excedente vira **despesa**, não custo do estoque</mark>. Em volume anormalmente **alto**, o custo fixo unitário deve **diminuir**. Exemplo do guia: produção normal 100 un a $1,00/un; produzindo 20 un, mantém-se $1,00/un e os $80 restantes viram despesa; produzindo 200 un, cai para $0,50/un.
 

@@ -13,6 +13,7 @@ tags:
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
 - **Repartição Constitucional de Receitas Tributárias:** 2 dos 6 erros do caderno C07 DTRIB (27/09/2026) vieram daqui — FGV/TCE-PA (#3043737) e CEBRASPE/TCE-PR (#3048791). Não conhecia a lista **taxativa** de exceções à não afetação de imposto (art. 167, IV, CF: só repartição dos arts. 158/159, saúde, educação, administração tributária e ARO — causa "boa" como cultura/segurança/educação não entra) nem os critérios de repasse do IBS estadual aos Municípios (art. 158, § 2º: 80% população / 10% educação / 5% ambiente / 5% igual entre Municípios).
+- **Consulta tributária e art. 161, §2º do CTN (#3846928):** errei a mesma questão 2x (20/09 e 27/09), as duas vezes marcando a alternativa "D". O erro não é decoreba do dispositivo — é confundir **o que** fica suspenso (juros, multa, garantia — nunca a atualização monetária) com **quando** fica suspenso (marco = consulta protocolada dentro do prazo legal de pagamento, nunca "antes do fato gerador" ou "antes do AIIM"). Ver explicação reforçada no callout da questão.
 - 
 
 ---
@@ -200,23 +201,58 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** (sem fonte confirmada): o art. 155-A do CTN não está no cofre (só o parcelamento do Simples, `MATERIAS/P2 - Direito Tributário.md:2415-2432`) e o Planalto não abriu na checagem. A leitura do art. 155-A vem da anotação do Pedro e da memória do CTN.
 
-> [!question]- 20/09 20:50 · Direito Tributário · FCC (AFRE SEFAZ SP 2026, #3846928) — Consulta e art. 161, §2º
+> [!question]- 20/09 20:50 · Direito Tributário · FCC (AFRE SEFAZ SP 2026, #3846928) — Consulta e art. 161, §2º: juros de mora, garantia e atualização monetária
 > Independentemente das regras adotadas a respeito de consulta em matéria tributária, por cada uma das pessoas jurídicas de direito público interno brasileiras, o CTN estabelece que, na pendência de consulta sobre o crédito tributário, NÃO:
 >
-> (A) incidirá atualização monetária, nem se aplicarão quaisquer medidas de garantia previstas no CTN, ou em leis tributárias, desde a data do protocolo de formulação da consulta até o 30º dia posterior à data da notificação da resposta ao contribuinte, podendo incidir sobre o crédito tributário, nesse período, apenas juros de mora.
-> (B) incidirão juros de mora ou penalidade pecuniária, nem se aplicará qualquer medida de garantia prevista no CTN, ou em leis tributárias, desde que a consulta tenha sido formulada dentro do prazo legal para pagamento do crédito tributário.
+> (A) incidirá atualização monetária, nem se aplicarão quaisquer medidas de garantia previstas no CTN, ou em leis tributárias, desde a data do protocolo de formulação da consulta até o 30º (trigésimo) dia posterior à data da notificação da resposta ao contribuinte, podendo incidir sobre o crédito tributário, nesse período, apenas juros de mora.
+> <mark style="background:#affad1">(B) incidirão juros de mora ou penalidade pecuniária, nem se aplicará qualquer medida de garantia prevista no CTN, ou em leis tributárias, desde que a consulta tenha sido formulada dentro do prazo legal para pagamento do crédito tributário.</mark>
 > (C) incidirá atualização monetária, desde que ela tenha sido formulada antes da lavratura de Auto de Infração e Imposição de Multa (AIIM), podendo ser aplicadas, todavia, a critério do consultor e diante dos fatos narrados pelo consulente, medidas de garantia previstas no CTN, ou em leis tributárias.
-> (D) incidirão juros de mora, penalidade pecuniária ou atualização monetária, desde que ela tenha sido formulada antes da ocorrência do fato gerador.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) incidirão juros de mora, penalidade pecuniária ou atualização monetária, desde que ela tenha sido formulada antes da ocorrência do fato gerador.</mark>
 > (E) incidirão juros de mora ou penalidade pecuniária, desde que ela tenha sido formulada antes da lavratura de AIIM, podendo ser aplicadas, todavia, a critério do consultor e diante dos fatos narrados pelo consulente, medidas de garantia previstas no CTN, ou em leis tributárias.
 >
-> **Marquei:** E · **Gabarito:** B
+> **Marquei:** 🟥 D (20/09) e depois **de novo** 🟥 D (27/09) · **Gabarito:** 🟩 B
+> **Obs.:** errei essa questão de novo em 27/09/2026, com a mesma alternativa (D) — não é distração, é lacuna de entendimento real sobre o que o art. 161, §2º afasta. Reforçando a explicação abaixo até fixar.
 >
-> > [!success] Resposta
-> > **B.** O art. 161, §2º, do CTN afasta o caput (juros de mora, penalidades e medidas de garantia) **na pendência de consulta formulada pelo devedor dentro do prazo legal para pagamento**. O marco é o **prazo de pagamento**, não a lavratura do AIIM nem o fato gerador; e a garantia também fica afastada, não fica "a critério do consultor".
+> > [!success] ✅ Resposta — B
+> > <mark style="background:#fff88f">O art. 161, §2º do CTN é uma **suspensão temporária e condicional** dos encargos do caput (juros de mora, penalidade pecuniária e medidas de garantia) — ela só existe **enquanto a consulta estiver pendente de resposta**, e só nasce se a consulta foi **protocolada dentro do prazo legal de pagamento** do tributo.</mark> Não existe exceção para atualização monetária (ela nunca é afastada) nem qualquer regra que vincule o benefício ao momento da lavratura do AIIM ou à ocorrência do fato gerador — esses dois marcos são **inventados pela banca**, não estão no dispositivo.
 > >
-> > **Pegadinha:** a "E" troca o marco temporal (antes do AIIM) e ainda deixa a garantia ao critério do consultor; a "A" inventa o prazo de 30 dias após a resposta, que não está no §2º.
+> > **A lógica por trás da regra (por que existe o §2º):** o CTN não quer punir o contribuinte que age de boa-fé e tem dúvida genuína sobre como a lei tributária deve ser aplicada ao seu caso. Se ele pergunta à Fazenda **antes de vencer o prazo de pagamento**, é justo que o "relógio" dos encargos moratórios (juros e multa) e das medidas de garantia (ex.: arrolamento de bens, indisponibilidade) fique parado até a Fazenda responder — afinal, o atraso em pagar não é culpa do contribuinte, é o próprio Fisco quem está demorando a esclarecer a dúvida. **A atualização monetária é outra coisa: ela não é punição, é só a reposição do valor da moeda corroído pela inflação** — por isso ela **nunca** para de correr, mesmo com consulta pendente, porque não seria justo o Fisco "perder poder de compra" enquanto espera responder.
 > >
-> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:997-1000`
+> > **O que o §2º exige, em 3 requisitos cumulativos (decore nessa ordem):**
+> > 1. **Existir consulta formal** (não é qualquer dúvida verbal, é o instituto formal de consulta tributária).
+> > 2. **Protocolada dentro do prazo legal de pagamento** do crédito (o marco é sempre esse — nunca "antes do fato gerador", nunca "antes do AIIM").
+> > 3. **Enquanto ela estiver pendente** (sem resposta definitiva da Fazenda) — respondida a consulta, os encargos voltam a correr normalmente a partir daí.
+> >
+> > **O que fica suspenso:** juros de mora + penalidade pecuniária (multa) + medidas de garantia (todas as três, juntas, sem exceção parcial).
+> > **O que NUNCA para:** atualização monetária (não é encargo, é recomposição de valor).
+> >
+> > **Diagnóstico do seu erro (por que a D continua parecendo certa):** a "D" descreve corretamente **o que fica suspenso** (juros, multa e atualização monetária — mas note que ela erra ao incluir a atualização monetária, que nunca é suspensa) e erra só o marco temporal ("antes da ocorrência do fato gerador" em vez de "dentro do prazo legal de pagamento"). O cérebro tende a fixar no "o quê" (juros/multa) e deslizar no "quando" (o marco temporal) porque o enunciado é longo e o marco vem sempre no fim da frase, depois de "desde que". **Treino para não cair de novo:** ao ler qualquer alternativa sobre consulta tributária, ignore tudo antes da palavra "desde que"/"caso" e cheque **só o marco temporal** primeiro — se não for exatamente "dentro do prazo legal para pagamento", já pode eliminar a alternativa, não importa o resto do texto.
+>
+> > [!example]- 🧩 Quadro — por que cada alternativa erra
+> > | Alt. | O que descreve | Erro |
+> > | --- | --- | --- |
+> > | **A** | Afasta atualização monetária e garantia; permite só juros de mora; marco = 30 dias após a resposta | Inventa a exclusão da atualização monetária (nunca é afastada) e o prazo de "30 dias após a resposta" não existe no §2º — o benefício vale **enquanto pendente**, não por um prazo fixo depois |
+> > | **B — correta** | Afasta juros de mora + penalidade + garantia; marco = consulta dentro do prazo legal de pagamento | Bate exatamente com o art. 161, §2º c/c caput |
+> > | **C** | Afasta atualização monetária; marco = antes do AIIM; garantia "a critério do consultor" | Erra em três pontos: atualização monetária não é afastada, o marco não é o AIIM, e a garantia não fica a critério subjetivo de ninguém — é afastada por lei, ponto |
+> > | **D — marquei (2x)** | Afasta juros, multa **e atualização monetária**; marco = antes do fato gerador | Erra ao incluir a atualização monetária no que é afastado, e erra o marco (não é o fato gerador, é o prazo de pagamento) |
+> > | **E** | Afasta juros e multa (sem citar atualização); marco = antes do AIIM; garantia "a critério do consultor" | Marco errado (AIIM em vez de prazo de pagamento) e garantia não é discricionária |
+> >
+> > **Padrão que a FCC repete nessa família de questão:** troca o marco temporal por outro evento processual que "soa" plausível (fato gerador, lavratura do AIIM, prazo pós-resposta) e mexe se a garantia/atualização monetária entram ou não na suspensão. **Os dois pontos que decidem a questão são sempre esses dois:** (1) o marco temporal exato e (2) se a atualização monetária está ou não incluída (nunca está).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A "D" (sua marcação nas duas vezes) é a mais traiçoeira porque acerta a "textura" da resposta certa (fala em juros + multa, tom de regra geral) mas erra dois detalhes finos ao mesmo tempo: inclui a atualização monetária (que nunca é excluída) e troca o marco temporal pelo fato gerador. A "E" e a "C" repetem o mesmo truque com o AIIM como marco falso, e ainda inventam que a garantia fica "a critério do consultor" — a lei não dá discricionariedade nenhuma aqui, é afastamento automático por força do §2º.
+>
+> > [!tip] 💡 Macete
+> > **"Consulta a tempo, congela os 3: juros, multa e garantia — mas o relógio da inflação nunca para."** Se a alternativa disser que a atualização monetária some, já está errada. Se o marco não for "dentro do prazo de pagamento", já está errada.
+>
+> > [!quote]- 📜 Texto literal — art. 161, caput, §1º e §2º, CTN
+> > Art. 161. O crédito não integralmente pago no vencimento é acrescido de juros de mora, seja qual for o motivo determinante da falta, sem prejuízo da imposição das penalidades cabíveis e da aplicação de quaisquer medidas de garantia previstas nesta Lei ou em lei tributária.
+> > § 1º Se a lei não dispuser de modo diverso, os juros de mora são calculados à taxa de um por cento ao mês.
+> > <span class="g-cond">§ 2º O disposto neste artigo não se aplica na pendência de consulta formulada pelo devedor dentro do prazo legal para pagamento do crédito.</span>
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Extinção do Crédito tributário|Extinção do Crédito Tributário › Pagamento (arts. 158 a 164)]] — já estava grifado (o §2º já vinha em amarelo em `MATERIAS/P2 - Direito Tributário.md:1020`, e a tabela de Pagamento na linha 1041 já resume "não incidem enquanto pendente consulta formal feita dentro do prazo de pagamento"). **Correção:** a fonte anterior (`:997-1000`) apontava para o trecho errado (moratória, art. 155) por engano — a referência certa é `:1016-1020`.
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1016-1020` e `:1041` · CTN, art. 161, §2º
 
 > [!question]- 20/09 20:51 · Direito Tributário · IBAM (Técnico Fazendário Pref. Caruaru 2023, #3093908) — Interrupção da prescrição
 > A prescrição se interrompe pelo:
