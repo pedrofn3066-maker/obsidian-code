@@ -178,3 +178,86 @@ Um quinto processo, considerado remoto no ano anterior, foi condenado em última
 > > [!info] 🔗 Na matéria
 > > [[P2 - Contabilidade Avançada e de Custos#- Empréstimos;|Contabilidade Avançada › Empréstimos]] — **grifado agora:** as fórmulas VCL = Valor do Empréstimo − Custo de Transação e Encargos = VCL × Taxa Efetiva (mesmo método do exemplo do cofre, só com números diferentes).
 > > **Fonte:** cofre `MATERIAS/P2 - Contabilidade Avançada e de Custos.md:776`
+
+### 27/09
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Contabilidade Avançada · FGV (AMAZUL 2026) — Equivalência patrimonial: resultado negativo quando a investida tem prejuízo
+> TEC #3798971. Uma sociedade empresária apresentou, em sua Demonstração do Resultado, entre as despesas operacionais, a conta "resultado com equivalência patrimonial", com saldo negativo de R$18.000.
+>
+> O fato foi considerado
+> (A) incorreto, uma vez que o reconhecimento com equivalência patrimonial não pode ser negativo.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) incorreto, uma vez que esse resultado deve ser apresentado como "outras receitas e despesas operacionais".</mark>
+> (C) incorreto, uma vez que esse fato é reconhecido na Demonstração das mutações do patrimônio líquido.
+> <mark style="background:#affad1">(D) correto, uma vez que quando a empresa investida apresenta prejuízo, o resultado com equivalência patrimonial é negativo.</mark>
+> (E) correto, uma vez que a conta é sempre reconhecida como despesa, já que abrange os gastos da empresa investida.
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D
+> > <mark style="background:#fff88f">Quando a investida tem prejuízo, a investidora reconhece sua participação proporcional como despesa (resultado negativo) de equivalência patrimonial</mark>, e esse resultado passa pela DRE — não é sempre receita, nem está limitado a valores positivos.
+> >
+> > - **(A)** pode sim ser negativo: é exatamente o caso de investida com prejuízo.
+> > - **(B)** é discussão de nomenclatura dentro da DRE; não muda o fato de o saldo poder ser negativo.
+> > - **(C)** o resultado de equivalência (lucro ou prejuízo da investida) passa pela DRE, não direto pela DMPL — só outros resultados abrangentes da investida vão direto ao PL.
+> > - **(E)** não é sempre despesa: quando a investida tem lucro, o resultado de equivalência é receita.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca embaralha "a conta é sempre despesa/nunca pode ser negativa" com o fato de que o sinal do resultado de equivalência **acompanha o resultado da investida** — lucro na investida → receita; prejuízo na investida → despesa (negativo).
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Contabilidade Avançada e de Custos#5. Resultado da Equivalência Patrimonial (REP)|Resultado da Equivalência Patrimonial (REP)]] — a nota já registra o "Resultado Negativo de Equivalência Patrimonial" (limite ao saldo do investimento em coligadas), mas não é texto literal de norma, então não grifei; o ponto específico testado aqui (que esse resultado transita pela DRE, não pela DMPL) não está explícito na nota.
+> > **Fonte:** comentário do TEC (CPC 18 R2, método da equivalência patrimonial)
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Contabilidade Avançada · FGV (ALEGO 2026) — Ativo Imobilizado (NBC TG 27): divulgação de indenização de terceiros
+> TEC #3823679. De acordo com a NBC TG 27 (R4) – Ativo Imobilizado, as demonstrações contábeis devem divulgar, entre outros pontos, o valor das indenizações de terceiros por itens do ativo imobilizado que tenham sido desvalorizados, perdidos ou abandonados, incluído no resultado, caso a informação não tenha sido divulgada separadamente, no corpo da(o)
+>
+> (A) Balanço Patrimonial.
+> <mark style="background:#affad1">(B) Demonstração do Resultado.</mark>
+> (C) Demonstração do Valor Adicionado.
+> (D) Demonstração de Lucros ou Prejuízos Acumulados.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(E) Demonstração das Mutações do Patrimônio Líquido.</mark>
+>
+> **Marquei:** 🟥 E · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B
+> > <mark style="background:#fff88f">A indenização de terceiros por imobilizado desvalorizado, perdido ou abandonado transita pelo resultado do período</mark> — por isso, quando não divulgada separadamente, ela aparece no corpo da própria **Demonstração do Resultado** (item 74(d), NBC TG 27 R4), não no BP, na DVA, na DLPA ou na DMPL.
+> > - **(A)** o BP mostra posição patrimonial numa data, não é o veículo indicado pela norma.
+> > - **(C)** a DVA evidencia distribuição de riqueza gerada, sem previsão normativa para essa divulgação.
+> > - **(D)** a DLPA trata das mutações de lucros acumulados, não de divulgações sobre imobilizado.
+> > - **(E)** mesma lógica: a DMPL não é o demonstrativo apontado pela norma para esse caso.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca a DRE pela DMPL (E) — ambas "soam" como lugar de divulgação de eventos patrimoniais, mas a norma aponta especificamente o corpo da demonstração do **resultado**, porque a indenização já transitou pelo resultado do período.
+>
+> > [!quote]- 📜 Texto literal — NBC TG 27 (R4), item 74(d)
+> > "o valor das indenizações de terceiros por itens do ativo imobilizado que tenham sido desvalorizados, perdidos ou abandonados, incluído no resultado, caso a informação não tenha sido divulgada separadamente, no corpo da demonstração do resultado."
+>
+> > [!info] 🔗 Na matéria
+> > Não achei heading de Ativo Imobilizado nem em `P2 - Contabilidade Avançada e de Custos.md` nem em `P1 - Contabilidade Geral.md` — não está no cofre.
+> > **Fonte:** comentário do TEC, citando NBC TG 27 (R4), item 74(d)
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Contabilidade Avançada · FGV (AMAZUL 2026) — Contas a Receber: exemplo (duplicatas de vendas a prazo)
+> TEC #3798925. No âmbito da Contabilidade, as contas a receber representam direitos que a entidade possui em relação a terceiros, decorrentes de transações cujo recebimento ocorrerá futuramente. Esses direitos podem surgir, por exemplo, de vendas a prazo, de valores depositados em instituições financeiras ou de outros contratos que asseguram o recebimento de recursos.
+>
+> Considerando o conceito de contas a receber, assinale a opção que apresenta corretamente um exemplo dessa categoria contábil.
+> (A) Equipamentos adquiridos para uso operacional da empresa.
+> <mark style="background:#affad1">(B) Duplicatas emitidas em razão de vendas a prazo realizadas pela entidade.</mark>
+> (C) Obrigações assumidas pela empresa com fornecedores de mercadorias.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) Gastos antecipados relacionados a seguros contratados para exercícios futuros.</mark>
+> (E) Investimentos mantidos para obtenção de controle societário em outras empresas.
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B
+> > <mark style="background:#fff88f">Duplicatas emitidas por venda a prazo são o exemplo clássico de contas a receber</mark>: direito de receber de terceiro, decorrente de transação já realizada.
+> > - **(A)** equipamentos são ativo imobilizado, bem tangível de uso, não direito de recebimento.
+> > - **(C)** obrigações com fornecedores são passivo (contas a pagar), o oposto de contas a receber.
+> > - **(D)** seguro a vencer é despesa antecipada (direito a apropriar como despesa), não valor a receber de terceiro.
+> > - **(E)** investimentos permanentes ficam no Ativo Não Circulante – Investimentos, não em contas a receber.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Mistura direito de receber dinheiro de terceiro (contas a receber) com despesa antecipada já paga (D) — as duas ficam no ativo circulante, mas são categorias diferentes.
+>
+> > [!info] 🔗 Na matéria
+> > Não achei heading de Contas a Receber/Balanço Patrimonial (conceito de duplicatas) nem em `P2 - Contabilidade Avançada e de Custos.md` nem em `P1 - Contabilidade Geral.md` — não está no cofre.
+> > **Fonte:** comentário do TEC
