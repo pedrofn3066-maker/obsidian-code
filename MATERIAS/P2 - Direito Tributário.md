@@ -347,7 +347,7 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 > [!quote]- Texto literal: Art. 9º, IV e §§1º–2º (CTN Guruja, p. 9–11)
 > IV - cobrar impostos e a contribuição de que trata o inciso V do art. 195 da Constituição Federal sobre:
 > a) o patrimônio, a renda ou os serviços uns dos outros;
-> b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes;
+> b) entidades religiosas e templos de qualquer culto, <mark style="background:#fff88f">inclusive suas organizações assistenciais e beneficentes</mark>;
 > c) o patrimônio, a renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, observados os requisitos fixados na Seção II deste Capítulo;
 > d) papel destinado exclusivamente à impressão de jornais, periódicos e livros.
 >

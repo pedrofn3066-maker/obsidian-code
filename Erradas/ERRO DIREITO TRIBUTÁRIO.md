@@ -12,7 +12,7 @@ tags:
 
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
-- 
+- **Repartição Constitucional de Receitas Tributárias:** 2 dos 6 erros do caderno C07 DTRIB (27/09/2026) vieram daqui — FGV/TCE-PA (#3043737) e CEBRASPE/TCE-PR (#3048791). Não conhecia a lista **taxativa** de exceções à não afetação de imposto (art. 167, IV, CF: só repartição dos arts. 158/159, saúde, educação, administração tributária e ARO — causa "boa" como cultura/segurança/educação não entra) nem os critérios de repasse do IBS estadual aos Municípios (art. 158, § 2º: 80% população / 10% educação / 5% ambiente / 5% igual entre Municípios).
 - 
 
 ---
@@ -733,3 +733,156 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [!info] 🔗 Na matéria
 > > [[P2 - Direito Tributário#7. Imposto sobre a Transmissão de Bens Imóveis — ITBI (arts. 35 a 42)|Direito Tributário › ITBI]] — o cofre tem o fato gerador em resumo ("exceto os de garantia", linha 3520), sem texto literal para grifar; o caso da alienação fiduciária **não está no cofre**.
 > > **Fonte:** ementa do STJ colada na captura · internet CTN art. 35 — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+
+### 27/09
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Auditor, Pref. Paty do Alferes 2020, #1803853) — Repercussão econômica (imposto direto × indireto)
+> Quando a carga tributária é transferida pelo contribuinte de direito a terceiros, que passam a ser contribuintes de fato, enquanto a responsabilidade de efetuar o pagamento do tributo permanece com o primeiro, ocorre o que a doutrina denomina:
+>
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">difusão</mark>
+> (B) <mark style="background:#affad1">repercussão</mark>
+> (C) transmissão
+> (D) dispersão
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B
+> > Na classificação quanto à translação do ônus financeiro: **imposto direto** = quem a lei manda pagar (contribuinte de direito) é quem sofre o encargo; **imposto indireto** = o encargo é transferido a outra pessoa (contribuinte de fato) pelo fenômeno da <mark style="background:#fff88f">repercussão</mark> econômica (Sabbag).
+> >
+> > **(A)** e **(D)** — "difusão" e "dispersão" não têm definição na doutrina tributária. **(C)** "transmissão" é termo do Direito Civil (transmissão de obrigações), não da classificação direto/indireto.
+>
+> > [!tip] 💡 Macete
+> > Repercussão = **repassa** o encargo pra frente (ex.: ICMS/IPI — o consumidor final paga de fato).
+>
+> > [!info] 🔗 Na matéria
+> > Não está no cofre — a classificação direto/indireto pela translação do ônus (repercussão) não aparece em [[P2 - Direito Tributário]].
+> > **Fonte:** comentário do TEC, citando Sabbag, Eduardo. Manual de Direito Tributário, 9. ed., Saraiva, 2017.
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Auditor-Fiscal Tributário, Pref. São Vicente 2026, #3962609) — Princípios do art. 145, §§3º e 4º (EC 132/2023)
+> Considerando o que determina a Constituição Federal em seu capítulo sobre o Sistema Tributário Nacional, Princípios Gerais e a doutrina majoritária sobre os princípios tributários, assinale a alternativa correta.
+>
+> (A) O princípio da justiça tributária, introduzido pela EC nº 132/2023, exige que todos os tributos sejam progressivos, de modo a garantir que a carga tributária seja distribuída de forma equitativa entre os contribuintes, vedando-se qualquer tributo com alíquota fixa.
+> (B) <mark style="background:rgba(163, 67, 31, 0.2)">A busca pela atenuação de efeitos regressivos, conforme o § 4º do Art. 145 da CF/88, implica que o legislador deve priorizar a tributação sobre a renda e o patrimônio em detrimento do consumo, como forma de promover a equidade fiscal e a capacidade contributiva.</mark>
+> (C) A vedação contida no § 2º do Art. 145 da CF/88 impede que o valor venal de um imóvel seja utilizado como critério para a determinação da base de cálculo de uma taxa de serviço público municipal, como a taxa de coleta de lixo, por configurar identidade com a base de cálculo do IPTU.
+> (D) <mark style="background:#affad1">O princípio da defesa do meio ambiente, agora expresso no § 3º do Art. 145 da CF/88, legitima a instituição de tributos com função extrafiscal, cujo objetivo principal é desestimular condutas ambientalmente danosas, alinhando a política fiscal à sustentabilidade.</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D
+> > O art. 145, §3º, CF (EC 132/2023) elevou a <mark style="background:#fff88f">defesa do meio ambiente</mark> a princípio expresso do Sistema Tributário Nacional — daí o Imposto Seletivo (art. 153, VIII), o "imposto do pecado", com função **extrafiscal** (desestimular condutas nocivas), não só arrecadatória.
+> >
+> > **(A)** o §3º não exige progressividade em todos os tributos nem veda alíquota fixa — convive com a proporcionalidade (ex.: alíquotas de referência do IBS/CBS). **(B)** o §4º manda **atenuar** efeitos regressivos, mas não obriga priorizar renda/patrimônio sobre consumo — isso se faz por mecanismos específicos (Cesta Básica Nacional, Cashback), não por uma "prioridade" genérica. **(C)** a Súmula Vinculante 29/STF permite usar elemento da base de cálculo de um imposto (valor venal) na taxa, desde que não haja identidade integral — a taxa de lixo pode usar o valor venal como critério.
+>
+> > [!example]- 🧩 Quadro — os 5 novos princípios do STN (art. 145, §3º)
+> > | Princípio | Aplicação prática |
+> > | --- | --- |
+> > | Simplicidade | legislação única do IBS |
+> > | Transparência | fim do cálculo "por dentro" |
+> > | Justiça tributária | Cashback + Cesta Básica Nacional |
+> > | Cooperação | Comitê Gestor do IBS |
+> > | Defesa do meio ambiente | Imposto Seletivo + IPVA por impacto ambiental |
+>
+> > [!quote]- 📜 Texto literal — CF, art. 145, §§3º e 4º
+> > § 3º O Sistema Tributário Nacional deve observar os princípios da simplicidade, da transparência, da justiça tributária, da cooperação e da defesa do meio ambiente.
+> > § 4º As alterações na legislação tributária buscarão atenuar efeitos regressivos.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Princípios gerais do Sistema Tributário e LC (arts. 145 e 146)]] — já estava grifado (simplicidade/transparência/justiça tributária/cooperação/defesa do meio ambiente e "regressivos", em amarelo).
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:197` · comentário do TEC, com CF art. 153, VIII.
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · VUNESP (Controlador Geral, Pref. Itatiba 2025, #3585817) — Imunidade religiosa: IPTU e Imposto de Importação
+> Determinada entidade religiosa está localizada no município de São Paulo e ocupa uma grande área onde realiza semanalmente seus cultos e promove sua atividade assistencial, que consiste na capacitação de pessoas com deficiência e doação de equipamentos não fabricados no Brasil para auxiliá-las. Em vista disso, a entidade religiosa
+>
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">é imune ao Imposto Predial e Territorial Urbano (IPTU) apenas na área utilizada para realização dos cultos, mas deve pagar o Imposto de Importação incidente sobre equipamentos utilizados na atividade assistencial.</mark>
+> (B) não é imune ao IPTU, pois houve desvirtuamento da utilização de seu espaço e deve pagar Imposto de Importação incidente sobre equipamentos utilizados na atividade assistencial.
+> (C) é imune ao IPTU em toda a área ocupada, mas deve pagar o Imposto de Importação incidente sobre equipamentos utilizados na atividade assistencial.
+> (D) <mark style="background:#affad1">é imune tanto ao IPTU em toda a área ocupada como ao Imposto de Importação incidente sobre equipamentos utilizados na atividade assistencial.</mark>
+> (E) é imune ao IPTU apenas na área utilizada para realização dos cultos, e também ao Imposto de Importação incidente sobre equipamentos utilizados na atividade assistencial.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D
+> > O STF interpreta a imunidade religiosa (art. 150, VI, "b", CF) de forma **ampla/teleológica**: abrange <mark style="background:#fff88f">todo o imóvel</mark>, sem fracionar entre área de culto e área assistencial, pois a assistência social é finalidade essencial da entidade (RE 325822). A imunidade também **alcança o Imposto de Importação** sobre bens destinados a essa finalidade essencial.
+> >
+> > **(A)** e **(E)** restringem o IPTU à área do culto — errado, o STF não fraciona o imóvel. **(B)** trata a atividade assistencial como "desvirtuamento" — é o contrário, é finalidade essencial. **(C)** acerta no IPTU mas erra ao cobrar o Imposto de Importação.
+>
+> > [!quote]- 📜 Texto literal — CF, art. 150, VI, "b" e § 4º / CTN, art. 9º, IV, "b"
+> > Art. 150, VI - instituir impostos sobre: b) templos de qualquer culto;
+> > § 4º As vedações do inciso VI, "b" e "c", compreendem somente o patrimônio, a renda e os serviços relacionados com as finalidades essenciais das entidades nelas mencionadas.
+> > CTN, art. 9º, IV, b) entidades religiosas e templos de qualquer culto, <mark style="background:#fff88f">inclusive suas organizações assistenciais e beneficentes</mark>.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Arts. 9º a 15 do CTN diante da CF/88|Direito Tributário › Imunidades do art. 9º, CTN, diante da CF]] — grifado agora ("inclusive suas organizações assistenciais e beneficentes").
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:350` · comentário do TEC, com STF RE 325822.
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · FGV (Auditor de Controle Externo, TCE-PA 2024, #3043737) — Não afetação de receita de impostos (art. 167, IV, CF)
+> Com base na jurisprudência do Supremo Tribunal Federal, não ofende o princípio orçamentário da não afetação ou da não vinculação das receitas
+>
+> (A) lei estadual que institui programa que vincula parte da receita do ICMS ao Fundo Estadual de Cultura.
+> (B) <mark style="background:rgba(163, 67, 31, 0.2)">lei estadual que majorou a alíquota do ICMS e vinculou parte da diferença apurada ao custeio da segurança pública do Estado.</mark>
+> (C) lei municipal que institui reajuste automático vencimentos dos servidores daquele município, vinculado ao incremento da arrecadação do ISS.
+> (D) norma estadual que destinou uma porcentagem da receita resultante de impostos à manutenção e conservação das escolas públicas.
+> (E) <mark style="background:#affad1">lei municipal que vinculou a fundo o produto da participação do Município na receita de ICMS.</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — E
+> > O art. 167, IV, CF veda vincular receita de imposto a fundo/despesa, **ressalvadas** as exceções taxativas: <mark style="background:#fff88f">repartição constitucional (arts. 158 e 159)</mark>, saúde, educação, administração tributária e garantia de ARO. A quota do Município na receita do ICMS **é** repartição constitucional (art. 158, IV) — logo, vinculá-la a fundo não ofende a não afetação.
+> >
+> > As outras quatro (A, B, C, D) vinculam receita a causas **fora** da lista taxativa — cultura, segurança pública, reajuste salarial atrelado a arrecadação e escolas não estão nas exceções do art. 167, IV, mesmo sendo causas "boas" — e o STF já declarou todas inconstitucionais (ADI 2529; RE 411044 AgR; RE 218874; ADI 820).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > As quatro alternativas erradas vinculam receita a causas que "parecem" legítimas (cultura, segurança, educação, salário) — mas a lista de exceções do art. 167, IV é **taxativa**: só repartição constitucional, saúde, educação (ensino), administração tributária e ARO. Causa boa não basta; tem que estar na lista.
+>
+> > [!quote]- 📜 Texto literal — CF, art. 167, IV
+> > IV - a vinculação de receita de impostos a órgão, fundo ou despesa, <mark style="background:#fff88f">ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159</mark>, a destinação de recursos para as ações e serviços públicos de saúde, para manutenção e desenvolvimento do ensino e para realização de atividades da administração tributária, e a prestação de garantias às operações de crédito por antecipação de receita;
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#- Vedações orçamentárias na CF 88|Direito Financeiro › Não afetação de imposto (art. 167, IV)]] — grifado agora ("ressalvadas a repartição... arts. 158 e 159"). Ver também [[P2 - Direito Tributário#Repartição Constitucional de Receitas Tributárias.|Direito Tributário › Repartição de Receitas]] (jurisprudência do FPM/ICMS).
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:396` · comentário do TEC, com ADI 2529, RE 411044 AgR, RE 218874, ADI 820.
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · CEBRASPE (Auditor de Controle Externo, TCE-PR 2024, #3048791) — Repartição de receitas: IBS e indicadores ambientais
+> No que concerne à repartição de receitas tributárias, assinale a opção correta, de acordo com a Constituição Federal de 1988 (CF), as alterações implementadas pela Emenda Constitucional n.º 132/2023 (Reforma Tributária) e a jurisprudência do STF.
+>
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">É ilegítimo à União condicionar a entrega e o emprego dos recursos constitucionalmente previstos em favor de determinado estado, neles compreendidos adicionais e acréscimos relativos a impostos, ao pagamento de créditos de titularidade do ente central.</mark>
+> (B) Conforme a disciplina do texto constitucional, as contribuições sociais e de intervenção no domínio econômico instituídas pela União não se sujeitam à repartição de receitas em favor dos entes menores.
+> (C) <mark style="background:#affad1">Os indicadores de preservação ambiental são aptos a influenciar o quantitativo das receitas a serem entregues pelos estados aos municípios, considerado o imposto sobre bens e serviços.</mark>
+> (D) A CF autoriza a dedução do percentual de desvinculação de receitas do montante a ser transferido aos estados e municípios em decorrência das normas constitucionais de repartição de receitas.
+> (E) A renúncia de receitas decorrente da concessão de benefícios e isenções fiscais, pela União, relativamente a tributos federais deverá ser objeto de compensação em favor do Fundo de Participação de Municípios e das respectivas quotas devidas às municipalidades.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C
+> > Do IBS estadual, 25% vai aos Municípios (art. 158, IV, "b", CF), distribuído por: <mark style="background:#fff88f">80% população, 10% educação, 5% preservação ambiental, 5% igual entre os Municípios</mark> (art. 158, § 2º). Logo, o indicador ambiental **influencia** o repasse do IBS estadual aos Municípios.
+> >
+> > **(A)** é o inverso do texto: o art. 160, § 1º, I, CF **permite** a União condicionar a entrega ao pagamento de créditos seus. **(B)** errado quanto à CIDE-combustíveis: 29% dela vai a Estados/DF (art. 159, III). **(D)** o STF não autoriza deduzir a desvinculação de receitas (DRU) do valor repassado a Estados/Municípios. **(E)** não há previsão de compensação ao FPM por renúncia fiscal da União.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Constitucional#Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)]] — o cofre já tem o dado ("Art. 158, IV: 25% do ICMS e do IBS dos Estados. IBS: 80% população, 10% educação, 5% meio ambiente, 5% iguais"), num resumo — não é texto literal, não há trecho pra grifar.
+> > **Fonte:** comentário do TEC, com CF art. 158, § 2º, art. 156-A, § 1º, VII, e art. 160, § 1º.
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · CEBRASPE (Especialista da Fazenda Estadual, SEFAZ-AC 2024, #2924837) — Contribuição confederativa × contribuição sindical
+> De acordo com a Constituição Federal de 1988, a contribuição fixada pela assembleia-geral para custeio do sistema confederativo do respectivo sindicato
+>
+> (A) depende de instituição por lei.
+> (B) <mark style="background:#affad1">não tem natureza jurídica de tributo.</mark>
+> (C) <mark style="background:rgba(163, 67, 31, 0.2)">tem natureza jurídica tributária de contribuição social sindical.</mark>
+> (D) é compulsória.
+> (E) é cobrada de todos os trabalhadores, incluídos os não filiados.
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B
+> > A **contribuição confederativa** (art. 8º, IV, CF) é fixada pela **assembleia-geral**, não por lei, e só é cobrada dos **filiados** (Súmula Vinculante 40, STF) — por não ser compulsória nem legal, <mark style="background:#fff88f">não tem natureza tributária</mark>. É diferente da **contribuição sindical** (antigo imposto sindical, arts. 578 e ss. da CLT), que era compulsória até a reforma trabalhista de 2017 e hoje depende de autorização expressa e prévia do trabalhador.
+> >
+> > **(C)** confunde as duas: quem tem natureza tributária histórica é a contribuição *sindical*, não a *confederativa* perguntada no enunciado. **(A)/(D)/(E)** erram porque a confederativa não depende de lei, não é compulsória e só atinge filiados.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O enunciado fala em "contribuição fixada pela assembleia-geral para custeio do sistema confederativo" — isso é a **confederativa**, mesmo citando "sindicato" no nome. A banca conta com a confusão com a contribuição *sindical* (essa sim, com histórico tributário).
+>
+> > [!quote]- 📜 Texto literal — CF, art. 8º, IV
+> > IV - a assembleia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, <span class="g-cond">independentemente</span> da contribuição prevista em lei;
+>
+> > [!info] 🔗 Na matéria
+> > Não está no cofre — [[P2 - Direito Tributário#Disposições Finais e Transitórias (arts. 209 a 218 do CTN)]] só cobre a contribuição **sindical** (art. 217, CTN), não a confederativa (art. 8º, IV, CF).
+> > **Fonte:** comentário do TEC, com CF art. 8º, IV, e Súmula Vinculante 40/STF.
