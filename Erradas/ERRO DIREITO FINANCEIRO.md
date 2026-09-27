@@ -14,6 +14,7 @@ tags:
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
 - Dívida Ativa — 2 erros no caderno C02 (23/09/2026): requisitos da cessão onerosa de créditos (art. 39-A) e lançamento contábil (PCASP) dos juros/encargos de mora — o segundo está fora do cofre (código de conta específico, não é conceito legal).
 - PPA x LDO x LOA — 4 erros no caderno C01 (16/09/2026): confundiu PPA com LDO em definição direta e literal do art. 165, §1º, CF (2x seguidas, questões #2904122 e #2503100), errou regra do processo legislativo orçamentário — recursos sem despesa correspondente após rejeição do PLOA (#3178039) — e a regra de cumulatividade LOA+LDO para revisão geral anual, STF RE 905.357 (#3166989). Padrão: sabe os conceitos isolados, mas troca qual lei faz o quê — revisar o quadro comparativo de vigência/função em [[P1 - Direito Financeiro#- Lei orçamentárias (LDO, PPA e LOA)]] e o processo legislativo (art. 166) na seção LOA antes da próxima bateria de AFO.
+- Despesas com Pessoal (arts. 18 a 24 da LRF) — 3 erros no caderno C03 (26/09/2026): revisão geral anual como exceção à vedação de aumento acima de 95% do limite (art. 22, §ún., I) (#3728849), repartição do limite municipal de 60% da RCL — 6% Legislativo/54% Executivo — confundida com a repartição estadual (#2840119), e classificação da terceirização que substitui servidor como "Outras Despesas de Pessoal" (art. 18, §1º) (#1937057). Padrão: sabe o teto geral (60% para Municípios) mas erra o detalhe fino do capítulo — exceções ao limite, repartição por Poder/esfera e classificação contábil — revisar arts. 18 a 22 em [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] antes da próxima bateria de AFO.
 - 
 
 ---
@@ -428,3 +429,214 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [!info] 🔗 Na matéria
 > > Não achei heading sobre revisão geral anual / RE 905.357 em `P1 - Direito Financeiro`; não está no cofre.
 > > **Fonte:** comentário do TEC (STF, RE 905.357) · (sem fonte no cofre)
+
+### 26/09
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Analista de Compras e Contratos, CM Bebedouro, 2025) — Empresa controlada x estatal dependente (LRF, art. 2º)
+> É correto afirmar que a Lei Complementar nº 101/2000 considera a sociedade cuja maioria do capital social com direito a voto pertença, direta ou indiretamente, a ente da Federação, como empresa:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) estatal dependente.</mark>
+> <mark style="background:#affad1">(B) controlada.</mark>
+> (C) estatal coligada.
+> (D) estatal conglomerada.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: empresa controlada (art. 2º, II, LRF)
+> > <mark style="background:#fff88f">Empresa controlada</mark> = sociedade cuja maioria do capital social com direito a voto pertence, direta ou indiretamente, a ente da Federação (art. 2º, II). (A) **dependente** (inciso III) é a controlada que **além disso** recebe recursos do ente controlador para pessoal, custeio ou capital — um requisito extra que o enunciado não pede. (C) e (D) não têm definição na LRF; coligada é conceito do MCASP, não da LRF.
+>
+> > [!quote]- 📜 Texto literal — LRF, art. 2º, II e III
+> > II - empresa controlada: sociedade cuja maioria do capital social com direito a voto pertença, direta ou indiretamente, a ente da Federação;
+> >
+> > III - empresa estatal dependente: empresa controlada que receba do ente controlador recursos financeiros para pagamento de despesas com pessoal ou de custeio em geral ou de capital, excluídos, no último caso, aqueles provenientes de aumento de participação acionária.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] — já traz a distinção controlada/dependente (linha 841).
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:841`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Assistente Contábil-Financeiro, Pref. Penha, 2024) — Metas bimestrais de arrecadação (LRF, art. 13)
+> Segundo a Lei Complementar Federal nº 101/00, em até trinta dias após a publicação dos orçamentos, as receitas previstas serão desdobradas, pelo Poder Executivo, em:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) lançamento, arrecadação e recolhimento</mark>
+> (B) programação financeira semestral
+> (C) cronograma de execução trimestral de desembolso
+> <mark style="background:#affad1">(D) metas bimestrais de arrecadação</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D: metas bimestrais de arrecadação (art. 13, LRF)
+> > As receitas previstas se desdobram, em até 30 dias da publicação dos orçamentos, em <mark style="background:#fff88f">metas <span class="g-prazo">bimestrais</span> de arrecadação</mark>, com especificação das medidas contra evasão/sonegação e da evolução da dívida ativa. (A) são os estágios da **despesa** (empenho, liquidação, pagamento — não bate nem a fase), não da receita. (B) e (C) trocam a periodicidade certa: é a programação financeira e o cronograma de execução **mensal** de desembolso que saem nesse mesmo prazo de 30 dias — não semestral nem trimestral.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca mistura dois desdobramentos do mesmo art. 8º/13: a receita vira metas **bimestrais**; a despesa vira cronograma de execução **mensal**. Trocar bimestral↔mensal↔trimestral↔semestral entre os dois é o erro mais comum.
+>
+> > [!quote]- 📜 Texto literal — LRF, art. 13
+> > Art. 13. No prazo previsto no art. 8º, as receitas previstas serão desdobradas, pelo Poder Executivo, em metas bimestrais de arrecadação, com a especificação, em separado, quando cabível, das medidas de combate à evasão e à sonegação, da quantidade e valores de ações ajuizadas para cobrança da dívida ativa, bem como da evolução do montante dos créditos tributários passíveis de cobrança administrativa.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] — já traz o art. 13 com "metas bimestrais de arrecadação" em negrito (linha 941).
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:941`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Contador, Pref. Santos, 2016) — Despesa obrigatória de caráter continuado — prazo (LRF, art. 17)
+> A Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000) define como despesa corrente de caráter continuado a que decorre de ato que cria a obrigação legal de sua execução por período superior a:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) um exercício.</mark>
+> <mark style="background:#affad1">(B) dois exercícios.</mark>
+> (C) quatro exercícios.
+> (D) seis exercícios.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: mais de dois exercícios (art. 17, LRF)
+> > DOCC = despesa corrente derivada de lei, MP ou ato administrativo normativo que obriga sua execução por período superior a <span class="g-prazo">dois exercícios</span>. Qualquer prazo diferente de "dois exercícios" (um, quatro ou seis) está errado — é um número fixo da lei, sem margem de interpretação.
+>
+> > [!quote]- 📜 Texto literal — LRF, art. 17, caput
+> > Art. 17. Considera-se obrigatória de caráter continuado a despesa corrente derivada de lei, medida provisória ou ato administrativo normativo que fixem para o ente a obrigação legal de sua execução por um período superior a dois exercícios.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] — já traz o art. 17 citado literalmente, com lupa própria sobre DOCC (linha 1006).
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:1006`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Procurador Municipal, Pref. Casimiro de Abreu, 2025) — Revisão geral anual x limite de 95% da despesa com pessoal (LRF, art. 22)
+> A despesa total com pessoal do Município Y excedeu 95% do limite estabelecido na Lei de Responsabilidade Fiscal. O Prefeito Municipal concedeu revisão geral anual da remuneração de todos os servidores. Diante disso, considera-se que esse ato do Prefeito Municipal:
+>
+> <mark style="background:#affad1">(A) é válido porque a revisão geral anual é uma atualização dos valores da remuneração e não um aumento, portanto, não se enquadra nas limitações previstas na Lei de Responsabilidade Fiscal com relação ao aumento de despesa com pessoal.</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) é nulo porque uma vez atingido o marco de 95% do limite de despesa com pessoal estabelecido na Lei de Responsabilidade Fiscal, nenhum ato que acarrete aumento de despesa pode ser praticado, incluindo-se nessa proibição a revisão geral anual.</mark>
+> (C) é válido porque as despesas com pessoal ainda não atingiram 100% do limite de despesa com pessoal previsto na Lei de Responsabilidade Fiscal, de modo que ainda é possível, respeitado esse limite, a prática de atos como concessão de vantagens ou reajustes que acarretem aumento de despesa com pessoal.
+> (D) será válido apenas se existir situação emergencial e justificativa de relevante interesse público para concessão de revisão geral anual aos servidores públicos, uma vez que as despesas com pessoal ainda não atingiram 100% do limite de despesa com pessoal previsto na Lei de Responsabilidade Fiscal.
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: RGA é exceção expressa à vedação do art. 22, §ún., I
+> > Acima de <span class="g-num">95%</span> do limite, ficam vedados vantagem, aumento, reajuste ou adequação de remuneração — <span class="g-cond">salvo</span> os derivados de sentença judicial, determinação legal/contratual ou a **revisão geral anual** do art. 37, X, CF, que a própria LRF ressalva. (B) erra ao tratar a vedação como absoluta — a RGA é justamente a exceção que a lei prevê. (C) inverte a lógica: mesmo abaixo de 100%, ultrapassar 95% já ativa as vedações do art. 22 (com exceção da RGA); não é "livre até 100%". (D) inventa um requisito de emergência/interesse público que a LRF não exige para a RGA.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca conta com o candidato tratando "vedado" como absoluto e esquecendo a ressalva expressa à revisão geral anual — a mesma ressalva aparece tanto no art. 21 (nulidade de ato) quanto no art. 22 (vedações do gatilho de 95%).
+>
+> > [!quote]- 📜 Texto literal — LRF, art. 22, parágrafo único, I
+> > Parágrafo único. Se a despesa total com pessoal exceder a 95% (noventa e cinco por cento) do limite, são vedados ao Poder ou órgão referido no art. 20 que houver incorrido no excesso: I - concessão de vantagem, aumento, reajuste ou adequação de remuneração a qualquer título, salvo os derivados de sentença judicial ou de determinação legal ou contratual, ressalvada a revisão prevista no inciso X do art. 37 da Constituição.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] — já cobre o art. 22 e as vedações do gatilho de 95% (linhas 1054-1066), inclusive a ressalva da revisão geral. Ver também "🎯 Mapeamento de Pontos Cegos" (3 erros no mesmo assunto neste caderno).
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:1054`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Contador, CM Cabo Frio, 2024) — Limite municipal de pessoal: 6% Legislativo / 54% Executivo (LRF, art. 20)
+> De acordo com a Lei de Responsabilidade Fiscal (LRF), para os Municípios, o limite para as despesas de pessoal é de 60% da Receita Corrente Líquida, assim distribuídos:
+>
+> <mark style="background:#affad1">(A) 6% para o Legislativo, incluído o Tribunal de Contas, quando houver, e 54% para o Executivo</mark>
+> (B) 3% para o Legislativo, incluído o Tribunal de Contas, quando houver, 49% para o Executivo, 6% para o Judiciário e 2% para o Ministério Público
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) 2,5% para o Legislativo, incluído o Tribunal de Contas, quando houver, 50,9% para o Executivo, 6% para o Judiciário e 0,6% para o Ministério Público</mark>
+> (D) 9,1% para o Legislativo, incluído o Tribunal de Contas, quando houver, e 50,9% para o Executivo
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: Municípios — 6% Legislativo (com TCM) + 54% Executivo (art. 20, III)
+> > No Município, o teto de <span class="g-num">60%</span> da RCL se reparte em <span class="g-num">6%</span> Legislativo (incluído o TC do Município, quando houver) e <span class="g-num">54%</span> Executivo — só dois Poderes. (C), que marquei, é a repartição da **União** (2,5% Legislativo/50,9% Executivo/6% Judiciário/0,6% MPU); (B) é a repartição **estadual** (3%/49%/6%/2%). O erro é aplicar a esfera errada — o número "60% Municípios" da pergunta já devia eliminar as opções de 4 Poderes.
+>
+> > [!example]- 🧩 Quadro — repartição do limite de pessoal por esfera (art. 20)
+> > | Esfera | Legislativo | Judiciário | Executivo | MP | Total |
+> > | --- | --- | --- | --- | --- | --- |
+> > | União | 2,5% | 6% | 40,9% | 0,6% | 50% |
+> > | Estados | 3% | 6% | 49% | 2% | 60% |
+> > | Municípios | 6% | — | 54% | — | 60% |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca troca a repartição de uma esfera pela de outra dentro da mesma pergunta — os números "batem" em algum total plausível, mas pertencem a outro ente. Sempre confira: Município só tem Legislativo + Executivo (2 Poderes); Estado e União têm os 4.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] — já tem a tabela completa das 3 esferas (linhas 1033-1048). Ver também "🎯 Mapeamento de Pontos Cegos".
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:1042`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Economista, Pref. Santos, 2020) — Terceirização como "Outras Despesas de Pessoal" (LRF, art. 18, §1º)
+> Com base na Lei de Responsabilidade Fiscal (LRF), assinale a alternativa correta no que diz respeito à despesa total com pessoal.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) A despesa total com pessoal será apurada somando-se a realizada no mês em referência com as previstas para os onze imediatamente seguintes, adotando-se o regime de competência.</mark>
+> <mark style="background:#affad1">(B) Os valores dos contratos de terceirização de mão-de-obra que se referem à substituição de servidores e empregados públicos serão contabilizados como "Outras Despesas de Pessoal".</mark>
+> (C) No âmbito estadual, o limite de despesa total com pessoal para o Legislativo, incluindo o Tribunal de Contas do Estado, é de 2%, sendo, para o Judiciário, 6%.
+> (D) As despesas relativas a incentivos à demissão voluntária, bem como de indenizações por demissão de servidores ou empregados, serão computadas para fins de verificação dos limites legais de despesa total com pessoal.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: terceirização substitutiva de servidor entra como Outras Despesas de Pessoal (art. 18, §1º)
+> > <mark style="background:#fff88f">Contrato de terceirização de mão de obra que substitui servidor/empregado público é contabilizado como "Outras Despesas de Pessoal"</mark> — a LRF veda usar terceirização para mascarar despesa de pessoal fora do cômputo. (A) erra o período: soma o mês de referência com os <span class="g-prazo">11 meses ANTERIORES</span> (não os seguintes/previstos) — a apuração é sempre retrospectiva. (C) troca a repartição estadual: Legislativo estadual é 3% (não 2%). (D) inverte a regra: indenização por demissão e incentivo à demissão voluntária são **excluídos**, não computados, na verificação dos limites (art. 19, §1º).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > (A) é a pegadinha clássica de "futuro por passado": a apuração da despesa com pessoal olha para trás (mês de referência + 11 anteriores), nunca para os meses seguintes/previstos.
+>
+> > [!quote]- 📜 Texto literal — LRF, art. 18, §1º e §2º
+> > § 1º Os valores dos contratos de terceirização de mão-de-obra que se referem à substituição de servidores e empregados públicos serão contabilizados como "Outras Despesas de Pessoal".
+> >
+> > § 2º A despesa total com pessoal será apurada somando-se a realizada no mês em referência com as dos 11 (onze) imediatamente anteriores, adotando-se o regime de competência, independentemente de empenho.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)]] — já cobre o art. 18, §1º (terceirização) na linha 1032. Ver também "🎯 Mapeamento de Pontos Cegos".
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:1032`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Fiscal Municipal, Pref. Guarujá/SP, 2023) — Dívida pública: mobiliária, consolidada e recondução (LRF, arts. 29 a 31)
+> Em relação à divida pública e seus limites, com base na Lei de Responsabilidade Fiscal (LC n° 101/2000), é correto afirmar que:
+>
+> (A) divida pública mobiliária é aquela representada por títulos emitidos pela União, excetuados os do Banco Central do Brasil, Estados; e Municípios.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) se a dívida consolidada de um ente da Federação ultrapassar o respectivo limite ao final de um quadrimestre, deverá ser a ele reconduzida até o término dos dois subsequentes, reduzindo o excedente em pelo menos 30% (trinta por cento) no primeiro.</mark>
+> <mark style="background:#affad1">(C) as operações de crédito de prazo inferior a doze meses cujas receitas tenham constado do orçamento também integram a dívida pública consolidada</mark>
+> (D) para fins de aplicação dos limites, os precatórios judiciais não pagos durante a execução do orçamento em que houverem sido incluidos não integram a divida consolidada
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C: operação de crédito < 12 meses com receita orçada integra a dívida consolidada (art. 29, §3º)
+> > A dívida consolidada engloba, por exceção, as <span class="g-prazo">operações de crédito de prazo inferior a 12 meses</span> cuja receita já constou do orçamento (art. 29, §3º) — sem isso, o critério normal de "consolidada" exige prazo **superior** a 12 meses. (A) erra ao **excluir** os títulos do Banco Central da dívida mobiliária: eles estão **incluídos** (art. 29, II). (B), que marquei, troca os números certos: são <span class="g-num">3</span> quadrimestres subsequentes (não 2) e <span class="g-num">25%</span> de redução no primeiro (não 30%). (D) inverte a regra: precatório não pago **integra**, sim, a dívida consolidada (art. 30, §7º).
+>
+> > [!example]- 🧩 Quadro — dívida pública: definições e recondução (arts. 29-31)
+> > | Item | Regra | Artigo |
+> > | --- | --- | --- |
+> > | Dívida mobiliária | títulos da União (inclusive BC), Estados e Municípios | art. 29, II |
+> > | Dívida consolidada — regra geral | obrigações com prazo > 12 meses | art. 29, I |
+> > | Dívida consolidada — exceção | opera. de crédito < 12 meses com receita já orçada | art. 29, §3º |
+> > | Precatório não pago no exercício | integra a dívida consolidada | art. 30, §7º |
+> > | Recondução ao limite | 3 quadrimestres seguintes, ≥25% de redução no 1º | art. 31 |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca troca os números da recondução (3↔2 quadrimestres, 25%↔30%↔1/3) e inverte regras de inclusão/exclusão (BC na mobiliária, precatório na consolidada) — sempre a mesma técnica: pegar uma regra de inclusão e escrever como se fosse exclusão, ou vice-versa.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]] — já cobre arts. 29 a 31 em detalhe, com quadro e lupa próprios (linhas 1117-1145).
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:1117`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Contador, Pref. Praia Grande/SP, 2024) — Variações patrimoniais: origem/destino da alienação de ativos (LRF, art. 50, VI)
+> Nos entes públicos, conforme determina o inciso VI do artigo 50 da Lei Complementar nº 101, de 4 de maio de 2000, Lei de Responsabilidade Fiscal, a demonstração das variações patrimoniais dará destaque à origem e ao destino dos recursos provenientes de:
+>
+> (A) transferência voluntária de outros entes da federação.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) doações de instituições privadas com, ou sem, fins lucrativos.</mark>
+> (C) transferência de recursos dos institutos de previdência social.
+> <mark style="background:#affad1">(D) alienação de ativos do ente da federação.</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D: alienação de ativos (art. 50, VI, LRF)
+> > A demonstração das variações patrimoniais dá destaque à <mark style="background:#fff88f">origem e ao destino dos recursos da alienação de ativos</mark> — é o único recurso citado no inciso VI; transferência voluntária, doações e transferência de institutos de previdência não têm essa exigência específica no artigo.
+>
+> > [!quote]- 📜 Texto literal — LRF, art. 50, VI
+> > Art. 50. Além de obedecer às demais normas de contabilidade pública, a escrituração das contas públicas observará as seguintes: (...) VI - a demonstração das variações patrimoniais dará destaque à origem e ao destino dos recursos provenientes da alienação de ativos.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]] — já cobre o art. 50, VI (linha 1212).
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:1212`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Técnico Legislativo I, CM Maricá, 2024) — RREO: prazo de publicação bimestral (LRF, arts. 52-53)
+> Compete ao Prefeito fazer publicar o relatório resumido da execução orçamentária até 30 dias após o encerramento de cada:
+>
+> (A) mês
+> <mark style="background:#affad1">(B) bimestre</mark>
+> (C) trimestre
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) semestre</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: RREO publicado em até 30 dias após cada bimestre (art. 165, §3º, CF)
+> > O RREO é <mark style="background:#fff88f">publicado em até 30 dias após o encerramento de cada bimestre</mark> — não confundir com o RGF, que é ao final de cada **quadrimestre**. "Semestre"/"trimestre"/"mês" nunca são a periodicidade certa de nenhum dos dois relatórios.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca explora justamente RREO (bimestre) x RGF (quadrimestre) — os dois têm prazo de publicação de 30 dias, então só a periodicidade de apuração muda.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]] — já tem lupa própria "RREO × RGF" (linhas 1232-1237).
+> > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:1224`

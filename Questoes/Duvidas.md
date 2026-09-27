@@ -20,6 +20,7 @@ Dúvidas respondidas, por matéria:
 - [[ERRO CONTABILIDADE GERAL#💭 Dúvidas respondidas|Contabilidade Geral]]
 - [[ERRO LEGISLAÇÃO MUNICIPAL DE SANTOS#💭 Dúvidas respondidas|Legislação Municipal de Santos (ISS Santos)]]
 - [[ERRO ESTATÍSTICA#💭 Dúvidas respondidas|Estatística]]
+- [[ERRO PORTUGUÊS#💭 Dúvidas respondidas|Português]]
 
 ## Dúvida
 - 24 de set. de 2026, 15:23 — nao sei porque mas em direito tributario sempre me enrolo para saber se a substituicao tributária é regressiva ou progressiva
