@@ -1,5 +1,15 @@
 {
+  "syncScope": {
+    "includedFolders": [],
+    "excludedFolders": [],
+    "excludedNotes": []
+  },
   "ankiConnectApiKeySecret": "",
+  "ankiLaunch": {
+    "enabled": true,
+    "command": "",
+    "waitSeconds": 60
+  },
   "atomic": {
     "enabled": true
   },
@@ -28,7 +38,7 @@
     "enabled": true
   },
   "inline": {
-    "enabled": true
+    "enabled": false
   },
   "inlineReverseSeparator": ":::",
   "inlineSeparator": "::",
@@ -45,7 +55,7 @@
     }
   },
   "showRibbonIcon": true,
-  "v1MigrationDecisionMade": false,
+  "v1MigrationDecisionMade": true,
   "contextAwareMode": true,
   "sourceSupport": true,
   "codeHighlightSupport": true,

@@ -35,3 +35,45 @@
 2026-09-25T00:34:21.858Z [INFO] plugin loaded {"version":"2.1.1"}
 2026-09-25T00:36:42.911Z [INFO] plugin loaded {"version":"2.1.1"}
 2026-09-25T00:38:19.743Z [INFO] plugin loaded {"version":"2.1.1"}
+2026-09-28T00:39:04.813Z [INFO] plugin unloading
+2026-09-28T00:39:05.468Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-28T12:57:17.579Z [INFO] syncNote start {"notePath":"LTM ISS SANTOS/P2 - Legislação Tributária Municipal de Santos.md"}
+2026-09-28T12:57:18.448Z [INFO] bootstrap: creating missing model {"model":"Obsidian-basic"}
+2026-09-28T12:57:18.567Z [INFO] bootstrap: creating missing model {"model":"Obsidian-basic-reversed"}
+2026-09-28T12:57:18.589Z [INFO] bootstrap: creating missing model {"model":"Obsidian-cloze"}
+2026-09-28T12:57:18.604Z [INFO] bootstrap: creating missing model {"model":"Obsidian-reminder"}
+2026-09-28T12:57:19.412Z [WARN] CREATE failed {"blockId":"q-j94n","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:19.749Z [WARN] CREATE failed {"blockId":"q-8frs","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:19.963Z [WARN] CREATE failed {"blockId":"q-dc5j","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:19.990Z [WARN] CREATE failed {"blockId":"q-nd23","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.015Z [WARN] CREATE failed {"blockId":"q-ii8d","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.047Z [WARN] CREATE failed {"blockId":"q-9hnj","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.079Z [WARN] CREATE failed {"blockId":"q-n4xn","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.113Z [WARN] CREATE failed {"blockId":"q-xk89","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.165Z [WARN] CREATE failed {"blockId":"q-3p94","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.200Z [WARN] CREATE failed {"blockId":"q-367v","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.220Z [WARN] CREATE failed {"blockId":"q-3yqh","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.245Z [WARN] CREATE failed {"blockId":"q-wd7v","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.284Z [WARN] CREATE failed {"blockId":"q-mzzr","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.295Z [WARN] CREATE failed {"blockId":"q-rywa","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.311Z [WARN] CREATE failed {"blockId":"q-tyki","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.332Z [WARN] CREATE failed {"blockId":"q-qh3k","error":"cannot create note because it is a duplicate"}
+2026-09-28T12:57:20.413Z [INFO] syncNote ok {"notePath":"LTM ISS SANTOS/P2 - Legislação Tributária Municipal de Santos.md","okCreates":15,"okUpdates":0,"okDeletes":0,"failedOps":16}
+2026-09-28T17:36:41.660Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-28T17:37:38.831Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-28T17:48:27.918Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-28T17:50:42.293Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-28T17:51:16.020Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-28T17:52:00.580Z [INFO] plugin unloading
+2026-09-28T17:52:05.719Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-28T17:52:08.039Z [INFO] plugin unloading
+2026-09-28T17:54:27.149Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-28T19:42:17.469Z [INFO] syncNote start {"notePath":"LTM ISS SANTOS/P2 - Legislação Tributária Municipal de Santos.md"}
+2026-09-28T19:42:17.920Z [INFO] syncNote pending deletion {"notePath":"LTM ISS SANTOS/P2 - Legislação Tributária Municipal de Santos.md","blockId":"q-zqjz","nid":1790600239123,"deckName":"LTM ISS SANTOS"}
+2026-09-28T19:42:17.920Z [INFO] syncNote pending deletion {"notePath":"LTM ISS SANTOS/P2 - Legislação Tributária Municipal de Santos.md","blockId":"q-3my3","nid":1790600239710,"deckName":"LTM ISS SANTOS"}
+2026-09-28T19:42:17.920Z [INFO] syncNote pending deletion {"notePath":"LTM ISS SANTOS/P2 - Legislação Tributária Municipal de Santos.md","blockId":"q-3i3h","nid":1790600240135,"deckName":"LTM ISS SANTOS"}
+2026-09-28T19:42:25.668Z [INFO] bootstrap: creating missing model {"model":"Obsidian-basic"}
+2026-09-28T19:42:25.708Z [INFO] bootstrap: creating missing model {"model":"Obsidian-basic-reversed"}
+2026-09-28T19:42:25.735Z [INFO] bootstrap: creating missing model {"model":"Obsidian-cloze"}
+2026-09-28T19:42:25.771Z [INFO] bootstrap: creating missing model {"model":"Obsidian-reminder"}
+2026-09-28T19:42:26.792Z [INFO] syncNote ok {"notePath":"LTM ISS SANTOS/P2 - Legislação Tributária Municipal de Santos.md","okCreates":31,"okUpdates":0,"okDeletes":3,"failedOps":0}
