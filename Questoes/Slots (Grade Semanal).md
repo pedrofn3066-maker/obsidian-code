@@ -32,7 +32,7 @@ Grade padrão: 6h/dia, 42h/semana.
 > `LTM ISS SANTOS/Checklist Santos por bloco.md`, que lista os headings de tópico do edital de Santos e, embaixo de
 > cada um, os tópicos/headings do vault-ba que o cobrem. Só entra no plano o que está lá (nada de ICMS, Penal,
 > Custos, VPL/TIR, governança de TI…), com peso do bloco no edital × `foco` vindo da
-> [[Inteligência de Prova — AFTM Santos 2026]]. Conferir a cobertura: `python3 PY/plano-dia.py --diag-santos`.
+> análise de inteligência de prova das 5 provas IBAM (28/09). Conferir a cobertura: `python3 PY/plano-dia.py --diag-santos`.
 > A partir de 19/10 o script volta sozinho ao comportamento normal.
 >
 > **Troca de 28/09:** sexta S4 passou de Constitucional/Administrativo para **Fiscalização, Simples e Tecnologia
