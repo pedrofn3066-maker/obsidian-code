@@ -31,6 +31,7 @@ from urllib.parse import quote
 
 VAULT = Path(__file__).resolve().parent.parent
 MATERIAS = VAULT / "MATERIAS"
+LTM_SANTOS = VAULT / "LTM ISS SANTOS"  # notas específicas do ISS Santos, fora de MATERIAS/ (ver seu MOC)
 DIARIO = VAULT / "Questoes" / "Diario"
 GRADE = VAULT / "Questoes" / "Slots (Grade Semanal).md"
 FECHAMENTO = VAULT / "Questoes" / "Paineis" / "Fechamento da semana.md"
@@ -39,8 +40,11 @@ FECHAMENTO = VAULT / "Questoes" / "Paineis" / "Fechamento da semana.md"
 # CONFIGURAÇÃO
 # ---------------------------------------------------------------------------
 
-INICIO_CICLO = date(2026, 9, 7)
-FASES = [(13, "construção"), (18, "consolidação"), (10**6, "reta final")]
+# PIVÔ TEMPORÁRIO PARA O ISS SANTOS (2026-09-27 a 2026-10-18): ciclo e fases recalibrados para a
+# prova de Santos (edital nº 74/2026), não mais para o cronograma do SEFAZ-BA (que volta a
+# INICIO_CICLO = date(2026, 9, 7) / FASES de 13-18-∞ semanas quando o Pedro voltar a focar nele).
+INICIO_CICLO = date(2026, 9, 28)
+FASES = [(1, "construção"), (2, "consolidação"), (10**6, "reta final")]
 
 FUNCAO_SLOT = {
     "S2": "leitura nova / matéria pesada",
@@ -129,6 +133,16 @@ HEADING_GENERICO = 3      # título repetido tantas vezes no grupo não serve de
 CUSTOS = "contabilidade de custos"
 FLUENCIA = [(f"P2 - Fluência de Dados {s}", None) for s in ("BD", "CD", "SGE", "SGE-C")]
 TI = [("P2 - Tecnologia da Informação", None)]
+RLM_ESTAT_MATFIN = [("P2 - Matemática Financeira", None), ("P1 - Estatística", None),
+                     ("P2 - Estatística Aplicada", None), ("P1 - Raciocínio Lógico", None)]
+
+# Blocos do edital nº 74/2026 (IBAM, AFTM Santos, prova 18/10/2026) que reaproveitam notas do
+# vault-ba (compartilhadas com o SEFAZ-BA) — só "Legislação Municipal" é exclusivo de Santos
+# (nota em LTM_SANTOS). Ver Questoes/Slots (Grade Semanal).md, seção "ISS Santos".
+LEGISLACAO_MUNICIPAL_SANTOS = [("P2 - Legislação Tributária Municipal de Santos", None)]
+CONST_ADMIN_SANTOS = [("P1 - Direito Constitucional", None), ("P1 - Direito Administrativo", None)]
+CONTAB_GERAL_AUDITORIA_SANTOS = [("P1 - Contabilidade Geral", None), ("P1 - Auditoria", None)]
+CONTAB_FINPUB_SANTOS = [("P2 - CASP", None), ("P1 - Direito Financeiro", None)]
 
 # Rótulo da Grade Semanal (normalizado) -> notas [(arquivo sem .md, segmento)].
 GRADE_PARA_NOTAS = {
@@ -140,13 +154,17 @@ GRADE_PARA_NOTAS = {
     "legislacao tributaria estadual": [("P2 - Legislação Tributária Estadual (BA)", None)],
     "auditoria": [("P1 - Auditoria", None)],
     "financas publicas": [("P2 - Finanças Públicas", None)],
-    "mat. financeira/estatistica/rlm": [
-        ("P2 - Matemática Financeira", None), ("P1 - Estatística", None),
-        ("P2 - Estatística Aplicada", None), ("P1 - Raciocínio Lógico", None)],
+    "mat. financeira/estatistica/rlm": RLM_ESTAT_MATFIN,
     "direito financeiro": [("P1 - Direito Financeiro", None)],
     "adm. publica e governanca": [
         ("P1 - Administração e Governança Pública", None), ("P1 - Administração Geral", None)],
     "seguranca da informacao": TI,
+    # ISS Santos (slots S6-S8) — "direito tributario" acima já cobre Simples Nacional (dentro de
+    # P2 - Direito Tributário) para o bloco "Fiscalização, Simples e Tecnologia" do edital.
+    "legislacao municipal santos": LEGISLACAO_MUNICIPAL_SANTOS,
+    "constitucional/administrativo santos": CONST_ADMIN_SANTOS,
+    "contabilidade geral e auditoria santos": CONTAB_GERAL_AUDITORIA_SANTOS,
+    "contabilidade e financas publicas santos": CONTAB_FINPUB_SANTOS,
 }
 # Rótulos que alternam por semana do ciclo: opção = (semana - 1) % len(opções).
 # Com duas opções isso dá ímpares -> primeira, pares -> segunda.
@@ -158,6 +176,10 @@ RODIZIOS = {
         [("P1 - Contabilidade Geral", None)], [("P2 - CASP", None)]],
     "micro (impares)/macro (pares)": [
         [("P1 - Micro e Finanças Públicas", None)], [("P1 - Macro Economia", None)]],
+    # Só 2 disciplinas (Português e RLM/Estatística/Mat. Financeira já têm prática via S1-S5 do
+    # SEFAZ-BA; este rodízio dá um toque semanal do ângulo específico do edital de Santos).
+    "rodizio santos (rlm/estatistica/mat. financeira, portugues)": [
+        RLM_ESTAT_MATFIN, [("P1 - Língua Portuguesa", None)]],
 }
 # `materia` do Diario (normalizada) -> notas, quando o nome não casa sozinho.
 DIARIO_PARA_NOTAS = {
@@ -170,6 +192,16 @@ DIARIO_PARA_NOTAS = {
     "matematica financeira": [("P2 - Matemática Financeira", None)],
     "estatistica": [("P1 - Estatística", None), ("P2 - Estatística Aplicada", None)],
     "penal": [("P1 - Penal", None)],
+    # Cadernos do ISS Santos — mesmos rótulos de `materia` usados no vault dedicado
+    # (Questoes/Diario de lá), para o caso de reaproveitar o nome ao importar/registrar aqui.
+    "legislacao tributaria municipal de santos, paf e divida ativa": LEGISLACAO_MUNICIPAL_SANTOS,
+    "direito tributario, ctn e reforma tributaria": [("P2 - Direito Tributário", None), ("P2 - Reforma Tributária", None)],
+    "direito constitucional, administrativo, municipal e processo administrativo": CONST_ADMIN_SANTOS,
+    "contabilidade geral, societaria e auditoria": CONTAB_GERAL_AUDITORIA_SANTOS,
+    "contabilidade publica, financas publicas, orcamento publico e lrf": CONTAB_FINPUB_SANTOS,
+    "raciocinio logico, estatistica e matematica financeira": RLM_ESTAT_MATFIN,
+    "fiscalizacao tributaria, simples nacional e tecnologia": [
+        ("P2 - Direito Tributário", None)] + LEGISLACAO_MUNICIPAL_SANTOS,
 }
 
 DIAS = ["segunda", "terca", "quarta", "quinta", "sexta", "sabado", "domingo"]
@@ -339,11 +371,21 @@ def pct_txt(p):
 # Notas de MATERIAS
 # ---------------------------------------------------------------------------
 
+def pasta_nota(stem):
+    """MATERIAS/ por padrão; cai para LTM_SANTOS/ (notas exclusivas do ISS Santos) se só existir lá."""
+    return LTM_SANTOS if not (MATERIAS / f"{stem}.md").exists() and (LTM_SANTOS / f"{stem}.md").exists() else MATERIAS
+
+
+def existe_nota(stem):
+    return (MATERIAS / f"{stem}.md").exists() or (LTM_SANTOS / f"{stem}.md").exists()
+
+
 class Nota:
     def __init__(self, stem):
         self.stem = stem
-        self.path = MATERIAS / f"{stem}.md"
-        self.rel = f"MATERIAS/{stem}"
+        pasta = pasta_nota(stem)
+        self.path = pasta / f"{stem}.md"
+        self.rel = f"{pasta.name}/{stem}"
         self.linhas = self.path.read_text(encoding="utf-8").split("\n")
         self.peso, self.prioridade = 2.0, ""
         self.headings, self.fence = [], set()
@@ -1103,7 +1145,7 @@ def plano(hoje):
                 except FileNotFoundError as e:
                     s["aviso"] = f"Nota não encontrada: {e.filename}"
                     unidades = []
-                s["notas"] = [carregar(stem) for stem, _ in pares if (MATERIAS / f"{stem}.md").exists()]
+                s["notas"] = [carregar(stem) for stem, _ in pares if existe_nota(stem)]
                 topo = False
                 if fech:
                     s["ganho"], topo = ganho_do_slot(fech, pares)

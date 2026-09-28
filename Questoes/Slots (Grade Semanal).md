@@ -14,21 +14,59 @@
 
 Grade padrão: 6h/dia, 42h/semana.
 
-## Grade semanal (matéria por dia × slot)
+## Grade semanal (matéria por dia × slot) — PIVÔ ISS SANTOS até 18/10/2026
 
-*Atualizada em 2026-09-07 — ver "Reconciliação com o Ciclo VINTEUM" mais abaixo.*
+> [!warning] Pivô temporário — só Santos, sem SEFAZ-BA, até a prova
+> A partir de 2026-09-28, **toda** a grade (S1–S5, 6h/dia) foi redirecionada para o edital nº 74/2026
+> (IBAM, AFTM Santos, prova em **18/10/2026**) — a pedido do Pedro, sem pensar no SEFAZ-BA por enquanto.
+> `PY/plano-dia.py` teve `INICIO_CICLO`/`FASES` recalibrados para esse prazo (~3 semanas: construção só
+> na semana de 28/09, consolidação na de 05/10, reta final a partir de 12/10). A grade e as fases antigas
+> do SEFAZ-BA (`INICIO_CICLO = 2026-09-07`, fases 13/18/∞ semanas) estão comentadas no topo do script —
+> quando o Pedro voltar a focar no SEFAZ-BA, é reverter essas duas coisas e trazer de volta a tabela
+> abaixo, preservada em `git log -- "Questoes/Slots (Grade Semanal).md"`.
 
-| Dia     | S2 · 90min                      | S3 · 90min                                  | S4 · 60min                         | S5 · 90min                                               |
-| ------- | ------------------------------- | ------------------------------------------- | ---------------------------------- | -------------------------------------------------------- |
-| Segunda | Contabilidade Avançada          | Direito Tributário                          | Língua Portuguesa                  | Ciências de Dados                                        |
-| Terça   | Legislação Tributária Estadual  | Contabilidade Avançada                      | Auditoria                          | Finanças Públicas                                        |
-| Quarta  | Mat. Financeira/Estatística/RLM | Contabilidade de Custos                     | Direito Financeiro                 | Rodízio 4 (Constitucional, Administrativo, Civil, Penal) |
-| Quinta  | Contabilidade Avançada          | Legislação Tributária Estadual              | Adm. Pública e Governança          | Ciências de Dados                                        |
-| Sexta   | Direito Tributário              | Finanças Públicas                           | Segurança da Informação            | Mat. Financeira/Estatística/RLM                          |
-| Sábado  | Ciências de Dados               | Cont. Geral (ímpares)/Cont. Pública (pares) | Micro (ímpares)/Macro (pares)      | Discursiva                                               |
-| Domingo | Simulado                        | Simulado                                    | Correção com caderno de erros — 2h | Fechamento de ciclo — 1h                                 |
+*Atualizada em 2026-09-27.*
 
-S1 (revisão ativa, todos os dias) e, no domingo, o simulado ocupa S1+S2+S3 (3h).
+| Dia     | S2 · 90min                   | S3 · 90min                   | S4 · 60min                                                   | S5 · 90min                    |
+| ------- | ------------------------------ | ------------------------------ | -------------------------------------------------------------- | -------------------------------- |
+| Segunda | Direito Tributário             | Legislação Municipal Santos    | Constitucional/Administrativo Santos                            | Direito Tributário               |
+| Terça   | Legislação Municipal Santos    | Direito Tributário             | Contabilidade Geral e Auditoria Santos                          | Legislação Municipal Santos      |
+| Quarta  | Direito Tributário             | Legislação Municipal Santos    | Contabilidade e Finanças Públicas Santos                        | Direito Tributário               |
+| Quinta  | Legislação Municipal Santos    | Direito Tributário             | Rodízio Santos (RLM/Estatística/Mat. Financeira, Português)     | Legislação Municipal Santos      |
+| Sexta   | Direito Tributário             | Legislação Municipal Santos    | Constitucional/Administrativo Santos                            | Direito Tributário               |
+| Sábado  | Legislação Municipal Santos    | Direito Tributário             | Rodízio Santos (RLM/Estatística/Mat. Financeira, Português)     | Legislação Municipal Santos      |
+| Domingo | Simulado                       | Simulado                       | Correção com caderno de erros — 2h                              | Fechamento de ciclo — 1h         |
+
+S1 (revisão ativa, todos os dias) e, no domingo, o simulado ocupa S1+S2+S3 (3h). Domingo já usa provas-espelho
+de `LTM ISS SANTOS/PROVAS/` (IBAM/IBAMSP) — ver `Leitura de Provas — Padrão IBAM` nessa pasta.
+
+**Peso real do edital** (soma peso × nº de subtópicos, `LTM ISS SANTOS/Edital_Verticalizado_Auditor_Santos.xlsx`,
+40 pontos): Direito Tributário/CTN/Reforma = 10 e Legislação Tributária Municipal de Santos = 10 — **50% da
+prova**, por isso dominam a grade (Direito Tributário 9×/semana, Legislação Municipal 8×/semana — cada uma
+90 min, ~13–14h/semana). Constitucional/Administrativo/Municipal/PAF (peso 4) tem 2×/semana fixos (segunda e
+sexta, S4). Fiscalização/Simples/Tecnologia (peso 4) **não tem slot próprio**: Simples Nacional já está dentro
+de `MATERIAS/P2 - Direito Tributário.md` (heading "Simples Nacional") e NFS-e/DTE/Sistemas Eletrônicos de
+Fiscalização/Bases de Dados Fiscais já estão dentro de `LTM ISS SANTOS/P2 - Legislação Tributária Municipal
+de Santos.md` (headings próprios — alguns ainda sem conteúdo, ver abaixo) — como os dois blocos que carregam
+esse conteúdo já dominam a grade, um slot à parte só repetiria os mesmos tópicos.
+
+Os 4 blocos restantes (Português, RLM/Estatística/Mat. Financeira, Contabilidade Geral/Societária/Auditoria,
+Contabilidade e Finanças Públicas — 7,5% cada) ficam: Contabilidade Geral/Auditoria 1×/semana fixo (terça S4),
+Contabilidade e Finanças Públicas 1×/semana fixo (quarta S4), e RLM/Estatística/Mat. Financeira ⇄ Português
+revezando por semana no rodízio de quinta e sábado (S4) — cada um pega as duas ocorrências da semana em que
+"ganha" o rodízio. Menos tempo que os dois blocos de peso 2, proporcional ao peso do edital.
+
+**Conteúdo com gap real** (não é falha do plano, é o que falta escrever — vai aparecer como "Ler" até ter
+conteúdo): NFS-e (Decreto Municipal nº 10.324/2024) e Domicílio Tributário Eletrônico (LC Municipal nº
+1.143/2021), ambos com `[dom:: 0]` e nenhum texto sob o heading em `LTM ISS SANTOS/P2 - Legislação Tributária
+Municipal de Santos.md`. Sem o PDF do decreto/LC, `/absorver-pdf` não tem o que absorver; se cair questão
+sobre eles antes de eu conseguir o texto, guarde em `Questoes/Duvidas.md`.
+
+**Limitação conhecida:** `Questoes/Paineis/Fechamento da semana.md` e o Ganho Potencial/Fila de Reforço que
+ele alimenta ainda não foram recalibrados para Santos — continuam pensando nos blocos do SEFAZ-BA. Enquanto
+isso, o `PY/fechamento-semana.py` de domingo vai gerar uma nota desatualizada para esta grade; o
+`PY/plano-dia.py` já trata isso sozinho (cai no aviso "sem fechamento da semana" e usa só grade + edital,
+sem quebrar). Se quiser o Ganho Potencial certo para Santos também, é um trabalho à parte — avise.
 
 ## Datas do protocolo
 
