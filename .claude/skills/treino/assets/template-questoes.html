@@ -1,0 +1,350 @@
+<!--
+TEMPLATE — quiz de questões (Certo/Errado + múltipla escolha)
+Usado pela skill /treino. Copie este arquivo pro scratchpad, edite:
+  1. <title> (nome curto, 2-4 palavras)
+  2. .eyebrow (matéria/bloco/fonte da lei)
+  3. .from-plan (de onde veio o tema: plano do dia, Fila de reforço, ou pedido explícito)
+  4. o array QUESTOES no <script> do fim — os 2 itens abaixo são exemplo, substitua todos
+Nunca remova o .disclaimer. Cada questão precisa de "fonte" apontando pra um arquivo:linha real.
+-->
+<title>Treino — Template</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#eef0ea; --surface:#ffffff; --surface-2:#e4e8de; --line:#d7dccf;
+    --ink:#1c231e; --ink-dim:#5b6459;
+    --accent:#33475b; --accent-ink:#eef2f5;
+    --gold:#8a6d1d;
+    --good-bg:#d9f2e0; --good-ink:#1e6b3d; --good-line:#a6d9b5;
+    --bad-bg:#f5ded4; --bad-ink:#9c3b17; --bad-line:#e3b199;
+    --core:#fff187;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#181c17; --surface:#1f2520; --surface-2:#262d26; --line:#39423a;
+      --ink:#e7ebe3; --ink-dim:#a3ac9f;
+      --accent:#7f9db3; --accent-ink:#10161c;
+      --gold:#d1ad55;
+      --good-bg:#173425; --good-ink:#7fd9a0; --good-line:#245a3c;
+      --bad-bg:#3a1f16; --bad-ink:#f0a17e; --bad-line:#6b3423;
+      --core:#5a4f14;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#181c17; --surface:#1f2520; --surface-2:#262d26; --line:#39423a;
+    --ink:#e7ebe3; --ink-dim:#a3ac9f;
+    --accent:#7f9db3; --accent-ink:#10161c;
+    --gold:#d1ad55;
+    --good-bg:#173425; --good-ink:#7fd9a0; --good-line:#245a3c;
+    --bad-bg:#3a1f16; --bad-ink:#f0a17e; --bad-line:#6b3423;
+    --core:#5a4f14;
+    color-scheme: dark;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+    padding-inline:16px; padding-block:0; min-height:100%;
+  }
+  .wrap{max-width:700px; margin:0 auto; padding-block:20px 48px;}
+
+  .topbar{
+    position:sticky; top:env(safe-area-inset-top,0px);
+    z-index:5; background:var(--bg);
+    padding-block:14px 10px; border-bottom:1px solid var(--line); margin-bottom:22px;
+  }
+  .eyebrow{
+    font-family:"IBM Plex Mono", monospace; font-size:11px; letter-spacing:.08em; text-transform:uppercase;
+    color:var(--gold); display:flex; align-items:center; gap:8px; flex-wrap:wrap;
+  }
+  .eyebrow .sep{color:var(--ink-dim); opacity:.5;}
+  h1{
+    font-family:"Source Serif 4", serif; font-weight:600;
+    font-size:clamp(22px,4vw,28px); line-height:1.15; margin:6px 0 8px; text-wrap:balance;
+  }
+  .from-plan{
+    font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-dim);
+    background:var(--surface-2); border:1px solid var(--line); border-radius:7px;
+    padding:8px 11px; margin-bottom:10px; line-height:1.6;
+  }
+  .from-plan b{color:var(--ink); font-weight:600;}
+  .disclaimer{
+    display:flex; gap:10px; align-items:flex-start;
+    background:var(--surface-2); border:1px solid var(--line); border-radius:8px;
+    padding:10px 12px; font-size:12.5px; color:var(--ink-dim); line-height:1.5; margin-bottom:12px;
+  }
+  .disclaimer b{color:var(--ink); font-weight:600;}
+
+  .progress-row{display:flex; align-items:center; gap:10px; font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--ink-dim);}
+  .progress-track{flex:1; height:6px; border-radius:99px; background:var(--surface-2); overflow:hidden;}
+  .progress-fill{height:100%; background:var(--accent); border-radius:99px; transition:width .3s ease; width:0%;}
+  .progress-count{font-variant-numeric:tabular-nums; white-space:nowrap;}
+
+  .card{
+    background:var(--surface); border:1px solid var(--line); border-radius:14px;
+    padding:22px 22px 20px; box-shadow:0 1px 2px rgba(0,0,0,.04);
+  }
+  .card + .card{margin-top:16px;}
+
+  .qmeta{
+    font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-dim);
+    display:flex; gap:10px; flex-wrap:wrap; margin-bottom:10px;
+  }
+  .qmeta .tag{background:var(--surface-2); border:1px solid var(--line); border-radius:5px; padding:2px 7px; letter-spacing:.02em;}
+  .qmeta .tag.mc{color:var(--gold); border-color:var(--gold);}
+
+  .enunciado{font-family:"Source Serif 4", serif; font-size:17px; line-height:1.6; max-width:65ch;}
+  .enunciado + .enunciado{margin-top:10px;}
+
+  .opts{margin-top:16px; display:flex; flex-direction:column; gap:8px;}
+  .opt{
+    text-align:left; width:100%; border:1px solid var(--line); background:var(--surface);
+    color:var(--ink); border-radius:9px; padding:11px 14px; font-size:14.5px;
+    font-family:"IBM Plex Sans",sans-serif; cursor:pointer; transition:border-color .15s, background .15s;
+    display:flex; gap:10px; align-items:flex-start; line-height:1.45;
+  }
+  .opt .letra{font-family:"IBM Plex Mono",monospace; font-weight:600; color:var(--ink-dim); flex-shrink:0;}
+  .opt:hover:not(:disabled){border-color:var(--accent);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{background:var(--good-bg); border-color:var(--good-line); color:var(--good-ink); font-weight:500;}
+  .opt.correct .letra{color:var(--good-ink);}
+  .opt.wrong{background:var(--bad-bg); border-color:var(--bad-line); color:var(--bad-ink); font-weight:500;}
+  .opt.wrong .letra{color:var(--bad-ink);}
+  .opt.dim{opacity:.55;}
+
+  .marcgab{margin-top:12px; font-family:"IBM Plex Mono",monospace; font-size:12.5px; color:var(--ink-dim); display:none; gap:14px;}
+  .marcgab.show{display:flex;}
+
+  .resposta{margin-top:16px; border-radius:10px; padding:14px 16px; background:var(--surface-2); border:1px solid var(--line); display:none;}
+  .resposta.show{display:block; animation:fade .25s ease;}
+  @keyframes fade{from{opacity:0; transform:translateY(-4px);} to{opacity:1; transform:translateY(0);}}
+  .resposta .rtitle{font-weight:700; font-size:13px; letter-spacing:.02em; margin-bottom:6px; display:flex; align-items:center; gap:6px;}
+  .resposta .rtitle.good{color:var(--good-ink);}
+  .resposta .rtitle.bad{color:var(--bad-ink);}
+  .resposta p{margin:0 0 8px; font-size:14px; line-height:1.6;}
+  .resposta p:last-child{margin-bottom:0;}
+  mark.core{background:var(--core); color:var(--ink); padding:0 2px; border-radius:2px;}
+  .fonte{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--ink-dim); border-top:1px dashed var(--line); margin-top:10px; padding-top:8px;}
+
+  .nav{display:flex; justify-content:space-between; gap:10px; margin-top:18px;}
+  .btn{
+    font-family:"IBM Plex Sans",sans-serif; font-weight:600; font-size:14px;
+    border-radius:8px; padding:10px 18px; cursor:pointer; border:1px solid var(--line);
+    background:var(--surface); color:var(--ink);
+  }
+  .btn.primary{background:var(--accent); color:var(--accent-ink); border-color:var(--accent);}
+  .btn:disabled{opacity:.4; cursor:not-allowed;}
+  .btn:not(:disabled):hover{filter:brightness(1.05);}
+
+  .summary{text-align:center; padding-block:12px;}
+  .summary .score{font-family:"Source Serif 4",serif; font-weight:700; font-size:48px; margin:6px 0 2px; font-variant-numeric:tabular-nums;}
+  .summary .score small{font-size:20px; color:var(--ink-dim); font-weight:400;}
+  .breakdown{text-align:left; margin-top:20px; display:flex; flex-direction:column; gap:8px;}
+  .brow{display:flex; justify-content:space-between; gap:10px; font-size:13.5px; padding:8px 10px; border-radius:7px; background:var(--surface-2);}
+  .brow .ok{color:var(--good-ink); font-weight:600;}
+  .brow .no{color:var(--bad-ink); font-weight:600;}
+  .note-final{margin-top:20px; font-size:12.5px; color:var(--ink-dim); line-height:1.6; border-top:1px solid var(--line); padding-top:14px; text-align:left;}
+
+  [hidden]{display:none!important;}
+</style>
+
+<div class="wrap">
+  <div class="topbar">
+    <div class="eyebrow">
+      <span>Matéria</span><span class="sep">·</span><span>Bloco/tema</span><span class="sep">·</span><span>Base legal</span>
+    </div>
+    <div class="progress-row" style="margin-top:10px;">
+      <span class="progress-count" id="counter">1 / 1</span>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+    </div>
+  </div>
+
+  <h1>Título do treino</h1>
+  <div class="from-plan">
+    <b>Puxado de:</b> diga aqui a origem do tema (plano do dia de tal data/slot, Fila de reforço, ou pedido explícito do Pedro).
+  </div>
+  <div class="disclaimer">
+    <span>⚠️</span>
+    <span><b>Questões feitas por Claude</b>, ancoradas linha a linha no cofre — não são questões reais de banca. Não conta pro <code>dom</code> nem entra no Diario/TEC; sirva só de calibração leve.</span>
+  </div>
+
+  <div id="quiz"></div>
+
+  <div id="summaryCard" class="card summary" hidden></div>
+</div>
+
+<script>
+(function(){
+  // Substitua todo o array abaixo. Campos:
+  //   tema: string curta do subtópico
+  //   bloco: nome do bloco/nota de origem
+  //   artigo: dispositivo legal (ex.: "art. 62, § 1º")
+  //   tipoLabel: "Certo/Errado" | "Múltipla escolha" | "Múltipla — exceto"
+  //   enunciado: HTML permitido (<b>, <mark>)
+  //   gabarito: letra da opção correta
+  //   opcoes: [{letra, texto}, ...]
+  //   explicacao: HTML — cite o núcleo com <mark class="core">...</mark>
+  //   pegadinha: string opcional (deixe "" se não houver)
+  //   fonte: "arquivo.md:linha" real
+  var QUESTOES = [
+    {
+      tema: "Exemplo — substitua",
+      bloco: "Bloco X",
+      artigo: "art. 0º",
+      tipoLabel: "Certo/Errado",
+      enunciado: "Este é um item de exemplo do template. Substitua pelo enunciado real, ancorado numa linha específica da nota.",
+      gabarito: "A",
+      opcoes: [
+        {letra:"A", texto:"Certo"},
+        {letra:"B", texto:"Errado"}
+      ],
+      explicacao: "Explique o <mark class=\"core\">núcleo da regra</mark> citando o trecho literal usado.",
+      pegadinha: "",
+      fonte: "MATERIAS/<nota>.md:0"
+    },
+    {
+      tema: "Exemplo múltipla — substitua",
+      bloco: "Bloco X",
+      artigo: "art. 0º",
+      tipoLabel: "Múltipla escolha",
+      enunciado: "Segundo a nota, assinale a alternativa correta:",
+      gabarito: "B",
+      opcoes: [
+        {letra:"A", texto:"Distrator — troca um dado real do texto."},
+        {letra:"B", texto:"Alternativa correta — literal ao texto citado."},
+        {letra:"C", texto:"Distrator — outra troca."},
+        {letra:"D", texto:"Distrator — outra troca."},
+        {letra:"E", texto:"Distrator — outra troca."}
+      ],
+      explicacao: "Por que B é a correta, citando o trecho ancorado.",
+      pegadinha: "",
+      fonte: "MATERIAS/<nota>.md:0"
+    }
+  ];
+
+  var idx = 0;
+  var respostas = new Array(QUESTOES.length).fill(null);
+  var quizEl = document.getElementById('quiz');
+  var summaryEl = document.getElementById('summaryCard');
+  var counterEl = document.getElementById('counter');
+  var fillEl = document.getElementById('progressFill');
+
+  function renderProgress(){
+    counterEl.textContent = (idx+1) + " / " + QUESTOES.length;
+    fillEl.style.width = ((idx) / QUESTOES.length * 100) + "%";
+  }
+
+  function renderQuestion(){
+    var q = QUESTOES[idx];
+    var respondida = respostas[idx] !== null;
+    var isMC = q.tipoLabel.indexOf("Certo/Errado") === -1;
+
+    var html = '';
+    html += '<div class="card">';
+    html += '<div class="qmeta"><span class="tag">' + q.bloco + '</span><span class="tag">' + q.artigo + '</span><span class="tag' + (isMC ? ' mc' : '') + '">' + q.tipoLabel + '</span></div>';
+    html += '<div class="enunciado">' + q.enunciado + '</div>';
+    html += '<div class="opts" id="opts"></div>';
+    html += '<div class="marcgab" id="marcgab"></div>';
+    html += '<div class="resposta" id="resposta"></div>';
+    html += '<div class="nav">';
+    html += '<button class="btn" id="btnPrev" ' + (idx===0?'disabled':'') + '>← Anterior</button>';
+    html += '<button class="btn primary" id="btnNext" ' + (respondida?'':'disabled') + '>' + (idx === QUESTOES.length-1 ? 'Ver resultado' : 'Próxima →') + '</button>';
+    html += '</div>';
+    html += '</div>';
+
+    quizEl.innerHTML = html;
+    renderProgress();
+
+    var optsEl = document.getElementById('opts');
+    q.opcoes.forEach(function(op){
+      var btn = document.createElement('button');
+      btn.className = 'opt';
+      btn.innerHTML = '<span class="letra">(' + op.letra + ')</span><span>' + op.texto + '</span>';
+      btn.addEventListener('click', function(){ responder(op.letra); });
+      optsEl.appendChild(btn);
+    });
+
+    if (respondida) mostrarResposta(respostas[idx]);
+
+    document.getElementById('btnPrev').addEventListener('click', function(){
+      if (idx > 0){ idx--; renderQuestion(); }
+    });
+    document.getElementById('btnNext').addEventListener('click', function(){
+      if (idx < QUESTOES.length - 1){ idx++; renderQuestion(); }
+      else { renderSummary(); }
+    });
+  }
+
+  function responder(letra){
+    if (respostas[idx] !== null) return;
+    respostas[idx] = letra;
+    mostrarResposta(letra);
+    document.getElementById('btnNext').disabled = false;
+  }
+
+  function mostrarResposta(marcada){
+    var q = QUESTOES[idx];
+    var acertou = marcada === q.gabarito;
+    var optsEl = document.getElementById('opts');
+    var btns = optsEl.querySelectorAll('.opt');
+    btns.forEach(function(btn, i){
+      var op = q.opcoes[i];
+      btn.disabled = true;
+      if (op.letra === q.gabarito) btn.classList.add('correct');
+      else if (op.letra === marcada) btn.classList.add('wrong');
+      else btn.classList.add('dim');
+    });
+
+    var marcgab = document.getElementById('marcgab');
+    marcgab.classList.add('show');
+    marcgab.innerHTML = '<span>Marquei: <b style="color:' + (acertou ? 'var(--good-ink)' : 'var(--bad-ink)') + '">' + marcada + '</b></span><span>Gabarito: <b style="color:var(--good-ink)">' + q.gabarito + '</b></span>';
+
+    var resp = document.getElementById('resposta');
+    resp.classList.add('show');
+    var h = '';
+    h += '<div class="rtitle ' + (acertou ? 'good' : 'bad') + '">' + (acertou ? '✅ Você acertou' : '❌ Resposta') + ' — ' + q.gabarito + '</div>';
+    h += '<p>' + q.explicacao + '</p>';
+    if (q.pegadinha) h += '<p><b>⚠️ Pegadinha:</b> ' + q.pegadinha + '</p>';
+    h += '<div class="fonte">Fonte: ' + q.fonte + '</div>';
+    resp.innerHTML = h;
+  }
+
+  function renderSummary(){
+    quizEl.innerHTML = '';
+    var acertos = respostas.filter(function(r, i){ return r === QUESTOES[i].gabarito; }).length;
+    var total = QUESTOES.length;
+
+    var html = '<div class="summary">';
+    html += '<div class="eyebrow" style="justify-content:center;">Resultado do treino</div>';
+    html += '<div class="score">' + acertos + '<small>/' + total + '</small></div>';
+    html += '<div class="breakdown">';
+    QUESTOES.forEach(function(q, i){
+      var ok = respostas[i] === q.gabarito;
+      html += '<div class="brow"><span>' + q.bloco + ' · ' + q.tema + '</span><span class="' + (ok?'ok':'no') + '">' + (ok ? 'certo' : 'marcou ' + respostas[i] + ', gabarito ' + q.gabarito) + '</span></div>';
+    });
+    html += '</div>';
+    html += '<div class="note-final">Isto é treino avulso, não caderno do TEC — não vai pro <code>Diario</code> nem pro <code>dom</code>. Se algum tema aqui pareceu novo de verdade, é sinal pra voltar na nota e reler antes de partir pra questões reais no TEC.</div>';
+    html += '<div class="nav" style="justify-content:center; margin-top:20px;"><button class="btn" id="btnRestart">Refazer</button></div>';
+    html += '</div>';
+
+    summaryEl.innerHTML = html;
+    summaryEl.hidden = false;
+    fillEl.style.width = '100%';
+    counterEl.textContent = total + ' / ' + total;
+
+    document.getElementById('btnRestart').addEventListener('click', function(){
+      idx = 0;
+      respostas = new Array(QUESTOES.length).fill(null);
+      summaryEl.hidden = true;
+      renderQuestion();
+    });
+  }
+
+  renderQuestion();
+})();
+</script>

@@ -1,0 +1,334 @@
+<!--
+TEMPLATE — flashcards (frente/verso + fácil/médio/difícil)
+Usado pela skill /treino. Copie este arquivo pro scratchpad, edite:
+  1. <title> (nome curto, 2-4 palavras)
+  2. .eyebrow (matéria/bloco/fonte da lei)
+  3. .from-plan (de onde veio o tema)
+  4. o array FLASHCARDS no <script> do fim — os 2 itens abaixo são exemplo, substitua todos
+Nunca remova o .disclaimer. Cada card precisa de "fonte" apontando pra um arquivo:linha real.
+Fila de dificuldade dura só a sessão (não persiste) — fácil tira o card, médio/difícil reinserem mais à frente.
+-->
+<title>Flashcards — Template</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#eef0ea; --surface:#ffffff; --surface-2:#e4e8de; --line:#d7dccf;
+    --ink:#1c231e; --ink-dim:#5b6459;
+    --accent:#33475b; --accent-ink:#eef2f5;
+    --gold:#8a6d1d;
+    --good-bg:#d9f2e0; --good-ink:#1e6b3d; --good-line:#a6d9b5;
+    --bad-bg:#f5ded4; --bad-ink:#9c3b17; --bad-line:#e3b199;
+    --warn-bg:#f7ecd2; --warn-ink:#8a6d1d; --warn-line:#e3cf95;
+    --core:#fff187;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#181c17; --surface:#1f2520; --surface-2:#262d26; --line:#39423a;
+      --ink:#e7ebe3; --ink-dim:#a3ac9f;
+      --accent:#7f9db3; --accent-ink:#10161c;
+      --gold:#d1ad55;
+      --good-bg:#173425; --good-ink:#7fd9a0; --good-line:#245a3c;
+      --bad-bg:#3a1f16; --bad-ink:#f0a17e; --bad-line:#6b3423;
+      --warn-bg:#3a3015; --warn-ink:#e0c36e; --warn-line:#5c4b1f;
+      --core:#5a4f14;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#181c17; --surface:#1f2520; --surface-2:#262d26; --line:#39423a;
+    --ink:#e7ebe3; --ink-dim:#a3ac9f;
+    --accent:#7f9db3; --accent-ink:#10161c;
+    --gold:#d1ad55;
+    --good-bg:#173425; --good-ink:#7fd9a0; --good-line:#245a3c;
+    --bad-bg:#3a1f16; --bad-ink:#f0a17e; --bad-line:#6b3423;
+    --warn-bg:#3a3015; --warn-ink:#e0c36e; --warn-line:#5c4b1f;
+    --core:#5a4f14;
+    color-scheme: dark;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+    padding-inline:16px; padding-block:0; min-height:100%;
+  }
+  .wrap{max-width:640px; margin:0 auto; padding-block:20px 48px;}
+
+  .topbar{
+    position:sticky; top:env(safe-area-inset-top,0px);
+    z-index:5; background:var(--bg);
+    padding-block:14px 10px; border-bottom:1px solid var(--line); margin-bottom:22px;
+  }
+  .eyebrow{
+    font-family:"IBM Plex Mono", monospace; font-size:11px; letter-spacing:.08em; text-transform:uppercase;
+    color:var(--gold); display:flex; align-items:center; gap:8px; flex-wrap:wrap;
+  }
+  .eyebrow .sep{color:var(--ink-dim); opacity:.5;}
+  h1{
+    font-family:"Source Serif 4", serif; font-weight:600;
+    font-size:clamp(22px,4vw,28px); line-height:1.15; margin:6px 0 8px; text-wrap:balance;
+  }
+  .from-plan{
+    font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-dim);
+    background:var(--surface-2); border:1px solid var(--line); border-radius:7px;
+    padding:8px 11px; margin-bottom:10px; line-height:1.6;
+  }
+  .from-plan b{color:var(--ink); font-weight:600;}
+  .disclaimer{
+    display:flex; gap:10px; align-items:flex-start;
+    background:var(--surface-2); border:1px solid var(--line); border-radius:8px;
+    padding:10px 12px; font-size:12.5px; color:var(--ink-dim); line-height:1.5; margin-bottom:12px;
+  }
+  .disclaimer b{color:var(--ink); font-weight:600;}
+
+  .progress-row{display:flex; align-items:center; gap:10px; font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--ink-dim);}
+  .progress-track{flex:1; height:6px; border-radius:99px; background:var(--surface-2); overflow:hidden;}
+  .progress-fill{height:100%; background:var(--accent); border-radius:99px; transition:width .3s ease; width:0%;}
+  .progress-count{font-variant-numeric:tabular-nums; white-space:nowrap;}
+
+  .stage{perspective:1400px;}
+  .flashcard{
+    position:relative; min-height:260px; border-radius:16px; cursor:pointer;
+    transform-style:preserve-3d; transition:transform .45s cubic-bezier(.2,.8,.2,1);
+  }
+  .flashcard.flipped{transform:rotateY(180deg);}
+  .face{
+    position:absolute; inset:0; backface-visibility:hidden;
+    border-radius:16px; border:1px solid var(--line); background:var(--surface);
+    box-shadow:0 1px 2px rgba(0,0,0,.04);
+    padding:26px 24px; display:flex; flex-direction:column;
+  }
+  .face.back{transform:rotateY(180deg); background:var(--surface-2);}
+  .face-label{
+    font-family:"IBM Plex Mono",monospace; font-size:10.5px; letter-spacing:.08em; text-transform:uppercase;
+    color:var(--ink-dim); margin-bottom:10px;
+  }
+  .face-content{
+    font-family:"Source Serif 4",serif; font-size:19px; line-height:1.55;
+    flex:1; display:flex; align-items:center;
+  }
+  .face.back .face-content{font-size:16px; line-height:1.6; display:block;}
+  .face-hint{
+    margin-top:12px; font-family:"IBM Plex Sans",sans-serif; font-size:12px; color:var(--ink-dim); text-align:center;
+  }
+  mark.core{background:var(--core); color:var(--ink); padding:0 2px; border-radius:2px;}
+  .fonte{
+    font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--ink-dim);
+    border-top:1px dashed var(--line); margin-top:12px; padding-top:8px;
+  }
+  .qmeta{
+    font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--ink-dim);
+    display:flex; gap:8px; flex-wrap:wrap; margin-bottom:10px;
+  }
+  .qmeta .tag{background:var(--surface); border:1px solid var(--line); border-radius:5px; padding:2px 7px;}
+  .face.back .qmeta .tag{background:var(--surface-2);}
+
+  .difficulty{display:none; gap:8px; margin-top:16px;}
+  .difficulty.show{display:grid; grid-template-columns:1fr 1fr 1fr;}
+  .diff-btn{
+    font-family:"IBM Plex Sans",sans-serif; font-weight:600; font-size:13px;
+    border-radius:9px; padding:11px 8px; cursor:pointer; border:1px solid var(--line);
+    background:var(--surface); color:var(--ink); display:flex; flex-direction:column; align-items:center; gap:3px;
+  }
+  .diff-btn:hover{filter:brightness(1.04);}
+  .diff-btn.easy{border-color:var(--good-line); color:var(--good-ink);}
+  .diff-btn.medium{border-color:var(--warn-line); color:var(--warn-ink);}
+  .diff-btn.hard{border-color:var(--bad-line); color:var(--bad-ink);}
+  .diff-btn .n{font-size:18px;}
+
+  .hint-flip{
+    text-align:center; font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-dim); margin-top:14px;
+  }
+
+  .summary{text-align:center; padding-block:12px;}
+  .summary .score{font-family:"Source Serif 4",serif; font-weight:700; font-size:40px; margin:6px 0 2px;}
+  .card{background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:22px; box-shadow:0 1px 2px rgba(0,0,0,.04);}
+  .breakdown{text-align:left; margin-top:18px; display:flex; flex-direction:column; gap:8px;}
+  .brow{display:flex; justify-content:space-between; gap:10px; font-size:13.5px; padding:8px 10px; border-radius:7px; background:var(--surface-2);}
+  .brow .easy{color:var(--good-ink); font-weight:600;}
+  .brow .medium{color:var(--warn-ink); font-weight:600;}
+  .brow .hard{color:var(--bad-ink); font-weight:600;}
+  .note-final{margin-top:20px; font-size:12.5px; color:var(--ink-dim); line-height:1.6; border-top:1px solid var(--line); padding-top:14px; text-align:left;}
+  .btn{
+    font-family:"IBM Plex Sans",sans-serif; font-weight:600; font-size:14px;
+    border-radius:8px; padding:10px 18px; cursor:pointer; border:1px solid var(--line);
+    background:var(--surface); color:var(--ink);
+  }
+  .btn.primary{background:var(--accent); color:var(--accent-ink); border-color:var(--accent);}
+  .btn:not(:disabled):hover{filter:brightness(1.05);}
+
+  [hidden]{display:none!important;}
+</style>
+
+<div class="wrap">
+  <div class="topbar">
+    <div class="eyebrow">
+      <span>Matéria</span><span class="sep">·</span><span>Bloco/tema</span><span class="sep">·</span><span>Base legal</span>
+    </div>
+    <div class="progress-row" style="margin-top:10px;">
+      <span class="progress-count" id="counter">1 / 1</span>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+    </div>
+  </div>
+
+  <h1>Título dos flashcards</h1>
+  <div class="from-plan">
+    <b>Puxado de:</b> diga aqui a origem do tema (plano do dia de tal data/slot, Fila de reforço, ou pedido explícito do Pedro).
+  </div>
+  <div class="disclaimer">
+    <span>⚠️</span>
+    <span><b>Flashcards feitos por Claude</b>, ancorados linha a linha no cofre — não contam pro <code>dom</code> nem entram no Diario/TEC. A fila fácil/médio/difícil vale só pra esta sessão.</span>
+  </div>
+
+  <div id="deck"></div>
+  <div id="summaryCard" class="card summary" hidden></div>
+</div>
+
+<script>
+(function(){
+  // Substitua todo o array abaixo. Campos:
+  //   tema: subtópico curto
+  //   artigo: dispositivo legal
+  //   frente: HTML da pergunta/conceito (curto)
+  //   verso: HTML da resposta — destaque o núcleo com <mark class="core">
+  //   fonte: "arquivo.md:linha" real
+  var FLASHCARDS = [
+    {
+      tema: "Exemplo — substitua",
+      artigo: "art. 0º",
+      frente: "Pergunta ou conceito curto de exemplo.",
+      verso: "Resposta com o <mark class=\"core\">núcleo em destaque</mark>, citando o texto ancorado.",
+      fonte: "MATERIAS/<nota>.md:0"
+    },
+    {
+      tema: "Exemplo 2 — substitua",
+      artigo: "art. 0º",
+      frente: "Segunda pergunta de exemplo.",
+      verso: "Segunda resposta de exemplo.",
+      fonte: "MATERIAS/<nota>.md:0"
+    }
+  ];
+
+  // Fila de índices — cada card entra 1x; fácil remove, médio/difícil reinserem mais à frente.
+  var fila = FLASHCARDS.map(function(_, i){ return i; });
+  var totalUnicos = FLASHCARDS.length;
+  var vistos = 0; // conta flips únicos (primeira vez que cada card é respondido)
+  var jaRespondido = new Array(FLASHCARDS.length).fill(false);
+  var resultados = {}; // idx -> última dificuldade marcada
+  var flipped = false;
+
+  var deckEl = document.getElementById('deck');
+  var summaryEl = document.getElementById('summaryCard');
+  var counterEl = document.getElementById('counter');
+  var fillEl = document.getElementById('progressFill');
+
+  function renderProgress(){
+    counterEl.textContent = vistos + " / " + totalUnicos + (fila.length > 0 ? "  (+" + Math.max(fila.length - 1, 0) + " na fila)" : "");
+    fillEl.style.width = (vistos / totalUnicos * 100) + "%";
+  }
+
+  function renderCard(){
+    if (fila.length === 0){ renderSummary(); return; }
+    var cardIdx = fila[0];
+    var c = FLASHCARDS[cardIdx];
+    flipped = false;
+
+    var html = '';
+    html += '<div class="stage"><div class="flashcard" id="flashcard">';
+    html += '  <div class="face front">';
+    html += '    <div class="qmeta"><span class="tag">' + c.tema + '</span><span class="tag">' + c.artigo + '</span></div>';
+    html += '    <div class="face-content">' + c.frente + '</div>';
+    html += '    <div class="face-hint">toque no card para ver a resposta</div>';
+    html += '  </div>';
+    html += '  <div class="face back">';
+    html += '    <div class="face-label">Resposta</div>';
+    html += '    <div class="face-content">' + c.verso + '</div>';
+    html += '    <div class="fonte">Fonte: ' + c.fonte + '</div>';
+    html += '  </div>';
+    html += '</div></div>';
+    html += '<div class="difficulty" id="difficulty">';
+    html += '  <button class="diff-btn hard" data-d="hard"><span class="n">🔴</span>Difícil</button>';
+    html += '  <button class="diff-btn medium" data-d="medium"><span class="n">🟡</span>Médio</button>';
+    html += '  <button class="diff-btn easy" data-d="easy"><span class="n">🟢</span>Fácil</button>';
+    html += '</div>';
+    html += '<div class="hint-flip" id="hintFlip">clique no card, depois marque a dificuldade</div>';
+
+    deckEl.innerHTML = html;
+    renderProgress();
+
+    document.getElementById('flashcard').addEventListener('click', function(){
+      if (flipped) return;
+      flipped = true;
+      this.classList.add('flipped');
+      document.getElementById('difficulty').classList.add('show');
+      document.getElementById('hintFlip').style.display = 'none';
+    });
+
+    document.querySelectorAll('.diff-btn').forEach(function(btn){
+      btn.addEventListener('click', function(e){
+        e.stopPropagation();
+        if (!flipped) return;
+        marcarDificuldade(cardIdx, btn.getAttribute('data-d'));
+      });
+    });
+  }
+
+  function marcarDificuldade(cardIdx, dificuldade){
+    if (!jaRespondido[cardIdx]){ jaRespondido[cardIdx] = true; vistos++; }
+    resultados[cardIdx] = dificuldade;
+    fila.shift();
+
+    if (dificuldade === 'hard'){
+      var posHard = Math.min(2, fila.length);
+      fila.splice(posHard, 0, cardIdx);
+    } else if (dificuldade === 'medium'){
+      var posMed = Math.min(5, fila.length);
+      fila.splice(posMed, 0, cardIdx);
+    }
+    // fácil: não reinsere, card sai da fila desta sessão.
+
+    renderCard();
+  }
+
+  function renderSummary(){
+    deckEl.innerHTML = '';
+    var easy = 0, medium = 0, hard = 0;
+    Object.keys(resultados).forEach(function(k){
+      if (resultados[k] === 'easy') easy++;
+      else if (resultados[k] === 'medium') medium++;
+      else hard++;
+    });
+
+    var html = '<div class="summary">';
+    html += '<div class="eyebrow" style="justify-content:center;">Sessão concluída</div>';
+    html += '<div class="score">' + totalUnicos + ' cards</div>';
+    html += '<div class="breakdown">';
+    html += '<div class="brow"><span>🟢 Marcados fácil</span><span class="easy">' + easy + '</span></div>';
+    html += '<div class="brow"><span>🟡 Marcados médio</span><span class="medium">' + medium + '</span></div>';
+    html += '<div class="brow"><span>🔴 Marcados difícil (repetidos na sessão)</span><span class="hard">' + hard + '</span></div>';
+    html += '</div>';
+    html += '<div class="note-final">A fila fácil/médio/difícil valeu só para esta sessão — nada foi salvo. Se algum tema ficou marcado difícil mais de uma vez, é sinal pra voltar na nota e reler antes da próxima rodada.</div>';
+    html += '<div class="nav" style="margin-top:20px;"><button class="btn primary" id="btnRestart">Refazer o baralho</button></div>';
+    html += '</div>';
+
+    summaryEl.innerHTML = html;
+    summaryEl.hidden = false;
+    fillEl.style.width = '100%';
+    counterEl.textContent = totalUnicos + ' / ' + totalUnicos;
+
+    document.getElementById('btnRestart').addEventListener('click', function(){
+      fila = FLASHCARDS.map(function(_, i){ return i; });
+      vistos = 0;
+      jaRespondido = new Array(FLASHCARDS.length).fill(false);
+      resultados = {};
+      summaryEl.hidden = true;
+      renderCard();
+    });
+  }
+
+  renderCard();
+})();
+</script>
