@@ -7,6 +7,9 @@ slot do dia, por subtópico da matéria que a Grade Semanal marca para o slot.
     python3 PY/plano-dia.py --data 2026-09-16   # outro dia
     python3 PY/plano-dia.py --texto             # saída no terminal
     python3 PY/plano-dia.py --diag Penal        # audita casamentos e métricas de uma matéria
+    python3 PY/plano-dia.py --diag-santos       # confere LTM ISS SANTOS/Checklist Santos por bloco.md
+
+Até SANTOS_ATE (18/10/2026), os slots de Santos só sugerem tópicos do edital de Santos (modo Santos).
 
 Cada item traz também o ASSUNTO no TEC (código, nome, nº de questões e link, lidos de
 Questoes/TEC - Árvore de assuntos.md, gerada por PY/tec-arvore.py) e ONDE achar (link do
@@ -203,6 +206,35 @@ DIARIO_PARA_NOTAS = {
     "fiscalizacao tributaria, simples nacional e tecnologia": [
         ("P2 - Direito Tributário", None)] + LEGISLACAO_MUNICIPAL_SANTOS,
 }
+GRADE_PARA_NOTAS["fiscalizacao, simples e tecnologia santos"] = [
+    ("P2 - Direito Tributário", None)] + LEGISLACAO_MUNICIPAL_SANTOS
+
+# MODO SANTOS (até SANTOS_ATE): nos rótulos abaixo, os itens do slot vêm SÓ dos tópicos do edital de
+# Santos listados em LTM ISS SANTOS/Checklist Santos por bloco.md — cada heading de Santos aponta para os
+# tópicos/headings do vault-ba que o cobrem. Tópico do SEFAZ-BA fora do edital de Santos não entra.
+# Depois de SANTOS_ATE o script volta sozinho ao comportamento normal (GRADE_PARA_NOTAS/RODIZIOS).
+CHECKLIST_SANTOS = LTM_SANTOS / "Checklist Santos por bloco.md"
+SANTOS_ATE = date(2026, 10, 18)
+B_DT = "Direito Tributário, CTN e Reforma Tributária"
+B_LTM = "Legislação Tributária Municipal de Santos, PAF e Dívida Ativa"
+B_FISC = "Fiscalização Tributária, Simples Nacional e Tecnologia"
+B_CONST = "Direito Constitucional, Administrativo, Municipal e Processo Administrativo"
+B_CONTAB = "Contabilidade Geral, Societária, Análise das Demonstrações e Auditoria"
+B_PUB = "Contabilidade Pública, Finanças Públicas, Orçamento Público e LRF"
+B_PORT = "Língua Portuguesa"
+B_RLM = "Raciocínio Lógico, Estatística e Matemática Financeira"
+SANTOS_GRADE = {
+    "direito tributario": [B_DT],
+    "legislacao municipal santos": [B_LTM],
+    "fiscalizacao, simples e tecnologia santos": [B_FISC],
+    "constitucional/administrativo santos": [B_CONST],
+    "contabilidade geral e auditoria santos": [B_CONTAB],
+    "contabilidade e financas publicas santos": [B_PUB],
+}
+SANTOS_RODIZIO = {
+    "rodizio santos (rlm/estatistica/mat. financeira, portugues)": [[B_RLM], [B_PORT]],
+}
+PESO_ITEM_SANTOS = 10     # score-base de cada item = PESO_ITEM_SANTOS × peso do bloco no edital × foco
 
 DIAS = ["segunda", "terca", "quarta", "quinta", "sexta", "sabado", "domingo"]
 NOME_DIA = ["segunda", "terça", "quarta", "quinta", "sexta", "sábado", "domingo"]
@@ -643,6 +675,8 @@ class Unidade:
         self.ocorrencias = []
         self.conteudo, self.escrito_ult, self.prox_vencido = 0, None, None
         self.tec_link = None  # 1º link do TEC sob o heading ("Resumo tec: (…)")
+        # modo Santos: heading do edital de Santos que este item cobre, peso do bloco, foco e dica da banca
+        self.santos, self.bloco_peso, self.foco, self.ibam = None, None, 1.0, ""
 
     def medir(self, hoje):
         if not self.heading:
@@ -683,6 +717,9 @@ class Unidade:
     def caderno_do_erro(self, data):
         """Caderno em que o tópico errou naquela data (para ler o erro_tipo e linkar)."""
         return next((c for d, erro, _, c in self.ocorrencias if d == data and erro), None)
+
+    def source_santos_criar(self):
+        return self.fonte == "santos" and not self.heading
 
     def nota_exibida(self):
         return self.heading[0] if self.heading else self.nota
@@ -965,6 +1002,11 @@ def dicas(acao, u, razoes, hoje):
     else:
         como = ("Recuperação ativa: escreva de memória o que lembra do heading (3 min) e só então "
                 "abra. O que faltar volta para a próxima revisão.")
+    if u.source_santos_criar():
+        como = (f"Tópico do edital de Santos sem heading no vault-ba: crie “{u.topico}” em {u.nota.stem} "
+                "a partir da lei/material e marque o que a banca cobra. " + como)
+    if u.ibam:
+        como += f" IBAM: {u.ibam}"
     return {"onde": onde, "como": como, "tec": no}
 
 
@@ -1042,6 +1084,148 @@ def analisar(pares, cadernos, hoje):
     return unidades
 
 
+# ---------------------------------------------------------------------------
+# Modo Santos
+# ---------------------------------------------------------------------------
+
+RE_REF_SANTOS = re.compile(
+    r"^- \[\[([^\]#|]+)(?:#([^\]|]+))?(?:\|[^\]]*)?\]\]\s*(?:›\s*(.+?))?\s*(?:\[foco::\s*([\d.]+)\])?\s*$")
+RE_CRIAR_SANTOS = re.compile(r"^- criar em \[\[([^\]#|]+)")
+RE_BLOCO_PESO = re.compile(r"\[bloco_peso::\s*([\d.]+)\]")
+
+
+def santos_ativo(hoje):
+    return hoje <= SANTOS_ATE and CHECKLIST_SANTOS.exists()
+
+
+def ler_checklist_santos():
+    """{chave(bloco): {'nome', 'peso', 'topicos': [{'nome', 'refs': [(stem, heading, topico, foco)],
+    'criar': stem|None, 'ibam': str}]}} lido de LTM ISS SANTOS/Checklist Santos por bloco.md."""
+    blocos, bloco, topico = {}, None, None
+    for l in nfc(CHECKLIST_SANTOS.read_text(encoding="utf-8")).split("\n"):
+        s = l.strip()
+        m = re.match(r"^(#{2,3})\s+(.+?)\s*$", s)
+        if m:
+            if len(m.group(1)) == 2:
+                bloco = {"nome": m.group(2), "peso": 1.0, "topicos": []}
+                blocos[chave(m.group(2))] = bloco
+                topico = None
+            elif bloco is not None:
+                topico = {"nome": m.group(2), "refs": [], "criar": None, "ibam": ""}
+                bloco["topicos"].append(topico)
+            continue
+        if bloco is None:
+            continue
+        m = RE_BLOCO_PESO.search(s)
+        if m and topico is None:
+            bloco["peso"] = float(m.group(1))
+            continue
+        if topico is None:
+            continue
+        m = RE_REF_SANTOS.match(s)
+        if m:
+            topico["refs"].append((nfc(m.group(1).strip()), (m.group(2) or "").strip() or None,
+                                   (m.group(3) or "").strip() or None, float(m.group(4) or 1)))
+            continue
+        m = RE_CRIAR_SANTOS.match(s)
+        if m:
+            topico["criar"] = nfc(m.group(1).strip())
+            continue
+        if s.startswith("- ibam:"):
+            topico["ibam"] = s[len("- ibam:"):].strip()
+    return blocos
+
+
+def _achar_unidade(base, stem, heading, topico):
+    """Unidade do vault-ba para uma linha de cobertura: tópico do checklist da nota (exato, depois
+    prefixo, depois semelhança) ou heading direto (vira unidade própria ancorada nele)."""
+    if heading:
+        n = carregar(stem)
+        alvo = chave(limpar_titulo(heading))
+        achados = [(i, nv, txt) for i, nv, txt in n.headings if chave(limpar_titulo(txt)) == alvo]
+        if not achados:
+            achados = [(i, nv, txt) for i, nv, txt in n.headings
+                       if chave(limpar_titulo(txt)).startswith(alvo) or alvo.startswith(chave(limpar_titulo(txt)))]
+        if not achados:
+            return None
+        i, nv, txt = achados[0]
+        u = Unidade(limpar_titulo(txt), 0.0, None, n, "heading")
+        u.heading, u.score = (n, i, nv, txt), 1.0
+        return u
+    unidades = base.setdefault(stem, montar_unidades([(stem, None)]))
+    alvo = chave(topico)
+    for teste in (lambda k: k == alvo, lambda k: k.startswith(alvo) or alvo.startswith(k)):
+        achados = [u for u in unidades if teste(chave(u.topico))]
+        if len(achados) == 1:
+            return achados[0]
+    melhor = max(unidades, key=lambda u: semelhanca(u.topico, topico), default=None)
+    return melhor if melhor and semelhanca(melhor.topico, topico) >= 0.6 else None
+
+
+def montar_santos(nomes_blocos):
+    """(unidades, pares, faltas) para os blocos do edital de Santos de um slot."""
+    dados = ler_checklist_santos()
+    base, unidades, stems, faltas, vistos = {}, [], [], [], set()
+    for nb in nomes_blocos:
+        b = dados.get(chave(nb))
+        if not b:
+            faltas.append(f"bloco “{nb}”")
+            continue
+        for t in b["topicos"]:
+            ligados = 0
+            for stem, heading, topico, foco in t["refs"]:
+                if not existe_nota(stem):
+                    faltas.append(f"nota “{stem}”")
+                    continue
+                u = _achar_unidade(base, stem, heading, topico)
+                if u is None:
+                    faltas.append(f"“{heading or topico}” em {stem}")
+                    continue
+                ligados += 1
+                k = (stem, u.heading[1] if u.heading else chave(u.topico))
+                if k in vistos:
+                    continue
+                vistos.add(k)
+                if stem not in stems:
+                    stems.append(stem)
+                u.santos, u.bloco_peso, u.foco, u.ibam = t["nome"], b["peso"], foco, t["ibam"]
+                u.peso = PESO_ITEM_SANTOS * b["peso"] * foco
+                unidades.append(u)
+            if not ligados:
+                stem = t["criar"] or (stems[0] if stems else None)
+                if not stem or not existe_nota(stem):
+                    faltas.append(f"tópico “{t['nome']}” sem cobertura nem 'criar em'")
+                    continue
+                u = Unidade(t["nome"], PESO_ITEM_SANTOS * b["peso"], None, carregar(stem), "santos")
+                u.santos, u.bloco_peso, u.ibam = t["nome"], b["peso"], t["ibam"]
+                unidades.append(u)
+                if stem not in stems:
+                    stems.append(stem)
+    return unidades, [(s, None) for s in stems], faltas
+
+
+def analisar_santos(nomes_blocos, cadernos, hoje):
+    unidades, pares, faltas = montar_santos(nomes_blocos)
+    associar(unidades, pares, cadernos, hoje)
+    for u in unidades:
+        u.medir(hoje)
+    return unidades, pares, faltas
+
+
+def blocos_santos(rotulo, semana, hoje):
+    """(blocos do edital de Santos, texto de rodízio) para o rótulo da grade, ou (None, None)."""
+    if not santos_ativo(hoje):
+        return None, None
+    k = chave(rotulo)
+    if k in SANTOS_GRADE:
+        return SANTOS_GRADE[k], None
+    if k in SANTOS_RODIZIO:
+        opcoes = SANTOS_RODIZIO[k]
+        escolha = opcoes[(max(semana, 1) - 1) % len(opcoes)]
+        return escolha, f"semana {semana} do ciclo → {', '.join(escolha)}"
+    return None, None
+
+
 def carregar_fechamento(hoje):
     """Fechamento de domingo válido para a semana de `hoje`. Devolve (dados, mensagem):
     dados é None quando a nota não existe, está ilegível ou é de outra semana."""
@@ -1100,7 +1284,7 @@ def plano(hoje):
     slots = []
     for slot, minutos, rotulo in grade.get(dia, []):
         s = {"slot": slot, "min": minutos, "rotulo": rotulo, "funcao": FUNCAO_SLOT.get(slot, ""),
-             "rodizio": None, "ganho": None, "notas": [], "secoes": [], "especial": None, "erros": [], "aviso": None,
+             "rodizio": None, "edital": None, "ganho": None, "notas": [], "secoes": [], "especial": None, "erros": [], "aviso": None,
              "usado": 0, "orcamento": 0, "tarefas": [], "cor": slot.lower()}
         tipo = especial(rotulo)
         if tipo == "correcao":
@@ -1133,18 +1317,33 @@ def plano(hoje):
                     for m, its in sorted(por_materia.items(), key=lambda kv: -len(kv[1]))]
                 s["erros"] = []
         if not tipo:
-            pares, s["rodizio"] = resolver(rotulo, semana)
-            escolha = fech and pares and fech["rodizios"].get(chave(rotulo))
-            if escolha:
-                pares, s["rodizio"] = [tuple(x) for x in escolha["escolha"]], escolha["motivo"]
-            if not pares:
-                s["aviso"] = "Rótulo da grade sem mapeamento em PY/plano-dia.py (GRADE_PARA_NOTAS)."
-            else:
+            blocos, rod_santos = blocos_santos(rotulo, semana, hoje)
+            if blocos:
+                s["rodizio"] = rod_santos
+                pesos = {k: b["peso"] for k, b in ler_checklist_santos().items()}
+                s["edital"] = "edital Santos · " + " + ".join(
+                    f"{nb} (peso {pesos.get(chave(nb), 1):g})" for nb in blocos)
                 try:
-                    unidades = analisar(pares, cadernos, hoje)
+                    unidades, pares, faltas = analisar_santos(blocos, cadernos, hoje)
                 except FileNotFoundError as e:
-                    s["aviso"] = f"Nota não encontrada: {e.filename}"
-                    unidades = []
+                    unidades, pares, faltas = [], [], [f"nota {e.filename}"]
+                if faltas:
+                    s["aviso"] = ("Checklist Santos — não achei: " + "; ".join(faltas[:4])
+                                  + (" …" if len(faltas) > 4 else "") + " (rode --diag-santos)")
+            else:
+                pares, s["rodizio"] = resolver(rotulo, semana)
+                escolha = fech and pares and fech["rodizios"].get(chave(rotulo))
+                if escolha:
+                    pares, s["rodizio"] = [tuple(x) for x in escolha["escolha"]], escolha["motivo"]
+            if not pares:
+                s["aviso"] = s["aviso"] or "Rótulo da grade sem mapeamento em PY/plano-dia.py (GRADE_PARA_NOTAS)."
+            else:
+                if not blocos:
+                    try:
+                        unidades = analisar(pares, cadernos, hoje)
+                    except FileNotFoundError as e:
+                        s["aviso"] = f"Nota não encontrada: {e.filename}"
+                        unidades = []
                 s["notas"] = [carregar(stem) for stem, _ in pares if existe_nota(stem)]
                 topo = False
                 if fech:
@@ -1177,6 +1376,13 @@ def plano(hoje):
 # ---------------------------------------------------------------------------
 
 def meta_item(u):
+    if u.santos:
+        partes = [f"edital Santos: {u.santos}", f"bloco peso {u.bloco_peso:g}"]
+        if u.foco != 1:
+            partes.append(f"foco ×{u.foco:g}")
+        if u.dom is not None:
+            partes.append("sem dado TEC (dom 0)" if u.dom == 0 else f"dom TEC {u.dom}")
+        return " · ".join(partes)
     partes = [f"peso {u.peso:g}%" if u.fonte == "checklist" else "sem peso VINTEUM (nota sem checklist)"]
     if u.dom == 0:
         partes.append("sem dado TEC (dom 0)")
@@ -1214,6 +1420,8 @@ def render_texto(p):
         out.append("\n(tabela da Grade Semanal não encontrada)")
     for s in p["slots"]:
         out += ["", f"{s['slot']} · {s['min']} min · {s['rotulo']} — {s['funcao']}"]
+        if s["edital"]:
+            out.append(f"  {s['edital']}")
         if s["rodizio"]:
             out.append(f"  rodízio: {s['rodizio']}")
         if s["ganho"]:
@@ -1385,6 +1593,8 @@ def render_html(p):
         h.append(f'<h2><span class="cod">{escape(s["slot"])} · {s["min"]} min ·</span> {escape(s["rotulo"])}'
                  '<span class="prog"></span></h2>')
         h.append(f'<div class="funcao">{escape(s["funcao"])}</div>')
+        if s["edital"]:
+            h.append(f'<div class="rodizio">{escape(s["edital"])}</div>')
         if s["rodizio"]:
             h.append(f'<div class="rodizio">rodízio: {escape(s["rodizio"])}</div>')
         if s["ganho"]:
@@ -1481,14 +1691,46 @@ def diagnostico(texto, hoje):
         print(f"        → {acao}{' · ' + ' · '.join(r[2]) if r else ''}\n")
 
 
+def diagnostico_santos():
+    """Confere se cada linha do Checklist Santos casa com um tópico/heading do vault-ba."""
+    dados = ler_checklist_santos()
+    problemas = 0
+    for b in dados.values():
+        print(f"\n## {b['nome']} (peso {b['peso']:g})")
+        base = {}
+        for t in b["topicos"]:
+            print(f"  ### {t['nome']}")
+            if not t["refs"]:
+                print(f"      (sem cobertura → Ler/criar em {t['criar'] or '—'})")
+            for stem, heading, topico, foco in t["refs"]:
+                if not existe_nota(stem):
+                    print(f"      ✗ nota inexistente: {stem}")
+                    problemas += 1
+                    continue
+                u = _achar_unidade(base, stem, heading, topico)
+                ref = f"{stem} {'#' + heading if heading else '› ' + topico}"
+                if u is None:
+                    print(f"      ✗ {ref}")
+                    problemas += 1
+                else:
+                    alvo = f"{'#' * u.heading[2]} {u.heading[3]}" if u.heading else "sem heading"
+                    print(f"      ✓ {ref}{f' ×{foco:g}' if foco != 1 else ''}  →  {alvo}")
+    print(f"\n{problemas} linha(s) sem correspondência." if problemas else "\nTudo casou.")
+
+
 def main():
     ap = argparse.ArgumentParser(description="Plano do dia por subtópico.")
     ap.add_argument("--data", help="AAAA-MM-DD (padrão: hoje)")
     ap.add_argument("--texto", action="store_true", help="imprime no terminal em vez de abrir HTML")
     ap.add_argument("--diag", metavar="MATÉRIA", help="audita casamentos e métricas de uma matéria")
+    ap.add_argument("--diag-santos", action="store_true",
+                    help="confere o Checklist Santos por bloco contra as notas do vault-ba")
     a = ap.parse_args()
     hoje = date.fromisoformat(a.data) if a.data else date.today()
 
+    if a.diag_santos:
+        diagnostico_santos()
+        return
     if a.diag:
         diagnostico(a.diag, hoje)
         return

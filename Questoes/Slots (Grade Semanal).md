@@ -25,7 +25,18 @@ Grade padrão: 6h/dia, 42h/semana.
 > quando o Pedro voltar a focar no SEFAZ-BA, é reverter essas duas coisas e trazer de volta a tabela
 > abaixo, preservada em `git log -- "Questoes/Slots (Grade Semanal).md"`.
 
-*Atualizada em 2026-09-27.*
+*Atualizada em 2026-09-28.*
+
+> [!info] Modo Santos no plano do dia (28/09 → 18/10)
+> Os slots desta grade não usam mais os checklists do SEFAZ-BA: `PY/plano-dia.py` lê
+> `LTM ISS SANTOS/Checklist Santos por bloco.md`, que lista os headings de tópico do edital de Santos e, embaixo de
+> cada um, os tópicos/headings do vault-ba que o cobrem. Só entra no plano o que está lá (nada de ICMS, Penal,
+> Custos, VPL/TIR, governança de TI…), com peso do bloco no edital × `foco` vindo da
+> [[Inteligência de Prova — AFTM Santos 2026]]. Conferir a cobertura: `python3 PY/plano-dia.py --diag-santos`.
+> A partir de 19/10 o script volta sozinho ao comportamento normal.
+>
+> **Troca de 28/09:** sexta S4 passou de Constitucional/Administrativo para **Fiscalização, Simples e Tecnologia
+> Santos** (bloco de 10 pontos que não tinha slot). Constitucional/Administrativo fica 1×/semana (segunda S4).
 
 | Dia     | S2 · 90min                   | S3 · 90min                   | S4 · 60min                                                   | S5 · 90min                    |
 | ------- | ------------------------------ | ------------------------------ | -------------------------------------------------------------- | -------------------------------- |
@@ -33,7 +44,7 @@ Grade padrão: 6h/dia, 42h/semana.
 | Terça   | Legislação Municipal Santos    | Direito Tributário             | Contabilidade Geral e Auditoria Santos                          | Legislação Municipal Santos      |
 | Quarta  | Direito Tributário             | Legislação Municipal Santos    | Contabilidade e Finanças Públicas Santos                        | Direito Tributário               |
 | Quinta  | Legislação Municipal Santos    | Direito Tributário             | Rodízio Santos (RLM/Estatística/Mat. Financeira, Português)     | Legislação Municipal Santos      |
-| Sexta   | Direito Tributário             | Legislação Municipal Santos    | Constitucional/Administrativo Santos                            | Direito Tributário               |
+| Sexta   | Direito Tributário             | Legislação Municipal Santos    | Fiscalização, Simples e Tecnologia Santos                       | Direito Tributário               |
 | Sábado  | Legislação Municipal Santos    | Direito Tributário             | Rodízio Santos (RLM/Estatística/Mat. Financeira, Português)     | Legislação Municipal Santos      |
 | Domingo | Simulado                       | Simulado                       | Correção com caderno de erros — 2h                              | Fechamento de ciclo — 1h         |
 
