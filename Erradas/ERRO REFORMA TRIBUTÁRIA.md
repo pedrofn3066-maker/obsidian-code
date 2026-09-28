@@ -12,10 +12,15 @@ tags:
 
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
-- **Padrão comportamental, não de conteúdo:** no caderno C01 RETRI (23/09/2026), 5 dos 6 erros de "Estrutura Organizacional do CGIBS" foram marcar Errado em item que era cópia literal do art. 27/29/32/41 (competência de órgão) — desconfiança da extensão/detalhe do item, não falta de conteúdo. Item longo e específico sobre competência costuma ser literal, não pegadinha. **Confirmado de novo no caderno C04 RETRI (24/09/2026):** 3 dos 8 erros (split payment, art. 32 § 4º / art. 34, V / art. 55) foram de novo marcar Errado em item literal correto — o padrão não é pontual, é recorrente.
+- **Padrão comportamental, não de conteúdo:** no caderno C01 RETRI (23/09/2026), 5 dos 6 erros de "Estrutura Organizacional do CGIBS" foram marcar Errado em item que era cópia literal do art. 27/29/32/41 (competência de órgão) — desconfiança da extensão/detalhe do item, não falta de conteúdo. Item longo e específico sobre competência costuma ser literal, não pegadinha. **Confirmado de novo no caderno C04 RETRI (24/09/2026):** 3 dos 8 erros (split payment, art. 32 § 4º / art. 34, V / art. 55) foram de novo marcar Errado em item literal correto — o padrão não é pontual, é recorrente. **E de novo no caderno C1 RETRI Guruja (28/09/2026):** 3 dos 5 erros (CBS art. 195, § 18; fornecedor art. 3º, § 2º; split payment art. 31, § 1º-A, II) foram marcar Errado em item que era lei seca literal.
 - Da Estrutura Organizacional do CGIBS (arts. 7º a 39 da LC nº 227/2026) — 6/7 erros do caderno C01 RETRI (23/09/2026) vieram daqui.
 - **Modalidades de Extinção dos Débitos — split payment (arts. 27 a 37):** 4/8 erros do caderno C04 RETRI (24/09/2026). Confusão entre procedimento **padrão** (art. 32, exige identificação e consulta ao sistema) × **simplificado** (art. 33, percentual preestabelecido, e agora com opção automática por omissão — art. 33, § 2º-A, LC 227/2026); e entre **fornecedor** × **adquirente** nos prazos de devolução do excedente (sempre ao fornecedor, em 3 dias úteis).
-- **Não Cumulatividade (arts. 47 a 56):** 3/8 erros do caderno C04 RETRI (24/09/2026). Estorno de crédito por alíquota reduzida (não ocorre — art. 47, § 10 — ao contrário de imunidade/isenção, que anulam créditos pelo art. 51); vedação/exceção de transferência de créditos (art. 55: vedada em regra, exceto sucessão por fusão/cisão/incorporação); e a relação regime regular × diferenciado × Simples Nacional (art. 41: regular compreende diferenciado; art. 47, § 9º: crédito ao comprar de optante do Simples fora do regular).
+- **Não Cumulatividade (arts. 47 a 56):** 3/8 erros do caderno C04 RETRI (24/09/2026). Estorno de crédito por alíquota reduzida (não ocorre — art. 47, § 10 — ao contrário de imunidade/isenção, que anulam créditos pelo art. 51); vedação/exceção de transferência de créditos (art. 55: vedada em regra, exceto sucessão por fusão/cisão/incorporação); e a relação regime regular × diferenciado × Simples Nacional (art. 41: regular compreende diferenciado; art. 47, § 9º: crédito ao comprar de optante do Simples fora do regular). **Reforço no caderno C1 RETRI Guruja (28/09/2026):** trocar imunidade/isenção por alíquota zero (arts. 51 × 52) — imunidade e isenção **anulam** o crédito, alíquota zero **mantém**.
+- **Operacionalização, Importações e Exportações do IBS/CBS (arts. 58 a 83) — 9/9 erros do caderno C05 RETRI Ninja (26/09/2026):** o lote inteiro veio desse subtópico, ainda pouco estudado. Dois problemas de conteúdo distintos, mais o padrão comportamental de sempre:
+  1. **Atualizações da LC 227/2026 não fixadas:** 3 erros (art. 64, § 1º — consumo no País; art. 76, § 3º — pagamento posterior; art. 80, § 1º-A — consumo no exterior) vieram de dispositivos que a LC 227/2026 **alterou ou revogou**. O Pedro respondeu pela redação antiga da LC 214/2025 "pura". Regra prática: em questão sobre "consumo no país/exterior" ou "pagamento posterior na importação", checar se é a redação de 2025 (revogada) ou a de 2026 (vigente) — a nota em `MATERIAS/` já está com a redação atual nesses 3 pontos.
+  2. **Substituição × solidária na importação (arts. 73 e 74):** 1 erro trocou os três agentes de um rol pelo outro — mesma lógica de troca de dois artigos com listas parecidas já vista na Estrutura do CGIBS.
+  3. **Confirma de novo o padrão comportamental:** 5 dos 9 erros (cadastro/NFS-e dos arts. 59 e 62, pagamento do art. 76 caput, habilitação do art. 83) foram marcar Errado em item literal e específico — a mesma desconfiança da extensão do item, agora espalhada por todo o Bloco 4 (Operacionalização/Importação/Exportação), não só a Estrutura do CGIBS.
+- **Livro do ITCMD (arts. 146 a 159 da LC nº 227/2026) — 6/6 erros do caderno C04 RETRI Expert ISS/Santos (28/09/2026):** ponto cego de **conteúdo**, não de comportamento (3 erros marcaram Certo devendo ser Errado, 3 marcaram Errado devendo ser Certo — sem viés de direção). Assunto novo, ainda ausente de `MATERIAS/P2 - Reforma Tributária.md`: imunidade/não incidência (arts. 149-150 — fideicomisso, usufruto), momento do fato gerador (art. 151), base de cálculo em bem financiado/consorciado com ou sem seguro prestamista (art. 153) e competência sobre bens móveis por domicílio, inclusive pluralidade (art. 159).
 
 ---
 
@@ -816,3 +821,540 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Regimes de apuração (arts. 41 a 46)]] e [[P2 - Reforma Tributária#Não cumulatividade: Simples, alíquota reduzida, falência e devolução (art. 47, §§ 9º a 13)]] — os dois artigos já estão no cofre, mas separados; vale, num próximo `/triar-inbox`, acrescentar uma ponte entre eles citando exatamente essa questão (regime regular compreende diferenciado → por isso o diferenciado também se credita pelo § 9º, II).
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:774`, `:816`, `:823`
+
+### 26/09
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3395984) — Cadastro único: compartilhamento obrigatório entre administrações tributárias (art. 59, § 2º)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> As informações cadastrais terão integração, sincronização, cooperação e compartilhamento obrigatório e tempestivo em ambiente nacional de dados entre as administrações tributárias federal, estaduais, distrital e municipais, podendo elas tratar dados complementares e atributos específicos para gestão fiscal do IBS e da CBS.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 59, §§ 2º e 4º
+> > O cadastro único do art. 59 identifica PF (CPF), PJ (CNPJ) e imóveis (CIB). <mark style="background:#fff88f">As informações cadastrais têm compartilhamento obrigatório e tempestivo</mark> entre as administrações tributárias federal, estaduais, distrital e municipais (§ 2º), e cada ente pode tratar dados complementares e atributos específicos de gestão fiscal (§ 4º) — os dois trechos do item são cópia literal, sem troca de palavra.
+>
+> > [!quote]- 📜 Texto literal — art. 59, §§ 2º e 4º
+> > "§ 2º As informações cadastrais terão integração, sincronização, cooperação e compartilhamento obrigatório e tempestivo em ambiente nacional de dados entre as administrações tributárias federal, estaduais, distrital e municipais. (...) § 4º As administrações tributárias federal, estaduais, distrital e municipais poderão tratar dados complementares e atributos específicos para gestão fiscal do IBS e da CBS, observado o disposto no § 2º deste artigo."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Operacionalização: plataforma, cadastro e documento fiscal (arts. 58 a 62)]] — o § 2º já está resumido em negrito nessa nota, mas sem `<mark>`.
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 59) · cofre `MATERIAS/P2 - Reforma Tributária.md:869`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3403248) — NFS-e: obrigação dos Municípios e DF, de 2026 a 2032 (art. 62, §§ 1º e 2º)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> A partir de 1º de janeiro de 2026 até 31 de dezembro de 2032, os Municípios e o Distrito Federal ficam obrigados a compartilhar, além dos documentos fiscais eletrônicos (NFS-e), o conteúdo de outras modalidades de declaração eletrônica, conforme leiaute padronizado definido no regulamento, para o ambiente de dados nacional da NFS-e, devendo tais dados serem imediatamente compartilhados em ambiente nacional.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 62, §§ 1º, II, e 3º
+> > A janela **1º/1/2026 a 31/12/2032** (§§ 1º e 2º) é a mesma que vale para a obrigação de emitir/compartilhar a NFS-e de padrão nacional; dentro dela, Municípios e DF também compartilham <mark style="background:#fff88f">outras declarações eletrônicas em leiaute padronizado</mark> (§ 1º, II) e os dados do ambiente centralizador são <mark style="background:#fff88f">imediatamente compartilhados</mark> (§ 3º). Item longo, mas literal.
+>
+> > [!quote]- 📜 Texto literal — art. 62, §§ 1º, II e 3º
+> > "§ 1º Para fins do disposto no caput deste artigo, os Municípios e o Distrito Federal ficam obrigados, a partir de 1º de janeiro de 2026, a: (...) II - compartilhar o conteúdo de outras modalidades de declaração eletrônica, conforme leiaute padronizado definido no regulamento, para o ambiente de dados nacional da NFS-e. § 2º O disposto no § 1º deste artigo aplica-se até 31 de dezembro de 2032. § 3º Os dados do ambiente centralizador nacional da NFS-e deverão ser imediatamente compartilhados em ambiente nacional nos termos do inciso II do § 1º deste artigo."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Operacionalização: plataforma, cadastro e documento fiscal (arts. 58 a 62)]] — a janela 2026–2032 já está em negrito nessa nota, mas sem `<mark>`.
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 62) · cofre `MATERIAS/P2 - Reforma Tributária.md:872`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · CPCON UEPB (Fiscal de Tributos, Pref. Riacho de Santo Antônio/PB, 2025) — Adaptação de sistemas e NFS-e: quem é obrigado (art. 62)
+> Considere o Texto 02 para responder à questão abaixo.
+>
+> Texto 02 – A Reforma Tributária e o Município de Futurópolis
+>
+> Com a promulgação da Emenda Constitucional nº 132/2023, que institui a Reforma Tributária, o Município de Futurópolis está em fase de adaptação. A reforma criou o Imposto sobre Bens e Serviços (IBS), que substituirá, entre outros, o imposto sobre serviço de qualquer natureza (ISS) municipal. A gestão do IBS será feita por um Comitê Gestor, e os recursos serão distribuídos aos municípios com base no local do consumo (destinação). Posteriormente, foi publicada a Lei Complementar nº 214/2025, que regulamenta a transição e os critérios de repartição do IBS.
+>
+> A Lei Complementar nº 214/2025 trouxe obrigações aos entes federados. Ciente disso, analise os itens a seguir.
+>
+> I - Os Municípios devem adaptar os sistemas autorizadores e aplicativos de emissão simplificada de documentos fiscais vigentes para utilização de leiaute padronizado, que permita aos contribuintes informar os dados relativos ao IBS e à Contribuição sobre Bens e Serviços (CBS), necessários à apuração desses tributos.
+> II - A partir de 1º de janeiro de 2030, os Estados ficam obrigados a autorizar seus contribuintes a emitir a Nota Fiscal de Serviços Eletrônica de padrão nacional (NFS-e) no ambiente nacional ou, na hipótese de possuir emissor próprio, compartilhar os documentos fiscais eletrônicos gerados, conforme leiaute padronizado, para o ambiente de dados nacional da NFS-e.
+> III - A União é obrigada a compartilhar os documentos fiscais eletrônicos, após a recepção, validação e autorização, com o ambiente nacional de uso comum do Comitê Gestor do IBS.
+>
+> É CORRETO o que se afirma em:
+> <mark style="background:#affad1">(A) I e III apenas.</mark>
+> (B) I, II e III.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) I e II apenas</mark>
+> (D) II e III apenas
+> (E) I apenas.
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: I e III literais do art. 62; II erra o ente e o ano
+> > **I certa:** adaptar sistemas ao leiaute padronizado é obrigação de **todos os entes**, inclusive Municípios (art. 62, caput e I). **II errada, em dois pontos:** a obrigação de autorizar a NFS-e de padrão nacional (ou compartilhar do emissor próprio) é dos <mark style="background:#fff88f">Municípios e do Distrito Federal</mark> — não dos Estados — e começa em <span class="g-num">1º/1/2026</span>, não 2030 (art. 62, § 1º). **III certa:** a União também está no rol do caput do art. 62 e compartilha os DF-e com o ambiente nacional (art. 62, II).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca dupla no item II, no mesmo padrão do TEC (idQuestao 3403248 acima): sujeito (Estados em vez de Municípios/DF) e data (2030 em vez de 2026). A obrigação de NFS-e nunca é dos Estados — só de quem tem competência sobre ISS/serviços (Municípios e DF).
+>
+> > [!quote]- 📜 Texto literal — art. 62, caput e § 1º
+> > "Art. 62. Ficam a União, os Estados, o Distrito Federal e os Municípios obrigados a: I - adaptar os sistemas autorizadores e aplicativos de emissão simplificada de documentos fiscais eletrônicos vigentes para utilização de leiaute padronizado (...); e II - compartilhar os documentos fiscais eletrônicos, após a recepção, validação e autorização, com o ambiente nacional de uso comum do Comitê Gestor do IBS (...). § 1º Para fins do disposto no caput deste artigo, os Municípios e o Distrito Federal ficam obrigados, a partir de 1º de janeiro de 2026, a: I - autorizar seus contribuintes a emitir a Nota Fiscal de Serviços Eletrônica de padrão nacional (NFS-e) no ambiente nacional ou, na hipótese de possuir emissor próprio, compartilhar os documentos fiscais eletrônicos gerados (...)."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Operacionalização: plataforma, cadastro e documento fiscal (arts. 58 a 62)]]
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 62) · cofre `MATERIAS/P2 - Reforma Tributária.md:872`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFFE SEFAZ CE 2026, #4042657) — Consumo no País mudou de critério com a LC 227/2026 (art. 64, § 1º)
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> Para fins da caracterização de importação sujeita ao IBS e à CBS, consideram-se consumo no País de bens imateriais e serviços a utilização, a exploração, o aproveitamento, a fruição ou o acesso a esses bens e serviços.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> **Obs.:** dispositivo revogado pela LC 227/2026 — critério antigo (lista de verbos) trocado por regra objetiva de local da operação/domicílio.
+>
+> > [!success] ✅ Resposta — B: o § 1º do art. 64 foi reescrito pela LC 227/2026
+> > A redação **antiga** (a que o item reproduz) dizia que consumo no País era "a utilização, a exploração, o aproveitamento, a fruição ou o acesso" — essa lista de verbos foi **revogada**. Hoje (LC 227/2026), considera-se <mark style="background:#fff88f">consumo no País de serviço ou bem imaterial</mark> o fornecimento por residente/domiciliado no exterior quando: (I) o **local da operação** for no País, pelas regras do art. 11, II a IX; ou (II) nos demais casos, o **adquirente OU o destinatário** tiver residência ou domicílio no País.
+> >
+> > **Por que a mudança faz sentido:** a lista antiga de verbos ("utilização", "fruição", "acesso") era subjetiva e gerava disputa sobre o que cada um significava numa operação digital. A LC 227/2026 trocou por dois critérios objetivos e verificáveis: primeiro tenta o local da operação (regras já usadas para local de exportação/local de operação em geral); se não achar, olha só a residência das partes.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A questão reproduz **letra morta**: um parágrafo que existiu na LC 214/2025 original mas foi revogado pela LC 227/2026. Cuidado com bancas cobrando "conforme a LC 214/2025" sem avisar que o dispositivo mudou — o texto vigente hoje é outro.
+>
+> > [!quote]- 📜 Texto literal — art. 64, § 1º (redação vigente, LC 227/2026)
+> > "§ 1º Considera-se consumo no País de serviço ou de bem imaterial, inclusive direitos, o fornecimento realizado por residente ou domiciliado no exterior: I - cujo local da operação seja no País, nos termos dos incisos II a IX do caput do art. 11 desta Lei Complementar; ou II - em que o adquirente ou o destinatário tenham residência ou domicílio no País, nos demais casos."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Importações: incidência e bens imateriais e serviços (arts. 63 e 64)]] — a nota **já está atualizada** com a redação da LC 227/2026 (linha `:879`); não é preciso corrigir nada lá, só reforçar que a LC 214/2025 "pura" (sem as alterações de 2026) já não vale mais para esse parágrafo.
+> > **Fonte:** comentário do TEC (LC 214/2025 alterada pela LC 227/2026, art. 64) · cofre `MATERIAS/P2 - Reforma Tributária.md:879`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFFE SEFAZ CE 2026, #4042663) — Pagamento posterior na importação: OEA + remessas com RTS, não só OEA (art. 76, § 3º)
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> O regulamento poderá estabelecer hipóteses em que o pagamento do IBS e da CBS na importação de bens materiais ocorra em momento posterior ao da entrega dos bens submetidos a despacho para consumo, exclusivamente para os sujeitos passivos certificados no Programa Brasileiro de Operador Econômico Autorizado.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: a LC 227/2026 acrescentou uma segunda hipótese (RTS)
+> > O item usa "**exclusivamente**" para restringir o pagamento posterior só ao Programa OEA — mas a LC 227/2026 acrescentou uma segunda hipótese: <mark style="background:#fff88f">bens de remessas internacionais em que se tenha aplicado o Regime de Tributação Simplificada (RTS)</mark>. Hoje são duas portas, não uma.
+> >
+> > **Por que isso é coerente:** o RTS já é, por si, um regime simplificado para remessas internacionais de baixo valor (compras internacionais de pessoa física, por exemplo); faz sentido que ele também tenha uma regra própria e mais flexível de momento de pagamento, sem depender da certificação OEA (que é para empresas estruturadas).
+>
+> > [!quote]- 📜 Texto literal — art. 76, § 3º (redação da LC 227/2026)
+> > "§ 3º O regulamento poderá estabelecer hipóteses em que o pagamento do IBS e da CBS possa ocorrer em momento posterior ao definido no caput deste artigo, para os sujeitos passivos certificados no Programa Brasileiro de Operador Econômico Autorizado (Programa OEA) estabelecido na forma da legislação específica e para bens de remessas internacionais em que se tenha aplicado o Regime de Tributação Simplificada (RTS)."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Importação de bens materiais (arts. 65 a 78)]] — a nota **já está atualizada** com OEA + RTS (linha `:892`).
+> > **Fonte:** comentário do TEC (LC 214/2025 alterada pela LC 227/2026, art. 76) · cofre `MATERIAS/P2 - Reforma Tributária.md:892`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3429543) — Pagamento na importação: devido mesmo antes da liberação aduaneira, não é exceção (art. 76, caput)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> O IBS e a CBS devidos na importação de bens materiais deverão ser pagos até a entrega dos bens submetidos a despacho para consumo, exceto se ela ocorrer antes da liberação dos bens pela autoridade aduaneira.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: troca "ainda que" por "exceto se"
+> > O art. 76 diz que o pagamento é devido até a entrega dos bens, <mark style="background:#fff88f">ainda que essa entrega ocorra antes da liberação aduaneira</mark> — ou seja, a antecipação da entrega **não afasta** a obrigação de pagar. O item inverte a conjunção para "exceto se", como se a entrega antecipada **dispensasse** o pagamento. É o oposto do que a lei diz.
+> >
+> > **Por que a regra é essa:** o legislador quis fechar uma brecha — se a entrega física pudesse acontecer antes da liberação formal sem gerar a obrigação de pagar, o contribuinte poderia usar isso para postergar o tributo. Por isso a lei amarra o pagamento à entrega, "ainda que" ela seja antecipada.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca de conjunção ("ainda que" → "exceto se") que inverte o sentido da regra sem tocar no resto da frase — mesma família de erro do "acarretará" → "não acarretará" (art. 47, § 10, já registrado nesta nota em 24/09).
+>
+> > [!quote]- 📜 Texto literal — art. 76, caput
+> > "Art. 76. O IBS e a CBS devidos na importação de bens materiais deverão ser pagos até a entrega dos bens submetidos a despacho para consumo, ainda que esta ocorra antes da liberação dos bens pela autoridade aduaneira."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Importação de bens materiais (arts. 65 a 78)]] — já registrado corretamente ("ainda que antes da liberação aduaneira"), sem `<mark>`.
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 76) · cofre `MATERIAS/P2 - Reforma Tributária.md:892`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRE SEFAZ GO 2025, #3660661) — Responsabilidade na importação: substituição (art. 73) × solidária (art. 74)
+> De acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária, analise o que se pede.
+>
+> No que diz respeito à importação de bens materiais, julgue as alternativas a seguir como verdadeiras (V) ou falsas (F):
+>
+> I. É responsável solidário pelo IBS e pela CBS na importação de bens materiais o beneficiário que der causa ao descumprimento de aplicação de regime aduaneiro suspensivo destinado à industrialização para exportação, no caso de admissão de mercadoria no regime por outro beneficiário, mediante sua anuência, com vistas à execução de etapa da cadeia industrial do produto a ser exportado.
+> II. É responsável solidário pelo IBS e pela CBS na importação de bens materiais o depositário, em relação aos bens procedentes do exterior que se encontrarem sob controle aduaneiro e sob sua custódia, quando constatado o extravio após a conclusão da descarga no local ou recinto alfandegado.
+> III. É responsável pelo IBS e pela CBS na importação de bens materiais, em substituição ao contribuinte, o tomador de serviço ou o contratante de afretamento de embarcação ou aeronave, em contrato internacional, em relação aos bens admitidos em regime aduaneiro especial por terceiro.
+>
+> Assinale a alternativa correta:
+> <mark style="background:#affad1">(A) F, F, F</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) F, V, V</mark>
+> (C) V, V, V
+> (D) V, F, V
+> (E) V, F, F
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: os três itens trocam substituição por solidária (ou o contrário)
+> > **Regra:** o art. 73 lista quem é responsável **em substituição** ao contribuinte; o art. 74 lista quem é responsável **solidário**. As três afirmações trocam a categoria certa pela errada.
+> > **I falsa:** o beneficiário que descumpre o regime suspensivo de industrialização para exportação é responsável **em substituição** (art. 73, IV), não solidário.
+> > **II falsa:** o depositário que deixa extraviar bem sob sua custódia é responsável **em substituição** (art. 73, II), não solidário.
+> > **III falsa:** o tomador de serviço/contratante de afretamento em contrato internacional é responsável **solidário** (art. 74, V), não em substituição.
+> > <mark style="background:#fff88f">As três trocam o tipo de responsabilidade, sem trocar o agente nem a situação descrita</mark> — todas ficam Falsas, resposta A.
+>
+> > [!tip]- 🧩 Quadro — quem é substituição × quem é solidário na importação
+> > | Agente | Situação | Tipo (LC 214/2025) |
+> > | --- | --- | --- |
+> > | Transportador | Extravio até o fim da descarga | Substituição (art. 73, I) |
+> > | Depositário | Extravio após a descarga | Substituição (art. 73, II) |
+> > | Beneficiário de regime aduaneiro especial | Não promoveu a entrada | Substituição (art. 73, III) |
+> > | Beneficiário | Descumprimento do regime suspensivo (industrialização p/ exportação) | Substituição (art. 73, IV) |
+> > | Quem registra DI em nome próprio de bem de terceiro | — | Solidário (art. 74, I) |
+> > | Encomendante predeterminado | — | Solidário (art. 74, II) |
+> > | Tomador de serviço / contratante de afretamento (contrato internacional) | Bens em regime aduaneiro especial por terceiro | Solidário (art. 74, V) |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca não inventa fato novo: pega uma hipótese real do art. 73 ou 74 e só troca "substituição" por "solidário" (ou vice-versa). Decorar o rol dos dois artigos separadamente é a única defesa — não dá para adivinhar pelo "bom senso" qual é qual.
+>
+> > [!quote]- 📜 Texto literal — art. 73, II e IV; art. 74, V
+> > "Art. 73. É responsável pelo IBS e pela CBS na importação de bens materiais, em substituição ao contribuinte: (...) II - o depositário, em relação aos bens procedentes do exterior que se encontrarem sob controle aduaneiro e sob sua custódia, quando constatado o extravio após a conclusão da descarga no local ou recinto alfandegado; (...) IV - o beneficiário que der causa ao descumprimento de aplicação de regime aduaneiro suspensivo destinado à industrialização para exportação, no caso de admissão de mercadoria no regime por outro beneficiário, mediante sua anuência, com vistas à execução de etapa da cadeia industrial do produto a ser exportado. Art. 74. É responsável solidário pelo IBS e pela CBS na importação de bens materiais: (...) V - o tomador de serviço ou o contratante de afretamento de embarcação ou aeronave, em contrato internacional, em relação aos bens admitidos em regime aduaneiro especial por terceiro."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Importação de bens materiais (arts. 65 a 78)]] — os dois rols já estão resumidos na nota (linha `:891`), separados em "Responsável em substituição (art. 73)" e "Solidários (art. 74)", sem `<mark>`.
+> > **Fonte:** comentário do TEC (LC 214/2025, arts. 73 e 74) · cofre `MATERIAS/P2 - Reforma Tributária.md:891`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFFE SEFAZ CE 2026, #4083917) — Exportação de serviços/bens imateriais: consumo no exterior exige adquirente E destinatário lá (art. 80, § 1º-A)
+> De acordo com a Lei Complementar nº 214/2025, com as alterações promovidas pela Lei Complementar nº 227/2026, no que diz respeito ao tratamento do IBS e da CBS nas exportações de serviços e de bens imateriais, inclusive direitos, assinale a alternativa INCORRETA:
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Nas operações sujeitas a critério específico de localização, considera-se consumo no exterior quando o local da operação não estiver situado no País.</mark>
+> <mark style="background:#affad1">(B) Caso o fornecedor nacional não consiga identificar o local do consumo pelas condições e características do fornecimento, será suficiente que o adquirente seja residente ou domiciliado no exterior para que o consumo seja considerado ocorrido no exterior, ainda que o destinatário resida no Brasil.</mark>
+> (C) Pode ser considerada exportação a prestação de serviço para residente ou domiciliado no exterior relacionada a bem móvel que ingresse no País para a execução do serviço e retorne ao exterior após sua conclusão, observado o prazo regulamentar.
+> (D) A instalação e a montagem de mercadorias exportadas, bem como o treinamento para sua utilização, podem ser considerados exportações, desde que vinculados direta e exclusivamente à exportação de bens materiais ou associados à sua entrega no exterior.
+> (E) Havendo fornecimento concomitante no território nacional e no exterior, somente a parcela cuja execução ou consumo ocorrer no exterior será considerada exportação.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B (incorreta): exige adquirente E destinatário no exterior, não só o adquirente
+> > A questão pede a alternativa **incorreta**. A (B) está errada porque, nos casos **não** submetidos a critério específico de localização, a LC 227/2026 exige que <mark style="background:#fff88f">o adquirente E o destinatário</mark> sejam residentes ou domiciliados no exterior (art. 80, § 1º-A, II) — não basta o adquirente, e se o destinatário mora no Brasil o consumo não é considerado no exterior. A regra da "presunção pela impossibilidade de identificar o consumo" que a (B) descreve também **não existe mais**: era o antigo § 2º, revogado pela LC 227/2026.
+> >
+> > As demais (A, C, D, E) são literais e corretas: (A) local da operação fora do País = consumo no exterior nos critérios específicos (art. 11, II a IX); (C) bem móvel que entra, é usado no serviço e volta, dentro do prazo regulamentar, conta como exportação (art. 80, § 1º, I, "b"); (D) instalação/montagem/treinamento vinculados à exportação de bens materiais também contam (art. 80, § 1º, II); (E) fornecimento simultâneo País/exterior — só a parcela do exterior é exportação (art. 80, § 5º).
+>
+> > [!tip]- 🧩 Quadro — consumo no exterior × consumo no País (LC 227/2026), a diferença que a banca explora
+> > | | Consumo no exterior (exportação, art. 80) | Consumo no País (importação, art. 64) |
+> > | --- | --- | --- |
+> > | Critério específico de localização (art. 11, II a IX) | Local da operação **fora** do País | Local da operação **no** País |
+> > | Critério residual (nos demais casos) | Adquirente **E** destinatário no exterior | Adquirente **OU** destinatário no País |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca usa uma regra **revogada** (presunção pelo domicílio do adquirente, quando não dá para identificar o consumo) e troca o conectivo do critério residual — "E" (os dois de fora) por "basta um" (só o adquirente) — no mesmo movimento que fez com a importação (art. 64, questão #4042657 acima). É a mesma atualização da LC 227/2026, dos dois lados da operação (entra/sai).
+>
+> > [!quote]- 📜 Texto literal — art. 80, § 1º-A (redação da LC 227/2026)
+> > "§ 1º-A. Considera-se consumo no exterior de serviço ou de bem imaterial, inclusive direitos, o fornecimento: I - cujo local da operação não seja no País, nos termos dos incisos II a IX do caput do art. 11 desta Lei Complementar; ou II - em que o adquirente e o destinatário sejam residentes ou domiciliados no exterior, nos demais casos."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Exportações (arts. 79 a 83)]] — a nota **já está atualizada** com "adquirente e destinatário" (linha `:899`); o § 2º revogado não está mais lá, o que está certo.
+> > **Fonte:** comentário do TEC (LC 214/2025 alterada pela LC 227/2026, art. 80) · cofre `MATERIAS/P2 - Reforma Tributária.md:899`
+
+> [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3411500) — Cancelamento da habilitação de empresa comercial exportadora: rito literal (art. 83)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> O cancelamento da habilitação da empresa comercial exportadora realizada por meio de ato conjunto do Comitê Gestor do IBS e da RFB será realizado pela autoridade fiscal da RFB ou da administração tributária estadual, distrital ou municipal de domicílio da empresa comercial exportadora. O processo de cancelamento será instruído com termo de constatação, e a empresa comercial exportadora será intimada a se regularizar ou a apresentar impugnação no prazo de 30 dias úteis, contado da data da ciência da intimação.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: item literal do art. 83, §§ 1º e 2º
+> > A habilitação da comercial exportadora é feita por ato conjunto CGIBS + RFB (art. 82, § 1º), mas o **cancelamento** é ato de uma autoridade só — <mark style="background:#fff88f">a da RFB ou a da administração tributária estadual, distrital ou municipal do domicílio da empresa</mark> (art. 83, § 1º) — e segue rito com termo de constatação e <span class="g-prazo">30 dias úteis</span> para regularização ou impugnação (§ 2º). Item longo e específico, mas 100% literal.
+> >
+> > **Por que não confundir com a habilitação:** habilitar exige o "ato conjunto" porque cria um benefício (suspensão de tributo) que afeta todos os entes; cancelar é mais simples — qualquer autoridade fiscal com competência sobre o domicílio da empresa pode iniciar o processo, sem precisar de decisão conjunta.
+>
+> > [!quote]- 📜 Texto literal — art. 83, §§ 1º e 2º
+> > "§ 1º O cancelamento da habilitação será realizado pela autoridade fiscal da RFB ou da administração tributária estadual, distrital ou municipal de domicílio da empresa comercial exportadora. § 2º Nas hipóteses previstas no caput deste artigo, será aberto processo de cancelamento da habilitação, instruído com termo de constatação, e a empresa comercial exportadora será intimada a se regularizar ou a apresentar impugnação no prazo de 30 (trinta) dias úteis, contado da data da ciência da intimação."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Exportações (arts. 79 a 83)]] — os 30 dias úteis já estão com `<mark>` nessa nota (linha `:906`).
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 83) · cofre `MATERIAS/P2 - Reforma Tributária.md:906`
+
+### 28/09
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #4046952) — ITCMD: vedação total de distribuição de lucro por entidade sem fins lucrativos (art. 147)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> As instituições sem fins lucrativos que se dedicam à promoção de direitos fundamentais e políticas sociais podem gozar de benefícios tributários, desde que sua distribuição de lucros aos mantenedores seja limitada ao percentual de 5% do superávit anual.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — Errado: a vedação é total, não um percentual de 5%
+> > O art. 147, VII, da LC 227/2026 exige que a instituição <mark style="background:#fff88f">não efetue distribuição de lucro a qualquer título</mark> para ser considerada "sem fins lucrativos com finalidade de relevância pública e social". Não existe "meio lucro": um único real do superávit que vá para sócio, diretor ou mantenedor já tira a natureza especial da entidade perante o ITCMD. Todo o recurso deve ser reinvestido na promoção dos direitos dos arts. 5º, 6º e Título VIII da CF.
+> >
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca a vedação absoluta por um percentual que soa razoável (5% do superávit) — em benefício/imunidade tributária, "sem fins lucrativos" nunca admite grau: é tudo ou nada.
+>
+> > [!quote]- 📜 Texto literal — art. 147, VII, LC 227/2026
+> > "VII - instituições sem fins lucrativos com finalidade de relevância pública e social: aquelas que não efetuam distribuição de lucro a qualquer título e que se dedicam à promoção dos direitos fundamentais e das políticas sociais e ambientais previstos, respectivamente, nos arts. 5º e 6º e no Título VIII da Constituição Federal;"
+>
+> > [!info] 🔗 Na matéria
+> > Não está no cofre — `MATERIAS/P2 - Reforma Tributária.md` ainda não cobre o Livro do ITCMD da LC 227/2026 (arts. 146 a 159).
+> > **Fonte:** comentário do TEC (LC 227/2026, art. 147)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #4046972) — ITCMD: extinção do fideicomisso é sempre não incidência, para qualquer lado (art. 150, IV)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> A extinção do fideicomisso é hipótese de não incidência do ITCMD, aplicando-se essa regra independentemente de a consolidação da propriedade reverter-se em proveito do fiduciário ou do fideicomissário.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — Certo: não incide na extinção, seja para o fiduciário, seja para o fideicomissário
+> > No fideicomisso, o ITCMD já incidiu no **Momento 1** (transmissão causa mortis do fideicomitente ao fiduciário). O art. 150, IV, blinda o **Momento 2** — a extinção/consolidação — <mark style="background:#fff88f">independentemente de o bem ficar com o fiduciário ou passar ao fideicomissário</mark>: cobrar de novo seria tributar duas vezes a mesma vontade do falecido.
+>
+> > [!tip]- 🧩 Quadro — os dois momentos fiscais do fideicomisso
+> > | Momento | O que acontece | ITCMD |
+> > | --- | --- | --- |
+> > | 1. Instituição | Fideicomitente morre; bens vão ao fiduciário | Incide (causa mortis) |
+> > | 2. Extinção/consolidação | Fiduciário sai; bem fica com fiduciário **ou** vai ao fideicomissário | Não incide (art. 150, IV) |
+>
+> > [!quote]- 📜 Texto literal — art. 150, IV, LC 227/2026
+> > "IV - sobre a extinção do fideicomisso, independentemente de a consolidação da propriedade reverter-se em proveito do fiduciário ou do fideicomissário;"
+>
+> > [!info] 🔗 Na matéria
+> > Não está no cofre — `MATERIAS/P2 - Reforma Tributária.md` ainda não cobre o Livro do ITCMD da LC 227/2026 (arts. 146 a 159).
+> > **Fonte:** comentário do TEC (LC 227/2026, art. 150, IV)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #4056182) — ITCMD: fato gerador na instituição do usufruto convencional (art. 151, II, "c")
+> Julgue o item a seguir de acordo com a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Considera-se ocorrido o fato gerador do ITCMD na data da instituição de usufruto convencional ou de qualquer outro direito real de fruição sobre bens móveis ou imóveis.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — Certo: a instituição do usufruto é doação, e o fato gerador nasce nessa data
+> > O usufruto convencional nasce da vontade das partes (contrato ou testamento), diferente do legal (ex.: pais sobre bens de filho menor). <mark style="background:#fff88f">Instituir esse direito é uma transmissão gratuita com valor econômico</mark> — o dono doa apenas o uso e a fruição — e o fato gerador ocorre na data dessa instituição (art. 151, II, "c").
+> >
+> > [!tip] 💡 Macete
+> > Instituir usufruto = fato gerador (doação, art. 151, II, "c"); **extinguir** usufruto = não incidência (art. 150, II) — o imposto pega a entrada, nunca a saída.
+>
+> > [!quote]- 📜 Texto literal — art. 151, II, "c", LC 227/2026
+> > "II - da transmissão por doação, na data: [...] c) da instituição de usufruto convencional ou de qualquer outro direito real;"
+>
+> > [!info] 🔗 Na matéria
+> > Não está no cofre — `MATERIAS/P2 - Reforma Tributária.md` ainda não cobre o Livro do ITCMD da LC 227/2026 (arts. 146 a 159).
+> > **Fonte:** comentário do TEC (LC 227/2026, art. 151, II, "c")
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #4056190) — ITCMD: com seguro prestamista, base de cálculo é o valor cheio do bem (art. 153, I)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Na transmissão causa mortis de um veículo adquirido por meio de consórcio que conte com seguro prestamista, a base de cálculo do ITCMD será o valor de mercado do bem subtraído o saldo devedor que foi quitado pela seguradora.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — Errado: com seguro prestamista, a base é o valor **integral** do bem, sem subtrair nada
+> > O seguro prestamista já quita o saldo devedor perante o banco quando o segurado morre — os herdeiros recebem o bem 100% quitado. Como a dívida some por conta do seguro, <mark style="background:#fff88f">a base de cálculo é o valor do bem acobertado por seguro prestamista</mark> (art. 153, I), sem qualquer dedução. A subtração do saldo devedor só se aplica quando **não há** seguro prestamista (inciso II).
+>
+> > [!tip]- 🧩 Quadro — bem financiado/consórcio: com ou sem seguro prestamista (art. 153)
+> > | Situação | Base de cálculo | Exemplo (bem R$ 80.000, saldo R$ 30.000) |
+> > | --- | --- | --- |
+> > | Com seguro prestamista (inciso I) | Valor integral do bem | R$ 80.000 |
+> > | Sem seguro prestamista (inciso II) | Valor de mercado − saldo devedor a valor presente | R$ 80.000 − R$ 30.000 = R$ 50.000 |
+>
+> > [!quote]- 📜 Texto literal — art. 153, LC 227/2026
+> > "Art. 153. Na transmissão de bens móveis ou imóveis financiados ou adquiridos na modalidade de consórcios, considera-se como base de cálculo: I - o valor do bem acobertado por seguro prestamista; ou II - o valor de mercado do bem, subtraído o valor presente do saldo devedor do financiamento ou consórcio, nas hipóteses distintas da prevista no inciso I do caput deste artigo."
+>
+> > [!info] 🔗 Na matéria
+> > Não está no cofre — `MATERIAS/P2 - Reforma Tributária.md` ainda não cobre o Livro do ITCMD da LC 227/2026 (arts. 146 a 159).
+> > **Fonte:** comentário do TEC (LC 227/2026, art. 153, I)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #4056191) — ITCMD: sem seguro prestamista, base de cálculo desconta o saldo devedor (art. 153, II)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Caso um imóvel financiado seja transmitido sem a cobertura de seguro prestamista, a base de cálculo do ITCMD deverá corresponder ao valor de mercado do referido bem, deduzindo-se o valor presente do saldo devedor do financiamento.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — Certo: sem seguro prestamista, desconta-se o saldo devedor a valor presente
+> > Item complementar ao anterior (#4056190, mesmo caderno): sem seguro prestamista, o bem vai para o inventário **com a dívida junto** — os herdeiros herdam o imóvel e a obrigação das parcelas restantes. Por isso a lei abate: <mark style="background:#fff88f">valor de mercado do bem, subtraído o valor presente do saldo devedor</mark> (art. 153, II).
+>
+> > [!quote]- 📜 Texto literal — art. 153, II, LC 227/2026
+> > "II - o valor de mercado do bem, subtraído o valor presente do saldo devedor do financiamento ou consórcio, nas hipóteses distintas da prevista no inciso I do caput deste artigo."
+>
+> > [!info] 🔗 Na matéria
+> > Não está no cofre — `MATERIAS/P2 - Reforma Tributária.md` ainda não cobre o Livro do ITCMD da LC 227/2026 (arts. 146 a 159).
+> > **Fonte:** comentário do TEC (LC 227/2026, art. 153, II)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #4059397) — ITCMD sobre bens móveis: pluralidade de domicílio se resolve pela declaração de IR (art. 159, § 2º)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
+>
+> Caso o falecido possua mais de um domicílio, a legislação estabelece que a competência para o ITCMD sobre bens móveis será definida pelo Estado onde se localizarem fisicamente os ativos na data do óbito.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — Errado: pluralidade de domicílio se resolve pela DIRPF, não pela localização física do bem
+> > Para bens móveis, a competência do ITCMD segue o **domicílio das pessoas** (do de cujus, do doador, do herdeiro ou do donatário — art. 159, I e II), não o local físico do ativo — isso só vale no caso residual do inciso III (transmitente e recebedor ambos no exterior). Havendo pluralidade de domicílio, <mark style="background:#fff88f">presume-se como domicílio o informado na declaração de rendimentos (IRPF)</mark> entregue à Receita Federal (art. 159, § 2º).
+> >
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca o critério pessoal (domicílio da pessoa, regra geral para bens móveis) pelo critério físico/territorial (que só vale para imóveis, art. 158, e para o caso residual do art. 159, III).
+>
+> > [!quote]- 📜 Texto literal — art. 159, § 2º, LC 227/2026
+> > "§ 2º Presumir-se-á como domicílio o informado na declaração de rendimentos de que trata o caput do art. 7º da Lei nº 9.250, de 26 de dezembro de 1995, no caso de as pessoas mencionadas nos incisos do caput deste artigo possuírem mais de um domicílio."
+>
+> > [!info] 🔗 Na matéria
+> > Não está no cofre — `MATERIAS/P2 - Reforma Tributária.md` ainda não cobre o Livro do ITCMD da LC 227/2026 (arts. 146 a 159).
+> > **Fonte:** comentário do TEC (LC 227/2026, art. 159, §§ 1º-2º)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · FCC (Pref. Barueri, 2026) — COSIP: cobrança só no exercício seguinte (art. 149-A c/c art. 150, I e III)
+> De acordo com a Constituição Federal, os municípios poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos. De acordo com a citada Constituição, se a contribuição para o custeio, a expansão e a melhoria do serviço de
+>
+> (A) iluminação for instituída em determinado exercício, a contribuição para o custeio, a expansão e a melhoria do serviço de monitoramento para segurança e preservação de logradouros públicos não poderá ser instituída no mesmo exercício, pelo mesmo município.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) monitoramento para segurança e preservação de logradouros públicos for instituída, por decreto, em fevereiro de 2026, ela só poderá ser cobrada no exercício de 2027.</mark>
+> (C) iluminação pública for instituída, por lei, em fevereiro de 2026, ela poderá ser cobrada neste mesmo exercício, observado o princípio da anterioridade nonagesimal.
+> (D) monitoramento para segurança e preservação de logradouros públicos for instituída por determinado município, é vedado a este município instituir contribuição para o custeio, a expansão e a melhoria do serviço de iluminação.
+> <mark style="background:#affad1">(E) iluminação pública for instituída, por lei, em fevereiro de 2026, ela só poderá ser cobrada no exercício de 2027.</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — E: lei em fev/2026, cobrança só em 2027
+> > O art. 149-A manda observar o <mark style="background:#fff88f">art. 150, I e III</mark>: a COSIP exige <span class="g-comp">lei</span> (legalidade) e respeita a <span class="g-prazo">anterioridade anual</span> (III, "b": não cobra no mesmo exercício da publicação) e a <span class="g-prazo">nonagesimal</span> (III, "c": 90 dias). Publicada em fev/2026, só se cobra a partir de 01/01/2027.
+> >
+> > **(A)** inventa proibição de instituir as duas no mesmo exercício. **(B)** o prazo (2027) está certo, mas o instrumento é <span class="g-comp">decreto</span> — tributo só nasce por lei. **(C)** diz que cobra no mesmo exercício; a anterioridade anual proíbe. **(D)** inventa exclusividade: o art. 149-A autoriza iluminação **e** monitoramento.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A alternativa B acerta o dado que o candidato procura (2027) e troca só o instrumento (decreto no lugar de lei). Em alternativa que acerta o prazo, confira o resto da frase antes de marcar.
+>
+> > [!quote]- 📜 Texto literal — art. 149-A, CF
+> > "Art. 149-A. Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos, observado o disposto no <span class="g-comp">art. 150, I e III</span>."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Contribuições e Administração Pública (arts. 149-A, 149-B e 149-C)|Contribuições e Administração Pública (arts. 149-A, 149-B e 149-C)]] — o art. 149-A está lá (com a ampliação do EC 132 ao monitoramento), sem grifar agora o "observado o art. 150, I e III".
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:240` · TEC #3906957 · comentário do TEC (CF, arts. 149-A e 150)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · FGV (Pref. Cuiabá, 2024) — CBS: competência federal, alíquota em lei ordinária e devolução a pessoas físicas (art. 195, V e §§ 15 e 18)
+> Acerca da nova Contribuição sobre Bens e Serviços (CBS), inserida na Constituição Federal de 1988 pela Emenda Constitucional nº 132/2023, julgue as afirmativas abaixo:
+>
+> **I**. Será de competência compartilhada entre União, Estados, Distrito Federal e Municípios.
+> **II**. Poderá ter sua alíquota fixada em lei ordinária.
+> **III**. Lei estabelecerá as hipóteses de devolução da CBS a pessoas físicas, inclusive em relação a limites e beneficiários, com o objetivo de reduzir as desigualdades de renda.
+>
+> Está correto o que se afirma em
+>
+> (A) **I**, apenas.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) **II**, apenas.</mark>
+> (C) **III**, apenas.
+> (D) **I e II**, apenas.
+> <mark style="background:#affad1">(E) **II e III**, apenas.</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — E: II e III corretas
+> > **I** errada: a CBS é contribuição de competência da <span class="g-comp">União</span> (art. 195, V); quem tem competência compartilhada é o IBS. **II** certa: <mark style="background:#fff88f">alíquota da CBS por lei ordinária</mark> (art. 195, § 15). **III** certa: lei estabelece a <mark style="background:#fff88f">devolução da CBS a pessoas físicas</mark> para reduzir desigualdades de renda (art. 195, § 18).
+> >
+> > Erro por item literal: o III é cópia do § 18. Só o II foi marcado; o III foi tratado como pegadinha.
+>
+> > [!quote]- 📜 Texto literal — art. 195, §§ 15 e 18, CF
+> > "§ 15. A contribuição prevista no inciso V do caput poderá ter sua alíquota fixada em <span class="g-comp">lei ordinária</span>."
+> > "§ 18. Lei estabelecerá as hipóteses de devolução da contribuição prevista no inciso V do caput a pessoas físicas, inclusive em relação a limites e beneficiários, com o objetivo de reduzir as desigualdades de renda."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#CBS (art. 195, V e §§ 15 a 18)|CBS (art. 195, V e §§ 15 a 18)]] — já estava grifado (§ 15 "lei ordinária" e § 18 "devolução da CBS a pessoas físicas").
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:397` e `:400` · TEC #3195401 · comentário do TEC (CF, art. 195)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor SEFAZ PR 2025, #3252605) — Conceito de fornecedor, inclusive entes sem personalidade jurídica (art. 3º, III e § 2º)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> Para fins desta Lei Complementar, considera-se fornecedor a pessoa física ou jurídica que, residente ou domiciliado no País ou no exterior, realiza o fornecimento. Além disso, esse conceito abarca também as entidades sem personalidade jurídica, incluindo sociedade em comum, sociedade em conta de participação, consórcio, condomínio e fundo de investimento.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — Certo: cópia do art. 3º, III, com o § 2º
+> > O item junta o inciso III (fornecedor é <mark style="background:#fff88f">pessoa física ou jurídica, residente ou domiciliada no País ou no exterior</mark>, que realiza o fornecimento) ao § 2º (incluem-se as entidades <span class="g-cond">sem personalidade jurídica</span>: sociedade em comum, sociedade em conta de participação, consórcio, condomínio e fundo de investimento).
+> >
+> > Sem troca de dado: é a lei seca em duas frases. Errado marcado por desconfiança do item longo.
+>
+> > [!quote]- 📜 Texto literal — art. 3º, III e § 2º, LC 214/2025
+> > "III - fornecedor: pessoa física ou jurídica que, residente ou domiciliado no País ou no exterior, realiza o fornecimento;"
+> > "§ 2º Incluem-se no conceito de fornecedor de que trata o inciso III do caput deste artigo as entidades sem personalidade jurídica, incluindo sociedade em comum, sociedade em conta de participação, consórcio, condomínio e fundo de investimento."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Neutralidade e definições (LC 214, arts. 2º e 3º)|Neutralidade e definições (LC 214, arts. 2º e 3º)]] — o § 2º já está lá (entidades sem personalidade jurídica no conceito de fornecedor); sem grifar agora.
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:445` · TEC #3252605 · comentário do TEC (LC 214/2025, art. 3º)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor SEFAZ CE 2026, #4042639) — Split payment: transação iniciada pelo recebedor (art. 31, § 1º-A, II, redação da LC 227/2026)
+> Julgue o item a seguir com base na Lei Complementar nº 214/2025, que Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> Considera-se transação de pagamento iniciada pelo recebedor aquela originada por meio de instrução ou instrumento emitido pelo recebedor dos recursos, que define o valor do pagamento, cabendo ao pagador apenas efetivar o pagamento, ainda que parcial.
+>
+> <mark style="background:#affad1">(A) Certo</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(B) Errado</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — Certo: reproduz o art. 31, § 1º-A, II
+> > Transação <mark style="background:#fff88f">iniciada pelo recebedor</mark>: o recebedor emite a instrução ou instrumento e <span class="g-cond">define o valor</span>; o pagador <span class="g-cond">só efetiva o pagamento, ainda que parcial</span>. Exemplo do TEC: cobrança por PIX com valor já definido, que o cliente só lê e paga. Na iniciada pelo **pagador** (III), é ele quem define o valor, sem intervenção prévia do recebedor no arranjo.
+>
+> > [!example]- 🧩 Quadro — quem origina a transação (art. 31, § 1º-A)
+> > | Inciso | Conceito | Quem define o valor |
+> > | --- | --- | --- |
+> > | I — originador | quem inicia a transação junto ao arranjo (pagador ou recebedor) | — |
+> > | II — iniciada pelo recebedor | instrução/instrumento emitido pelo recebedor | o recebedor; o pagador só efetiva, ainda que parcial |
+> > | III — iniciada pelo pagador | originada pelo pagador | o pagador, sem intervenção prévia do recebedor |
+>
+> > [!quote]- 📜 Texto literal — art. 31, § 1º-A, II, LC 214/2025 (LC 227/2026)
+> > "II - transações de pagamento iniciadas pelo recebedor aquelas originadas por meio de instrução ou instrumento emitido pelo recebedor dos recursos, que define o valor do pagamento, cabendo ao pagador apenas efetivar o pagamento, ainda que parcial;"
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Split payment (arts. 31 a 35)|Split payment (arts. 31 a 35)]] — o § 1º-A está lá; já estava no cofre (sem grifar agora).
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:710` · TEC #4042639 · comentário do TEC (LC 214/2025, art. 31, redação da LC 227/2026)
+
+> [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · CEBRASPE (SEFAZ SE, 2025) — Não cumulatividade: imunidade/isenção anulam crédito; alíquota zero mantém (arts. 51 e 52) e mesmas regras para IBS e CBS (art. 149-B, IV, CF)
+> No que diz respeito à não cumulatividade do IBS e da contribuição social sobre bens e serviços (CBS), assinale a opção **correta**.
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) A imunidade e a isenção acarretam os mesmos efeitos que a alíquota zero sobre os créditos do IBS e da CBS nas operações anteriores.</mark>
+> (B) É possível a compensação de créditos de IBS com valores devidos de CBS.
+> (C) É possível a compensação do tributo devido com o montante cobrado nas operações anteriores de aquisição de bens, direitos e serviços, inclusive as consideradas de uso e consumo pessoal especificadas em lei complementar.
+> <mark style="background:#affad1">(D) O IBS e a CBS devem observar as mesmas regras de não cumulatividade e creditamento.</mark>
+> (E) Não se admite o crédito integral e imediato do tributo pago sobre as aquisições de bens de capital.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D: IBS e CBS seguem as mesmas regras de não cumulatividade e creditamento
+> > O <mark style="background:#fff88f">art. 149-B, IV, da CF</mark> manda IBS e CBS observarem as mesmas regras de <span class="g-cond">não cumulatividade e creditamento</span>.
+> >
+> > **(A)** <span class="g-cond">imunidade e isenção anulam</span> créditos anteriores, na proporção das operações imunes/isentas (art. 51); <span class="g-cond">alíquota zero mantém</span> (art. 52). **(B)** compensação cruzada é vedada (art. 47, § 1º, I). **(C)** uso e consumo pessoal não gera crédito (arts. 47 e 57). **(E)** o crédito de bens de capital é <span class="g-cond">integral e imediato</span> (art. 108).
+>
+> > [!example]- 🧩 Quadro — efeito da saída sobre os créditos das entradas
+> > | Saída | Créditos das operações anteriores | Base |
+> > | --- | --- | --- |
+> > | Imunidade ou isenção | anulados, na proporção sobre o total das operações | art. 51, caput e § 1º |
+> > | Exportação; livros, jornais e periódicos; radiodifusão livre e gratuita | não se anulam (exceção ao art. 51) | art. 51, § 2º |
+> > | Alíquota zero | mantidos | art. 52 |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Equipara três institutos que a lei separa: imunidade, isenção e alíquota zero. O par imunidade/isenção anula crédito e a alíquota zero mantém. Só as exceções do § 2º do art. 51 (exportação, livros, radiodifusão) se comportam como alíquota zero.
+>
+> > [!tip] 💡 Macete
+> > Imunidade e isenção **cortam** o crédito; alíquota zero **preserva**.
+>
+> > [!quote]- 📜 Texto literal — arts. 51 e 52, LC 214/2025
+> > "Art. 51. A imunidade e a isenção acarretarão a <span class="g-cond">anulação dos créditos</span> relativos às operações anteriores. § 1º A anulação dos créditos de que trata o caput deste artigo será <span class="g-cond">proporcional</span> ao valor das operações imunes e isentas sobre o valor de todas as operações do fornecedor. § 2º O disposto no caput e no § 1º deste artigo não se aplica às: I - exportações; e II - operações de que tratam os incisos IV e VI do caput do art. 9º desta Lei Complementar."
+> > "Art. 52. No caso de operações sujeitas a alíquota zero, serão <span class="g-cond">mantidos os créditos</span> relativos às operações anteriores."
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Não cumulatividade: dispensa da extinção, vedações e efeitos (arts. 48 a 52)|Não cumulatividade: dispensa da extinção, vedações e efeitos (arts. 48 a 52)]] — arts. 51 e 52 já estavam no cofre; art. 52 já com "mantêm-se" grifado. Art. 149-B, IV: [[P2 - Reforma Tributária#Contribuições e Administração Pública (arts. 149-A, 149-B e 149-C)|Contribuições e Administração Pública]].
+> > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:836` · TEC #3641748 · comentário do TEC (LC 214/2025, arts. 47, 51, 52, 57 e 108; CF, art. 149-B)
