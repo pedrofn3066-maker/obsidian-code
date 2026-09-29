@@ -1855,11 +1855,11 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 
 **Capacidade contributiva (§ 1º):** literalidade "sempre que possível" — não é cláusula meramente programática para o STF: RE 562.045 fixou que **todos os impostos**, e não só os pessoais, sujeitam-se ao princípio, inclusive os classificados como reais (ex.: ITCMD progressivo).
 
-> [!quote]- Texto literal: art. 146, caput e incisos (Planalto)
+> [!quote]- Texto literal: art. 146, caput e incisos (Planalto; alíneas "c" e "d" do inciso III conforme o texto do Senado, ed. 2026, p. 87)
 > Art. 146. Cabe à lei complementar:
 > I - dispor sobre conflitos de competência, em matéria tributária, entre a União, os Estados, o Distrito Federal e os Municípios;
 > II - regular as limitações constitucionais ao poder de tributar;
-> III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre: a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes; b) obrigação, lançamento, crédito, prescrição e decadência tributários; c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas; d) definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte.
+> III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre: a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes; b) obrigação, lançamento, crédito, prescrição e decadência tributários; c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas, inclusive em relação aos tributos previstos nos arts. 156-A e 195, V; d) definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos impostos previstos nos arts. 155, II, e 156-A, das contribuições sociais previstas no art. 195, I e V, e § 12 e da contribuição a que se refere o art. 239.
 
 > [!tip]- Lupa: a tríplice função da lei complementar tributária
 > **A ideia em uma frase:** o art. 146 dá à LC **três papéis diferentes**, e a banca gosta de testar se você sabe separá-los: (I) **árbitro** de conflitos de competência entre entes; (II) **regulamentador** das limitações ao poder de tributar (não cria limitação nova, só regula as que a CF já traçou); (III) **uniformizador** de normas gerais (é o papel do CTN, recepcionado como LC). O art. 146-A soma um quarto papel possível: critérios especiais de tributação para **prevenir desequilíbrios da concorrência**.
@@ -2030,7 +2030,7 @@ III - **a forma e o prazo para ressarcimento de créditos acumulados pelo c
 > | --- | --- | --- | --- |
 > | **União** | IR retido na fonte pago por Estados/Municípios (art. 157, I / 158, I) | Estado ou Município que pagou | 100% (não é bem "repartição", é receita própria de quem retém) |
 > | **União** | ITR (art. 158, II) | Município da situação do imóvel | 50% (ou 100% se o Município fiscalizar e cobrar por opção, art. 153, § 4º, III) |
-> | **União** | IR + IPI + Imposto Seletivo (art. 159, I) | FPE (Fundo de Participação dos Estados/DF) + FPM (Fundo de Participação dos Municípios) + Regiões N/NE/CO | 50% do total: 21,5% FPE · 22,5% FPM · 3% programas regionais · 1% FPM (dezembro) · 1% FPM (setembro) |
+> | **União** | IR + IPI + Imposto Seletivo (art. 159, I) | FPE (Fundo de Participação dos Estados/DF) + FPM (Fundo de Participação dos Municípios) + Regiões N/NE/CO | 50% do total: 21,5% FPE · 22,5% FPM · 3% programas regionais · 1% FPM (dezembro) · 1% FPM (julho) · 1% FPM (setembro) |
 > | **União** | IPI + Imposto Seletivo, proporcional às exportações (art. 159, II) | Estados/DF exportadores | 10% |
 > | **União** | CIDE-combustíveis (art. 159, III) | Estados/DF | 29% |
 > | **União** | Fundo Nacional de Desenvolvimento Regional — FNDR (art. 159-A, EC 132/2023) | Estados/DF | por coeficiente: 30% população + 70% coeficiente do FPE (calculado pelo **TCU**) |

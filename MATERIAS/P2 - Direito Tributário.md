@@ -100,6 +100,20 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5886?ind
 
 <mark style="background:#fff88f">O CTN adota a teoria tripartida; a CF/88 ampliou para cinco espécies.</mark>
 
+*(CF/88, ed. Senado 2026, p. 87)*
+
+O art. 145 diz que a União, os Estados, o DF e os Municípios <mark style="background:#fff88f">poderão instituir</mark> três tributos: **impostos**; **taxas** (pelo exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição); e **contribuição de melhoria**, decorrente de obras públicas. O empréstimo compulsório e as contribuições especiais estão nos arts. 148 e 149, fora desse rol.
+
+- **§ 1º:** <mark style="background:#fff88f">sempre que possível</mark>, os impostos terão caráter pessoal e serão graduados segundo a capacidade econômica do contribuinte; a administração tributária pode identificar o patrimônio, os rendimentos e as atividades econômicas do contribuinte, respeitados os direitos individuais e nos termos da lei.
+- **§ 2º:** as taxas <mark style="background:#fff88f">não poderão ter base de cálculo própria de impostos</mark>.
+- **§§ 3º e 4º:** princípios do Sistema Tributário Nacional e atenuação de efeitos regressivos (texto no bloco de EC 132, ver Ponte).
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)]]: texto literal do art. 145 (caput e §§ 1º a 4º) e a lupa da teoria pentapartite (por que são cinco espécies, e não três).
+> - [[P2 - Direito Tributário#Taxas (arts. 77 a 80)]]: o CTN (art. 77, parágrafo único) fala em base de cálculo "idêntica" à de imposto, e a CF (art. 145, § 2º), em base "própria"; a SV 29, anotada ali, admite elementos da base do imposto desde que não haja integral identidade.
+> - [[P2 - Reforma Tributária#Princípios gerais do Sistema Tributário e LC (arts. 145 e 146)]]: os §§ 3º e 4º (EC 132).
+> - [[ERRO DIREITO TRIBUTÁRIO#27/09]]: errou em 27/09 (IBAM, São Vicente) a questão dos §§ 3º e 4º; a alternativa "C" testava o § 2º com a SV 29.
+
 ## Natureza Jurídica dos Tributos;   
 - [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/3679?indice=1&materia=3680)
@@ -275,6 +289,151 @@ Desde a **Lei Complementar nº 227/2026**, o art. 82-A deixou de cobrir só ilum
 > - [[P2 - Reforma Tributária#Base de cálculo: complementos (arts. 12 e 13)]] — a COSIP é um dos tributos que **não integram** a base de cálculo do IBS/CBS (art. 12, §2º).
 
 
+#### Contribuições especiais na CF (arts. 149 e 195; art. 8º, IV)
+- [ ] status [dom:: 0] [peso:: 3]
+
+*(CF/88, ed. Senado 2026, pp. 18–19, 88–89 e 120–121)*
+
+**Art. 149: quem institui e sobre o que incide**
+
+| Ponto | O que o texto diz |
+| --- | --- |
+| Quem institui | <mark style="background:#fff88f">compete exclusivamente à União</mark> instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas (caput) |
+| Exceção: regime próprio | a União, os Estados, o DF e os Municípios instituem, por lei, contribuições para o custeio do regime próprio de previdência social, cobradas dos servidores ativos, dos aposentados e dos pensionistas (§ 1º) |
+| Déficit atuarial | a contribuição ordinária de aposentados e pensionistas pode incidir sobre o que superar o salário mínimo (§ 1º-A); a extraordinária é facultada <mark style="background:#fff88f">só no âmbito da União</mark> (§ 1º-B), simultânea a outras medidas e por período determinado (§ 1º-C) |
+| Exportação × importação | <mark style="background:#fff88f">não incidem</mark> sobre receitas de exportação (§ 2º, I); <mark style="background:#fff88f">incidem também</mark> sobre a importação de produtos estrangeiros ou serviços (§ 2º, II) |
+| Alíquotas | ad valorem (faturamento, receita bruta ou valor da operação; na importação, o valor aduaneiro) ou específica (unidade de medida) (§ 2º, III) |
+| Importação por pessoa natural | a pessoa natural destinatária das operações de importação pode ser equiparada a pessoa jurídica, na forma da lei (§ 3º) |
+| Incidência única | a lei define as hipóteses em que as contribuições incidem uma única vez (§ 4º) |
+
+*(CF/88, ed. Senado 2026, pp. 88–89)*
+
+> [!quote]- Texto literal: Art. 149, caput e §§ 1º a 4º (CF/88, ed. Senado 2026, p. 88–89)
+> Art. 149. Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo.
+>
+> § 1º A União, os Estados, o Distrito Federal e os Municípios instituirão, por meio de lei, contribuições para custeio de regime próprio de previdência social, cobradas dos servidores ativos, dos aposentados e dos pensionistas, que poderão ter alíquotas progressivas de acordo com o valor da base de contribuição ou dos proventos de aposentadoria e de pensões.
+>
+> § 1º-A. Quando houver déficit atuarial, a contribuição ordinária dos aposentados e pensionistas poderá incidir sobre o valor dos proventos de aposentadoria e de pensões que supere o salário mínimo.
+>
+> § 1º-B. Demonstrada a insuficiência da medida prevista no § 1º-A para equacionar o déficit atuarial, é facultada a instituição de contribuição extraordinária, no âmbito da União, dos servidores públicos ativos, dos aposentados e dos pensionistas.
+>
+> § 1º-C. A contribuição extraordinária de que trata o § 1º-B deverá ser instituída simultaneamente com outras medidas para equacionamento do déficit e vigorará por período determinado, contado da data de sua instituição.
+>
+> § 2º As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
+>
+> I – não incidirão sobre as receitas decorrentes de exportação;
+>
+> II – incidirão também sobre a importação de produtos estrangeiros ou serviços;
+>
+> III – poderão ter alíquotas:
+>
+> a) ad valorem, tendo por base o faturamento, a receita bruta ou o valor da operação e, no caso de importação, o valor aduaneiro;
+>
+> b) específica, tendo por base a unidade de medida adotada.
+>
+> § 3º A pessoa natural destinatária das operações de importação poderá ser equiparada a pessoa jurídica, na forma da lei.
+>
+> § 4º A lei definirá as hipóteses em que as contribuições incidirão uma única vez.
+>
+> (* NE do Senado, rodapé da p. 88: ver art. 36, II, da EC nº 103/2019.)
+
+> [!tip]- Lupa: art. 149, competência exclusiva da União e a exceção do regime próprio
+> **A ideia em uma frase:** o caput reserva à União as contribuições sociais, de intervenção no domínio econômico e das categorias profissionais ou econômicas, e o § 1º abre uma única exceção para os demais entes: a contribuição do regime próprio de previdência dos seus servidores.
+>
+> **Passo a passo:**
+> 1. Identifique a contribuição. Social, CIDE ou de categoria: só a União institui (caput).
+> 2. Se ela custeia o regime próprio de previdência e é cobrada de servidores ativos, aposentados e pensionistas, qualquer ente institui, por lei (§ 1º).
+> 3. Confira a base: as contribuições sociais e de CIDE não incidem sobre receitas de exportação (§ 2º, I) e incidem também sobre a importação de produtos estrangeiros ou serviços (§ 2º, II).
+> 4. Se há déficit atuarial, a contribuição ordinária de aposentados e pensionistas pode incidir sobre o que passar do salário mínimo (§ 1º-A); a contribuição extraordinária só cabe à União (§ 1º-B).
+>
+> *Exemplo ilustrativo (sem lastro):* um Município que quer cobrar contribuição dos seus servidores para o regime próprio usa o § 1º, por lei municipal. Um Município que quer criar uma contribuição de intervenção no domínio econômico não encontra base no art. 149. A CF prevê para o Município, fora do art. 149, a contribuição do art. 149-A, para iluminação pública e monitoramento.
+>
+> **O erro clássico:** trocar "não incidirão" por "incidirão" (ou o contrário) na exportação e na importação; estender aos Estados e Municípios a competência do caput sem lembrar que a exceção do § 1º é só a do regime próprio; e atribuir a contribuição extraordinária do § 1º-B a qualquer ente.
+
+**Art. 195: financiamento da seguridade social**
+
+- **Fontes (caput):** toda a sociedade, de forma direta e indireta, com recursos dos orçamentos dos entes e das contribuições sociais: (I) do empregador, da empresa e da entidade equiparada, sobre folha de salários e rendimentos do trabalho, receita ou faturamento e lucro; (II) do trabalhador e dos demais segurados, <mark style="background:#fff88f">sem contribuição sobre aposentadoria e pensão do RGPS</mark>; (III) receita de concursos de prognósticos; (IV) do importador de bens ou serviços; (V) sobre bens e serviços, nos termos de lei complementar. *(p. 120)*
+- **§ 3º:** a pessoa jurídica em débito com a seguridade social <mark style="background:#fff88f">não pode contratar com o Poder Público</mark> nem dele receber benefícios ou incentivos fiscais ou creditícios. *(p. 121)*
+- **§ 6º:** as contribuições só são exigíveis <mark style="background:#fff88f">após noventa dias</mark> da publicação da lei que as instituiu ou modificou, <mark style="background:#fff88f">sem aplicar o art. 150, III, "b"</mark>. ⚠️ O texto afasta só a alínea "b" (anterioridade anual); os 90 dias ficam. *(p. 121)*
+- **§ 7º:** o texto diz que <mark style="background:#fff88f">são isentas</mark> de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei. *(p. 121)*
+- **§ 11:** <mark style="background:#fff88f">vedados</mark> a moratória e o parcelamento em prazo superior a 60 meses e, na forma de lei complementar, a remissão e a anistia. ⚠️ Só das contribuições do inciso I, "a", e do inciso II. *(p. 121)*
+- **§ 12:** a lei define os setores de atividade econômica em que as contribuições dos incisos I, "b", e IV serão não cumulativas. *(p. 121)*
+- **§§ 15 a 18** (CBS, inciso V): ver [[P2 - Reforma Tributária#CBS (art. 195, V e §§ 15 a 18)]].
+
+> [!quote]- Texto literal: Art. 195, caput e incisos I a V (CF/88, ed. Senado 2026, p. 120)
+> Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:
+>
+> I – do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre:
+>
+> a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício;
+>
+> b) a receita ou o faturamento;
+>
+> c) o lucro;
+>
+> II – do trabalhador e dos demais segurados da previdência social, podendo ser adotadas alíquotas progressivas de acordo com o valor do salário de contribuição, não incidindo contribuição sobre aposentadoria e pensão concedidas pelo Regime Geral de Previdência Social;
+>
+> III – sobre a receita de concursos de prognósticos;
+>
+> IV – do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar;
+>
+> V – sobre bens e serviços, nos termos de lei complementar.
+
+> [!quote]- Texto literal: Art. 195, §§ 3º, 6º, 7º, 11 e 12 (CF/88, ed. Senado 2026, p. 121)
+> § 3º A pessoa jurídica em débito com o sistema da seguridade social, como estabelecido em lei, não poderá contratar com o Poder Público nem dele receber benefícios ou incentivos fiscais ou creditícios.
+>
+> [...]
+>
+> § 6º As contribuições sociais de que trata este artigo só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando o disposto no art. 150, III, “b”.
+>
+> [...]
+>
+> § 7º São isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei.
+>
+> [...]
+>
+> § 11. São vedados a moratória e o parcelamento em prazo superior a 60 (sessenta) meses e, na forma de lei complementar, a remissão e a anistia das contribuições sociais de que tratam a alínea “a” do inciso I e o inciso II do caput.
+>
+> [...]
+>
+> § 12. A lei definirá os setores de atividade econômica para os quais as contribuições incidentes na forma dos incisos I, “b”; e IV do caput, serão não cumulativas.
+
+**Art. 8º, IV: contribuição do sistema confederativo**
+
+A assembleia geral <mark style="background:#fff88f">fixa</mark> a contribuição que, para a categoria profissional, é descontada em folha para custear o sistema confederativo da representação sindical, <mark style="background:#fff88f">independentemente da contribuição prevista em lei</mark>. *(CF/88, ed. Senado 2026, p. 19)*
+
+> [!quote]- Texto literal: Art. 8º, caput e IV (CF/88, ed. Senado 2026, p. 18–19)
+> Art. 8º É livre a associação profissional ou sindical, observado o seguinte:
+>
+> [...]
+>
+> IV – a assembleia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, independentemente da contribuição prevista em lei;
+
+> [!tip]- Lupa: art. 8º, IV, a contribuição fixada em assembleia e a "prevista em lei"
+> **A ideia em uma frase:** o inciso IV trata de duas contribuições diferentes: a que a assembleia geral fixa para o sistema confederativo e a "prevista em lei"; o texto diz que a primeira vale independentemente da segunda.
+>
+> **Passo a passo:**
+> 1. Veja quem fixa: a assembleia geral, e não o legislador.
+> 2. Veja como se cobra: desconto em folha, para a categoria profissional, com a finalidade de custear o sistema confederativo da representação sindical.
+> 3. Veja a ressalva final: "independentemente da contribuição prevista em lei". Existe outra contribuição, a legal, que o inciso deixa fora dele.
+> 4. Se o enunciado descreve contribuição fixada em assembleia-geral para o sistema confederativo, é o inciso IV. Se descreve contribuição instituída por lei, é a outra.
+>
+> *Exemplo ilustrativo (sem lastro):* um enunciado que fala em "contribuição fixada pela assembleia-geral para custeio do sistema confederativo" descreve o art. 8º, IV, ainda que cite o sindicato.
+>
+> **O erro clássico:** tratar as duas como uma só e atribuir à confederativa as características da contribuição legal. A jurisprudência que define quem paga (SV 40) está na nota de Direito Constitucional, ver Ponte.
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)]]: resumo do art. 149 sem o texto dos §§.
+> - [[P1 - Direito Constitucional#Jurisprudência: direitos e garantias fundamentais]]: a SV 40 registra que a contribuição confederativa do art. 8º, IV, só é exigível dos filiados ao sindicato.
+> - [[P2 - Direito Tributário#Disposições Finais e Transitórias (arts. 209 a 218 do CTN)]]: o art. 217 do CTN trata da contribuição sindical, que o caderno de erros de 27/09 distingue da confederativa.
+> - [[P2 - Direito Tributário#COSIP (art. 82-A)]]: o art. 149-A (contribuição municipal para iluminação pública e monitoramento) já está tratado acima.
+> - [[P2 - Direito Tributário#Espécies de Tributos;]]: jurisprudência do art. 149, § 1º (ADI 6.534, alíquota da contribuição dos servidores por lei ordinária).
+> - [[P2 - Direito Tributário#Limitações ao Poder de Tributar;]]: o art. 195, II (sem contribuição sobre aposentadoria e pensão do RGPS) e a tabela das exceções à anterioridade, que inclui as contribuições da seguridade.
+> - [[P1 - Direito Constitucional#Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)]]: lupa das exceções à anterioridade, com o art. 195, § 6º.
+> - [[P2 - Direito Tributário#Certidão Negativa (arts. 205 a 208 do CTN)]]: certidões de regularidade fiscal, assunto vizinho ao § 3º do art. 195.
+> - [[P2 - Reforma Tributária#CBS (art. 195, V e §§ 15 a 18)]]: o inciso V e os §§ 15 a 18.
+> - [[ERRO DIREITO TRIBUTÁRIO#27/09]]: errou em 27/09 (CEBRASPE, SEFAZ-AC) a questão da contribuição confederativa.
+
 ## Limitações ao Poder de Tributar; 
 - [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-18
 
@@ -368,6 +527,41 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 > [!info]- Ponte
 > - [[P2 - Reforma Tributária#Imunidades (arts. 8º e 9º)]]: a LC 214 trata das imunidades do IBS e da CBS; o art. 9º, IV, do CTN é o modelo dos impostos tradicionais.
 
+#### Art. 150, §§ 1º a 7º (CF/88)
+- [ ] status [dom:: 0] [peso:: 3]
+
+*(CF/88, ed. Senado 2026, p. 90)*
+
+- **§ 1º:** a CF é quem define as duas listas de exceção. A alínea "b" (anterioridade anual) <mark style="background:#fff88f">não vale</mark> para os arts. 148, I; 153, I, II, IV e V; e 154, II. A alínea "c" (90 dias) não vale para os arts. 148, I; 153, I, II, III e V; e 154, II, <mark style="background:#fff88f">nem para a fixação da base de cálculo</mark> dos impostos dos arts. 155, III e 156, I. ⚠️ O art. 153, III (IR) aparece só na lista da alínea "c"; o art. 153, IV (IPI), só na da alínea "b".
+- **§ 2º:** a imunidade recíproca (VI, "a") é extensiva às autarquias e fundações instituídas e mantidas pelo poder público e à empresa pública prestadora de serviço postal, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes.
+- **§ 3º:** essas vedações <mark style="background:#fff88f">não se aplicam</mark> ao patrimônio, à renda e aos serviços relacionados com atividades econômicas regidas pelas normas de empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário; também não exoneram o <mark style="background:#fff88f">promitente comprador</mark> do imposto sobre o imóvel.
+- **§ 4º:** as imunidades das alíneas "b" e "c" compreendem <mark style="background:#fff88f">somente</mark> o patrimônio, a renda e os serviços relacionados com as finalidades essenciais das entidades.
+- **§ 5º:** a lei determinará medidas para que os consumidores sejam esclarecidos sobre os impostos que incidem sobre mercadorias e serviços.
+- **§ 6º:** subsídio, isenção, redução de base de cálculo, crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só por <mark style="background:#fff88f">lei específica</mark>, federal, estadual ou municipal, que regule <mark style="background:#fff88f">exclusivamente</mark> essas matérias ou o tributo ou contribuição correspondente (sem prejuízo do art. 155, § 2º, XII, "g").
+- **§ 7º:** a lei pode atribuir ao sujeito passivo a condição de responsável pelo pagamento de imposto ou contribuição <mark style="background:#fff88f">cujo fato gerador deva ocorrer posteriormente</mark>, assegurada a <mark style="background:#fff88f">imediata e preferencial restituição</mark> da quantia paga se o fato gerador presumido não se realizar.
+
+> [!quote]- Texto literal: Art. 150, §§ 1º a 7º (CF/88, ed. Senado 2026, p. 90)
+> § 1º A vedação do inciso III, “b”, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e V; e 154, II; e a vedação do inciso III, “c”, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e 156, I.
+>
+> § 2º A vedação do inciso VI, “a”, é extensiva às autarquias e às fundações instituídas e mantidas pelo poder público e à empresa pública prestadora de serviço postal, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes.
+>
+> § 3º As vedações do inciso VI, “a”, e do parágrafo anterior não se aplicam ao patrimônio, à renda e aos serviços, relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário, nem exoneram o promitente comprador da obrigação de pagar imposto relativamente ao bem imóvel.
+>
+> § 4º As vedações expressas no inciso VI, alíneas “b” e “c”, compreendem somente o patrimônio, a renda e os serviços, relacionados com as finalidades essenciais das entidades nelas mencionadas.
+>
+> § 5º A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e serviços.
+>
+> § 6º Qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no art. 155, § 2º, XII, “g”.
+>
+> § 7º A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Anterioridade — CTN × CF (art. 104 × CF 150, III)]]: a tabela das exceções à anterioridade anual e nonagesimal que decorre do § 1º.
+> - [[P2 - Direito Tributário#Arts. 9º a 15 do CTN diante da CF/88]]: os §§ 2º e 3º aparecem ali como o art. 12 e o art. 13 do CTN comparados à CF; o § 4º trata do mesmo assunto do art. 14, § 2º, do CTN (serviços ligados às finalidades ou aos objetivos institucionais), cujo texto está na mesma seção.
+> - [[P1 - Direito Constitucional#Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)]]: texto literal do caput e dos incisos I a VI e a lupa das anterioridades.
+> - [[ERRO DIREITO TRIBUTÁRIO#27/09]]: errou em 27/09 (VUNESP, Itatiba) a imunidade religiosa; o § 4º delimita o alcance da imunidade às finalidades essenciais.
+
+
 
 
 # Bloco B:  
@@ -401,6 +595,58 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 > § 3º Não constitui delegação de competência o cometimento, a pessoas de direito privado, do encargo ou da função de arrecadar tributos.
 >
 > Art. 8º O não-exercício da competência tributária não a defere a pessoa jurídica de direito público diversa daquela a que a Constituição a tenha atribuído.
+
+#### Competência na CF/88: quem institui o quê (arts. 24, 145 a 156-A)
+- [ ] status [dom:: 0] [peso:: 3]
+
+*(CF/88, ed. Senado 2026, pp. 27–28, 87–96)*
+
+**Quem institui cada tributo**
+
+| Tributo | Quem institui | Dispositivo |
+| --- | --- | --- |
+| Impostos, taxas e contribuição de melhoria | União, Estados, DF e Municípios ("poderão instituir") | art. 145 (p. 87) |
+| Empréstimo compulsório | União, mediante lei complementar | art. 148 (p. 88) |
+| Contribuições sociais, de intervenção no domínio econômico e de categorias | <mark style="background:#fff88f">exclusivamente a União</mark>; exceção: contribuição do regime próprio de previdência dos servidores (todos os entes) | art. 149, caput e § 1º (p. 88) |
+| Contribuição para iluminação pública e sistemas de monitoramento | Municípios e DF | art. 149-A (p. 89) |
+| II, IE, IR, IPI, IOF, ITR, grandes fortunas e Imposto Seletivo | União (grandes fortunas e Imposto Seletivo, nos termos de lei complementar) | art. 153 (p. 91) |
+| Impostos não previstos na CF e impostos extraordinários de guerra | União (os não previstos, por lei complementar, não cumulativos e sem fato gerador ou base de cálculo próprios dos já discriminados) | art. 154 (p. 92) |
+| ITCMD, ICMS e IPVA | Estados e DF | art. 155 (p. 92) |
+| IPTU, ITBI e ISS | Municípios | art. 156 (p. 95) |
+| IBS | competência compartilhada entre Estados, DF e Municípios; instituído por lei complementar | art. 156-A (p. 96) |
+| Impostos estaduais em Território Federal | União (e, se o Território não for dividido em Municípios, também os municipais); ao DF cabem os impostos municipais | art. 147 (p. 88) |
+
+*(síntese dos dispositivos indicados na coluna da direita; sem texto literal do quadro)*
+
+- **Art. 24, I:** <mark style="background:#fff88f">União, Estados e DF</mark> legislam concorrentemente sobre direito tributário e financeiro, entre outros temas. ⚠️ O rol do caput não cita os Municípios. Na competência concorrente a União se limita a <mark style="background:#fff88f">normas gerais</mark> (§ 1º); isso não exclui a competência suplementar dos Estados (§ 2º); sem lei federal de normas gerais, os Estados têm competência legislativa plena (§ 3º); lei federal superveniente de normas gerais suspende a eficácia da lei estadual no que lhe for contrário (§ 4º). *(p. 27–28)*
+- **Art. 146, I e II:** a lei complementar dispõe sobre conflitos de competência em matéria tributária entre os entes e regula as limitações constitucionais ao poder de tributar. *(p. 87)*
+- **Art. 146-A:** lei complementar pode estabelecer critérios especiais de tributação para prevenir desequilíbrios da concorrência, <mark style="background:#fff88f">sem prejuízo</mark> da competência de a União, por lei, estabelecer normas de igual objetivo. *(p. 88)*
+
+> [!quote]- Texto literal: Art. 24, caput, I e §§ 1º a 4º (CF/88, ed. Senado 2026, p. 27–28)
+> Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+>
+> I – direito tributário, financeiro, penitenciário, econômico e urbanístico;
+>
+> [...]
+>
+> § 1º No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais.
+>
+> § 2º A competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados.
+>
+> § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades.
+>
+> § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.
+
+> [!quote]- Texto literal: Art. 146-A e Art. 147 (CF/88, ed. Senado 2026, p. 88)
+> Art. 146-A. Lei complementar poderá estabelecer critérios especiais de tributação, com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de igual objetivo.
+>
+> Art. 147. Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais; ao Distrito Federal cabem os impostos municipais.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Competência × capacidade tributária ativa (arts. 6º a 8º)]]: o CTN, nesta mesma seção, diz que a competência é indelegável e que o não-exercício não a transfere a outro ente (art. 8º).
+> - [[P1 - Direito Constitucional#Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)]]: lupa das três funções da lei complementar (art. 146, I a III) e texto literal do art. 146.
+> - [[P1 - Direito Constitucional#Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)]]: o Município aparece ali com competência para suplementar a legislação federal e a estadual no que couber e para instituir e arrecadar seus tributos (art. 30), que é o que o rol do art. 24 deixa de fora.
+
 
 
 ## Legislação Tributária;   
@@ -1550,6 +1796,27 @@ Os prazos são contados em <mark>dias úteis</mark>, excluindo o dia de início 
 > - [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] — a Q122 (errada em 20/09) tinha na alternativa C a contagem invertida; a regra própria da LC 227 continua pendente lá.
 > - [[P2 - Direito Tributário#Certidão Negativa (arts. 205 a 208 do CTN)]] — o art. 208, capturado junto, foi para esse heading.
 
+### Art. 37, XXII (CF/88): as administrações tributárias
+- [ ] status [dom:: 0] [peso:: 3]
+
+*(CF/88, ed. Senado 2026, pp. 35 e 108)*
+
+As administrações tributárias da União, dos Estados, do DF e dos Municípios são <mark style="background:#fff88f">atividades essenciais ao funcionamento do Estado</mark>, exercidas por <mark style="background:#fff88f">servidores de carreiras específicas</mark>. Terão <mark style="background:#fff88f">recursos prioritários</mark> para suas atividades e atuarão de <mark style="background:#fff88f">forma integrada</mark>, inclusive com o <mark style="background:#fff88f">compartilhamento de cadastros e de informações fiscais</mark>, na forma da lei ou convênio. *(art. 37, XXII, p. 35)*
+
+⚠️ O art. 167, IV, cita o art. 37, XXII entre as exceções à vedação de vincular receita de imposto a órgão, fundo ou despesa: as atividades da administração tributária. *(p. 108)*
+
+> [!quote]- Texto literal: Art. 37, XXII (CF/88, ed. Senado 2026, p. 35)
+> [...]
+>
+> XXII – as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão recursos prioritários para a realização de suas atividades e atuarão de forma integrada, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Fiscalização Tributária (arts. 194 a 200 do CTN)]]: o "compartilhamento de cadastros e de informações fiscais" do inciso convive com o sigilo do art. 198, cujo § 2º (intercâmbio de informação sigilosa mediante processo regularmente instaurado) a nota já traz.
+> - [[P2 - Reforma Tributária#Representação administrativa e judicial do IBS (art. 156-B, § 2º, V, CF)]]: no IBS, a fiscalização, o lançamento, a cobrança e a representação ficam com as administrações tributárias e procuradorias dos entes.
+> - [[P1 - Direito Constitucional#Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)]]: texto literal do art. 145, § 1º, com a parte final sobre a identificação do patrimônio, dos rendimentos e das atividades econômicas do contribuinte.
+> - [[P1 - Direito Financeiro#- Vedações orçamentárias na CF 88]]: o art. 167, IV, com a lista taxativa de exceções.
+
+
 
 
 ## Repartição Constitucional de Receitas Tributárias.
@@ -1584,9 +1851,132 @@ Os prazos são contados em <mark>dias úteis</mark>, excluindo o dia de início 
 > **A ideia em uma frase:** "d", "e" e "f" não são parcelas diferentes — são o **mesmo 1% ao FPM**, mas cada uma foi incluída por uma emenda distinta (EC 55/2007, EC 84/2014, EC 112/2021) para escalonar a entrega ao longo do ano, em vez de concentrar tudo em dezembro. Resultado: o FPM recebe reforços extras em **julho**, **setembro** e **dezembro**, além da fatia mensal regular do "b".
 > **Pendência fechada:** a alínea "c" não é para o FPE nem para o FPM — é uma parcela **regional** (3%), destinada a financiamento produtivo via instituições financeiras regionais (BASA, BNB, e os fundos constitucionais FNO/FNE/FCO), com reserva de metade dos recursos do Nordeste para o semiárido. As tabelas de fator do FPE e coeficientes do FPM (p. 37-38 do PDF) seguem de fora de propósito: dependem de LC própria (hoje, LC 62/1989 c/c LC 143/2013) e de cálculo anual do TCU (art. 161, parágrafo único, CF) — não são texto constitucional fixo para decorar.
 
+*(CF/88, ed. Senado 2026, pp. 100–102)*
+
+- **Art. 158, caput e § 1º:** o texto completo do que pertence aos Municípios (I a IV) e dos critérios do ICMS (§ 1º: <mark style="background:#fff88f">65%, no mínimo,</mark> por valor adicionado; até 35% por lei estadual, com no mínimo <mark style="background:#fff88f">10 pontos percentuais</mark> por indicadores de aprendizagem e equidade). O § 2º (IBS) está em [[P2 - Reforma Tributária#Repartição das receitas tributárias (arts. 158 a 162)]]. *(p. 100)*
+- **Art. 159, §§ 1º a 4º:** § 1º, no cálculo do inciso I exclui-se a parcela do IR que já pertence a Estados, DF e Municípios (arts. 157, I e 158, I); § 2º, nenhuma unidade federada recebe mais de <mark style="background:#fff88f">20%</mark> do montante do inciso II (IPI e Imposto Seletivo, pelas exportações), com redistribuição do excedente; § 3º, os Estados entregam <mark style="background:#fff88f">25%</mark> do que receberem pelo inciso II aos Municípios (critérios do art. 158, § 1º para a parcela do IPI e § 2º para a do Imposto Seletivo); § 4º, do montante do inciso III (CIDE-combustíveis, 29%) que cabe a cada Estado, <mark style="background:#fff88f">25%</mark> vão aos Municípios. *(p. 101–102)*
+- **Art. 159-A:** o Fundo Nacional de Desenvolvimento Regional entrega recursos da União aos Estados e ao DF; <mark style="background:#fff88f">vedada a retenção</mark> ou restrição (§ 1º); coeficientes de <mark style="background:#fff88f">30% população e 70% coeficiente do FPE</mark> (§ 4º); o <mark style="background:#fff88f">TCU</mark> regulamenta e calcula (§ 5º). *(p. 102)*
+- **Art. 160, § 2º:** contratos, acordos, convênios, parcelamentos ou renegociações de débitos (inclusive tributários) firmados pela União com os entes conterão cláusulas que autorizam a <mark style="background:#fff88f">dedução</mark> dos valores devidos dos repasses das cotas dos Fundos de Participação ou dos precatórios federais. *(p. 102)*
+- **Art. 161:** lei complementar define o valor adicionado (art. 158, § 1º, I), fixa normas de entrega e rateio dos fundos do art. 159, I, e dispõe sobre o acompanhamento, pelos beneficiários, do cálculo das quotas; o TCU calcula as quotas dos fundos de participação. *(p. 102)*
+
+> [!quote]- Texto literal: Art. 158, caput e § 1º (CF/88, ed. Senado 2026, p. 100)
+> Art. 158. Pertencem aos Municípios:
+>
+> I – o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem;
+>
+> II – cinquenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial rural, relativamente aos imóveis neles situados, cabendo a totalidade na hipótese da opção a que se refere o art. 153, § 4º, III;
+>
+> III – 50% (cinquenta por cento) do produto da arrecadação do imposto do Estado sobre a propriedade de veículos automotores licenciados em seus territórios e, em relação a veículos aquáticos e aéreos, cujos proprietários sejam domiciliados em seus territórios;
+>
+> IV – 25% (vinte e cinco por cento):
+>
+> a) do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação;
+>
+> b) do produto da arrecadação do imposto previsto no art. 156-A distribuída aos Estados.
+>
+> § 1º As parcelas de receita pertencentes aos Municípios mencionadas no inciso IV, “a”, serão creditadas conforme os seguintes critérios:
+>
+> I – 65% (sessenta e cinco por cento), no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
+>
+> II – até 35% (trinta e cinco por cento), de acordo com o que dispuser lei estadual, observada, obrigatoriamente, a distribuição de, no mínimo, 10 (dez) pontos percentuais com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico dos educandos.
+
+> [!quote]- Texto literal: Art. 159, caput, inciso III e §§ 1º a 4º (CF/88, ed. Senado 2026, p. 101–102)
+> Art. 159. A União entregará:
+>
+> [...]
+>
+> III – do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, § 4º, 29% (vinte e nove por cento) para os Estados e o Distrito Federal, distribuídos na forma da lei, observadas as destinações a que se referem as alíneas “c” e “d” do inciso II do referido parágrafo.
+>
+> § 1º Para efeito de cálculo da entrega a ser efetuada de acordo com o previsto no inciso I, excluir-se-á a parcela da arrecadação do imposto de renda e proventos de qualquer natureza pertencente aos Estados, ao Distrito Federal e aos Municípios, nos termos do disposto nos arts. 157, I, e 158, I.
+>
+> § 2º A nenhuma unidade federada poderá ser destinada parcela superior a vinte por cento do montante a que se refere o inciso II, devendo o eventual excedente ser distribuído entre os demais participantes, mantido, em relação a esses, o critério de partilha nele estabelecido.
+>
+> § 3º Os Estados entregarão aos respectivos Municípios 25% (vinte e cinco por cento) dos recursos que receberem nos termos do inciso II do caput deste artigo, observados os critérios estabelecidos no art. 158, § 1º, para a parcela relativa ao imposto sobre produtos industrializados, e no art. 158, § 2º, para a parcela relativa ao imposto previsto no art. 153, VIII.
+>
+> § 4º Do montante de recursos de que trata o inciso III que cabe a cada Estado, vinte e cinco por cento serão destinados aos seus Municípios, na forma da lei a que se refere o mencionado inciso.
+>
+> (Os incisos I e II não aparecem nesta citação: o I está no "Texto literal: CF/88, Art. 159, I" acima e o II, em Reforma Tributária.)
+
+> [!quote]- Texto literal: Art. 159-A (CF/88, ed. Senado 2026, p. 102)
+> Art. 159-A. Fica instituído o Fundo Nacional de Desenvolvimento Regional, com o objetivo de reduzir as desigualdades regionais e sociais, nos termos do art. 3º, III, mediante a entrega de recursos da União aos Estados e ao Distrito Federal para:
+>
+> I – realização de estudos, projetos e obras de infraestrutura;
+>
+> II – fomento a atividades produtivas com elevado potencial de geração de emprego e renda, incluindo a concessão de subvenções econômicas e financeiras; e
+>
+> III – promoção de ações com vistas ao desenvolvimento científico e tecnológico e à inovação.
+>
+> § 1º É vedada a retenção ou qualquer restrição ao recebimento dos recursos de que trata o caput.
+>
+> § 2º Na aplicação dos recursos de que trata o caput, os Estados e o Distrito Federal priorizarão projetos que prevejam ações de sustentabilidade ambiental e redução das emissões de carbono.
+>
+> § 3º Observado o disposto neste artigo, caberá aos Estados e ao Distrito Federal a decisão quanto à aplicação dos recursos de que trata o caput.
+>
+> § 4º Os recursos de que trata o caput serão entregues aos Estados e ao Distrito Federal de acordo com coeficientes individuais de participação, calculados com base nos seguintes indicadores e com os seguintes pesos:
+>
+> I – população do Estado ou do Distrito Federal, com peso de 30% (trinta por cento);
+>
+> II – coeficiente individual de participação do Estado ou do Distrito Federal nos recursos de que trata o art. 159, I, “a”, da Constituição Federal, com peso de 70% (setenta por cento).
+>
+> § 5º O Tribunal de Contas da União será o órgão responsável por regulamentar e calcular os coeficientes individuais de participação de que trata o § 4º.
+
+> [!quote]- Texto literal: Art. 160, § 2º, e Art. 161 (CF/88, ed. Senado 2026, p. 102)
+> § 2º Os contratos, os acordos, os ajustes, os convênios, os parcelamentos ou as renegociações de débitos de qualquer espécie, inclusive tributários, firmados pela União com os entes federativos conterão cláusulas para autorizar a dedução dos valores devidos dos montantes a serem repassados relacionados às respectivas cotas nos Fundos de Participação ou aos precatórios federais.
+>
+> [...]
+>
+> Art. 161. Cabe à lei complementar:
+>
+> I – definir valor adicionado para fins do disposto no art. 158, § 1º, I;
+>
+> II – estabelecer normas sobre a entrega dos recursos de que trata o art. 159, especialmente sobre os critérios de rateio dos fundos previstos em seu inciso I, objetivando promover o equilíbrio socioeconômico entre Estados e entre Municípios;
+>
+> III – dispor sobre o acompanhamento, pelos beneficiários, do cálculo das quotas e da liberação das participações previstas nos arts. 157, 158 e 159.
+>
+> Parágrafo único. O Tribunal de Contas da União efetuará o cálculo das quotas referentes aos fundos de participação a que alude o inciso II.
+
+*(CF/88, ed. Senado 2026, pp. 109 e 163–164)*
+
+- **Art. 167, § 4º:** é permitida a vinculação das receitas dos arts. 155, 156, 156-A, 157, 158 e de partes do art. 159 (I, "a", "b", "d", "e" e "f", e II) <mark style="background:#fff88f">para pagamento de débitos com a União</mark> e para prestar-lhe garantia ou contragarantia. A lista de exceções do inciso IV está em [[P1 - Direito Financeiro#- Vedações orçamentárias na CF 88]]. *(p. 109)*
+- **ADCT, art. 76:** até 31/12/2032, <mark style="background:#fff88f">30%</mark> da arrecadação da União relativa a contribuições sociais (sem prejuízo do pagamento das despesas do RGPS), CIDE, taxas e receitas patrimoniais são desvinculados de órgão, fundo ou despesa. Excetuam-se o salário-educação (§ 2º) e as contribuições da seguridade social (§ 4º). O § 5º diz que a desvinculação <mark style="background:#fff88f">não opera efeitos</mark> sobre recursos que, por norma constitucional ou legal, devam ser transferidos a Estados, DF e Municípios. *(p. 163–164)*
+
+> [!quote]- Texto literal: Art. 167, § 4º (CF/88, ed. Senado 2026, p. 109)
+> § 4º É permitida a vinculação das receitas a que se referem os arts. 155, 156, 156-A, 157, 158 e as alíneas “a”, “b”, “d”, “e” e “f” do inciso I e o inciso II do caput do art. 159 desta Constituição para pagamento de débitos com a União e para prestar-lhe garantia ou contragarantia.
+
+> [!quote]- Texto literal: ADCT, Art. 76, caput e §§ 1º a 5º (CF/88, ed. Senado 2026, p. 163–164)
+> Art. 76. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) da arrecadação da União relativa às contribuições sociais, sem prejuízo do pagamento das despesas do Regime Geral de Previdência Social, às contribuições de intervenção no domínio econômico, às taxas e às receitas patrimoniais, já instituídas ou que vierem a ser criadas até a referida data.
+>
+> § 1º (Revogado)
+>
+> § 2º Excetua-se da desvinculação de que trata o caput a arrecadação da contribuição social do salário-educação a que se refere o § 5º do art. 212 da Constituição Federal.
+>
+> § 3º (Revogado)
+>
+> § 4º A desvinculação de que trata o caput não se aplica às receitas das contribuições sociais destinadas ao custeio da seguridade social.
+>
+> § 5º A desvinculação de que trata o caput deste artigo não opera efeitos sobre recursos que, por expressa disposição em norma constitucional ou legal, devam ser transferidos a Estados, ao Distrito Federal e a Municípios.
+>
+> (* NE do Senado, rodapé da p. 163: ver ADI nº 2.031.)
+
+> [!tip]- Lupa: o repasse constitucional pode ser retido, vinculado ou desvinculado?
+> **A ideia em uma frase:** o texto tem três regras sobre o dinheiro que pertence a Estados e Municípios, e cada uma responde a uma pergunta diferente: a entrega pode ser retida (art. 160), pode servir de pagamento ou garantia de dívida com a União (art. 167, § 4º) e a DRU a alcança (ADCT 76, § 5º)?
+>
+> **Passo a passo:**
+> 1. *Reter ou restringir a entrega:* vedado (art. 160, caput), inclusive quanto a adicionais e acréscimos de impostos. A União e os Estados podem, porém, condicionar a entrega ao pagamento de seus créditos, inclusive de suas autarquias, e ao cumprimento do art. 198, § 2º, II e III (§ 1º).
+> 2. *Deduzir por contrato de dívida:* contratos, convênios, parcelamentos e renegociações firmados pela União com os entes devem conter cláusulas que autorizam a dedução dos valores devidos dos repasses das cotas dos Fundos de Participação ou dos precatórios federais (§ 2º).
+> 3. *Vincular como pagamento ou garantia:* permitido, para pagar débitos com a União ou dar-lhe garantia ou contragarantia, quanto às receitas listadas no art. 167, § 4º.
+> 4. *Aplicar a DRU:* até 31/12/2032, 30% da arrecadação da União (contribuições sociais, CIDE, taxas e receitas patrimoniais) são desvinculados; o § 5º do art. 76 do ADCT diz que isso não opera efeitos sobre os recursos que devam ser transferidos a Estados, DF e Municípios por norma constitucional ou legal.
+>
+> *Exemplo ilustrativo (sem lastro):* a União, credora de um Estado, condiciona a entrega de uma cota ao pagamento do crédito (art. 160, § 1º, I, permite). A mesma União não pode alegar a DRU para descontar 30% dessa cota (ADCT 76, § 5º).
+>
+> **O erro clássico:** dizer que é ilegítimo a União condicionar a entrega ao pagamento de créditos seus (o § 1º, I, permite) e dizer que a DRU é deduzida do montante repassado (o § 5º afasta). No caderno de 27/09 (CEBRASPE, TCE-PR), as alternativas "A" e "D" eram essas duas inversões.
+
 > [!info]- Ponte
 > - [[P1 - Direito Constitucional#Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)]]: mesmo assunto pelo filtro constitucional — tem o mapa completo de quem repassa o quê (art. 157 a 162), a regra do IOF-ouro (30/70) e o texto literal dos arts. 157, 160 e 162. A ponte antiga apontava para uma nota "P2 - Finanças Públicas" que nunca existiu no cofre; corrigida para esta seção.
 > - [[P1 - Micro e Finanças Públicas]]: a matéria de Finanças Públicas propriamente dita, caso o assunto volte a ser tratado por lá.
+> - [[P1 - Direito Financeiro#- Vedações orçamentárias na CF 88]]: art. 167, IV, com a lista taxativa de exceções à vedação de vincular imposto (repartição dos arts. 158 e 159, saúde, educação, administração tributária e garantia de ARO).
+> - [[ERRO DIREITO TRIBUTÁRIO#27/09]]: errou em 27/09 duas questões deste heading: FGV/TCE-PA (art. 167, IV) e CEBRASPE/TCE-PR (art. 158, § 2º, art. 160 e a DRU).
+> - [[P2 - Reforma Tributária#Repartição das receitas tributárias (arts. 158 a 162)]]: o § 2º do art. 158 (IBS: 80/10/5/5) e o art. 159, II, com texto literal.
 
 
 
@@ -3357,6 +3747,29 @@ Legitimidade ativa: o locatário não é contribuinte nem responsável pelo IPTU
 | Base de cálculo | valor venal do imóvel |
 | Contribuinte | proprietário, titular do domínio útil ou possuidor a qualquer título |
 
+*(CF/88, ed. Senado 2026, pp. 95 e 117)*
+
+- **Art. 156, § 1º-A:** o IPTU <mark style="background:#fff88f">não incide sobre templos de qualquer culto</mark>, ainda que as entidades abrangidas pela imunidade do art. 150, VI, "b", sejam <mark style="background:#fff88f">apenas locatárias</mark> do imóvel. *(p. 95)*
+- **Art. 182, § 4º:** o Município pode, mediante <mark style="background:#fff88f">lei específica</mark> para área incluída no <mark style="background:#fff88f">plano diretor</mark> e nos termos da lei federal, exigir do proprietário de solo urbano não edificado, subutilizado ou não utilizado que promova seu adequado aproveitamento, sob pena, <mark style="background:#fff88f">sucessivamente</mark>, de: I, parcelamento ou edificação compulsórios; II, IPTU <mark style="background:#fff88f">progressivo no tempo</mark>; III, desapropriação com pagamento em títulos da dívida pública (emissão previamente aprovada pelo Senado, resgate em até dez anos, parcelas anuais, iguais e sucessivas, com o valor real da indenização e os juros legais). ⚠️ A ordem I, II, III é a do texto. *(p. 117)*
+
+> [!quote]- Texto literal: Art. 156, § 1º-A (CF/88, ed. Senado 2026, p. 95)
+> § 1º-A. O imposto previsto no inciso I do caput deste artigo não incide sobre templos de qualquer culto, ainda que as entidades abrangidas pela imunidade de que trata a alínea “b” do inciso VI do caput do art. 150 desta Constituição sejam apenas locatárias do bem imóvel.
+
+> [!quote]- Texto literal: Art. 182, § 4º (CF/88, ed. Senado 2026, p. 117)
+> § 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado, subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena, sucessivamente, de:
+>
+> I – parcelamento ou edificação compulsórios;
+>
+> II – imposto sobre a propriedade predial e territorial urbana progressivo no tempo;
+>
+> III – desapropriação com pagamento mediante títulos da dívida pública de emissão previamente aprovada pelo Senado Federal, com prazo de resgate de até dez anos, em parcelas anuais, iguais e sucessivas, assegurados o valor real da indenização e os juros legais.
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Dos Impostos dos Municípios (art. 156 da CF/1988)]]: texto do art. 156, caput e § 1º (com o inciso III, base atualizada pelo Executivo) e a lupa das duas progressividades (fiscal, art. 156, § 1º, e no tempo, art. 182, § 4º).
+> - [[ERRO DIREITO TRIBUTÁRIO#CEBRASPE]]: linha do tempo do IPTU (EC 29/2000, EC 116/2022 e EC 132/2023) e a exigência de lei municipal para o decreto que atualiza a base.
+> - [[ERRO DIREITO TRIBUTÁRIO#FCC]]: questão da FCC sobre o templo locatário (art. 156, § 1º-A).
+
+
 
 ### 2. Imposto sobre Serviços - ISS
 - [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
@@ -3529,6 +3942,51 @@ Supondo que uma empresa sediada em Teresina preste serviços para uma empresa lo
 
 *(CTN comentado, Guruja, p. 15–31 · CTN Títulos III e IV)*
 
+*(CF/88, ed. Senado 2026, pp. 95 e 166–168)*
+
+- **Art. 156, III, e § 3º:** o ISS é dos Municípios, sobre serviços de qualquer natureza não compreendidos no art. 155, II, <mark style="background:#fff88f">definidos em lei complementar</mark>. Cabe à lei complementar: I, fixar as <mark style="background:#fff88f">alíquotas máximas e mínimas</mark>; II, <mark style="background:#fff88f">excluir da incidência as exportações de serviços</mark>; III, regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados. *(p. 95)*
+- **ADCT, art. 88:** <mark style="background:#fff88f">enquanto</mark> lei complementar não disciplinar os incisos I e III do § 3º do art. 156, o ISS terá alíquota mínima de <mark style="background:#fff88f">2%</mark> (exceto para os serviços dos itens 32, 33 e 34 da Lista anexa ao Decreto-lei nº 406/1968) e não será objeto de isenções, incentivos e benefícios fiscais que resultem, direta ou indiretamente, na redução dessa alíquota mínima. *(p. 168)*
+- **ADCT, art. 82, § 2º, e art. 83:** os Municípios devem instituir Fundos de Combate à Pobreza; para financiá-los, pode ser criado <mark style="background:#fff88f">adicional de até meio ponto percentual</mark> na alíquota do ISS (ou do imposto que o substituir), <mark style="background:#fff88f">sobre serviços supérfluos</mark>; lei federal define quais são os produtos e serviços supérfluos. *(p. 166–167)*
+
+> [!quote]- Texto literal: Art. 156, caput, III e § 3º (CF/88, ed. Senado 2026, p. 95)
+> Art. 156. Compete aos Municípios instituir impostos sobre:
+>
+> [...]
+>
+> III – serviços de qualquer natureza, não compreendidos no art. 155, II, definidos em lei complementar;
+>
+> [...]
+>
+> § 3º Em relação ao imposto previsto no inciso III do caput deste artigo, cabe à lei complementar:
+>
+> I – fixar as suas alíquotas máximas e mínimas;
+>
+> II – excluir da sua incidência exportações de serviços para o exterior;
+>
+> III – regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados.
+
+> [!quote]- Texto literal: ADCT, Art. 88 (CF/88, ed. Senado 2026, p. 168)
+> Art. 88. Enquanto lei complementar não disciplinar o disposto nos incisos I e III do § 3º do art. 156 da Constituição Federal, o imposto a que se refere o inciso III do caput do mesmo artigo:
+>
+> I – terá alíquota mínima de dois por cento, exceto para os serviços a que se referem os itens 32, 33 e 34 da Lista de Serviços anexa ao Decreto-lei nº 406, de 31 de dezembro de 1968;
+>
+> II – não será objeto de concessão de isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso I.
+
+> [!quote]- Texto literal: ADCT, Art. 82, caput e §§ 1º e 2º, e Art. 83 (CF/88, ed. Senado 2026, p. 166–167)
+> Art. 82. Os Estados, o Distrito Federal e os Municípios devem instituir Fundos de Combate à Pobreza, com os recursos de que trata este artigo e outros que vierem a destinar, devendo os referidos Fundos ser geridos por entidades que contem com a participação da sociedade civil.
+>
+> § 1º Para o financiamento dos Fundos Estaduais e Distrital, poderá ser criado adicional de até dois pontos percentuais na alíquota do Imposto sobre Circulação de Mercadorias e Serviços – ICMS, sobre os produtos e serviços supérfluos e nas condições definidas na lei complementar de que trata o art. 155, § 2º, XII, da Constituição, não se aplicando, sobre este percentual, o disposto no art. 158, IV, da Constituição.
+>
+> § 2º Para o financiamento dos Fundos Municipais, poderá ser criado adicional de até meio ponto percentual na alíquota do Imposto sobre Serviços ou do imposto que vier a substituí-lo, sobre serviços supérfluos.
+>
+> Art. 83. Lei federal definirá os produtos e serviços supérfluos a que se referem os arts. 80, II, e 82, § 2º.
+
+> [!info]- Ponte
+> - Acima, nesta seção: a nota já registra a alíquota máxima de 5% e a mínima de 2% da LC 116, e a vedação de isenções que reduzam a alíquota mínima; o ADCT 88 é a regra constitucional provisória sobre o mesmo piso.
+> - [[P1 - Direito Constitucional#Dos Impostos dos Municípios (art. 156 da CF/1988)]]: resumo do ISS e das funções da lei complementar (§ 3º), sem o texto literal.
+> - [[P2 - Reforma Tributária#Destinação da receita aos entes federativos: deduções, FCP e transparência (arts. 118-131)]]: o percentual do IBS para o Fundo de Combate à Pobreza do art. 82 do ADCT.
+
+
 ### 3. Imposto de Importação e Imposto de Exportação (arts. 19 a 28)
 - [ ] status [dom:: 0] [peso:: 3]
 
@@ -3635,9 +4093,21 @@ Art. 39: **revogado (2026)**.
 >
 > Art. 41 O imposto compete ao Município da situação do bem, ou ao Distrito Federal.
 
+*(CF/88, ed. Senado 2026, p. 95)*
+
+**Art. 156, § 2º:** o ITBI (I) <mark style="background:#fff88f">não incide</mark> sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, nem sobre a decorrente de fusão, incorporação, cisão ou extinção de pessoa jurídica, <mark style="background:#fff88f">salvo</mark> se a atividade preponderante do adquirente for a compra e venda desses bens ou direitos, a locação de bens imóveis ou o arrendamento mercantil; (II) compete ao Município da situação do bem.
+
+> [!quote]- Texto literal: Art. 156, § 2º (CF/88, ed. Senado 2026, p. 95)
+> § 2º O imposto previsto no inciso II:
+>
+> I – não incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa jurídica em realização de capital, nem sobre a transmissão de bens ou direitos decorrente de fusão, incorporação, cisão ou extinção de pessoa jurídica, salvo se, nesses casos, a atividade preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil;
+>
+> II – compete ao Município da situação do bem.
+
 > [!info]- Ponte
 > - [[P2 - Direito Tributário#Lançamento]] — o art. 148 (arbitramento) já tratado ali também prevê avaliação contraditória quando o sujeito passivo contesta o valor arbitrado pelo Fisco; a mesma lógica agora está expressa no art. 38, §3º, específica para o ITBI.
 > - [[ERRO DIREITO TRIBUTÁRIO#22/09]] — errou em 22/09 (VUNESP, ISS São Paulo) questão sobre ITBI e fato gerador na consolidação da propriedade fiduciária; mesmo heading.
+> - [[P1 - Direito Constitucional#Dos Impostos dos Municípios (art. 156 da CF/1988)]]: ITBI (§ 2º) resumido, sem o texto literal. O art. 37 do CTN, acima nesta seção, traz a mesma regra da atividade preponderante com os prazos.
 
 
 ### 8. ICMS — energia, telecomunicações e combustíveis; serviços (arts. 68 a 70, 74 a 76)
@@ -3661,6 +4131,61 @@ Art. 76 (imposto extraordinário de guerra) ↔ CF 154, II: impostos extraordin�
 > I - é vedada a fixação de alíquotas sobre as operações referidas no caput deste artigo em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços;
 > II - é facultada ao ente federativo competente a aplicação de alíquotas reduzidas em relação aos bens referidos no caput deste artigo, como forma de beneficiar os consumidores em geral; e
 > III - (Revogado pela Lei Complementar nº 201, de 2023)
+
+### 9. Impostos da União na CF (art. 153, §§ 1º a 5º)
+- [ ] status [dom:: 0] [peso:: 3]
+
+*(CF/88, ed. Senado 2026, p. 91)*
+
+| Imposto | Regra do parágrafo |
+| --- | --- |
+| II, IE, IPI e IOF | o Poder Executivo pode <mark style="background:#fff88f">alterar as alíquotas</mark>, atendidas as condições e os limites da lei (§ 1º; incisos I, II, IV e V) |
+| IR | informado pelos critérios da <mark style="background:#fff88f">generalidade, universalidade e progressividade</mark>, na forma da lei (§ 2º, I; o inciso II está revogado) |
+| IPI | <mark style="background:#fff88f">seletivo</mark>, em função da essencialidade; <mark style="background:#fff88f">não cumulativo</mark>; não incide sobre industrializados destinados ao exterior; impacto reduzido na aquisição de bens de capital (§ 3º) |
+| ITR | <mark style="background:#fff88f">progressivo</mark>, para desestimular propriedades improdutivas; não incide sobre pequenas glebas rurais exploradas pelo proprietário que não possua outro imóvel; <mark style="background:#fff88f">fiscalizado e cobrado pelos Municípios</mark> que optarem, sem redução do imposto ou renúncia fiscal (§ 4º) |
+| Ouro (ativo financeiro ou instrumento cambial) | sujeita-se <mark style="background:#fff88f">exclusivamente</mark> ao IOF (inciso V), devido na operação de origem; alíquota mínima de 1%; 30% para o Estado, DF ou Território de origem e 70% para o Município de origem (§ 5º) |
+
+⚠️ O § 1º cita só as alíquotas (não a base de cálculo) e só os incisos I, II, IV e V: o IR (inciso III) não está na lista. *(p. 91)*
+
+> [!quote]- Texto literal: Art. 153, §§ 1º a 5º (CF/88, ed. Senado 2026, p. 91)
+> § 1º É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar as alíquotas dos impostos enumerados nos incisos I, II, IV e V.
+>
+> § 2º O imposto previsto no inciso III:
+>
+> I – será informado pelos critérios da generalidade, da universalidade e da progressividade, na forma da lei;
+>
+> II – (Revogado).
+>
+> § 3º O imposto previsto no inciso IV:
+>
+> I – será seletivo, em função da essencialidade do produto;
+>
+> II – será não cumulativo, compensando-se o que for devido em cada operação com o montante cobrado nas anteriores;
+>
+> III – não incidirá sobre produtos industrializados destinados ao exterior;
+>
+> IV – terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto, na forma da lei.
+>
+> § 4º O imposto previsto no inciso VI do caput:
+>
+> I – será progressivo e terá suas alíquotas fixadas de forma a desestimular a manutenção de propriedades improdutivas;
+>
+> II – não incidirá sobre pequenas glebas rurais, definidas em lei, quando as explore o proprietário que não possua outro imóvel;
+>
+> III – será fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não implique redução do imposto ou qualquer outra forma de renúncia fiscal.
+>
+> § 5º O ouro, quando definido em lei como ativo financeiro ou instrumento cambial, sujeita-se exclusivamente à incidência do imposto de que trata o inciso V do caput deste artigo, devido na operação de origem; a alíquota mínima será de um por cento, assegurada a transferência do montante da arrecadação nos seguintes termos:
+>
+> I – trinta por cento para o Estado, o Distrito Federal ou o Território, conforme a origem;
+>
+> II – setenta por cento para o Município de origem.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Alíquotas × base de cálculo — II, IE, IPI e IOF (arts. 21, 26, 65 × CF 153, §1º)]]: o CTN comparado ao § 1º, com a regra de que o Executivo altera só as alíquotas.
+> - [[P2 - Direito Tributário#6. Imposto sobre a Renda (IR) e ITR (arts. 29 a 31 e 43 a 45)]]: fato gerador e base de cálculo de IR e ITR no CTN; o § 4º, III (Município que opta por fiscalizar e cobrar o ITR) e o art. 158, II (a totalidade do ITR para ele) são a regra constitucional.
+> - [[P1 - Direito Constitucional#Dos Impostos da União (arts. 153 e 154 da CF/1988)]]: texto literal do caput e do art. 154; Imposto Seletivo (§ 6º).
+> - [[P2 - Direito Tributário#Repartição Constitucional de Receitas Tributárias.]]: o ouro-ativo financeiro (30/70) e o ITR de Município optante, na repartição.
+
 
 
 ## Planejamento Tributário: Elisão, Evasão e Elusão Fiscal
