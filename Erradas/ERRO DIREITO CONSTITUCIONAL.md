@@ -340,7 +340,7 @@ _[...]_
 > > [[P1 - Direito Constitucional#Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)]] (taxas/contribuição de melhoria) + [[P2 - Direito Tributário]]:3580 (ganho de capital como provento, só na venda) — ambos já no cofre; não precisei regrifar.
 > > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:1852` e `MATERIAS/P2 - Direito Tributário.md:3580`
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q20 e Q32 cobraram a base de cálculo da taxa pela SV 29, e a Q32 (item 8), a contribuição de melhoria · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q20 e Q32 cobraram a base de cálculo da taxa pela SV 29, e a Q32 (item 8), a contribuição de melhoria · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]]; a São Vicente Q59 (gab. D) usou o §2º com a SV 29 como distrator, na alternativa (C) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q59]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Auditor Fiscal Municipal, Pref Caruaru 2023) — Limitações ao poder de tributar: legalidade, confisco, pedágio, anterioridade
 > Com relação aos limites ao poder de tributar, assinale a alternativa correta:
@@ -358,6 +358,8 @@ _[...]_
 > > [!info] 🔗 Na matéria
 > > [[P1 - Direito Constitucional#Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)]] — a Lupa da tabela anterioridade anual × nonagesimal já está no cofre; não precisei regrifar.
 > > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:1893`
+>
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Limitações do Poder de Tributar), outro ângulo — a IBAM 2026 São Vicente Q44 cobrou as exceções da anterioridade (IPI, IPVA) e a Q30, os arts. 151 e 152; a alternativa (A) deste item (aumentar tributo por ato administrativo) nega a mesma reserva legal do art. 97 que a Q51 cobrou · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q44]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q30]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q51]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Analista Tributário, Pref Saquarema 2023) — Repartição das receitas tributárias: o que cabe ao Município
 > No que tange à repartição das receitas tributárias, a alternativa que apresenta corretamente o que caberá ao Município é:
@@ -377,7 +379,7 @@ _[...]_
 > > [[P1 - Direito Constitucional#Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)]] — a tabela "mapa da repartição" já cobre exatamente os percentuais de ICMS (25%/65% VAF/35% lei estadual) e IPVA (50%, por licenciamento); não precisei regrifar.
 > > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:2037` (ICMS) e `:2044` (art. 157, I)
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** ✅ Condiz — a IBAM 2025 Arraial do Cabo Q6 (gab. D) cobrou o mesmo dispositivo, o art. 158 (o que cabe ao Município: 25% do ICMS, 50% do IPVA), trocando o percentual do IPVA; a IBAM 2026 Bragança Q30 cobriu a repartição do Imposto Seletivo no FPM · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q6]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q30]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2025 Arraial do Cabo Q6 (gab. D) cobrou o mesmo dispositivo, o art. 158 (o que cabe ao Município: 25% do ICMS, 50% do IPVA), trocando o percentual do IPVA; a IBAM 2026 Bragança Q30 cobriu a repartição do Imposto Seletivo no FPM · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q6]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q30]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Procurador Jurídico I, Pref Piraí 2019) — Emenda parlamentar a projeto de iniciativa exclusiva do Executivo (orçamento)
 > Em virtude de fortes chuvas, certo Município concedeu aluguel social aos moradores em risco de deslizamento. Após quase um ano, o Chefe do Executivo apresentou projeto de lei para revogar o benefício, mas foi aposta emenda parlamentar para mantê-lo por mais um ano. A respeito, é correto afirmar:

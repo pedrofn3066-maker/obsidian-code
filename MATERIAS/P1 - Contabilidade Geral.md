@@ -144,14 +144,19 @@ Relacionado e já escrito: [[P2 - Contabilidade Avançada e de Custos#- Demonstr
 
 
 ## Ativo, passivo e patrimônio líquido
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 Nível P1: definição e classificação dos três elementos; circulante × não circulante pelo ciclo operacional.
 
 → [[P2 - Contabilidade Avançada e de Custos#- Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)\|Contas do PL]] — o bloco mais desenvolvido, com capital social, ações, reservas, AAP, ações em tesouraria.
 → [[P2 - Contabilidade Avançada e de Custos#- Contabilidade Básica;\|Contabilidade Básica]] — estrutura conceitual, definição de ativo e passivo pelo CPC 00.
 
-⚠️ Cuidado com o ciclo operacional: ele classifica em circulante e não circulante, mas **não** define o exercício social, que salvo duas exceções é sempre de 1 ano.
+⚠️ Cuidado com o ciclo operacional: <mark class="prova" style="background:rgba(0,170,170,0.28)">ele classifica em circulante e não circulante, mas **não** define o exercício social</mark>, que salvo duas exceções é sempre de 1 ano.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q48 (gab. C · preliminar)
+> **Trecho usado:** "Cuidado com o ciclo operacional: ele classifica em circulante e não circulante, mas não define o exercício social"
+> **Como cobrou:** rol — pede a incorreta: "(C) As obrigações da companhia… serão classificadas no passivo circulante quando se vencerem no exercício seguinte, e no passivo não circulante se tiverem vencimento em prazo maior, sem qualquer exceção relacionada ao ciclo operacional". A nota traz o ciclo operacional como critério da classificação; o art. 180 (fora da nota) ressalva o ciclo maior que o exercício.
+> **Lastro:** PDF p. 25 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q48]]
 
 
 ## Estoques e custo das mercadorias vendidas

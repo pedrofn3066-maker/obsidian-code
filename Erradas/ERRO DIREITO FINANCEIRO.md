@@ -121,7 +121,7 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [[P1 - Direito Financeiro#Conceitos Gerais (Orçamentária e Extraorçamentária, Afetação Patrimonial, Regularidade, Coercitividade)]] — cobre orçamentária x extraorçamentária, mas a distinção efetiva x não efetiva (VPA) não está nessa nota nem em CASP; não está no cofre.
 > > **Fonte:** comentário do TEC (MCASP 10ª Ed.) · (sem fonte no cofre)
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** ⚪ Não é regra decisiva nas 3 provas absorvidas; a Mauá Q34 cobra a classificação das receitas correntes e o superávit corrente, não a receita efetiva × não efetiva · [[IBAM 2025 - Mauá - AFTM#Q34]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** ⚪ Não é regra decisiva nas 4 provas absorvidas; a Mauá Q34 cobra a classificação das receitas correntes e o superávit corrente, não a receita efetiva × não efetiva · [[IBAM 2025 - Mauá - AFTM#Q34]]
 
 > [!question]- 23/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Câmara Municipal de Bebedouro, 2025) — Estágios da receita: previsão, lançamento, arrecadação, recolhimento (V/F)
 > A receita pública, conforme entendimento da doutrina contábil, possui ao menos quatro estágios. Analise: **I.** todos os estágios são obrigatórios para todas as receitas, sem exceção. **II.** o estágio de previsão corresponde à estimativa de arrecadação constante na LOA. **III.** o estágio de arrecadação consiste na transferência dos valores arrecadados à conta específica do Tesouro. Está correto o que se afirma em:
@@ -146,7 +146,7 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [[P1 - Direito Financeiro#Estágios da Receita Pública]] — já estava grifado (previsão, lançamento, arrecadação, recolhimento); o erro clássico de trocar arrecadação por recolhimento já está anotado na lupa dessa seção.
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:477,485` · MCASP 11ª Ed. (item I, fora do cofre, citado do comentário do TEC)
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** ⚪ Não é regra decisiva nas 3 provas absorvidas; a Mauá Q33 cobra o estágio da despesa (liquidação), não os estágios da receita · [[IBAM 2025 - Mauá - AFTM#Q33]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** ⚪ Não é regra decisiva nas 4 provas absorvidas; a Mauá Q33 cobra o estágio da despesa (liquidação), não os estágios da receita · [[IBAM 2025 - Mauá - AFTM#Q33]]
 
 > [!question]- 23/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Instituto de Previdência Cabista, 2025) — Dívida Ativa: requisitos da cessão onerosa de créditos (art. 39-A)
 > A União, o Estado, o DF ou o Município poderá ceder onerosamente, nos termos da Lei 4.320 e de lei específica, direitos originados de créditos tributários e não tributários, inclusive inscritos em dívida ativa, a pessoas jurídicas de direito privado ou a fundos de investimento CVM. A cessão dos direitos creditórios deverá:
@@ -221,7 +221,7 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [[P1 - Direito Financeiro#- Despesa: Conceitos, classificações e estágio]] — já cobre Inversões Financeiras na tabela de categorias econômicas; texto é resumo (não literal), então não grifei.
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:559`
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** ⚪ Não é regra decisiva nas 3 provas absorvidas; a classificação da despesa por natureza só aparece como afirmação verdadeira no terceiro item da Mauá Q34 · [[IBAM 2025 - Mauá - AFTM#Q34]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** ⚪ Não é regra decisiva nas 4 provas absorvidas; a classificação da despesa por natureza só aparece como afirmação verdadeira no terceiro item da Mauá Q34 · [[IBAM 2025 - Mauá - AFTM#Q34]]
 
 > [!question]- 23/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Câmara Municipal de Cabo Frio, 2024) — Classificação da despesa: Transferências Correntes
 > Nos termos da Lei 4.320/64, as dotações para despesas às quais não corresponda contraprestação direta em bens ou serviços, inclusive para contribuições e subvenções destinadas a atender à manutenção de outras entidades de direito público ou privado são chamadas de:
@@ -246,7 +246,7 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [[P1 - Direito Financeiro#- Despesa: Conceitos, classificações e estágio]] — cita Transferências Correntes na tabela (subvenções, inativos, pensionistas, juros da dívida), mas sem o texto literal do §2º/§6º; não grifei por ser resumo, não citação literal.
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:559` (geral) · Lei 4.320/64 art. 12 §§2º e 6º (literal, fora do cofre, citado do comentário do TEC)
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** ⚪ Não é regra decisiva nas 3 provas absorvidas; a classificação da despesa por natureza só aparece como afirmação verdadeira no terceiro item da Mauá Q34 · [[IBAM 2025 - Mauá - AFTM#Q34]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** ⚪ Não é regra decisiva nas 4 provas absorvidas; a classificação da despesa por natureza só aparece como afirmação verdadeira no terceiro item da Mauá Q34 · [[IBAM 2025 - Mauá - AFTM#Q34]]
 
 > [!question]- 23/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Prefeitura Municipal de Balneário Piçarras, 2024) — Estrutura programática: Projeto x Atividade x Operação Especial
 > Constitui instrumento de programação utilizado para alcançar o objetivo de um programa, envolvendo um conjunto de operações, **limitadas no tempo**, das quais resulta um produto que concorre para a **expansão ou o aperfeiçoamento** da ação de Governo:
@@ -293,7 +293,7 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [[P1 - Direito Financeiro#Dívida fundada e dívida flutuante (Lei 4.320)]] — já estava grifado (dívida flutuante/dívida fundada em amarelo).
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:642`
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesmo heading (Restos a pagar), outro dispositivo — a IBAM 2025 Mauá Q21 (gab. C, preliminar) cobrou a inscrição e a distinção entre processados e não processados (art. 36); este cobra os restos a pagar como dívida flutuante (art. 92) · [[IBAM 2025 - Mauá - AFTM#Q21]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Restos a pagar), outro dispositivo — a IBAM 2025 Mauá Q21 (gab. C, preliminar) cobrou a inscrição e a distinção entre processados e não processados (art. 36); este cobra os restos a pagar como dívida flutuante (art. 92) · [[IBAM 2025 - Mauá - AFTM#Q21]]
 
 ### 16/09
 
@@ -328,7 +328,7 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [[P1 - Direito Financeiro#- Princípios Orçamentários]] — grifei agora o trecho da Exclusividade (créditos suplementares e ARO como exceções); a Não Afetação já está no mnemônico "iFOD"/GATES, mas sem o texto literal do art. 167, IV.
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:143` (grifado agora) · CF/88 art. 165 §8º e art. 167, IV (literal, citado do comentário do TEC)
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** 🟰 É a própria questão da prova (Q19, gab. D): registro e gabarito batem com o que você anotou; não conta como recorrência · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q19]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🟰 É a própria questão da prova (Q19, gab. D): registro e gabarito batem com o que você anotou; não conta como recorrência · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q19]]
 
 > [!question]- 16/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Contador, Pref. Caruaru, 2023) — PPA x LDO: qual lei traz as diretrizes de médio prazo
 > Documento que traz as diretrizes, objetivos e metas de médio prazo da administração pública e que prevê, entre outras coisas, as grandes obras públicas a serem realizadas nos próximos anos. Deve ser elaborado criteriosamente, imaginando-se aonde se quer chegar nos próximos quatro anos. Expressa a visão estratégica da gestão pública. A descrição acima se refere a:
@@ -653,4 +653,4 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]] — já tem lupa própria "RREO × RGF" (linhas 1232-1237).
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:1224`
 >
-> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesmo heading (LRF, relatórios), outro dispositivo — a IBAM 2025 Mauá Q32 (gab. D, preliminar) cobrou o Relatório de Gestão Fiscal quadrimestral (art. 54); este cobra o prazo do RREO bimestral (arts. 52-53) · [[IBAM 2025 - Mauá - AFTM#Q32]]
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (LRF, relatórios), outro dispositivo — a IBAM 2025 Mauá Q32 (gab. D, preliminar) cobrou o Relatório de Gestão Fiscal quadrimestral (art. 54); este cobra o prazo do RREO bimestral (arts. 52-53) · [[IBAM 2025 - Mauá - AFTM#Q32]]

@@ -56,7 +56,7 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 
 # Bloco A
 ## - Juros Simples e Compostos;
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 **1. ANÁLISE DOS TÓPICOS**
 
@@ -136,10 +136,11 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 - M=C+JM=C+J
 - J=C.[(1+i)n−1]J=C.[(1+i)n−1]
 
-> [!example]- Prova anterior: IBAM 2025 · Mauá · Q14 (gab. D · preliminar)
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q12 (gab. C · preliminar) e IBAM 2025 · Mauá · Q14 (gab. D · preliminar)
 > **Trecho usado:** "M=C.(1+i)n - Fórmula do montante no regime de capitalização composta"
-> **Como cobrou:** cálculo — "R$ 25.000,00 em um fundo que rende juros compostos à taxa de 1,6% ao ano, com capitalização anual… valor futuro desse investimento ao final [de 2 anos]". A certa é "(D) R$ 25.806,40" (25.000 × 1,016²).
-> **Lastro:** PDF p. 3 · [[IBAM 2025 - Mauá - AFTM#Q14]]
+> **Q12 (São Vicente, 2026) — como cobrou:** cálculo — "Um município aplicou R$ 150.000,00 em um fundo financeiro de curto prazo que remunera 1,2% ao mês, em regime de capitalização composta… por 10 meses… (considere (1,012)10 = 1,1267)". A certa é "(C) R$ 169.005,00" (150.000 × 1,1267).
+> **Q14 (Mauá, 2025) — como cobrou:** cálculo — "R$ 25.000,00 em um fundo que rende juros compostos à taxa de 1,6% ao ano, com capitalização anual… valor futuro desse investimento ao final [de 2 anos]". A certa é "(D) R$ 25.806,40" (25.000 × 1,016²).
+> **Lastro:** Q12: PDF p. 7 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q12]] · Q14: PDF p. 3 · [[IBAM 2025 - Mauá - AFTM#Q14]]
 
 Onde: 
 
@@ -401,13 +402,18 @@ Onde, 
 Obs.: atentar para o comando da questão. Se nada for mencionado, considerar o ano como sendo comercial.
 # Bloco B
 ## - Inflação;
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 1. **INFLAÇÃO, TAXA REAL E TAXA APARENTE**
 
 **5.1 RELAÇÃO DE FISHER**
 
 - (1+A)=(1+R).(1+I)(1+A)=(1+R).(1+I)
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q11 (gab. A · preliminar)
+> **Trecho usado:** "(1+A)=(1+R).(1+I)"
+> **Como cobrou:** cálculo — "rendimento nominal anual de 12%, enquanto o índice de inflação do mesmo período foi de 6%". A certa é "(A) I, III e IV, apenas": a taxa real vem de Fisher, (1 + 0,12) / (1 + 0,06) − 1 ≈ 5,66%, e não da diferença simples (6%).
+> **Lastro:** PDF p. 6 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q11]]
 
 Onde: 
 
@@ -603,7 +609,7 @@ Veja a⚡**questão** **[#1896862](https://www.tecconcursos.com.br/questoes/189
 - PSAM=(PSAC+PSF)/2PSAM​=(PSAC​+PSF​)/2
 - Há autores que chamam o SAM de SACRE - Sistema de Amortização Crescente. 
 ### Sistema de Amortização Constante (SAC)
-- [ ] status [dom:: 3] [peso:: 3]
+- [ ] status [dom:: 3] [peso:: 3] [prova:: 1]
 
 (https://www.tecconcursos.com.br/aulas/materias/20/assuntos/714?indice=1&materia=713)
 
@@ -629,6 +635,11 @@ J10=1%×342.000=3.420
 
 Além disso, teremos o pagamento da amortização de 2.000,00. Somando tudo, a prestação será de:
 2.000+3.420=5.420
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q18 (gab. D · preliminar)
+> **Trecho usado:** "No décimo mês, teremos juros de 1% incidindo sobre o valor acima … 2.000+3.420=5.420"
+> **Como cobrou:** cálculo — "financiamento de R$ 500.000,00… Sistema de Amortização Constante em 10 parcelas anuais, com taxa de juros de 8% ao ano". A certa é "(D) R$ 90.000,00": amortização de 50.000 + juros de 8% sobre o saldo de 500.000 (40.000).
+> **Lastro:** PDF p. 9 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q18]]
 
 ### Sistema de Amortização Francês (Price)
 - [ ] status [dom:: 0] [peso:: 3]

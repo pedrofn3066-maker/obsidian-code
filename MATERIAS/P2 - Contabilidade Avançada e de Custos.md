@@ -1864,7 +1864,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/996)
 
 
 ## - Demonstração do Resultado do Exercício;
-- [ ] status [dom:: 4] [peso:: 3]
+- [ ] status [dom:: 4] [peso:: 3] [prova:: 1]
 
 Obrigatória para **todas** as empresas. Demonstrativo **dinâmico** (cobre um período, não uma data).
 
@@ -1914,6 +1914,11 @@ Base = LADIR − Prejuízo Acumulado
 ```
 
 ⚠️ **Debêntures e Empregados**, quando dados em **valor absoluto** (ex.: R$ 10.000 fixos, não %), são **deduzidos da base do IR/CSLL** — tratamento diferente do padrão em cascata.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q46 (gab. B · preliminar)
+> **Trecho usado:** "Cada participação incide sobre o que sobra depois da anterior, na ordem legal"
+> **Como cobrou:** literalidade — a certa é "(B) Somente a afirmação IV é falsa": a IV diz que as participações de debêntures, empregados, administradores e partes beneficiárias "são consideradas despesas operacionais e devem ser deduzidas antes da apuração do lucro ou prejuízo operacional"; na nota vêm depois do LADIR, em cascata.
+> **Lastro:** PDF p. 24 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q46]]
 
 **Fundos de assistência ou previdência de empregados** que não configuram despesa fixa — isto é, quando o valor é um **percentual sobre o lucro**, não um montante fixo — entram na mesma cascata, na sequência.
 
@@ -2092,11 +2097,16 @@ Os componentes dos outros resultados abrangentes incluem:
 # Bloco F:
 
 ## - Demonstração de Fluxo de Caixa (CPC 03)
-- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-14
+- [x] status [dom:: 3] [peso:: 3] [prova:: 1] ✅ 2026-09-14
 
 Os equivalentes de caixa são mantidos com a finalidade de atender a compromissos de caixa de curto prazo e não para investimento ou outros fins. Para que um investimento se qualifique como equivalente de caixa, ele precisa ter conversibilidade imediata em um montante conhecido de caixa e estar sujeito a um insignificante risco de mudança de valor. **Portanto, um investimento normalmente se qualifica como equivalente de caixa somente quando tem vencimento de curto prazo, por exemplo, três meses ou menos, a contar da data de aquisição.**
 
 <mark style="background:#fff88f">Instrumentos patrimoniais em regra NÃO se qualificam como equivalentes de caixa</mark> — exceto quando substancialmente equivalentes a caixa, como ações preferenciais resgatáveis com prazo curto definido de resgate.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q28 (gab. A · preliminar)
+> **Trecho usado:** "Instrumentos patrimoniais em regra NÃO se qualificam como equivalentes de caixa — exceto quando substancialmente equivalentes a caixa, como ações preferenciais resgatáveis com prazo curto definido de resgate"
+> **Como cobrou:** conceito — soma 20 (4 + 16): o item 8 ("investimentos em instrumentos patrimoniais nunca se qualificam como equivalentes de caixa") erra em "nunca"; o item 2 ("uma única transação não pode incluir fluxos de caixa classificados em mais de uma atividade") também é falso.
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q28]]
 
 **Obrigatoriedade:** todas as companhias **abertas**; companhias **fechadas** com PL > R$ 2 milhões na data do balanço.
 

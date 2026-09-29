@@ -1565,7 +1565,7 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 - [ ] status [dom:: 0] [peso:: 2]
 
 ### Disposições Gerais (Administração Pública - arts. 37 e 38 da CF/1988)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 
 *Concurso público (inciso I e jurisprudência), acumulação (XVI-XVII) e responsabilidade civil (§ 6º) já estão detalhados nos headings abaixo ("Agentes Públicos", "Acumulação Remunerada", "Responsabilidade Civil"); o mandato eletivo do servidor (art. 38) já está resumido no heading "Dos Servidores Públicos". Aqui vai o texto literal do caput e o restante dos incisos.*
 
@@ -1639,6 +1639,11 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 > - **XIII — vedação de vinculação/equiparação:** a remuneração de um cargo não pode ser definida "por referência" a outro cargo (ex.: "o servidor X ganha o mesmo que o servidor Y, sempre que o Y tiver reajuste") — cada carreira precisa de lei específica própria (inciso X).
 > - **XXI — licitação:** regra, não exceção — "ressalvados os casos especificados em lei" é a única brecha (dispensa/inexigibilidade, tratadas em lei infraconstitucional, não na própria CF).
 > - **XVIII e XXII — precedência da administração fazendária:** dois dispositivos sobre a mesma ideia em momentos diferentes — o fisco tem prioridade administrativa (XVIII, texto original) e, desde a EC 42/2003, também prioridade de **recursos** e dever de **atuação integrada** entre os fiscos dos diferentes entes (XXII) — é a base constitucional do compartilhamento de cadastros entre Receita Federal, Sefaz estaduais e Secretarias municipais de Fazenda.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q53 (gab. D · preliminar)
+> **Trecho usado:** "o caput do art. 37 abre com os 5 princípios expressos da Administração Pública — mnemônico LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência"
+> **Como cobrou:** conceito — associa cada afirmação ao princípio, "nessa ordem": a certa é "(D) Eficiência, Moralidade, Impessoalidade e Legalidade" (metas e indicadores; uso de bens públicos para fins particulares; publicidade sem promoção pessoal; multa só com lei prévia).
+> **Lastro:** PDF p. 28 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q53]]
 
 **Publicidade e transparência (§§ 1º a 3º):** publicidade institucional deve ter caráter **educativo, informativo ou de orientação social** — vedada promoção pessoal (§ 1º); a lei disciplina a participação do usuário (reclamações, acesso a registros administrativos, representação contra abuso — § 3º).
 
@@ -2835,7 +2840,7 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 ## Sistema Tributário Nacional (arts. 145 a 162 da CF/1988)
 
 ### Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3216?indice=1&materia=457)
 
 > [!quote]- Texto literal: art. 145, caput e §§ 1º a 4º (Planalto)
@@ -2856,7 +2861,13 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > - **Empréstimo compulsório e contribuições especiais:** vinculados à **finalidade** (destinação do produto arrecadado), não à atuação estatal em si — é isso que os separa do imposto, embora não exijam contraprestação direta ao contribuinte.
 > **O erro clássico:** classificar o empréstimo compulsório como "imposto restituível" (tem regime próprio, exclusivo da União e por LC) ou esquecer que a taxa pode ter fato gerador vinculado ao **poder de polícia**, não só a serviço público.
 
-**Capacidade contributiva (§ 1º):** literalidade "sempre que possível" — não é cláusula meramente programática para o STF: RE 562.045 fixou que **todos os impostos**, e não só os pessoais, sujeitam-se ao princípio, inclusive os classificados como reais (ex.: ITCMD progressivo).
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q59 (gab. D · preliminar)
+> **Trecho usado:** "não pode ter base de cálculo própria de imposto (§ 2º) — mas a Súmula Vinculante 29 permite que a base de cálculo da taxa tenha um ou mais elementos da base de cálculo de imposto"
+> **Como cobrou:** troca de termo — a "(C)" diz que o §2º "impede que o valor venal de um imóvel seja utilizado como critério para a determinação da base de cálculo de uma taxa de serviço público municipal, como a taxa de coleta de lixo, por configurar identidade com a base de cálculo do IPTU"; a certa é a "(D)" (defesa do meio ambiente, §3º).
+> **Lastro:** PDF p. 31 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q59]]
+> **Ponte:** [[P2 - Direito Tributário#Taxas (arts. 77 a 80)]] traz a SV 29 com o texto literal e a lupa da Bragança (Q20 e Q32).
+
+**Capacidade contributiva (§ 1º):** literalidade "sempre que possível" — não é cláusula meramente programática para o STF: <mark class="prova" style="background:rgba(0,170,170,0.28)">RE 562.045 fixou que **todos os impostos**, e não só os pessoais, sujeitam-se ao princípio</mark>, inclusive os classificados como reais (ex.: ITCMD progressivo).
 
 > [!quote]- Texto literal: art. 146, caput e incisos (Planalto; alíneas "c" e "d" do inciso III conforme o texto do Senado, ed. 2026, p. 87)
 > Art. 146. Cabe à lei complementar:
@@ -2864,8 +2875,18 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > II - regular as limitações constitucionais ao poder de tributar;
 > III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre: a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes; b) obrigação, lançamento, crédito, prescrição e decadência tributários; c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades cooperativas, inclusive em relação aos tributos previstos nos arts. 156-A e 195, V; d) definição de tratamento diferenciado e favorecido para as microempresas e para as empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos impostos previstos nos arts. 155, II, e 156-A, das contribuições sociais previstas no art. 195, I e V, e § 12 e da contribuição a que se refere o art. 239.
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q35 (gab. A · preliminar)
+> **Trecho usado:** "RE 562.045 fixou que todos os impostos, e não só os pessoais, sujeitam-se ao princípio, inclusive os classificados como reais"
+> **Como cobrou:** jurisprudência — a certa é "(A) O princípio da capacidade contributiva, ao exigir a graduação dos impostos segundo a capacidade econômica, fundamenta a progressividade e a seletividade… mesmo que mitigada em impostos reais". A "(B)" restringe aos "impostos de caráter real" (o STF estendeu a todos); a "(C)" dispensa os direitos individuais e a reserva legal; a "(D)" condiciona a progressividade à lei complementar.
+> **Lastro:** PDF p. 18 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q35]]
+
 > [!tip]- Lupa: a tríplice função da lei complementar tributária
 > **A ideia em uma frase:** o art. 146 dá à LC **três papéis diferentes**, e a banca gosta de testar se você sabe separá-los: (I) **árbitro** de conflitos de competência entre entes; (II) **regulamentador** das limitações ao poder de tributar (não cria limitação nova, só regula as que a CF já traçou); (III) **uniformizador** de normas gerais (é o papel do CTN, recepcionado como LC). O art. 146-A soma um quarto papel possível: critérios especiais de tributação para **prevenir desequilíbrios da concorrência**.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q43 (gab. D · preliminar)
+> **Trecho usado:** "o art. 146 dá à LC três papéis diferentes"
+> **Como cobrou:** conceito — a certa é "(D) A Lei Complementar é o instrumento normativo adequado para instituir um novo imposto residual de competência da União, bem como para regulamentar as imunidades tributárias recíprocas entre os entes federativos". A "(A)" trata o ato cooperativo como imunidade; a "(B)" dá ao STF o papel de legislador positivo nos conflitos de competência (art. 146, I: cabe à LC).
+> **Lastro:** PDF p. 22 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q43]]
 
 **Empréstimos compulsórios (art. 148)** — competência **exclusiva da União**, só por **lei complementar** (⚠️ não cabe MP), em duas hipóteses taxativas: **(I)** calamidade pública, guerra externa ou sua iminência (aqui foge à anterioridade anual e nonagesimal); **(II)** investimento público urgente e de relevante interesse nacional (aqui **respeita** a anterioridade anual, art. 150, III, "b"). A aplicação dos recursos é **vinculada** à despesa que fundamentou a instituição — e o produto é **restituível** ao contribuinte (é isso, mais que a vinculação, que o distingue do imposto).
 
@@ -2885,7 +2906,7 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 
     
 ### Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1963?indice=1&materia=457)
 
 > [!quote]- Texto literal: art. 150, caput e incisos I a VI (Planalto)
@@ -2907,6 +2928,16 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > **O que sai em ambas:** II, IE, IOF, extraordinário de guerra e empréstimo compulsório de calamidade/guerra — cobram-se **imediatamente**. **O que só sai de uma:** IPI foge só da anual (então respeita os 90 dias); IR foge só da nonagesimal (então respeita o exercício seguinte); IPVA/IPTU só na **base de cálculo**, não na alíquota.
 > **O erro clássico:** achar que toda contribuição social segue a regra geral do art. 150 — a seguridade social tem regra **própria e autônoma** no art. 195, § 6º (só nonagesimal, nem precisa da anual).
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q44 (gab. C · preliminar)
+> **Trecho usado:** "IPI foge só da anual (então respeita os 90 dias); IR foge só da nonagesimal (então respeita o exercício seguinte); IPVA/IPTU só na base de cálculo, não na alíquota"
+> **Como cobrou:** conceito — V/F: o gabarito "(C) V, F, F, F" dá como verdadeiro o item I ("A vedação de cobrar tributos no mesmo exercício financeiro… (anterioridade anual) não se aplica ao Imposto sobre Produtos Industrializados (IPI), que pode ter suas alíquotas alteradas e cobradas imediatamente após a publicação da lei"), mas a nota diz que o IPI respeita os 90 dias. Ver o aviso abaixo.
+> **Lastro:** PDF p. 23 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q44]]
+
+> [!warning]- Gabarito × nota
+> **Gabarito:** Q44, alternativa C (V, F, F, F), dá o item I como verdadeiro.
+> **Nota:** o IPI foge só da anterioridade anual e respeita a noventena; "cobradas imediatamente após a publicação" erra a parte dos 90 dias. O item II também é discutível: só a base de cálculo do IPVA foge da noventena.
+> **Pendência:** conferir a redação do art. 150, §1º, o item no PDF (p. 23) e a grade definitiva; a nota não é corrigida.
+
 **Isonomia (II):** veda distinção por ocupação profissional — "advogado paga menos IPTU que médico" seria inconstitucional, independentemente do nome dado ao rendimento.
 
 **Vedação de confisco (IV):** aplica-se também às **multas** tributárias, por extensão jurisprudencial do STF (não só ao tributo em si); parâmetro qualitativo, aferido caso a caso pela razoabilidade/proporcionalidade, sem percentual fixo na CF.
@@ -2921,6 +2952,11 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > Art. 151. É vedado à União: I - instituir tributo que não seja uniforme em todo o território nacional ou que implique distinção ou preferência em relação a Estado, ao Distrito Federal ou a Município, em detrimento de outro, admitida a concessão de incentivos fiscais destinados a promover o equilíbrio do desenvolvimento socioeconômico entre as diferentes regiões do País; II - tributar a renda das obrigações da dívida pública dos Estados, do Distrito Federal e dos Municípios, bem como a remuneração e os proventos dos respectivos agentes públicos, em níveis superiores aos que fixar para suas obrigações e para seus agentes; III - instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios.
 > Art. 152. É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q30 (gab. C · preliminar)
+> **Trecho usado:** "Art. 152. É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino."
+> **Como cobrou:** literalidade — soma 4: "A proibição de os Estados, o Distrito Federal e os Municípios estabelecerem diferença tributária entre bens em razão de sua procedência ou destino visa coibir a criação de barreiras fiscais internas". Os itens 2 ("absoluta e incondicional"), 8 (incentivos regionais) e 16 (anterioridade "sem exceção") negam as ressalvas.
+> **Lastro:** PDF p. 16 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q30]]
+
 **Vedação de isenção heterônoma (art. 151, III):** a União não pode isentar tributo alheio — regra estrita, ressalvada apenas por norma constitucional expressa (ex.: tratados internacionais, onde a União atua como pessoa jurídica de direito público externo, não como ente federado — entendimento STF, RE 543.943 AgR).
 
 > [!info]- Ponte
@@ -2934,7 +2970,7 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 
     
 ### Dos Impostos da União (arts. 153 e 154 da CF/1988)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3217?indice=1&materia=457)
 
 > [!quote]- Texto literal: art. 153, caput e incisos (Planalto)
@@ -2952,7 +2988,12 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > [!quote]- Texto literal: art. 154 (Planalto)
 > Art. 154. A União poderá instituir: I - mediante lei complementar, impostos não previstos no artigo anterior, desde que sejam não cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição; II - na iminência ou no caso de guerra externa, impostos extraordinários, compreendidos ou não em sua competência tributária, os quais serão suprimidos, gradativamente, cessadas as causas de sua criação.
 
-**Competência residual (I):** só por **LC**, **não cumulativo**, e sem "bis in idem" de fato gerador/base de cálculo com os impostos já discriminados na CF — condição tripla, cobrada ao pé da letra. **Imposto extraordinário de guerra (II):** o único imposto que a União pode instituir **por lei ordinária mesmo invadindo competência alheia** (ex.: um "IEG sobre propriedade rural"), justamente porque é excepcional e temporário — some "gradativamente" quando cessar a causa.
+**Competência residual (I):** <mark class="prova" style="background:rgba(0,170,170,0.28)">só por **LC**, **não cumulativo**</mark>, e sem "bis in idem" de fato gerador/base de cálculo com os impostos já discriminados na CF — condição tripla, cobrada ao pé da letra. **Imposto extraordinário de guerra (II):** o único imposto que a União pode instituir **por lei ordinária mesmo invadindo competência alheia** (ex.: um "IEG sobre propriedade rural"), justamente porque é excepcional e temporário — some "gradativamente" quando cessar a causa.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q43 (gab. D · preliminar)
+> **Trecho usado:** "Competência residual (I): só por LC, não cumulativo"
+> **Como cobrou:** literalidade — a certa é "(D) A Lei Complementar é o instrumento normativo adequado para instituir um novo imposto residual de competência da União…" (art. 154, I).
+> **Lastro:** PDF p. 22 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q43]]
 
 > [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
 > - Imposto Seletivo (art. 153, VIII e § 6º): não incide sobre exportações nem sobre energia elétrica e telecomunicações; incide uma única vez; não integra a própria base, mas integra a de ICMS, ISS, IBS e CBS; alíquotas em lei ordinária (específicas ou ad valorem); na extração, alíquota máxima de 1% do valor de mercado.

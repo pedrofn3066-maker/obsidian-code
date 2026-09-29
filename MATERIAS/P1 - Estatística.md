@@ -72,7 +72,7 @@ Vale notar duas outras importantes relações:
 **DAM = |5-7,5| + |6-7,5|+ |6-7,5|+ |7-7,5|+ |7-7,5|+ |8-7,5|+ |8-7,5|+ |9-7,5| + |9-7,5| + |10-7,5| / 10 = 0,5 + 1,5 + 1,5 + 0,5 + 0,5 + 0,5 + 0,5 + 1,5 + 2,5 / 10 = 1,3**
 
 ## Medidas de Dispersão
-- [ ] status [dom:: 0] [peso:: 0]
+- [ ] status [dom:: 0] [peso:: 0] [prova:: 1]
 
 *Fonte: Estratégia Concursos, "Resumo das Medidas de Dispersão" (ISS-BH) — complementa o Bloco A acima, que já tinha desvio em relação à média e desvio médio, mas não tinha variância, desvio padrão nem coeficiente de variação.*
 
@@ -96,7 +96,12 @@ Fórmula alternativa (evita calcular cada desvio um a um): Var = [Σ(xᵢ²)/n] 
 
 **Desvio padrão** é a raiz quadrada da variância — devolve a dispersão à **mesma unidade dos dados** (a variância fica em unidade²): σ = √σ² (populacional), s = √s² (amostral). Sempre ≥ 0; quanto mais perto de 0, mais os dados se concentram na média.
 
-**Coeficiente de Variação (CV) = (desvio padrão / média) × 100%.** É a medida de dispersão **relativa** — usada quando o enunciado pede para comparar a dispersão de **dois conjuntos com médias ou unidades diferentes**, porque variância e desvio padrão sozinhos não são comparáveis nesse caso (ex.: comparar a variabilidade de salários em reais com a de idades em anos). Leitura informal, mas cobrada como interpretação: CV < 15% = dispersão baixa · 15% a 30% = média · > 30% = alta (dados heterogêneos). Variância relativa = variância / x̄² = CV² (menos cobrada que o CV puro).
+<mark class="prova" style="background:rgba(0,170,170,0.28)">**Coeficiente de Variação (CV) = (desvio padrão / média) × 100%.**</mark> É a medida de dispersão **relativa** — usada quando o enunciado pede para comparar a dispersão de **dois conjuntos com médias ou unidades diferentes**, porque variância e desvio padrão sozinhos não são comparáveis nesse caso (ex.: comparar a variabilidade de salários em reais com a de idades em anos). Leitura informal, mas cobrada como interpretação: CV < 15% = dispersão baixa · 15% a 30% = média · > 30% = alta (dados heterogêneos). Variância relativa = variância / x̄² = CV² (menos cobrada que o CV puro).
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q15 (gab. C · preliminar)
+> **Trecho usado:** "Coeficiente de Variação (CV) = (desvio padrão / média) × 100%"
+> **Como cobrou:** cálculo — equipe A: média R$ 50.000,00 e desvio-padrão R$ 7.500,00; equipe B: média R$ 60.000,00 e desvio-padrão R$ 9.000,00. CV de A = 15% e de B = 15%: a certa é "(C) I, II e III, apenas" (mesma dispersão relativa).
+> **Lastro:** PDF p. 8 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q15]]
 
 > [!tip]- Lupa: o mesmo conjunto de dados, respostas diferentes conforme população ou amostra
 > **A ideia em uma frase:** trocar "população" por "amostra" no enunciado muda só o denominador (N vs n−1) — o resto da conta é igual.
@@ -144,11 +149,16 @@ O **coeficiente de correlação de Pearson (r)** mede a força e o sentido da re
 (https://www.tecconcursos.com.br/aulas/materias/61/assuntos/1969?indice=1&materia=982)
 
 ### Regressão Linear Simples
-- [ ] status [dom:: 0] [peso:: 14.0]
+- [ ] status [dom:: 0] [peso:: 14.0] [prova:: 1]
 
 *Fonte: Estratégia Concursos, "Resumo sobre Correlação Linear e Regressão" (ISS-BH) — tópico "Regressão" do VINTEUM (14,0%, o maior peso individual da matéria) não tinha conteúdo no cofre até agora.*
 
-A regressão linear simples estima **como Y varia em função de X**, ajustando uma reta: **Yᵢ = α + β·Xᵢ + εᵢ**, onde α é o coeficiente **linear** (intercepto, valor de Y quando X=0), β é o coeficiente **angular** (quanto Y varia para cada unidade de X) e εᵢ é o erro/resíduo de cada ponto em relação à reta.
+A regressão linear simples estima **como Y varia em função de X**, <mark class="prova" style="background:rgba(0,170,170,0.28)">ajustando uma reta: **Yᵢ = α + β·Xᵢ + εᵢ**</mark>, onde α é o coeficiente **linear** (intercepto, valor de Y quando X=0), β é o coeficiente **angular** (quanto Y varia para cada unidade de X) e εᵢ é o erro/resíduo de cada ponto em relação à reta.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q19 (gab. A · preliminar)
+> **Trecho usado:** "A regressão linear simples estima como Y varia em função de X, ajustando uma reta: Yᵢ = α + β·Xᵢ + εᵢ"
+> **Como cobrou:** cálculo — os pares (2, 40), (4, 52), (6, 64), (8, 76) e (10, 88) seguem y = 6x + 28: a certa é "(A) V, V, F, V" (tendência linear crescente; +12 mil a cada 2 ações; correlação positiva, não negativa).
+> **Lastro:** PDF p. 10 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q19]]
 
 **Método dos mínimos quadrados** — a reta "que melhor ajusta" é a que **minimiza a soma dos quadrados dos resíduos** (as distâncias verticais entre os pontos observados e a reta). Fórmulas dos coeficientes:
 - β (angular) = Cov(X,Y) / Var(X) — covariância de X e Y dividida pela variância de X (repare a semelhança com o r de Pearson: aqui a razão não é normalizada pelos dois desvios padrão, só pelo de X).

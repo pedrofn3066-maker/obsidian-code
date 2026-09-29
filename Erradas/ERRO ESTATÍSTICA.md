@@ -81,6 +81,8 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P1 - Estatística#Bloco A: Estatística Descritiva|Bloco A]] — a propriedade da soma dos desvios² em relação à média já está no cofre; não achei trecho literal específico pra grifar (é um cálculo numérico da questão, não texto de lei/norma).
 > > **Fonte:** TEC (comentário da questão)
+>
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Medidas de Dispersão), outro ângulo — a IBAM 2026 São Vicente Q15 (gab. C) cobrou o coeficiente de variação; este cobra o desvio em relação à média em quadro de frequência · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q15]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Estatística · VUNESP (Pref Peruíbe 2023, #2430569) — Desvio médio do último trimestre
 > A tabela a seguir mostra o comportamento sazonal da receita do Imposto Territorial Rural (ITR), em out/nov/dez de 20X1, 20X2 e 20X3. Em 20X3: outubro R$ 32.700,00 · novembro R$ 25.600,00 · dezembro R$ 22.500,00.
@@ -101,6 +103,8 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P1 - Estatística#Bloco A: Estatística Descritiva|Bloco A]] — a fórmula do desvio absoluto médio (DAM) já está no cofre; não grifado (fórmula genérica, não os valores desta questão).
 > > **Fonte:** TEC (comentário da questão)
+>
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Medidas de Dispersão), outro ângulo — a IBAM 2026 São Vicente Q15 (gab. C) cobrou o coeficiente de variação; este cobra o desvio médio · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q15]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Estatística · VUNESP (ARSESP 2025, #3768696) — Variância populacional por tabela de frequência
 > Uma pesquisa com 100 funcionários de uma empresa investigou o número de dias da semana trabalhados em regime de home office: 1 dia (5 funcionários), 2 dias (5), 3 dias (20), 4 dias (25), 5 dias (45).
@@ -121,6 +125,8 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P1 - Estatística#Medidas de Dispersão|Medidas de Dispersão]] — fórmula σ² = Σ(xᵢ−x̄)²/N, já grifada (N em amarelo, linha do denominador populacional); já estava grifado.
 > > **Fonte:** TEC (comentário da questão)
+>
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Medidas de Dispersão), outro ângulo — a IBAM 2026 São Vicente Q15 (gab. C) cobrou o coeficiente de variação; este cobra a variância populacional · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q15]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Estatística · VUNESP (Pref Ilhabela 2020, #1620663) — Coeficiente de Variação: o que ele indica
 > O Coeficiente de variação (CV) indica:
@@ -141,6 +147,8 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P1 - Estatística#Medidas de Dispersão|Medidas de Dispersão]] — definição do CV como medida de dispersão relativa já no cofre, com "relativa" em negrito; já estava com destaque, não precisei regrifar.
 > > **Fonte:** TEC (comentário da questão)
+>
+> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 São Vicente Q15 (gab. C) cobrou o coeficiente de variação como medida de dispersão relativa (as duas equipes têm CV de 15%: mesma dispersão relativa) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q15]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Estatística · VUNESP (EsFCEx 2025, #3641655) — Propriedades das medidas de dispersão: grupo deslocado
 > Sejam os dados do grupo A = {2, 3, 4, 5, 6} e do grupo B = {5, 6, 7, 8, 9}. É correto afirmar que a variância:
@@ -159,6 +167,8 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P1 - Estatística#Medidas de Dispersão|Medidas de Dispersão]] — as duas regras usadas ("somar constante não altera variância" e "variância/desvio padrão amostral ≥ populacional") já estão no cofre, ambas em negrito; não precisei regrifar.
 > > **Fonte:** TEC (comentário da questão)
+>
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Medidas de Dispersão), outro ângulo — a IBAM 2026 São Vicente Q15 (gab. C) cobrou o coeficiente de variação; este cobra as propriedades da dispersão num grupo deslocado · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q15]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Estatística · VUNESP (TJ SP 2025, #3751628) — Propriedades das medidas de dispersão: transformação linear de série
 > Um algoritmo funciona para séries com média 75 e variância 180. Uma série de teste tem média 84 e variância 245. Para alterar linearmente a série e torná-la apta ao teste, é necessário que cada observação seja:
@@ -177,3 +187,5 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P1 - Estatística#Medidas de Dispersão|Medidas de Dispersão]] — a propriedade "multiplicar por k multiplica a variância por k²" já está no cofre, em negrito; não precisei regrifar.
 > > **Fonte:** TEC (comentário da questão)
+>
+> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Medidas de Dispersão), outro ângulo — a IBAM 2026 São Vicente Q15 (gab. C) cobrou o coeficiente de variação; este cobra as propriedades da dispersão sob transformação linear · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q15]]

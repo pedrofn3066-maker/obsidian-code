@@ -68,7 +68,7 @@ Facilitadores de leitura da lei seca: [[Resumo EC 132-2023 Reforma Tributaria (V
 ## EC nº 132/2023 (IBS)
 
 ### Art. 156-A: princípios e características do IBS
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 12–14.*
 
@@ -92,9 +92,25 @@ O IBS é informado pelo <mark style="background:#fff88f">princípio da neutralid
 | XII | <mark style="background:#fff88f">Resolução do Senado</mark> fixa a <mark style="background:#fff88f">alíquota de referência</mark> por esfera federativa, nos termos de LC; ela vale se o ente não fixar outra |
 | XIII | Sempre que possível, o valor é informado de forma específica no documento fiscal |
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q56 e Q57 (gab. A e B · preliminar)
+> **Trecho usado:** "IX | Não integra sua própria base nem a do Imposto Seletivo, COFINS, PIS/COFINS-Importação, CBS e PIS"
+> **Q56 — como cobrou:** conceito — V/F: o item IV diz que o IBS "mantém a autonomia municipal para definir as alíquotas aplicáveis aos serviços prestados em seu território"; a nota (inciso VI) diz que a alíquota do ente é a mesma para todas as operações. O item I ("arrecadado e fiscalizado diretamente por cada Município") contraria o art. 156-B. A certa é "(A) F, V, V, F".
+> **Q57 — como cobrou:** literalidade — pede a incorreta: "(B) O IBS não integrará sua própria base de cálculo, mas integrará a base de cálculo de outros tributos, como o Imposto sobre Produtos Industrializados (IPI) e as contribuições sociais". O rol do inciso IX não inclui o IPI.
+> **Lastro:** Q56: PDF p. 29 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q56]] · Q57: PDF p. 30 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q57]]
+
 - § 2º: o DF exerce as competências estadual e municipal na fixação de suas alíquotas.
-- § 3º: LC pode definir como sujeito passivo quem concorrer para a realização, a execução ou o pagamento da operação, ainda que residente ou domiciliado no exterior.
+- § 3º: <mark class="prova" style="background:rgba(0,170,170,0.28)">LC pode definir como sujeito passivo quem concorrer para a realização, a execução ou o pagamento da operação, ainda que residente ou domiciliado no exterior</mark>.
 - § 4º: para distribuir o produto da arrecadação, o Comitê Gestor (I) <mark style="background:#fff88f">retém</mark> montante equivalente ao saldo acumulado de créditos não compensados nem ressarcidos ao fim de cada período e aos valores da devolução do § 5º, VIII; e (II) <mark style="background:#fff88f">distribui</mark> o produto, deduzida a retenção, ao ente de destino das operações que não tenham gerado creditamento. Ver também `Comitê Gestor do IBS: distribuição do produto da arrecadação`.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q21 (gab. B · preliminar)
+> **Trecho usado:** "§ 3º: LC pode definir como sujeito passivo quem concorrer para a realização, a execução ou o pagamento da operação, ainda que residente ou domiciliado no exterior"
+> **Como cobrou:** troca de termo — o item I diz que a LC "poderá definir como sujeito passivo do imposto apenas a pessoa física ou jurídica que seja sujeito passivo habitual do imposto, excluindo-se os residentes ou domiciliados no exterior"; a certa é "(B) Somente a afirmação I é falsa". II, III e IV repetem o §1º, III, VII, X e XII.
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q21]]
+
+> [!tip]- Lupa de prova: Art. 156-A: a banca troca o alcance da regra
+> **O padrão:** a prova cobrou o art. 156-A em três questões (Q21, Q56, Q57), cada uma com um distrator que troca o alcance de uma regra do §1º ou do §3º. (padrão de 1 prova, não confirmado)
+> **A armadilha:** Q21: "apenas… sujeito passivo habitual, excluindo-se os residentes ou domiciliados no exterior" (o §3º alcança o residente no exterior); Q56: "autonomia municipal para definir as alíquotas… em seu território" (alíquota única por ente); Q57: "integrará a base… do IPI" (o rol do inciso IX não tem o IPI).
+> **Como resolver:** releia o inciso ou o parágrafo: o sujeito passivo vai além do habitual (§3º); a alíquota do ente é a mesma para todas as operações (§1º, VI); o IBS não integra a própria base nem a do IS, COFINS, PIS/COFINS-Importação, CBS e PIS (§1º, IX).
 
 ### Art. 156-A, § 5º: reservas de lei complementar
 - [ ] status [dom:: 0] [peso:: 3]
@@ -147,7 +163,7 @@ LC disporá sobre regimes específicos para:
 - § 13 <mark style="background:#fff88f">Devolução obrigatória</mark> nas operações de fornecimento de energia elétrica e de gás liquefeito de petróleo ao consumidor de baixa renda; a LC pode determinar que seja calculada e concedida no momento da cobrança da operação.
 
 ### Art. 156-B: Comitê Gestor do IBS
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 21–23.*
 
@@ -164,9 +180,21 @@ Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma int
 - II: <mark style="background:#fff88f">alternância na presidência</mark> entre o conjunto dos Estados e DF e o conjunto dos Municípios e DF;
 - III: financiado por percentual do produto da arrecadação destinado a cada ente;
 - IV: <mark style="background:#fff88f">controle externo</mark> exercido pelos Estados, DF e Municípios;
-- V: fiscalização, lançamento, cobrança, representação administrativa e judicial feitos pelas <mark style="background:#fff88f">administrações tributárias e procuradorias</mark> dos entes, que podem definir delegação ou compartilhamento de competências, cabendo ao Comitê a coordenação;
+- V: <mark class="prova" style="background:rgba(0,170,170,0.28)">fiscalização, lançamento, cobrança, representação administrativa e judicial feitos pelas </mark><mark style="background:#fff88f">administrações tributárias e procuradorias</mark> dos entes, que podem definir delegação ou compartilhamento de competências, cabendo ao Comitê a coordenação;
 - VI: as competências exclusivas das carreiras de administração tributária e procuradoria são exercidas, no Comitê e na representação dele, por servidores dessas carreiras;
 - VII: estrutura e gestão fixadas em LC, com o regimento interno dispondo sobre organização e funcionamento.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q40, Q56 e Q58 (gab. C, A e D · preliminar)
+> **Trecho usado:** "V: fiscalização, lançamento, cobrança, representação administrativa e judicial feitos pelas administrações tributárias e procuradorias dos entes, que podem definir delegação ou compartilhamento de competências, cabendo ao Comitê a coordenação"
+> **Q40 — como cobrou:** conceito — soma 24 (8 + 16): o item (16) diz que a gestão centralizada resulta na "perda da autonomia dos municípios para fiscalizar, arrecadar e julgar administrativamente o imposto"; a nota mantém a fiscalização e a cobrança com os entes. Ver o aviso abaixo.
+> **Q56 — como cobrou:** conceito — o item I ("arrecadado e fiscalizado diretamente por cada Município") contraria o art. 156-B, que concentra as competências administrativas do IBS no Comitê Gestor.
+> **Q58 — como cobrou:** literalidade — a certa é "(D) A fiscalização, o lançamento, a cobrança e a representação judicial do IBS serão realizadas pelas administrações tributárias e procuradorias dos Estados, do Distrito Federal e dos Municípios, cabendo ao Comitê Gestor a coordenação dessas atividades". As erradas trocam a competência exclusiva do CG (A), o controle externo pelo TCU (B) e a paridade "entre a União, os Estados e os Municípios" (C).
+> **Lastro:** Q40: PDF p. 21 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q40]] · Q56: PDF p. 29 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q56]] · Q58: PDF p. 30 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q58]]
+
+> [!warning]- Gabarito × nota
+> **Gabarito:** Q40, alternativa C (24 = 8 + 16), dá como verdadeiro o item 16 ("perda da autonomia dos municípios para fiscalizar, arrecadar e julgar administrativamente o imposto").
+> **Nota:** o §2º, V, diz que fiscalização, lançamento, cobrança e representação são feitos pelas administrações tributárias e procuradorias dos entes, cabendo ao Comitê a coordenação; com o item 16 falso, a soma dá 8, que não existe entre as opções. Em tensão com a Q58 da mesma prova (gab. D).
+> **Pendência:** conferir a grade definitiva do IBAM e a redação do item no PDF (p. 21); a nota não é corrigida.
 
 **§ 3º Composição da instância máxima:**
 
@@ -190,16 +218,23 @@ Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma int
 ## EC nº 132/2023 (geral)
 
 ### Princípios gerais do Sistema Tributário e LC (arts. 145 e 146)
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 5–6.*
 
 **Art. 145, § 3º:** o Sistema Tributário Nacional observa os princípios da <mark style="background:#fff88f">simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente</mark>. Bizú do resumo: *STJ Coopera para a Defesa do Meio Ambiente*.
 
-> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q2 (gab. C · oficial)
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q59 (gab. D · preliminar) e IBAM 2025 · Arraial do Cabo · Q2 (gab. C · oficial)
 > **Trecho usado:** "Art. 145, § 3º: o Sistema Tributário Nacional observa os princípios da simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente"
-> **Como cobrou:** literalidade — "Além de simplicidade, transparência e justiça tributária, são eles:". A certa é "(C) cooperação e defesa do meio ambiente"; as erradas trocam por "capacidade contributiva", "anterioridade nonagesimal", "eficiência tributária" e "legalidade".
-> **Lastro:** PDF p. 3 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q2]]
+> **Q59 (São Vicente, 2026) — como cobrou:** troca de termo — a certa é "(D) O princípio da defesa do meio ambiente, agora expresso no § 3º do Art. 145 da CF/88, legitima a instituição de tributos com função extrafiscal…". A "(B)" troca o §4º ("atenuar efeitos regressivos") por "priorizar a tributação sobre a renda e o patrimônio em detrimento do consumo".
+> **Q2 (Arraial do Cabo, 2025) — como cobrou:** literalidade — "Além de simplicidade, transparência e justiça tributária, são eles:". A certa é "(C) cooperação e defesa do meio ambiente"; as erradas trocam por "capacidade contributiva", "anterioridade nonagesimal", "eficiência tributária" e "legalidade".
+> **Lastro:** Q59: PDF p. 31 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q59]] · Q2: PDF p. 3 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q2]]
+> **Ponte:** [[ERRO DIREITO TRIBUTÁRIO#27/09]] guarda o seu erro na Q59 (marcou B; certa D).
+
+> [!tip]- Lupa de prova: Art. 145, §§3º e 4º: o princípio e o verbo
+> **O padrão:** a EC 132 (art. 145, §§3º e 4º) foi cobrada em duas provas do IBAM absorvidas (Arraial Q2 e São Vicente Q59), sempre com distratores que trocam o princípio ou o verbo do §4º. (padrão de 2 provas da mesma banca)
+> **A armadilha:** Arraial Q2: "capacidade contributiva", "anterioridade nonagesimal", "eficiência tributária" e "legalidade" no lugar de "cooperação e defesa do meio ambiente"; São Vicente Q59 (B): "priorizar a tributação sobre a renda e o patrimônio em detrimento do consumo" no lugar de "atenuar efeitos regressivos".
+> **Como resolver:** o §3º lista simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente (a neutralidade é do IBS); o §4º manda atenuar efeitos regressivos, sem eleger renda e patrimônio.
 
 ⚠️ O princípio da <mark style="background:#fff88f">neutralidade</mark> não está no rol do § 3º: é do IBS (art. 156-A, § 1º).
 
@@ -495,7 +530,7 @@ II - **fornecimento** de brindes e **bonificações;**
 O IBS e a CBS **não incidem** sobre:
 
 - Fornecimento de serviços por pessoas físicas em decorrência de **relação de emprego** ou de sua **atuação como administradores ou membros de conselhos** de administração e fiscal e **comitês de assessoramento** do conselho de administração do contribuinte previstos em lei
-- Transferências de bens entre **estabelecimentos do mesmo contribuinte**
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">Transferências de bens entre **estabelecimentos do mesmo contribuinte**</mark>
 - **Operações societárias**: baixa, liquidação e transmissão de participações; fusão, cisão e incorporação; integralização e devolução de capital
     - **Exceção**: transferências de bens adquiridos com crédito a sócios não contribuintes regulares (norma antielisiva)
 - **Rendimentos financeiros** <mark style="background:rgba(240, 200, 0, 0.2)">(exceto quando incluídos no regime específico de serviços financeiros ou na regra de juros, multas, acréscimos e encargos)</mark>
@@ -504,6 +539,11 @@ O IBS e a CBS **não incidem** sobre:
 - Transferências de **recursos públicos e demais bens públicos** para organizações da sociedade civil sem fins lucrativos
 - **Destinação de recursos por sociedade cooperativa** para os fundos previstos em lei e reversão dos recursos dessas reservas
 - **Repasses da cooperativa para os seus associados** e **distribuição em dinheiro das sobras** apuradas em demonstração de resultado
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q24 (gab. B · preliminar)
+> **Trecho usado:** "Transferências de bens entre estabelecimentos do mesmo contribuinte"
+> **Como cobrou:** rol — soma de sentenças sobre o art. 6º: I (serviços de PF por relação de emprego ou como administradores) e IV (transferência entre estabelecimentos; fusão, cisão e incorporação) são verdadeiras; a II erra ao dizer que a doação sem contraprestação não incide "mesmo que" os bens tenham dado crédito ao doador; a III erra em "sempre isentos". A certa é "(B) As afirmações I e IV são verdadeiras e a afirmação III é falsa".
+> **Lastro:** PDF p. 12 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q24]]
 
 		Art. 11. Considera-se local da operação com:
 (...)
@@ -541,7 +581,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 **d) entrega.**  #flashcard 
 
 ## Hipóteses de incidência: operação onerosa (art. 4º)
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 > [!info]- Sinalização do PDF
 > No resumo VINTEUM, os dispositivos alterados pela LC 227/26 aparecem em verde; esta nota não reproduz essa marcação dispositivo a dispositivo, conferir no PDF.
@@ -551,6 +591,16 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 - **Irrelevantes** para caracterizar a operação (§3º, IMPORTANTE): o título jurídico pelo qual o bem está na posse do fornecedor; a espécie, tipo ou forma jurídica, a validade jurídica e os efeitos dos atos ou negócios; a obtenção de lucro; o cumprimento de exigências legais, regulamentares ou administrativas. *(Resumo LC 214 Tít. I, p. 9)*
 - §4º: incidem sobre <mark>qualquer operação</mark> do contribuinte, inclusive com **ativo não circulante** ou em **atividade econômica não habitual**. *(Resumo LC 214 Tít. I, p. 9)*
 - §5º: a incidência <mark>não altera a base de cálculo</mark> do ITCD nem do ITBI. §6º: a aquisição e o fornecimento, por PF contribuinte, de bens e serviços **não relacionados à sua atividade econômica** seguem as regras aplicáveis aos não contribuintes. *(Resumo LC 214 Tít. I, p. 9–10)*
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q47 (gab. A · preliminar)
+> **Trecho usado:** "§5º: a incidência não altera a base de cálculo do ITCD nem do ITBI. §6º: a aquisição e o fornecimento, por PF contribuinte, de bens e serviços não relacionados à sua atividade econômica seguem as regras aplicáveis aos não contribuintes"
+> **Como cobrou:** literalidade — V/F: "IV. A incidência do IBS e da CBS… altera a base de cálculo do ITCD e do ITBI" é falso (§5º). O item II, sobre "qualquer operação com bem ou com serviço realizada pelo contribuinte… mas não sobre a aquisição e o fornecimento… por pessoa física contribuinte que não estejam relacionados à sua atividade econômica", reproduz os §§4º e 6º e o gabarito o dá como falso. Ver o aviso abaixo.
+> **Lastro:** PDF p. 25 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q47]]
+
+> [!warning]- Gabarito × nota
+> **Gabarito:** Q47, alternativa A (V, F, V, F), dá o item II como falso.
+> **Nota:** o §4º diz que o IBS e a CBS incidem sobre qualquer operação do contribuinte, inclusive com ativo não circulante ou em atividade econômica não habitual; o §6º manda tratar como não contribuinte a PF que negocia fora de sua atividade. Pela nota, o item II é verdadeiro. A é a única alternativa com I e III verdadeiros e IV falso.
+> **Pendência:** conferir a redação do item no PDF (p. 25) e a grade definitiva; a nota não é corrigida.
 
 > [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q11 (gab. C · oficial)
 > **Trecho usado:** "Operação onerosa (§2º): qualquer fornecimento com contraprestação, inclusive compra e venda, troca ou permuta, dação em pagamento e demais alienações; locação"
@@ -599,13 +649,23 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Momento de ocorrência do fato gerador (art. 10)
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-22
 
 - **Regra (IMPORTANTE):** o fato gerador ocorre no momento do **fornecimento**, ainda que de execução continuada ou fracionada. *(Resumo LC 214 Tít. I, p. 19)*
-- **§1º — considera-se ocorrido o fornecimento** no momento: (I) do **início do transporte**, no serviço de transporte iniciado no País; (II) do **término do transporte**, no transporte de carga iniciado no exterior; (III) do **término do fornecimento**, nos demais serviços; (IV) em que o bem for **encontrado** desacobertado de documentação fiscal idônea; (V) da **aquisição do bem** em licitação pública de bem apreendido ou abandonado ou em leilão judicial. *(Resumo LC 214 Tít. I, p. 19)*
+- **§1º — considera-se ocorrido o fornecimento** no momento: <mark class="prova" style="background:rgba(0,170,170,0.28)">(I) do **início do transporte**, no serviço de transporte iniciado no País</mark>; (II) do **término do transporte**, no transporte de carga iniciado no exterior; (III) do **término do fornecimento**, nos demais serviços; (IV) em que o bem for **encontrado** desacobertado de documentação fiscal idônea; (V) da **aquisição do bem** em licitação pública de bem apreendido ou abandonado ou em leilão judicial. *(Resumo LC 214 Tít. I, p. 19)*
 - §2º: nas aquisições pela administração pública direta, autarquias e fundações sujeitas ao art. 473, o fato gerador ocorre no momento do <mark>pagamento</mark>. §3º: na execução continuada ou fracionada, ocorre na <mark>primeira</mark> entre: (I) exigibilidade da parte da contraprestação de cada pagamento; (II) pagamento da obrigação. *(Resumo LC 214 Tít. I, p. 20)*
 - **§4º — pagamento antes do fornecimento:** (I) a cada parcela paga, exigem-se **antecipações** (base = valor da parcela; alíquotas vigentes na emissão do DF-e do pagamento ou na data do pagamento, <mark>o que ocorrer primeiro</mark>), lançadas como débitos na apuração; (II) na data do fornecimento, calculam-se os valores **definitivos** (base = valor total, incluindo as parcelas antecipadas; alíquotas vigentes na data do fornecimento). Antecipação menor que o definitivo: a diferença vira débito; maior: aplicam-se as regras de pagamento indevido ou a maior. *(Resumo LC 214 Tít. I, p. 20)*
 - §5º: se não houver o fornecimento (inclusive por distrato), aplicam-se as regras do **cancelamento**. §6º: a extinção dos débitos do §4º permite ao adquirente **apropriar crédito** (arts. 47 a 57). §7º: o regulamento estabelecerá hipóteses em que, observado o prazo máximo de <mark>5 dias</mark> entre o pagamento antecipado e o fornecimento, as antecipações constem como débitos do período de apuração do fornecimento. *(Resumo LC 214 Tít. I, p. 20–21)*
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q38 (gab. C · preliminar)
+> **Trecho usado:** "§1º — considera-se ocorrido o fornecimento no momento: (I) do início do transporte, no serviço de transporte iniciado no País; (II) do término do transporte, no transporte de carga iniciado no exterior"
+> **Como cobrou:** troca de termo — pede a incorreta: "(C) … na prestação de serviço de transporte iniciado no País, o fato gerador se dá no término do transporte". A, B e D repetem o §4º, I, o §3º e o §2º.
+> **Lastro:** PDF p. 20 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q38]]
+
+> [!tip]- Lupa de prova: Transporte: início × término
+> **O padrão:** a errada troca o marco do fato gerador do transporte. (padrão de 1 prova, não confirmado)
+> **A armadilha:** "no término do transporte" para o serviço de transporte iniciado no País.
+> **Como resolver:** início: transporte iniciado no País; término: transporte de carga iniciado no exterior (§1º, I e II).
 
 
 ## Local da operação (art. 11)
@@ -633,15 +693,25 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Base de cálculo: complementos (arts. 12 e 13)
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-22
 
 > A regra geral (art. 12, caput), parte do §1º, o §2º, IV e o parágrafo único do art. 13 já estão no texto colado acima. Aqui, o restante.
 
 - **Art. 12, §1º — o valor da operação compreende** o valor integral cobrado pelo fornecedor a qualquer título, inclusive: acréscimos por ajuste do valor; juros, multas, acréscimos e encargos; <mark>descontos condicionais</mark>; transporte cobrado como parte da operação (pelo próprio fornecedor ou por sua conta e ordem); tributos e preços públicos, inclusive tarifas, incidentes sobre a operação ou suportados pelo fornecedor (exceto os do §2º); demais importâncias, inclusive seguros e taxas. *(Resumo LC 214 Tít. I, p. 25–26)*
 - **§2º — não integram:** IBS e CBS incidentes; IPI; <mark>descontos incondicionais</mark>; reembolsos por conta e ordem de terceiros (documento em nome do terceiro); **de 1º/1/2026 a 31/12/2032**, o montante dos tributos dos arts. 155, II, 156, III, 195, I, "b" e IV, e do PIS/Pasep (art. 239); a **COSIP** (art. 149-A). *(Resumo LC 214 Tít. I, p. 26)*
-- §3º: **desconto incondicional** é a parcela redutora do preço que consta do documento fiscal e não depende de evento posterior, inclusive em programa de fidelidade concedido de forma não onerosa pelo fornecedor. §4º: a base é o **valor de mercado** quando faltar o valor da operação, for sem valor determinado, não representado em dinheiro, ou entre partes relacionadas (art. 5º, IV). *(Resumo LC 214 Tít. I, p. 26–27)*
+- §3º: **desconto incondicional** é a parcela redutora do preço que consta do documento fiscal e não depende de evento posterior, inclusive em programa de fidelidade concedido de forma não onerosa pelo fornecedor. §4º: <mark class="prova" style="background:rgba(0,170,170,0.28)">a base é o **valor de mercado** quando faltar o valor da operação, for sem valor determinado, não representado em dinheiro, ou entre partes relacionadas</mark> (art. 5º, IV). *(Resumo LC 214 Tít. I, p. 26–27)*
 - §5º: valor em moeda estrangeira: taxa de câmbio apurada pelo Banco Central. §6º: **derivativos** fora das condições de mercado que ocultem o valor da operação: o ganho no derivativo <mark>compõe a base</mark>. §7º: devolução ou cancelamento: mesma base da operação original. §8º: transporte internacional de passageiros com ida e volta vendidas em conjunto: base = <mark>metade</mark> do valor cobrado. §9º: energia elétrica em aquisição multilateral: valor da liquidação financeira apurada pela CCEE, observada a participação proporcional dos estabelecimentos. *(Resumo LC 214 Tít. I, p. 27)*
 - **Art. 13 — o valor da operação é arbitrado** quando: (I) não exibidos à fiscalização os elementos que comprovem o valor (inclusive por perda, extravio, desaparecimento ou sinistro), nos casos de (a) operação sem documento fiscal ou com documentação inidônea ou (b) valor declarado notoriamente inferior ao de mercado; (II) em qualquer outra hipótese em que as declarações, informações ou documentos forem omissos, conflitantes ou não merecerem fé. *(Resumo LC 214 Tít. I, p. 27)*
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q34 (gab. C · preliminar)
+> **Trecho usado:** "§4º: a base é o valor de mercado quando faltar o valor da operação, for sem valor determinado, não representado em dinheiro, ou entre partes relacionadas"
+> **Como cobrou:** literalidade — a certa é "(C) A base de cálculo do IBS e da CBS corresponderá ao valor de mercado dos bens ou serviços em situações como a falta de valor da operação, operações sem valor determinado ou operações entre partes relacionadas". As erradas invertem o §1º e o §2º: tributos e preços públicos "excluídos" (A), descontos incondicionais "integram" (B), IBS, CBS e IPI "integram" (D).
+> **Lastro:** PDF p. 18 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
+
+> [!tip]- Lupa de prova: Base de cálculo: o que entra e o que sai
+> **O padrão:** as alternativas trocam a lista do que entra (§1º) e do que não entra (§2º) na base. (padrão de 1 prova, não confirmado)
+> **A armadilha:** (A) tributos e preços públicos "excluídos" (entram); (B) descontos incondicionais "integram" (não integram); (D) IBS, CBS e IPI "integram" (não integram).
+> **Como resolver:** entram: juros, multas, descontos condicionais, tributos e preços públicos (com as exceções do §2º); saem: IBS e CBS incidentes, IPI, descontos incondicionais, reembolsos de terceiros e a COSIP.
 
 
 ## Alíquotas padrão (arts. 14 a 17)
@@ -667,17 +737,27 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Sujeição passiva: contribuintes e plataformas digitais (arts. 21 a 23)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 > O conceito de **plataforma digital** (art. 22, §1º) já está no texto colado acima. Aqui, o restante.
 
 - **Art. 21 — é contribuinte:** (I) o **fornecedor** que realizar operações (a) no desenvolvimento de atividade econômica, (b) de modo habitual ou em volume que a caracterize, ou (c) de forma profissional, ainda que a profissão não seja regulamentada; (II) o **adquirente**, ainda que não enquadrado no inciso I, na aquisição de bem apreendido ou abandonado em licitação pública ou em leilão judicial; (III) o **importador**; (IV) quem a LC previr expressamente. *(Resumo LC 214 Tít. I, p. 32)*
 - §1º: o contribuinte é obrigado a se inscrever nos cadastros. §2º: o fornecedor no exterior deve se cadastrar como **contribuinte**, se realizar operações no País, ou como **responsável**, no caso de importações. §4º: na importação de bens materiais, o §2º só vale para remessas internacionais em **tributação simplificada** (art. 95). *(Resumo LC 214 Tít. I, p. 32–33)*
-- **Art. 22 — a plataforma digital, ainda que no exterior, é responsável** (I) **solidariamente com o adquirente ou destinatário e em substituição ao fornecedor**, se este for residente ou domiciliado no exterior; (II) **solidariamente com o fornecedor residente no País** se (a) não prestar as informações do §5º, (b) o fornecedor for contribuinte, ainda que não inscrito, e não emitir DF-e no valor da operação, ou (c) a operação não for registrada em DF-e. *(Resumo LC 214 Tít. I, p. 33)*
+- **Art. 22 — a plataforma digital, ainda que no exterior, é responsável** (I) <mark class="prova" style="background:rgba(0,170,170,0.28)">**solidariamente com o adquirente ou destinatário e em substituição ao fornecedor**, se este for residente ou domiciliado no exterior</mark>; (II) **solidariamente com o fornecedor residente no País** se (a) não prestar as informações do §5º, (b) o fornecedor for contribuinte, ainda que não inscrito, e não emitir DF-e no valor da operação, ou (c) a operação não for registrada em DF-e. *(Resumo LC 214 Tít. I, p. 33)*
 - §2º (IMPORTANTE): **não é plataforma digital** quem executa **somente uma** destas atividades: acesso à internet; pagamentos por instituições autorizadas pelo Banco Central; publicidade; busca ou comparação de fornecedores, <mark>desde que não cobre com base nas vendas</mark>. §11: a plataforma **não responde** nas operações em que não controle nenhum dos elementos essenciais. §3º: o fornecedor no exterior é dispensado de inscrição se atua exclusivamente por plataforma inscrita no regime regular. *(Resumo LC 214 Tít. I, p. 33–35)*
 - §§4º a 7º: CGIBS e RFB informam à plataforma a condição de contribuinte do fornecedor não inscrito; a plataforma informa as operações ao CGIBS e à RFB e, se iniciar o pagamento, as informações para o **split payment**. §7º: a plataforma <mark>não responde pelas diferenças</mark> se o split for possível e ela apresentou as informações dos §§5º e 6º. §10: se responsável, é **solidária** pelos débitos do fornecedor residente inscrito; nos demais casos, calculam-se pelo **regime regular**. *(Resumo LC 214 Tít. I, p. 34–35)*
 - §§12 e 13: com anuência do fornecedor residente, a plataforma pode **optar** por emitir DF-e em seu nome e pagar o tributo ou por ser **substituta tributária** (emitir DF-e, apurar e pagar). §14: se a plataforma emitir o DF-e em até <mark>30 dias</mark> do prazo devido e pagar, os acréscimos e a penalidade recaem só sobre o fornecedor. §15: indisponível a informação sobre as regras do fornecedor, pode usar as **alíquotas de referência**; a diferença é paga pelo fornecedor (alíquota maior) ou devolvida (menor). *(Resumo LC 214 Tít. I, p. 35–36)*
 - **Art. 23:** a plataforma, inclusive a do exterior, deve se inscrever no regime regular. Se o fornecedor ou a plataforma no exterior **não** se inscrever: o IBS e a CBS são segregados e recolhidos, pelas **alíquotas de referência**, nas remessas, pela **instituição que realiza o câmbio**; a diferença é paga pelo adquirente ou importador (alíquota maior) ou devolvida (menor). *(Resumo LC 214 Tít. I, p. 36)*
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q31 (gab. C · preliminar)
+> **Trecho usado:** "Art. 22 — a plataforma digital, ainda que no exterior, é responsável (I) solidariamente com o adquirente ou destinatário e em substituição ao fornecedor, se este for residente ou domiciliado no exterior"
+> **Como cobrou:** literalidade — soma 22 (2 + 4 + 16): o item 16 repete o art. 22, I; o 4, o art. 21, I; o 2, o §3º. O item 8 é falso: "controla a cobrança ou o pagamento, mas… executa apenas serviços de publicidade, não é considerada plataforma digital" mistura o §2º (só deixa de ser plataforma quem executa somente uma das atividades).
+> **Lastro:** PDF p. 16 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q31]]
+
+> [!tip]- Lupa de prova: Plataforma digital: o §2º e o "somente"
+> **O padrão:** soma de sentenças sobre plataformas digitais em que uma sentença mistura o conceito do §2º. (padrão de 1 prova, não confirmado)
+> **A armadilha:** o item (8): plataforma que "atua como intermediária em operações não presenciais e controla a cobrança ou o pagamento, mas… executa apenas serviços de publicidade, não é considerada plataforma digital".
+> **Como resolver:** só deixa de ser plataforma quem executa somente uma das atividades do §2º (acesso à internet, pagamentos, publicidade, busca ou comparação sem cobrar sobre as vendas); quem também controla cobrança ou pagamento continua sendo plataforma.
 
 
 ## Responsabilidade solidária (arts. 24 e 25)
@@ -735,12 +815,17 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Split payment (arts. 31 a 35)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-- **Art. 31:** nas transações de pagamento de operações com bens ou serviços, os **prestadores de serviço de pagamento eletrônico** e as **instituições operadoras de sistemas de pagamento** devem **segregar e recolher** ao CGIBS e à RFB o IBS e a CBS **no momento da liquidação financeira**. §1º: há o procedimento **padrão** (art. 32) e o **simplificado** (art. 33). §3º: vale para **todos** os prestadores, arranjos abertos e fechados, públicos e privados, inclusive os não regulados pelo Banco Central. *(Resumo LC 214 Tít. I, p. 46–47)*
+- **Art. 31:** nas transações de pagamento de operações com bens ou serviços, <mark class="prova" style="background:rgba(0,170,170,0.28)">os **prestadores de serviço de pagamento eletrônico** e as **instituições operadoras de sistemas de pagamento** devem **segregar e recolher** ao CGIBS e à RFB o IBS e a CBS **no momento da liquidação financeira**</mark>. §1º: há o procedimento **padrão** (art. 32) e o **simplificado** (art. 33). §3º: vale para **todos** os prestadores, arranjos abertos e fechados, públicos e privados, inclusive os não regulados pelo Banco Central. *(Resumo LC 214 Tít. I, p. 46–47)*
 - §1º-A: **originador** é quem inicia a transação (pagador ou recebedor); transação **iniciada pelo recebedor** é a originada por instrução ou instrumento dele que define o valor, cabendo ao pagador só efetivar; **iniciada pelo pagador** é a que ele origina, definindo o valor, sem intervenção prévia do recebedor. *(Resumo LC 214 Tít. I, p. 47)*
 - **Procedimento padrão (art. 32):** o originador transmite ao prestador as informações que permitam (I) vincular as operações à transação e (II) identificar os valores de IBS e CBS (transmitidas pelo fornecedor ou adquirente que inicie o pagamento, pela plataforma digital ou por outro que inicie). Antes de liberar os recursos, o prestador **consulta o sistema** do CGIBS e da RFB: o valor a segregar é a diferença positiva entre os **débitos destacados no DF-e** e as parcelas **já extintas** (art. 27). *(Resumo LC 214 Tít. I, p. 47–48)*
 - Se a consulta **não puder ser feita** (§4º): o prestador segrega e recolhe o valor dos débitos das operações vinculadas, com base nas informações recebidas; CGIBS e RFB calculam a dedução das parcelas já extintas e **transferem ao fornecedor o excedente em até 3 dias úteis**. §2º-A: na transação iniciada pelo recebedor, ele pode não transmitir a informação do inciso I, e o fornecedor ou a plataforma inclui no DF-e os dados de vinculação. *(Resumo LC 214 Tít. I, p. 48)*
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q52 (gab. D · preliminar)
+> **Trecho usado:** "os prestadores de serviço de pagamento eletrônico e as instituições operadoras de sistemas de pagamento devem segregar e recolher ao CGIBS e à RFB o IBS e a CBS no momento da liquidação financeira"
+> **Como cobrou:** literalidade — a certa é "(D) … os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos deverão segregar e recolher ao Comitê Gestor do IBS e à RFB os valores do IBS e da CBS no momento da liquidação financeira da transação (split payment)". As erradas trocam a multa e os juros (A, "exclusivamente pela taxa Selic"), a opcionalidade do pagamento automatizado (B, "compulsória") e a devolução do excedente (C).
+> **Lastro:** PDF p. 27 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q52]]
 
 
 ## Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)
@@ -771,28 +856,43 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Recolhimento pelo adquirente e pelo responsável (arts. 36 e 37)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-- **Art. 36:** o adquirente contribuinte do **regime regular** pode pagar o IBS e a CBS da operação se o pagamento ao fornecedor for feito por instrumento **que não permita a segregação** do split. §1º: a opção se exerce **exclusivamente** pelo recolhimento. §3º: o valor recolhido (I) só paga débitos ainda não extintos das respectivas operações; (II) o excedente é transferido ao contribuinte em até <mark>3 dias úteis</mark>. §4º: CGIBS e RFB criam mecanismo para o fornecedor **acompanhar** o recolhimento. *(Resumo LC 214 Tít. I, p. 51–52)*
+- **Art. 36:** o adquirente contribuinte do **regime regular** <mark class="prova" style="background:rgba(0,170,170,0.28)">pode pagar o IBS e a CBS da operação se o pagamento ao fornecedor for feito por instrumento **que não permita a segregação** do split</mark>. §1º: a opção se exerce **exclusivamente** pelo recolhimento. §3º: o valor recolhido (I) só paga débitos ainda não extintos das respectivas operações; (II) o excedente é transferido ao contribuinte em até <mark>3 dias úteis</mark>. §4º: CGIBS e RFB criam mecanismo para o fornecedor **acompanhar** o recolhimento. *(Resumo LC 214 Tít. I, p. 51–52)*
 - **Art. 37:** o art. 29 (pagamento pelo contribuinte) aplica-se, no que couber, ao pagamento por aquele a quem a LC atribuir a condição de **responsável**. *(Resumo LC 214 Tít. I, p. 52)*
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q29 (gab. C · preliminar)
+> **Trecho usado:** "Art. 36: o adquirente contribuinte do regime regular pode pagar o IBS e a CBS da operação se o pagamento ao fornecedor for feito por instrumento que não permita a segregação do split"
+> **Como cobrou:** conceito — o item II é verdadeiro: "O adquirente de bens ou serviços que seja contribuinte do IBS e da CBS pelo regime regular poderá optar por pagar o imposto incidente sobre a operação, caso o pagamento ao fornecedor seja efetuado por instrumento que não permita o split payment". O item I é falso: "a responsabilidade solidária impede a aplicação do split payment" (o art. 37 aplica ao responsável as regras do art. 29).
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q29]]
 
 
 ## Pagamento indevido ou a maior (art. 38)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 - A **restituição** só é devida ao contribuinte se (I) a operação <mark>não tiver gerado crédito</mark> para o adquirente; e (II) observado o **art. 166 do CTN** (prova de que assumiu o encargo ou, se o transferiu a terceiro, de estar por este autorizado a recebê-la). *(Resumo LC 214 Tít. I, p. 52)*
 
 > [!quote]- Texto literal — Art. 38 (Resumo LC 214 Tít. I, p. 52)
 > "Em caso de pagamento indevido ou a maior, a restituição do IBS e da CBS somente será devida ao contribuinte na hipótese em que: I - a operação não tenha gerado crédito para o adquirente dos bens ou serviços; e II - tenha sido observado o disposto no art. 166 da Lei nº 5.172, de 25 de outubro de 1966 (CTN)."
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q29 (gab. C · preliminar)
+> **Trecho usado:** "A restituição só é devida ao contribuinte se (I) a operação não tiver gerado crédito para o adquirente; e (II) observado o art. 166 do CTN"
+> **Como cobrou:** literalidade — o item IV é verdadeiro: "a restituição ao contribuinte somente será devida se a operação não tiver gerado crédito para o adquirente e se for observado o disposto no Art. 166 do Código Tributário Nacional". A certa da questão é "(C) F, V, V, V".
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q29]]
+
 > [!info]- Ponte
 > O art. 38 é a régua do CTN sobre **tributo indireto** aplicada ao IBS/CBS: como o encargo é repassado ao adquirente no preço, a restituição ao contribuinte de direito depende de prova de que assumiu o encargo (não repassou) ou de autorização expressa de quem o suportou — a mesma lógica do art. 166 do CTN detalhada em [[P2 - Direito Tributário#Restituição (arts. 165 a 169)]]. A condição adicional do inciso I (a operação não ter gerado crédito ao adquirente) é o reforço específico do IBS/CBS: se o adquirente já se creditou do valor, devolver o dinheiro ao fornecedor geraria enriquecimento sem causa em dobro (crédito + restituição sobre o mesmo valor).
 
 
 ## Ressarcimento (arts. 39 e 40)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-- **Art. 39:** o contribuinte com **saldo a recuperar** ao fim do período pode pedir ressarcimento integral ou parcial. §1º: o remanescente constitui **crédito**, utilizável em compensação ou ressarcimento posterior. §2º: o pedido é apreciado pelo **CGIBS** (IBS) e pela **RFB** (CBS). *(Resumo LC 214 Tít. I, p. 52)*
+- **Art. 39:** <mark class="prova" style="background:rgba(0,170,170,0.28)">o contribuinte com **saldo a recuperar** ao fim do período pode pedir ressarcimento integral ou parcial</mark>. §1º: o remanescente constitui **crédito**, utilizável em compensação ou ressarcimento posterior. §2º: o pedido é apreciado pelo **CGIBS** (IBS) e pela **RFB** (CBS). *(Resumo LC 214 Tít. I, p. 52)*
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q29 (gab. C · preliminar)
+> **Trecho usado:** "Art. 39: o contribuinte com saldo a recuperar ao fim do período pode pedir ressarcimento integral ou parcial"
+> **Como cobrou:** conceito — o item III é verdadeiro: "poderá solicitar seu ressarcimento integral ou parcial, sendo que o valor remanescente não solicitado constituirá crédito para compensação futura".
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q29]]
 
 
 ## Ressarcimento: prazos (art. 39, §§ 3º a 11)

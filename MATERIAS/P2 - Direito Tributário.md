@@ -599,6 +599,11 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 | Revogação | — | a **qualquer tempo**, por **ato unilateral** do ente que conferiu (§2º) |
 | Não-exercício | **não** a defere a pessoa jurídica de direito público diversa (art. 8º) | — |
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q26 (gab. D · preliminar)
+> **Trecho usado:** "Delegação | indelegável | delegável … aptidão para arrecadar, fiscalizar e executar leis, serviços, atos ou decisões administrativas"
+> **Como cobrou:** literalidade — a certa é "(D) A União pode delegar a um de seus órgãos da administração indireta, como uma autarquia federal, a função de fiscalizar um tributo de sua competência, desde que tal delegação seja formalizada por lei e não implique a transferência da competência para instituir o tributo". A "(A)" e a "(B)" negam a atribuição de funções; a "(C)" diz que ela transfere a titularidade.
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q26]]
+
 ⚠️ **Não é delegação** cometer a **pessoa de direito privado** o encargo ou a função de arrecadar tributos (art. 7º, §3º). Tributo cuja receita seja distribuída a outros entes fica na competência legislativa **daquele a que foi atribuído** (art. 6º, par. único).
 
 > [!quote]- Texto literal: Art. 7º e Art. 8º (CTN Guruja, p. 8)
@@ -667,11 +672,11 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 
 ## Legislação Tributária;   
 ### Fontes da legislação tributária (arts. 96 a 100 do CTN)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *(CTN comentado, Guruja, p. 40–42)*
 
-- **Art. 97, II:** a atualização monetária da base de cálculo **não** é majoração de tributo; ressalvados os arts. 21, 26, 39, 57 e 65 (o art. 52 foi inteiramente revogado; art. 39, revogado em 2026; art. 57, em 1968).
+- **Art. 97, II:** <mark class="prova" style="background:rgba(0,170,170,0.28)">a atualização monetária da base de cálculo **não** é majoração de tributo</mark>; ressalvados os arts. 21, 26, 39, 57 e 65 (o art. 52 foi inteiramente revogado; art. 39, revogado em 2026; art. 57, em 1968).
 - **Art. 98 — tratados:** integram a "legislação tributária" (art. 96); podem **revogar ou modificar** a legislação interna contrária, e as leis futuras devem respeitá-los.
 - **Art. 99 — decreto:** em regra serve para regulamentar a lei e explicar sua aplicação prática.
 - **Art. 100 — normas complementares** (incisos I, II e V transcritos no PDF): atos normativos das autoridades administrativas; decisões administrativas a que a lei atribua eficácia normativa; convênios entre os entes.
@@ -705,6 +710,11 @@ O CTN previa anterioridade só para impostos sobre patrimônio e renda (art. 104
 > I - os atos administrativos a que se refere o inciso I do artigo 100, na data da sua publicação;
 > II - as decisões a que se refere o inciso II do artigo 100 quanto a seus efeitos normativos, 30 (trinta) dias após a data da sua publicação;
 > III - os convênios a que se refere o inciso IV do artigo 100 na data neles prevista.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q51 (gab. B · preliminar)
+> **Trecho usado:** "Art. 97, II: a atualização monetária da base de cálculo não é majoração de tributo"
+> **Como cobrou:** literalidade — a certa é "(B) A majoração de um tributo, para ser válida, deve ser estabelecida por lei, sendo que a modificação da base de cálculo que importe em torná-lo mais oneroso é equiparada à majoração, salvo a mera atualização monetária da base de cálculo, que pode ser realizada por decreto". A "(D)" diz que a atualização por decreto "constitui majoração indireta".
+> **Lastro:** PDF p. 27 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q51]]
 
 > [!warning]- Pendência: numeração do art. 100 no PDF
 > A caixa editorial da p. 42 numera os convênios como inciso "V" e omite o inciso "III"; o texto da lei na p. 41 traz **III** (práticas reiteradamente observadas) e **IV** (convênios). Copiei o texto da p. 41.
@@ -795,7 +805,7 @@ tec resumo:
 
 
 ### Interpretação e Integração da Legislação Tributária (arts. 107 a 112 do CTN);
-- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] [prova:: 1] ✅ 2026-09-14
 Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?indice=1&materia=589).
 
 > Art. 110. A lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos, conceitos e formas de direito privado, utilizados, expressa ou implicitamente, pela Constituição Federal, pelas <mark style="background:rgba(18, 123, 223, 0.55)">Constituições dos Estados, ou pelas Leis Orgânicas do Distrito Federal ou dos Municípios</mark>, para definir ou limitar competências tributárias.
@@ -808,7 +818,17 @@ Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?ind
 
 
 *(CTN comentado, Guruja, p. 44–45)*
-**Art. 109:** os princípios de direito privado servem para **compreender o significado** dos institutos e conceitos (ex.: propriedade, empresa, renda), mas **não** para definir seus **efeitos tributários** — a tributação pode ter regras próprias (ex.: lucro real, presumido).
+**Art. 109:** os princípios de direito privado servem para **compreender o significado** dos institutos e conceitos (ex.: propriedade, empresa, renda), <mark class="prova" style="background:rgba(0,170,170,0.28)">mas **não** para definir seus **efeitos tributários**</mark> — a tributação pode ter regras próprias (ex.: lucro real, presumido).
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q22 (gab. C · preliminar)
+> **Trecho usado:** "os princípios de direito privado servem para compreender o significado dos institutos e conceitos (ex.: propriedade, empresa, renda), mas não para definir seus efeitos tributários"
+> **Como cobrou:** troca de termo — só o item III ("A lei tributária não pode alterar a definição de institutos de direito privado, como "propriedade" ou "renda", quando estes forem utilizados pela Constituição Federal para definir competências tributárias") é verdadeiro. O I inverte o art. 108, §2º (equidade que dispensa tributo devido), o II o §1º (analogia que exige tributo não previsto em lei) e o IV o art. 109 (princípios privados que "alteram" os efeitos jurídicos).
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q22]]
+
+> [!tip]- Lupa de prova: Arts. 108 a 110: os limites que a banca inverte
+> **O padrão:** três dos quatro itens desfazem um limite do CTN. (padrão de 1 prova, não confirmado)
+> **A armadilha:** "a equidade pode ser utilizada… para dispensar o pagamento de tributo devido"; "a analogia… para exigir tributo não previsto em lei"; "princípios gerais de direito privado… para alterar a definição de institutos de direito privado".
+> **Como resolver:** equidade não dispensa tributo devido (art. 108, §2º); analogia não cria tributo (§1º); o direito privado dá o conceito, não o efeito tributário (art. 109); o art. 110 protege os conceitos que a CF usa para definir competências.
 
 **Art. 110 (exemplo):** a CF usa "propriedade" para outorgar o IPTU; o legislador não pode distorcer o conceito para ampliar a competência.
 
@@ -852,7 +872,7 @@ Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?ind
 ## Obrigação Tributária.
 
 ### Fato Gerador (arts. 114 a 118 do CTN)
-- [x] status [dom:: 0] [peso:: 3] [prova:: 3] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] [prova:: 4] ✅ 2026-09-14
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?indice=1&materia=592)
 
 > Art. 114. Fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência.
@@ -874,6 +894,16 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?ind
 | Objeto | pagamento de **tributo ou penalidade pecuniária** (multa) | prestações **positivas** (fazer) ou **negativas** (não fazer) |
 | Fato gerador | situação definida em **lei**, necessária e suficiente | situação definida na **legislação** (sentido amplo) que impõe prática ou abstenção de ato que não seja pagamento |
 | Surgimento / extinção | nasce com o fato gerador; extingue-se com o crédito | finalidade: auxiliar arrecadação e fiscalização |
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q27 (gab. C · preliminar)
+> **Trecho usado:** "Fato gerador | situação definida em lei, necessária e suficiente | situação definida na legislação (sentido amplo) que impõe prática ou abstenção de ato que não seja pagamento"
+> **Como cobrou:** troca de termo — V/F sobre obrigação e fato gerador: a sentença II ("O fato gerador da obrigação tributária acessória é a situação definida em lei como necessária e suficiente à sua ocorrência…") usa a definição da obrigação principal para a acessória, e a III ("a penalidade pecuniária… não se confunde com a obrigação principal de pagar tributo") contraria o art. 113, §1º. O gabarito é "(C) F, V, F, F"; ver o aviso abaixo.
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q27]]
+
+> [!warning]- Gabarito × nota
+> **Gabarito:** Q27, alternativa C (F, V, F, F), dá o item II como verdadeiro.
+> **Nota:** o quadro obrigação principal × acessória diz que o fato gerador da principal é a situação definida em lei, necessária e suficiente, e o da acessória é a situação definida na legislação (sentido amplo) que impõe prática ou abstenção de ato; pela nota, II é falso. Sem F, F, F, F entre as opções, C é a única com I, III e IV falsos.
+> **Pendência:** conferir a redação do item no PDF (p. 14) e a grade definitiva; a nota não é corrigida.
 
 > [!example]- Prova anterior: IBAM 2025 · Mauá · Q22 (gab. B · preliminar)
 > **Trecho usado:** "Objeto | pagamento de tributo ou penalidade pecuniária (multa) | prestações positivas (fazer) ou negativas (não fazer)"
@@ -1160,7 +1190,7 @@ VII - os sócios, no caso de liquidação de sociedade de pessoas.
 # Bloco C:   
 ## Crédito Tributário;   
 ### Lançamento
-- [x] status [dom:: 0] [peso:: 3] [prova:: 2] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] [prova:: 3] ✅ 2026-09-14
 
 Art. 149. O lançamento **é efetuado e revisto de ofício pela autoridade administrativa** nos seguintes casos:  
 [...]  
@@ -1186,13 +1216,28 @@ VII - quando se comprove que o sujeito passivo, ou terceiro em benefício daquel
 > **Como cobrou:** literalidade — a certa é "(B) quando regularmente constituído, somente se modifica ou extingue, ou tem a sua exigibilidade suspensa ou excluída, nos casos previstos em lei". A "(D)" diz que a modificação do crédito "anula o fato gerador".
 > **Lastro:** PDF p. 4 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q7]]
 
-**Art. 142 — mnemônico VDCIP** (lançamento é procedimento administrativo **privativo** da autoridade): **V**erificar a ocorrência do fato gerador · **D**eterminar a matéria tributável · **C**alcular o montante do tributo · **I**dentificar o sujeito passivo · **P**ropor a penalidade cabível, se for o caso.
+**Art. 142 — mnemônico VDCIP** (lançamento é procedimento administrativo **privativo** da autoridade): **V**erificar a ocorrência do fato gerador · **D**eterminar a matéria tributável · **C**alcular o montante do tributo · **I**dentificar o sujeito passivo · <mark class="prova" style="background:rgba(0,170,170,0.28)">**P**ropor a penalidade cabível, se for o caso</mark>.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q54 (gab. B · preliminar)
+> **Trecho usado:** "Art. 142 — mnemônico VDCIP (lançamento é procedimento administrativo privativo da autoridade): Verificar a ocorrência do fato gerador · Determinar a matéria tributável · Calcular o montante do tributo · Identificar o sujeito passivo · Propor a penalidade cabível, se for o caso"
+> **Como cobrou:** literalidade — a sentença I ("O lançamento… mas não inclui a proposição de aplicação de penalidade") nega o último elemento do art. 142; a II ("O AIIM… não se confunde com o lançamento do crédito tributário, que é um ato posterior") também contraria a nota. O gabarito "(A) Somente a sentença IV é falsa" dá I e II como verdadeiras; ver o aviso abaixo.
+> **Lastro:** PDF p. 28 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q54]]
+
+> [!warning]- Gabarito × nota
+> **Gabarito:** Q54, alternativa A (só a sentença IV falsa), dá a sentença I como verdadeira.
+> **Nota:** o art. 142 inclui "propor a penalidade cabível, se for o caso" entre os atos do lançamento; pela nota, I e II são falsas e III é verdadeira. A alternativa B (II falsa; III e IV verdadeiras) é a mais próxima.
+> **Pendência:** conferir a redação das sentenças no PDF (p. 28) e a grade definitiva; a nota não é corrigida.
 
 | Art. 144 | Regra |
 | --- | --- |
 | **Regra geral** | o lançamento considera a lei vigente na data do fato gerador, ainda que depois modificada ou revogada |
 | **Exceção (lei posterior)** | novos critérios de apuração ou processos de fiscalização; ampliação dos poderes de investigação; maiores garantias ou privilégios ao crédito — **exceto** se atribuir responsabilidade a terceiros |
 | **Exceção (fato gerador continuado)** | situações que se prolongam (ex.: propriedade do imóvel): a **lei do tributo fixa a data** em que se considera ocorrido o fato gerador (ex.: 1º de janeiro no IPTU) |
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q42 (gab. A · preliminar)
+> **Trecho usado:** "Regra geral | o lançamento considera a lei vigente na data do fato gerador, ainda que depois modificada ou revogada"
+> **Como cobrou:** literalidade — soma 16: "A legislação aplicável para determinar a natureza do fato gerador e seus efeitos tributários é aquela vigente ao tempo da ocorrência do fato gerador". Os itens 2, 4 e 8 fecham as hipóteses de homologação (2), de alteração do lançamento (4) e de revisão (8).
+> **Lastro:** PDF p. 22 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q42]]
 
 **Art. 148 — arbitramento:** pela doutrina majoritária **não é modalidade de lançamento**, mas técnica de aferição de valor. Pressupostos: o tributo depende de apuração de valor (ex.: ITBI, IPTU) e o sujeito passivo (ou terceiro) não declara ou a declaração é inidônea. A autoridade arbitra mediante **processo regular**; havendo contestação, cabe **avaliação contraditória** (judicial ou administrativa).
 
@@ -1355,7 +1400,12 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 
 ⚠️ **Art. 158:** o pagamento de uma parcela não presume o pagamento das demais (ex.: IPTU parcelado em 10 vezes); quitar um tributo (IPTU de 2023) não presume que outros (IPTU de 2024, IPVA de 2023) estejam pagos.
 
-**Art. 163 — imputação de pagamentos:** a ordem segue do tributo **mais vinculado** à atuação estatal ao menos vinculado — **contribuição de melhoria → taxa → imposto**; quita-se primeiro os débitos mais próximos de prescrever.
+**Art. 163 — imputação de pagamentos:** <mark class="prova" style="background:rgba(0,170,170,0.28)">a ordem segue do tributo **mais vinculado** à atuação estatal ao menos vinculado — **contribuição de melhoria → taxa → imposto**</mark>; quita-se primeiro os débitos mais próximos de prescrever.
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q32 (gab. A · preliminar)
+> **Trecho usado:** "Art. 163 — imputação de pagamentos: a ordem segue do tributo mais vinculado à atuação estatal ao menos vinculado — contribuição de melhoria → taxa → imposto"
+> **Como cobrou:** rol — pede a incorreta: "(A) O pagamento de um crédito tributário pode ser efetuado por qualquer interessado… sub-rogando-se nos direitos do credor" (regra do Código Civil, não do CTN). A "(D)" descreve a imputação do art. 163 ("por obrigação própria, depois por responsabilidade, e, entre os de mesma natureza, os mais antigos").
+> **Lastro:** PDF p. 17 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q32]]
 
 **Consignação (art. 164):** **bitributação** envolve dois ou mais entes sobre o mesmo fato gerador do mesmo contribuinte (ex.: dois Municípios cobram IPTU do mesmo proprietário) → o contribuinte pode consignar. **Bis in idem** envolve um único ente (ex.: IR e CSLL sobre o lucro, ambos da União). Procedente: pagamento considerado efetuado **na data do depósito** e convertido em renda; improcedente (total ou parcial): cobra-se o débito com juros de mora e penalidades.
 
@@ -1671,16 +1721,27 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 ## Administração Tributária;  
 
 ### Fiscalização Tributária (arts. 194 a 200 do CTN)
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/603?indice=1&materia=602)
 
 _Art. 197. Mediante intimação escrita, são obrigados a prestar à autoridade administrativa todas as informações de que disponham com relação aos bens, negócios ou atividades de terceiros
-_II - os **bancos**, casas bancárias, Caixas Econômicas e demais instituições financeiras;_
+_<mark class="prova" style="background:rgba(0,170,170,0.28)">II - os **bancos**, casas bancárias, Caixas Econômicas e demais instituições financeiras;</mark>_
 _IV - os corretores, **leiloeiros** e **despachantes oficiais**;_
 _Parágrafo único. A obrigação prevista neste artigo não abrange a prestação de informações quanto a fatos sobre os quais o informante esteja legalmente obrigado a observar segredo em razão de cargo, ofício, função, ministério, atividade ou profissão._  🤐  
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q36 e Q54 (gab. A e B · preliminar)
+> **Trecho usado:** "II - os bancos, casas bancárias, Caixas Econômicas e demais instituições financeiras"
+> **Q36 — como cobrou:** literalidade — a certa é "(A) A autoridade administrativa pode requisitar informações sobre bens, negócios ou atividades de terceiros a instituições financeiras, sem necessidade de prévia autorização judicial, desde que a requisição seja feita no interesse da fiscalização e do lançamento do crédito tributário". A nota traz o inciso II do art. 197; a dispensa de ordem judicial vem da jurisprudência do STF (fonte externa).
+> **Q54 — como cobrou:** jurisprudência — a sentença III ("a jurisprudência do STF permite que as administrações tributárias municipais requisitem diretamente informações bancárias… sem a necessidade de prévia autorização judicial, desde que haja processo administrativo instaurado") é a mesma tese da Q36.
+> **Lastro:** Q36: PDF p. 19 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q36]] · Q54: PDF p. 28 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q54]]
+
 **"Art. 198.** Sem prejuízo do disposto na legislação criminal, é vedada a divulgação, por parte da Fazenda Pública ou de seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades. [...]
-**_§ 2º O intercâmbio de informação sigilosa, no âmbito da Administração Pública, será realizado mediante processo regularmente instaurado, e a entrega será feita pessoalmente à autoridade solicitante, mediante recibo, que formalize a transferência e assegure a preservação do sigilo."_**
+**_§ 2º O intercâmbio de informação sigilosa, no âmbito da Administração Pública, será realizado <mark class="prova" style="background:rgba(0,170,170,0.28)">mediante processo regularmente instaurado, e a entrega será feita pessoalmente à autoridade solicitante, mediante recibo</mark>, que formalize a transferência e assegure a preservação do sigilo."_**
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q50 (gab. C · preliminar)
+> **Trecho usado:** "§ 2º O intercâmbio de informação sigilosa, no âmbito da Administração Pública, será realizado mediante processo regularmente instaurado, e a entrega será feita pessoalmente à autoridade solicitante, mediante recibo"
+> **Como cobrou:** literalidade — a certa é "(C) O intercâmbio de informação sigilosa entre as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios é permitido para fins de fiscalização tributária, desde que realizado mediante processo regularmente instaurado e com a entrega pessoal à autoridade solicitante, mediante recibo". A "(B)" torna a vedação "absoluta"; a "(D)" nega o segredo profissional do art. 197, p.ú.
+> **Lastro:** PDF p. 26 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q50]]
 
 ![[Pasted image 20260827133809.png|865]]
 
@@ -2107,7 +2168,7 @@ As administrações tributárias da União, dos Estados, do DF e dos Municípios
 # Bloco D:   
 ## Simples Nacional;
 ### Das Disposições Preliminares (arts. 1º e 2º da LC nº 123/2006)
-- [x] status [dom:: 3] [peso:: 3] ✅ 2026-09-22
+- [x] status [dom:: 3] [peso:: 3] [prova:: 1] ✅ 2026-09-22
 
 (https://www.tecconcursos.com.br/aulas/materias/210/assuntos/12729).
 
@@ -2129,7 +2190,12 @@ A **LEI COMPLEMENTAR** também **poderá** **instituir** um regime único d
 
 - será **opcional** para o **contribuinte** 
     
-- **poderão** ser estabelecidas **condições de enquadramento** **diferenciadas** **por Estado** 
+- **poderão** <mark class="prova" style="background:rgba(0,170,170,0.28)">ser estabelecidas **condições de enquadramento** **diferenciadas** **por Estado**</mark> 
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q25 (gab. A · preliminar)
+> **Trecho usado:** "poderão ser estabelecidas condições de enquadramento diferenciadas por Estado"
+> **Como cobrou:** literalidade — V/F sobre o regime único: a sentença III (regime opcional, recolhimento centralizado e unificado, enquadramento "diferenciado por Estado") é a verdadeira; a II nega a diferenciação por Estado; a IV põe o regime numa "lei ordinária federal" com alíquotas uniformes. A certa é "(A) As afirmações I e IV são falsas e a afirmação III é verdadeira".
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q25]]
     
 - o **recolhimento** será **unificado + centralizado** 
     
@@ -4393,18 +4459,23 @@ A **constituição definitiva do crédito tributário** é condição essencial 
 O objetivo da inscrição em dívida ativa é extrair a **Certidão de Dívida Ativa (CDA)**, que é um **título executivo extrajudicial** que viabiliza a **propositura da ação de execução fiscal.**
 
 #### 1.2.1. Presunção de Certeza e Liquidez
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-A dívida regularmente inscrita goza de **presunção relativa** (_juris tantum_) de **certeza** e **liquidez**, conforme estabelece o art. 204 do CTN:
+A dívida regularmente inscrita goza de <mark class="prova" style="background:rgba(0,170,170,0.28)">**presunção relativa** (_juris tantum_) de **certeza** e **liquidez**</mark>, conforme estabelece o art. 204 do CTN:
 
 > _Art. 204. A dívida regularmente inscrita goza da presunção de certeza e liquidez e tem o efeito de prova pré-constituída._
 > 
 > _Parágrafo único. A presunção a que se refere este artigo é relativa e pode ser ilidida por prova inequívoca, a cargo do sujeito passivo ou do terceiro a que aproveite._
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q49 (gab. B · preliminar)
+> **Trecho usado:** "Parágrafo único. A presunção a que se refere este artigo é relativa e pode ser ilidida por prova inequívoca, a cargo do sujeito passivo ou do terceiro a que aproveite"
+> **Como cobrou:** literalidade — V/F: a III ("a presunção de certeza e liquidez da dívida regularmente inscrita é relativa e pode ser ilidida por prova inequívoca") é verdadeira; a IV ("essa presunção é absoluta e não pode ser ilidida por prova em contrário") é falsa. A certa é "(B) F, F, V, F".
+> **Lastro:** PDF p. 26 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q49]]
+
 💡 A presunção relativa admite prova em contrário, cabendo ao sujeito passivo apresentar provas inequívocas que afastem a certeza ou liquidez do crédito.
 
 #### 1.2.2. Requisitos do Termo de Inscrição da Dívida Ativa
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 O CTN estabelece os **requisitos obrigatórios** que devem constar no termo de inscrição da dívida ativa, conforme o art. 202:
 
@@ -4422,10 +4493,15 @@ O CTN estabelece os **requisitos obrigatórios** que devem constar no termo de i
 > 
 > _Parágrafo único. A certidão conterá, além dos requisitos deste artigo, a indicação do livro e da folha da inscrição._
 
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q39 (gab. B · preliminar)
+> **Trecho usado:** "Parágrafo único. A certidão conterá, além dos requisitos deste artigo, a indicação do livro e da folha da inscrição"
+> **Como cobrou:** literalidade — a certa é "(B) A certidão de dívida ativa (CDA) deve conter, além dos requisitos do termo de inscrição, a indicação do livro e da folha da inscrição". A "(C)" torna facultativa a menção da lei em que o crédito se funda (inciso III); a "(D)" exige o número do processo administrativo "em todas as hipóteses" (inciso V: "sendo caso").
+> **Lastro:** PDF p. 20 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q39]]
+
 ⚠️ A omissão ou erro nos requisitos acima são causas de **nulidade da inscrição** e do processo de cobrança dela decorrente, conforme o art. 203 do CTN.
 
 #### 1.2.3. Substituição da CDA
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 Segundo a **Súmula 392 do STJ**: _“a Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução”_.
 
@@ -4442,14 +4518,24 @@ Segundo a **Súmula 392 do STJ**: _“a Fazenda Pública pode substituir a certi
 
 🚨 O **Tema 166** (REsp 1.045.472, Recursos Repetitivos) fixou que mudar o fundamento legal de um imposto para outro **não é correção formal** — exige anulação da inscrição e novo lançamento administrativo, extinguindo a execução em curso. O **Tema 1350** (STJ, out/2025) reafirmou: nenhuma emenda corrige o fundamento legal do débito.
 
-Base legal: CTN art. 203 (nulidade sanável até decisão de 1ª instância) e LEF art. 2º, § 8º (CDA emendável/substituível até decisão de 1ª instância — jurisprudência estende até a sentença dos embargos).
+Base legal: <mark class="prova" style="background:rgba(0,170,170,0.28)">CTN art. 203 (nulidade sanável até decisão de 1ª instância)</mark> e LEF art. 2º, § 8º (CDA emendável/substituível até decisão de 1ª instância — jurisprudência estende até a sentença dos embargos).
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q49 (gab. B · preliminar)
+> **Trecho usado:** "CTN art. 203 (nulidade sanável até decisão de 1ª instância)"
+> **Como cobrou:** literalidade — V/F: a I acerta a sanabilidade até a decisão de primeira instância e a substituição da certidão nula, mas amplia a defesa a "toda a matéria" (o art. 203 limita à parte modificada); a II ("nulidade absoluta e insanável") é falsa.
+> **Lastro:** PDF p. 26 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q49]]
 
 ### 1.3. Inscrição em Dívida Ativa e Suspensão da Prescrição
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 O art. 2º, § 3º, da LEF estabelece que a inscrição do crédito em Dívida Ativa **suspende a prescrição** pelo prazo de **180 dias**, ou **até a distribuição da execução fiscal**, se esta ocorrer antes.
 
-⚠️ Entretanto, o STJ entende que esse dispositivo da LEF se aplica apenas às **dívidas de natureza não tributária**, uma vez que a regulamentação da prescrição em matéria tributária está sujeita à **reserva de lei complementar** (art. 146, III, b, da CF/88).
+⚠️ Entretanto, o STJ entende que esse dispositivo da LEF <mark class="prova" style="background:rgba(0,170,170,0.28)">se aplica apenas às **dívidas de natureza não tributária**</mark>, uma vez que a regulamentação da prescrição em matéria tributária está sujeita à **reserva de lei complementar** (art. 146, III, b, da CF/88).
+
+> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q60 (gab. A · preliminar)
+> **Trecho usado:** "esse dispositivo da LEF se aplica apenas às dívidas de natureza não tributária"
+> **Como cobrou:** literalidade — pede a incorreta: "(A) O crédito tributário prescreve em 5 (cinco) anos, contados da data de sua constituição definitiva, sendo que a inscrição em Dívida Ativa tem o condão de interromper esse prazo prescricional, reiniciando a contagem". Na dívida tributária a inscrição não interrompe (a suspensão de 180 dias da LEF vale só para a não tributária).
+> **Lastro:** PDF p. 31 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q60]]
 
 #### Jurisprudência ⚖️
 - [ ] status [dom:: 0] [peso:: 3]

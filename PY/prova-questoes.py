@@ -46,8 +46,12 @@ RE_RODAPE = re.compile(r"\s+[A-ZÀ-Ú]{4,}[A-ZÀ-Ú ,.\-]{12,}\s[-–]\s\d{1,3}\
 IGNORA_TITULO = re.compile(r"ANTES DE INICIAR|INSTRU|TIPO|CADERNO|CONCURSO|PREFEITURA|EDITAL|Quest[ãa]o", re.I)
 
 
+RE_LIXO = re.compile(r"^(GABARITO PRELIMINAR|voltar|20\d\d\s*©\s*\w+)\s*$")  # ruído de página impressa do site da banca
+
+
 def colunas_md(pdf: Path) -> str:
-    """PDF em duas colunas: linhas da coluna esquerda e depois da direita, cada uma de cima para baixo."""
+    """PDF em duas colunas: linhas da coluna esquerda e depois da direita, cada uma de cima para baixo.
+    Linhas em negrito, curtas, sem pontuação e na margem esquerda (título de disciplina) viram '### título'."""
     import pymupdf
     out = [f"<!-- fonte: {pdf.name} (colunas) -->"]
     for i, pg in enumerate(pymupdf.open(str(pdf)), 1):
@@ -56,13 +60,52 @@ def colunas_md(pdf: Path) -> str:
         for b in pg.get_text("dict")["blocks"]:
             for l in b.get("lines", []):
                 t = "".join(sp["text"] for sp in l["spans"]).strip()
-                if t:
+                if t and not RE_LIXO.match(t):
                     x0, y0 = l["bbox"][0], l["bbox"][1]
-                    ls.append((0 if x0 < meio else 1, round(y0, 1), x0, t))
+                    negrito = all(sp["flags"] & 16 for sp in l["spans"] if sp["text"].strip())
+                    ls.append((0 if x0 < meio else 1, round(y0, 1), x0, t, negrito))
         out.append(f"<!-- p.{i} -->\n")
-        for _, _, _, t in sorted(ls):
-            out.append(re.sub(r"^(Quest[ãa]o\s+\d+)\s*$", r"### \1", t) + ("\n" if t.startswith("Quest") else ""))
+        for _, _, x0, t, negrito in sorted(ls):
+            if negrito and x0 < 60 and len(t) < 45 and not re.search(r"[.:;,?]$", t) and not re.match(r"^(Quest|[A-E]\))", t):
+                out.append(f"### {t}\n")
+            else:
+                out.append(re.sub(r"^(Quest[ãa]o\s+\d+)\s*$", r"### \1", t) + ("\n" if t.startswith("Quest") else ""))
     return "\n".join(out)
+
+
+def gabarito_caixas(pdf: Path) -> dict:
+    """PDF que é impressão de página do site da banca: a alternativa do gabarito vem numa caixa verde
+    (retângulo vetorial de contorno verde, com 'GABARITO PRELIMINAR'). Devolve {n: letra}. É o gabarito
+    PRELIMINAR da página; caixa cortada na quebra de página não é lida (a questão fica de fora)."""
+    import pymupdf
+    ev = []
+    for pi, pg in enumerate(pymupdf.open(str(pdf))):
+        for bl in pg.get_text("dict")["blocks"]:
+            for ln in bl.get("lines", []):
+                t = "".join(sp["text"] for sp in ln["spans"]).strip()
+                m = re.match(r"Quest[ãa]o\s+(\d+)\s*$", t)
+                if m:
+                    ev.append((pi, ln["bbox"][1], "Q", int(m.group(1))))
+        for dr in pg.get_drawings():
+            c, r = dr.get("color"), dr["rect"]
+            if c and abs(c[0]) < 0.1 and 0.4 < c[1] < 0.6 and abs(c[2]) < 0.1 and r.width > 300:
+                letra = None
+                for bl in pg.get_text("dict", clip=r)["blocks"]:
+                    for ln in bl.get("lines", []):
+                        t = "".join(sp["text"] for sp in ln["spans"]).strip()
+                        m = re.match(r"^([A-E])\)", t) or re.search(r"\s([A-E])\)\s*$", t)
+                        if m and letra is None:
+                            letra = m.group(1)
+                if letra:
+                    ev.append((pi, r.y0, "G", letra))
+    ev.sort(key=lambda e: (e[0], e[1]))
+    res, q = {}, None
+    for _, _, tipo, v in ev:
+        if tipo == "Q":
+            q = v
+        elif q is not None and q not in res:
+            res[q] = v
+    return res
 
 
 def texto_de(caminho: str, colunas: bool = False) -> str:
@@ -211,6 +254,12 @@ def main():
     gabs = {t: g for t, g in gabs.items() if len(g) >= 0.8 * total}  # cobertura mínima: senão é ruído do texto
     tipo_capa = RE_TIPO_CAPA.search(txt[:4000])
     tipo = a.tipo or (int(tipo_capa.group(1)) if tipo_capa else None)
+    if not gabs and not a.gabarito and Path(a.prova).suffix.lower() == ".pdf":
+        cx = gabarito_caixas(Path(a.prova))
+        if len(cx) >= 0.8 * total:
+            gabs = {None: cx}
+            print(f"gabarito lido das caixas verdes do PDF: {len(cx)} respostas (é o PRELIMINAR da página impressa; "
+                  "confira a grade definitiva no site da banca e o edital de recursos)")
     gab = None
     if not gabs:
         print("⚠️ SEM gabarito confiável (nem no arquivo, nem em --gabarito). Passe o PDF/edital do gabarito com --gabarito.")
