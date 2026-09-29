@@ -644,6 +644,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)]] — o § 2º-A ainda não está registrado nessa nota (a nota resume o art. 33 até o § 7º, sem o § 2º-A da LC 227/2026); vale acrescentar na próxima passada pelo `/absorver-pdf` da LC 227/2026.
 > > **Fonte:** comentário do TEC (LC 214/2025 + LC 227/2026, art. 33)
+>
+> **Prova anterior (29/09 · 1 prova absorvida):** ✅ Condiz — a IBAM 2026 Bragança Q31 (gab. A) cobrou a mesma regra: transação sem identificação dos valores implica opção pelo simplificado (§2º-A do art. 33) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354359) — Split payment padrão: consulta indisponível — CGIBS/RFB transferem ao fornecedor, não ao adquirente (§4º)
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -669,6 +671,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Split payment (arts. 31 a 35)]] — já registrado ("CGIBS e RFB calculam a dedução das parcelas já extintas e transferem ao fornecedor o excedente em até 3 dias úteis"); trecho já estava correto no cofre, sem grifo de mark, o Pedro só não tinha fixado.
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:712`
+>
+> **Prova anterior (29/09 · 1 prova absorvida):** 🔶 Mesmo mecanismo, outro dispositivo — a IBAM 2026 Bragança Q31 (gab. A) usou a consulta prévia do art. 32 só como distrator, na alternativa (C) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354367) — Split payment: prestadores de pagamento não são responsáveis tributários (art. 34, V, "b")
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -691,6 +695,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)]] — o não-responsabilidade dos prestadores já está registrada aqui, com a mesma pegadinha de 20/09 na ponte da nota.
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:720`
+>
+> **Prova anterior (29/09 · 1 prova absorvida):** 🔶 Mesmo heading, outro ângulo — a IBAM 2026 Bragança Q31 (gab. A) usou o art. 34, V (prestadores não são responsáveis tributários) só como distrator, na alternativa (B) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354373) — Recolhimento pelo adquirente quando o instrumento de pagamento não permite split (art. 36)
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -1321,6 +1327,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Split payment (arts. 31 a 35)|Split payment (arts. 31 a 35)]] — o § 1º-A está lá; já estava no cofre (sem grifar agora).
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:710` · TEC #4042639 · comentário do TEC (LC 214/2025, art. 31, redação da LC 227/2026)
+>
+> **Prova anterior (29/09 · 1 prova absorvida):** 🔶 Mesma norma, outro dispositivo — a IBAM 2026 Bragança Q31 (gab. A) cobrou o procedimento simplificado (arts. 33 a 35); este cobra a transação iniciada pelo recebedor (art. 31, §1º-A) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]]
 
 > [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · CEBRASPE (SEFAZ SE, 2025) — Não cumulatividade: imunidade/isenção anulam crédito; alíquota zero mantém (arts. 51 e 52) e mesmas regras para IBS e CBS (art. 149-B, IV, CF)
 > No que diz respeito à não cumulatividade do IBS e da contribuição social sobre bens e serviços (CBS), assinale a opção **correta**.

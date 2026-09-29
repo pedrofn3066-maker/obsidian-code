@@ -208,7 +208,7 @@ Entretanto, o STF não seguiu essa linha de raciocínio. <mark style="backgroun
 ![[Pasted image 20260823125124.png]]
 
 ## - Controle da administração pública no direito brasileiro.
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 **Conceito**: conjunto de mecanismos jurídicos e administrativos de fiscalização e correção da atuação estatal, para assegurar que a Administração observe a **legalidade** (e a juridicidade, em sentido amplo — princípios) e persiga o **interesse público** (mérito).
 
@@ -224,6 +224,11 @@ Entretanto, o STF não seguiu essa linha de raciocínio. <mark style="backgroun
 
 > **Súmula 346, STF** — A Administração Pública pode declarar a nulidade dos seus próprios atos.
 > **Súmula 473, STF** — A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q24 (gab. B · oficial)
+> **Trecho usado:** "Súmula 473, STF — A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos"
+> **Como cobrou:** jurisprudência — a certa é "(B) A presunção de legitimidade dos atos administrativos, como o auto de infração tributário, não impede o controle judicial de sua legalidade e moralidade, sendo que a autotutela administrativa permite à própria Administração anular atos ilegais, independentemente de provocação do contribuinte, conforme entendimento sumulado do STF".
+> **Lastro:** Caderno tipo 3, p. 12 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q24]]
 
 ⚠️ A Lei nº 9.784/1999, art. 54, limita esse poder: a Administração **decai** do direito de anular atos administrativos favoráveis a destinatários, de que não decorram efeitos patrimoniais contínuos, em **5 anos**, contados da prática, salvo comprovada **má-fé**.
 
@@ -296,7 +301,7 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 # Bloco B:
 
 ## - Responsabilidade Civil do Estado.
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 **Evolução histórica** — da irresponsabilidade à responsabilidade objetiva:
 1. **Teoria da irresponsabilidade** (Estado absolutista — "The King can do no wrong"): superada, incompatível com o Estado de Direito.
@@ -328,9 +333,14 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 
 **Ação de reparação e ação de regresso**
 - A vítima aciona **diretamente o Estado** (responsabilidade objetiva, sem precisar provar dolo/culpa do agente). O STF consagrou a **tese da dupla garantia**: o particular **não pode acionar diretamente o agente público** — só o Estado; e o agente só responde perante o Estado, em ação de regresso (<mark style="background:rgba(240, 167, 216, 0.55)">RE 327.904</mark>, Rel. Min. Carlos Britto). A dupla garantia protege a vítima (Estado sempre solvente) e o agente (que só responde internamente, mediante prova de dolo ou culpa).
-- **Ação de regresso** (Estado contra o agente): natureza **subjetiva** — exige prova de **dolo ou culpa** do agente (CF, art. 37, § 6º, parte final).
+- **Ação de regresso** (Estado contra o agente): <mark class="prova" style="background:rgba(0,170,170,0.28)">natureza **subjetiva** — exige prova de **dolo ou culpa** do agente</mark> (CF, art. 37, § 6º, parte final).
 - #jurisprudencia
 - <mark style="background:rgba(240, 167, 216, 0.55)">São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato **doloso** tipificado na Lei de Improbidade Administrativa</mark> — STF, RE 852.475 (Tema 897, repercussão geral). ⚠️ O próprio julgamento distinguiu dolo de culpa para esse efeito: se o ato for **culposo**, aplica-se a prescrição comum — atenção a esse recorte em prova.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q26 (gab. C · oficial)
+> **Trecho usado:** "Ação de regresso (Estado contra o agente): natureza subjetiva — exige prova de dolo ou culpa do agente"
+> **Como cobrou:** conceito — a certa é "(C) O direito de regresso do Município contra o agente público fiscal que, com dolo ou culpa, causou danos a terceiros, é uma ação autônoma e prescinde da prévia condenação do agente em processo administrativo disciplinar". A nota cobre "dolo ou culpa"; "prescinde de processo administrativo disciplinar" e a responsabilidade de concessionária (D) não estão na nota.
+> **Lastro:** Caderno tipo 3, p. 13 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q26]]
 
 **Responsabilidade por atos legislativos e judiciais** (regra: **irresponsabilidade**, por exceção)
 - **Atos legislativos**: em regra o Estado não responde por lei geral e abstrata (risco inerente à vida em sociedade). Exceções: **lei declarada inconstitucional** pelo STF (após o reconhecimento da inconstitucionalidade, cabe responsabilização pelos danos); **leis de efeitos concretos** (que, embora com forma de lei, têm destinatário determinado — equiparam-se a ato administrativo).

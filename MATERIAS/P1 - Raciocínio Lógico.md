@@ -56,7 +56,7 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 **Bloco A**
 
 ### - Lógica de Proposição e Lógica de Argumentação.
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 **1.4 Sentenças Abertas e Fechadas**
 
@@ -95,7 +95,12 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 - Nenhum A é B: _A → ~ B_
 
 **Negação de Quantificadores**
-- **Todo** se nega por **Algum / Existe um / Pelo menos um** (nunca por "nenhum") — nega-se o quantificador **e** o predicado.
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">**Todo** se nega por **Algum / Existe um / Pelo menos um** (nunca por "nenhum")</mark> — nega-se o quantificador **e** o predicado.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q11 (gab. D · oficial)
+> **Trecho usado:** "Todo se nega por Algum / Existe um / Pelo menos um (nunca por "nenhum")"
+> **Como cobrou:** conceito — pede a negação de "Todos os contratos analisados apresentaram conformidade documental". A certa é "(D) Ao menos um contrato analisado não apresentou conformidade documental"; "(A) Nenhum dos contratos analisados apresentou conformidade documental" é a troca clássica.
+> **Lastro:** Caderno tipo 3, p. 7 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q11]]
 
 Ex.: "Todo funcionário daquela loja é atencioso" → "Existe pelo menos um funcionário daquela loja que não é atencioso."
 

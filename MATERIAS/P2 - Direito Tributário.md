@@ -209,7 +209,18 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 
 #### Taxas (arts. 77 a 80)
 
-⚠️ **Súmula Vinculante 29:** é constitucional adotar, no cálculo da taxa, um ou mais elementos da base de cálculo própria de imposto, desde que **não haja integral identidade** entre as bases.
+⚠️ **Súmula Vinculante 29:** é constitucional adotar, no cálculo da taxa, um ou mais elementos da base de cálculo própria de imposto, <mark class="prova" style="background:rgba(0,170,170,0.28)">desde que **não haja integral identidade** entre as bases</mark>.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q20 e Q32 (gab. C e A · oficial)
+> **Trecho usado:** "desde que não haja integral identidade entre as bases"
+> **Q20 — como cobrou:** jurisprudência — pede a sentença incorreta; é a "(C)": a Taxa de Coleta de Lixo teria de ter base de cálculo que reflita o serviço, "sendo vedada a utilização da mesma base de cálculo do IPTU, como a metragem da testada do imóvel".
+> **Q32 — como cobrou:** jurisprudência — soma 26 (2 + 8 + 16). O item (4) diz que a base pela metragem linear da testada "pode ser considerada inconstitucional se houver identidade com a base de cálculo do IPTU" e fica fora da soma. O item (2), pavimentação e recapeamento como despesa geral do município, a nota não trata.
+> **Lastro:** Q20: Caderno tipo 3, p. 10 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]] · Q32: Caderno tipo 3, p. 16 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]]
+
+> [!tip]- Lupa de prova: SV 29 e a base de cálculo da taxa
+> **O padrão:** a mesma prova cobra a SV 29 em duas questões (Q20 e Q32), as duas com taxa medida pela testada ou metragem e a pergunta "pode a base coincidir com a do IPTU?". (2 questões da mesma prova; padrão de 1 prova, não confirmado)
+> **A armadilha:** a Q20 (C) vira a SV 29 em proibição total ("vedada a utilização da mesma base"); a Q32 (4) diz "identidade" sem o "integral" — e a soma do gabarito o deixa de fora. A leitura do item (4) é inferência, não está no gabarito.
+> **Como resolver:** a SV 29 admite usar um ou mais elementos da base do imposto; o que a torna inconstitucional é a integral identidade entre as bases. Na dúvida, procure a palavra "integral".
 
 | Elemento | Regra |
 | --- | --- |
@@ -262,6 +273,11 @@ Segundo o STF, as contribuições residuais não poderão ter fato gerador ou b
 | Limites | total: **custo da obra**; individual: **valorização** do imóvel |
 | Publicação prévia | memorial descritivo; orçamento; parcela do custo a financiar; delimitação da zona beneficiada; fator de absorção do benefício da valorização |
 | Impugnação | prazo **não inferior a 30 dias**; regulamentação do processo de instrução e julgamento, sem prejuízo de apreciação judicial |
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q32 (gab. A · oficial)
+> **Trecho usado:** "Fato gerador | valorização imobiliária · Limites | total: custo da obra; individual: valorização do imóvel"
+> **Como cobrou:** conceito — item (8), tido como verdadeiro: o município poderia instituir contribuição de melhoria "para custear a valorização imobiliária decorrente de obras de pavimentação e recapeamento, desde que observados os limites legais". Está na soma 26.
+> **Lastro:** Caderno tipo 3, p. 16 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]]
 
 #### COSIP (art. 82-A)
 
@@ -836,7 +852,7 @@ Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?ind
 ## Obrigação Tributária.
 
 ### Fato Gerador (arts. 114 a 118 do CTN)
-- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] [prova:: 1] ✅ 2026-09-14
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?indice=1&materia=592)
 
 > Art. 114. Fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência.
@@ -887,6 +903,11 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?ind
 > Art. 117 Para os efeitos do inciso II do artigo anterior e salvo disposição de lei em contrário, os atos ou negócios jurídicos condicionais reputam-se perfeitos e acabados:
 > I - sendo suspensiva a condição, desde o momento de seu implemento;
 > II - sendo resolutória a condição, desde o momento da prática do ato ou da celebração do negócio.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q33 (gab. C · oficial)
+> **Trecho usado:** "§ 3º A obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente a penalidade pecuniária."
+> **Como cobrou:** literalidade — pede a incorreta: "(C) A fiscalização municipal pode exigir a emissão retroativa das NFS-e e o recolhimento do ISSQN, mas não pode aplicar multas por descumprimento de obrigação acessória". A "(A)", certa, diz que a multa "convert[e]-se em obrigação tributária principal".
+> **Lastro:** Caderno tipo 3, p. 16 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q33]]
 
 > [!tip]- Lupa: obrigação principal × acessória e a condição do art. 117
 > **A ideia em uma frase:** o CTN separa quem paga (principal) de quem faz ou deixa de fazer algo no interesse da fiscalização (acessória), e diz quando o fato gerador de um negócio condicional se considera ocorrido.
@@ -1114,7 +1135,7 @@ VII - os sócios, no caso de liquidação de sociedade de pessoas.
 # Bloco C:   
 ## Crédito Tributário;   
 ### Lançamento
-- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] [prova:: 1] ✅ 2026-09-14
 
 Art. 149. O lançamento **é efetuado e revisto de ofício pela autoridade administrativa** nos seguintes casos:  
 [...]  
@@ -1151,6 +1172,12 @@ VII - quando se comprove que o sujeito passivo, ou terceiro em benefício daquel
 | **De ofício** | determinação legal; falta de declaração; falta ou deficiência em esclarecimentos; falsidade, erro ou omissão; omissão ou inexatidão (tributos por homologação); ação ou omissão que enseje penalidade; dolo, fraude ou simulação; fato não conhecido; fraude ou falta funcional da autoridade |
 | **Por homologação** | contribuinte calcula e **antecipa o pagamento** sem exame prévio; depois a autoridade homologa. Pagamento extingue o crédito sob **condição resolutória**; prazo de homologação: **5 anos** do fato gerador; silêncio = **homologação tácita** e extinção do crédito (salvo dolo, fraude ou simulação) |
 
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q25 e Q34 (gab. C e D · oficial)
+> **Trecho usado:** "Por homologação | contribuinte calcula e antecipa o pagamento sem exame prévio… prazo de homologação: 5 anos do fato gerador; silêncio = homologação tácita"
+> **Q25 — como cobrou:** conceito — o item I, tido como verdadeiro, descreve o lançamento por homologação e a homologação tácita no prazo legal.
+> **Q34 — como cobrou:** conceito — a certa é "(D) O lançamento por homologação implica que o tomador do serviço, na condição de responsável tributário, deve antecipar o pagamento do ISSQN sem prévio exame da autoridade administrativa, que terá o prazo de cinco anos para homologar ou não o valor recolhido".
+> **Lastro:** Q25: Caderno tipo 3, p. 12 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q25]] · Q34: Caderno tipo 3, p. 17 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
+
 ⚠️ Enquanto não há homologação, os atos do contribuinte não afetam a obrigação: o Fisco os considera para calcular saldos e penalidades (art. 150).
 
 *(CTN comentado, Guruja, p. 56–60)*
@@ -1184,7 +1211,7 @@ O **art. 144** (lei aplicável ao lançamento) está transcrito na seção de Vi
 
 
 ### Suspensão do Crédito tributário 
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 **Jurisprudência (Resumo VINTEUM D. Tributário)**
 - **Súmula STJ 112:** o depósito só suspende a exigibilidade se for <mark>integral e em dinheiro</mark>. — *Resumo Jurisp. Trib., p. 21*
@@ -1193,7 +1220,12 @@ O **art. 144** (lei aplicável ao lançamento) está transcrito na seção de Vi
 
 *(CTN comentado, Guruja, p. 62–64)*
 
-**Art. 151 — suspendem a exigibilidade:** moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações; parcelamento. O parágrafo único não dispensa as **obrigações acessórias** dependentes.
+**Art. 151 — suspendem a exigibilidade:** moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações; <mark class="prova" style="background:rgba(0,170,170,0.28)">parcelamento</mark>. O parágrafo único não dispensa as **obrigações acessórias** dependentes.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q35 (gab. C · oficial)
+> **Trecho usado:** "Art. 151 — suspendem a exigibilidade: moratória; depósito do montante integral; reclamações e recursos administrativos; liminar em mandado de segurança; liminar ou tutela antecipada em outras ações; parcelamento."
+> **Como cobrou:** conceito — item (4), tido como verdadeiro: o parcelamento deferido "suspende a exigibilidade do crédito tributário, impedindo que o município promova a execução fiscal enquanto o contribuinte estiver adimplente com as parcelas".
+> **Lastro:** Caderno tipo 3, p. 17 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q35]]
 
 #### Moratória (arts. 152 a 155)
 
@@ -1396,6 +1428,17 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 | Termo inicial | 1º dia do exercício seguinte àquele em que o lançamento poderia ter sido feito; ou data em que se tornar definitiva a decisão que anulou o lançamento anterior por **vício formal**; antecipação da contagem: data da **notificação de medida preparatória** indispensável ao lançamento | **constituição definitiva** |
 | Interrupção | — | despacho do juiz que ordena a citação; protesto judicial ou extrajudicial; ato judicial que constitua o devedor em mora; reconhecimento do débito pelo devedor, ainda que em ato extrajudicial |
 
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q25 e Q35 (gab. C e C · oficial)
+> **Trecho usado:** "Termo inicial | 1º dia do exercício seguinte àquele em que o lançamento poderia ter sido feito | constituição definitiva"
+> **Q25 — como cobrou:** troca de termo — o item IV diz que "a prescrição se inicia a partir do ajuizamento da execução" (falso). Gab. C: "A sentença I é verdadeira e a sentença IV é falsa".
+> **Q35 — como cobrou:** cálculo — ISSQN de janeiro de 2019, AIIM lavrado em março de 2024. O item (2) afirma decadência "pois o lançamento do AIIM ocorreu após o prazo legal de cinco anos"; a soma do gabarito (12 = 4 + 8) o deixa fora.
+> **Lastro:** Q25: Caderno tipo 3, p. 12 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q25]] · Q35: Caderno tipo 3, p. 17 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q35]]
+
+> [!tip]- Lupa de prova: Decadência e prescrição: o marco inicial
+> **O padrão:** as duas questões não perguntam o prazo (é de 5 anos nos dois), perguntam de onde ele começa a contar. (padrão de 1 prova, não confirmado)
+> **A armadilha:** a Q25 (IV) troca "constituição definitiva" por "ajuizamento da execução"; a Q35 (2) monta um caso que parece vencido (fato de 2019, AIIM de 2024). Contando como a nota manda, o prazo vai de 01/01/2020 a 31/12/2024, e o AIIM de março de 2024 está dentro (conta feita a partir da regra da nota e das datas do enunciado; o gabarito não a mostra).
+> **Como resolver:** escreva o exercício do fato gerador, some 1 ano para chegar ao 1º dia do exercício seguinte, some 5 anos e compare com a data do lançamento; a prescrição só começa depois da constituição definitiva.
+
 > [!note]- Protesto extrajudicial (LC 208/2024)
 > Até a LC 208/2024 o inciso II previa só o **protesto judicial**; desde então prevê "protesto judicial ou extrajudicial". Provas anteriores a julho/2024 (ex.: IBAM Caruaru 2023) seguem a redação antiga. Conferido em 20/09/2026 em fontes secundárias (vademecumprevidenciario.com.br, portelasj.com); o Planalto não abriu na checagem, vale reconferir lá.
 
@@ -1573,7 +1616,7 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 ## Administração Tributária;  
 
 ### Fiscalização Tributária (arts. 194 a 200 do CTN)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/603?indice=1&materia=602)
 
 _Art. 197. Mediante intimação escrita, são obrigados a prestar à autoridade administrativa todas as informações de que disponham com relação aos bens, negócios ou atividades de terceiros
@@ -1609,6 +1652,11 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 > III - parcelamento ou moratória; e IV - incentivo, renúncia, benefício ou imunidade de natureza tributária cujo beneficiário seja pessoa jurídica.
 **Art. 198, §§4º-5º** (Incluídos pela LC 208/2024): a administração tributária pode <mark>requisitar informações cadastrais e patrimoniais</mark> do sujeito passivo a órgãos ou entidades, públicos ou privados, que operem cadastros e registros ou controlem operações de bens e direitos (§4º); e, <mark>independentemente de requisição</mark>, os órgãos e entidades da administração pública direta e indireta devem colaborar compartilhando essas bases de dados (§5º).
 
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q39 (gab. B · oficial)
+> **Trecho usado:** "Art. 198 (sigilo): é vedada a divulgação, pela Fazenda Pública ou seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros"
+> **Como cobrou:** literalidade — a certa é "(B) A afirmação III é verdadeira e a afirmação IV é falsa". O item III: o Fiscal "possui o dever de manter o sigilo fiscal sobre as informações econômico fiscais dos contribuintes, sob pena de responsabilidade administrativa, civil e penal".
+> **Lastro:** Caderno tipo 3, p. 19 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q39]]
+
 > [!quote]- Texto literal: Art. 198, §§4º-5º (L. 5.172/1966, redação da LC 208/2024, p. 2)
 > § 4º Sem prejuízo do disposto no art. 197, a administração tributária poderá requisitar informações cadastrais e patrimoniais de sujeito passivo de crédito tributário a órgãos ou entidades, públicos ou privados, que, inclusive por obrigação legal, operem cadastros e registros ou controlem operações de bens e direitos.
 >
@@ -1642,7 +1690,7 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 
     
 ### Certidão Negativa (arts. 205 a 208 do CTN)
-- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-20
+- [x] status [dom:: 4] [peso:: 3] [prova:: 1] ✅ 2026-09-20
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/605?indice=1&materia=602)
 
 **Jurisprudência (Resumo VINTEUM D. Tributário)**
@@ -1652,7 +1700,7 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 
 *(CTN comentado, Guruja, p. 87–88)*
 
-**CPEN — certidão positiva com efeitos de negativa** (art. 206): créditos **não vencidos** (vincendos), créditos em **cobrança executiva com penhora efetivada** e créditos com **exigibilidade suspensa**.
+**CPEN — certidão positiva com efeitos de negativa** (art. 206): créditos **não vencidos** (vincendos), créditos em **cobrança executiva com penhora efetivada** e <mark class="prova" style="background:rgba(0,170,170,0.28)">créditos com **exigibilidade suspensa**</mark>.
 
 > [!quote]- Texto literal: Art. 205 e Art. 206 (CTN Guruja, p. 87–88)
 > Art. 205 A lei poderá exigir que a prova da quitação de determinado tributo, quando exigível, seja feita por certidão negativa, expedida à vista de requerimento do interessado, que contenha todas as informações necessárias à identificação de sua pessoa, domicílio fiscal e ramo de negócio ou atividade e indique o período a que se refere o pedido.
@@ -1660,6 +1708,17 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 > Parágrafo único. A certidão negativa será sempre expedida nos termos em que tenha sido requerida e será fornecida dentro de 10 (dez) dias da data da entrada do requerimento na repartição.
 >
 > Art. 206 Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido efetivada a penhora, ou cuja exigibilidade esteja suspensa.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q40 (gab. D · oficial)
+> **Trecho usado:** "CPEN — certidão positiva com efeitos de negativa (art. 206): créditos não vencidos (vincendos), créditos em cobrança executiva com penhora efetivada e créditos com exigibilidade suspensa."
+> **Como cobrou:** troca de termo — a "(A)" afirma que a inscrição em Dívida Ativa, "mesmo que com exigibilidade suspensa por parcelamento, impede a emissão de Certidão Negativa de Débitos (CND)". A "(D)", certa, diz que a CND "atesta a inexistência de débitos tributários vencidos e não pagos, bem como a ausência de pendências relativas a obrigações acessórias"; a parte das obrigações acessórias a nota não trata.
+> **Lastro:** Caderno tipo 3, p. 20 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]]
+> **Ponte:** a nota já tem uma "Pegadinha de prova" sobre certidões neste heading (IBAM, Q106).
+
+> [!tip]- Lupa de prova: CND × CPEN
+> **O padrão:** monta um cenário de recusa em fornecer dados e pergunta sobre a certidão. (padrão de 1 prova, não confirmado)
+> **A armadilha:** a "(A)" soa certa porque fala de Dívida Ativa e parcelamento; mas exigibilidade suspensa é uma das hipóteses do art. 206, que dá certidão positiva com efeitos de negativa.
+> **Como resolver:** guarde as três hipóteses do art. 206: créditos não vencidos, em execução com penhora efetivada e com exigibilidade suspensa. Exigibilidade suspensa não significa "sem certidão".
 
 **Art. 207:** independentemente de disposição legal permissiva, é <mark>dispensada a prova de quitação</mark> de tributos, ou o seu suprimento, quando se tratar de ato <mark>indispensável para evitar a caducidade de direito</mark>. ⚠️ Em troca, <mark>todos os participantes no ato respondem</mark> pelo tributo devido, juros de mora e penalidades cabíveis, **exceto** as relativas a infrações cuja responsabilidade seja <mark>pessoal ao infrator</mark>. *(CTN comentado, Guruja, p. 88, captura 20/09)*
 
@@ -1688,7 +1747,7 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 
 
 ### Processo Administrativo Fiscal (arts. 208-A a 208-J do CTN)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *Capítulo IV do CTN, entre a Certidão Negativa e as Disposições Finais — inteiramente novo, incluído pela Lei Complementar nº 236/2026. Estabelece normas gerais do processo administrativo fiscal (PAF) para todos os entes federativos, e não só para o IBS.*
 
@@ -1697,6 +1756,16 @@ _Parágrafo único. A obrigação prevista neste artigo não abrange a prestaç�
 **Art. 208-B:** o auto de infração deve conter, entre outros: identificação do autuado, descrição clara dos fatos, dispositivo legal infringido e penalidade, subsunção dos fatos ao dispositivo, intimação para cumprir ou impugnar, local/data/hora da lavratura, assinatura e matrícula do autuante.
 
 **Art. 208-C:** a impugnação tempestiva instaura o contencioso e <mark>suspende a exigibilidade</mark> do crédito imediatamente (art. 151, III, do próprio CTN). Cabem recurso voluntário e remessa necessária contra a 1ª instância; e recurso especial contra a 2ª instância quando ela divergir de outro colegiado do mesmo tribunal administrativo. Cabem embargos de declaração (obscuridade, omissão, contradição, erro material), que **interrompem** o prazo de outros recursos. ⚠️ Não cabe recurso hierárquico ao Secretário de Estado/Ministro/integrante do Executivo contra decisão definitiva favorável ao sujeito passivo.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q37 (gab. C · oficial)
+> **Trecho usado:** "a impugnação tempestiva instaura o contencioso e suspende a exigibilidade do crédito imediatamente (art. 151, III, do próprio CTN)."
+> **Como cobrou:** conceito — cenário com AIIM, impugnação, decisão de 1ª instância e recurso. A certa é "(C) A apresentação da impugnação administrativa em 10 de junho de 2024 suspende a exigibilidade do crédito tributário, impedindo a inscrição em Dívida Ativa e a propositura de execução fiscal até a decisão final do recurso". A "(B)" trata a decisão de 1ª instância como constituição definitiva "independentemente da interposição de recurso".
+> **Lastro:** Caderno tipo 3, p. 18 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q37]]
+
+> [!tip]- Lupa de prova: Impugnação e recurso: o que cada marco faz
+> **O padrão:** conta uma história com datas (notificação, impugnação, decisão de 1ª instância, recurso) e pergunta o efeito de cada marco sobre o crédito. (padrão de 1 prova, não confirmado)
+> **A armadilha:** a "(B)" dá à decisão de 1ª instância o efeito de constituir definitivamente o crédito mesmo com recurso pendente.
+> **Como resolver:** a nota liga a impugnação tempestiva à suspensão da exigibilidade "imediatamente" (art. 208-C; art. 151, III do CTN): enquanto houver impugnação ou recurso tempestivo, sem inscrição em Dívida Ativa e sem execução.
 
 **Art. 208-D — prazos:**
 
@@ -3708,7 +3777,7 @@ Multas por declaração e comunicação *(arts. 97-A, 98 e 99)*:
 ## Impostos Federais, Estaduais, Municipais
 
 ### 1. Introdução ao Imposto Predial e Territorial Urbano - IPTU
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5897)
@@ -3727,6 +3796,11 @@ Legitimidade passiva: o promitente comprador é legitimado a figurar no polo pas
 > Súmula STF 583. Promitente comprador de imóvel residencial transcrito em nome de autarquia é contribuinte do imposto predial territorial urbano.
 
 > Súmula STJ 399. Cabe à legislação municipal estabelecer o sujeito passivo do IPTU.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q28 (gab. A · oficial)
+> **Trecho usado:** "Súmula STJ 399. Cabe à legislação municipal estabelecer o sujeito passivo do IPTU."
+> **Como cobrou:** troca de termo — V/F (gab. A: V, F, F, F). O item I (sujeito ativo é o município; sujeito passivo, o proprietário, "independentemente da existência de habite-se ou do uso efetivo") é o verdadeiro. Os itens sobre habite-se (II) e sobre lançamento "por declaração" (III) e "por homologação" (IV) do IPTU não têm regra correspondente na nota.
+> **Lastro:** Caderno tipo 3, p. 14 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q28]]
 
 Legitimidade ativa: o locatário não é contribuinte nem responsável pelo IPTU e, por isso, não pode discutir a relação jurídico-tributária nem pedir a repetição de indébito do IPTU, da Taxa de Conservação e Limpeza Pública e da Taxa de Iluminação Pública do imóvel alugado. Cláusula do contrato de locação que lhe atribui o pagamento não altera o sujeito passivo perante o Fisco (art. 123 do CTN).
 > Súmula STJ 614. O locatário não possui legitimidade ativa para discutir a relação jurídico-tributária de IPTU e de taxas referentes ao imóvel alugado nem para repetir indébito desses tributos.
@@ -3772,7 +3846,7 @@ Legitimidade ativa: o locatário não é contribuinte nem responsável pelo IPTU
 
 
 ### 2. Imposto sobre Serviços - ISS
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-22
 
 Jurisprudência: incidência do ISS sobre leasing financeiro e lease-back, mas não sobre leasing operacional.
 > RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ISS. ARRENDAMENTO MERCANTIL. OPERAÇÃO DE LEASING FINANCEIRO. ARTIGO 156, III, DA CONSTITUIÇÃO DO BRASIL. O arrendamento mercantil compreende três modalidades, [i] o leasing operacional, [ii] o leasing financeiro e [iii] o chamado lease-back. No primeiro caso há locação, nos outros dois, serviço. A lei complementar não define o que é serviço, apenas o declara, para os fins do inciso III do artigo 156 da Constituição. Não inventa, simplesmente descobre o que é serviço para os efeitos do inciso III do artigo 156 da Constituição. No arrendamento mercantil (leasing financeiro), contrato autônomo que não é misto, o núcleo é o financiamento, não uma prestação de dar. E financiamento é serviço, sobre o qual o ISS pode incidir, resultando irrelevante a existência de uma compra nas hipóteses do leasing financeiro e do lease-back. (STF – RE 592.905, Rel. Min. Eros Grau, Tribunal Pleno, j. 02/12/2009, repercussão geral).
@@ -3890,7 +3964,12 @@ Ex: _Se você, futuro aprovado, mora no município de Recife e guarda sua Merce
 
 **1.4.2 Responsabilidade**
 
-Os Municípios e o Distrito Federal, **mediante lei**, poderão atribuir de modo expresso a responsabilidade pelo **crédito tributário a terceira pessoa,** vinculada ao fato gerador da respectiva obrigação, excluindo a responsabilidade do contribuinte ou atribuindo-a a este em **caráter supletivo** do cumprimento total ou parcial da referida obrigação, inclusive no que se refere à multa e aos acréscimos legais.
+Os Municípios e o Distrito Federal, **mediante lei**, poderão atribuir de modo expresso a responsabilidade pelo **crédito tributário a terceira pessoa,** vinculada ao fato gerador da respectiva obrigação, <mark class="prova" style="background:rgba(0,170,170,0.28)">excluindo a responsabilidade do contribuinte ou atribuindo-a a este em **caráter supletivo**</mark> do cumprimento total ou parcial da referida obrigação, inclusive no que se refere à multa e aos acréscimos legais.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q34 (gab. D · oficial)
+> **Trecho usado:** "excluindo a responsabilidade do contribuinte ou atribuindo-a a este em caráter supletivo"
+> **Como cobrou:** troca de termo — a "(B)" diz que, se o tomador não recolhe, "o município não poderá exigir o tributo do prestador do serviço, pois a responsabilidade tributária do tomador exclui a do contribuinte originário"; a "(C)" chama a responsabilidade do tomador de inconstitucional.
+> **Lastro:** Caderno tipo 3, p. 17 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
 
 § 1o Os responsáveis a que se refere este artigo estão obrigados **ao recolhimento integral do imposto devido**, multa e acréscimos legais, **independentemente de ter sido efetuada sua retenção na fonte.**
 

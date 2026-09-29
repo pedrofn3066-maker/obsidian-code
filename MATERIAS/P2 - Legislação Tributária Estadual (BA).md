@@ -496,7 +496,7 @@ Linha do tempo: reunião → **10 dias** (resolução no DOU, art. 2º §3º) �
 > - Transição do ICMS para o IBS (callout "EC 132/2023" já na nota): mesma data de 2033 da revogação pela LC 214/2025.
 
 ## - Lei Complementar nº 105/2001
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 Art. 1º — as instituições financeiras conservam sigilo em suas operações ativas e passivas e serviços prestados. § 1º considera instituição financeira, para os efeitos desta Lei: bancos de qualquer espécie; distribuidoras e corretoras de valores mobiliários e de câmbio; sociedades de crédito, financiamento e investimento; sociedades de crédito imobiliário; administradoras de cartão de crédito; sociedades de arrendamento mercantil; administradoras de mercado de balcão organizado; cooperativas de crédito; associações de poupança e empréstimo; bolsas de valores e de mercadorias e futuros; entidades de liquidação e compensação; e outras que o CMN assim considerar. § 2º as empresas de <mark>factoring</mark> se equiparam às instituições financeiras para os efeitos desta Lei. *(LC 105/2001, art. 1º, caput e §§ 1º-2º, p. 1)*
 
@@ -547,10 +547,15 @@ Art. 5º — o Poder Executivo disciplina os critérios pelos quais as institui�
 >
 > **O erro clássico:** achar que o art. 5º já é uma quebra de sigilo bancário em si. Ele é só a etapa de **triagem** (dado agregado, sem natureza); a quebra de sigilo propriamente dita — acesso a documentos e extratos — só acontece depois, pela via do art. 6º.
 
-Art. 6º — as autoridades e os agentes fiscais tributários da **União, Estados, DF e Municípios** só podem examinar documentos, livros e registros de instituições financeiras — inclusive de contas de depósito e aplicações financeiras — quando houver **processo administrativo instaurado ou procedimento fiscal em curso** e o exame for considerado **indispensável** pela autoridade administrativa competente. O resultado desses exames é conservado em sigilo, observada a legislação tributária (parágrafo único). *(LC 105/2001, art. 6º, p. 1)*
+Art. 6º — <mark class="prova" style="background:rgba(0,170,170,0.28)">as autoridades e os agentes fiscais tributários da **União, Estados, DF e Municípios** só podem examinar documentos, livros e registros de instituições financeiras</mark> — inclusive de contas de depósito e aplicações financeiras — quando houver **processo administrativo instaurado ou procedimento fiscal em curso** e o exame for considerado **indispensável** pela autoridade administrativa competente. O resultado desses exames é conservado em sigilo, observada a legislação tributária (parágrafo único). *(LC 105/2001, art. 6º, p. 1)*
 
 > [!quote]- Texto literal: Art. 6º, caput (LC 105/2001)
 > Art. 6º As autoridades e os agentes fiscais tributários da União, dos Estados, do Distrito Federal e dos Municípios somente poderão examinar documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósitos e aplicações financeiras, quando houver processo administrativo instaurado ou procedimento fiscal em curso e tais exames sejam considerados indispensáveis pela autoridade administrativa competente.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q39 (gab. B · oficial)
+> **Trecho usado:** "as autoridades e os agentes fiscais tributários da União, Estados, DF e Municípios só podem examinar documentos, livros e registros de instituições financeiras"
+> **Como cobrou:** literalidade — o item IV, falso, diz que "a prerrogativa de acesso a informações bancárias sem autorização judicial é exclusiva da Receita Federal do Brasil, não se estendendo aos Fiscos estaduais e municipais".
+> **Lastro:** Caderno tipo 3, p. 19 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q39]]
 
 > [!tip]- Lupa: os dois requisitos cumulativos do art. 6º
 > **A ideia:** o art. 6º dá ao Fisco acesso direto às contas bancárias do contribuinte, sem passar pelo Judiciário — mas só sob duas condições que têm de estar presentes **ao mesmo tempo**.

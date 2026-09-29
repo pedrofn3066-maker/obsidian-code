@@ -334,7 +334,7 @@ Sem prejuízo da progressividade no tempo (art. 182, § 4º, II), o IPTU pode:
 > II – Ter alíquotas diferentes de acordo com a localização e o uso do imóvel; (Incluído por Emenda Constitucional nº 29 de 13/09/2000) III – Ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos em lei municipal. (Incluído por Emenda Constitucional nº 132 de 20/12/2023)
 
 ### Repartição das receitas tributárias (arts. 158 a 162)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 23–28.*
 
@@ -362,6 +362,16 @@ Sem prejuízo da progressividade no tempo (art. 182, § 4º, II), o IPTU pode:
 - II (ATENÇÃO do resumo): do produto de IPI e Imposto Seletivo, <mark style="background:#fff88f">10% aos Estados e DF</mark>, proporcionalmente ao valor das exportações de produtos industrializados.
 - III: da CIDE-combustíveis (art. 177, § 4º), <mark style="background:#fff88f">29%</mark> aos Estados e DF.
 - § 1º: no cálculo do inciso I exclui-se a parcela do IR pertencente aos entes (arts. 157, I e 158, I). § 2º: nenhuma unidade recebe mais de <mark style="background:#fff88f">20%</mark> do montante do inciso II, e o excedente é redistribuído. § 3º: os Estados entregam <mark style="background:#fff88f">25%</mark> do inciso II aos Municípios. § 4º: <mark style="background:#fff88f">25%</mark> do montante do inciso III cabem aos Municípios.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q30 (gab. A · oficial)
+> **Trecho usado:** "do produto de IR, IPI e Imposto Seletivo, 50% assim: a) 21,5% ao FPE; b) 22,5% ao FPM"
+> **Como cobrou:** troca de termo — pede a sentença incorreta; é a "(A)": o Imposto Seletivo seria de competência da União e sua arrecadação iria "aos cofres federais, sem qualquer participação dos municípios".
+> **Lastro:** Caderno tipo 3, p. 15 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q30]]
+
+> [!tip]- Lupa de prova: Imposto Seletivo: federal, mas repartido
+> **O padrão:** pede a sentença incorreta e esconde o erro numa expressão absoluta: "sem qualquer participação". (padrão de 1 prova, não confirmado)
+> **A armadilha:** a competência do IS é da União (o que a "(A)" acerta), e isso puxa o candidato a aceitar o resto da frase.
+> **Como resolver:** competência e destino do produto são coisas separadas: a nota lista o Imposto Seletivo no produto que compõe FPE e FPM (art. 159, I) e no repasse de 10% aos Estados e ao DF (art. 159, II).
 
 **Art. 159-A: Fundo Nacional de Desenvolvimento Regional (FNDR).** Objetivo: reduzir as desigualdades regionais e sociais (art. 3º, III), mediante entrega de recursos da União a Estados e DF para: estudos, projetos e obras de infraestrutura; fomento a atividades produtivas de elevado potencial de emprego e renda (inclusive subvenções); desenvolvimento científico e tecnológico e inovação.
 - § 1º vedada a retenção ou restrição ao recebimento; § 2º Estados e DF <mark style="background:#fff88f">priorizam</mark> projetos de sustentabilidade ambiental e redução de emissões de carbono; § 3º cabe a eles decidir a aplicação.
@@ -713,11 +723,22 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-- **Art. 33 — simplificado (opcional):** os valores são calculados com base em <mark>percentual preestabelecido</mark> do valor das operações. §2º: o percentual é fixado pelo **CGIBS** (IBS) e pela **RFB** (CBS), <mark>vedado aplicar o procedimento a apenas um dos tributos</mark>; pode variar por setor ou contribuinte, a partir de metodologia uniforme divulgada; **não guarda relação** com o débito efetivamente incidente. §2º-A: originar a transação **sem identificar** os valores de IBS e CBS **implica opção** pelo simplificado. *(Resumo LC 214 Tít. I, p. 48–49)*
+- **Art. 33 — simplificado (opcional):** os valores são calculados com base em <mark>percentual preestabelecido</mark> do valor das operações. §2º: o percentual é fixado pelo **CGIBS** (IBS) e pela **RFB** (CBS), <mark>vedado aplicar o procedimento a apenas um dos tributos</mark>; pode variar por setor ou contribuinte, a partir de metodologia uniforme divulgada; **não guarda relação** com o débito efetivamente incidente. <mark class="prova" style="background:rgba(0,170,170,0.28)">§2º-A: originar a transação **sem identificar** os valores de IBS e CBS **implica opção** pelo simplificado.</mark> *(Resumo LC 214 Tít. I, p. 48–49)*
 - §3º: o valor recolhido paga, **em ordem cronológica do documento fiscal**: (I) débitos do período das operações em que o adquirente **não** é contribuinte do regime regular; (II) outros débitos não extintos, ao final do período. §4º: o não utilizado é transferido ao fornecedor em até <mark>3 dias úteis</mark> da conclusão da apuração. §6º: ato conjunto pode impor o simplificado, quando o adquirente não é contribuinte do regime regular, enquanto o padrão não funcionar adequadamente. **§7º:** o simplificado (I) extingue débitos **só** nos termos do §3º; (II) <mark>não gera crédito</mark> ao adquirente contribuinte do regime regular. *(Resumo LC 214 Tít. I, p. 49–50)*
 - **Art. 34 — regras gerais:** (I) segregação e recolhimento **na data da liquidação financeira**; (II) pagamento **parcelado**: de forma <mark>proporcional em todas as parcelas</mark>; (III) a **liquidação antecipada de recebíveis** não altera a obrigação; (IV) o split <mark>não afasta a responsabilidade do sujeito passivo</mark> pelo eventual saldo a recolher; (V) os prestadores **segregam e recolhem**, mas **não são responsáveis tributários** pelo IBS e CBS das operações que liquidam. *(Resumo LC 214 Tít. I, p. 50–51)*
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q31 (gab. A · oficial)
+> **Trecho usado:** "§2º-A: originar a transação sem identificar os valores de IBS e CBS implica opção pelo simplificado. · §7º: o simplificado… (II) não gera crédito ao adquirente contribuinte do regime regular."
+> **Como cobrou:** troca de termo — a certa é "(A) O procedimento simplificado do split payment é acionado automaticamente quando faltam dados fiscais… o adquirente contribuinte fica impedido de apropriar os valores como crédito". Cada errada contradiz um dispositivo: "(B)" prestadores como "responsáveis tributários solidários" (art. 34, V), "(C)" cálculo da alíquota "sem necessidade de consulta prévia" (art. 32), "(D)" liquidação "bloqueada" (§2º-A: implica opção).
+> **Lastro:** Caderno tipo 3, p. 15 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]]
+> **Ponte:** [[ERRO REFORMA TRIBUTÁRIA]] tem 4 erros seus em split payment; a "Pegadinha de prova" do art. 34 (ISS Guarulhos, Q116) já está logo abaixo.
+
+> [!tip]- Lupa de prova: Split payment simplificado: quatro dispositivos numa questão
+> **O padrão:** uma única questão testa o mecanismo do split por inteiro: as quatro alternativas apontam para quatro dispositivos diferentes. (padrão de 1 prova, não confirmado)
+> **A armadilha:** cada errada nega um efeito que a lei prevê: "bloqueia a liquidação" em vez de "implica opção pelo simplificado"; "responsáveis solidários" em vez de "segregam e recolhem, sem serem responsáveis"; "sem consulta prévia" em vez de consulta ao sistema.
+> **Como resolver:** sem identificação dos valores, vale o simplificado (§2º-A); o simplificado não gera crédito ao adquirente (§7º, II); os prestadores segregam e recolhem, mas não são responsáveis tributários (art. 34, V); o padrão consulta o CGIBS e a RFB antes de liberar (art. 32).
 
 ⚠️ **Pegadinha de prova** (captura 20/09, ISS Guarulhos, Q116, "é incorreto afirmar"): o gabarito é a alternativa que manda segregar e recolher, no pagamento parcelado pelo fornecedor, <mark>antecipadamente na primeira parcela</mark>. A dúvida do Pedro era se a alternativa "prestadores de pagamento não serão responsáveis tributários" também estaria errada.
 
@@ -1149,7 +1170,7 @@ As leis instituidoras de IBS e CBS estabelecem mecanismos, <mark style="backgrou
 - § 6º: LC institui o <mark style="background:#fff88f">Fundo de Desenvolvimento Sustentável dos Estados da Amazônia Ocidental e do Amapá</mark>, com recursos da União e por ela gerido. § 7º: integrado pelos Estados onde ficam as áreas de livre comércio, observando no que couber o § 3º, I e II e o § 4º.
 
 ## ADCT: transição do IBS e da CBS e extinção do ICMS e do ISS (arts. 124 a 129)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 42–45.*
 
@@ -1162,6 +1183,11 @@ As leis instituidoras de IBS e CBS estabelecem mecanismos, <mark style="backgrou
 | <mark style="background:#fff88f">2027 e 2028</mark> | IBS: <mark style="background:#fff88f">0,05%</mark> estadual + <mark style="background:#fff88f">0,05%</mark> municipal; CBS reduzida em <mark style="background:#fff88f">0,1 ponto percentual</mark> (art. 127) |
 | <mark style="background:#fff88f">2029 a 2032</mark> | Alíquotas de <mark style="background:#fff88f">ICMS e ISS</mark> fixadas em <mark style="background:#fff88f">9/10</mark> (2029), <mark style="background:#fff88f">8/10</mark> (2030), <mark style="background:#fff88f">7/10</mark> (2031) e <mark style="background:#fff88f">6/10</mark> (2032) das fixadas nas respectivas legislações (art. 128) |
 | <mark style="background:#fff88f">2033</mark> | <mark style="background:#fff88f">Extintos ICMS e ISS</mark> (art. 129) |
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q36 (gab. C · oficial)
+> **Trecho usado:** "2029 a 2032 | Alíquotas de ICMS e ISS fixadas em 9/10 (2029), 8/10 (2030), 7/10 (2031) e 6/10 (2032)"
+> **Como cobrou:** conceito — V/F sobre a transição (gab. C: V, V, V, F). O item I (fiscalizar ISSQN, "gradualmente extinto", e IBS, "implementado de forma progressiva") é o que a nota cobre. Dívida Ativa de ISSQN após a extinção (II) e Certidão Negativa depois da extinção (III) não estão na nota.
+> **Lastro:** Caderno tipo 3, p. 18 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q36]]
 
 **2026 (art. 125):**
 - o valor recolhido é <mark style="background:#fff88f">compensado</mark> com COFINS (art. 195, I, "b"), PIS/COFINS-Importação (art. 195, IV) e PIS (art. 239); sem débitos suficientes, compensa com qualquer outro tributo federal ou é <mark style="background:#fff88f">ressarcido em até 60 dias</mark>, mediante requerimento;

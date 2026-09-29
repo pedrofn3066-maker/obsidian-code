@@ -317,6 +317,8 @@ Art. 9o: Se verificado, ao final de um bimestre, que a realização da receita 
 > > [!info] 🔗 Na matéria
 > > [[P1 - Direito Financeiro#- Princípios Orçamentários]] — grifei agora o trecho da Exclusividade (créditos suplementares e ARO como exceções); a Não Afetação já está no mnemônico "iFOD"/GATES, mas sem o texto literal do art. 167, IV.
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:143` (grifado agora) · CF/88 art. 165 §8º e art. 167, IV (literal, citado do comentário do TEC)
+>
+> **Prova anterior (29/09 · 1 prova absorvida):** 🟰 É a própria questão da prova (Q19, gab. D): registro e gabarito batem com o que você anotou; não conta como recorrência · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q19]]
 
 > [!question]- 16/09 (mesma captura, sem hora registrada) · AFO e Direito Financeiro · IBAM (Contador, Pref. Caruaru, 2023) — PPA x LDO: qual lei traz as diretrizes de médio prazo
 > Documento que traz as diretrizes, objetivos e metas de médio prazo da administração pública e que prevê, entre outras coisas, as grandes obras públicas a serem realizadas nos próximos anos. Deve ser elaborado criteriosamente, imaginando-se aonde se quer chegar nos próximos quatro anos. Expressa a visão estratégica da gestão pública. A descrição acima se refere a:
