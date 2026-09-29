@@ -1502,7 +1502,7 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 - [ ] status [dom:: 0] [peso:: 2]
 
 ### Dos Precatórios (art. 100 da CF/1988)
-- [ ] status [dom:: 1] [peso:: 2]
+- [x] status [dom:: 1] [peso:: 2] ✅ 2026-09-27
 
 **Regime e preferências (caput e §§ 1º a 8º)** *(CF/88 EC 139, p. 62)*
 - **Caput:** os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais em virtude de sentença judiciária seguem <mark>exclusivamente a ordem cronológica de apresentação dos precatórios</mark>, à conta dos créditos respectivos, <mark>proibida a designação de casos ou de pessoas</mark> nas dotações orçamentárias e nos créditos adicionais.
@@ -1726,7 +1726,7 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 # Bloco D:
 
 ## - Controle de Constitucionalidade;
-- [ ] status [dom:: 2] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-28
 
 > [!tip]- Lupa: por que existe controle de constitucionalidade
 > **A ideia em uma frase:** só existe controle de constitucionalidade onde há **rigidez constitucional** (procedimento de emenda mais difícil que o de lei ordinária) e **supremacia formal** da Constituição — sem isso, lei e Constituição estariam no mesmo nível hierárquico e não haveria parâmetro de invalidação. O Brasil tem Constituição rígida (art. 60) e supremacia formal — daí a existência de todo esse aparato.
@@ -2158,6 +2158,408 @@ Tese de julgamento: **O regime de subsídio não afasta a percepção de gratif
 
 
 
+
+
+### Jurisprudência: servidores públicos e concurso
+- [ ] status [dom:: 0] [peso:: 2]
+
+Origem do bloco: *Resumo Jurisprudência — Direito Constitucional* (VINTEUM Guia Fiscal 4.0, V1.0), p. 5–15. As SV 4, 13, 43 e 44, que tratam do mesmo assunto, já estão registradas nesta nota.
+
+**Súmulas** (10):
+
+- **SV 6:** remuneração inferior ao salário-mínimo para as **praças** em **serviço militar inicial** não viola a Constituição.
+- **SV 15:** o cálculo de gratificações e outras vantagens **não incide sobre o abono** usado para atingir o salário-mínimo.
+- **SV 16:** os arts. 7º, IV, e 39, § 3º (redação da EC 19/98) referem-se ao **total da remuneração** percebida pelo servidor.
+- **SV 33:** aplicam-se ao servidor, no que couber, as regras do **regime geral de previdência** sobre aposentadoria especial (art. 40, § 4º, III), até a lei complementar específica.
+- **SV 37:** o **Judiciário não aumenta vencimentos** por isonomia, porque não tem função legislativa.
+- **SV 42:** é inconstitucional **vincular** o reajuste de vencimentos de servidores estaduais ou municipais a **índices federais** de correção monetária.
+- **SV 51:** o reajuste de **28,86%** dos servidores militares (Leis 8.622/1993 e 8.627/1993) estende-se aos **servidores civis** do Executivo, com as compensações devidas.
+- **SV 55:** o direito ao **auxílio-alimentação não se estende aos inativos**.
+- **Súmula STF 683:** o **limite de idade** para concurso só se legitima (art. 7º, XXX) se **justificado pela natureza das atribuições** do cargo.
+- **Súmula STF 684:** é inconstitucional o **veto não motivado** à participação de candidato em concurso público.
+
+> [!quote]- Texto literal: SV 6, 15, 16, 33, 37, 42, 51, 55 e Súmulas STF 683 e 684 (Resumo de Jurisprudência D. Constitucional, p. 5–15)
+> > **SV 6** (p. 5) — Não viola a Constituição o estabelecimento de remuneração inferior ao salário-mínimo para as praças prestadoras de serviço militar inicial.
+> >
+> > **SV 15** (p. 7) — O cálculo de gratificações e outras vantagens do servidor público não incide sobre o abono utilizado para se atingir o salário-mínimo.
+> >
+> > **SV 16** (p. 7) — Os artigos 7º, IV, e 39, § 3º (redação da EC 19/98), da Constituição, referem-se ao total da remuneração percebida pelo servidor público.
+> >
+> > **SV 33** (p. 7) — Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica.
+> >
+> > **SV 37** (p. 7) — Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+> >
+> > **SV 42** (p. 8) — É inconstitucional a vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária.
+> >
+> > **SV 51** (p. 9) — O reajuste de 28,86%, concedido aos servidores militares pelas Leis 8.622/1993 e 8.627/1993, estende-se aos servidores civis do poder executivo, observadas as eventuais compensações decorrentes dos reajustes diferenciados concedidos pelos mesmos diplomas legais.
+> >
+> > **SV 55** (p. 9) — O direito ao auxílio-alimentação não se estende aos servidores inativos.
+> >
+> > **Súmula STF 683** (p. 15) — O limite de idade para a inscrição em concurso público só se legitima em face do art. 7º, XXX, da Constituição, quando possa ser justificado pela natureza das atribuições do cargo a ser preenchido.
+> >
+> > **Súmula STF 684** (p. 15) — É inconstitucional o veto não motivado à participação de candidato a concurso público.
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Dos Servidores Públicos (arts. 39 a 41 da CF/1988)]] — regime dos servidores; as SV 15, 16, 37 e 42 tratam de remuneração e reajuste.
+> - [[P1 - Direito Constitucional#Agentes Públicos e Concurso Público (art. 37)]] — as Súmulas 683 e 684 completam as SV 43 e 44 já registradas sobre concurso.
+
+### Jurisprudência: federalismo e competências
+- [ ] status [dom:: 0] [peso:: 2]
+
+Origem do bloco: *Resumo Jurisprudência — Direito Constitucional* (VINTEUM Guia Fiscal 4.0, V1.0), p. 5–14 (súmulas) e p. 21–25 (julgados).
+
+**Súmulas** (8):
+
+- **SV 2:** é inconstitucional lei ou ato normativo **estadual ou distrital** sobre **consórcios e sorteios**, inclusive bingos e loterias.
+- **SV 38:** o **Município** é competente para fixar o **horário de funcionamento** de estabelecimento comercial.
+- **SV 39:** compete **privativamente à União** legislar sobre **vencimentos** dos membros das polícias civil e militar e do corpo de bombeiros militar do **Distrito Federal**.
+- **SV 46:** a definição dos **crimes de responsabilidade** e as normas de processo e julgamento são de competência legislativa **privativa da União**.
+- **SV 49:** lei **municipal** que impede a instalação de estabelecimentos comerciais do **mesmo ramo** em determinada área ofende a **livre concorrência**.
+- **Súmula STF 419:** os **municípios** regulam o **horário do comércio local**, desde que não infrinjam leis estaduais ou federais válidas.
+- **Súmula STF 642:** não cabe **ADI** de lei do **Distrito Federal** derivada da sua competência legislativa **municipal**.
+- **Súmula STJ 19:** a fixação do **horário bancário** para atendimento ao público é competência da **União**.
+
+> [!quote]- Texto literal: SV 2, 38, 39, 46, 49 e Súmulas STF 419 e 642, STJ 19 (Resumo de Jurisprudência D. Constitucional, p. 5–14)
+> > **SV 2** (p. 5) — É inconstitucional a lei ou ato normativo estadual ou distrital que disponha sobre sistemas de consórcios e sorteios, inclusive bingos e loterias.
+> >
+> > **SV 38** (p. 8) — É competente o Município para fixar o horário de funcionamento de estabelecimento comercial.
+> >
+> > **SV 39** (p. 8) — Compete privativamente à União legislar sobre vencimentos dos membros das polícias civil e militar e do corpo de bombeiros militar do Distrito Federal.
+> >
+> > **SV 46** (p. 9) — A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são da competência legislativa privativa da União.
+> >
+> > **SV 49** (p. 9) — Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos comerciais do mesmo ramo em determinada área.
+> >
+> > **Súmula STF 419** (p. 12) — Os municípios têm competência para regular o horário do comércio local, desde que não infrinjam leis estaduais ou federais válidas.
+> >
+> > **Súmula STF 642** (p. 14) — Não cabe ação direta de inconstitucionalidade de lei do distrito federal derivada da sua competência legislativa municipal.
+> >
+> > **Súmula STJ 19** (p. 11) — A fixação do horário bancário, para atendimento ao público, é da competência da União.
+
+Quadro: quem legisla ou decide, por assunto (súmulas acima).
+
+| Assunto | Ente competente | Base |
+| --- | --- | --- |
+| Horário do **comércio local** | **Município** (sem infringir leis estaduais ou federais válidas) | SV 38, Súm. STF 419 |
+| Horário **bancário** | **União** | Súm. STJ 19 |
+| **Consórcios e sorteios**, bingos e loterias | **União** legisla; lei estadual ou distrital é inconstitucional | SV 2 |
+| **Crimes de responsabilidade**: definição e processo | **União**, privativamente | SV 46 |
+| **Vencimentos** de polícias e bombeiros do **DF** | **União**, privativamente | SV 39 |
+| **Instalação** de estabelecimentos do mesmo ramo por área | Lei municipal que a impede **ofende a livre concorrência** | SV 49 |
+
+> [!tip]- Lupa: quem legisla sobre horário e sobre atividades econômicas
+> **A ideia em uma frase:** cada súmula fixa o ente competente para um assunto, e a banca troca o ente de um assunto pelo do assunto vizinho.
+>
+> **Passo a passo:** (1) identifique o assunto do item (horário do comércio, horário bancário, loterias, crimes de responsabilidade, vencimentos de policiais do DF); (2) procure a súmula do assunto e leia o ente competente; (3) confira o limite: o Município regula o horário do comércio local **sem infringir lei estadual ou federal válida** (Súm. STF 419), e não pode impedir a instalação de estabelecimentos do mesmo ramo em uma área (SV 49). Exemplo ilustrativo (sem lastro): um item diz que "compete ao Município fixar o horário de atendimento dos bancos"; o horário bancário é da União (Súm. STJ 19), e o do comércio local é do Município (SV 38).
+>
+> **O erro clássico:** trocar horário do **comércio** (Município) por horário **bancário** (União), atribuir aos Estados a lei sobre loterias e bingos (SV 2), ou dizer que a competência da União para legislar sobre loterias impede a exploração pelos entes estaduais e municipais (o julgado ADPF 492/RJ diz que não impede a competência material para a exploração nem a regulamentar).
+
+**Julgados** (18):
+
+- É desnecessária a reprodução expressa do rol taxativo de princípios constitucionais sensíveis nas constituições estaduais para se viabilizar a intervenção do estado em seus municípios, pois se trata de norma de observância obrigatória pelos estados-membros . *(STF. Plenário. ADI 7.369/MT, Rel. Min. Cármen Lúcia, julgado em 13/05/2024 (Info 1136). — p. 21)*
+- Pendente a edição da lei complementar federal que assinale o prazo permitido para a criação e alteração de municípios, os estados estão impedidos de editar normas que disciplinem a matéria e permitam surgimento de novos entes locais, ressalvada a hipótese de convalidação do art. 96 do ADCT. *(STF. Plenário. ADPF 819/MT, Rel. Min. Luís Roberto Barroso, redator do acórdão Min. Gilmar Mendes, julgado em 9/10/2023 (Info 1111). — p. 21)*
+- É inconstitucional - por violação aos princípios da simetria e da autonomia dos entes federados - norma de Constituição estadual que prevê hipótese de intervenção do estado no município fora das que são taxativamente elencadas no artigo 35 da Constituição Federal. *(STF. Plenário. ADI 6619/RO, Rel. Min. Gilmar Mendes, julgado em 21/10/2022 (Info 1073). — p. 21)*
+- É inconstitucional norma que prevê a concentração excessiva do poder decisório nas mãos de só um dos entes públicos integrantes de região metropolitana. *(STF. Plenário. ADI 6573/AL, Rel. Min. Edson Fachin, julgado em 13/5/2022 (Info 1055). — p. 21)*
+- É inconstitucional lei estadual que permita a criação, incorporação, fusão e desmembramento de municípios sem a edição prévia das leis federais previstas no art. 18, § 4º, da CF/1988, com redação dada pela Emenda Constitucional nº 15/96. *(STF. Plenário. ADI 4711/RS, Rel. Min. Roberto Barroso, julgado em 3/9/2021 (Info 1028). — p. 21)*
+- Viola a Constituição Federal a previsão contida na Constituição Estadual atribuindo aos Tribunais de Contas a competência para requerer ou decretar intervenção em Município. *(STF. Plenário. ADI 3029, Rel. Min. Gilmar Mendes, julgado em 27/03/2020. — p. 22)*
+- É constitucional - e não viola o regime de repartição de competências, a iniciativa privativa do chefe do Poder Executivo e a autonomia universitária - lei estadual, de iniciativa parlamentar, que, para respeitar os adeptos de determinados segmentos religiosos, prevê a realização de provas de concursos e exames vestibulares no período compreendido entre as 18h de sábado e as 18h da sexta-feira seguinte. *(STF. Plenário. ADI 3.901/PA, Rel. Min. Edson Fachin, julgado em 19/09/2025 (Info 1191). — p. 23)*
+- É inconstitucional - por usurpar a competência privativa da União para legislar sobre as diretrizes e bases da educação nacional - lei municipal que proíbe o uso da denominada linguagem neutra na grade curricular e no material didático das suas instituições de ensino públicas ou privadas. *(STF. Plenário. ADPF 1.165/MG, Rel. Min. Cármen Lúcia, julgado em 03/02/2025 (Info 1164). — p. 23)*
+- É inconstitucional - à luz do dever estatal de proteção à saúde populacional - lei municipal que proíbe, em seu território, a vacinação compulsória e a respectiva imposição de restrições e sanções a pessoas não vacinadas, uma vez que desestimula a adesão à imunização e gera risco à saúde da coletividade. *(STF. Plenário. ADPF 946/MG, Rel. Min. Luís Roberto Barroso, julgado em 06/11/2024 (Info 1158). — p. 23)*
+- É formalmente inconstitucional norma decorrente de emenda parlamentar que não guarda estrita pertinência temática com a matéria tratada em projeto de lei de iniciativa reservada originalmente encaminhado à Casa Legislativa. *(STF. Plenário. ADI 7.230/MG, Rel. Min. Gilmar Mendes, julgado em 30/08/2024 (Info 1148). — p. 23)*
+- É inconstitucional - por violar a competência privativa da União para legislar sobre diretrizes e bases da educação, bem como os princípios da dignidade da pessoa humana e da igualdade - norma municipal que veda expressões relativas a identidade, ideologia ou orientação de gênero nos currículos escolares da rede pública local. *(STF. Plenário. ADPF 462/SC, Rel. Min. Edson Fachin, julgado em 28/06/2024 (Info 1143). — p. 24)*
+- É constitucional lei municipal que, ao regulamentar apenas o seu interesse local, sem criar novas figuras ou institutos de licitação ou contratação, estabelece diretrizes gerais para a prorrogação e relicitação dos contratos de parceria entre o município e a iniciativa privada. *(STF. Plenário. ADPF 971/SP, Rel. Min. Gilmar Mendes, julgado em 29/05/2023 (Info 1096). — p. 24)*
+- É inconstitucional lei estadual que concede vantagens e aumento de vencimentos a seus servidores públicos sem prévia estimativa de impacto orçamentário e financeiro. *(STF. Plenário. ADI 6.090/RR, Rel. Min. Dias Toffoli, julgado em 12/6/2023 (Info 1098). — p. 24)*
+- É inconstitucional norma de Constituição estadual ou de Lei Orgânica distrital que atribuem à Assembleia ou à Câmara Legislativa o julgamento do governador pela prática de crime de responsabilidade. *(STF. Plenário. ADI 3466/DF, redator Min. Roberto Barroso, julgado em 12/4/2023 (Info 1094). — p. 24)*
+- É inconstitucional lei estadual que veda a adoção da “linguagem neutra” na grade curricular e no material didático de instituições de ensino públicas e privadas, assim como em editais de concursos públicos locais. *(STF. Plenário. ADI 7019/RO, Rel. Min. Edson Fachin, julgado em 10/2/2023 (Info 1082). — p. 24)*
+- É inconstitucional, por violação ao princípio da simetria, norma de Constituição Estadual que confere foro por prerrogativa de função a autoridades que não guardam semelhança com as que o detêm na esfera federal. *(STF. Plenário. ADI 6511/RR, Rel. Min. Dias Toffoli, julgado em 13/9/2022 (Info 1067). — p. 24)*
+- Compete à União definir regras de suspensão e interrupção do fornecimento dos serviços de energia elétrica. *(STF. Plenário. ADI 5798/TO, Rel. Min. Rosa Weber, julgado em 3/11/2021 (Info 1036). — p. 25)*
+- A competência da União para legislar privativamente sobre sistemas de consórcios e sorteios, inclusive loterias, não obsta a competência material (administrativa) para a exploração dessas atividades pelos entes estaduais ou municipais, nem a competência regulamentar dessa exploração. *(STF. Plenário. ADPF 492/RJ, Rel. Min. Gilmar Mendes, julgado em 30/9/2020 (Info 993). — p. 25)*
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)]] — o tópico em que você errou em 22/09 (75%) e 25/09 (67%); as SV 2, 39 e 46 e os julgados de competência entram aqui.
+> - [[P1 - Direito Constitucional#Municípios - Organização e Competências (arts. 29 a 31 da CF/1988)]] — SV 38 e 49 e Súm. STF 419.
+> - [[P1 - Direito Constitucional#Da Organização Político-Administrativa (arts. 18 e 19 da CF/1988)]] — os julgados sobre criação de municípios e regiões metropolitanas.
+
+### Jurisprudência: direitos e garantias fundamentais
+- [ ] status [dom:: 0] [peso:: 2]
+
+Origem do bloco: *Resumo Jurisprudência — Direito Constitucional* (VINTEUM Guia Fiscal 4.0, V1.0), p. 5–15 (súmulas) e p. 16–20 (julgados).
+
+**Súmulas** (13):
+
+- **SV 5:** a falta de **defesa técnica por advogado** no processo administrativo disciplinar **não ofende** a Constituição.
+- **SV 11:** **algemas** só em caso de **resistência**, fundado receio de **fuga** ou perigo à integridade, com **justificativa por escrito**, sob pena de responsabilidade e de nulidade da prisão ou do ato.
+- **SV 12:** a cobrança de **taxa de matrícula** em universidades públicas viola o art. 206, IV.
+- **SV 14:** o **defensor** tem **acesso amplo** às provas já documentadas em investigação de polícia judiciária que digam respeito à defesa do representado.
+- **SV 21:** é inconstitucional exigir **depósito ou arrolamento prévios** para admitir **recurso administrativo**.
+- **SV 25:** é ilícita a **prisão civil de depositário infiel**, qualquer que seja a modalidade do depósito.
+- **SV 40:** a **contribuição confederativa** (art. 8º, IV) só é exigível dos **filiados** ao sindicato.
+- **SV 56:** a falta de **estabelecimento penal adequado** não autoriza manter o condenado em regime mais gravoso (parâmetros do RE 641.320/RS).
+- **Súmula STF 654:** a garantia da **irretroatividade** (art. 5º, XXXVI) **não é invocável** pela entidade estatal que editou a lei.
+- **Súmula STF 667:** viola o acesso à jurisdição a **taxa judiciária** calculada **sem limite** sobre o valor da causa.
+- **Súmula STF 675:** os **intervalos** de descanso e alimentação na jornada de seis horas **não descaracterizam** os turnos ininterruptos de revezamento (art. 7º, XIV).
+- **Súmula STF 693:** **não cabe habeas corpus** contra condenação a **pena de multa**, ou em processo por infração cuja única pena seja pecuniária.
+- **Súmula STJ 403:** **independe de prova do prejuízo** a indenização pela publicação não autorizada de imagem com fins econômicos ou comerciais.
+
+> [!quote]- Texto literal: SV 5, 11, 12, 14, 21, 25, 40, 56; Súmulas STF 654, 667, 675, 693; STJ 403 (Resumo de Jurisprudência D. Constitucional, p. 5–15)
+> > **SV 5** (p. 5) — A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.
+> >
+> > **SV 11** (p. 6) — Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.
+> >
+> > **SV 12** (p. 6) — A cobrança de taxa de matrícula nas universidades públicas viola o disposto no art. 206, IV, da Constituição Federal.
+> >
+> > **SV 14** (p. 6) — É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.
+> >
+> > **SV 21** (p. 7) — É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo.
+> >
+> > **SV 25** (p. 7) — É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.
+> >
+> > **SV 40** (p. 8) — A contribuição confederativa de que trata o art. 8º, IV, da Constituição Federal, só é exigível dos filiados ao sindicato respectivo.
+> >
+> > **SV 56** (p. 10) — A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.
+> >
+> > **Súmula STF 654** (p. 14) — A garantia da irretroatividade da lei, prevista no art. 5º, XXXVI, da Constituição da República, não é invocável pela entidade estatal que a tenha editado.
+> >
+> > **Súmula STF 667** (p. 14) — Viola a garantia constitucional de acesso à jurisdição a taxa judiciária calculada sem limite sobre o valor da causa.
+> >
+> > **Súmula STF 675** (p. 14) — Os intervalos fixados para descanso e alimentação durante a jornada de seis horas não descaracterizam o sistema de turnos ininterruptos de revezamento para o efeito do art. 7º, XIV, da Constituição.
+> >
+> > **Súmula STF 693** (p. 15) — Não cabe habeas corpus contra decisão condenatória a pena de multa, ou relativo a processo em curso por infração penal a que a pena pecuniária seja a única cominada.
+> >
+> > **Súmula STJ 403** (p. 12) — Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais.
+
+**Julgados** (22):
+
+- O Congresso Nacional está em mora quanto ao dever constitucional de regulamentar e tornar efetivo o dispositivo que confere aos trabalhadores urbanos e rurais o direito social à proteção em face da automação (CF/1988, art. 7º, XXVII). *(STF. Plenário. ADO 73/DF, Rel. Min. Luís Roberto Barroso, julgado em 09/10/2025 (Info 1194). — p. 16)*
+- A presença de símbolos religiosos em prédios públicos, pertencentes a qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, desde que tenha o objetivo de manifestar a tradição cultural da sociedade brasileira, não viola os princípios da não discriminação, da laicidade estatal e da impessoalidade. *(STF. Plenário. ARE 1.249.095/SP, Rel. Min. Cristiano Zanin, julgado em 26/11/2024 (Info 1160). — p. 16)*
+- É constitucional norma que permite o acesso, por autoridades policiais e pelo Ministério Público, a dados cadastrais de pessoas investigadas independentemente de autorização judicial, excluído do âmbito de incidência da norma a possibilidade de requisição de qualquer outro dado cadastral além daqueles referentes à qualificação pessoal, filiação e endereço. *(STF. Plenário. ADI 4.906/DF, Rel. Min. Nunes Marques, julgado em 11/09/2024 (Info 1150). — p. 16)*
+- As escolas públicas e particulares têm a obrigação de coibir o bullying e as discriminações por gênero, identidade de gênero e orientação sexual, bem como as de cunho machista (contra meninas cisgêneras e transgêneras) e homotransfóbicas (contra homossexuais, bissexuais, travestis e transexuais), em geral. *(STF. Plenário. ADI 5.668/DF, Rel. Min. Edson Fachin, julgado em 28/06/2024 (Info 1143). — p. 16)*
+- A falta de lei regulamentadora do adicional de penosidade aos trabalhadores urbanos e rurais constitui omissão inconstitucional por parte do Congresso Nacional. *(STF. Plenário. ADO 74/DF, Rel. Min. Gilmar Mendes, julgado em 05/06/2024 (Info 1139). — p. 17)*
+- A inelegibilidade por parentesco não impede que cônjuges, companheiros ou parentes em linha reta, colateral ou por afinidade, até o segundo grau, ocupem, concomitantemente e na mesma unidade da Federação, os cargos de chefe do Poder Executivo e de presidente da Casa Legislativa. *(STF. Plenário. ADPF 1.089/DF, Rel. Min. Cármen Lúcia, julgado em 05/06/2024 (Info 1140). — p. 17)*
+- A transferência da execução de pena de brasileiro nato para ser cumprida no Brasil, imposta em outro país, não viola o núcleo do direito fundamental contido no art. 5º, inciso LI, da Constituição Federal. *(STJ. Corte Especial. HDE 7.986-EX, Rel. Min. Francisco Falcão, julgado em 20/3/2024 (Info 805). — p. 17)*
+- A mãe servidora ou trabalhadora não gestante em união homoafetiva tem direito ao gozo de licença-maternidade. Caso a companheira tenha utilizado o benefício, fará jus à licença pelo período equivalente ao da licença-paternidade. *(STF. Plenário. RE 1.211.446/SP, Rel. Min. Luiz Fux, julgado em 13/03/2024 (Info 1128). — p. 17)*
+- A trabalhadora gestante tem direito ao gozo de licença-maternidade e à estabilidade provisória, independentemente do regime jurídico aplicável, se contratual ou administrativo, ainda que ocupe cargo em comissão ou seja contratada por tempo determinado. *(STF. Plenário. RE 842.844/SC, Rel. Min. Luiz Fux, julgado em 5/10/2023 (Info 1111). — p. 17)*
+- É inconstitucional norma estadual que, a pretexto de legislar sobre os direitos das pessoas com deficiência (PcD), restringe o conceito de PcD estabelecido na Convenção sobre os Direitos das Pessoas com Deficiência - incorporada ao direito interno como norma constitucional (Decreto nº 6.949/2009) - bem como contraria regras gerais sobre o tema previstas na Lei federal nº 13.146/2015 (Estatuto da Pessoa com Deficiência). *(STF. Plenário. ADI 7028/AP, Rel. Min. Roberto Barroso, julgado em 19/6/2023 (Info 1099). — p. 17)*
+- É inconstitucional o condicionamento da desfiliação de associado à quitação de débito referente a benefício obtido por intermédio da associação ou ao pagamento de multa. *(STF. Plenário. RE 820823/DF, Rel. Min. Dias Toffoli, julgado em 30/9/2022 (Info 1070). — p. 18)*
+- É legítimo, desde que observados alguns parâmetros, o compartilhamento de dados pessoais entre órgãos e entidades da Administração Pública federal, sem qualquer prejuízo da irrestrita observância dos princípios gerais e mecanismos de proteção elencados na Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018) e dos direitos constitucionais à privacidade e proteção de dados. *(STF. Plenário. ADI 6649/DF, Rel. Min. Gilmar Mendes, julgado em 15/9/2022 (Info 1068). — p. 18)*
+- A liberdade de expressão não alcança a prática de discursos dolosos, com intuito manifestamente difamatório, de juízos depreciativos de mero valor, de injúrias em razão da forma ou de críticas aviltantes. *(STF. 2ª Turma. Pet 8242 AgR/DF, Rel. Min. Celso de Mello, redator do acórdão Min. Gilmar Mendes, julgado em 3/5/2022 (Info 1053). — p. 18)*
+- A liberdade de expressão existe para a manifestação de opiniões contrárias, jocosas, satíricas e até mesmo errôneas, mas não para opiniões criminosas, discurso de ódio ou atentados contra o Estado Democrático de Direito e a democracia. *(STF. Plenário. AP 1014/DF, Rel. Min. Alexandre de Moraes, julgado em 20/4/2022 (Info 1051). — p. 18)*
+- Não é cabível a condenação de empresa jornalística à publicação do resultado da demanda quando o ofendido não tenha pleiteado administrativamente o direito de resposta ou retificação de matéria divulgada, publicada ou transmitida por veículo de comunicação social no prazo decadencial estabelecido no art. 3º da Lei nº 13.188/2015, bem como à adequação do montante indenizatório fixado. *(STJ. 4ª Turma. REsp 1.867.286-SP, Rel. Min. Marco Buzzi, julgado em 24/08/2021 (Info 706). — p. 18)*
+- A exigência constitucional de aviso prévio relativamente ao direito de reunião é satisfeita com a veiculação de informação que permita ao poder público zelar para que seu exercício se dê de forma pacífica ou para que não frustre outra reunião no mesmo local. *(STF. Plenário. RE 806339/SE, Rel. Min. Marco Aurélio, redator do acórdão Min. Edson Fachin, julgado em 14/12/2020 (Repercussão Geral – Tema 855) (Info 1003). — p. 19)*
+- Retirar de circulação produto audiovisual disponibilizado em plataforma de streaming apenas porque seu conteúdo desagrada parcela da população, ainda que majoritária, não encontra fundamento em uma sociedade democrática e pluralista como a brasileira. *(STF. 2ª Turma. Rcl 38782/RJ, Rel. Min. Gilmar Mendes, julgado em 3/11/2020 (Info 998). — p. 19)*
+- Ante conflito entre a liberdade de expressão de agente político, na defesa da coisa pública, e honra de terceiro, há de prevalecer o interesse coletivo, da sociedade, não cabendo potencializar o individual. *(STF. Plenário. RE 685.493/SP, Rel. Min. Dias Toffoli, julgado em 22/05/2020. — p. 19)*
+- A liberdade de informação jornalística não legitima a utilização de informações sigilosas obtidas por meios ilícitos. *(STF. Plenário. RE 638.360/RJ AgR-segundo, Rel. Min. Dias Toffoli, julgado em 27/04/2020. — p. 19)*
+- É inconstitucional lei que autorize o trabalho de gestantes e lactantes em atividades insalubres. *(STF. Plenário. ADI 5938/DF, Rel. Min. Alexandre de Moraes, julgado em 29/5/2019 (Info 942). — p. 19)*
+- A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas “a posteriori”, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados. *(STF. Plenário. RE 603616/RO, Rel. Min. Gilmar Mendes, julgado em 4 e 5/11/2015 (Info 806). — p. 19)*
+- É inexigível o consentimento de pessoa biografada relativamente a obras biográficas literárias ou audiovisuais, sendo por igual desnecessária a autorização de pessoas retratadas como coadjuvantes ou de familiares, em caso de pessoas falecidas ou ausentes. *(STF. Plenário. ADI 4815/DF, Rel. Min. Cármen Lúcia, julgado em 10/6/2015 (Info 789). — p. 20)*
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Dos Direitos e Deveres Individuais e Coletivos (art. 5º CF/88)]] — SV 5, 11, 14, 21 e 25 e os julgados sobre liberdade de expressão, reunião e domicílio; você errou esse tópico em 06/09 (0%).
+> - Direitos Sociais e dos Trabalhadores (arts. 6º e 7º), na mesma nota — Súm. STF 675 e os julgados sobre gestantes, licença-maternidade e as ADO 73 e 74.
+
+### Jurisprudência: remédios constitucionais
+- [ ] status [dom:: 0] [peso:: 2]
+
+Origem do bloco: *Resumo Jurisprudência — Direito Constitucional* (VINTEUM Guia Fiscal 4.0, V1.0), p. 11–14. A Súmula STF 629 (MS coletivo por entidade de classe independe de autorização dos associados) já está registrada nesta nota.
+
+**Súmulas** (9):
+
+- **Súmula STF 266:** **não cabe MS** contra **lei em tese**.
+- **Súmula STF 267:** **não cabe MS** contra ato judicial **passível de recurso ou correição**.
+- **Súmula STF 268:** **não cabe MS** contra decisão judicial com **trânsito em julgado**.
+- **Súmula STF 430:** **pedido de reconsideração** na via administrativa **não interrompe** o prazo do mandado de segurança.
+- **Súmula STF 625:** **controvérsia sobre matéria de direito não impede** a concessão de MS.
+- **Súmula STF 630:** a **entidade de classe** tem legitimação para o **MS coletivo** ainda quando a pretensão interesse **apenas a uma parte** da categoria.
+- **Súmula STF 632:** é **constitucional** lei que fixa **prazo de decadência** para impetrar MS.
+- **Súmula STF 365:** **pessoa jurídica não tem legitimidade** para propor **ação popular**.
+- **Súmula STJ 2:** **não cabe habeas data** (art. 5º, LXXII, a) se **não houve recusa** de informações pela autoridade administrativa.
+
+> [!quote]- Texto literal: Súmulas STF 266, 267, 268, 365, 430, 625, 630, 632 e STJ 2 (Resumo de Jurisprudência D. Constitucional, p. 11–14)
+> > **Súmula STF 266** (p. 11) — Não cabe mandado de segurança contra lei em tese.
+> >
+> > **Súmula STF 267** (p. 11) — Não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+> >
+> > **Súmula STF 268** (p. 12) — Não cabe mandado de segurança contra decisão judicial com trânsito em julgado.
+> >
+> > **Súmula STF 430** (p. 12) — Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança.
+> >
+> > **Súmula STF 625** (p. 13) — Controvérsia sobre matéria de direito não impede concessão de mandado de segurança.
+> >
+> > **Súmula STF 630** (p. 13) — A entidade de classe tem legitimação para o mandado de segurança ainda quando a pretensão veiculada interesse apenas a uma parte da respectiva categoria.
+> >
+> > **Súmula STF 632** (p. 14) — É constitucional lei que fixa o prazo de decadência para a impetração de mandado de segurança.
+> >
+> > **Súmula STF 365** (p. 12) — Pessoa jurídica não tem legitimidade para propor ação popular.
+> >
+> > **Súmula STJ 2** (p. 11) — Não cabe o habeas data (CF, art. 5º, LXXII, letra a) se não houve recusa de informações por parte da autoridade administrativa.
+
+Quadro: mandado de segurança, o que cabe e o que não cabe (súmulas acima e Súm. STF 629).
+
+| Situação | Resultado | Base |
+| --- | --- | --- |
+| Impetrado contra **lei em tese** | **Não cabe** | Súm. STF 266 |
+| Contra ato judicial **passível de recurso ou correição** | **Não cabe** | Súm. STF 267 |
+| Contra decisão judicial com **trânsito em julgado** | **Não cabe** | Súm. STF 268 |
+| **Controvérsia sobre matéria de direito** | **Não impede** a concessão | Súm. STF 625 |
+| **Pedido de reconsideração** na via administrativa | **Não interrompe** o prazo | Súm. STF 430 |
+| **Prazo de decadência** fixado em lei | É **constitucional** | Súm. STF 632 |
+| **MS coletivo** por entidade de classe | Independe de autorização dos associados; vale mesmo se interessar só a parte da categoria | Súm. STF 629 e 630 |
+
+> [!tip]- Lupa: as súmulas de "não cabe" do mandado de segurança
+> **A ideia em uma frase:** as súmulas 266, 267 e 268 fecham três portas do MS (lei em tese, ato judicial recorrível e decisão transitada), e as outras corrigem falsas objeções (matéria de direito controvertida, reconsideração administrativa).
+>
+> **Passo a passo:** (1) veja **contra o quê** o MS foi impetrado: lei em tese, ato judicial com recurso cabível, decisão judicial transitada, ou ato administrativo; (2) nos três primeiros casos, a súmula diz que não cabe; (3) se a objeção é "a matéria é controvertida", a Súm. 625 diz que isso não impede; (4) se o item fala em prazo após pedido de reconsideração administrativo, a Súm. 430 diz que o prazo **não** para. Exemplo ilustrativo (sem lastro): o contribuinte impetra MS contra uma decisão judicial que ainda admite recurso; incide a Súm. 267.
+>
+> **O erro clássico:** inverter o resultado (dizer que cabe MS contra lei em tese, ou que a controvérsia de direito impede o MS), ou dizer que o pedido de reconsideração administrativo interrompe o prazo (não interrompe). O PDF não traz o número de dias do prazo; não trate isso como fato desta lupa.
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#-Mandado de Segurança]] — a Súm. STF 629 já está lá; estas súmulas completam o tópico.
+> - [[P1 - Direito Constitucional#-Habeas Data]] — Súm. STJ 2 (só cabe se houve recusa).
+> - [[P1 - Direito Constitucional#-Ação Popular]] — Súm. STF 365 (pessoa jurídica não tem legitimidade).
+
+### Jurisprudência: Legislativo e processo legislativo
+- [ ] status [dom:: 0] [peso:: 2]
+
+Origem do bloco: *Resumo Jurisprudência — Direito Constitucional* (VINTEUM Guia Fiscal 4.0, V1.0), p. 9–13 (súmulas) e p. 26–31 (julgados). Esta nota não tem heading de "Processo Legislativo" (tópico de 6,4% no VINTEUM); os julgados desse bloco ficam aqui até haver um.
+
+**Súmulas** (4):
+
+- **SV 45:** a competência do **Tribunal do Júri prevalece** sobre o **foro por prerrogativa** estabelecido **exclusivamente pela constituição estadual**.
+- **SV 54:** a medida provisória não apreciada **podia**, até a **EC 32/2001**, ser **reeditada** dentro do prazo de eficácia de 30 dias, mantidos os efeitos desde a primeira edição.
+- **Súmula STF 245:** a **imunidade parlamentar não se estende ao corréu** sem essa prerrogativa.
+- **Súmula STF 451:** a competência por **prerrogativa de função não se estende ao crime cometido após a cessação definitiva** do exercício funcional.
+
+> [!quote]- Texto literal: SV 45, 54 e Súmulas STF 245 e 451 (Resumo de Jurisprudência D. Constitucional, p. 9–13)
+> > **SV 45** (p. 9) — A competência constitucional do Tribunal do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela constituição estadual.
+> >
+> > **SV 54** (p. 9) — A medida provisória não apreciada pelo congresso nacional podia, até a Emenda Constitucional 32/2001, ser reeditada dentro do seu prazo de eficácia de trinta dias, mantidos os efeitos de lei desde a primeira edição.
+> >
+> > **Súmula STF 245** (p. 11) — A imunidade parlamentar não se estende ao co-réu sem essa prerrogativa.
+> >
+> > **Súmula STF 451** (p. 13) — A competência especial por prerrogativa de função não se estende ao crime cometido após a cessação definitiva do exercício funcional.
+
+> [!tip]- Lupa: iniciativa reservada, emenda parlamentar e medida provisória
+> **A ideia em uma frase:** os julgados de processo legislativo mostram três limites: o Legislativo pode criar despesa sem invadir a iniciativa do Executivo, a emenda em projeto de iniciativa reservada precisa ter pertinência temática, e a medida provisória não pode ser reeditada na mesma sessão legislativa.
+>
+> **Passo a passo:** (1) **iniciativa parlamentar**: lei que cria despesa, mas não trata da estrutura da Administração, da atribuição dos órgãos nem do regime dos servidores, não usurpa a competência privativa do Chefe do Executivo (ARE 878.911); já lei estadual de iniciativa parlamentar sobre isenção de custas judiciais é inconstitucional (ADI 3629); (2) **emenda parlamentar**: em projeto de iniciativa reservada, a emenda sem estrita pertinência temática gera norma formalmente inconstitucional (ADI 7.230/MG); na conversão de medida provisória, a emenda vale se estiver associada ao tema e à finalidade da MP (ADI 6928/DF); (3) **medida provisória**: é inconstitucional a que reedita, na mesma sessão legislativa, MP rejeitada, de eficácia exaurida por decurso do prazo ou ainda não apreciada no prazo (ADI 5717/DF), e não há espaço para o Judiciário controlar os requisitos de urgência se não houver comprovação da ausência dela (ADI 5599/DF). Exemplo ilustrativo (sem lastro): a Assembleia aprova emenda a um projeto do Governador sobre outro assunto; falta a pertinência temática.
+>
+> **O erro clássico:** dizer que toda lei parlamentar que cria despesa usurpa a iniciativa do Executivo (o ARE 878.911 diz que não, se não tratar de estrutura, atribuições e servidores), tratar a emenda em projeto de conversão de MP como livre (exige pertinência com o tema e a finalidade), ou confundir a SV 54 (reedição possível só até a EC 32/2001) com a regra atual (ADI 5717).
+
+**Julgados** (25):
+
+- A imunidade material dos parlamentares - que os torna invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos - afasta qualquer pretensão indenizatória em face do ente público, na medida em que consubstancia excludente da responsabilidade civil objetiva estatal. *(STF. Plenário. RE 632.115/CE, Rel. Min. Luís Roberto Barroso, julgado em 26/9/2025 (Info 1191). — p. 26)*
+- É inconstitucional - por violar o pressuposto da dupla vacância, previsto para o modelo federal e cuja observância pelos estados-membros é obrigatória - norma de Constituição estadual que determina, em caso de vacância, eleição avulsa para o cargo de vice-governador pela Assembleia Legislativa. *(STF. Plenário. ADI 999/AL, Rel. Min. Dias Toffoli, julgado em 23/6/2023 (Info 1100). — p. 26)*
+- O prazo previsto para a convocação de suplente, no caso de licença de parlamentar para tratar de interesses particulares (art. 56, § 1º, CF/88), é de observância obrigatória pelos estados-membros e deve ser adotado pelas respectivas Assembleias Legislativas. *(STF. Plenário. ADI 7253/AC, Rel. Min. Cármen Lúcia, julgado em 22/05/2023 (Info 1095). — p. 26)*
+- É inconstitucional lei estadual que vincula a remuneração dos deputados estaduais à dos deputados federais. *(STF. Plenário. ADI 6.545/DF, Rel. Min. Ricardo Lewandowski, redator do acórdão Min. Alexandre de Moraes, julgado em 12/04/2023 (Info 1090). — p. 26)*
+- Por força do § 1º do art. 27 da CF de 1988, as imunidades materiais e formais conferidas aos membros do Congresso Nacional (deputados federais e senadores) estendem-se aos deputados estaduais. *(STF. Plenário. ADI 5.824/RJ, Rel. Min. Edson Fachin, julgado em 16/12/2022 (Info 1081). — p. 26)*
+- Constituições estaduais podem prever a reeleição de membros das mesas diretoras das assembleias legislativas para mandatos consecutivos, mas essa recondução é limitada a uma única vez. *(STF. Plenário. ADI 6720/AL, Rel. Min. Roberto Barroso, julgado em 24/9/2021 (Info 1031). — p. 27)*
+- Em juízo de delibação, não é possível a convocação de governadores de estados-membros da Federação por Comissão Parlamentar de Inquérito (CPI) instaurada pelo Senado Federal. *(STF. Plenário. ADPF 848 MC-Ref/DF, Rel. Min. Rosa Weber, julgado em 25/6/2021 (Info 1023). — p. 27)*
+- Admite-se a excepcional e exclusiva prorrogação da competência criminal originária do Supremo Tribunal Federal, quando o parlamentar, sem solução de continuidade, encontrar-se investido, em novo mandato federal, mas em casa legislativa diversa daquela que originalmente deu causa à fixação da competência originária, nos termos do art. 102, I, “b”, da Constituição Federal. *(STF. Plenário. Pet 9189, Rel. Min. Rosa Weber, julgado em 12/05/2021. — p. 27)*
+- A instauração de Comissão Parlamentar de Inquérito depende unicamente do preenchimento dos requisitos previstos no art. 58, § 3º, da Constituição Federal, ou seja: a) o requerimento de um terço dos membros das casas legislativas; b) a indicação de fato determinado a ser apurado; e c) a definição de prazo certo para sua duração. *(STF. Plenário. MS 37760 MC-Ref/DF, Rel. Min. Roberto Barroso, julgado em 14/4/2021 (Info 1013). — p. 27)*
+- Atentar contra a democracia e o Estado de Direito não configura exercício da função parlamentar a invocar a imunidade constitucional prevista no art. 53, caput, da Constituição Federal. *(STF. Plenário. Inq 4781 Ref, Rel. Min. Alexandre de Moraes, julgado em 17/2/2021 (Info 1006). — p. 27)*
+- Não é possível a recondução dos Presidentes da Câmara dos Deputados e do Senado Federal para o mesmo cargo na eleição imediatamente subsequente, dentro da mesma legislatura, sendo permitido em caso de nova legislatura. *(STF. Plenário. ADI 6524, Rel. Min. Gilmar Mendes, julgado em 14/12/2020. — p. 28)*
+- São constitucionais dispositivos da Constituição do Estado que estendem aos Deputados Estaduais as imunidades formais previstas no art. 53 da Constituição Federal para Deputados Federais e Senadores. *(STF. Plenário. ADI 5823 MC/RN, ADI 5824 MC/RJ e ADI 5825 MC/MT, rel. orig. Min. Edson Fachin, red. p/ o ac. Min. Marco Aurélio, julgados em 8/5/2019 (Info 939). — p. 28)*
+- É constitucional - e está em consonância com as regras do processo legislativo e com o princípio da simetria - a revogação ou alteração, por lei ordinária, da regulamentação de lei complementar, quando esta possuir status de lei ordinária. *(STF. Plenário. ARE 1.521.802/MG, Rel. Min. Edson Fachin, julgado em 12/09/2025 (Info 1190). — p. 29)*
+- É constitucional - por não violar os princípios da razoabilidade, proporcionalidade e proibição ao retrocesso social - a revogação de dispositivo de Constituição estadual que impõe a prévia aprovação plebiscitária como requisito de validade para a alienação, transferência do controle acionário, cisão, incorporação, fusão ou extinção de empresas estatais. *(STF. Plenário. ADI 6.291/RS, Rel. Min. Cristiano Zanin, julgado em 25/10/2024 (Info 1156). — p. 29)*
+- É constitucional, pois não configura emenda aditiva e, portanto, não afronta o princípio do bicameralismo no processo legislativo, a inclusão - pela Casa revisora, sem retorno do texto à Casa iniciadora para nova votação - de palavras e expressões em projeto de lei que apenas corrija imprecisões técnicas ou torne o sentido do texto mais claro. *(STF. Plenário. ADI 7.442/DF, Rel. Min. Alexandre de Moraes, julgado em 24/10/2024 (Info 1156). — p. 29)*
+- A adoção do rito de urgência em proposições legislativas é prerrogativa regimental atribuída à respectiva Casa Legislativa e consiste em matéria “interna corporis”, de modo que não cabe ao Poder Judiciário qualquer interferência, sob pena de violação ao princípio de separação dos Poderes (art. 2º, CF/88). *(STF. Plenário. ADPF 971/SP, ADPF 987/SP e ADPF 992/SP, Rel. Min. Gilmar Mendes, julgados em 29/05/2023 (Info 1096). — p. 29)*
+- A prerrogativa do poder de veto presidencial somente pode ser exercida dentro do prazo expressamente previsto na Constituição (15 dias), não se admitindo exercê-la após a sua expiração. *(STF. Plenário. ADPF 893/DF, Rel. Min. Cármen Lúcia, julgado em 20/6/2022 (Info 1059). — p. 30)*
+- O Poder Legislativo pode emendar projeto de lei de conversão de medida provisória quando a emenda estiver associada ao tema e à finalidade original da medida provisória. *(STF. Plenário. ADI 6928/DF, Rel. Min. Cármen Lúcia, julgado em 22/11/2021 (Info 1038). — p. 30)*
+- Não caracteriza afronta à vedação imposta pelo art. 62, § 1º, IV, da Constituição Federal a edição de medida provisória no mesmo dia em que o Presidente da República sanciona ou veta projeto de lei com conteúdo semelhante. *(STF. Plenário. ADI 2601/DF, Rel. Min. Ricardo Lewandowski, julgado em 19/8/2021 (Info 1026). — p. 30)*
+- A tramitação de projeto de lei por meio de sistema de deliberação remota não viola as normas do processo legislativo. *(STF. Plenário. ADI 6442/DF, Rel. Min. Alexandre de Moraes, julgado em 13/3/2021 (Info 1009). — p. 30)*
+- Inexistindo comprovação da ausência de urgência, não há espaço para atuação do Poder Judiciário no controle dos requisitos de edição de medida provisória pelo chefe do Poder Executivo. *(STF. Plenário. ADI 5599/DF, Rel. Min. Edson Fachin, julgado em 23/10/2020 (Info 996). — p. 30)*
+- É inconstitucional lei estadual, de iniciativa parlamentar, que trate sobre isenção de custas judiciais. *(STF. Plenário. ADI 3629, Rel. Min. Gilmar Mendes, julgado em 03/03/2020. — p. 30)*
+- A Constituição Estadual não pode ampliar as hipóteses de reserva de lei complementar, ou seja, não pode criar outras hipóteses em que é exigida lei complementar, além daquelas que já são previstas na Constituição Federal. *(STF. Plenário. ADI 5003/SC, Rel. Min. Luiz Fux, julgado em 5/12/2019 (Info 962). — p. 31)*
+- É inconstitucional medida provisória ou lei decorrente de conversão de medida provisória cujo conteúdo normativo caracterize a reedição, na mesma sessão legislativa, de medida provisória anterior rejeitada, de eficácia exaurida por decurso do prazo ou que ainda não tenha sido apreciada pelo Congresso Nacional dentro do prazo estabelecido pela Constituição Federal. *(STF. Plenário. ADI 5717/DF, Rel. Min. Rosa Weber, julgados em 27/3/2019 (Info 935). — p. 31)*
+- Não usurpa competência privativa do Chefe do Poder Executivo lei que, embora crie despesa para a Administração, não trata da sua estrutura ou da atribuição de seus órgãos nem do regime jurídico de servidores públicos. *(STF. Plenário. ARE 878.911, Rel. Min. Gilmar Mendes, julgado em 29/09/2016. — p. 31)*
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#- Dos Deputados e Senadores (arts. 53 a 56 da CF/1988)]] — imunidades e prerrogativa de foro (SV 45 e Súm. STF 245 e 451, e os julgados sobre imunidade).
+
+### Jurisprudência: Tribunais de Contas
+- [ ] status [dom:: 0] [peso:: 2]
+
+Origem do bloco: *Resumo Jurisprudência — Direito Constitucional* (VINTEUM Guia Fiscal 4.0, V1.0), p. 11–14 (súmulas) e p. 32–34 (julgados). A SV 3 (contraditório e ampla defesa perante o TCU) está registrada em `P1 - Direito Administrativo`, e o julgado ADI 825/AP, que consta do resumo, já está nesta nota.
+
+**Súmulas** (3):
+
+- **Súmula STF 6:** a **revogação ou anulação pelo Executivo** de aposentadoria (ou outro ato aprovado pelo Tribunal de Contas) **não produz efeitos antes de aprovada pelo Tribunal**, ressalvada a revisão judicial.
+- **Súmula STF 347:** o **Tribunal de Contas** pode **apreciar a constitucionalidade** das leis e atos do poder público no exercício de suas atribuições.
+- **Súmula STF 653:** no **Tribunal de Contas estadual** de sete conselheiros, **quatro** são escolhidos pela **Assembleia** e **três** pelo **Governador** (um entre auditores, um entre membros do Ministério Público e um de livre escolha).
+
+> [!quote]- Texto literal: Súmulas STF 6, 347 e 653 (Resumo de Jurisprudência D. Constitucional, p. 11–14)
+> > **Súmula STF 6** (p. 11) — A revogação ou anulação, pelo Poder Executivo, de aposentadoria, ou qualquer outro ato aprovado pelo Tribunal de Contas, não produz efeitos antes de aprovada por aquele Tribunal, ressalvada a competência revisora do Judiciário.
+> >
+> > **Súmula STF 347** (p. 12) — O Tribunal de Contas, no exercício de suas atribuições, pode apreciar a constitucionalidade das leis e dos atos do poder público.
+> >
+> > **Súmula STF 653** (p. 14) — No Tribunal de Contas Estadual, composto por sete conselheiros, quatro devem ser escolhidos pela Assembleia Legislativa e três pelo Chefe do Poder Executivo estadual, cabendo a este indicar um dentre auditores e outro dentre membros do Ministério Público, e um terceiro a sua livre escolha.
+
+**Julgados** (11):
+
+- A ausência de parecer prévio do Tribunal de Contas estadual não impede o julgamento das contas do governador pela Assembleia Legislativa. Entendimento contrário configuraria restrição desproporcional à autonomia do Poder Legislativo. *(STF. Plenário. ADPF 434/AL, Rel. Min. Nunes Marques, julgado em 08/08/2025 (Info 1185). — p. 32)*
+- Os Tribunais de Contas possuem competência constitucional para julgar as contas de gestão de prefeitos que ordenam despesas, imputando débitos e sanções fora da esfera eleitoral, independentemente de ratificação pelas Câmaras Municipais. *(STF. Plenário. ADPF 982/PR, Rel. Min. Flávio Dino, julgado em 21/2/2025 (Info 1166). — p. 32)*
+- É inconstitucional, por violação aos arts. 130 e 75 da CF/1988, norma estadual que confere autonomia administrativa e orçamentária ao Ministério Público Estadual junto ao Tribunal de Contas, garantida a independência funcional de seus membros e os meios necessários para o desempenho da função. *(STF. Plenário. ADI 5.254/PA, Rel. Min. Luís Roberto Barroso, julgado em 21/08/2024 (Info 1147). — p. 32)*
+- São inconstitucionais normas estaduais (seja Constituição, lei ou regimento interno) que permitam mais de uma reeleição consecutiva para o mesmo cargo diretivo do Tribunal de Contas estadual. A norma que permite várias reeleições consecutivas viola os princípios republicano e democrático. *(STF. Plenário. ADI 7.180/AP, Rel. Min. Alexandre de Moraes, julgado em 22/04/2024 (Info 1133). — p. 32)*
+- São inconstitucionais normas que atribuem a emissão de pareceres opinativos aos auditores de Tribunal de Contas estadual, por incompatibilidade com a função de judicatura de contas estabelecida pelos arts. 73, § 4º, e 75, caput, da Constituição. *(STF. Plenário. ADI 5.530/MS, Rel. Min. Roberto Barroso, julgado em 19/05/2023 (Info 1096). — p. 32)*
+- A Ordem dos Advogados do Brasil (OAB) não se sujeita à prestação de contas perante o Tribunal de Contas da União (TCU) e a ausência dessa obrigatoriedade não representa ofensa ao art. 70, parágrafo único, da Constituição Federal de 1988, já que inexiste previsão expressa em sentido diverso. *(STF. Plenário. RE 1.182.189/BA, Rel. Min. Marco Aurélio, julgado em 24/04/2023 (Info 1091). — p. 33)*
+- É inconstitucional - por contrariar o princípio da simetria e o que disposto no art. 71, II, da CF/1988 - norma de Constituição estadual que atribui à Assembleia Legislativa competência exclusiva para tomar e julgar as contas prestadas pelos Poderes Legislativo, Executivo e Judiciário. *(STF. Plenário. ADI 6981/SP, Rel. Min. Roberto Barroso, julgado em 12/12/2022 (Info 1079). — p. 33)*
+- O Ministério Público junto ao Tribunal de Contas encontra-se estritamente vinculado à estrutura da Corte de Contas e não detém autonomia jurídica e iniciativa legislativa para as leis que definem sua estrutura organizacional. *(STF. Plenário. ADI 3804/AL, Rel. Min. Dias Toffoli, julgado em 3/12/2021 (Info 1040). — p. 33)*
+- É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas. *(STF. Plenário. RE 636886, Rel. Min. Alexandre de Moraes, julgado em 20/04/2020 (Info 983). — p. 33)*
+- Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de cinco anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas. *(STF. Plenário. RE 636553/RS, Rel. Min. Gilmar Mendes, julgado em 19/2/2020 (Info 967). — p. 33)*
+- A Constituição Federal não proíbe a extinção de Tribunais de Contas dos Municípios. *(STF. Plenário. ADI 5763/CE, Rel. Min. Marco Aurélio, julgado em 26/10/2017 (Info 883). — p. 34)*
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#- Tribunais de Contas Estaduais, Distrital e Municipais]] — Súm. STF 653 e os julgados sobre Tribunais de Contas estaduais e municipais.
+> - [[P1 - Direito Constitucional#- Competências para Fiscalização e Tribunal de Contas da União (arts. 70 a 73 da CF/1988)]] — Súm. STF 6 e 347 e os julgados sobre competências de julgamento e prazo.
+
+### Jurisprudência: Executivo, Judiciário e Funções Essenciais
+- [ ] status [dom:: 0] [peso:: 2]
+
+Origem do bloco: *Resumo Jurisprudência — Direito Constitucional* (VINTEUM Guia Fiscal 4.0, V1.0), p. 11–13 (súmulas) e p. 35–40 (julgados).
+
+**Súmulas** (4):
+
+- **Súmula STJ 42:** a **Justiça comum estadual** processa e julga as causas cíveis em que é parte **sociedade de economia mista** e os crimes praticados em seu detrimento.
+- **Súmula STJ 525:** a **Câmara de Vereadores** tem **personalidade judiciária**, não jurídica, e só demanda para defender seus direitos institucionais.
+- **Súmula STF 280:** por ofensa a **direito local** não cabe **recurso extraordinário**.
+- **Súmula STF 454:** **simples interpretação de cláusulas contratuais** não dá lugar a **recurso extraordinário**.
+
+> [!quote]- Texto literal: Súmulas STJ 42 e 525; STF 280 e 454 (Resumo de Jurisprudência D. Constitucional, p. 11–13)
+> > **Súmula STJ 42** (p. 11) — Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento.
+> >
+> > **Súmula STJ 525** (p. 13) — A Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, somente podendo demandar em juízo para defender os seus direitos institucionais.
+> >
+> > **Súmula STF 280** (p. 12) — Por ofensa a direito local não cabe recurso extraordinário.
+> >
+> > **Súmula STF 454** (p. 13) — Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.
+
+**Julgados** (20):
+
+- O exercício da chefia do Poder Executivo, nos seis meses anteriores ao pleito, em decorrência de decisão judicial não transitada em julgado, não conta como exercício de um mandato para efeito de reeleição. *(STF. Plenário. RE 1.355.228/PB, Rel. Min. Nunes Marques, julgado em 26/11/2025 (Info 1201). — p. 35)*
+- É inconstitucional - por violar o pressuposto da dupla vacância, previsto para o modelo federal e cuja observância pelos estados-membros é obrigatória - norma de Constituição estadual que determina, em caso de vacância, eleição avulsa para o cargo de vice-governador pela Assembleia Legislativa. *(STF. Plenário. ADI 999/AL, Rel. Min. Dias Toffoli, julgado em 26/6/2023 (Info 1100). — p. 35)*
+- É inconstitucional disposição de Constituição estadual ou Lei Orgânica distrital que, em desacordo com o previsto no art. 78, § 3º, da Lei nº 1.079/50, atribuam à Assembleia ou Câmara Legislativa o julgamento do Governador por crime de responsabilidade. *(STF. Plenário. ADI 3.466/DF, Rel. Min. Eros Grau, julgado em 15/5/2023 (Info 1094). — p. 35)*
+- É inconstitucional - por manifesta violação ao art. 84, VI, “b”, da Constituição Federal - a extinção de cargos e funções que estejam ocupados na data da edição do decreto do presidente da República. *(STF. Plenário. ADI 6186/DF, Rel. Min. Gilmar Mendes, julgado em 18/4/2023 (Info 1091). — p. 35)*
+- A renúncia ao cargo de Governador impede o recebimento de pedido de abertura de impeachment. *(STJ. 2ª Turma. RMS 68.932-SP, Rel. Min. Herman Benjamin, julgado em 16/08/2022 (Info 753). — p. 35)*
+- É inconstitucional norma de constituição estadual que disponha sobre o processamento e julgamento de Governador e Vice-governador nos casos de crime de responsabilidade. *(STF. Plenário. ADI 4811/MG, Rel. Min. Gilmar Mendes, julgado em 13/12/2021 (Info 1041). — p. 36)*
+- É vedado às unidades federativas instituírem normas que condicionem a instauração de ação penal contra o governador por crime comum à prévia autorização da casa legislativa, cabendo ao Superior Tribunal de Justiça (STJ) dispor fundamentadamente sobre a aplicação de medidas cautelares penais, inclusive o afastamento do cargo. *(STF. Plenário. ADI 4777/BA, rel. orig. Min. Dias Toffoli, julgado em 9/8/2017 (Info 872). — p. 36)*
+- É constitucional - por tratar de matéria que não se submete à reserva de iniciativa do Supremo Tribunal Federal - a Lei Complementar nº 152/2015, de autoria parlamentar, que, ao elevar a idade da aposentadoria compulsória no serviço público para 75 anos de idade, inclui os magistrados. *(STF. Plenário. ADI 5430/DF, Rel. Min. Roberto Barroso, julgado em 22/05/2023 (Info 1095). — p. 37)*
+- É inconstitucional - por violar a competência da União para dispor sobre a magistratura brasileira - norma estadual que cria nova vantagem remuneratória (benefício de permanência em atividade) para os magistrados do Poder Judiciário local. *(STF. Plenário. ADI 2952/RJ, Rel. Min. Gilmar Mendes, julgado em 03/04/2023 (Info 1089). — p. 37)*
+- O preenchimento de lugar destinado ao quinto constitucional, nos Tribunais brasileiros, é um ato complexo no qual participam a OAB, o Tribunal de origem e o chefe do Poder Executivo e, para sua revogação, depende da vontade de todos os participantes originários. *(STJ. 2ª Turma. AREsp 2.304.110-SC, Rel. Min. Francisco Falcão, julgado em 12/3/2023 (Info 770). — p. 37)*
+- Em regra, deve-se revisar ou cancelar enunciado de súmula vinculante quando ocorrer a revogação ou a alteração da legislação que lhe serviu de fundamento. Contudo, o STF pode concluir, com base nas circunstâncias do caso concreto, pela desnecessidade de tais medidas. *(STF. Plenário. RE 1.116.485/RS, Rel. Min. Luiz Fux, julgado em 01/03/2023 (Info 1084). — p. 37)*
+- São constitucionais as restrições ao exercício da advocacia aos servidores do Poder Judiciário e do Ministério Público. *(STF. Plenário. ADI 5235/DF, Rel. Min. Rosa Weber, julgado em 11/6/2021 (Info 1021). — p. 37)*
+- Não é possível o estabelecimento de subteto remuneratório para a magistratura estadual inferior ao teto remuneratório da magistratura federal. *(STF. Plenário. ADI 3854/DF e ADI 4014/DF, Rel. Min. Gilmar Mendes, julgados em 4/12/2020 (Info 1001). — p. 38)*
+- É constitucional - à luz da peculiar natureza jurídica do Distrito Federal e da estrutura orgânica do Ministério Público da União (MPU) - norma que autoriza o Presidente da República a nomear o procurador-geral do Ministério Público do Distrito Federal e Territórios (MPDFT). *(STF. Plenário. ADI 6.247/DF, Rel. Min. Dias Toffoli, julgado em 18/11/2024 (Info 1159). — p. 39)*
+- É constitucional - pois não viola os princípios da simetria e da separação de Poderes - norma de Constituição estadual que prevê que a ocupação do cargo de advogado-geral do estado se dê exclusivamente por membro da carreira da Advocacia Pública local, entre os que sejam estáveis e maiores de trinta e cinco anos. *(STF. Plenário. ADI 5.342/MG, Rel. Min. Nunes Marques, julgado em 20/09/2024 (Info 1146). — p. 39)*
+- A vinculação entre os subsídios dos membros do Ministério Público, ou de função essencial à Justiça, e a remuneração da magistratura é vedada pelo art. 37, XIII, da CF/88. *(STF. Plenário. ADI 570/PE, Rel. Min. Roberto Barroso, julgado em 13/03/2023 (Info 1086). — p. 39)*
+- É inconstitucional, por configurar ofensa à liberdade de locomoção, a exigência de prévia comunicação ou autorização para que os membros do Ministério Público possam se ausentar da comarca ou do estado onde exercem suas atribuições. *(STF. Plenário. ADI 6845/AC, Rel. Min. Cármen Lúcia, julgado em 22/10/2021 (Info 1035). — p. 39)*
+- É inconstitucional emenda à Constituição estadual que trate sobre normas gerais para a organização do Ministério Público e sobre atribuições dos órgãos e membros do Parquet. *(STF. Plenário. ADI 5281/RO, Rel. Min. Cármen Lúcia, julgado em 11/5/2021 (Info 1016). — p. 39)*
+- É constitucional dispositivo de lei estadual que prevê a autonomia financeira do Ministério Público. *(STF. Plenário. ADI 2831/RJ, Rel. Min. Marco Aurélio, redator do acórdão Min. Alexandre de Moraes, julgado em 30/4/2021 (Info 1015). — p. 40)*
+- Constituição estadual não pode atribuir foro por prerrogativa de função a autoridades diversas daquelas arroladas na Constituição Federal. *(STF. Plenário. ADI 6501 Ref- MC/PA, Rel. Min. Roberto Barroso, julgado em 20/11/2020 (Info 1000). — p. 40)*
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#- Poder Judiciário (arts. 92 a 126);]] — Súm. STF 280 e 454, STJ 42 e os julgados sobre magistratura e quinto constitucional (você nunca testou esse tópico em caderno).
+> - [[P1 - Direito Constitucional#- Funções Essenciais à Justiça (arts. 127 a 135);]] — os julgados sobre Ministério Público.
+> - [[P1 - Direito Constitucional#- Poder Executivo (arts. 76 a 91);]] — os julgados sobre chefia do Executivo e impeachment.
 
 
  ____
