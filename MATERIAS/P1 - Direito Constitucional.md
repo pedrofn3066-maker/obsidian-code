@@ -449,7 +449,13 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 
 **Isonomia** (art. 5º, caput): tem como fundamento a dignidade da pessoa humana — busca tratamento igualitário para os iguais e diferenciado para os desiguais, tanto na feitura quanto na aplicação do sistema normativo, até se alcançar a igualdade material.
 
+> [!quote]- Texto literal: art. 5º, caput (CF/88 EC 139, p. 13)
+> Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+
 **Princípio da legalidade x princípio da reserva legal** (Marcelo Novelino): a legalidade tem abrangência mais ampla, incidindo sobre todas as espécies normativas elaboradas em conformidade com o processo legislativo constitucional (leis em sentido amplo); a reserva legal incide apenas sobre campos materiais específicos, submetidos exclusivamente ao tratamento do Poder Legislativo (leis em sentido estrito, exigidas por norma constitucional expressa).
+
+> [!quote]- Texto literal: art. 5º, II (CF/88 EC 139, p. 13)
+> II – ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei;
 
 → **Direito à Vida** - art. 5º, caput. Abrange vida intrauterina e extrauterina e o direito a uma vida digna; não é absoluto:
 - STF: possibilidade de aborto de feto anencéfalo.
@@ -458,36 +464,143 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 
 → **Direito à Igualdade** - art. 5º, caput e I. Igualdade formal (todos iguais perante a lei) x igualdade material (tratamento diferenciado para equilibrar desigualdades históricas). STF: ações afirmativas, como cotas raciais, são aceitas.
 
+> [!quote]- Texto literal: art. 5º, I (CF/88 EC 139, p. 13)
+> I – homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição;
+
 → **Vedação à tortura** - art. 5º, III. Decorre diretamente da dignidade da pessoa humana. ⚠️ Direito relativizável em regra, mas aqui a CF não previu exceção — em nenhuma situação é admitida tortura ou tratamento desumano ou degradante.
+
+> [!quote]- Texto literal: art. 5º, III (CF/88 EC 139, p. 13)
+> III – ninguém será submetido a tortura nem a tratamento desumano ou degradante;
 
 → **Liberdade de Consciência, Crença e Convicção Filosófica** - art. 5º, VI a VIII. Liberdade religiosa (exercício dos cultos, VI); assistência religiosa garantida em entidades civis e militares (VII); escusa de consciência pode ser invocada, mas o indivíduo que não cumprir prestação alternativa pode ser privado de direitos (VIII).
 
+> [!quote]- Texto literal: art. 5º, VI a VIII (CF/88 EC 139, p. 13)
+> VI – é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias;
+>
+> VII – é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva;
+>
+> VIII – ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei;
+
 → **Liberdade de Expressão e Direito de Resposta** - art. 5º, IV, V e IX. STF tem posicionamento pacífico quanto à inexistência de autorização prévia para o exercício da liberdade de expressão, sendo constitucionais os arts. 20 e 21 do Código Civil — o que enseja direito de resposta e eventual indenização.
+
+> [!quote]- Texto literal: art. 5º, IV, V e IX (CF/88 EC 139, p. 13)
+> IV – é livre a manifestação do pensamento, sendo vedado o anonimato;
+>
+> V – é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem;
+>
+> [...]
+>
+> IX – é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença;
 
 → **Intimidade, vida privada, honra e imagem** - art. 5º, X. Violação fora dos casos legais ou autorizados judicialmente gera indenização por dano material ou moral.
 - STF: é constitucional a publicação do nome e dos vencimentos dos servidores públicos — a privacidade dos agentes públicos é relativa.
 - STF: não é necessária autorização prévia do biografado ou de sua família para publicação de biografia; biografias não autorizadas são admitidas.
 - STF: sigilo bancário pode ser quebrado, mediante fundamentação, por Poder Judiciário; CPIs federais e estaduais (as municipais não podem); autoridades fiscais (Lei nº 105), havendo processo administrativo instaurado ou procedimento fiscal em curso, ou quando as informações forem indispensáveis; Ministério Público (STJ, em conta de entes públicos; STF, em defesa do patrimônio público).
 
+> [!quote]- Texto literal: art. 5º, X (CF/88 EC 139, p. 13)
+> X – são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação;
+
 → **Inviolabilidade domiciliar** - art. 5º, XI. Regra: não se entra em casa sem consentimento do morador. STF: conceito de casa abrange compartimento habitado, aposento de ocupação coletiva, aposento privado não aberto ao público, e o domicílio profissional. Exceções: com consentimento do morador, a qualquer hora; sem consentimento, sob ordem judicial durante o dia, ou em flagrante delito, desastre ou para prestar socorro, a qualquer hora.
+
+> [!quote]- Texto literal: art. 5º, XI (CF/88 EC 139, p. 13)
+> XI – a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;
 
 → **Sigilo da correspondência e das comunicações** - art. 5º, XII. Quebra de sigilo das comunicações telefônicas (acesso ao histórico de ligações): autorizada por Poder Judiciário ou CPI. Interceptação (acesso às gravações): autorizada apenas por Poder Judiciário. Requisitos: ordem judicial, investigação criminal ou instrução processual penal em curso, e lei que preveja hipóteses e forma.
 
+> [!quote]- Texto literal: art. 5º, XII (CF/88 EC 139, p. 13)
+> XII – é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;
+
+→ **Trabalho, informação e locomoção** - art. 5º, XIII a XV. <mark>É livre o exercício de qualquer trabalho, ofício ou profissão</mark>, atendidas as qualificações profissionais que a lei estabelecer (XIII). É assegurado a todos o <mark>acesso à informação</mark> e resguardado o <mark>sigilo da fonte</mark>, quando necessário ao exercício profissional (XIV). É livre a <mark>locomoção no território nacional em tempo de paz</mark>: qualquer pessoa pode, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens (XV). *(CF/88 EC 139, p. 13)*
+
+> [!quote]- Texto literal: art. 5º, XIII a XV (CF/88 EC 139, p. 13)
+> XIII – é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer;
+>
+> XIV – é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional;
+>
+> XV – é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens;
+
 → **Direito de reunião** - art. 5º, XVI. Não exige autorização, apenas prévio aviso; fins pacíficos; local aberto ao público, sem atrapalhar reunião avisada antes. Elementos: pluralidade de participantes, tempo (duração limitada), finalidade (lícita, pacífica, sem armas) e lugar (determinado, podendo ser móvel, como em passeatas). ⚠️ Uma pessoa armada durante a reunião não é motivo, por si só, para sua dissolução.
+
+> [!quote]- Texto literal: art. 5º, XVI (CF/88 EC 139, p. 13)
+> XVI – todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;
 
 → **Liberdade de associação** - art. 5º, XVII a XXI. Independe de autorização estatal e de personalidade jurídica; ninguém é obrigado a se associar ou a permanecer associado; suspensão só por decisão judicial, dissolução só por decisão judicial transitada em julgado; vedada associação de caráter paramilitar.
 - Representação judicial (XXI): associação, em regra, precisa de autorização expressa dos associados para defender seus interesses em juízo — exceto o mandado de segurança coletivo (substituição processual, autorização genérica, Súmula 629/STF). Apenas os associados que autorizaram a representação ficam sujeitos à execução do título judicial.
 - 🚨 Sindicato não precisa de autorização dos filiados.
 
+> [!quote]- Texto literal: art. 5º, XVII a XXI (CF/88 EC 139, p. 13–14)
+> XVII – é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar;
+>
+> XVIII – a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento;
+>
+> XIX – as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;
+>
+> XX – ninguém poderá ser compelido a associar-se ou a permanecer associado;
+>
+> XXI – as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;
+
+→ **Propriedade e direitos patrimoniais** - art. 5º, XXII a XXXII *(CF/88 EC 139, p. 14)*
+- É garantido o direito de propriedade (XXII), que atenderá a sua função social (XXIII).
+- <mark>Desapropriação</mark> (XXIV): por necessidade ou utilidade pública, ou por interesse social, mediante <mark>justa e prévia indenização em dinheiro</mark>, ressalvados os casos previstos na Constituição; a lei estabelece o procedimento. <mark>Requisição</mark> (XXV): no caso de iminente perigo público, a autoridade competente pode usar propriedade particular, com <mark>indenização ulterior</mark>, se houver dano. ⚠️ Desapropriação: indenização prévia; requisição: indenização ulterior.
+- A pequena propriedade rural, definida em lei, trabalhada pela família, não é objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva (XXVI).
+- Autoria e inventos (XXVII a XXIX): aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar (XXVII); a lei assegura aos autores de inventos industriais privilégio temporário e proteção às marcas, aos nomes de empresas e a outros signos distintivos (XXIX).
+- Herança e consumidor: é garantido o direito de herança (XXX); a sucessão de bens de estrangeiros situados no País é regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus (XXXI); o Estado promoverá, na forma da lei, a <mark>defesa do consumidor</mark> (XXXII).
+
+> [!quote]- Texto literal: art. 5º, XXII a XXXII (CF/88 EC 139, p. 14)
+> XXII – é garantido o direito de propriedade;
+>
+> XXIII – a propriedade atenderá a sua função social;
+>
+> XXIV – a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição;
+>
+> XXV – no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;
+>
+> XXVI – a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento;
+>
+> XXVII – aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar;
+>
+> XXVIII – são assegurados, nos termos da lei:
+>
+> a) a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas;
+>
+> b) o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;
+>
+> XXIX – a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;
+>
+> XXX – é garantido o direito de herança;
+>
+> XXXI – a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus;
+>
+> XXXII – o Estado promoverá, na forma da lei, a defesa do consumidor;
+
 → **Direito à Informação** - art. 5º, XXXIII. Titulares: pessoas físicas e jurídicas, nacionais e estrangeiras. Abrange órgãos públicos e, excepcionalmente, órgãos privados que prestem serviços públicos. O indivíduo só pode requisitar informações suas ou de interesse coletivo, nunca de terceiros. A informação é a regra; o sigilo, exceção apenas quando imprescindível à segurança da sociedade e do Estado. Negativa cabe mandado de segurança. ✅ STF: pode haver publicação de remuneração, cargos, funções e órgãos de lotação dos servidores públicos.
+
+> [!quote]- Texto literal: art. 5º, XXXIII (CF/88 EC 139, p. 14)
+> XXXIII – todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado;
 
 → **Direito de petição e obtenção de certidões** - art. 5º, XXXIV. Titulares: pessoas físicas e jurídicas, nacionais e estrangeiras; gratuito. Petição: defesa de direitos contra ilegalidade e abuso de poder. Certidão: defesa de direitos e esclarecimento de situações de interesse particular. ⚠️ Não confundir: negativa de certidão cabe mandado de segurança; habeas data serve para requisitar informações pessoais em órgãos públicos, não para obter certidão.
 
+> [!quote]- Texto literal: art. 5º, XXXIV (CF/88 EC 139, p. 14)
+> XXXIV – são a todos assegurados, independentemente do pagamento de taxas:
+>
+> a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;
+>
+> b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal;
+
 → **Inafastabilidade de jurisdição** - art. 5º, XXXV. Brasil adota o sistema inglês de jurisdição (jurisdição una): só o Poder Judiciário faz coisa julgada material — diferente do sistema francês, com duas cortes (judiciário e administrativo). Decisões de outros Poderes sempre podem ser levadas ao Judiciário. STF: duplo grau de jurisdição não é garantia constitucional nem obrigatório.
+
+> [!quote]- Texto literal: art. 5º, XXXV (CF/88 EC 139, p. 14)
+> XXXV – a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;
 
 → **Direito adquirido, ato jurídico perfeito e coisa julgada** - art. 5º, XXXVI. Direito adquirido: ato consumado, incorporado ao patrimônio do titular por ter cumprido todos os requisitos da lei vigente à época — não pode mais ser alterado. STF: aplica-se a atos normativos de direito público ou privado. Ato jurídico perfeito: exercido conforme a lei vigente ao tempo do ato; situação consolidada, não desconstituível por lei posterior (não confundir com expectativa de direito, em que os requisitos não foram todos cumpridos). Coisa julgada: decisão final irrecorrível.
 
+> [!quote]- Texto literal: art. 5º, XXXVI (CF/88 EC 139, p. 14)
+> XXXVI – a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;
+
 → **Princípio do juiz natural** - art. 5º, XXXVII. Veda tribunal ou juízo de exceção; só julga quem tem competência prevista constitucionalmente.
+
+> [!quote]- Texto literal: art. 5º, XXXVII (CF/88 EC 139, p. 14)
+> XXXVII – não haverá juízo ou tribunal de exceção;
 
 → **Júri popular** - art. 5º, XXXVIII. Características: plenitude de defesa, sigilo das votações, soberania dos veredictos, competência para julgar crimes dolosos contra a vida.
 - STF: legislação estadual não pode criar órgão que invada a competência do júri.
@@ -495,13 +608,45 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 - STF: vereadores que cometem crimes dolosos contra a vida são julgados pelo júri, mesmo com foro especial de origem estadual.
 - STF: a soberania do júri não afasta a recorribilidade de decisão manifestamente contrária às provas dos autos.
 
+> [!quote]- Texto literal: art. 5º, XXXVIII (CF/88 EC 139, p. 14)
+> XXXVIII – é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados:
+>
+> a) a plenitude de defesa;
+>
+> b) o sigilo das votações;
+>
+> c) a soberania dos veredictos;
+>
+> d) a competência para o julgamento dos crimes dolosos contra a vida;
+
 → **Irretroatividade da lei** - art. 5º, XL. Leis penais incriminadoras não atingem fatos pretéritos; lei benéfica pode retroagir.
+
+→ **Legalidade penal** - art. 5º, XXXIX: <mark>não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal</mark>. *(CF/88 EC 139, p. 14)*
+
+> [!quote]- Texto literal: art. 5º, XXXIX e XL (CF/88 EC 139, p. 14–15)
+> XXXIX – não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;
+>
+> XL – a lei penal não retroagirá, salvo para beneficiar o réu;
 
 → **Imprescritibilidade e inafiançabilidade** - art. 5º, XLII a XLIV. Inafiançáveis: racismo, ação de grupos armados, tráfico, terrorismo, tortura, crimes hediondos. Imprescritíveis: racismo e ação de grupos armados (bizu: RAÇÃO). Insuscetíveis de graça/anistia: tráfico, terrorismo, tortura, hediondos (bizu: 3TH não tem graça).
 - STF: omissão legislativa quanto à tipificação de homofobia e transfobia — até tipificação, aplicam-se as penas do crime de racismo.
 - STF: injúria racial é espécie do crime de racismo, também imprescritível.
 
+→ **Discriminação** - art. 5º, XLI: a lei <mark>punirá</mark> qualquer discriminação atentatória dos direitos e liberdades fundamentais. *(CF/88 EC 139, p. 15)*
+
+> [!quote]- Texto literal: art. 5º, XLI a XLIV (CF/88 EC 139, p. 15)
+> XLI – a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais;
+>
+> XLII – a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei;
+>
+> XLIII – a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem;
+>
+> XLIV – constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático;
+
 → **Intranscendência da pena** - art. 5º, XLV. Efeitos penais não se transmitem a terceiros; já a reparação de danos e o perdimento de bens podem ser transmitidos aos sucessores, no limite do patrimônio transferido. ⚠️ Não confundir reparação de dano/perda de bem (transmissíveis) com pena de multa ou de prestação pecuniária (intransmissíveis, por serem penas).
+
+> [!quote]- Texto literal: art. 5º, XLV (CF/88 EC 139, p. 15)
+> XLV – nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido;
 
 → **Individualização da pena, penas proibidas, execução da pena e direitos dos detentos** - art. 5º, XLVI a L. Características pessoais do agente (idade, gênero, natureza do delito) definem a individualização — crianças, mulheres e idosos ficam em estabelecimento diferenciado. Penas proibidas: morte (exceto guerra declarada), caráter perpétuo, trabalhos forçados, banimento, cruéis.
 - STF: inconstitucional vedar progressão de regime a crimes hediondos.
@@ -510,9 +655,70 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 - STF: Estado responde por danos, inclusive morais, decorrentes de condições de encarceramento insuficientes.
 - Inciso L: garante às mães o direito à amamentação e ao contato com o filho, observado o princípio do melhor interesse da criança.
 
+> [!quote]- Texto literal: art. 5º, XLVI a L (CF/88 EC 139, p. 15)
+> XLVI – a lei regulará a individualização da pena e adotará, entre outras, as seguintes:
+>
+> a) privação ou restrição da liberdade;
+>
+> b) perda de bens;
+>
+> c) multa;
+>
+> d) prestação social alternativa;
+>
+> e) suspensão ou interdição de direitos;
+>
+> XLVII – não haverá penas:
+>
+> a) de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;
+>
+> b) de caráter perpétuo;
+>
+> c) de trabalhos forçados;
+>
+> d) de banimento;
+>
+> e) cruéis;
+>
+> XLVIII – a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado;
+>
+> XLIX – é assegurado aos presos o respeito à integridade física e moral;
+>
+> L – às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;
+
+→ **Extradição** - art. 5º, LI e LII: <mark>nenhum brasileiro será extraditado</mark>, salvo o <mark>naturalizado</mark>, em caso de crime comum praticado <mark>antes da naturalização</mark> ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei; <mark>não será concedida extradição de estrangeiro por crime político ou de opinião</mark>. *(CF/88 EC 139, p. 15)*
+
+> [!quote]- Texto literal: art. 5º, LI e LII (CF/88 EC 139, p. 15)
+> LI – nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei;
+>
+> LII – não será concedida extradição de estrangeiro por crime político ou de opinião;
+
 → **Devido processo legal, contraditório e ampla defesa** - art. 5º, LIII a LV. Ninguém é condenado, judicial ou administrativamente, sem chance de defesa perante autoridade competente; a ampla defesa permite o uso de todos os meios lícitos de prova; o contraditório assegura contradizer o que foi levantado contra o acusado.
 - STF: sindicância preparatória que resulta em PAD não exige ampla defesa e contraditório; se a sindicância for encerrada com aplicação de pena sem virar PAD, exige-se ampla defesa e contraditório.
 - STF: não é obrigatória a presença de advogado no PAD.
+
+> [!quote]- Texto literal: art. 5º, LIII a LV (CF/88 EC 139, p. 15)
+> LIII – ninguém será processado nem sentenciado senão pela autoridade competente;
+>
+> LIV – ninguém será privado da liberdade ou de seus bens sem o devido processo legal;
+>
+> LV – aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes;
+
+→ **Provas, presunção de inocência e publicidade** - art. 5º, LVI a LX *(CF/88 EC 139, p. 15)*
+- <mark>Provas obtidas por meios ilícitos</mark> são inadmissíveis no processo (LVI); ninguém é considerado culpado até o <mark>trânsito em julgado de sentença penal condenatória</mark> (LVII).
+- O civilmente identificado não é submetido a identificação criminal, salvo nas hipóteses previstas em lei (LVIII); é admitida ação privada nos crimes de ação pública se esta não for intentada no prazo legal (LIX).
+- A lei só pode restringir a <mark>publicidade dos atos processuais</mark> quando a defesa da intimidade ou o interesse social o exigirem (LX).
+
+> [!quote]- Texto literal: art. 5º, LVI a LX (CF/88 EC 139, p. 15)
+> LVI – são inadmissíveis, no processo, as provas obtidas por meios ilícitos;
+>
+> LVII – ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória;
+>
+> LVIII – o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei;
+>
+> LIX – será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal;
+>
+> LX – a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem;
 
 → **Direitos do preso** - art. 5º, LXI a LXVI. Prisão só em flagrante delito ou por mandado judicial escrito e fundamentado (ressalva: transgressão militar ou crime propriamente militar). Direito à comunicação imediata da prisão a juiz e família; direito de ser informado de seus direitos (silêncio, assistência familiar e de advogado) e de saber a identidade do responsável pela prisão/interrogatório, sem ressalvas constitucionais. Prisão ilegal deve ser relaxada de imediato pelo juiz — "relaxar" (prisão ilegal) não é o mesmo que "revogar" (prisão legal e legítima). Havendo previsão de liberdade provisória ou fiança, a regra é não manter a prisão.
 - STF: falta de comunicação do direito ao silêncio torna nulo o depoimento; o silêncio não prejudica o réu.
@@ -520,9 +726,74 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 - STF: algemas só em casos especiais, como risco de fuga ou perigo a si mesmo.
 - STF: audiência de custódia deve ocorrer em até 24 horas da prisão.
 
+> [!quote]- Texto literal: art. 5º, LXI a LXVI (CF/88 EC 139, p. 15–16)
+> LXI – ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei;
+>
+> LXII – a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada;
+>
+> LXIII – o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado;
+>
+> LXIV – o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial;
+>
+> LXV – a prisão ilegal será imediatamente relaxada pela autoridade judiciária;
+>
+> LXVI – ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança;
+
 → **Prisão civil por dívida** - art. 5º, LXVII. Único caso adotado no Brasil: inadimplemento voluntário e inescusável de obrigação alimentícia. STF: ilícita a prisão civil do depositário infiel, em qualquer modalidade de depósito. ⚠️ A literalidade do inciso (que também prevê a prisão do depositário infiel) subsiste no texto constitucional, mas o Pacto de San Jose da Costa Rica (efeito supralegal) afasta sua aplicação — apenas a prisão por dívida alimentícia é válida hoje.
 
+> [!quote]- Texto literal: art. 5º, LXVII (CF/88 EC 139, p. 16)
+> LXVII – não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel;
+
 → **Documentos gratuitos para a defesa do cidadão** - art. 5º, LXXVI. Literalidade: gratuitos aos reconhecidamente pobres (registro civil de nascimento e certidão de óbito); STF pacificou que a gratuidade, incluindo a primeira certidão, vale para todos os cidadãos. Habeas corpus e habeas data são gratuitos a todos. Aos que comprovarem insuficiência de recursos: assistência jurídica gratuita.
+
+> [!quote]- Texto literal: art. 5º, LXXIV a LXXVI (CF/88 EC 139, p. 16)
+> LXXIV – o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;
+>
+> LXXV – o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença;
+>
+> LXXVI – são gratuitos para os reconhecidamente pobres, na forma da lei:
+>
+> a) o registro civil de nascimento;
+>
+> b) a certidão de óbito;
+
+→ **Erro judiciário, razoável duração do processo e proteção de dados** - art. 5º, LXXV, LXXVIII e LXXIX *(CF/88 EC 139, p. 16)*
+- O Estado <mark>indenizará</mark> o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença (LXXV).
+- A todos, <mark>no âmbito judicial e administrativo</mark>, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação (LXXVIII).
+- É assegurado, nos termos da lei, o direito à <mark>proteção dos dados pessoais, inclusive nos meios digitais</mark> (LXXIX).
+
+> [!quote]- Texto literal: art. 5º, LXXVIII e LXXIX (CF/88 EC 139, p. 16)
+> LXXVIII – a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação;
+>
+> LXXIX – é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais.
+
+→ **Aplicação imediata, rol aberto, tratados e TPI** - art. 5º, §§ 1º a 4º *(CF/88 EC 139, p. 16–17)*
+- As normas definidoras dos direitos e garantias fundamentais têm <mark>aplicação imediata</mark> (§ 1º).
+- Os direitos e garantias expressos <mark>não excluem outros</mark> decorrentes do regime e dos princípios da CF ou dos tratados internacionais de que o Brasil seja parte (§ 2º).
+- Tratados e convenções sobre direitos humanos aprovados em cada Casa do Congresso, <mark>em dois turnos, por três quintos</mark> dos votos dos respectivos membros, serão <mark>equivalentes às emendas constitucionais</mark> (§ 3º).
+- O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão (§ 4º).
+
+> [!quote]- Texto literal: art. 5º, §§ 1º a 4º (CF/88 EC 139, p. 16–17)
+> § 1º As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.
+>
+> § 2º Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.
+>
+> § 3º Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.
+>
+> § 4º O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão.
+>
+> (* NE do Senado, rodapé da p. 17: ver Atos Internacionais Equivalentes a Emenda Constitucional.)
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Fiscalização Tributária (arts. 194 a 200 do CTN)]]: sigilo fiscal e intercâmbio de informações, que convivem com a intimidade e o sigilo de dados (X e XII).
+> - [[P2 - Direito Tributário#Certidão Negativa (arts. 205 a 208 do CTN)]]: as certidões do inciso XXXIV, "b", pelo lado tributário.
+> - [[P2 - Direito Tributário#Processo Administrativo Fiscal (arts. 208-A a 208-J do CTN)]]: contraditório e ampla defesa em processo administrativo (LV) e razoável duração (LXXVIII).
+> - [[P1 - Direito Constitucional#Dos Impostos dos Municípios (art. 156 da CF/1988)]]: a função social da propriedade (XXIII) aparece na progressividade no tempo do IPTU (art. 182, § 4º), na lupa das duas progressividades.
+> - [[P1 - Direito Constitucional#Extradição, Deportação, Expulsão e Banimento (da Nacionalidade)]]: extradição (LI e LII) pelo filtro da nacionalidade.
+> - [[P1 - Direito Constitucional#Jurisprudência: direitos e garantias fundamentais]]: jurisprudência do STF e súmulas vinculantes sobre os direitos do art. 5º.
+> - [[P1 - Direito Administrativo#- Processo Administrativo Federal (Lei nº 9.784/1999).]]: contraditório e ampla defesa em processo administrativo (LV) e razoável duração (LXXVIII), na lei do processo administrativo federal.
+> - [[P1 - Direito Administrativo#- Tratamento de dados pessoais pelo Poder Público: Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).]]: a proteção de dados pessoais do inciso LXXIX, regulada pela LGPD.
+
 ## Remédios Constitucionais (art. 5º, LXVIII a LXXIII e LXXVII da CF/1988)
 
 ### - Habeas Corpus
@@ -533,6 +804,9 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 - Legitimidade ativa: qualquer pessoa física ou jurídica, MP, Defensoria Pública (legitimidade universal). Legitimidade passiva: autoridade pública ou privada responsável pela violência/coação. Sujeito paciente: apenas pessoa física — HC não pode ser impetrado em favor de pessoa jurídica, mas pessoa jurídica pode impetrar em favor de pessoa física.
 - Juiz pode concedê-lo de ofício. Único remédio que dispensa advogado; gratuito.
 - STF: admite habeas corpus coletivo. STJ: cabe HC quanto a medidas protetivas da Lei Maria da Penha.
+
+> [!quote]- Texto literal: art. 5º, LXVIII (CF/88 EC 139, p. 16)
+> LXVIII – conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
     
 ### -Mandado de Segurança
 - [ ] status [dom:: 0] [peso:: 2]
@@ -545,6 +819,15 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indic
 - Prova pré-constituída; natureza civil; oneroso, mas sem condenação em honorários da parte vencida. Prazo: 120 dias da ciência do fato que obstou o direito líquido e certo — vencido o prazo, resta a via ordinária.
 - Legitimidade ativa: pessoa física ou jurídica, nacional ou estrangeira, universalidades (espólio, massa falida), alguns órgãos públicos, MP. Legitimidade passiva: autoridade pública, representantes de partidos políticos, administradores de autarquias, particulares no exercício de função pública (só quanto a essas atribuições).
 - Art. 21, Lei nº 12.016/09 — **Mandado de Segurança Coletivo**: pode ser impetrado por partido político com representação no Congresso Nacional (defesa de interesses legítimos relativos a seus integrantes ou à finalidade partidária) ou por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos 1 ano (defesa de direitos líquidos e certos da totalidade ou parte de seus membros/associados, conforme seus estatutos e pertinentes às suas finalidades), dispensada autorização especial. Natureza civil, oneroso. Marca-o o instituto da substituição processual — não há necessidade de autorização específica de cada membro. ⚠️ As associações, especificamente, precisam estar constituídas e em funcionamento há pelo menos 1 ano (item muito cobrado).
+
+> [!quote]- Texto literal: art. 5º, LXIX e LXX (CF/88 EC 139, p. 16)
+> LXIX – conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público;
+>
+> LXX – o mandado de segurança coletivo pode ser impetrado por:
+>
+> a) partido político com representação no Congresso Nacional;
+>
+> b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;
     
 ### -Mandado de Injunção
 - [ ] status [dom:: 0] [peso:: 2]
@@ -556,6 +839,9 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indic
 - Legitimidade ativa: pessoa física ou jurídica inviabilizada de exercer direito constitucional por falta de norma. Legitimidade passiva: entidade responsável pela norma omitida.
 - **Mandado de Injunção Coletivo**: representa coletividade (classe, grupo, categoria); legitimados: os mesmos do mandado de segurança coletivo (partido político com representação no CN; organização sindical/entidade de classe/associação constituída há 1 ano), acrescidos de Ministério Público e Defensoria Pública.
 - STF adota a posição concretista: julgada a omissão, a Corte determina prazo para elaboração da norma e a forma de exercício do direito até a regulamentação, com efeito inter partes ou erga omnes.
+
+> [!quote]- Texto literal: art. 5º, LXXI (CF/88 EC 139, p. 16)
+> LXXI – conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania;
     
 ### -Habeas Data
 - [ ] status [dom:: 0] [peso:: 2]
@@ -565,6 +851,17 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indic
 - Legitimidade ativa: qualquer pessoa física ou jurídica, nacional ou estrangeira. Legitimidade passiva: autoridade pública ou privada detentora do banco de dados de caráter público.
 - Não serve para acesso a autos de processo administrativo, nem para informações de terceiros. Exige negativa prévia da instituição em fornecer os dados.
 - STF: cônjuge sobrevivente pode impetrar habeas data em prol do cônjuge falecido.
+
+> [!quote]- Texto literal: art. 5º, LXXII e LXXVII (CF/88 EC 139, p. 16)
+> LXXII – conceder-se-á habeas data:
+>
+> a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público;
+>
+> b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;
+>
+> [...]
+>
+> LXXVII – são gratuitas as ações de habeas corpus e habeas data, e, na forma da lei, os atos necessários ao exercício da cidadania;
     
 ### -Ação Popular
 - [ ] status [dom:: 0] [peso:: 2]
@@ -575,6 +872,9 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indic
 - Competência: juízo de primeiro grau da Justiça Federal ou Estadual, conforme a esfera do ato; acompanhada sempre pelo MP.
 - MP não pode propor ação popular (só o cidadão pode), mas atua como substituto processual em caso de omissão do autor, ou como sucessor em caso de desistência.
 - STF: não exige dano pecuniário — basta o dano decorrente do ato lesivo.
+
+> [!quote]- Texto literal: art. 5º, LXXIII (CF/88 EC 139, p. 16)
+> LXXIII – qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;
 
 
 ## - Direitos e Garantias Fundamentais (art. 6º a 17);
@@ -768,6 +1068,23 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3187?indi
 > § 3º Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar.
 >
 > § 4º A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por lei complementar federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.
+
+> [!quote]- Texto literal: art. 18, caput e §§ 1º e 2º, e art. 19 (CF/88 EC 139, p. 24)
+> Art. 18. A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta Constituição.
+>
+> § 1º Brasília é a Capital Federal.
+>
+> § 2º Os Territórios Federais integram a União, e sua criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei complementar.
+>
+> [...]
+>
+> Art. 19. É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+>
+> I – estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público;
+>
+> II – recusar fé aos documentos públicos;
+>
+> III – criar distinções entre brasileiros ou preferências entre si.
 
 > [!tip]- Lupa: mexer no território de Estado × de Município
 > **A ideia em uma frase:** a alteração de território sempre passa pela população (plebiscito) e por uma lei. O que muda é **qual lei** e se há **estudo prévio**.
@@ -968,6 +1285,97 @@ Teto do subsídio do Vereador (art. 29, VI, p. 30)
 - (VII) O total da despesa com a remuneração dos Vereadores <mark>não pode ultrapassar 5% da receita do Município</mark>. (VIII) **Inviolabilidade** dos Vereadores por opiniões, palavras e votos <mark>no exercício do mandato e na circunscrição do Município</mark>. (IX) Proibições e incompatibilidades similares às dos congressistas e dos deputados estaduais. (X) <mark>Julgamento do Prefeito perante o Tribunal de Justiça</mark>. (XII) Cooperação das associações representativas no planejamento municipal. (XIII) **Iniciativa popular** de projetos de lei de interesse específico do Município, da cidade ou de bairros: <mark>pelo menos 5% do eleitorado</mark>. (XIV) Perda do mandato do Prefeito nos termos do art. 28, § 1º (o PDF anota: onde se lê "parágrafo único", leia-se § 1º, por força da EC 19/1998). *(p. 31)*
 - ⚠️ A inviolabilidade do Vereador tem **limite territorial** (circunscrição do Município). O inciso VIII não fala em imunidade.
 
+> [!quote]- Texto literal: art. 29, caput e incisos I a XIV (CF/88 EC 139, p. 29–31)
+> Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos:
+>
+> I – eleição do Prefeito, do Vice-Prefeito e dos Vereadores, para mandato de quatro anos, mediante pleito direto e simultâneo realizado em todo o País;
+>
+> II – eleição do Prefeito e do Vice-Prefeito realizada no primeiro domingo de outubro do ano anterior ao término do mandato dos que devam suceder, aplicadas as regras do art. 77 no caso de Municípios com mais de duzentos mil eleitores;
+>
+> III – posse do Prefeito e do Vice-Prefeito no dia 1º de janeiro do ano subsequente ao da eleição;
+>
+> IV – para a composição das Câmaras Municipais, será observado o limite máximo de:
+>
+> a) 9 (nove) Vereadores, nos Municípios de até 15.000 (quinze mil) habitantes;
+>
+> b) 11 (onze) Vereadores, nos Municípios de mais de 15.000 (quinze mil) habitantes e de até 30.000 (trinta mil) habitantes;
+>
+> c) 13 (treze) Vereadores, nos Municípios com mais de 30.000 (trinta mil) habitantes e de até 50.000 (cinquenta mil) habitantes;
+>
+> d) 15 (quinze) Vereadores, nos Municípios de mais de 50.000 (cinquenta mil) habitantes e de até 80.000 (oitenta mil) habitantes;
+>
+> e) 17 (dezessete) Vereadores, nos Municípios de mais de 80.000 (oitenta mil) habitantes e de até 120.000 (cento e vinte mil) habitantes;
+>
+> f) 19 (dezenove) Vereadores, nos Municípios de mais de 120.000 (cento e vinte mil) habitantes e de até 160.000 (cento e sessenta mil) habitantes;
+>
+> g) 21 (vinte e um) Vereadores, nos Municípios de mais de 160.000 (cento e sessenta mil) habitantes e de até 300.000 (trezentos mil) habitantes;
+>
+> h) 23 (vinte e três) Vereadores, nos Municípios de mais de 300.000 (trezentos mil) habitantes e de até 450.000 (quatrocentos e cinquenta mil) habitantes;
+>
+> i) 25 (vinte e cinco) Vereadores, nos Municípios de mais de 450.000 (quatrocentos e cinquenta mil) habitantes e de até 600.000 (seiscentos mil) habitantes;
+>
+> j) 27 (vinte e sete) Vereadores, nos Municípios de mais de 600.000 (seiscentos mil) habitantes e de até 750.000 (setecentos e cinquenta mil) habitantes;
+>
+> k) 29 (vinte e nove) Vereadores, nos Municípios de mais de 750.000 (setecentos e cinquenta mil) habitantes e de até 900.000 (novecentos mil) habitantes;
+>
+> l) 31 (trinta e um) Vereadores, nos Municípios de mais de 900.000 (novecentos mil) habitantes e de até 1.050.000 (um milhão e cinquenta mil) habitantes;
+>
+> m) 33 (trinta e três) Vereadores, nos Municípios de mais de 1.050.000 (um milhão e cinquenta mil) habitantes e de até 1.200.000 (um milhão e duzentos mil) habitantes;
+>
+> n) 35 (trinta e cinco) Vereadores, nos Municípios de mais de 1.200.000 (um milhão e duzentos mil) habitantes e de até 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes;
+>
+> o) 37 (trinta e sete) Vereadores, nos Municípios de 1.350.000 (um milhão e trezentos e cinquenta mil) habitantes e de até 1.500.000 (um milhão e quinhentos mil) habitantes;
+>
+> p) 39 (trinta e nove) Vereadores, nos Municípios de mais de 1.500.000 (um milhão e quinhentos mil) habitantes e de até 1.800.000 (um milhão e oitocentos mil) habitantes;
+>
+> q) 41 (quarenta e um) Vereadores, nos Municípios de mais de 1.800.000 (um milhão e oitocentos mil) habitantes e de até 2.400.000 (dois milhões e quatrocentos mil) habitantes;
+>
+> r) 43 (quarenta e três) Vereadores, nos Municípios de mais de 2.400.000 (dois milhões e quatrocentos mil) habitantes e de até 3.000.000 (três milhões) de habitantes;
+>
+> s) 45 (quarenta e cinco) Vereadores, nos Municípios de mais de 3.000.000 (três milhões) de habitantes e de até 4.000.000 (quatro milhões) de habitantes;
+>
+> t) 47 (quarenta e sete) Vereadores, nos Municípios de mais de 4.000.000 (quatro milhões) de habitantes e de até 5.000.000 (cinco milhões) de habitantes;
+>
+> u) 49 (quarenta e nove) Vereadores, nos Municípios de mais de 5.000.000 (cinco milhões) de habitantes e de até 6.000.000 (seis milhões) de habitantes;
+>
+> v) 51 (cinquenta e um) Vereadores, nos Municípios de mais de 6.000.000 (seis milhões) de habitantes e de até 7.000.000 (sete milhões) de habitantes;
+>
+> w) 53 (cinquenta e três) Vereadores, nos Municípios de mais de 7.000.000 (sete milhões) de habitantes e de até 8.000.000 (oito milhões) de habitantes;
+>
+> x) 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito milhões) de habitantes;
+>
+> V – subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
+>
+> VI – o subsídio dos Vereadores será fixado pelas respectivas Câmaras Municipais em cada legislatura para a subsequente, observado o que dispõe esta Constituição, observados os critérios estabelecidos na respectiva Lei Orgânica e os seguintes limites máximos:
+>
+> a) em Municípios de até dez mil habitantes, o subsídio máximo dos Vereadores corresponderá a vinte por cento do subsídio dos Deputados Estaduais;
+>
+> b) em Municípios de dez mil e um a cinquenta mil habitantes, o subsídio máximo dos Vereadores corresponderá a trinta por cento do subsídio dos Deputados Estaduais;
+>
+> c) em Municípios de cinquenta mil e um a cem mil habitantes, o subsídio máximo dos Vereadores corresponderá a quarenta por cento do subsídio dos Deputados Estaduais;
+>
+> d) em Municípios de cem mil e um a trezentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a cinquenta por cento do subsídio dos Deputados Estaduais;
+>
+> e) em Municípios de trezentos mil e um a quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a sessenta por cento do subsídio dos Deputados Estaduais;
+>
+> f) em Municípios de mais de quinhentos mil habitantes, o subsídio máximo dos Vereadores corresponderá a setenta e cinco por cento do subsídio dos Deputados Estaduais;
+>
+> VII – o total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de cinco por cento da receita do Município;
+>
+> VIII – inviolabilidade dos Vereadores por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município;
+>
+> IX – proibições e incompatibilidades, no exercício da vereança, similares, no que couber, ao disposto nesta Constituição para os membros do Congresso Nacional e, na Constituição do respectivo Estado, para os membros da Assembleia Legislativa;
+>
+> X – julgamento do Prefeito perante o Tribunal de Justiça;
+>
+> XI – organização das funções legislativas e fiscalizadoras da Câmara Municipal;
+>
+> XII – cooperação das associações representativas no planejamento municipal;
+>
+> XIII – iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento do eleitorado;
+>
+> XIV – perda do mandato do Prefeito, nos termos do art. 28, parágrafo único.
+
 **Art. 29-A — teto da despesa total do Poder Legislativo municipal** (inclui subsídios dos Vereadores e gastos com inativos e pensionistas), calculado sobre o **somatório da receita tributária e das transferências do § 5º do art. 153 e dos arts. 158 e 159, efetivamente realizado no exercício anterior** *(p. 31)*:
 
 | População | Teto |
@@ -983,6 +1391,35 @@ Teto do subsídio do Vereador (art. 29, VI, p. 30)
 - **§ 2º — crime de responsabilidade do Prefeito:** (I) efetuar repasse **acima** dos limites; (II) **não enviar o repasse até o dia vinte** de cada mês; (III) enviá-lo **a menor** em relação à proporção da Lei Orçamentária.
 - **§ 3º — crime de responsabilidade do Presidente da Câmara:** desrespeitar o § 1º (os 70% com folha). *(p. 31)*
 
+> [!quote]- Texto literal: art. 29-A (CF/88 EC 139, p. 31)
+> Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159 desta Constituição, efetivamente realizado no exercício anterior:
+>
+> I – 7% (sete por cento) para Municípios com população de até 100.000 (cem mil) habitantes;
+>
+> II – 6% (seis por cento) para Municípios com população entre 100.000 (cem mil) e 300.000 (trezentos mil) habitantes;
+>
+> III – 5% (cinco por cento) para Municípios com população entre 300.001 (trezentos mil e um) e 500.000 (quinhentos mil) habitantes;
+>
+> IV – 4,5% (quatro inteiros e cinco décimos por cento) para Municípios com população entre 500.001 (quinhentos mil e um) e 3.000.000 (três milhões) de habitantes;
+>
+> V – 4% (quatro por cento) para Municípios com população entre 3.000.001 (três milhões e um) e 8.000.000 (oito milhões) de habitantes;
+>
+> VI – 3,5% (três inteiros e cinco décimos por cento) para Municípios com população acima de 8.000.0001 (oito milhões e um) habitantes.
+>
+> § 1º A Câmara Municipal não gastará mais de setenta por cento de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores.
+>
+> § 2º Constitui crime de responsabilidade do Prefeito Municipal:
+>
+> I – efetuar repasse que supere os limites definidos neste artigo;
+>
+> II – não enviar o repasse até o dia vinte de cada mês; ou
+>
+> III – enviá-lo a menor em relação à proporção fixada na Lei Orçamentária.
+>
+> § 3º Constitui crime de responsabilidade do Presidente da Câmara Municipal o desrespeito ao § 1º deste artigo.
+>
+> (O PDF traz "8.000.0001" no inciso VI, com o extenso "oito milhões e um"; o número está como no PDF.)
+
 > [!tip]- Lupa: 29-A, quem responde pelo quê
 > **A ideia em uma frase:** o 29-A tem dois tetos com dois responsáveis diferentes. Quem **repassa** o dinheiro (Prefeito) responde pelo repasse. Quem **gasta** (Presidente da Câmara) responde pela folha.
 >
@@ -997,12 +1434,40 @@ Teto do subsídio do Vereador (art. 29, VI, p. 30)
 - (I) <mark>legislar sobre assuntos de interesse local</mark>; (II) <mark>suplementar a legislação federal e a estadual no que couber</mark>; (III) instituir e arrecadar seus tributos e aplicar suas rendas, com obrigação de prestar contas e publicar balancetes; (IV) criar, organizar e suprimir **distritos**, observada a legislação estadual; (V) organizar e prestar, diretamente ou sob concessão ou permissão, os serviços públicos de interesse local, incluído o <mark>transporte coletivo, que tem caráter essencial</mark>.
 - (VI) programas de **educação infantil e ensino fundamental** e (VII) atendimento à **saúde**, ambos **com a cooperação técnica e financeira da União e do Estado**; (VIII) ordenamento territorial, mediante planejamento e controle do uso, parcelamento e ocupação do solo urbano; (IX) proteção do patrimônio histórico-cultural local, observada a legislação e a ação fiscalizadora federal e estadual.
 
+> [!quote]- Texto literal: art. 30 (CF/88 EC 139, p. 31–32)
+> Art. 30. Compete aos Municípios:
+>
+> I – legislar sobre assuntos de interesse local;
+>
+> II – suplementar a legislação federal e a estadual no que couber;
+>
+> III – instituir e arrecadar os tributos de sua competência, bem como aplicar suas rendas, sem prejuízo da obrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei;
+>
+> IV – criar, organizar e suprimir distritos, observada a legislação estadual;
+>
+> V – organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluído o de transporte coletivo, que tem caráter essencial;
+>
+> VI – manter, com a cooperação técnica e financeira da União e do Estado, programas de educação infantil e de ensino fundamental;
+>
+> VII – prestar, com a cooperação técnica e financeira da União e do Estado, serviços de atendimento à saúde da população;
+>
+> VIII – promover, no que couber, adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano;
+>
+> IX – promover a proteção do patrimônio histórico-cultural local, observada a legislação e a ação fiscalizadora federal e estadual.
+
 **Fiscalização do Município (art. 31)** *(p. 32)*
 - **Caput:** <mark>controle externo pelo Poder Legislativo Municipal</mark> e controle interno pelos sistemas do Executivo Municipal, na forma da lei.
 - **§ 1º:** o controle externo da Câmara conta com o auxílio dos **Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver**, <mark>vedada sua extinção, criação ou instalação</mark>.
 - **§ 2º:** o **parecer prévio** sobre as contas anuais do Prefeito <mark>só deixa de prevalecer por decisão de dois terços dos membros da Câmara Municipal</mark>.
 - **§ 3º:** as contas ficam, **durante 60 dias**, anualmente, à disposição de **qualquer contribuinte**, que pode questionar-lhes a legitimidade, nos termos da lei.
 - **§ 4º:** <mark>é vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais</mark>.
+
+> [!quote]- Texto literal: art. 31, caput e § 3º (CF/88 EC 139, p. 32)
+> Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei.
+>
+> [...]
+>
+> § 3º As contas dos Municípios ficarão, durante sessenta dias, anualmente, à disposição de qualquer contribuinte, para exame e apreciação, o qual poderá questionar-lhes a legitimidade, nos termos da lei.
 
 > [!quote]- Texto literal: art. 31, §§ 1º, 2º e 4º (CF/88 EC 139, p. 32)
 > § 1º O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver, vedada sua extinção, criação ou instalação.
@@ -1028,6 +1493,9 @@ Teto do subsídio do Vereador (art. 29, VI, p. 30)
 > - [[P1 - Direito Constitucional#União: Bens e Competências Exclusivas, Privativas, Comuns e Concorrentes (arts. 20 a 24 da CF/1988)]]: o Município está no art. 23 (comum), fora do art. 24 (concorrente), e suplementa pelo art. 30, II.
 > - [[P1 - Direito Constitucional#Da Fiscalização Contábil, Financeira e Orçamentária (arts. 70 a 75 da CF/1988)]]: o art. 31 é a versão municipal do controle externo com auxílio de tribunal de contas.
 > - [[P2 - Reforma Tributária#ADCT: distribuição do IBS de 2029 a 2077 (arts. 131 e 132)]]: os recursos do IBS distribuídos nesse período compõem a base de cálculo do art. 29-A.
+> - [[ERRO DIREITO CONSTITUCIONAL#22/09]]: errou em 22/09 (IBAM, Câmara de Paraíba do Sul) a iniciativa da lei de subsídios de Prefeito, Vice e Secretários (art. 29, V).
+> - [[P2 - Direito Tributário#Competência Tributária;]]: o art. 30, III (instituir e arrecadar os tributos do Município) pelo lado tributário.
+> - [[P2 - Direito Tributário#Repartição Constitucional de Receitas Tributárias.]]: a base do teto do art. 29-A (receita tributária e transferências dos arts. 153, § 5º, 158 e 159) pelo lado da repartição.
 ## - Intervenção Federal e Estadual (arts. 34 a 36 da CF/1988);
 - [ ] status [dom:: 0] [peso:: 2]
 Resumo tec:
@@ -1114,6 +1582,55 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 > XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública que assegure igualdade de condições a todos os concorrentes [...], o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações;
 > XXII - as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de carreiras específicas, terão recursos prioritários para a realização de suas atividades e atuarão de forma integrada, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio.
 
+**Incisos que o callout acima não traz** *(CF/88 EC 139, p. 34–35)*
+- **I:** cargos, empregos e funções públicas acessíveis aos brasileiros que preencham os requisitos legais e, na forma da lei, aos estrangeiros. **II:** a investidura depende de <mark>aprovação prévia em concurso público</mark>, de provas ou de provas e títulos, conforme a natureza e a complexidade do cargo, ressalvadas as nomeações para <mark>cargo em comissão declarado em lei de livre nomeação e exoneração</mark>.
+- **V:** as <mark>funções de confiança</mark> são exercidas exclusivamente por servidores ocupantes de cargo efetivo; os <mark>cargos em comissão</mark> são preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei; ambos só para <mark>direção, chefia e assessoramento</mark>.
+- **VI a IX:** livre associação sindical do servidor civil (VI); direito de greve <mark>nos termos e nos limites de lei específica</mark> (VII); reserva de percentual de cargos e empregos para pessoas com deficiência (VIII); contratação por tempo determinado para <mark>necessidade temporária de excepcional interesse público</mark>, nos casos que a lei estabelecer (IX).
+- **XIV e XV:** os acréscimos pecuniários não são computados nem acumulados para acréscimos ulteriores (XIV); o subsídio e os vencimentos são <mark>irredutíveis</mark>, ressalvados os incisos XI e XIV e os arts. 39, § 4º, 150, II, 153, III e 153, § 2º, I (XV).
+- **XX:** depende de <mark>autorização legislativa, em cada caso,</mark> a criação de subsidiárias das entidades do inciso XIX e a participação de qualquer delas em empresa privada.
+- **XI (teto):** o texto integral está no callout abaixo; o do início da seção traz o inciso resumido. **XVI e XVII (acumulação):** ver o heading "Acumulação Remunerada de Cargos, Empregos e Funções".
+
+> [!quote]- Texto literal: art. 37, incisos I, II, V a IX, XI, XIV a XVII e XX (o inciso XI, aqui, na íntegra) (CF/88 EC 139, p. 34–35)
+> I – os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei;
+>
+> II – a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração;
+>
+> [...]
+>
+> V – as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento;
+>
+> VI – é garantido ao servidor público civil o direito à livre associação sindical;
+>
+> VII – o direito de greve será exercido nos termos e nos limites definidos em lei específica;
+>
+> VIII – a lei reservará percentual dos cargos e empregos públicos para as pessoas portadoras de deficiência e definirá os critérios de sua admissão;
+>
+> IX – a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público;
+>
+> [...]
+>
+> XI – a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, aplicando-se como limite, nos Municípios, o subsídio do Prefeito, e nos Estados e no Distrito Federal, o subsídio mensal do Governador no âmbito do Poder Executivo, o subsídio dos Deputados Estaduais e Distritais no âmbito do Poder Legislativo e o subsídio dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos;
+>
+> [...]
+>
+> XIV – os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores;
+>
+> XV – o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
+>
+> XVI – é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI:
+>
+> a) a de dois cargos de professor;
+>
+> b) a de um cargo de professor com outro de qualquer natureza;
+>
+> c) a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas;
+>
+> XVII – a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público;
+>
+> [...]
+>
+> XX – depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada;
+
 > [!tip]- Lupa: LIMPE, o teto (XI) e a "escada" salarial que ele cria
 > **A ideia em uma frase:** o caput do art. 37 abre com os **5 princípios expressos** da Administração Pública — mnemônico **LIMPE**: **L**egalidade, **I**mpessoalidade, **M**oralidade, **P**ublicidade, **E**ficiência (este último só desde a EC 19/1998). ⚠️ Eficiência **não estava** no texto original de 1988 — é um acréscimo posterior, ponto clássico de pegadinha histórica.
 > - **Impessoalidade** tem duplo sentido: **(1)** a Administração trata a todos sem favoritismo, e **(2)** os atos são imputados ao **órgão**, não à pessoa do agente (é por isso que o § 1º veda nomes/símbolos de autoridades em publicidade institucional — a publicidade é do órgão, não promoção pessoal).
@@ -1126,6 +1643,78 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 **Publicidade e transparência (§§ 1º a 3º):** publicidade institucional deve ter caráter **educativo, informativo ou de orientação social** — vedada promoção pessoal (§ 1º); a lei disciplina a participação do usuário (reclamações, acesso a registros administrativos, representação contra abuso — § 3º).
 
 **Improbidade administrativa (§ 4º):** sanções — suspensão dos direitos políticos, perda da função pública, indisponibilidade de bens e ressarcimento ao erário, "na forma e gradação previstas em lei" (hoje, Lei 8.429/1992, com a reforma da Lei 14.230/2021, que passou a exigir **dolo** — não basta mais culpa — para a generalidade dos atos de improbidade), **sem prejuízo da ação penal cabível** (as esferas são independentes).
+
+**Parágrafos do art. 37 que faltavam** *(CF/88 EC 139, p. 35–37)*
+- **§ 2º:** a inobservância dos incisos II e III (concurso e prazo de validade) implica a <mark>nulidade do ato</mark> e a punição da autoridade responsável. **§ 5º:** a lei estabelece os prazos de prescrição para ilícitos que causem prejuízos ao erário, <mark>ressalvadas as respectivas ações de ressarcimento</mark>.
+- **§ 7º:** a lei disporá sobre os requisitos e as restrições ao ocupante de cargo ou emprego que possibilite acesso a informações privilegiadas. **§ 8º:** a autonomia gerencial, orçamentária e financeira de órgãos e entidades pode ser ampliada por **contrato de gestão** (metas de desempenho), cabendo à lei dispor sobre prazo, controles e critérios de avaliação e remuneração do pessoal.
+- **§ 9º:** o teto do inciso XI se aplica às <mark>empresas públicas e sociedades de economia mista, e suas subsidiárias, que receberem recursos</mark> dos entes para pagamento de despesas de pessoal ou de custeio em geral. **§ 10:** <mark>vedada a percepção simultânea</mark> de proventos do art. 40 (ou dos arts. 42 e 142) com remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis, os eletivos e os em comissão.
+- **§ 11:** só as parcelas de <mark>caráter indenizatório expressamente previstas em lei ordinária, aprovada pelo Congresso Nacional, de caráter nacional</mark>, aplicada a todos os Poderes e órgãos autônomos, ficam fora do teto. **§ 12:** Estados e DF podem fixar <mark>limite único</mark> (subsídio dos Desembargadores, até 90,25% do subsídio dos Ministros do STF), sem aplicar aos Deputados Estaduais e Distritais e aos Vereadores.
+- **§ 13:** readaptação do servidor efetivo para cargo compatível com a limitação física ou mental, mantida a remuneração de origem. **§ 14:** a aposentadoria com tempo de contribuição de cargo, emprego ou função pública, inclusive do RGPS, acarreta o rompimento do vínculo que gerou o tempo. **§ 15:** vedada a complementação de aposentadorias e pensões fora das hipóteses do art. 40, §§ 14 a 16, ou de lei que extinga regime próprio. **§ 16:** os órgãos e entidades devem avaliar as políticas públicas, com divulgação do objeto e dos resultados, na forma da lei.
+
+> [!quote]- Texto literal: art. 37, §§ 1º a 8º (CF/88 EC 139, p. 35–36)
+> § 1º A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos.
+>
+> § 2º A não observância do disposto nos incisos II e III implicará a nulidade do ato e a punição da autoridade responsável, nos termos da lei.
+>
+> § 3º A lei disciplinará as formas de participação do usuário na administração pública direta e indireta, regulando especialmente:
+>
+> I – as reclamações relativas à prestação dos serviços públicos em geral, asseguradas a manutenção de serviços de atendimento ao usuário e a avaliação periódica, externa e interna, da qualidade dos serviços;
+>
+> II – o acesso dos usuários a registros administrativos e a informações sobre atos de governo, observado o disposto no art. 5º, X e XXXIII;
+>
+> III – a disciplina da representação contra o exercício negligente ou abusivo de cargo, emprego ou função na administração pública.
+>
+> § 4º Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.
+>
+> § 5º A lei estabelecerá os prazos de prescrição para ilícitos praticados por qualquer agente, servidor ou não, que causem prejuízos ao erário, ressalvadas as respectivas ações de ressarcimento.
+>
+> § 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+>
+> § 7º A lei disporá sobre os requisitos e as restrições ao ocupante de cargo ou emprego da administração direta e indireta que possibilite o acesso a informações privilegiadas.
+>
+> § 8º A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus administradores e o poder público, que tenha por objeto a fixação de metas de desempenho para o órgão ou entidade, cabendo à lei dispor sobre:
+>
+> I – o prazo de duração do contrato;
+>
+> II – os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos dirigentes;
+>
+> III – a remuneração do pessoal.
+
+> [!quote]- Texto literal: art. 37, §§ 9º a 16 (CF/88 EC 139, p. 36–37)
+> § 9º O disposto no inciso XI aplica-se às empresas públicas e às sociedades de economia mista, e suas subsidiárias, que receberem recursos da União, dos Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral.
+>
+> § 10. É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142 com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração.
+>
+> § 11. Não serão computadas, para efeito dos limites remuneratórios de que trata o inciso XI do caput deste artigo, as parcelas de caráter indenizatório expressamente previstas em lei ordinária, aprovada pelo Congresso Nacional, de caráter nacional, aplicada a todos os Poderes e órgãos constitucionalmente autônomos.
+>
+> § 12. Para os fins do disposto no inciso XI do caput deste artigo, fica facultado aos Estados e ao Distrito Federal fixar, em seu âmbito, mediante emenda às respectivas Constituições e Lei Orgânica, como limite único, o subsídio mensal dos Desembargadores do respectivo Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do Supremo Tribunal Federal, não se aplicando o disposto neste parágrafo aos subsídios dos Deputados Estaduais e Distritais e dos Vereadores.
+>
+> § 13. O servidor público titular de cargo efetivo poderá ser readaptado para exercício de cargo cujas atribuições e responsabilidades sejam compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, enquanto permanecer nesta condição, desde que possua a habilitação e o nível de escolaridade exigidos para o cargo de destino, mantida a remuneração do cargo de origem.
+>
+> § 14. A aposentadoria concedida com a utilização de tempo de contribuição decorrente de cargo, emprego ou função pública, inclusive do Regime Geral de Previdência Social, acarretará o rompimento do vínculo que gerou o referido tempo de contribuição.
+>
+> § 15. É vedada a complementação de aposentadorias de servidores públicos e de pensões por morte a seus dependentes que não seja decorrente do disposto nos §§ 14 a 16 do art. 40 ou que não seja prevista em lei que extinga regime próprio de previdência social.
+>
+> § 16. Os órgãos e entidades da administração pública, individual ou conjuntamente, devem realizar avaliação das políticas públicas, inclusive com divulgação do objeto a ser avaliado e dos resultados alcançados, na forma da lei.
+
+> [!tip]- Lupa: teto remuneratório (art. 37, XI), os §§ 9º a 12
+> **A ideia em uma frase:** o inciso XI cria o teto, e os §§ 9º a 12 dizem quem mais entra nele, o que fica de fora e como Estados e DF podem trocar os subtetos por um limite único.
+>
+> **Passo a passo:**
+> 1. *Quem entra além dos agentes do inciso XI:* as empresas públicas e sociedades de economia mista, e suas subsidiárias, que receberem recursos dos entes para pagar despesas de pessoal ou de custeio em geral (§ 9º).
+> 2. *Proventos com remuneração:* é vedada a percepção simultânea de proventos de aposentadoria do art. 40 (ou dos arts. 42 e 142) com remuneração de cargo, emprego ou função pública, salvo cargos acumuláveis, eletivos e em comissão de livre nomeação (§ 10).
+> 3. *O que fica fora do teto:* apenas as parcelas de caráter indenizatório expressamente previstas em lei ordinária nacional, aprovada pelo Congresso Nacional e aplicada a todos os Poderes e órgãos autônomos (§ 11).
+> 4. *Subteto único:* Estados e DF podem fixar, por emenda às respectivas Constituições e Lei Orgânica, como limite único, o subsídio dos Desembargadores do TJ, limitado a 90,25% do subsídio dos Ministros do STF; o § 12 não se aplica aos subsídios dos Deputados Estaduais e Distritais nem dos Vereadores.
+>
+> *Exemplo ilustrativo (sem lastro):* uma sociedade de economia mista estadual que depende de recursos do Tesouro para pagar a folha não pode pagar a um diretor acima do teto do inciso XI (§ 9º).
+>
+> **O erro clássico:** dizer que a estatal nunca se submete ao teto (o § 9º submete a que recebe recursos para pessoal ou custeio); tratar qualquer verba como fora do teto (só a indenizatória prevista em lei nacional, § 11); estender o limite único do § 12 aos Vereadores e Deputados, ou aos Municípios (nos Municípios o limite do inciso XI é o subsídio do Prefeito).
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Agentes Públicos e Concurso Público (art. 37)]] e [[P1 - Direito Constitucional#Acumulação Remunerada de Cargos, Empregos e Funções (art. 37, XVI e XVII)]]: concurso, incisos XVI e XVII e perda do cargo, já resumidos, agora com o texto literal dos incisos ao lado.
+> - [[P1 - Direito Constitucional#Responsabilidade Civil do Estado (art. 37, § 6º)]]: o § 6º, com o restante dos parágrafos aqui.
+> - [[P1 - Direito Constitucional#Dos Servidores Públicos (arts. 39 a 41 da CF/1988)]]: o art. 40 (RPPS) e o art. 41, citados nos §§ 10 a 15.
+> - [[P2 - Direito Tributário#Fiscalização Tributária (arts. 194 a 200 do CTN)]]: o inciso XXII (administrações tributárias) convive com o sigilo do art. 198 do CTN.
 
 ### Dos Servidores Públicos (arts. 39 a 41 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -1150,6 +1739,194 @@ Resumo tec:
 - Art. 39, § 9º (EC 103/2019): proíbe a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de cargo em comissão ou de função de confiança à remuneração do cargo efetivo.
 - **Reintegração** (art. 41, § 2º): forma de provimento derivado pela qual o servidor estável, invalidada por sentença judicial sua demissão, retorna ao cargo. O eventual ocupante da vaga, se estável, é reconduzido ao cargo de origem sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço.
 - **Mandato eletivo do servidor** (art. 38): mandato eletivo federal, estadual ou distrital afasta o servidor do cargo, que passa a receber a remuneração do mandato. Mandato municipal: Prefeito é afastado e opta pela remuneração (cargo ou mandato); Vereador acumula cargo e mandato se houver compatibilidade de horários (recebendo as duas remunerações) ou opta por uma, afastando-se do cargo, se não houver. Em qualquer caso de afastamento para mandato eletivo, o tempo de serviço conta para todos os efeitos legais, exceto para promoção por merecimento (art. 38, IV).
+
+**Art. 38 (mandato eletivo), Art. 39 (sistema remuneratório) e Art. 41 (estabilidade)**
+
+- **Art. 39** *(CF/88 EC 139, p. 37–38)*: cada ente institui <mark>conselho de política de administração e remuneração de pessoal</mark> (caput). A fixação dos padrões de vencimento observa a natureza, o grau de responsabilidade e a complexidade dos cargos, os requisitos de investidura e as peculiaridades dos cargos (§ 1º). ⚠️ As escolas de governo do § 2º são da União, dos Estados e do DF; o texto não cita os Municípios. Aplicam-se aos servidores ocupantes de cargo público os incisos IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX do art. 7º (§ 3º).
+- **§§ 4º, 5º, 6º e 8º:** membro de Poder, detentor de mandato eletivo, Ministros de Estado e <mark>Secretários Estaduais e Municipais</mark> são remunerados <mark>exclusivamente por subsídio em parcela única</mark>, sem gratificação, adicional, abono, prêmio ou verba de representação, observado o art. 37, X e XI (§ 4º); lei pode estabelecer a relação entre a maior e a menor remuneração (§ 5º); os Poderes publicam anualmente os valores de subsídio e de remuneração (§ 6º); a remuneração de servidores em carreira pode ser fixada por subsídio (§ 8º).
+- **Art. 41** *(CF/88 EC 139, p. 40–41)*: são estáveis <mark>após três anos de efetivo exercício</mark> os nomeados para cargo de provimento efetivo por concurso; é condição a <mark>avaliação especial de desempenho</mark> por comissão instituída para essa finalidade (§ 4º). O estável só perde o cargo por <mark>sentença judicial transitada em julgado</mark>, <mark>processo administrativo com ampla defesa</mark> ou <mark>avaliação periódica de desempenho</mark>, na forma de lei complementar e com ampla defesa (§ 1º). Demissão invalidada por sentença: <mark>reintegração</mark>; o eventual ocupante da vaga, se estável, é reconduzido ao cargo de origem sem indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço (§ 2º). Cargo extinto ou declarado desnecessário: <mark>disponibilidade com remuneração proporcional</mark> ao tempo de serviço, até o adequado aproveitamento (§ 3º).
+
+> [!quote]- Texto literal: art. 38, caput e incisos I a V (CF/88 EC 139, p. 37)
+> Art. 38. Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições:
+>
+> I – tratando-se de mandato eletivo federal, estadual ou distrital, ficará afastado de seu cargo, emprego ou função;
+>
+> II – investido no mandato de Prefeito, será afastado do cargo, emprego ou função, sendo-lhe facultado optar pela sua remuneração;
+>
+> III – investido no mandato de Vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo, e, não havendo compatibilidade, será aplicada a norma do inciso anterior;
+>
+> IV – em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento;
+>
+> V – na hipótese de ser segurado de regime próprio de previdência social, permanecerá filiado a esse regime, no ente federativo de origem.
+
+> [!quote]- Texto literal: art. 39, caput e §§ 1º a 9º (CF/88 EC 139, p. 37–38)
+> Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes.
+>
+> § 1º A fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará:
+>
+> I – a natureza, o grau de responsabilidade e a complexidade dos cargos componentes de cada carreira;
+>
+> II – os requisitos para a investidura;
+>
+> III – as peculiaridades dos cargos.
+>
+> § 2º A União, os Estados e o Distrito Federal manterão escolas de governo para a formação e o aperfeiçoamento dos servidores públicos, constituindo-se a participação nos cursos um dos requisitos para a promoção na carreira, facultada, para isso, a celebração de convênios ou contratos entre os entes federados.
+>
+> § 3º Aplica-se aos servidores ocupantes de cargo público o disposto no art. 7º, IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX, podendo a lei estabelecer requisitos diferenciados de admissão quando a natureza do cargo o exigir.
+>
+> § 4º O membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto no art. 37, X e XI.
+>
+> § 5º Lei da União, dos Estados, do Distrito Federal e dos Municípios poderá estabelecer a relação entre a maior e a menor remuneração dos servidores públicos, obedecido, em qualquer caso, o disposto no art. 37, XI.
+>
+> § 6º Os Poderes Executivo, Legislativo e Judiciário publicarão anualmente os valores do subsídio e da remuneração dos cargos e empregos públicos.
+>
+> § 7º Lei da União, dos Estados, do Distrito Federal e dos Municípios disciplinará a aplicação de recursos orçamentários provenientes da economia com despesas correntes em cada órgão, autarquia e fundação, para aplicação no desenvolvimento de programas de qualidade e produtividade, treinamento e desenvolvimento, modernização, reaparelhamento e racionalização do serviço público, inclusive sob a forma de adicional ou prêmio de produtividade.
+>
+> § 8º A remuneração dos servidores públicos organizados em carreira poderá ser fixada nos termos do § 4º.
+>
+> § 9º É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo.
+
+> [!quote]- Texto literal: art. 41, caput e §§ 1º a 4º (CF/88 EC 139, p. 40–41)
+> Art. 41. São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.
+>
+> § 1º O servidor público estável só perderá o cargo:
+>
+> I – em virtude de sentença judicial transitada em julgado;
+>
+> II – mediante processo administrativo em que lhe seja assegurada ampla defesa;
+>
+> III – mediante procedimento de avaliação periódica de desempenho, na forma de lei complementar, assegurada ampla defesa.
+>
+> § 2º Invalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga, se estável, reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço.
+>
+> § 3º Extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo.
+>
+> § 4º Como condição para a aquisição da estabilidade, é obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade.
+>
+> (* NE do Senado, rodapé da p. 40: ver art. 36, II, da EC nº 103/2019.)
+
+> [!tip]- Lupa: art. 41, perder o cargo, reintegração e disponibilidade
+> **A ideia em uma frase:** a estabilidade protege o servidor efetivo contra demissão fora das três hipóteses do § 1º, e o art. 41 prevê o que acontece se a demissão for anulada (§ 2º) ou se o cargo acabar (§ 3º).
+>
+> **Passo a passo:**
+> 1. *Adquirir:* cargo de provimento efetivo, concurso público, três anos de efetivo exercício e avaliação especial de desempenho por comissão (caput e § 4º).
+> 2. *Perder:* só por sentença judicial transitada em julgado, por processo administrativo com ampla defesa ou por avaliação periódica de desempenho na forma de lei complementar, com ampla defesa (§ 1º, I a III).
+> 3. *Demissão anulada por sentença:* o servidor é reintegrado; quem ocupava a vaga, se estável, volta ao cargo de origem sem indenização, é aproveitado em outro cargo ou fica em disponibilidade com remuneração proporcional ao tempo de serviço (§ 2º).
+> 4. *Cargo extinto ou declarado desnecessário:* disponibilidade com remuneração proporcional ao tempo de serviço, até o adequado aproveitamento em outro cargo (§ 3º).
+>
+> *Exemplo ilustrativo (sem lastro):* um estável é demitido por PAD e a Justiça anula a demissão. Ele volta ao cargo (§ 2º); quem tinha sido nomeado para a vaga, se estável, é reconduzido, aproveitado em outro cargo ou posto em disponibilidade.
+>
+> **O erro clássico:** dizer que o estável só perde o cargo por sentença ou por processo administrativo e esquecer a avaliação periódica de desempenho (§ 1º, III), que foi o item que você errou no CEBRASPE; tratar a disponibilidade como remuneração integral (é proporcional ao tempo de serviço); e trocar os três anos de exercício por outro prazo.
+
+> [!info]- Ponte
+> - [[ERRO DIREITO CONSTITUCIONAL#CEBRASPE]]: seu erro registrado sobre a perda do cargo do estável e a avaliação periódica de desempenho (art. 41, § 1º, III).
+> - [[P1 - Direito Constitucional#Acumulação Remunerada de Cargos, Empregos e Funções (art. 37, XVI e XVII)]]: o bullet sobre perda do cargo do estável, com a redução de despesa com pessoal, está nesse heading.
+
+#### Art. 40 da CF/1988 (regime próprio de previdência social, RPPS)
+- [ ] status [dom:: 0] [peso:: 2]
+
+*(CF/88 EC 139, p. 38–40)*
+
+O RPPS dos servidores titulares de cargos efetivos tem caráter <mark>contributivo e solidário</mark>, com contribuição do ente, dos servidores ativos, dos aposentados e dos pensionistas, e critérios que preservem o <mark>equilíbrio financeiro e atuarial</mark> (caput).
+
+**Aposentadoria (§ 1º)**
+
+| Hipótese | Regra do texto |
+| --- | --- |
+| I, incapacidade permanente | no cargo em que estiver investido, quando insuscetível de readaptação; avaliações periódicas obrigatórias, na forma de lei do ente |
+| II, compulsória | proventos proporcionais ao tempo de contribuição, aos <mark>70 anos</mark> ou aos <mark>75 anos</mark>, na forma de lei complementar |
+| III, voluntária | União: <mark>62 anos (mulher) e 65 anos (homem)</mark>; Estados, DF e Municípios: idade mínima fixada por <mark>emenda às respectivas Constituições e Leis Orgânicas</mark>, com tempo de contribuição e demais requisitos em lei complementar do ente |
+
+- **§ 2º:** os proventos não podem ser inferiores ao valor mínimo do art. 201, § 2º, nem superiores ao limite máximo do RGPS (ressalvados os §§ 14 a 16). **§ 3º:** as regras de cálculo dos proventos são de lei do ente. **§ 4º:** <mark>vedada a adoção</mark> de requisitos ou critérios diferenciados, ressalvados os §§ 4º-A, 4º-B, 4º-C e 5º (deficiência; agente penitenciário, socioeducativo e policial; agentes nocivos; professor, com idade mínima reduzida em 5 anos).
+- **§ 6º:** vedada mais de uma aposentadoria à conta de RPPS, ressalvadas as de cargos acumuláveis. **§ 9º:** o tempo de contribuição federal, estadual, distrital ou municipal conta para a aposentadoria. **§ 10:** a lei <mark>não pode estabelecer tempo de contribuição fictício</mark>. **§ 11:** o limite do art. 37, XI, aplica-se à soma dos proventos e à adição de proventos com remuneração de cargo acumulável, em comissão ou eletivo. **§ 13:** quem ocupa exclusivamente cargo em comissão, outro cargo temporário (inclusive mandato eletivo) ou emprego público fica no <mark>Regime Geral</mark>.
+- **§§ 14 a 16:** os entes instituem, por lei de iniciativa do Poder Executivo, <mark>previdência complementar</mark> para servidores efetivos, na modalidade <mark>contribuição definida</mark>, com o limite dos benefícios do RGPS para o RPPS; a aplicação a quem já era servidor depende de <mark>prévia e expressa opção</mark>. **§ 18:** incide contribuição sobre proventos e pensões que superem o limite do RGPS, com percentual igual ao dos ativos. **§ 19:** <mark>abono de permanência</mark>, no máximo igual à contribuição, para quem já cumpriu os requisitos e opta por permanecer em atividade. **§ 20:** <mark>vedado mais de um RPPS</mark> e mais de um órgão gestor em cada ente. **§ 22:** vedada a instituição de novos RPPS; lei complementar federal fixa normas gerais para os existentes.
+
+> [!quote]- Texto literal: art. 40, caput e §§ 1º a 3º (CF/88 EC 139, p. 38)
+> Art. 40. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial.
+>
+> § 1º O servidor abrangido por regime próprio de previdência social será aposentado:
+>
+> I – por incapacidade permanente para o trabalho, no cargo em que estiver investido, quando insuscetível de readaptação, hipótese em que será obrigatória a realização de avaliações periódicas para verificação da continuidade das condições que ensejaram a concessão da aposentadoria, na forma de lei do respectivo ente federativo;
+>
+> II – compulsoriamente, com proventos proporcionais ao tempo de contribuição, aos 70 (setenta) anos de idade, ou aos 75 (setenta e cinco) anos de idade, na forma de lei complementar;
+>
+> III – no âmbito da União, aos 62 (sessenta e dois) anos de idade, se mulher, e aos 65 (sessenta e cinco) anos de idade, se homem, e, no âmbito dos Estados, do Distrito Federal e dos Municípios, na idade mínima estabelecida mediante emenda às respectivas Constituições e Leis Orgânicas, observados o tempo de contribuição e os demais requisitos estabelecidos em lei complementar do respectivo ente federativo.
+>
+> § 2º Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § 2º do art. 201 ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, observado o disposto nos §§ 14 a 16.
+>
+> § 3º As regras para cálculo de proventos de aposentadoria serão disciplinadas em lei do respectivo ente federativo.
+
+> [!quote]- Texto literal: art. 40, §§ 4º a 13 (CF/88 EC 139, p. 38–39)
+> § 4º É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º-B, 4º-C e 5º.
+>
+> § 4º-A. Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de servidores com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe multiprofissional e interdisciplinar.
+>
+> § 4º-B. Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de ocupantes do cargo de agente penitenciário, de agente socioeducativo ou de policial dos órgãos de que tratam o inciso IV do caput do art. 51, o inciso XIII do caput do art. 52 e os incisos I a IV do caput do art. 144.
+>
+> § 4º-C. Poderão ser estabelecidos por lei complementar do respectivo ente federativo idade e tempo de contribuição diferenciados para aposentadoria de servidores cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação.
+>
+> § 5º Os ocupantes do cargo de professor terão idade mínima reduzida em 5 (cinco) anos em relação às idades decorrentes da aplicação do disposto no inciso III do § 1º, desde que comprovem tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio fixado em lei complementar do respectivo ente federativo.
+>
+> § 6º Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição, é vedada a percepção de mais de uma aposentadoria à conta de regime próprio de previdência social, aplicando-se outras vedações, regras e condições para a acumulação de benefícios previdenciários estabelecidas no Regime Geral de Previdência Social.
+>
+> § 7º Observado o disposto no § 2º do art. 201, quando se tratar da única fonte de renda formal auferida pelo dependente, o benefício de pensão por morte será concedido nos termos de lei do respectivo ente federativo, a qual tratará de forma diferenciada a hipótese de morte dos servidores de que trata o § 4º-B decorrente de agressão sofrida no exercício ou em razão da função.
+>
+> § 8º É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em lei.
+>
+> § 9º O tempo de contribuição federal, estadual, distrital ou municipal será contado para fins de aposentadoria, observado o disposto nos §§ 9º e 9º-A do art. 201, e o tempo de serviço correspondente será contado para fins de disponibilidade.
+>
+> § 10. A lei não poderá estabelecer qualquer forma de contagem de tempo de contribuição fictício.
+>
+> § 11. Aplica-se o limite fixado no art. 37, XI, à soma total dos proventos de inatividade, inclusive quando decorrentes da acumulação de cargos ou empregos públicos, bem como de outras atividades sujeitas a contribuição para o regime geral de previdência social, e ao montante resultante da adição de proventos de inatividade com remuneração de cargo acumulável na forma desta Constituição, cargo em comissão declarado em lei de livre nomeação e exoneração, e de cargo eletivo.
+>
+> § 12. Além do disposto neste artigo, serão observados, em regime próprio de previdência social, no que couber, os requisitos e critérios fixados para o Regime Geral de Previdência Social.
+>
+> § 13. Aplica-se ao agente público ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração, de outro cargo temporário, inclusive mandato eletivo, ou de emprego público, o Regime Geral de Previdência Social.
+
+> [!quote]- Texto literal: art. 40, §§ 14 a 22 (CF/88 EC 139, p. 39–40)
+> § 14. A União, os Estados, o Distrito Federal e os Municípios instituirão, por lei de iniciativa do respectivo Poder Executivo, regime de previdência complementar para servidores públicos ocupantes de cargo efetivo, observado o limite máximo dos benefícios do Regime Geral de Previdência Social para o valor das aposentadorias e das pensões em regime próprio de previdência social, ressalvado o disposto no § 16.
+>
+> § 15. O regime de previdência complementar de que trata o § 14 oferecerá plano de benefícios somente na modalidade contribuição definida, observará o disposto no art. 202 e será efetivado por intermédio de entidade fechada de previdência complementar ou de entidade aberta de previdência complementar.
+>
+> § 16. Somente mediante sua prévia e expressa opção, o disposto nos §§ 14 e 15 poderá ser aplicado ao servidor que tiver ingressado no serviço público até a data da publicação do ato de instituição do correspondente regime de previdência complementar.
+>
+> § 17. Todos os valores de remuneração considerados para o cálculo do benefício previsto no § 3º serão devidamente atualizados, na forma da lei.
+>
+> § 18. Incidirá contribuição sobre os proventos de aposentadorias e pensões concedidas pelo regime de que trata este artigo que superem o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, com percentual igual ao estabelecido para os servidores titulares de cargos efetivos.
+>
+> § 19. Observados critérios a serem estabelecidos em lei do respectivo ente federativo, o servidor titular de cargo efetivo que tenha completado as exigências para a aposentadoria voluntária e que opte por permanecer em atividade poderá fazer jus a um abono de permanência equivalente, no máximo, ao valor da sua contribuição previdenciária, até completar a idade para aposentadoria compulsória.
+>
+> § 20. É vedada a existência de mais de um regime próprio de previdência social e de mais de um órgão ou entidade gestora desse regime em cada ente federativo, abrangidos todos os poderes, órgãos e entidades autárquicas e fundacionais, que serão responsáveis pelo seu financiamento, observados os critérios, os parâmetros e a natureza jurídica definidos na lei complementar de que trata o § 22.
+>
+> § 21. (Revogado)
+>
+> § 22. Vedada a instituição de novos regimes próprios de previdência social, lei complementar federal estabelecerá, para os que já existam, normas gerais de organização, de funcionamento e de responsabilidade em sua gestão, dispondo, entre outros aspectos, sobre:
+>
+> I – requisitos para sua extinção e consequente migração para o Regime Geral de Previdência Social;
+>
+> II – modelo de arrecadação, de aplicação e de utilização dos recursos;
+>
+> III – fiscalização pela União e controle externo e social;
+>
+> IV – definição de equilíbrio financeiro e atuarial;
+>
+> V – condições para instituição do fundo com finalidade previdenciária de que trata o art. 249 e para vinculação a ele dos recursos provenientes de contribuições e dos bens, direitos e ativos de qualquer natureza;
+>
+> VI – mecanismos de equacionamento do déficit atuarial;
+>
+> VII – estruturação do órgão ou entidade gestora do regime, observados os princípios relacionados com governança, controle interno e transparência;
+>
+> VIII – condições e hipóteses para responsabilização daqueles que desempenhem atribuições relacionadas, direta ou indiretamente, com a gestão do regime;
+>
+> IX – condições para adesão a consórcio público;
+>
+> X – parâmetros para apuração da base de cálculo e definição de alíquota de contribuições ordinárias e extraordinárias.
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Contribuições especiais na CF (arts. 149 e 195; art. 8º, IV)]]: o art. 149, § 1º, é a base da contribuição do servidor para o RPPS (e o § 1º-A, o caso de déficit atuarial).
+> - [[P1 - Direito Constitucional#Disposições Gerais (Administração Pública - arts. 37 e 38 da CF/1988)]]: os §§ 10, 11, 14 e 15 do art. 37 remetem ao art. 40.
+> - [[P1 - Direito Constitucional#Acumulação Remunerada de Cargos, Empregos e Funções (art. 37, XVI e XVII)]]: acumulação de proventos e aposentadorias pelo RGPS e pelo RPPS.
+
 
 ### Organização da Administração Pública (Direta e Indireta)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -1522,6 +2299,23 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 >
 > § 5º É obrigatória a inclusão no orçamento das entidades de direito público de verba necessária ao pagamento de seus débitos oriundos de sentenças transitadas em julgado constantes de precatórios judiciários apresentados até 1º de fevereiro, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente.
 
+> [!quote]- Texto literal: art. 100, caput e §§ 3º, 4º, 6º, 7º e 8º (CF/88 EC 139, p. 62)
+> Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.
+>
+> [...]
+>
+> § 3º O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado.
+>
+> § 4º Para os fins do disposto no § 3º, poderão ser fixados, por leis próprias, valores distintos às entidades de direito público, segundo as diferentes capacidades econômicas, sendo o mínimo igual ao valor do maior benefício do regime geral de previdência social.
+>
+> [...]
+>
+> § 6º As dotações orçamentárias e os créditos abertos serão consignados diretamente ao Poder Judiciário, cabendo ao Presidente do Tribunal que proferir a decisão exequenda determinar o pagamento integral e autorizar, a requerimento do credor e exclusivamente para os casos de preterimento de seu direito de precedência ou de não alocação orçamentária do valor necessário à satisfação do seu débito, o sequestro da quantia respectiva.
+>
+> § 7º O Presidente do Tribunal competente que, por ato comissivo ou omissivo, retardar ou tentar frustrar a liquidação regular de precatórios incorrerá em crime de responsabilidade e responderá, também, perante o Conselho Nacional de Justiça.
+>
+> § 8º É vedada a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela do total ao que dispõe o § 3º deste artigo.
+
 > [!tip]- Lupa: a fila dos precatórios
 > **A ideia em uma frase:** a Fazenda condenada paga numa fila **cronológica e impessoal** (ninguém fura escolhendo nome). A própria CF abre um desvio, a RPV, e duas faixas preferenciais para o crédito alimentar.
 >
@@ -1543,6 +2337,31 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 - **§ 12:** a atualização dos requisitórios, após a expedição e até o pagamento, segue o **índice oficial de remuneração básica da caderneta de poupança**, com juros simples no mesmo percentual da poupança, excluídos os juros compensatórios.
 - **§ 13:** o credor pode ceder o crédito, total ou parcialmente, <mark>independentemente da concordância do devedor</mark>, <mark>não se aplicando ao cessionário os §§ 2º e 3º</mark>. **§ 14:** a cessão só produz efeitos após **comunicação, por petição protocolizada, ao Tribunal de origem e ao ente devedor**.
 
+> [!quote]- Texto literal: art. 100, §§ 9º a 14 (CF/88 EC 139, p. 62–63)
+> § 9º Sem que haja interrupção no pagamento do precatório e mediante comunicação da Fazenda Pública ao Tribunal, o valor correspondente aos eventuais débitos inscritos em dívida ativa contra o credor do requisitório e seus substituídos deverá ser depositado à conta do juízo responsável pela ação de cobrança, que decidirá pelo seu destino definitivo.
+>
+> § 10. Antes da expedição dos precatórios, o Tribunal solicitará à Fazenda Pública devedora, para resposta em até 30 (trinta) dias, sob pena de perda do direito de abatimento, informação sobre os débitos que preencham as condições estabelecidas no § 9º, para os fins nele previstos.
+>
+> § 11. É facultada ao credor, conforme estabelecido em lei do ente federativo devedor, com autoaplicabilidade para a União, a oferta de créditos líquidos e certos que originalmente lhe são próprios ou adquiridos de terceiros reconhecidos pelo ente federativo ou por decisão judicial transitada em julgado para:
+>
+> I – quitação de débitos parcelados ou débitos inscritos em dívida ativa do ente federativo devedor, inclusive em transação resolutiva de litígio, e, subsidiariamente, débitos com a administração autárquica e fundacional do mesmo ente;
+>
+> II – compra de imóveis públicos de propriedade do mesmo ente disponibilizados para venda;
+>
+> III – pagamento de outorga de delegações de serviços públicos e demais espécies de concessão negocial promovidas pelo mesmo ente;
+>
+> IV – aquisição, inclusive minoritária, de participação societária, disponibilizada para venda, do respectivo ente federativo; ou
+>
+> V – compra de direitos, disponibilizados para cessão, do respectivo ente federativo, inclusive, no caso da União, da antecipação de valores a serem recebidos a título do excedente em óleo em contratos de partilha de petróleo.
+>
+> § 12. A partir da promulgação desta Emenda Constitucional, a atualização de valores de requisitórios, após sua expedição, até o efetivo pagamento, independentemente de sua natureza, será feita pelo índice oficial de remuneração básica da caderneta de poupança, e, para fins de compensação da mora, incidirão juros simples no mesmo percentual de juros incidentes sobre a caderneta de poupança, ficando excluída a incidência de juros compensatórios.
+>
+> § 13. O credor poderá ceder, total ou parcialmente, seus créditos em precatórios a terceiros, independentemente da concordância do devedor, não se aplicando ao cessionário o disposto nos §§ 2º e 3º.
+>
+> § 14. A cessão de precatórios, observado o disposto no § 9º deste artigo, somente produzirá efeitos após comunicação, por meio de petição protocolizada, ao Tribunal de origem e ao ente federativo devedor.
+>
+> (Os asteriscos do PDF nos §§ 10 e 12 marcam notas do editor; ver a pendência registrada logo abaixo.)
+
 > [!warning]- Pendência: notas do PDF sobre os §§ 10 e 12
 > O PDF marca os §§ 10 e 12 com a nota "ver ADIs nºs 4.357 e 4.425", sem dizer o que o STF decidiu. O resultado dessas ADIs não está no lastro e não foi completado aqui. No § 12, o PDF também anota que "a partir da promulgação desta Emenda" se lê "da EC nº 62, de 2009" (p. 63).
 
@@ -1552,6 +2371,43 @@ O Senado atua como o "**Conselho de Administração**" das finanças da Federaç
 - **§ 19:** se precatórios + RPV em 12 meses superarem a **média de comprometimento da RCL dos 5 anos anteriores**, o excesso pode ser **financiado** fora dos limites de endividamento (art. 52, VI e VII) e sem a vedação de vinculação de receita do art. 167, IV. **§ 19-A:** a União fica autorizada a instituir **linha de crédito especial**, por instituições financeiras estatais federais, exclusivamente para esses precatórios, nos termos de LC.
 - **§ 20:** precatório com valor <mark>superior a 15% do montante dos precatórios apresentados (§ 5º)</mark> → **15% até o final do exercício seguinte** e o restante **em parcelas iguais nos cinco exercícios subsequentes**, com juros de mora e correção; **ou** acordo direto perante Juízos Auxiliares de Conciliação de Precatórios, com <mark>redução máxima de 40%</mark> do crédito atualizado, desde que não penda recurso ou defesa judicial.
 - **§ 21:** União e demais entes, se ambas as partes aceitarem, podem usar valores de sentenças devidos **a pessoa jurídica de direito público** para amortizar dívidas vencidas ou vincendas: (I) contratos de refinanciamento cujos créditos sejam do ente devedor na sentença; (II) contratos com garantia prestada a outro ente; (III) parcelamentos de tributos ou contribuições sociais; (IV) obrigações por descumprimento de prestação de contas ou desvio de recursos. **§ 22:** nas vencidas, a amortização começa pelas **parcelas mais antigas**; nas vincendas, **reduz uniformemente** cada parcela, mantida a duração original.
+
+> [!quote]- Texto literal: art. 100, §§ 15 a 22 (CF/88 EC 139, p. 63–64)
+> § 15. Sem prejuízo do disposto neste artigo, lei complementar a esta Constituição Federal poderá estabelecer regime especial para pagamento de crédito de precatórios de Estados, Distrito Federal e Municípios, dispondo sobre vinculações à receita corrente líquida e forma e prazo de liquidação.
+>
+> § 16. A seu critério exclusivo e na forma de lei, a União poderá assumir débitos, oriundos de precatórios, de Estados, Distrito Federal e Municípios, refinanciando-os diretamente.
+>
+> § 17. A União, os Estados, o Distrito Federal e os Municípios aferirão mensalmente, em base anual, o comprometimento de suas respectivas receitas correntes líquidas com o pagamento de precatórios e obrigações de pequeno valor.
+>
+> § 18. Entende-se como receita corrente líquida, para os fins de que trata o § 17, o somatório das receitas tributárias, patrimoniais, industriais, agropecuárias, de contribuições e de serviços, de transferências correntes e outras receitas correntes, incluindo as oriundas do § 1º do art. 20 da Constituição Federal, verificado no período compreendido pelo segundo mês imediatamente anterior ao de referência e os 11 (onze) meses precedentes, excluídas as duplicidades, e deduzidas:
+>
+> I – na União, as parcelas entregues aos Estados, ao Distrito Federal e aos Municípios por determinação constitucional;
+>
+> II – nos Estados, as parcelas entregues aos Municípios por determinação constitucional;
+>
+> III – na União, nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § 9º do art. 201 da Constituição Federal.
+>
+> § 19. Caso o montante total de débitos decorrentes de condenações judiciais em precatórios e obrigações de pequeno valor, em período de 12 (doze) meses, ultrapasse a média do comprometimento percentual da receita corrente líquida nos 5 (cinco) anos imediatamente anteriores, a parcela que exceder esse percentual poderá ser financiada, excetuada dos limites de endividamento de que tratam os incisos VI e VII do art. 52 da Constituição Federal e de quaisquer outros limites de endividamento previstos, não se aplicando a esse financiamento a vedação de vinculação de receita prevista no inciso IV do art. 167 da Constituição Federal.
+>
+> § 19-A. A União fica autorizada a instituir linha de crédito especial, por intermédio de instituições financeiras estatais federais, destinada exclusivamente à quitação dos precatórios referidos no § 19 deste artigo, nos termos de lei complementar.
+>
+> § 20. Caso haja precatório com valor superior a 15% (quinze por cento) do montante dos precatórios apresentados nos termos do § 5º deste artigo, 15% (quinze por cento) do valor deste precatório serão pagos até o final do exercício seguinte e o restante em parcelas iguais nos cinco exercícios subsequentes, acrescidas de juros de mora e correção monetária, ou mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado.
+>
+> § 21. Ficam a União e os demais entes federativos, nos montantes que lhes são próprios, desde que aceito por ambas as partes, autorizados a utilizar valores objeto de sentenças transitadas em julgado devidos a pessoa jurídica de direito público para amortizar dívidas, vencidas ou vincendas:
+>
+> I – nos contratos de refinanciamento cujos créditos sejam detidos pelo ente federativo que figure como devedor na sentença de que trata o caput deste artigo;
+>
+> II – nos contratos em que houve prestação de garantia a outro ente federativo;
+>
+> III – nos parcelamentos de tributos ou de contribuições sociais; e
+>
+> IV – nas obrigações decorrentes do descumprimento de prestação de contas ou de desvio de recursos.
+>
+> § 22. A amortização de que trata o § 21 deste artigo:
+>
+> I – nas obrigações vencidas, será imputada primeiramente às parcelas mais antigas;
+>
+> II – nas obrigações vincendas, reduzirá uniformemente o valor de cada parcela devida, mantida a duração original do respectivo contrato ou parcelamento.
 
 Teto anual de pagamento de precatórios por Estados, DF e Municípios (administração direta e indireta), art. 100, § 23 (p. 64–65)
 
@@ -1567,16 +2423,163 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 | mais de 75% até 85% | 4,5% |
 | mais de 85% | 5% |
 
+> [!quote]- Texto literal: art. 100, § 23 (a tabela do quadro acima, em texto) (CF/88 EC 139, p. 64–65)
+> § 23. Os pagamentos de precatórios pelos Estados, pelo Distrito Federal e pelos Municípios, relativos às suas administrações diretas e indiretas, estão limitados, observado o disposto nos §§ 24, 25, 26 e 28 deste artigo, a:
+>
+> I – 1% (um por cento) da receita corrente líquida apurada no exercício financeiro anterior, para os entes federativos que não possuam estoque e para os entes federativos cujo estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, não superar 15% (quinze por cento) desse valor;
+>
+> II – 1,5% (um inteiro e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 15% (quinze por cento) e inferior ou igual a 25% (vinte e cinco por cento) desse valor;
+>
+> III – 2% (dois por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 25% (vinte e cinco por cento) e inferior ou igual a 35% (trinta e cinco por cento) desse valor;
+>
+> IV – 2,5% (dois inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 35% (trinta e cinco por cento) e inferior ou igual a 45% (quarenta e cinco por cento) desse valor;
+>
+> V – 3% (três por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 45% (quarenta e cinco por cento) e inferior ou igual a 55% (cinquenta e cinco por cento) desse valor;
+>
+> VI – 3,5% (três inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 55% (cinquenta e cinco por cento) e inferior ou igual a 65% (sessenta e cinco por cento) desse valor;
+>
+> VII – 4% (quatro por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 65% (sessenta e cinco por cento) e inferior ou igual a 75% (setenta e cinco por cento) desse valor;
+>
+> VIII – 4,5% (quatro inteiros e cinco décimos por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 75% (setenta e cinco por cento) e inferior ou igual a 85% (oitenta e cinco por cento) desse valor;
+>
+> IX – 5% (cinco por cento) da receita corrente líquida apurada no exercício financeiro anterior, se o estoque de precatórios em mora, atualizados monetariamente e acrescidos de juros moratórios, em 1º de janeiro, for superior a 85% (oitenta e cinco por cento) desse valor.
+
 - **§ 24:** os limites do § 23 sobem **0,5 ponto percentual**, fixos por decênio, <mark>a partir de 1º de janeiro de 2036</mark> e a cada 10 anos, **se houver estoque de precatórios em mora**. **§ 25:** toda medida efetiva de redução de estoque conta para o plano anual de pagamento. **§ 26:** pagamentos feitos pelos §§ 11 e 21 **não entram** nos limites do § 23. **§ 28:** com dotação orçamentária específica, o ente **pode pagar acima** dos limites do § 23. *(p. 65–66)*
 - **§ 27 — recursos não liberados a tempo** (todo ou parte): (I) os limites do § 23 **ficam suspensos**; (II) o **Presidente do TJ local** determina o **sequestro**, até o valor devido, das contas do ente inadimplente; (III) o Governador ou o Prefeito responde pela **legislação de responsabilidade fiscal e de improbidade administrativa**; (IV) o ente fica **impedido de receber transferências voluntárias** enquanto durar a omissão. *(p. 65–66)*
 - **§ 29:** o credor de Estado, DF ou Município não pago por causa dos §§ 20 ou 23 pode optar por **acordo direto** perante Juízos Auxiliares de Conciliação, em **parcela única até o final do exercício seguinte**, **com renúncia de parcela** do crédito. **§ 30:** valores aportados às contas especiais do Judiciário são **imediatamente excluídos do estoque**, vedados juros, correção ou acréscimos sobre eles após a transferência. *(p. 66)*
 - ⚠️ Há **dois sequestros**: o do § 6º (Presidente do Tribunal que proferiu a decisão, por preterição ou não alocação) e o do § 27, II (Presidente do TJ local, sobre as contas do ente que não liberou os recursos).
+
+> [!quote]- Texto literal: art. 100, §§ 24 a 30 (CF/88 EC 139, p. 65–66)
+> § 24. Os limites percentuais fixados nos incisos I a IX do § 23 deste artigo deverão ser majorados, de forma fixa para o decênio seguinte, em 0,5 (cinco décimos) ponto percentual sobre a receita corrente líquida apurada no exercício financeiro imediatamente anterior, a partir de 1º de janeiro de 2036, e a cada período subsequente de 10 (dez) anos, caso seja verificada a existência de estoque de precatórios em mora.
+>
+> § 25. Toda medida efetiva de redução de estoque de precatórios promovida pelos Estados, pelo Distrito Federal e pelos Municípios deverá ser contabilizada para fins de apuração do cumprimento do respectivo plano anual de pagamento de precatórios.
+>
+> § 26. Os pagamentos de precatórios realizados nos termos dos §§ 11 e 21 deste artigo não são considerados para aplicação dos limites de que trata o § 23 deste artigo.
+>
+> § 27. Se os recursos destinados aos pagamentos de precatórios dos Estados, do Distrito Federal e dos Municípios, observados os limites do § 23 deste artigo, não forem tempestivamente liberados, no todo ou em parte:
+>
+> I – os limites de que trata o § 23 deste artigo serão suspensos;
+>
+> II – o Presidente do Tribunal de Justiça local determinará o sequestro, até o limite do valor devido, das contas municipais, estaduais ou distrital do ente federativo inadimplente para fins de pagamento de precatórios;
+>
+> III – o Governador do Estado ou do Distrito Federal ou o Prefeito do Município inadimplente responderá na forma da legislação de responsabilidade fiscal e de improbidade administrativa;
+>
+> IV – o Estado, o Distrito Federal ou o Município ficará impedido de receber transferências voluntárias, enquanto perdurar a omissão.
+>
+> § 28. Os Estados, o Distrito Federal e os Municípios, mediante dotação orçamentária específica, poderão efetuar pagamentos de precatórios que superem os limites previstos no § 23 deste artigo.
+>
+> § 29. É facultado ao credor de precatório dos Estados, do Distrito Federal e dos Municípios que não tenha sido pago em razão do disposto nos §§ 20 ou 23 deste artigo, sem prejuízo dos procedimentos previstos nos §§ 9º e 21 deste artigo, optar pelo recebimento, mediante acordos diretos perante Juízos Auxiliares de Conciliação de Pagamento de Condenações Judiciais contra a Fazenda Pública estadual, municipal ou do Distrito Federal, em parcela única, até o final do exercício seguinte, com renúncia de parcela do valor desse crédito.
+>
+> § 30. Os valores efetivamente aportados pelos entes federativos nas contas especiais do Poder Judiciário destinadas ao pagamento de precatórios deverão ser imediatamente excluídos do estoque da dívida para fins de apuração do saldo devedor, vedada a incidência de juros, de correção monetária ou de quaisquer acréscimos legais sobre esses valores após sua transferência.
 
 > [!info]- Ponte
 > - [[P1 - Direito Financeiro#- Precatórios]]: heading do Direito Financeiro que as pontes da LRF já apontam; o lastro do art. 100 está aqui.
 > - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: pela LRF (art. 30, § 7º), o precatório não pago no exercício em que foi incluído integra a dívida consolidada, o que é o lado orçamentário do § 5º.
 > - [[P1 - Direito Administrativo#- Responsabilidade Civil do Estado.]]: a indenização do art. 37, § 6º, é paga pelo regime do art. 100, e a reserva do possível não afasta o dever (STJ, já na nota). É também um dos alimentares do § 1º (morte ou invalidez).
 > - [[P2 - Direito Tributário#Extinção do Crédito tributário]]: Súm. 461 STJ, o contribuinte escolhe entre precatório e compensação para o indébito reconhecido em sentença. O § 1º inclui a repetição de indébito sobre remuneração ou proventos entre os alimentares.
+
+#### ADCT, arts. 101 a 105 (regime especial de precatórios)
+- [ ] status [dom:: 0] [peso:: 2]
+
+*(CF/88 EC 139, p. 174–177)*
+
+- **Art. 101, caput:** os Estados, o DF e os Municípios que, em <mark>25 de março de 2015</mark>, estavam em mora quitam, <mark>até 31 de dezembro de 2029</mark>, os débitos vencidos e os que vencerem no período, atualizados pelo IPCA-E (ou índice que o substitua), depositando mensalmente em <mark>conta especial do Tribunal de Justiça local</mark>, sob administração exclusiva deste, 1/12 do valor calculado percentualmente sobre a receita corrente líquida, nunca inferior ao percentual praticado na entrada do regime, conforme plano anual de pagamento.
+- **Art. 101, §§ 2º e 6º:** além da receita corrente líquida, podem entrar até <mark>75%</mark> dos depósitos judiciais e administrativos em dinheiro dos processos em que o ente seja parte (com fundo garantidor de 1/3); até <mark>30%</mark> dos demais depósitos judiciais da jurisdição do TJ (no caso dos Estados, 50% ao Estado e 50% aos Municípios); empréstimos fora dos limites de endividamento e da vedação do art. 167, IV; e depósitos em precatórios e RPV de até 31/12/2009 não levantados. O § 6º manda aplicar ao regime os §§ 23 a 30 do art. 100.
+- **Art. 102:** enquanto viger o regime, <mark>pelo menos 50%</mark> dos recursos pagam por ordem cronológica, respeitadas as preferências dos alimentares e, nelas, as de idade, saúde e deficiência. O restante pode ir a acordos diretos com <mark>redução máxima de 40%</mark> (§ 1º). As preferências de idade, saúde e deficiência são atendidas até o <mark>quíntuplo</mark> do valor fixado em lei para a RPV, com fracionamento (§ 2º). ⚠️ No art. 100, § 2º, o limite é o triplo.
+- **Art. 103:** enquanto o ente paga a parcela mensal, ele e suas autarquias, fundações e empresas estatais dependentes <mark>não sofrem sequestro</mark>, exceto se não houver liberação tempestiva dos recursos. Parágrafo único: vedadas desapropriações pelos entes cujos estoques de precatórios superem <mark>70% da receita corrente líquida</mark>, exceto para saúde, educação, segurança pública, transporte público, saneamento básico e habitação de interesse social.
+- **Art. 104:** se os recursos não forem liberados no todo ou em parte: (I) o Presidente do TJ determina o <mark>sequestro</mark> das contas do ente; (II) o chefe do Executivo responde na forma da legislação de responsabilidade fiscal e de improbidade; (III) a União <mark>retém os repasses ao FPE e ao FPM</mark> e os deposita na conta especial; (IV) os Estados e o Comitê Gestor do IBS retêm os repasses dos §§ 1º e 2º do art. 158. Parágrafo único: o ente não contrai empréstimo (salvo os do art. 101, § 2º) e fica impedido de receber transferências voluntárias.
+- **Art. 105:** durante o regime, credores de precatórios podem <mark>compensar</mark> com débitos, tributários ou não, inscritos em dívida ativa do ente até 25/03/2015, nos termos de lei própria; a compensação não sofre vinculações (§ 1º); os entes regulamentam em até 120 dias a partir de 1º/01/2018 (§ 2º) e, sem a regulamentação, os credores ficam autorizados a exercer a faculdade (§ 3º).
+
+> [!quote]- Texto literal: ADCT, art. 101, caput e §§ 1º a 6º (CF/88 EC 139, p. 174–175)
+> Art. 101. Os Estados, o Distrito Federal e os Municípios que, em 25 de março de 2015, se encontravam em mora no pagamento de seus precatórios quitarão, até 31 de dezembro de 2029, seus débitos vencidos e os que vencerão dentro desse período, atualizados pelo Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E), ou por outro índice que venha a substituí-lo, depositando mensalmente em conta especial do Tribunal de Justiça local, sob única e exclusiva administração deste, 1/12 (um doze avos) do valor calculado percentualmente sobre suas receitas correntes líquidas apuradas no segundo mês anterior ao mês de pagamento, em percentual suficiente para a quitação de seus débitos e, ainda que variável, nunca inferior, em cada exercício, ao percentual praticado na data da entrada em vigor do regime especial a que se refere este artigo, em conformidade com plano de pagamento a ser anualmente apresentado ao Tribunal de Justiça local.
+>
+> § 1º Entende-se como receita corrente líquida, para os fins de que trata este artigo, o somatório das receitas tributárias, patrimoniais, industriais, agropecuárias, de contribuições e de serviços, de transferências correntes e outras receitas correntes, incluindo as oriundas do § 1º do art. 20 da Constituição Federal, verificado no período compreendido pelo segundo mês imediatamente anterior ao de referência e os 11 (onze) meses precedentes, excluídas as duplicidades, e deduzidas:
+>
+> I – nos Estados, as parcelas entregues aos Municípios por determinação constitucional;
+>
+> II – nos Estados, no Distrito Federal e nos Municípios, a contribuição dos servidores para custeio de seu sistema de previdência e assistência social e as receitas provenientes da compensação financeira referida no § 9º do art. 201 da Constituição Federal.
+>
+> § 2º O débito de precatórios será pago com recursos orçamentários próprios provenientes das fontes de receita corrente líquida referidas no § 1º deste artigo e, adicionalmente, poderão ser utilizados recursos dos seguintes instrumentos:
+>
+> I – até 75% (setenta e cinco por cento) dos depósitos judiciais e dos depósitos administrativos em dinheiro referentes a processos judiciais ou administrativos, tributários ou não tributários, nos quais sejam parte os Estados, o Distrito Federal ou os Municípios, e as respectivas autarquias, fundações e empresas estatais dependentes, mediante a instituição de fundo garantidor em montante equivalente a 1/3 (um terço) dos recursos levantados, constituído pela parcela restante dos depósitos judiciais e remunerado pela taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, nunca inferior aos índices e critérios aplicados aos depósitos levantados;
+>
+> II – até 30% (trinta por cento) dos demais depósitos judiciais da localidade sob jurisdição do respectivo Tribunal de Justiça, mediante a instituição de fundo garantidor em montante equivalente aos recursos levantados, constituído pela parcela restante dos depósitos judiciais e remunerado pela taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, nunca inferior aos índices e critérios aplicados aos depósitos levantados, destinando-se:
+>
+> a) no caso do Distrito Federal, 100% (cem por cento) desses recursos ao próprio Distrito Federal;
+>
+> b) no caso dos Estados, 50% (cinquenta por cento) desses recursos ao próprio Estado e 50% (cinquenta por cento) aos respectivos Municípios, conforme a circunscrição judiciária onde estão depositados os recursos, e, se houver mais de um Município na mesma circunscrição judiciária, os recursos serão rateados entre os Municípios concorrentes, proporcionalmente às respectivas populações, utilizado como referência o último levantamento censitário ou a mais recente estimativa populacional da Fundação Instituto Brasileiro de Geografia e Estatística (IBGE);
+>
+> III – empréstimos, excetuados para esse fim os limites de endividamento de que tratam os incisos VI e VII do caput do art. 52 da Constituição Federal e quaisquer outros limites de endividamento previstos em lei, não se aplicando a esses empréstimos a vedação de vinculação de receita prevista no inciso IV do caput do art. 167 da Constituição Federal;
+>
+> IV – a totalidade dos depósitos em precatórios e requisições diretas de pagamento de obrigações de pequeno valor efetuados até 31 de dezembro de 2009 e ainda não levantados, com o cancelamento dos respectivos requisitórios e a baixa das obrigações, assegurada a revalidação dos requisitórios pelos juízos dos processos perante os Tribunais, a requerimento dos credores e após a oitiva da entidade devedora, mantidas a posição de ordem cronológica original e a remuneração de todo o período.
+>
+> § 3º Os recursos adicionais previstos nos incisos I, II e IV do § 2º deste artigo serão transferidos diretamente pela instituição financeira depositária para a conta especial referida no caput deste artigo, sob única e exclusiva administração do Tribunal de Justiça local, e essa transferência deverá ser realizada em até sessenta dias contados a partir da entrada em vigor deste parágrafo, sob pena de responsabilização pessoal do dirigente da instituição financeira por improbidade.
+>
+> § 4º (Revogado)
+>
+> I – (Revogado);
+>
+> II – (Revogado);
+>
+> III – (Revogado);
+>
+> IV – (Revogado).
+>
+> § 5º Os empréstimos de que trata o inciso III do § 2º deste artigo poderão ser destinados, por meio de ato do Poder Executivo, exclusivamente ao pagamento de precatórios por acordo direto com os credores, na forma do disposto no inciso III do § 8º do art. 97 deste Ato das Disposições Constitucionais Transitórias.
+>
+> § 6º Aplica-se ao regime de pagamento de precatórios descrito no caput deste artigo o disposto nos §§ 23 a 30 do art. 100 da Constituição Federal.
+
+> [!quote]- Texto literal: ADCT, arts. 102 e 103 (CF/88 EC 139, p. 175–176)
+> Art. 102. Enquanto viger o regime especial previsto nesta Emenda Constitucional, pelo menos 50% (cinquenta por cento) dos recursos que, nos termos do art. 101 deste Ato das Disposições Constitucionais Transitórias, forem destinados ao pagamento dos precatórios em mora serão utilizados no pagamento segundo a ordem cronológica de apresentação, respeitadas as preferências dos créditos alimentares, e, nessas, as relativas à idade, ao estado de saúde e à deficiência, nos termos do § 2º do art. 100 da Constituição Federal, sobre todos os demais créditos de todos os anos.
+>
+> § 1º A aplicação dos recursos remanescentes, por opção a ser exercida por Estados, Distrito Federal e Municípios, por ato do respectivo Poder Executivo, observada a ordem de preferência dos credores, poderá ser destinada ao pagamento mediante acordos diretos, perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado.
+>
+> § 2º Na vigência do regime especial previsto no art. 101 deste Ato das Disposições Constitucionais Transitórias, as preferências relativas à idade, ao estado de saúde e à deficiência serão atendidas até o valor equivalente ao quíntuplo fixado em lei para os fins do disposto no § 3º do art. 100 da Constituição Federal, admitido o fracionamento para essa finalidade, e o restante será pago em ordem cronológica de apresentação do precatório.
+>
+> Art. 103. Enquanto os Estados, o Distrito Federal e os Municípios estiverem efetuando o pagamento da parcela mensal devida como previsto no caput do art. 101 deste Ato das Disposições Constitucionais Transitórias, nem eles, nem as respectivas autarquias, fundações e empresas estatais dependentes poderão sofrer sequestro de valores, exceto no caso de não liberação tempestiva dos recursos.
+>
+> Parágrafo único. Na vigência do regime especial previsto no art. 101 deste Ato das Disposições Constitucionais Transitórias, ficam vedadas desapropriações pelos Estados, pelo Distrito Federal e pelos Municípios, cujos estoques de precatórios ainda pendentes de pagamento, incluídos os precatórios a pagar de suas entidades da administração indireta, sejam superiores a 70% (setenta por cento) das respectivas receitas correntes líquidas, excetuadas as desapropriações para fins de necessidade pública nas áreas de saúde, educação, segurança pública, transporte público, saneamento básico e habitação de interesse social.
+
+> [!quote]- Texto literal: ADCT, arts. 104 e 105 (CF/88 EC 139, p. 176–177)
+> Art. 104. Se os recursos referidos no art. 101 deste Ato das Disposições Constitucionais Transitórias para o pagamento de precatórios não forem tempestivamente liberados, no todo ou em parte:
+>
+> I – o Presidente do Tribunal de Justiça local determinará o sequestro, até o limite do valor não liberado, das contas do ente federado inadimplente;
+>
+> II – o chefe do Poder Executivo do ente federado inadimplente responderá, na forma da legislação de responsabilidade fiscal e de improbidade administrativa;
+>
+> III – a União reterá os recursos referentes aos repasses ao Fundo de Participação dos Estados e do Distrito Federal e ao Fundo de Participação dos Municípios e os depositará na conta especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para utilização como nele previsto;
+>
+> IV – os Estados e o Comitê Gestor do Imposto sobre Bens e Serviços reterão os repasses previstos, respectivamente, nos §§ 1º e 2º do art. 158 da Constituição Federal e os depositarão na conta especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para utilização como nele previsto.
+>
+> Parágrafo único. Enquanto perdurar a omissão, o ente federado não poderá contrair empréstimo externo ou interno, exceto para os fins previstos no § 2º do art. 101 deste Ato das Disposições Constitucionais Transitórias, e ficará impedido de receber transferências voluntárias.
+>
+> Art. 105. Enquanto viger o regime de pagamento de precatórios previsto no art. 101 deste Ato das Disposições Constitucionais Transitórias, é facultada aos credores de precatórios, próprios ou de terceiros, a compensação com débitos de natureza tributária ou de outra natureza que até 25 de março de 2015 tenham sido inscritos na dívida ativa dos Estados, do Distrito Federal ou dos Municípios, observados os requisitos definidos em lei própria do ente federado.
+>
+> § 1º Não se aplica às compensações referidas no caput deste artigo qualquer tipo de vinculação, como as transferências a outros entes e as destinadas à educação, à saúde e a outras finalidades.
+>
+> § 2º Os Estados, o Distrito Federal e os Municípios regulamentarão nas respectivas leis o disposto no caput deste artigo em até cento e vinte dias a partir de 1º de janeiro de 2018.
+>
+> § 3º Decorrido o prazo estabelecido no § 2º deste artigo sem a regulamentação nele prevista, ficam os credores de precatórios autorizados a exercer a faculdade a que se refere o caput deste artigo.
+
+> [!tip]- Lupa: regime especial (ADCT 101 a 105), o que muda e o que acontece se o ente não liberar
+> **A ideia em uma frase:** quem estava em mora em 25/03/2015 paga por depósito mensal na conta do Tribunal de Justiça, com regras próprias enquanto paga e uma cascata de sanções se deixar de liberar.
+>
+> **Passo a passo:**
+> 1. *Quem entra:* os Estados, o DF e os Municípios em mora em 25/03/2015, com prazo até 31/12/2029 (art. 101, caput).
+> 2. *Como paga:* 1/12 mensal de um percentual da receita corrente líquida, nunca menor que o do início do regime, na conta especial do TJ, com fontes adicionais (depósitos judiciais, empréstimos) (art. 101, §§ 2º a 6º).
+> 3. *Enquanto paga:* sem sequestro (art. 103), pelo menos 50% dos recursos em ordem cronológica (art. 102) e preferências de idade, saúde e deficiência até o quíntuplo da RPV (art. 102, § 2º).
+> 4. *Se não libera no prazo:* sequestro pelo Presidente do TJ, responsabilização do chefe do Executivo, retenção de FPE/FPM pela União e dos repasses do art. 158 pelos Estados e pelo CGIBS, e proibição de novos empréstimos e de transferências voluntárias (art. 104).
+>
+> *Exemplo ilustrativo (sem lastro):* um Município em mora em 2015 deposita todo mês a parcela na conta do TJ. Enquanto o faz, não pode sofrer sequestro (art. 103); se atrasa um repasse, o Presidente do TJ pode sequestrar até o valor não liberado (art. 104, I).
+>
+> **O erro clássico:** aplicar o triplo do art. 100, § 2º, ao regime especial (o art. 102, § 2º, fala em quíntuplo); dizer que o sequestro é sempre possível (o art. 103 o afasta enquanto o ente paga); atribuir ao ente a retenção do FPM (é da União, art. 104, III); e esquecer o marco de 25/03/2015.
+
+> [!info]- Ponte
+> - [[P1 - Direito Constitucional#Dos Precatórios (art. 100 da CF/1988)]]: o art. 101, § 6º, manda aplicar os §§ 23 a 30 do art. 100, resumidos nesse heading, e a lupa da fila (superpreferência de até 3× a RPV no regime comum).
+> - [[ERRO DIREITO CONSTITUCIONAL#22/09]]: errou em 22/09 três questões de precatórios (IBAM/Franca, CEBRASPE/TCE-RO e VUNESP/Santo André).
+> - [[P2 - Direito Tributário#Extinção do Crédito tributário]]: compensação do indébito × precatório; o ADCT 105 trata da compensação do precatório com a dívida ativa do ente.
+> - [[P2 - Direito Tributário#Repartição Constitucional de Receitas Tributárias.]]: as retenções do art. 104, III e IV, atingem o FPE, o FPM e os repasses do art. 158, §§ 1º e 2º.
+
 ## - Funções Essenciais à Justiça (arts. 127 a 135);
 ### -  Ministério Público (arts. 127 a 130 da CF/1988)
 
@@ -1876,6 +2879,10 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > - Art. 149-B, parágrafo único: IBS e CBS observam as imunidades do art. 150, VI; **não** se aplica o art. 195, § 7º.
 > Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
 
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#Contribuições especiais na CF (arts. 149 e 195; art. 8º, IV)]]: texto literal do art. 149 (caput e §§ 1º a 4º) e do art. 195, com lupa.
+> - [[P2 - Direito Tributário#Competência Tributária;]]: quadro "quem institui o quê" e o art. 24, I, com o texto literal.
+
     
 ### Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)
 - [ ] status [dom:: 2] [peso:: 2]
@@ -1918,6 +2925,7 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 
 > [!info]- Ponte
 > - [[P2 - Direito Tributário#Limitações ao Poder de Tributar;]]: onde está o grosso da jurisprudência STF/STJ recente sobre cada imunidade e princípio (anterioridade sobre benefícios fiscais, CEBAS, Zona Franca de Manaus, imunidade recíproca de estatais, etc.) e o comparativo CTN × CF art. por art.
+> - [[P2 - Direito Tributário#Art. 150, §§ 1º a 7º (CF/88)]]: texto literal e lastro dos §§ 1º a 7º do art. 150 (exceções às anterioridades, alcance das imunidades, lei específica, substituição tributária).
 
 > [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
 > - Art. 150, VI, "b": templos e entidades religiosas, **inclusive suas organizações assistenciais e beneficentes**.
@@ -1949,6 +2957,9 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
 > - Imposto Seletivo (art. 153, VIII e § 6º): não incide sobre exportações nem sobre energia elétrica e telecomunicações; incide uma única vez; não integra a própria base, mas integra a de ICMS, ISS, IBS e CBS; alíquotas em lei ordinária (específicas ou ad valorem); na extração, alíquota máxima de 1% do valor de mercado.
 > Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
+
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#9. Impostos da União na CF (art. 153, §§ 1º a 5º)]]: quadro e texto literal dos §§ 1º a 5º do art. 153 (Executivo e alíquotas, IR, IPI, ITR com Município que opta, ouro).
 
     
 ### Dos Impostos dos Estados e Distrito Federal (art. 155 da CF/1988)
@@ -2003,6 +3014,10 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > - IPTU (§ 1º, III): a base de cálculo pode ser atualizada pelo Poder Executivo, conforme critérios de lei municipal.
 > Texto completo e demais dispositivos em [[P2 - Reforma Tributária]].
 
+> [!info]- Ponte
+> - [[P2 - Direito Tributário#7. Imposto sobre a Transmissão de Bens Imóveis — ITBI (arts. 35 a 42)]]: texto literal do art. 156, § 2º (ITBI).
+> - [[P2 - Direito Tributário#2. Imposto sobre Serviços - ISS]]: art. 156, III e § 3º, com o ADCT 88 (piso de 2%) e o ADCT 82, § 2º (adicional de meio ponto).
+
     
 ### Do Imposto de Competência Compartilhada entre Estados, Distrito Federal e Municípios (arts. 156-A e 156-B da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -2052,6 +3067,7 @@ III - **a forma e o prazo para ressarcimento de créditos acumulados pelo c
 
 > [!info]- Ponte
 > - [[P2 - Direito Tributário#Repartição Constitucional de Receitas Tributárias.]]: mesma matéria, com a jurisprudência STF sobre ADI 3.837 (compensação/transação entram no cálculo da cota do ICMS), ADI 825 (TCE não pode homologar cálculo de cota do ICMS) e ADPF 1.043 (TCU não pode alterar coeficiente do FPM fora da LC 165/2019).
+> - [[P2 - Direito Tributário#Repartição Constitucional de Receitas Tributárias.]]: além do que já está ali, o texto literal dos arts. 158 (caput e § 1º), 159, III e §§, 159-A, 160, § 2º e 161, o art. 167, § 4º e a DRU (ADCT 76), com a lupa "retido, vinculado ou desvinculado?".
 
 > [!info]- EC 132/2023: pontos de prova (resumo VINTEUM)
 > - Art. 158, IV: 25% do ICMS e do IBS dos Estados. IBS: 80% população, 10% educação, 5% meio ambiente, 5% iguais entre os Municípios.
