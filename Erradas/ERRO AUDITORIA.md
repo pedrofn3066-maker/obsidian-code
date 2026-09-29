@@ -13,6 +13,9 @@ tags:
 ## 🎯 Mapeamento de Pontos Cegos
 *(Liste aqui os subtópicos dessa matéria que você percebeu que são o seu "calcanhar de Aquiles" nas baterias do TEC)*
 - **Capitalização indevida de despesa no estoque (CPC 16) — superavaliação × subavaliação:** 24/09, errei 3 questões seguidas (TEC #3883365, #3883372, #3883380) invertendo a direção do efeito. Regra fixa: despesa ativada indevidamente no Ativo → Ativo **sobe**, Despesa **some** da DRE → Lucro **sobe** — é sempre "super", nunca "sub".
+- **SPED / Decreto nº 6.022/2007 — detalhes conceituais (CEBRASPE, ANSA 2026):** 2º erro no mesmo assunto — 24/09 errei achando que o PVA não valida a ECD (TEC #4023866, gabarito Certo) e 27/09 errei achando que microempresários/pequenos empresários são "usuários" do SPED (TEC #4023882, gabarito Errado). O art. 2º do Decreto 6.022/2007 é uma lista fechada de usuários (Receita Federal, administrações tributárias de Estados/DF/Municípios, órgãos federais de regulação/fiscalização) — empresários e PJ são o **objeto** da escrituração unificada, não os "usuários" no sentido legal.
+- **Opinião modificada: abstenção × adversa (NBC TA 705/200) — 2 erros no caderno C05 AUD Ninja (29/09/2026):** marquei adversa nos dois casos em que o auditor **não obteve evidência** e a renúncia era impossível (#3976540 e #3395889). Regra: obteve evidência e as distorções são relevantes e generalizadas → adversa; não obteve evidência e o efeito possível é relevante e generalizado → abstenção.
+- **Listas de norma que a banca cobra ao pé da letra, ainda fora do cofre (29/09/2026):** conciliar demonstrações com registros no encerramento (NBC TA 330), risco de amostragem × não amostragem (NBC TA 530), indicadores financeiros × operacionais de continuidade (NBC TA 570), indicadores de deficiência significativa (NBC TA 265, A7). Os headings dessas partes estão vazios em `MATERIAS/P1 - Auditoria.md`; vale passar por `/absorver-pdf` ou `/triar-inbox`.
 - 
 
 ---
@@ -38,6 +41,8 @@ tags:
 
 > **_Evento subsequente é ~~aquele ocorrido após o encerramento e a publicação das demonstrações contábeis.~~_**
   **ERRADO.** Na verdade, <font color="#c00000">eventos subsequentes</font> são aqueles ocorridos <mark style="background:#affad1">entre a data das demonstrações contábeis e a data do relatório do auditor independente e fatos que chegaram ao conhecimento do auditor independente após a data do seu relatório.</mark>
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — IBAM 2026 Guarulhos Q151 (gab. E, preliminar) cobrou a NBC TA 560 pelo procedimento do auditor diante de evento entre a data-base e a conclusão do trabalho (avaliar a natureza, se revela condição já existente na data-base e se exige ajuste ou divulgação); a definição de evento subsequente só aparece no enunciado · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q151]]
 
 - Se, após ter sido comunicada pelo auditor, a empresa auditada alterar as referidas demonstrações financeiras em consonância com o fato que chegou posteriormente ao conhecimento do auditor, ~~este não estará mais obrigado a aplicar qualquer procedimento de auditoria em decorrência da alteração efetuada pela empresa auditada.~~
 	**INCORRETO**. Nesta situação, o auditor deve **aplicar os procedimentos de auditoria necessários nas circunstâncias da alteração**, conforme NBC TA 560:
@@ -116,6 +121,8 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 > > [!info] 🔗 Na matéria
 > > [[P1 - Auditoria#Tipos de evidências|Auditoria › Tipos de evidências]] — **grifado agora:** "mensuração da quantidade" (suficiência) e "mensuração da qualidade" (adequação). Os itens A5 e A12 não estão no cofre (entraram pela internet).
 > > **Fonte:** cofre `MATERIAS/P1 - Auditoria.md:227` · internet NBC TA 500 (R1), itens 5, A5 e A12 — https://www.legisweb.com.br/legislacao/?id=496590
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — IBAM 2026 Guarulhos Q145 (gab. E, preliminar) cobrou a mesma regra (NBC TA 500: suficiência = quantidade, adequação = qualidade, com o item II verdadeiro de novo); o distrator do item III é outro: lá a adequação virava quantidade, aqui "muita evidência dispensa avaliar a qualidade" · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q145]]
 
 > [!question]- 22/09 13:24 · Auditoria · FGV (CFC/CVM 28º EQT 2025) — NBC TA 240: procedimento obrigatório contra burla de controles pela administração
 > TEC #3412082. A NBC TA 240 (R1) aborda as responsabilidades do auditor em relação à detecção de fraudes em auditorias de demonstrações contábeis, destacando que o auditor deve obter uma segurança razoável de que as demonstrações estão livres de distorções relevantes, sejam elas causadas por erro ou por fraude. A norma ressalta que a responsabilidade pela prevenção e detecção de fraudes
@@ -173,6 +180,8 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 > > [!info] 🔗 Na matéria
 > > [[P1 - Auditoria#- Fraude e Erro;|Auditoria › Fraude e Erro]] — o cofre só tem o triângulo da fraude; os itens 32 e 38 **não estão no cofre** (nada a grifar).
 > > **Fonte:** internet NBC TA 240 (R1), itens 32 e 38 — https://www.legisweb.com.br/legislacao/?id=496113 · resposta do professor colada na captura
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — IBAM 2026 Guarulhos Q149 (gab. E, preliminar) cobrou a NBC TA 240 pela distinção fraude (ato intencional) × erro (não intencional) e trouxe como distrator "o auditor é responsável pela prevenção de todas as fraudes"; nenhuma das 5 provas cobrou o procedimento obrigatório contra burla de controles (item 32) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q149]]
 
 ### 24/09
 
@@ -275,6 +284,8 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 > > [!info] 🔗 Na matéria
 > > [[P1 - Auditoria#1.1 Conceitos de SPED e seus Módulos|Auditoria › Conceitos de SPED e seus Módulos]] — tabela de módulos (ECD está lá); o papel do PVA na validação está descrito no cofre para a EFD, não está explícito para a ECD.
 > > **Fonte:** cofre `MATERIAS/P1 - Auditoria.md:474` (PVA-EFD) · (o ponto "PVA valida a ECD" fica sem fonte confirmada — TEC não trouxe comentário nesta questão)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — nenhuma das 5 provas cobrou o PVA nem a validação da ECD; a Guarulhos Q131 (gab. C, preliminar) trata a ECD como fonte a conciliar com a ECF e as NF-e antes de concluir (nenhuma prevalece automaticamente) e a Guarulhos Manhã Q33 (gab. B, preliminar) liga o SPED à recepção, validação e guarda de livros e a ECD à substituição dos livros em papel · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q131]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q33]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Auditoria · FCC (SEFAZ MT 2026) — NF-e: validade jurídica depende da autorização de uso
 > TEC #3863286. No curso de procedimento de auditoria fiscal em empresa comercial contribuinte do ICMS, o Auditor Fiscal do Estado do Mato Grosso analisou as aquisições de mercadorias registradas na EFD-ICMS/IPI e confrontou essas informações com as NF-e constantes no Portal Nacional da NF-e. Verificou-se que determinadas mercadorias haviam sido recebidas fisicamente pela empresa e registradas no estoque, mas algumas NF-e correspondentes apresentavam inconsistências formais, enquanto outras não possuíam registro de autorização de uso na base da SEFAZ. Sobre a Nota Fiscal Eletrônica, o Ajuste SINIEF 07/05 dispõe:
@@ -304,3 +315,297 @@ A40. O **risco inerente** é mais alto para algumas afirmações e classes rel
 > > [!info] 🔗 Na matéria
 > > [[P1 - Auditoria#3. AJUSTE SINIEF Nº 07/2005 — NF-e|Auditoria › Ajuste SINIEF nº 07/2005 — NF-e]] — grifado agora: "só poderá ser utilizado como documento fiscal, após" e "Ter seu uso autorizado por meio de Autorização de Uso da NF-e".
 > > **Fonte:** cofre `MATERIAS/P1 - Auditoria.md:597`, `:601` · TEC (comentário da questão), Ajuste SINIEF 07/05
+
+### 27/09
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Auditoria · FGV (AMAZUL 2026) — Opinião modificada: limitação de escopo relevante mas não generalizada → ressalva
+> Na realização de auditoria independente de uma entidade, ao verificar os saldos a receber de empresas localizadas no exterior, o auditor independente não conseguiu obter evidência apropriada e suficiente de auditoria para fundamentar a sua opinião.
+>
+> O auditor concluiu que os possíveis efeitos de distorções não detectadas sobre as demonstrações contábeis poderiam ser relevantes, mas não generalizados.
+>
+> Nesse caso o auditor deve emitir, em seu relatório,
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) opinião adversa.</mark>
+> (B) opinião sem ressalva.
+> <mark style="background:#affad1">(C) opinião com ressalva.</mark>
+> (D) opinião personalizada.
+> (E) abstenção de opinião.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C
+> > A modificação de opinião cruza duas variáveis: (1) se o auditor **obteve** ou **não obteve** evidência apropriada e suficiente; (2) se os efeitos são <span class="g-cond">relevantes e generalizados</span> ou <span class="g-cond">relevantes, mas não generalizados</span>. Aqui o auditor **não obteve evidência** (limitação de escopo) e concluiu que o efeito seria <mark style="background:#fff88f">relevante, mas não generalizado</mark> — isso cai exatamente na casa da **opinião com ressalva**.
+> >
+> > - **(A)** opinião adversa exige que o auditor **tenha obtido** evidência suficiente e constatado distorção relevante **e generalizada** — aqui faltou evidência, não houve distorção confirmada.
+> > - **(B)** sem ressalva exigiria evidência suficiente sem achado relevante.
+> > - **(D)** "opinião personalizada" não existe como categoria da NBC TA 700/705.
+> > - **(E)** abstenção de opinião é a saída certa quando a limitação de escopo é relevante **e generalizada** — o enunciado diz que não era generalizada.
+> >
+> > [!example]- 🧩 Quadro — matriz de modificação de opinião (NBC TA 705)
+> > | | Relevante, não generalizado | Relevante e generalizado |
+> > | --- | --- | --- |
+> > | Auditor **não obteve** evidência suficiente (limitação de escopo) | Opinião **com ressalva** | **Abstenção** de opinião |
+> > | Auditor **obteve** evidência e achou distorção | Opinião **com ressalva** | Opinião **adversa** |
+> >
+> > [!tip] 💡 Macete
+> > "Não generalizado" = sempre ressalva, seja por falta de evidência ou por distorção encontrada. "Generalizado" é que decide entre abstenção (faltou evidência) ou adversa (achou distorção).
+> >
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria;|Auditoria › Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria]] — heading existe, ainda sem conteúdo no cofre; não está no cofre.
+> > **Fonte:** TEC (comentário da questão), NBC TA 705 — Modificações na Opinião do Auditor Independente
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Auditoria · FCC (SEFAZ SP 2026) — Auditoria de disponibilidades: efeitos de fraudes/erros no caixa
+> Durante os procedimentos de auditoria aplicados pelo auditor fiscal do Estado de São Paulo, podem ser identificadas situações em que se evidenciam a superavaliação ou subavaliação das disponibilidades no ativo circulante.
+>
+> Situações verificadas pelo auditor:
+> I. Simulação de cancelamento de vendas de mercadorias efetivamente entregues e recebidas, sem devolução/cancelamento real.
+> II. Pagamento de empréstimos (passivos) não comprovados documentalmente.
+> III. Contração de empréstimos simulados que não existem.
+> IV. Despesas contabilizadas por valor menor do que o efetivamente comprovado.
+> V. Vendas à vista registradas equivocadamente como se fossem a prazo.
+>
+> Conclusões a correlacionar (nesta ordem):
+> 1. Créditos em disponibilidades que diminuem também o passivo.
+> 2. Falta de débitos (existentes) em disponibilidades, debitados em outra conta de ativo.
+> 3. Créditos a menor em disponibilidades, que inflam o saldo e reduzem indevidamente a despesa.
+> 4. Créditos irregulares em disponibilidades, que reduzem indevidamente a receita.
+> 5. Débitos irregulares em disponibilidades, que aumentam indevidamente o passivo.
+>
+> (A) III – V – I – IV – II.
+> (B) I – IV – V – II – III.
+> <mark style="background:#affad1">(C) II – V – IV – I – III.</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) III – V – IV – I – II.</mark>
+> (E) I – V – IV – II – III.
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C (II – V – IV – I – III)
+> > <mark style="background:#fff88f">Cada situação tem uma direção fixa de lançamento em disponibilidades</mark>: crédito = saída de caixa, débito = entrada de caixa — e o par mais fácil de confundir é II × III, ambos sobre "empréstimo".
+> >
+> > [!example] 🧩 Quadro — correlação situação × conclusão
+> > | # | Conclusão | Situação | Por quê |
+> > | --- | --- | --- | --- |
+> > | 1ª | Crédito em disponibilidades que diminui o passivo | **II** | Pagou empréstimo sem comprovar — saída de caixa (crédito) fictícia, reduz o passivo |
+> > | 2ª | Falta débito, foi para outro ativo | **V** | Venda à vista lançada como a prazo — debitou "Clientes" em vez de "Caixa" |
+> > | 3ª | Crédito a menor, infla saldo e reduz despesa | **IV** | Despesa lançada a menor — o crédito (saída) também sai a menor, sobra caixa e sobra lucro |
+> > | 4ª | Crédito irregular, reduz receita | **I** | Cancelamento fictício de venda real — estorna receita e credita (tira) caixa que na verdade entrou |
+> > | 5ª | Débito irregular, aumenta passivo | **III** | Empréstimo simulado que não existe — entrada de caixa (débito) fictícia, cria passivo fictício |
+> >
+> > **Onde errei (D → III–V–IV–I–II):** troquei a 1ª e a 5ª posição — coloquei III (empréstimo simulado, entrada de caixa) na 1ª conclusão (que é de saída/crédito) e II (pagamento de empréstimo, saída de caixa) na 5ª (que é de entrada/débito). Inverti o sentido do fluxo de caixa dos dois.
+> >
+> > [!warning] ⚠️ Pegadinha da banca
+> > II (pagar empréstimo não comprovado → crédito, saída) e III (empréstimo simulado → débito, entrada) são o par mais parecido do lote — os dois falam de "empréstimo", mas em direções opostas de caixa. A banca conta com essa troca.
+> >
+> > [!tip] 💡 Macete
+> > **Pagou** empréstimo → **saiu** dinheiro → **crédito** em caixa → passivo **some**. **Pegou** (simulou) empréstimo → **entrou** dinheiro → **débito** em caixa → passivo **aparece**.
+> >
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Testes em Áreas Específicas das Demonstrações Contábeis;|Auditoria › Testes em Áreas Específicas das Demonstrações Contábeis]] — heading existe, ainda sem conteúdo no cofre; não está no cofre.
+> > **Fonte:** TEC (comentário da questão)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — IBAM 2026 Guarulhos Q141 (gab. C), Q144 (gab. E) e Q153 (gab. C), todas preliminares, cobraram passivo fictício, suprimento de sócio sem comprovação (o empréstimo simulado do seu item III) e saldo credor de caixa pela ótica da presunção de omissão de receita (LC 214/2025 art. 335; RIR art. 293), não pela correlação situação × lançamento em disponibilidades, que nenhuma prova cobrou · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q141]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q144]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q153]]
+
+> [!question]- 27/09 (mesma captura, sem hora registrada) · Auditoria · CEBRASPE (ANSA 2026) — SPED: microempresários não são "usuários" do sistema (art. 2º, Decreto 6.022/2007)
+> A respeito do Sistema Público de Escrituração Digital (SPED) e da escrituração contábil digital (ECD), julgue o item subsequente.
+>
+> "Os microempresários e os pequenos empresários são usuários do SPED."
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) Certo</mark>
+> <mark style="background:#affad1">(B) Errado</mark>
+>
+> **Marquei:** 🟥 Certo (A) · **Gabarito:** 🟩 Errado (B)
+>
+> > [!success] ✅ Resposta — Errado
+> > O TEC não publicou comentário para esta questão. O art. 2º do Decreto 6.022/2007 traz uma <mark style="background:#fff88f">lista fechada de "usuários" do SPED</mark>: a Receita Federal, as administrações tributárias de Estados/DF/Municípios (via convênio) e órgãos federais com competência de regulação/fiscalização de empresários e PJ. Microempresários e pequenos empresários (como qualquer empresário/PJ) são o **objeto** da escrituração unificada pelo SPED, não os "usuários" no sentido legal do Decreto — essa é a mesma troca de sujeito já registrada em [[#🎯 Mapeamento de Pontos Cegos]].
+> >
+> > [!quote]- 📜 Texto literal — art. 2º, Decreto nº 6.022/2007 (via cofre)
+> > "Usuários do SPED: Secretaria da Receita Federal do Ministério da Fazenda; administrações tributárias dos Estados, do Distrito Federal e dos Municípios, mediante convênio celebrado com a Secretaria da Receita Federal; órgãos e entidades da administração pública federal direta e indireta que tenham atribuição legal de regulação, normatização, controle e fiscalização dos empresários e das pessoas jurídicas, inclusive imunes ou isentas."
+> >
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#1. DECRETO Nº 6.022/2007|Auditoria › Decreto nº 6.022/2007]] — já traz a lista fechada de usuários; não grifado com `<mark>`, não mexi na nota agora.
+> > **Fonte:** cofre `MATERIAS/P1 - Auditoria.md:326`
+
+### 29/09
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Auditoria · FCC (Analista Legislativo ALMS, 2026) #3952163 — Confrontar demonstrações com os registros contábeis é procedimento substantivo (NBC TA 330)
+> Quando o auditor confronta ou concilia as informações nas demonstrações contábeis com os registros contábeis que as suportam, está realizando
+>
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">revisão analítica.</mark>
+> (B) recálculos.
+> (C) procedimentos analíticos.
+> (D) <mark style="background:#affad1">procedimentos substantivos.</mark>
+> (E) circularização.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D
+> > Na NBC TA 330, os <mark style="background:#fff88f">procedimentos substantivos</mark> do <span class="g-cond">processo de encerramento</span> das demonstrações incluem **confrontar ou conciliar** as demonstrações com os registros contábeis que as suportam, além de examinar lançamentos de diário relevantes e outros ajustes. É <span class="g-cond">obrigatório</span>, qualquer que seja o risco avaliado.
+> > 
+> > **(A)/(C)** revisão e procedimentos analíticos estudam índices e relações para achar flutuações atípicas, não conciliam saldo com livro. **(B)** recálculo é conferir a exatidão matemática. **(E)** circularização é resposta por escrito de terceiro.
+>
+> > [!example]- 🧩 Quadro
+> > | Procedimento | O que faz |
+> > | --- | --- |
+> > | Substantivo (gênero) | detecta distorção relevante nas afirmações: testes de detalhes + analíticos substantivos |
+> > | Conciliar demonstrações × registros | teste de detalhes do encerramento: substantivo |
+> > | Analítico / revisão analítica | índices e relações plausíveis, atrás de flutuações |
+> > | Recálculo | exatidão matemática |
+> > | Circularização | confirmação externa, escrita, de terceiro |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Três termos parecem "conferir números" (analítico, recálculo, conciliação); o verbo do enunciado é **confrontar/conciliar com os registros**, que é teste de detalhes, logo substantivo.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Testes e Procedimentos em Auditoria;|Testes e Procedimentos em Auditoria]] — o cofre já traz o item 18 (substantivos obrigatórios) e a definição de procedimento substantivo (`:244`, `:248`); a regra do **encerramento** (conciliar com os registros) **não está no cofre**, nada foi grifado.
+> > **Fonte:** comentário do TEC (NBC TA 330) · cofre `MATERIAS/P1 - Auditoria.md:244-248`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Auditoria · CEBRASPE (Auditor Fiscal SEFAZ RN, 2026) #3883352 — Risco de amostragem × risco não resultante da amostragem (NBC TA 530)
+> A amostragem é considerada essencial para a realização de auditorias que envolvam grande volume de dados. Por envolver a aplicação de procedimentos de auditoria em menos de 100% dos itens da população relevante, o procedimento implica risco de amostragem. Assinale a opção em que a situação descrita decorre do risco de amostragem em auditoria.
+>
+> (A) <mark style="background:#affad1">identificação de distorção relevante no teste de detalhe, quando, de fato, ela não existe</mark>
+> (B) interpretação equivocada da evidência de auditoria
+> (C) <mark style="background:rgba(163, 67, 31, 0.2)">não reconhecimento de um desvio ou de uma distorção</mark>
+> (D) planejamento inadequado dos procedimentos de auditoria
+> (E) utilização de procedimentos de auditoria inapropriados
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A
+> > <mark style="background:#fff88f">Risco de amostragem</mark> é a chance de a **amostra** não representar a população e levar a conclusão errada. Achar distorção relevante na amostra que não existe na população é o risco de <span class="g-cond">rejeição incorreta</span> (afeta a **eficiência**: trabalho extra).
+> > 
+> > **(B)**, **(C)**, **(D)** e **(E)** são falhas do auditor (interpretar mal a evidência, <span class="g-cond">não reconhecer</span> o desvio ou distorção que está no item examinado, planejar mal, usar procedimento inapropriado): risco **não resultante da amostragem**.
+>
+> > [!example]- 🧩 Quadro
+> > | Efeito | Teste de controles | Teste de detalhes |
+> > | --- | --- | --- |
+> > | **Eficácia** (auditor confia demais) | acha o controle **mais** eficaz do que é | **não** acha a distorção da população na amostra |
+> > | **Eficiência** (auditor desconfia demais) | acha o controle **menos** eficaz do que é | **acha** distorção na amostra que não existe na população |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > "Não reconhecer um desvio" parece o erro clássico de amostra que deixou passar o problema, mas na NBC TA 530 é exemplo de **risco não resultante da amostragem**: o desvio estava no item examinado e o auditor não o viu. Risco de amostragem é a amostra "enganando" o auditor.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Amostragem em Auditoria;|Amostragem em Auditoria]] — o cofre só cobre a avaliação da taxa esperada de desvio (A7); risco de amostragem × não amostragem **não está no cofre** (entrou pelo comentário do TEC), nada foi grifado.
+> > **Fonte:** comentário do TEC (NBC TA 530, A1) · cofre `MATERIAS/P1 - Auditoria.md:323`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Auditoria · FGV (Auditor Administrativo FunSaúde CE, 2021) #1806342 — Continuidade: condição operacional × financeira (NBC TA 570)
+> Na execução de procedimentos de avaliação de risco, o auditor deve verificar se existem eventos ou condições que possam levantar dúvida significativa quanto à capacidade de continuidade operacional da entidade.
+>
+> Assinale a opção que indica as condições operacionais que, individual ou coletivamente, podem levantar dúvida significativa quanto à capacidade da entidade de manter sua continuidade operacional.
+>
+> (A) Indicativos de retirada de suporte financeiro por credores.
+> (B) Fluxos de caixa operacionais negativos indicados por demonstrações contábeis históricas ou prospectivas.
+> (C) <mark style="background:#affad1">Intenções da administração de liquidar a entidade.</mark>
+> (D) Mudança nas condições de pagamento a fornecedores, de a prazo para pagamento à vista.
+> (E) <mark style="background:rgba(163, 67, 31, 0.2)">Incapacidade de obter financiamento para o desenvolvimento de novos produtos essenciais ou outros investimentos essenciais.</mark>
+>
+> **Marquei:** 🟥 E · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C
+> > A NBC TA 570 separa os indicadores em grupos. <mark style="background:#fff88f">Intenções da administração de liquidar a entidade ou cessar as operações</mark> está no grupo <span class="g-comp">operacional</span>. As alternativas (A), (B), (D) e (E) constam do grupo <span class="g-comp">financeiro</span>.
+>
+> > [!example]- 🧩 Quadro
+> > | Grupo | Exemplos |
+> > | --- | --- |
+> > | Financeiro | PL ou capital circulante líquido negativo; empréstimos vencendo sem renovação; retirada de suporte por credores; fluxo de caixa operacional negativo; índices adversos; prejuízos; atraso ou suspensão de dividendos; incapacidade de pagar credores ou cumprir contratos; **pagamento a fornecedores de prazo para à vista**; **incapacidade de financiar novos produtos/investimentos essenciais** |
+> > | Operacional | **intenção de liquidar ou cessar**; perda de pessoal-chave; perda de mercado, cliente, franquia, licença ou fornecedor importante; dificuldades trabalhistas; escassez de suprimentos; concorrente altamente competitivo |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O enunciado pede as condições **operacionais** e quatro alternativas são financeiras que parecem operacionais (financiamento de novos produtos, pagamento à vista). O par de identificação: dinheiro/crédito → financeiro; pessoas, mercado, suprimentos, decisão de encerrar → operacional.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Continuidade Normal das Atividades da Entidade;|Continuidade Normal das Atividades da Entidade]] — heading **sem conteúdo** (`:749`); a lista da NBC TA 570 **não está no cofre**, nada foi grifado.
+> > **Fonte:** comentário do TEC (NBC TA 570, indicadores financeiros e operacionais) · cofre `MATERIAS/P1 - Auditoria.md:749`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Auditoria · FGV (Cadastro Nacional de Auditores Independentes CFC, 2026) #3976540 — Sem segurança razoável, ressalva insuficiente e sem renúncia: abster-se (NBC TA 200 R1)
+> Ao realizar a auditoria de uma entidade, um auditor independente constatou que não era possível obter segurança razoável. Além disso, considerou a opinião com ressalva em seu relatório insuficiente nas circunstâncias para atender aos usuários previstos das demonstrações contábeis. Ainda, a renúncia do trabalho não era possível, de acordo com a regulamentação.
+>
+> De acordo com a NBC TA 200 (R1) – OBJETIVOS GERAIS DO AUDITOR INDEPENDENTE E A CONDUÇÃO DA AUDITORIA EM CONFORMIDADE COM NORMAS DE AUDITORIA, nesse caso, o auditor deve
+>
+> (A) <mark style="background:#affad1">abster-se de emitir a sua opinião.</mark>
+> (B) acrescentar uma ênfase em seu relatório.
+> (C) <mark style="background:rgba(163, 67, 31, 0.2)">emitir um relatório com opinião adversa.</mark>
+> (D) repetir a opinião emitida no período anterior.
+> (E) assumir a responsabilidade pela situação da entidade.
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A
+> > NBC TA 200 (R1), item 12: quando <span class="g-cond">não é possível obter segurança razoável</span> e a ressalva é insuficiente, o auditor <mark style="background:#fff88f">abstém-se de emitir opinião</mark> ou renuncia ao trabalho, se a renúncia for possível. O enunciado exclui a renúncia, então resta a abstenção.
+> > 
+> > **(C)** opinião adversa pressupõe que o auditor **obteve** evidência e concluiu que as distorções são relevantes e generalizadas; aqui o problema é **não conseguir** evidência. **(B)** ênfase só destaca assunto já divulgado nas demonstrações (NBC TA 706). **(D)** repetir opinião ignora o período corrente. **(E)** o auditor não assume responsabilidade pela entidade.
+>
+> > [!example]- 🧩 Quadro — NBC TA 705
+> > | Opinião | Base | Efeitos |
+> > | --- | --- | --- |
+> > | Com ressalva | distorção **ou** impossibilidade de obter evidência | relevantes, **não generalizados** |
+> > | Adversa | **obteve** evidência e há distorções | relevantes **e generalizados** |
+> > | Abstenção | **não obteve** evidência | possíveis efeitos relevantes **e generalizados** |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > "Modificação grave" leva a marcar adversa. A chave é a **origem**: distorção comprovada (evidência obtida) → adversa; limitação de alcance (evidência não obtida) → abstenção.
+>
+> > [!tip] 💡 Macete
+> > Obteve evidência e está tudo errado → **adversa**; não conseguiu evidência e o efeito seria generalizado → **abstenção**.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria;|Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria]] — heading **sem conteúdo** (`:337`); a NBC TA 705 **não está no cofre**. O item 11 da NBC TA 200 está em `:60`, mas o item 12 não.
+> > **Fonte:** comentário do TEC (NBC TA 200 R1, item 12; NBC TA 705; NBC TA 706) · cofre `MATERIAS/P1 - Auditoria.md:337`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Auditoria · FGV (Analista Judiciário TRT 24ª Região, 2025) #3395889 — Não obteve evidência, efeitos generalizados e sem renúncia: abstenção (NBC TA 705, item 13)
+> Um auditor independente foi nomeado para auditar as demonstrações contábeis de uma entidade do setor público.
+>
+> No entanto, o auditor não conseguiu obter evidência de auditoria apropriada e suficiente. Além disso, ele concluiu que possíveis efeitos de distorções não detectadas sobre as demonstrações contábeis poderiam ser relevantes e generalizados, de modo que uma ressalva na opinião seria inadequada para comunicar a gravidade da situação.
+>
+> Não é possível ao auditor renunciar ao trabalho de auditoria antes da emissão do seu relatório.
+>
+> Nesse caso, ele deve
+>
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">emitir um relatório com opinião adversa.</mark>
+> (B) destacar o fato em um parágrafo de ênfase.
+> (C) destacar o fato em um parágrafo de Outros Assuntos.
+> (D) emitir o seu relatório com atraso, após o prazo acordado.
+> (E) <mark style="background:#affad1">abster-se de expressar uma opinião sobre as demonstrações contábeis.</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — E
+> > NBC TA 705, item 13(b): sem evidência apropriada e suficiente e com possíveis efeitos <span class="g-cond">relevantes e generalizados</span>, o auditor deve (i) renunciar, se praticável e possível, ou (ii) se a renúncia não for possível, <mark style="background:#fff88f">abster-se de expressar opinião</mark>.
+> > 
+> > **(A)** adversa exige evidência **obtida** (item 8). **(B)** ênfase é para assunto **apropriadamente divulgado** nas demonstrações. **(C)** Outros Assuntos é para assunto **não divulgado** relevante para entender a auditoria ou o relatório. **(D)** atrasar o relatório não é solução prevista.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Mesmo cruzamento da questão #3976540 (CFC): adversa × abstenção. Aqui o gatilho é explícito, "não conseguiu obter evidência", e a adversa exige o contrário.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria;|Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria]] — heading **sem conteúdo** (`:337`); NBC TA 705 e NBC TA 706 **não estão no cofre**, nada foi grifado.
+> > **Fonte:** comentário do TEC (NBC TA 705, itens 8 e 13; NBC TA 706, item 7) · cofre `MATERIAS/P1 - Auditoria.md:337`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Auditoria · FGV (Técnico Legislativo ALEP, 2024) #2893655 — Indicadores de deficiência significativa do controle interno (NBC TA 265, A7)
+> Em relação aos indicadores de deficiência significativa do controle interno, analise as afirmações a seguir:
+>
+> I. Evidência da incapacidade da administração de supervisionar a elaboração das demonstrações contábeis.
+> II. Distorção detectada pelos procedimentos do auditor que não foi prevenida ou detectada e corrigida, pelo controle interno da entidade.
+> III. Reapresentação de demonstrações contábeis emitidas anteriormente para refletir a correção de distorção relevante devido a erro ou a fraude.
+>
+> De acordo com a NBC TA 265 – Comunicação de Deficiências de Controle Interno, os indicadores de deficiência significativa do controle interno incluem o que se afirma em
+>
+> (A) I, somente.
+> (B) <mark style="background:rgba(163, 67, 31, 0.2)">I e II, somente.</mark>
+> (C) I e III, somente.
+> (D) II e III, somente.
+> (E) <mark style="background:#affad1">I, II e III.</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — E
+> > Os três itens são exemplos literais da lista da NBC TA 265, A7: incapacidade da administração de supervisionar as demonstrações; <mark style="background:#fff88f">distorção detectada pelo auditor</mark> que o controle interno não preveniu nem corrigiu; e <span class="g-cond">reapresentação de demonstrações</span> anteriores para corrigir distorção relevante por erro ou fraude.
+> > 
+> > Deficiência significativa depende da **probabilidade** e da **magnitude** possível da distorção, não só de ela ter ocorrido: pode existir mesmo sem distorção identificada (A5).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Item III soa como consequência e não como sinal, mas está na lista. Item longo que copia a norma tende a ser literal.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Auditoria#- Controle Interno da Entidade Auditada;|Controle Interno da Entidade Auditada]] — heading **sem conteúdo** (`:738`); a NBC TA 265 **não está no cofre**, nada foi grifado.
+> > **Fonte:** comentário do TEC (NBC TA 265, A5 e A7) · cofre `MATERIAS/P1 - Auditoria.md:738`
