@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Lê os registros de prova (Questoes/Provas/*.md, criados pelo /absorver-provas) e responde
+Lê o Mapa de cada prova absorvida (.provas-mapa/*.md, criado pelo /absorver-provas) e responde
 "quantas provas cobraram este heading?" — a conta por trás do [prova:: N] nas notas.
 
     python3 PY/provas-recorrencia.py                        # heading → nº de provas, em ordem
@@ -12,7 +12,9 @@ Lê os registros de prova (Questoes/Provas/*.md, criados pelo /absorver-provas) 
 
 Formato do registro (uma linha por questão que a nota cobre):
     | Q | Disciplina | Gab | Nota → heading | Regra cobrada | Ângulo | Cobertura |
-    | 31 | Conhecimentos Específicos | A | [[P2 - Reforma Tributária#Split payment (arts. 31 a 35)]] | ... | ... | coberto |
+    | 31 | Conhecimentos Específicos | A | P2 - Reforma Tributária#Split payment (arts. 31 a 35) | ... | ... | coberto |
+A célula Nota → heading é texto puro "Nota#Heading" (com [[ ]] também é lida): o Mapa não leva link ativo,
+para o Obsidian não indexar dezenas de links na parte de cima do arquivo; os links vivem em "Resolução".
 
 Conta como "cobrou" só a prova com pelo menos uma linha de gabarito A–E (questão anulada ou sem
 gabarito aparece na listagem com marca, mas não entra na contagem). Busca tolera NBSP/acentos.
@@ -28,7 +30,7 @@ import unicodedata
 from pathlib import Path
 
 VAULT = Path(__file__).resolve().parent.parent
-PASTA = VAULT / "Questoes" / "Provas"
+PASTA = VAULT / ".provas-mapa"  # Mapa de cada prova; a prova resolvida (só questões) fica em Questoes/Provas/
 NOTAS = [VAULT / "MATERIAS", VAULT / "LTM ISS SANTOS"]
 RE_LINK = re.compile(r"\[\[([^\]|#]+)#([^\]|]+)(?:\|[^\]]*)?\]\]")
 RE_TRACKER = re.compile(r"^- \[.\] status\b")
@@ -51,7 +53,8 @@ def linhas_registro(pasta: Path):
             c = [x.strip() for x in l.strip().strip("|").split("|")]
             if len(c) < 7:
                 continue
-            for nota, head in RE_LINK.findall(c[3]) or [(None, None)]:
+            plano = tuple(c[3].split("#", 1)) if "#" in c[3] and "[[" not in c[3] else None
+            for nota, head in RE_LINK.findall(c[3]) or ([plano] if plano else [(None, None)]):
                 yield {
                     "prova": arq.stem, "q": c[0], "disc": c[1], "gab": c[2].upper(),
                     "nota": nota, "heading": head, "regra": c[4], "angulo": c[5], "cob": c[6],
@@ -143,7 +146,7 @@ def main():
         pasta = Path(a[i + 1])
         del a[i:i + 2]
     if not pasta.exists():
-        sys.exit(f"sem registros em {pasta} — nenhuma prova absorvida ainda.")
+        sys.exit(f"sem mapas em {pasta} — nenhuma prova absorvida ainda.")
     rows = list(linhas_registro(pasta))
     if not rows:
         sys.exit("registros sem linha de tabela no formato esperado (ver docstring).")

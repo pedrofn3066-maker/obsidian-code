@@ -5,9 +5,13 @@ de trabalho, com a página de cada uma. É a etapa 1 do /absorver-provas: o .md 
 é conteúdo final, é insumo pra classificar cada questão contra as notas de MATERIAS/.
 
     python3 PY/prova-questoes.py "<prova.pdf|prova.md>" [--gabarito "<gab.pdf|gab.md|'01:A 02:B ...'>"]
-                                 [--tipo N] [-o saida.md] [--diag]
+                                 [--tipo N] [-o saida.md] [--diag] [--esqueleto "<título da prova>"]
 
 Grava em .vault-meta/provas/<nome>.md (ignorado pelo git) e imprime o diagnóstico.
+Com --esqueleto grava também <nome>.resolvida.md: um bloco "### Qn" por questão, no layout de
+TEMPLATE/Prova resolvida.md (enunciado, alternativas com o gabarito em verde, placeholders de
+Resposta e Na matéria). É o ponto de partida da prova resolvida; o texto vem do PDF, a resolução
+é trabalho do /absorver-provas.
 Só lê: nada em MATERIAS/ ou Erradas/ é tocado.
 
 O que faz:
@@ -38,7 +42,7 @@ RE_ALT = re.compile(r"(?:(?<=\s)|^)\*{0,2}\(?([A-E])\)\*{0,2}\s+(?=\S)")
 RE_TITULO = re.compile(r"^#{1,4}\s+(.{3,70})$")
 RE_TIPO_CAPA = re.compile(r"TIPO\s*(?:DE PROVA)?\s*[:\-]?\s*(\d)\b", re.I)
 RE_GAB = re.compile(r"\b0*(\d{1,3})\s*[:\-–.)]?\s*([A-E]|ANULADA|X)\b")
-RE_RODAPE = re.compile(r"\s+[A-ZÀ-Ú][A-ZÀ-Ú ,.\-]{15,}\s-\s\d{1,3}\s*$")
+RE_RODAPE = re.compile(r"\s+[A-ZÀ-Ú]{4,}[A-ZÀ-Ú ,.\-]{12,}\s[-–]\s\d{1,3}\s*$")
 IGNORA_TITULO = re.compile(r"ANTES DE INICIAR|INSTRU|TIPO|CADERNO|CONCURSO|PREFEITURA|EDITAL|Quest[ãa]o", re.I)
 
 
@@ -118,6 +122,38 @@ def formatar(q, gab):
     return cab + "\n\n" + enun + ("\n\n" + "\n".join(linhas) if linhas else "") + "\n", len(alts)
 
 
+VERDE = '<mark style="background:#affad1">'
+
+
+def esqueleto(qs, gab, titulo):
+    """Um bloco por questão no layout da prova resolvida; o gabarito em verde, o resto a preencher."""
+    out = []
+    for q in qs:
+        corpo = q["corpo"]
+        alts = list(RE_ALT.finditer(corpo))
+        g = gab.get(q["n"], "?") if gab else "?"
+        if len(alts) >= 4:
+            enun = corpo[: alts[0].start()].strip()
+            ls = []
+            for i, a in enumerate(alts):
+                fim = alts[i + 1].start() if i + 1 < len(alts) else len(corpo)
+                t = corpo[a.end():fim].strip()
+                ls.append(f"> ({a.group(1)}) " + (f"{VERDE}{t}</mark>" if a.group(1) == g else t))
+            alt_txt = "\n".join(ls)
+        else:
+            enun, alt_txt = corpo, "> (alternativas: conferir no PDF)"
+        enun = "\n>\n".join("> " + ln.strip() for p in enun.split("\n\n") if p.strip() for ln in [" ".join(p.split())]) or "> " + enun
+        out.append(
+            f"### Q{q['n']}\n\n"
+            f"> [!question]- Q{q['n']} · {q['disc']} · {titulo} — <tema>\n"
+            f"{enun}\n>\n{alt_txt}\n>\n"
+            f"> **Gabarito:** 🟩 {g} · **Minha resolução:** <🟩 X (concorda) | ⚠️ X (diverge)>\n>\n"
+            f"> > [!success] ✅ Resposta — {g}\n> > <núcleo da regra; por que cada errada erra>\n>\n"
+            f"> > [!info] 🔗 Na matéria\n> > <[[Nota#Heading]] — marcado | lacuna>\n"
+            f"> > **Fonte:** <cofre `nota.md:L` | internet URL | resolução própria>\n")
+    return "\n".join(out)
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("prova")
@@ -125,6 +161,7 @@ def main():
     ap.add_argument("--tipo", type=int)
     ap.add_argument("-o", "--saida")
     ap.add_argument("--diag", action="store_true", help="só o diagnóstico, sem gravar")
+    ap.add_argument("--esqueleto", metavar="TÍTULO", help="grava também <nome>.resolvida.md (layout da prova resolvida)")
     a = ap.parse_args()
 
     txt = texto_de(a.prova)
@@ -196,6 +233,10 @@ def main():
     cab = f"<!-- fonte: {Path(a.prova).name}" + (f" · gabarito tipo {tipo}" if tipo else "") + " -->\n\n"
     destino.write_text(cab + "\n".join(blocos), encoding="utf-8")
     print(f"→ {destino}")
+    if a.esqueleto:
+        esq = destino.with_suffix(".resolvida.md")
+        esq.write_text(esqueleto(qs, gab, a.esqueleto), encoding="utf-8")
+        print(f"→ {esq}")
 
 
 if __name__ == "__main__":
