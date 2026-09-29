@@ -386,9 +386,14 @@ Vejamos quatro conceitos importantes que devemos diferenciá-los:
 É essa dualidade que justifica a segregação de classes no [[#- PCASP e escrituração contábil pública\|PCASP]] (patrimonial × orçamentária × controle) e o tratamento diferenciado dos [[#1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL\|regimes]] já vistos acima.
 
 ## - Princípios de CASP
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-24
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-24
 
-**Princípio da Oportunidade:** base indispensável à integridade e à fidedignidade dos processos de reconhecimento, mensuração e evidenciação da informação contábil, dos atos e dos fatos que afetam ou possam afetar o patrimônio da entidade pública, observadas as NBC aplicadas ao Setor Público.
+**Princípio da Oportunidade:** <mark class="prova" style="background:rgba(0,170,170,0.28)">base indispensável à integridade e à fidedignidade</mark> dos processos de reconhecimento, mensuração e evidenciação da informação contábil, dos atos e dos fatos que afetam ou possam afetar o patrimônio da entidade pública, observadas as NBC aplicadas ao Setor Público.
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q31 (gab. D · preliminar)
+> **Trecho usado:** "Princípio da Oportunidade: base indispensável à integridade e à fidedignidade dos processos de reconhecimento, mensuração e evidenciação"
+> **Como cobrou:** conceito — gab. D: II e III. O item II diz que "O Princípio da Oportunidade no setor público é a base para a integridade dos registros contábeis de atos e fatos que afetam o patrimônio" (V); o item I restringe o objeto da Contabilidade Pública ao "patrimônio público de uso comum" (F).
+> **Lastro:** PDF p. 6 · [[IBAM 2025 - Mauá - AFTM#Q31]]
 
 Integridade e fidedignidade: as variações devem ser reconhecidas **na sua totalidade**, independentemente do cumprimento das formalidades legais para sua ocorrência, visando ao completo atendimento da **essência sobre a forma**.
 
@@ -831,7 +836,7 @@ Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a cap
 ## - Procedimentos contábeis específicos
 - [ ] status [dom:: 0] [peso:: 3]
 ## - PCASP e escrituração contábil pública
-- [x] status [dom:: 1] [peso:: 3] ✅ 2026-09-19
+- [x] status [dom:: 1] [peso:: 3] [prova:: 1] ✅ 2026-09-19
 
 **Fonte:** MCASP 11ª edição (STN), Parte IV — Plano de Contas Aplicado ao Setor Público. **Base normativa da edição vigente:** Portaria Conjunta STN/SOF nº 26/2024, Portaria Conjunta STN/SRPC nº 25/2024 e Portaria STN/MF nº 2.016/2024 (todas de 18/12/2024) — é daí que vem a obrigatoriedade e a competência da STN para criar/alterar/codificar as contas.
 
@@ -853,7 +858,17 @@ Critério da hierarquia: não é a natureza do custo (fixo/variável), mas a cap
 | **Orçamentária** | 5. Controles da Aprovação do Planejamento e Orçamento · 6. Controles da Execução do Planejamento e Orçamento |
 | **Controle** | 7. Controles Devedores · 8. Controles Credores |
 
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q24 (gab. C · preliminar)
+> **Trecho usado:** "Patrimonial | 1. Ativo · 2. Passivo · 3. VPD · 4. VPA"
+> **Como cobrou:** conceito — V/F com quatro itens (gab. C: V, F, V, F). O terceiro, tido como verdadeiro, diz que o PCASP "é estruturado em classes, sendo as contas iniciadas pelo número 1 pertencentes ao Ativo e as iniciadas pelo número 2 ao Passivo". Os subsistemas financeiro e de compensação (itens 1 e 2) e o lançamento "em subsistema distinto" (item 4) a nota não trata.
+> **Lastro:** PDF p. 5 · [[IBAM 2025 - Mauá - AFTM#Q24]]
+
 ⚠️ É por isso que os passivos e ativos contingentes — [[#- Provisões, passivos e ativos contingentes\|vistos acima]] — entram nas **classes 7 e 8** (controle), nunca nas classes 1/2 (patrimonial): eles não satisfazem os critérios de reconhecimento patrimonial.
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q38 (gab. D · preliminar)
+> **Trecho usado:** "passivos e ativos contingentes… entram nas classes 7 e 8 (controle), nunca nas classes 1/2 (patrimonial)"
+> **Como cobrou:** conceito — a certa é "(D) Registrar o ato administrativo em contas de compensação para evidenciar a obrigação potencial decorrente do contrato assinado". A nota só liga as classes 7 e 8 (controle) aos contingentes; o registro de contrato assinado em compensação não é dito.
+> **Lastro:** PDF p. 7 · [[IBAM 2025 - Mauá - AFTM#Q38]]
 
 #### Lançamento da fixação da despesa (classes 5 e 6)
 

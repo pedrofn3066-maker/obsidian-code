@@ -181,7 +181,7 @@ O orçamento público pode ser analisado sob múltiplos ângulos simultâneos:
 
 
 ### - Princípios Orçamentários
-- [ ] status [dom:: 3.5] [peso:: 2]
+- [ ] status [dom:: 3.5] [peso:: 2] [prova:: 1]
 
 ![[Pasted image 20260815174827.png]]
 
@@ -214,9 +214,14 @@ D- **D**espesa.
 
 > Art. 2º, Lei nº 4.320/1964: "A Lei do Orçamento conterá a discriminação da receita e despesa de forma a evidenciar a política econômica financeira e o programa de trabalho do Governo, obedecidos os princípios de unidade, universalidade e anualidade."
 
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q25 (gab. A · preliminar)
+> **Trecho usado:** "Art. 2º, Lei nº 4.320/1964: A Lei do Orçamento conterá a discriminação da receita e despesa"
+> **Como cobrou:** conceito — "Qual princípio orçamentário estabelece que todas as receitas e despesas devem constar na Lei Orçamentária Anual?" A certa é "(A) Princípio da Universalidade"; a "(D) Princípio da Exclusividade" é o vizinho que a nota separa da universalidade.
+> **Lastro:** PDF p. 5 · [[IBAM 2025 - Mauá - AFTM#Q25]]
+
 
 ## - Créditos Adicionais
-- [ ] status [dom:: 3] [peso:: 2]
+- [ ] status [dom:: 3] [peso:: 2] [prova:: 1]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1740)
 
 *Fonte: Lei nº 4.320/1964, arts. 40-46. Origem: `(Lei 4.320, p. 20-22)`.*
@@ -256,6 +261,16 @@ Os créditos adicionais têm vigência **restrita ao exercício** em que forem a
 > 3. Todos, menos o extraordinário, dependem de **recursos disponíveis** comprovados (superávit, excesso de arrecadação, anulação, operação de crédito).
 >
 > **O erro clássico:** exigir decreto **e** lei prévia para o extraordinário (só decreto); ou achar que suplementar pode ser aberto sem nenhuma autorização legal (sempre precisa de lei, ainda que genérica na LOA).
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q40 (gab. C · preliminar)
+> **Trecho usado:** "Todos, menos o extraordinário, dependem de recursos disponíveis comprovados (superávit, excesso de arrecadação, anulação, operação de crédito)."
+> **Como cobrou:** conceito — três itens (gab. C: I e III). É falso o item II: "Os créditos especiais destinam-se a despesas urgentes e imprevistas em caso de guerra ou comoção interna, podendo ser abertos por Medida Provisória no âmbito federal". São verdadeiros o item I (suplementares: reforço de dotação, com autorização legislativa e indicação de recursos) e o III (extraordinários podem dispensar a indicação de recursos disponíveis).
+> **Lastro:** PDF p. 7 · [[IBAM 2025 - Mauá - AFTM#Q40]]
+
+> [!tip]- Lupa de prova: Créditos adicionais: quem é quem
+> **O padrão:** três itens que descrevem cada crédito adicional; um deles empresta a um tipo o traço de outro. (padrão de 1 prova, não confirmado)
+> **A armadilha:** o item II atribui aos "créditos especiais" a urgência, a imprevisibilidade e a Medida Provisória, que são do extraordinário.
+> **Como resolver:** a nota resume: suplementar reforça o que já existe; especial cria o que não existia; extraordinário é a válvula de emergência, sem esperar lei prévia. Urgência e imprevisibilidade = extraordinário.
 
 > [!info]- Ponte
 > - [[P1 - Direito Financeiro#- Princípios Orçamentários]]: os créditos suplementares e as operações de crédito por ARO são as duas exceções expressas do princípio da exclusividade (art. 165, §8º, CF).
@@ -370,7 +385,7 @@ CF/88, Art. 165 §7º — <mark style="background:#fff88f">os orçamentos fiscal
 - Aplicação obrigatória em área finalísticas de atuação do Executivo
 
 ## - Ciclo orçamentário
-- [ ] status [dom:: 3] [peso:: 2]
+- [ ] status [dom:: 3] [peso:: 2] [prova:: 1]
 
 > [!tip]- Lupa: as 4 fases e por que elas se sobrepõem
 > **A ideia em uma frase:** o ciclo orçamentário é a sequência de etapas pelas quais passa o orçamento, do planejamento ao controle — mas, na prática, **vários ciclos correm ao mesmo tempo**: enquanto se **executa** o orçamento do ano corrente, já se **elabora** o do ano seguinte e ainda se **controla/avalia** o do ano anterior. Não é uma linha reta que termina em dezembro; é um processo contínuo e superposto.
@@ -380,6 +395,11 @@ CF/88, Art. 165 §7º — <mark style="background:#fff88f">os orçamentos fiscal
 > 3. **Execução:** depois de sancionada a LOA, o Executivo programa a liberação de recursos (cronograma de desembolso, contingenciamento se a receita vier abaixo do previsto), empenha, liquida e paga a despesa (Lei 4.320, arts. 58 a 65) — é aqui que entram os créditos adicionais quando a LOA se revela insuficiente ou mal distribuída.
 > 4. **Controle e avaliação:** concomitante às demais fases (não é só o "último passo") — controle **interno**, de cada Poder (art. 74, CF), e **externo**, pelo Congresso com auxílio do TCU (art. 71, CF); ao final, a avaliação de resultados retroalimenta o PPA seguinte.
 > **O erro clássico:** tratar o ciclo como um processo **linear e fechado dentro do exercício** — a fiscalização de um exercício segue ocorrendo depois que ele termina (o TCU aprecia as contas do Presidente em até 60 dias, já no ano seguinte), e o planejamento do próximo já começa antes de o atual acabar.
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q35 (gab. B · preliminar)
+> **Trecho usado:** "Controle e avaliação: concomitante às demais fases (não é só o último passo) — controle interno, de cada Poder, e externo"
+> **Como cobrou:** conceito — V/F com quatro itens (gab. B: V, F, F, V). É verdadeiro que "a fase de controle e avaliação… compreende a fiscalização exercida pela própria administração, pelos órgãos de controle externo e pela participação social"; é falso que "o ciclo orçamentário federal coincide rigorosamente com o ano civil, impedindo que a vigência de qualquer programa ou crédito se estenda para exercícios posteriores" (a nota adverte contra tratar o ciclo como linear e fechado no exercício).
+> **Lastro:** PDF p. 6 · [[IBAM 2025 - Mauá - AFTM#Q35]]
 
 **Nomenclatura alternativa (cobrada por sinônimo):** parte da doutrina chama as mesmas 4 fases de **elaboração → aprovação → execução → controle**; outra parte desdobra a execução em **programação financeira** + **execução propriamente dita**, chegando a 5 fases. Não há um número "oficial" na CF ou na Lei 4.320 — o examinador costuma testar se você reconhece a mesma fase sob nomes diferentes, não a contagem exata.
 
@@ -459,12 +479,22 @@ CF/88, Art. 165 §7º — <mark style="background:#fff88f">os orçamentos fiscal
 *Fonte destes tópicos (Receita e Despesa, Bloco C): Lei nº 4.320/1964, arts. 2º a 98 (PDF didático, ed. 2 colunas). Origem por página: `(Lei 4.320, p. N)`.*
 
 ### Conceitos Gerais (Orçamentária e Extraorçamentária, Afetação Patrimonial, Regularidade, Coercitividade)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1524?indice=1&materia=1486)
 
 <mark>Receita orçamentária</mark> é a que integra o total da Lei de Orçamento e se sujeita aos estágios de previsão, lançamento, arrecadação e recolhimento. Pelo art. 57, ressalvada a exceção do art. 3º, parágrafo único, classificam-se como receita orçamentária **todas as receitas arrecadadas**, sob as rubricas próprias, inclusive as provenientes de operações de crédito, **ainda que não previstas no Orçamento** (Lei 4.320, p. 22-23).
 
-**Receita extraorçamentária** é a que não integra o total da LOA: pelo art. 3º, parágrafo único, não se consideram, para fins da universalidade do orçamento, as <mark>operações de crédito por antecipação da receita (ARO)</mark>, as emissões de papel-moeda e outras entradas compensatórias no ativo e passivo financeiros (Lei 4.320, p. 5-6). São ingressos de caixa que não representam receita definitiva — por isso ficam fora do total que a LOA discrimina.
+<mark class="prova" style="background:rgba(0,170,170,0.28)">**Receita extraorçamentária** é a que não integra o total da LOA</mark>: pelo art. 3º, parágrafo único, não se consideram, para fins da universalidade do orçamento, as <mark>operações de crédito por antecipação da receita (ARO)</mark>, as emissões de papel-moeda e outras entradas compensatórias no ativo e passivo financeiros (Lei 4.320, p. 5-6). São ingressos de caixa que não representam receita definitiva — por isso ficam fora do total que a LOA discrimina.
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q39 (gab. C · preliminar)
+> **Trecho usado:** "Receita extraorçamentária é a que não integra o total da LOA"
+> **Como cobrou:** conceito — V/F sobre três itens (gab. C: I e III). É falso que "a devolução de cauções em dinheiro aos prestadores de serviços constitui um dispêndio extraorçamentário que exige prévia autorização na Lei Orçamentária Anual". São verdadeiros que os ingressos extraorçamentários "aumentam as disponibilidades financeiras do órgão público e provocam simultaneamente o aumento do passivo financeiro" e que "salários não reclamados e depósitos de terceiros" representam obrigações a restituir.
+> **Lastro:** PDF p. 7 · [[IBAM 2025 - Mauá - AFTM#Q39]]
+
+> [!tip]- Lupa de prova: Extraorçamentário: entra e sai sem a LOA
+> **O padrão:** três itens sobre ingressos e dispêndios extraorçamentários, um deles sobre devolução de caução. (padrão de 1 prova, não confirmado)
+> **A armadilha:** o item II põe uma exigência de "prévia autorização na Lei Orçamentária Anual" para algo que, por definição, fica de fora do total da LOA.
+> **Como resolver:** receita extraorçamentária é a que não integra o total da LOA; se o movimento não é orçamentário, não depende de autorização orçamentária. Depósitos de terceiros são entradas a restituir.
 
 ⚠️ Os Restos a Pagar do exercício são computados **na receita extraorçamentária**, para compensar sua inclusão na despesa orçamentária (Lei 4.320, p. 29, art. 103, parágrafo único) — o valor empenhado (despesa orçamentária) tem contrapartida na receita extraorçamentária no Balanço Financeiro, sem afetar o resultado orçamentário.
 
@@ -488,7 +518,7 @@ CF/88, Art. 165 §7º — <mark style="background:#fff88f">os orçamentos fiscal
 > - [[P1 - Direito Financeiro#- Restos a pagar]]: o mesmo Restos a Pagar aparece ali como despesa empenhada não paga; aqui, como contrapartida na receita extraorçamentária.
     
 ### Classificação por Natureza da Receita
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1487?indice=1&materia=1486)
 
 A receita se classifica em duas <mark>categorias econômicas</mark>: **Receitas Correntes** e **Receitas de Capital** (art. 11). Tributo é receita derivada, instituída pelas entidades de direito público (impostos, taxas e contribuições) — art. 9º (Lei 4.320, p. 8).
@@ -507,6 +537,12 @@ A receita se classifica em duas <mark>categorias econômicas</mark>: **Receitas 
 > § 2º São Receitas de Capital as provenientes da realização de recursos financeiros oriundos de constituição de dívidas; da conversão, em espécie, de bens e direitos; os recursos recebidos de outras pessoas de direito público ou privado, destinados a atender despesas classificáveis em Despesas de Capital e, ainda, o superávit do Orçamento Corrente.
 >
 > § 3º O superávit do Orçamento Corrente resultante do balanceamento dos totais das receitas e despesas correntes, apurado na demonstração a que se refere o Anexo nº 1, não constituirá item de receita orçamentária.
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q22 e Q34 (gab. B e D · preliminar)
+> **Trecho usado:** "§ 1º São Receitas Correntes as receitas tributária, de contribuições, patrimonial, agropecuária, industrial, de serviços e outras"
+> **Q22 — como cobrou:** troca de termo — o terceiro item diz que "as receitas tributárias são classificadas orçamentariamente como Receitas de Capital" (F). Gab. B: V, V, F, V; a base do ISS e a dívida ativa como aumento do patrimônio líquido (itens 1 e 4) a nota não trata.
+> **Q34 — como cobrou:** rol — "As Receitas Correntes incluem a receita tributária, de contribuições, patrimonial, agropecuária, industrial e de serviços, além de transferências correntes" (V); "O superávit do orçamento corrente é classificado como Receitas de Capital, embora não constitua um item da receita orçamentária prevista na LOA" (V); "As Receitas Originárias são obtidas pelo Estado em função de sua autoridade coercitiva, compreendendo os impostos e as taxas" (F). Gab. D: V, V, V, F.
+> **Lastro:** Q22: PDF p. 4 · [[IBAM 2025 - Mauá - AFTM#Q22]] · Q34: PDF p. 6 · [[IBAM 2025 - Mauá - AFTM#Q34]]
 
 > [!tip]- Lupa: por que o superávit corrente não é receita orçamentária
 > **A ideia em uma frase:** contar o superávit corrente como receita de novo seria contar duas vezes o mesmo dinheiro.
@@ -613,7 +649,7 @@ A <mark>Classificação da Receita para Apuração do Resultado Primário</mark>
 > - [[P1 - Macro Economia#- Dívida Pública, NFSP e Tipos de Déficit Público no Brasil]]: resultado primário x nominal, na ótica macroeconômica.
     
 ### Estágios da Receita Pública
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1503?indice=1&materia=1486)
 
 A receita percorre quatro estágios: <mark>previsão</mark> → <mark>lançamento</mark> → <mark>arrecadação</mark> → <mark>recolhimento</mark>.
@@ -632,6 +668,12 @@ A receita percorre quatro estágios: <mark>previsão</mark> → <mark>lançament
 > Art. 53 O lançamento da receita é ato da repartição competente, que verifica a procedência do crédito fiscal e a pessoa que lhe é devedora e inscreve o débito desta.
 >
 > Art. 56 O recolhimento de todas as receitas far-se-á em estrita observância ao princípio de unidade de tesouraria, vedada qualquer fragmentação para criação de caixas especiais.
+
+> [!warning]- Gabarito × nota
+> **Gabarito (preliminar):** IBAM 2025 · Mauá · Q32 (gab. D) tratou como verdadeiro o item I: "A L.R.F. impõe o cumprimento do princípio da unidade de tesouraria, vedando qualquer fragmentação para a criação de caixas especiais em todos os entes federados".
+> **A nota diz:** o princípio da unidade de tesouraria e a vedação de fragmentação para criar caixas especiais estão no art. 56 da Lei 4.320/1964 (parágrafo acima), não na LRF.
+> **Pendência:** a nota não registra essa regra na LRF, e nada foi reescrito. Confira se o IBAM sustentou o item por outra base ou se o gabarito definitivo muda.
+> **Lastro:** PDF p. 6 · [[IBAM 2025 - Mauá - AFTM#Q32]]
 
 > [!tip]- Lupa: os 4 estágios, na ordem
 > **A ideia em uma frase:** primeiro se estima quanto vai entrar, depois se identifica quem deve, depois o dinheiro entra no caixa, depois esse dinheiro é centralizado.
@@ -724,6 +766,16 @@ A despesa percorre: <mark>fixação</mark> (na LOA) → <mark>empenho</mark> →
 >
 > Art. 63 A liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito.
 
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q33 (gab. A · preliminar)
+> **Trecho usado:** "Art. 63 A liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo por base os títulos e documentos comprobatórios do respectivo crédito."
+> **Como cobrou:** literalidade — "Qual estágio da despesa orçamentária pública consiste na verificação do direito adquirido pelo credor com base em documentos comprobatórios?" A certa é "(A) Liquidação"; as outras são Pagamento, Empenho e Fixação.
+> **Lastro:** PDF p. 6 · [[IBAM 2025 - Mauá - AFTM#Q33]]
+
+> [!tip]- Lupa de prova: Estágios da despesa pela definição
+> **O padrão:** dá a definição de um estágio e pede o nome. (padrão de 1 prova, não confirmado)
+> **A armadilha:** Empenho e Pagamento são os vizinhos que soam certos: um é a reserva que obriga, o outro é a saída do dinheiro.
+> **Como resolver:** a nota ordena os estágios: fixação, empenho (reserva), liquidação (confere o direito do credor com documentos), pagamento (só depois de liquidado).
+
 > [!tip]- Lupa: os 4 estágios da despesa, o que cada um verifica
 > **A ideia em uma frase:** primeiro se reserva o dinheiro (empenho), depois se confere que o credor tem direito a ele (liquidação), só depois se paga.
 >
@@ -771,11 +823,21 @@ As <mark>Despesas de Exercícios Encerrados (DEA)</mark> são as despesas para a
 > - [[P1 - Direito Financeiro#- Restos a pagar]]: o lado "já empenhado" dessa mesma distinção.
 > - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: o art. 42 da LRF (vedação de deixar obrigação sem caixa no fim do mandato) trata do mesmo risco que gera DEA.
 ## - Restos a pagar
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 
 *Fonte: Lei nº 4.320/1964, arts. 36, 38 e 92 (dívida flutuante) e 98 (dívida fundada). Origem: `(Lei 4.320, p. N)`.*
 
-Consideram-se <mark>Restos a Pagar</mark> as despesas **empenhadas mas não pagas até 31 de dezembro**, distinguindo-se as **processadas** (já liquidadas) das **não processadas** (ainda não liquidadas) (art. 36) (Lei 4.320, p. 15). Os empenhos de créditos com **vigência plurienal** que não tenham sido liquidados só entram em Restos a Pagar **no último ano de vigência do crédito** (art. 36, parágrafo único).
+Consideram-se <mark>Restos a Pagar</mark> as despesas **empenhadas mas não pagas até 31 de dezembro**, <mark class="prova" style="background:rgba(0,170,170,0.28)">distinguindo-se as **processadas** (já liquidadas) das **não processadas** (ainda não liquidadas)</mark> (art. 36) (Lei 4.320, p. 15). Os empenhos de créditos com **vigência plurienal** que não tenham sido liquidados só entram em Restos a Pagar **no último ano de vigência do crédito** (art. 36, parágrafo único).
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q21 (gab. C · preliminar)
+> **Trecho usado:** "distinguindo-se as processadas (já liquidadas) das não processadas (ainda não liquidadas) (art. 36)"
+> **Como cobrou:** troca de termo — V/F com quatro itens (gab. C: V, F, F, V). O item 3 diz que restos a pagar não processados são "aquelas que já foram liquidadas e cujos bens ou serviços foram recebidos pela administração" (F). O item 1 (inscrição para "despesas que possuem empenho vigente mas não foram quitadas financeiramente") é o verdadeiro. Os itens 2 e 4 (variações ativas orçamentárias; Ativo e Passivo Compensados) a nota não trata.
+> **Lastro:** PDF p. 4 · [[IBAM 2025 - Mauá - AFTM#Q21]]
+
+> [!tip]- Lupa de prova: Restos a pagar: processados × não processados
+> **O padrão:** V/F de quatro itens que mistura inscrição, contabilização e controle de restos a pagar. (padrão de 1 prova, não confirmado)
+> **A armadilha:** o item 3 troca os rótulos: chama de "não processados" as despesas já liquidadas, que são as processadas.
+> **Como resolver:** restos a pagar são as despesas empenhadas e não pagas até 31/12; processadas já foram liquidadas, não processadas ainda não foram (art. 36 da Lei 4.320). Em dúvida, pergunte se o bem ou serviço já foi conferido.
 
 Se a despesa empenhada for **anulada no próprio exercício**, o valor reverte à dotação; se a anulação ocorrer **após o encerramento** do exercício, o valor vira **receita** do exercício em que a anulação se efetivar (art. 38) — ⚠️ mas o MCASP frisa que os recursos de **cancelamento de Restos a Pagar não devem ser reconhecidos como receita orçamentária** (nota do próprio PDF, p. 16).
 
@@ -838,7 +900,7 @@ O regime de <mark>adiantamento</mark> — conhecido como <mark>suprimento de fun
 # Bloco D:
 
 ## Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1522?indice=1&materia=1521)
 
 (https://www.borarevisar.com.br/lei-seca/lrf-lc101)
@@ -891,7 +953,7 @@ O regime de <mark>adiantamento</mark> — conhecido como <mark>suprimento de fun
 
 **LDO na LRF (art. 4º)** (LC 101 Guruja, p. 3–4) — 3 questões listadas no PDF
 
-- A LDO atende o §2º do art. 165 da CF e **dispõe também** sobre: equilíbrio entre receitas e despesas; critérios e forma de <mark>limitação de empenho</mark>; controle de custos e avaliação dos resultados dos programas; condições para transferências a entidades públicas e privadas. (Alíneas "c" e "d" e incisos II e III: vetados.)
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">A LDO atende o §2º do art. 165 da CF e **dispõe também** sobre</mark>: equilíbrio entre receitas e despesas; critérios e forma de <mark>limitação de empenho</mark>; controle de custos e avaliação dos resultados dos programas; condições para transferências a entidades públicas e privadas. (Alíneas "c" e "d" e incisos II e III: vetados.)
 - §1º: <mark>Anexo de Metas Fiscais</mark>, com metas anuais, em valores correntes e constantes, de receitas, despesas, resultados nominal e primário e montante da dívida, **para o exercício e os dois seguintes**.
 - §2º: o Anexo contém ainda (I) avaliação do cumprimento das metas do ano anterior; (II) demonstrativo das metas comparado aos **três exercícios anteriores**; (III) evolução do patrimônio líquido nos últimos três exercícios, com origem e aplicação dos recursos da alienação de ativos; (IV) avaliação da situação financeira e atuarial do RGPS, do RPPS, do FAT e dos demais fundos e programas de natureza atuarial; (V) demonstrativo da renúncia de receita e da margem de expansão das despesas obrigatórias de caráter continuado; (VI) quadro do cálculo da meta de resultado primário (2023).
 - §4º: a mensagem da União traz anexo com objetivos das políticas monetária, creditícia e cambial, parâmetros e projeções e metas de inflação.
@@ -902,6 +964,11 @@ O regime de <mark>adiantamento</mark> — conhecido como <mark>suprimento de fun
 > IV - os intervalos de tolerância para verificação do cumprimento das metas anuais de resultado primário, convertido em valores correntes, de menos 0,25 p.p. (vinte e cinco centésimos ponto percentual) e de mais 0,25 p.p. (vinte e cinco centésimos ponto percentual) do PIB previsto no respectivo projeto de lei de diretrizes orçamentárias;
 >
 > § 7.º A lei de diretrizes orçamentárias não poderá dispor sobre a exclusão de quaisquer despesas primárias da apuração da meta de resultado primário dos orçamentos fiscal e da seguridade social.
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q29 (gab. A · preliminar)
+> **Trecho usado:** "A LDO atende o §2º do art. 165 da CF e dispõe também sobre"
+> **Como cobrou:** conceito — a certa é "(A) Dispor sobre as alterações na legislação tributária e estabelecer a política de aplicação das agências financeiras oficiais de fomento para o exercício subsequente". A nota remete ao §2º do art. 165 e lista o que a LRF acrescenta, mas não o conteúdo do §2º.
+> **Lastro:** PDF p. 5 · [[IBAM 2025 - Mauá - AFTM#Q29]]
 
 **LOA na LRF (art. 5º) e Banco Central (art. 7º)** (LC 101 Guruja, p. 4–6) — 3 questões listadas no PDF
 
@@ -1101,7 +1168,7 @@ Repartição do limite global (art. 20), em % da RCL:
 - §1º: <mark>dispensa-se</mark> a compensação do art. 17 no aumento decorrente de (I) concessão a quem preencha as condições legais, (II) expansão quantitativa do atendimento e dos serviços, (III) reajuste para preservar o valor real. §2º: vale para saúde, previdência e assistência social, inclusive de servidores e militares, ativos e inativos, e pensionistas.
 
 ## Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 *Fonte deste bloco: LC 101/2000 comentada (Guruja), arts. 25 a 75, texto atualizado até as LC 212 e 224/2025. Origem por página: `(LC 101 Guruja, p. N)`.*
 
@@ -1240,6 +1307,11 @@ Repartição do limite global (art. 20), em % da RCL:
 >
 > Art. 54. Ao final de cada quadrimestre será emitido pelos titulares dos Poderes e órgãos referidos no art. 20 Relatório de Gestão Fiscal, assinado pelo:
 
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q32 (gab. D · preliminar)
+> **Trecho usado:** "Art. 54. Ao final de cada quadrimestre será emitido pelos titulares dos Poderes e órgãos referidos no art. 20 Relatório de Gestão Fiscal"
+> **Como cobrou:** literalidade — o item II, tido como verdadeiro: "O Relatório de Gestão Fiscal (R.G.F.) deve ser emitido ao final de cada quadrimestre pelos titulares dos poderes e órgãos, contendo o comparativo com os limites de gastos com pessoal". Gab. D: I e II; o item I está em conflito (ver o aviso em "Estágios da Receita Pública").
+> **Lastro:** PDF p. 6 · [[IBAM 2025 - Mauá - AFTM#Q32]]
+
 > [!tip]- Lupa: RREO × RGF, o quadro em que a banca troca os termos
 > **A ideia em uma frase:** o RREO acompanha a execução do orçamento, todo bimestre; o RGF acompanha os limites da LRF, todo quadrimestre.
 >
@@ -1339,7 +1411,7 @@ O <mark>Manual de Demonstrativos Fiscais (MDF)</mark> é publicação da **Secre
 > - [[P1 - Direito Financeiro#- Dos orçamentos na CF 88 (Art. 163 ao Art. 169 da CF 88)]]: o art. 164, §3º, CF (caixa único) já aparece ali detalhado ao lado dos demais parágrafos do art. 164.
 
 ## - Outros aspectos da lei 4.320
-- [ ] status [dom:: 1] [peso:: 2]
+- [ ] status [dom:: 1] [peso:: 2] [prova:: 1]
 
 Fecha o que ainda não foi coberto do **Título VIII — Da Contabilidade** (arts. 83 a 106) da Lei nº 4.320/1964, já que Receita, Despesa, Créditos Adicionais, Fundos e Restos a Pagar estão detalhados em headings próprios acima.
 
@@ -1356,6 +1428,11 @@ Fecha o que ainda não foi coberto do **Título VIII — Da Contabilidade** (art
 | **Financeiro** | art. 103 | ingressos e dispêndios orçamentários e extraorçamentários, evidenciando os Restos a Pagar |
 | **Patrimonial** | art. 105 | ativo, passivo, saldo patrimonial e contas de compensação |
 | **Demonstração das Variações Patrimoniais** | art. 104 | variações do patrimônio decorrentes da execução orçamentária e de fatos não orçamentários, e o resultado patrimonial do exercício |
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q26 (gab. A · preliminar)
+> **Trecho usado:** "Patrimonial | art. 105 | ativo, passivo, saldo patrimonial e contas de compensação"
+> **Como cobrou:** conceito — a certa é "(A) O Ativo Financeiro compreenderá os créditos e valores realizáveis independentemente de autorização orçamentária e os valores numéricos em caixa ou bancos". A nota só cita o art. 105 no quadro; a definição de Ativo Financeiro não está nela.
+> **Lastro:** PDF p. 5 · [[IBAM 2025 - Mauá - AFTM#Q26]]
 
 > [!info]- Ponte
 > - [[P1 - Direito Financeiro#- Restos a pagar]]: o Restos a Pagar aparece no Balanço Financeiro (art. 103) como o elo entre a despesa empenhada e o que efetivamente já foi pago.

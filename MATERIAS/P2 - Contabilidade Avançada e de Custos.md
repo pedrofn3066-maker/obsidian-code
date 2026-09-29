@@ -1802,7 +1802,7 @@ O pagamento pode se limitar à parcela do lucro líquido já **realizada**, desd
 # Bloco E:
 
 ## - Apresentação das Demonstrações Contábeis (CPC 26);
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 
 **DEMONSTRATIVOS CONTÁBEIS OBRIGATÓRIOS:**
@@ -1843,6 +1843,11 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 - **Ciclo operacional:** tempo entre a aquisição de ativos para processamento e sua realização em caixa ou equivalentes. Se não for claramente identificável, **presume-se 12 meses**.
 - **Quebra de covenant** (cláusula contratual de dívida): a exigibilidade continua **Circulante** mesmo que o credor tenha concordado, **após** a data do balanço, em não exigir pagamento antecipado. Só vira **Não Circulante** se o credor tiver concordado, **até** a data do balanço, em dar dilação de prazo que termine pelo menos 12 meses após a data do balanço.
 - **Notas Explicativas** devem: apresentar a base de elaboração das DC's e as políticas contábeis específicas usadas; divulgar informação exigida pelos Pronunciamentos que não tenha sido apresentada nas DC's; e prover informação adicional relevante para a compreensão das DC's, mesmo que não exigida.
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q36 (gab. B · preliminar)
+> **Trecho usado:** "Notas Explicativas devem: apresentar a base de elaboração das DC's e as políticas contábeis específicas usadas"
+> **Como cobrou:** conceito — V/F sobre BP, DRE, DVA e Notas Explicativas (gab. B: V, F, V, F). Um dos itens diz que as Notas Explicativas "são facultativas para as companhias abertas, servindo para descrever o currículo dos administradores e os planos de marketing" (F). A nota não confere os itens de BP, DRE e DVA.
+> **Lastro:** PDF p. 6 · [[IBAM 2025 - Mauá - AFTM#Q36]]
 
 ## - Balanço Patrimonial;
 - [ ] status [dom:: 3.5] [peso:: 3]

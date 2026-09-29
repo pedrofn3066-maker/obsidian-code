@@ -56,7 +56,7 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 
 # Bloco A
 ## - Juros Simples e Compostos;
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 **1. ANÁLISE DOS TÓPICOS**
 
@@ -135,6 +135,11 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 - M=C.(1+i)nM=C.(1+i)n
 - M=C+JM=C+J
 - J=C.[(1+i)n−1]J=C.[(1+i)n−1]
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q14 (gab. D · preliminar)
+> **Trecho usado:** "M=C.(1+i)n - Fórmula do montante no regime de capitalização composta"
+> **Como cobrou:** cálculo — "R$ 25.000,00 em um fundo que rende juros compostos à taxa de 1,6% ao ano, com capitalização anual… valor futuro desse investimento ao final [de 2 anos]". A certa é "(D) R$ 25.806,40" (25.000 × 1,016²).
+> **Lastro:** PDF p. 3 · [[IBAM 2025 - Mauá - AFTM#Q14]]
 
 Onde: 
 

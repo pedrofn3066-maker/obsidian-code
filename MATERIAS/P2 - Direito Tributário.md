@@ -852,7 +852,7 @@ Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?ind
 ## Obrigação Tributária.
 
 ### Fato Gerador (arts. 114 a 118 do CTN)
-- [x] status [dom:: 0] [peso:: 3] [prova:: 1] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] [prova:: 2] ✅ 2026-09-14
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?indice=1&materia=592)
 
 > Art. 114. Fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência.
@@ -874,6 +874,16 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?ind
 | Objeto | pagamento de **tributo ou penalidade pecuniária** (multa) | prestações **positivas** (fazer) ou **negativas** (não fazer) |
 | Fato gerador | situação definida em **lei**, necessária e suficiente | situação definida na **legislação** (sentido amplo) que impõe prática ou abstenção de ato que não seja pagamento |
 | Surgimento / extinção | nasce com o fato gerador; extingue-se com o crédito | finalidade: auxiliar arrecadação e fiscalização |
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q22 (gab. B · preliminar)
+> **Trecho usado:** "Objeto | pagamento de tributo ou penalidade pecuniária (multa) | prestações positivas (fazer) ou negativas (não fazer)"
+> **Como cobrou:** conceito — segundo item, tido como verdadeiro: "A obrigação tributária acessória tem por objeto prestações positivas ou negativas no interesse da arrecadação ou da fiscalização dos tributos".
+> **Lastro:** PDF p. 4 · [[IBAM 2025 - Mauá - AFTM#Q22]]
+
+> [!tip]- Lupa de prova: Obrigação principal × acessória
+> **O padrão:** as duas provas de IBAM absorvidas cobram a distinção do art. 113: a Bragança (Q33) na alternativa incorreta e a Mauá (Q22) como item verdadeiro. (padrão de 2 provas da mesma banca)
+> **A armadilha:** a Bragança Q33 (C) inverte: "não pode aplicar multas por descumprimento de obrigação acessória". A Mauá Q22 (2) é a versão correta da mesma ideia.
+> **Como resolver:** principal: pagar tributo ou penalidade pecuniária; acessória: prestação positiva ou negativa no interesse da arrecadação ou fiscalização; descumprir a acessória converte-a em principal quanto à multa (art. 113, § 3º).
 
 **Hipótese de incidência** = previsão abstrata na lei; **fato gerador** = concretização no mundo real. **Art. 116** (parágrafo único, norma antielisão): a autoridade pode desconsiderar atos ou negócios praticados para **ocultar a natureza real** da obrigação; interpretação econômica; os procedimentos exigem **lei ordinária**. ⚠️ Apesar do nome, mira a **elusão**, não a elisão.
 

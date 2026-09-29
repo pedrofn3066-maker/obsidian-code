@@ -56,7 +56,7 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 **Bloco A**
 
 ### - Lógica de Proposição e Lógica de Argumentação.
-- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 2]
 
 **1.4 Sentenças Abertas e Fechadas**
 
@@ -72,6 +72,11 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 |V|F|F|F|V|F|F|V|
 |F|V|V|F|V|V|F|V|
 |F|F|V|F|F|V|V|F|
+
+> [!example]- Prova anterior: IBAM 2025 · Mauá · Q13 (gab. A · preliminar)
+> **Trecho usado:** "Tabela Verdade: p, q, ~p, p ^ q, p v q, p ➜ q, p ⇿ q"
+> **Como cobrou:** conceito — quatro afirmações sobre quando cada proposição composta é falsa ou verdadeira, com p = "O sistema foi atualizado" e q = "O relatório foi validado". Gab. A: V, F, V, V. Por exemplo, "A proposição p → q é falsa quando p é verdadeira e q é falsa" (V).
+> **Lastro:** PDF p. 3 · [[IBAM 2025 - Mauá - AFTM#Q13]]
 
 <mark>Número de linhas da tabela verdade = 2ⁿ</mark>, onde n é a quantidade de proposições simples **diferentes** (não importa se se repetem na fórmula).
 

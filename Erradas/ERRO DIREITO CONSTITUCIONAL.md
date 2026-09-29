@@ -340,7 +340,7 @@ _[...]_
 > > [[P1 - Direito Constitucional#Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)]] (taxas/contribuição de melhoria) + [[P2 - Direito Tributário]]:3580 (ganho de capital como provento, só na venda) — ambos já no cofre; não precisei regrifar.
 > > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:1852` e `MATERIAS/P2 - Direito Tributário.md:3580`
 >
-> **Prova anterior (29/09 · 1 prova absorvida):** ✅ Condiz — a IBAM 2026 Bragança Q20 e Q32 cobraram a base de cálculo da taxa pela SV 29, e a Q32 (item 8), a contribuição de melhoria · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]]
+> **Prova anterior (29/09 · 2 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q20 e Q32 cobraram a base de cálculo da taxa pela SV 29, e a Q32 (item 8), a contribuição de melhoria · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Auditor Fiscal Municipal, Pref Caruaru 2023) — Limitações ao poder de tributar: legalidade, confisco, pedágio, anterioridade
 > Com relação aos limites ao poder de tributar, assinale a alternativa correta:
@@ -377,7 +377,7 @@ _[...]_
 > > [[P1 - Direito Constitucional#Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)]] — a tabela "mapa da repartição" já cobre exatamente os percentuais de ICMS (25%/65% VAF/35% lei estadual) e IPVA (50%, por licenciamento); não precisei regrifar.
 > > **Fonte:** TEC (comentário da questão) · cofre `MATERIAS/P1 - Direito Constitucional.md:2037` (ICMS) e `:2044` (art. 157, I)
 >
-> **Prova anterior (29/09 · 1 prova absorvida):** 🔶 Mesmo heading (repartição), outro ângulo — a IBAM 2026 Bragança Q30 (gab. A) cobrou o Imposto Seletivo no FPM e no FPE (art. 159, I); este cobra IR retido e ICMS · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q30]]
+> **Prova anterior (29/09 · 2 provas absorvidas):** 🔶 Mesmo heading (repartição), outro ângulo — a IBAM 2026 Bragança Q30 (gab. A) cobrou o Imposto Seletivo no FPM e no FPE (art. 159, I); este cobra IR retido e ICMS · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q30]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · Direito Constitucional · IBAM (Procurador Jurídico I, Pref Piraí 2019) — Emenda parlamentar a projeto de iniciativa exclusiva do Executivo (orçamento)
 > Em virtude de fortes chuvas, certo Município concedeu aluguel social aos moradores em risco de deslizamento. Após quase um ano, o Chefe do Executivo apresentou projeto de lei para revogar o benefício, mas foi aposta emenda parlamentar para mantê-lo por mais um ano. A respeito, é correto afirmar:
