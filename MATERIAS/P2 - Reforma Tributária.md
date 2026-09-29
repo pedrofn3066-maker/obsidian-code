@@ -190,11 +190,16 @@ Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma int
 ## EC nº 132/2023 (geral)
 
 ### Princípios gerais do Sistema Tributário e LC (arts. 145 e 146)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 5–6.*
 
 **Art. 145, § 3º:** o Sistema Tributário Nacional observa os princípios da <mark style="background:#fff88f">simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente</mark>. Bizú do resumo: *STJ Coopera para a Defesa do Meio Ambiente*.
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q2 (gab. C · oficial)
+> **Trecho usado:** "Art. 145, § 3º: o Sistema Tributário Nacional observa os princípios da simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente"
+> **Como cobrou:** literalidade — "Além de simplicidade, transparência e justiça tributária, são eles:". A certa é "(C) cooperação e defesa do meio ambiente"; as erradas trocam por "capacidade contributiva", "anterioridade nonagesimal", "eficiência tributária" e "legalidade".
+> **Lastro:** PDF p. 3 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q2]]
 
 ⚠️ O princípio da <mark style="background:#fff88f">neutralidade</mark> não está no rol do § 3º: é do IBS (art. 156-A, § 1º).
 
@@ -334,7 +339,7 @@ Sem prejuízo da progressividade no tempo (art. 182, § 4º, II), o IPTU pode:
 > II – Ter alíquotas diferentes de acordo com a localização e o uso do imóvel; (Incluído por Emenda Constitucional nº 29 de 13/09/2000) III – Ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos em lei municipal. (Incluído por Emenda Constitucional nº 132 de 20/12/2023)
 
 ### Repartição das receitas tributárias (arts. 158 a 162)
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 23–28.*
 
@@ -346,6 +351,17 @@ Sem prejuízo da progressividade no tempo (art. 182, § 4º, II), o IPTU pode:
 | II | <mark style="background:#fff88f">50%</mark> do ITR dos imóveis neles situados (totalidade se optarem por fiscalizar e cobrar, art. 153, § 4º, III) |
 | III | <mark style="background:#fff88f">50%</mark> do IPVA dos veículos licenciados em seus territórios (aquáticos e aéreos: proprietários domiciliados neles) |
 | IV | <mark style="background:#fff88f">25%</mark> (a) do ICMS; (b) do IBS distribuído aos Estados |
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q6 (gab. D · oficial)
+> **Trecho usado:** "IV | 25% (a) do ICMS; (b) do IBS distribuído aos Estados"
+> **Como cobrou:** rol — "pertencem aos Municípios as receitas de arrecadação de": a certa é "(D) 25% do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de mercadorias" (ICMS). A "(A)" diz 25% do IPVA (é 50%); a "(B)", 50% do imposto seletivo; a "(C)", 35% do IBS.
+> **Lastro:** PDF p. 4 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q6]]
+> **Ponte:** [[ERRO DIREITO CONSTITUCIONAL]] guarda o seu erro de 25/09 (Saquarema 2023) sobre o mesmo art. 158.
+
+> [!tip]- Lupa de prova: Art. 158: os percentuais trocados entre tributos
+> **O padrão:** cobra o percentual de cada tributo que cabe ao Município; o heading já foi cobrado em 2 provas (Bragança Q30, Arraial Q6). (padrão de 2 provas da mesma banca)
+> **A armadilha:** a "(A)" põe o percentual do ICMS (25%) no IPVA, que é 50%; a "(B)" e a "(C)" inventam 50% do imposto seletivo e 35% do IBS.
+> **Como resolver:** o quadro do art. 158 na nota: ITR 50%, IPVA 50% (veículos licenciados no território), ICMS 25% e IBS 25% do que é distribuído aos Estados.
 
 - § 1º, critérios do ICMS (IV, "a"): (I) <mark style="background:#fff88f">65%, no mínimo,</mark> pelo valor adicionado nas operações e prestações realizadas no território; (II) até <mark style="background:#fff88f">35%</mark> conforme lei estadual, obrigatoriamente com no mínimo <mark style="background:#fff88f">10 pontos percentuais</mark> por indicadores de melhoria nos resultados de aprendizagem e aumento da equidade, considerado o nível socioeconômico dos educandos.
 - § 2º, critérios do IBS (IV, "b") — IMPORTANTE no resumo:
@@ -525,7 +541,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 **d) entrega.**  #flashcard 
 
 ## Hipóteses de incidência: operação onerosa (art. 4º)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 > [!info]- Sinalização do PDF
 > No resumo VINTEUM, os dispositivos alterados pela LC 227/26 aparecem em verde; esta nota não reproduz essa marcação dispositivo a dispositivo, conferir no PDF.
@@ -535,6 +551,11 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 - **Irrelevantes** para caracterizar a operação (§3º, IMPORTANTE): o título jurídico pelo qual o bem está na posse do fornecedor; a espécie, tipo ou forma jurídica, a validade jurídica e os efeitos dos atos ou negócios; a obtenção de lucro; o cumprimento de exigências legais, regulamentares ou administrativas. *(Resumo LC 214 Tít. I, p. 9)*
 - §4º: incidem sobre <mark>qualquer operação</mark> do contribuinte, inclusive com **ativo não circulante** ou em **atividade econômica não habitual**. *(Resumo LC 214 Tít. I, p. 9)*
 - §5º: a incidência <mark>não altera a base de cálculo</mark> do ITCD nem do ITBI. §6º: a aquisição e o fornecimento, por PF contribuinte, de bens e serviços **não relacionados à sua atividade econômica** seguem as regras aplicáveis aos não contribuintes. *(Resumo LC 214 Tít. I, p. 9–10)*
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q11 (gab. C · oficial)
+> **Trecho usado:** "Operação onerosa (§2º): qualquer fornecimento com contraprestação, inclusive compra e venda, troca ou permuta, dação em pagamento e demais alienações; locação"
+> **Como cobrou:** conceito — pede a incorreta: "(C) o IBS e a CBS não incidem, em hipótese alguma, sobre a locação de bens". As demais (neutralidade; operações onerosas; "qualquer operação… incluindo aquelas realizadas com ativo não circulante ou no exercício de atividade econômica não habitual") estão certas.
+> **Lastro:** PDF p. 4 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q11]]
 
 
 ## Fornecimento não oneroso e partes relacionadas (art. 5º)

@@ -89,7 +89,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > **Revisão Ativa:** certidão negativa: prazo para fornecer e termos do pedido :: 10 dias, nos termos em que requerida (art. 205, p.u.)
 > **Por que a D erra:** art. 208 do CTN — a certidão negativa com dolo ou fraude responsabiliza pessoalmente <mark>o funcionário que a expedir</mark>, não a pessoa física que a solicitou. A alternativa (C) veio cortada na captura.
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** 🔶 Mesmo heading (Certidão Negativa), outro dispositivo — a IBAM 2026 Bragança Q40 (gab. D) cobrou a CPEN do art. 206; este cobra o art. 205, parágrafo único (10 dias) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesmo heading (Certidão Negativa), outro dispositivo — a IBAM 2026 Bragança Q40 (gab. D) cobrou a CPEN do art. 206; este cobra o art. 205, parágrafo único (10 dias) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]]
 
 ---
 
@@ -109,7 +109,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1382`
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q40 (gab. D) cobrou que crédito com exigibilidade suspensa não impede a certidão (art. 206, CPEN), na alternativa (A), que é a errada · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q40 (gab. D) cobrou que crédito com exigibilidade suspensa não impede a certidão (art. 206, CPEN), na alternativa (A), que é a errada · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]]
 
 > [!question]- 20/09 15:52 · Direito Tributário · IBAM (ISS Guarulhos) — Responsabilidade tributária
 > O CTN define responsável tributário como aquele que, sem revestir a condição de contribuinte, tenha sua obrigação decorrente de disposição expressa de lei. Analise as afirmações e assinale a alternativa correta.
@@ -132,7 +132,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:759` (só cobre o art. 128) · classificação substituição × transferência e item II (adquirente de boa-fé): sem fonte confirmada
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** ⚪ Não aparece como regra decisiva nas 2 provas absorvidas; a Q34 cobra a responsabilidade do tomador no ISS (art. 6º da LC 116), outro dispositivo · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** ⚪ Não aparece como regra decisiva nas 3 provas absorvidas; a Q34 cobra a responsabilidade do tomador no ISS (art. 6º da LC 116), outro dispositivo; a Arraial Q3 usa os arts. 133 e 135 só nas alternativas (C) e (D) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
 
 > [!question]- 20/09 15:53 · Direito Tributário · IBAM (ISS Guarulhos) — Crédito tributário
 > De acordo com a legislação tributária, o crédito tributário é constituído mediante lançamento, ressalvadas as hipóteses reconhecidas pela jurisprudência. Analise as afirmativas e assinale a alternativa correta.
@@ -171,7 +171,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1971`, `:2001`, `:2138`, `:2140`
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** ⚪ Não é regra decisiva nas 2 provas absorvidas; a Bragança Q37 só cita inscrição em Dívida Ativa e CDA na alternativa (D), e a Mauá Q22 só a cita como afirmação (item 4) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q37]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** ⚪ Não é regra decisiva nas 3 provas absorvidas; a Bragança Q37 só cita inscrição em Dívida Ativa e CDA na alternativa (D), e a Mauá Q22 só a cita como afirmação (item 4) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q37]]
 
 > [!question]- 20/09 20:45 · Direito Tributário · FCC (SEFAZ SP 2026) — Moratória e isenção heterônomas
 > É prerrogativa das pessoas jurídicas de direito público interno conceder isenções e moratória. À luz do CTN e da CF, a União:
@@ -190,6 +190,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > **Pegadinha:** a banca alterna "geral/individual" e "isenção/moratória" nas alternativas; só a combinação *sem isenção + moratória geral* fecha.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:961-966`, `:322`
+>
+> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesmo heading (exclusão do crédito), outro ângulo — a IBAM 2025 Arraial do Cabo Q8 (gab. B) cobrou a isenção como causa de exclusão do crédito, entre suspensão e extinção; este cobra a heteronomia da isenção e da moratória · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q8]]
 
 > [!question]- 20/09 20:48 · Direito Tributário · IBAM (Fiscal de Tributos, Pref. C. de Macacu 2024) — Parcelamento
 > No que se refere ao parcelamento do crédito tributário é correto afirmar que:
@@ -210,7 +212,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** (sem fonte confirmada): o art. 155-A do CTN não está no cofre (só o parcelamento do Simples, `MATERIAS/P2 - Direito Tributário.md:2415-2432`) e o Planalto não abriu na checagem. A leitura do art. 155-A vem da anotação do Pedro e da memória do CTN.
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** 🔶 Mesmo assunto, outro ângulo — a IBAM 2026 Bragança Q35 (gab. C) cobrou o parcelamento como causa de suspensão da exigibilidade (item 4); este cobra o requerimento e o reconhecimento da dívida · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q35]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesmo assunto, outro ângulo — a IBAM 2026 Bragança Q35 (gab. C) cobrou o parcelamento como causa de suspensão da exigibilidade (item 4); este cobra o requerimento e o reconhecimento da dívida · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q35]]
 
 > [!question]- 20/09 20:50 · Direito Tributário · FCC (AFRE SEFAZ SP 2026, #3846928) — Consulta e art. 161, §2º: juros de mora, garantia e atualização monetária
 > Independentemente das regras adotadas a respeito de consulta em matéria tributária, por cada uma das pessoas jurídicas de direito público interno brasileiras, o CTN estabelece que, na pendência de consulta sobre o crédito tributário, NÃO:
@@ -352,6 +354,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > **Por que D erra:** o §4º diz "para nenhum efeito legal", então nem benefícios não tributários sobram.
 > >
 > > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 3º §4º X · cofre `MATERIAS/P2 - Direito Tributário.md:1907` e `:1915` (vedações e transporte)
+>
+> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesma norma, outro dispositivo — a IBAM 2025 Arraial do Cabo Q18 (gab. D) cobrou a vedação do art. 17, XII, da LC 123 (assessoria creditícia e gestão de crédito); este cobra a vedação por forma de constituição (S/A) e a exceção do fretamento contínuo · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q18]]
 
 > [!question]- 21/09 15:57 · Direito Tributário · FCC (Pref Barueri 2026, #3906950) — O que o DAS não exclui
 > O recolhimento por documento único não exclui a incidência de outros impostos e contribuições devidos como contribuinte ou responsável, aplicando-se a legislação das demais pessoas jurídicas. Observar-se-á a legislação aplicável às demais PJ em relação a:
@@ -537,7 +541,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:190` e `:252` (COSIP) · cofre `MATERIAS/P2 - Reforma Tributária.md:240` (art. 149-A) · cofre `wiki/concepts/Sumulas Vinculantes - Direito Tributario.md:42` (SV 41). O RE 573.675 vem do comentário do professor, sem trecho no cofre (conferir em stf.jus.br).
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** ⚪ Não é regra decisiva nas 2 provas absorvidas; a COSIP só aparece como alternativa (A) da Q20, com natureza tributária e cobrança na fatura de energia · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** ⚪ Não é regra decisiva nas 3 provas absorvidas; a COSIP só aparece como alternativa (A) da Q20, com natureza tributária e cobrança na fatura de energia · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]]
 
 ### 22/09
 
@@ -577,7 +581,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P2 - Direito Tributário#Taxas (arts. 77 a 80)|Direito Tributário › Taxas]] — **grifado agora:** art. 79, I, "b" (núcleo da utilização potencial), II ("destacados em unidades autônomas") e III ("utilização, separadamente, por parte de cada um").
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:216`
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q32 (gab. A) cobrou o serviço "específico e divisível" nos itens (2) e (16) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q32 (gab. A) cobrou o serviço "específico e divisível" nos itens (2) e (16) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]]
 
 > [!question]- 22/09 13:48 · Direito Tributário · VUNESP (ISS São Paulo 2023) — Contribuições sociais e CIDE: art. 149, §2º, CF
 > TEC #2635863. Segundo o regramento constitucional, no que se refere às contribuições sociais e de intervenção no domínio econômico, é correto afirmar que
@@ -703,6 +707,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [!info] 🔗 Na matéria
 > > [[P2 - Direito Tributário#1. Introdução ao Imposto Predial e Territorial Urbano - IPTU|Direito Tributário › IPTU]] — **grifado agora:** Súmula STJ 626 ("não está condicionada à existência dos melhoramentos").
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:3257` e `:3269` · internet CTN art. 32, §2º — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+>
+> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesmo heading (IPTU), outro ângulo — a IBAM 2025 Arraial do Cabo Q12 (gab. A) cobrou a base de cálculo (valor venal); este cobra a zona urbana e a área de expansão (art. 32, §§ 1º e 2º, e Súmula 626) · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q12]]
 
 > [!question]- 22/09 13:55 · Direito Tributário · VUNESP (ISS São Paulo 2023) — ISS nas súmulas do STF e do STJ
 > TEC #2635915. Tendo por base os enunciados das Cortes Superiores, no que concerne ao Imposto Sobre Serviços de Qualquer Natureza (ISS), assinale a alternativa correta.
@@ -740,7 +746,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P2 - Direito Tributário#2. Imposto sobre Serviços - ISS|Direito Tributário › ISS]] — o cofre tem agenciamento × fornecimento (linha 3366) e o leasing no STF (linha 3277), mas **nenhuma das cinco súmulas** (nada a grifar).
 > > **Fonte:** internet súmulas 588 STF e 138, 167, 274, 524 STJ — https://scon.stj.jus.br/SCON/sumstj/ · https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** 🔶 Mesmo heading (ISS), outro ângulo — a IBAM 2026 Bragança Q34 (gab. D) cobrou a responsabilidade do tomador e o lançamento por homologação; este cobra incidência e base de cálculo pelas súmulas · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesmo heading (ISS), outro ângulo — a IBAM 2026 Bragança Q34 (gab. D) cobrou a responsabilidade do tomador e o lançamento por homologação; este cobra incidência e base de cálculo pelas súmulas · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
 
 > [!question]- 22/09 13:56 · Direito Tributário · VUNESP (ISS São Paulo 2023) — ITBI na consolidação da propriedade fiduciária
 > TEC #2635884. Acerca do imposto sobre a transmissão onerosa de bens imóveis (ITBI), ocorrendo a consolidação da propriedade em razão do inadimplemento do devedor fiduciante, é correto afirmar, com base na jurisprudência do STJ, que
@@ -894,7 +900,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P1 - Direito Financeiro#- Vedações orçamentárias na CF 88|Direito Financeiro › Não afetação de imposto (art. 167, IV)]] — grifado agora ("ressalvadas a repartição... arts. 158 e 159"). Ver também [[P2 - Direito Tributário#Repartição Constitucional de Receitas Tributárias.|Direito Tributário › Repartição de Receitas]] (jurisprudência do FPM/ICMS).
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:396` · comentário do TEC, com ADI 2529, RE 411044 AgR, RE 218874, ADI 820.
 >
-> **Prova anterior (29/09 · 2 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q19 (gab. D) cobrou o mesmo dispositivo, o art. 167, IV, CF, e suas exceções à não afetação de imposto · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q19]]
+> **Prova anterior (29/09 · 3 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q19 (gab. D) cobrou o mesmo dispositivo, o art. 167, IV, CF, e suas exceções à não afetação de imposto · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q19]]
 
 > [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · CEBRASPE (Auditor de Controle Externo, TCE-PR 2024, #3048791) — Repartição de receitas: IBS e indicadores ambientais
 > No que concerne à repartição de receitas tributárias, assinale a opção correta, de acordo com a Constituição Federal de 1988 (CF), as alterações implementadas pela Emenda Constitucional n.º 132/2023 (Reforma Tributária) e a jurisprudência do STF.
@@ -915,6 +921,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [!info] 🔗 Na matéria
 > > [[P1 - Direito Constitucional#Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)]] — o cofre já tem o dado ("Art. 158, IV: 25% do ICMS e do IBS dos Estados. IBS: 80% população, 10% educação, 5% meio ambiente, 5% iguais"), num resumo — não é texto literal, não há trecho pra grifar.
 > > **Fonte:** comentário do TEC, com CF art. 158, § 2º, art. 156-A, § 1º, VII, e art. 160, § 1º.
+>
+> **Prova anterior (29/09 · 3 provas absorvidas):** 🔶 Mesmo heading (repartição), outro dispositivo — a IBAM 2025 Arraial do Cabo Q6 (gab. D) cobrou o percentual do art. 158, IV (25% do ICMS; IPVA é 50%); este cobra os critérios do IBS entregue aos Municípios (art. 158, § 2º) · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q6]]
 
 > [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · CEBRASPE (Especialista da Fazenda Estadual, SEFAZ-AC 2024, #2924837) — Contribuição confederativa × contribuição sindical
 > De acordo com a Constituição Federal de 1988, a contribuição fixada pela assembleia-geral para custeio do sistema confederativo do respectivo sindicato

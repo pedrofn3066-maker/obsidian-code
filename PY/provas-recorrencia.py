@@ -1,27 +1,28 @@
 #!/usr/bin/env python3
 """
-Lê o Mapa de cada prova absorvida (.provas-mapa/*.md, criado pelo /absorver-provas) e responde
+Lê as provas resolvidas (Questoes/Provas/*.md, feitas pelo /absorver-provas) e responde
 "quantas provas cobraram este heading?" — a conta por trás do [prova:: N] nas notas.
+Não há arquivo de mapa: cada questão diz sozinha quais headings marca.
 
     python3 PY/provas-recorrencia.py                        # heading → nº de provas, em ordem
-    python3 PY/provas-recorrencia.py <termo> [<termo> ...]  # linhas cujo heading/regra casa com TODOS os termos
+    python3 PY/provas-recorrencia.py <termo> [<termo> ...]  # questões cujo heading/tema casa com TODOS os termos
     python3 PY/provas-recorrencia.py --heading "Nota#Heading"   # provas que cobraram exatamente esse heading
-    python3 PY/provas-recorrencia.py --conferir             # [prova:: N] nos trackers × registros
+    python3 PY/provas-recorrencia.py --conferir             # [prova:: N] nos trackers × provas resolvidas
     python3 PY/provas-recorrencia.py --limpo "<nota>"       # a nota sem nenhuma marca de prova ("-" = stdin)
-    python3 PY/provas-recorrencia.py --dir <pasta> ...      # outra pasta de registros (teste)
+    python3 PY/provas-recorrencia.py --dir <pasta> ...      # outra pasta de provas (teste)
 
-Formato do registro (uma linha por questão que a nota cobre):
-    | Q | Disciplina | Gab | Nota → heading | Regra cobrada | Ângulo | Cobertura |
-    | 31 | Conhecimentos Específicos | A | P2 - Reforma Tributária#Split payment (arts. 31 a 35) | ... | ... | coberto |
-A célula Nota → heading é texto puro "Nota#Heading" (com [[ ]] também é lida): o Mapa não leva link ativo,
-para o Obsidian não indexar dezenas de links na parte de cima do arquivo; os links vivem em "Resolução".
+O que ele lê em cada bloco "### Q<n>" da prova resolvida:
+    - o gabarito:  "**Gabarito:** 🟩 D (oficial)"  ou  "⬛ ANULADA (…)"
+    - os headings marcados, no bloco "Na matéria":  "> > [[Nota#Heading]] — marcado (callout `Prova anterior`)"
+      (também "— mapeado" (questão anulada, sem marca) e "— aviso `Gabarito × nota`"; "— vizinho" não conta)
+    - o tema, do título do callout:  "> [!question]- Q31 · Disciplina · Prova — <tema>"
 
-Conta como "cobrou" só a prova com pelo menos uma linha de gabarito A–E (questão anulada ou sem
-gabarito aparece na listagem com marca, mas não entra na contagem). Busca tolera NBSP/acentos.
+Conta como "cobrou" só a prova com pelo menos uma questão de gabarito A–E (anulada ou sem gabarito
+aparece na listagem com marca, mas não entra na contagem). Busca tolera NBSP/acentos.
 --limpo existe pra conferir o lastro: o texto sem as marcas tem que ser palavra por palavra o que estava antes:
-    git show HEAD:"<nota>" | python3 PY/provas-recorrencia.py --limpo - | sort > $TMPDIR/antes.txt
-    python3 PY/provas-recorrencia.py --limpo "<nota>" | sort > $TMPDIR/depois.txt
-    comm -23 $TMPDIR/antes.txt $TMPDIR/depois.txt      # tem que sair vazio
+    python3 PY/provas-recorrencia.py --limpo "$TMPDIR/provas/<nome>.antes.md" > $TMPDIR/A.txt
+    python3 PY/provas-recorrencia.py --limpo "<nota>" > $TMPDIR/D.txt
+    cmp $TMPDIR/A.txt $TMPDIR/D.txt                      # tem que sair sem diferença
 Só lê. Sai com código 1 no --conferir se achar divergência.
 """
 import re
@@ -30,11 +31,13 @@ import unicodedata
 from pathlib import Path
 
 VAULT = Path(__file__).resolve().parent.parent
-PASTA = VAULT / ".provas-mapa"  # Mapa de cada prova; a prova resolvida (só questões) fica em Questoes/Provas/
+PASTA = VAULT / "Questoes" / "Provas"  # notas de prova resolvida (só questões)
 NOTAS = [VAULT / "MATERIAS", VAULT / "LTM ISS SANTOS"]
 RE_LINK = re.compile(r"\[\[([^\]|#]+)#([^\]|]+)(?:\|[^\]]*)?\]\]")
 RE_TRACKER = re.compile(r"^- \[.\] status\b")
 RE_PROVA = re.compile(r"\[prova::\s*(\d+)\]")
+# heading marcado numa questão: linha "> > [[Nota#Heading]] — marcado (…)" do bloco "Na matéria"
+RE_MARCADO = re.compile(r"(?m)^> > \[\[([^\]#|]+)#([^\]|]+)\]\] — (?:marcado|mapeado|aviso)")
 
 
 def norm(s: str) -> str:
@@ -43,22 +46,20 @@ def norm(s: str) -> str:
 
 
 def linhas_registro(pasta: Path):
-    """Gera dicts por linha de tabela de cada registro."""
+    """Uma linha por heading marcado em cada questão de cada prova resolvida (Questoes/Provas/*.md)."""
     for arq in sorted(pasta.glob("*.md")):
         txt = arq.read_text(encoding="utf-8")
-        oficial = re.search(r"^gabarito:\s*(.+)$", txt, re.M)
-        for l in txt.split("\n"):
-            if not re.match(r"^\|\s*\d+\s*\|", l):
+        for m in re.finditer(r"(?m)^### Q(\d+)$\n(.*?)(?=^### Q\d+$|\Z)", txt, re.S):
+            q, corpo = m.group(1), m.group(2)
+            t = re.search(r"^> \[!question\]-? Q\d+ · ([^·]+) · [^\n]*? — (.*)$", corpo, re.M)
+            g = re.search(r"\*\*Gabarito:\*\* (?:🟩 ([A-E])|⬛ (ANULADA))\s*\(([^)]*)\)", corpo)
+            if not (t and g):
                 continue
-            c = [x.strip() for x in l.strip().strip("|").split("|")]
-            if len(c) < 7:
-                continue
-            plano = tuple(c[3].split("#", 1)) if "#" in c[3] and "[[" not in c[3] else None
-            for nota, head in RE_LINK.findall(c[3]) or ([plano] if plano else [(None, None)]):
+            for nota, head in RE_MARCADO.findall(corpo):
                 yield {
-                    "prova": arq.stem, "q": c[0], "disc": c[1], "gab": c[2].upper(),
-                    "nota": nota, "heading": head, "regra": c[4], "angulo": c[5], "cob": c[6],
-                    "gab_fonte": oficial.group(1).strip() if oficial else "?",
+                    "prova": arq.stem, "q": q, "disc": t.group(1).strip(), "gab": g.group(1) or "ANULADA",
+                    "nota": nota, "heading": head, "regra": t.group(2).strip(), "angulo": "", "cob": "",
+                    "gab_fonte": g.group(3).strip(),
                 }
 
 
@@ -146,10 +147,10 @@ def main():
         pasta = Path(a[i + 1])
         del a[i:i + 2]
     if not pasta.exists():
-        sys.exit(f"sem mapas em {pasta} — nenhuma prova absorvida ainda.")
+        sys.exit(f"sem provas resolvidas em {pasta} — nenhuma absorvida ainda.")
     rows = list(linhas_registro(pasta))
     if not rows:
-        sys.exit("registros sem linha de tabela no formato esperado (ver docstring).")
+        sys.exit("nenhuma questão com heading marcado nas provas resolvidas (ver docstring).")
 
     if a[:1] == ["--conferir"]:
         sys.exit(conferir(rows))
@@ -158,7 +159,7 @@ def main():
         for r in rows:
             if norm(chave(r)) == alvo:
                 marca = "" if valida(r) else "  (não conta: sem gabarito A–E)"
-                print(f"{r['prova']} · Q{r['q']} · gab {r['gab']} · gabarito {r['gab_fonte']} · {r['angulo']} — {r['regra']}{marca}")
+                print(f"{r['prova']} · Q{r['q']} · gab {r['gab']} ({r['gab_fonte']}) — {r['regra']}{marca}")
         n = len(por_heading(rows).get(alvo, {"provas": ()})["provas"])
         print(f"[prova:: {n}]")
         return
@@ -167,7 +168,7 @@ def main():
         for r in rows:
             alvo = norm(chave(r) + " " + r["regra"] + " " + r["angulo"])
             if all(t in alvo for t in termos):
-                print(f"{r['prova']} · Q{r['q']} · gab {r['gab']} · {chave(r)} · {r['angulo']} — {r['regra']}")
+                print(f"{r['prova']} · Q{r['q']} · gab {r['gab']} · {chave(r)} — {r['regra']}")
         return
     ordem = sorted(por_heading(rows).values(), key=lambda v: (-len(v["provas"]), v["rot"]))
     provas = {r["prova"] for r in rows}

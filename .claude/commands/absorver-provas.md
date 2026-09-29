@@ -29,13 +29,13 @@ python3 PY/prova-questoes.py "<prova.pdf>" [--gabarito "<gabarito.pdf>"] [--tipo
 
 Grava em `.vault-meta/provas/` (ignorado pelo git): `<nome>.md` (um bloco `### Q07 · disciplina · p.N · gab: X` por questão) e `<nome>.resolvida.md` (o esqueleto da prova resolvida, no layout de `TEMPLATE/Prova resolvida.md`). Provas ficam em `LTM ISS SANTOS/PROVAS/PDF/` ou `inbox/`. Leia o diagnóstico antes de qualquer coisa:
 
-- `SEM gabarito confiável` → procure o edital de gabaritos e passe com `--gabarito`. Sem gabarito você resolve, mas não compara: coluna Gab `?`, nada de lupa.
+- `SEM gabarito confiável` → procure o gabarito **definitivo** no site da banca (a página do concurso lista "Gabaritos Definitivos" e a "Síntese das respostas aos recursos"); `WebFetch` de PDF não devolve o texto, mas grava o binário em `tool-results/`: abra esse arquivo com `pymupdf`. Em grade de gabarito do IBAM, **célula preta = questão anulada** (a letra continua na camada de texto: não a use) e **letra azul = gabarito alterado**; confirme olhando a imagem. Só o preliminar disponível: é não oficial. Sem gabarito nenhum você resolve, mas não compara: coluna Gab `?`, nada de lupa.
 - `gabarito tem tipos [1, 2, 3]` → caderno embaralhado, um gabarito por tipo; o tipo vem da capa (`TIPO:3`). Se o script parar, pergunte qual caderno o Pedro tem. **Tipo errado inverte certo e errado**, e nada mais avisa.
-- `questões fora de ordem no texto` → duas colunas embaralhadas: refaça por coluna com `pymupdf` no scratchpad (blocos por coluna, depois por `y`) ou leia o PDF (`Read` com `pages`).
+- `questões fora de ordem no texto` → duas colunas embaralhadas: rode de novo com `--colunas` (linhas da coluna esquerda e depois da direita). O aviso pode persistir quando seções se intercalam (uma seção curta no pé da coluna esquerda, ex.: Q31 antes de Q27): confira a ordem e siga. Alternativas no formato `A (   )` já são reconhecidas. Em último caso, leia o PDF (`Read` com `pages`).
 - `nenhum marcador 'Questão N'` / `N pág(s) com pouco texto` → escaneada ou manuscrita: leia as páginas e monte a lista à mão. **Gabarito manuscrito, de terceiro ou preliminar é não oficial**: vai no frontmatter e em todo callout (`gab. preliminar`).
 - **PDF que é impressão de página de site** (OCR embaralhado, alternativa certa numa caixa verde "GABARITO PRELIMINAR"): o script não serve, e a caixa verde por pixel erra (a borda encosta em duas alternativas). Renderize cada página em metades com `pymupdf` (`get_pixmap(matrix=Matrix(2.6, 2.6), clip=…)`, no scratchpad), leia as imagens e anote a letra da caixa. Logo e rodapé ("© IBAM") dão a banca quando o nome do arquivo diz "não confirmada".
 - `sem 4+ alternativas separadas` → certo/errado, asserção-razão ou `**D)**` colado: confira essas questões no PDF antes de resolver.
-- Questão anulada ou alterada por recurso → `ANULADA` no Mapa, sem marca na nota.
+- Questão anulada ou alterada por recurso → `⬛ ANULADA` na linha `Gabarito` (ou `alterado após recurso`), resolvida e explicada, mas sem marca na nota.
 - Banca, ano, órgão ou cargo que o PDF não dá: pergunte uma vez com `AskUserQuestion`. Banca desconhecida entra como tal.
 
 Concluído quando o diagnóstico não tem aviso sem resposta e o nº de questões extraídas é o do caderno.
@@ -59,7 +59,7 @@ Concluído quando toda questão tem resposta, fonte e situação (`concorda` / `
 Para cada questão:
 
 1. **Regra cobrada** em uma linha: o dispositivo que decide a resposta, não o enunciado.
-2. **Nota → heading → trecho**: o heading da regra e a frase da nota que a resolve (linha exata), só se você leu esse trecho. Mais de um heading decisivo = uma linha do Mapa por heading; headings que só uma alternativa toca são "vizinhos", vão só no `Na matéria`.
+2. **Nota → heading → trecho**: o heading da regra e a frase da nota que a resolve (linha exata), só se você leu esse trecho. Mais de um heading decisivo = todos entram como `marcado` no `Na matéria` da questão; headings que só uma alternativa toca são `vizinho`.
 3. **Cobertura**, lendo a nota: **coberto** (a nota tem a regra e o gabarito é coerente) · **parcial** (falta o dispositivo, o rol ou a pegadinha) · **lacuna** (a nota não trata; nada é marcado) · **conflito** (gabarito ou resolução contradiz a nota: `> [!warning]- Gabarito × nota`, sem reescrever).
 4. **Ângulo**: `literalidade`, `troca de termo`, `exceção`, `rol/lista fechada`, `prazo/número`, `cálculo`, `competência`, `jurisprudência` ou `conceito`.
 5. **Recorrência**: `python3 PY/provas-recorrencia.py --heading "<Nota>#<Heading>"` + esta prova.
@@ -83,26 +83,24 @@ Pare e peça aprovação. Concluído quando as onze colunas estão preenchidas e
 
 **Antes de editar qualquer nota** (`MATERIAS/`, `Erradas/`, `LTM ISS SANTOS/`), copie-a para `$TMPDIR/provas/<nome>.antes.md`: é a base do Passo 6. O `git show HEAD:` só serve se a nota não tinha mudança não commitada, e no cofre do Pedro quase sempre tem. Escreva por script Python que **localiza heading e trecho por texto** (não por nº de linha: cada inserção desloca as seguintes; nunca `old_string` exato, por causa do NBSP), recusa âncora que não ache exatamente uma vez e roda antes em modo simulação, imprimindo heading, linha e se há tracker.
 
-### 5a. A prova resolvida e o Mapa — dois arquivos
+### 5a. A prova resolvida — um arquivo, só questões
 
-**Prova resolvida** — `Questoes/Provas/<Banca> <Ano> - <Local> - <Cargo>.md`: **só as questões**, nada mais (sem frontmatter, título, resumo, mapa, lacunas nem textos-base; uma nota grande com muitos links e callouts travou o Obsidian). Parta do `.resolvida.md` do Passo 1 e siga `TEMPLATE/Prova resolvida.md` (leia-o antes; é o layout do `/tec-erros`): uma seção `### Q<n>` para **todas** as questões, com a **Resolução** do Passo 2 e um link `[[Nota#Heading]]` para cada heading relacionado (o do Mapa mais os vizinhos).
+`Questoes/Provas/<Banca> <Ano> - <Local> - <Cargo>.md`: **só as questões resolvidas**, nada mais. Sem frontmatter, título, resumo, mapa, lacunas, textos-base nem arquivo auxiliar: uma nota grande, com muitos links e callouts, travou o Obsidian. Parta do `.resolvida.md` do Passo 1 e siga `TEMPLATE/Prova resolvida.md` (leia-o antes; é o layout do `/tec-erros`): uma seção `### Q<n>` para **todas** as questões, com a **Resolução** do Passo 2 e, no bloco `Na matéria`, um link `[[Nota#Heading]]` para cada heading relacionado, rotulado `marcado` (o que a questão decide e vai receber marca no 5c), `vizinho` (só uma alternativa toca), `mapeado` (questão anulada, sem marca) ou `aviso` (conflito). **O `PY/provas-recorrencia.py` lê a recorrência desses rótulos e do gabarito**, então eles não são enfeite.
 
-**Mapa** — `.provas-mapa/<mesmo nome>.md` (pasta oculta do Obsidian, versionada pelo git): frontmatter, introdução, Resumo por disciplina, Mapa de sete colunas, Lacunas e textos-base, tudo com `Nota#Heading` em texto puro (sem `[[ ]]`). É o que o `PY/provas-recorrencia.py` lê.
-
-Se os arquivos já existem é reabsorção: atualize, não duplique. Concluído quando o nº de `### Q<n>` é o do caderno, toda `Fonte` está preenchida e todo link resolve (`achar-heading.py`).
+Se o arquivo já existe é reabsorção: atualize, não duplique. Concluído quando o nº de `### Q<n>` é o do caderno, toda `Fonte` está preenchida e todo link resolve (`achar-heading.py`).
 
 ### 5b. Cruzar as questões erradas
 
 Para toda nota `Erradas/ERRO *.md` (e `LTM ISS SANTOS/ERRO *.md`) das matérias tocadas, ou a pedida em `--erradas`. Comece pelos títulos dos callouts (`grep -nE "^> \[!(bug|question)\]"`); a busca por palavra no corpo traz ruído. **Só as que o Pedro errou ou ficou em dúvida** (`(acertei)`/`(acertou)` sem `Obs.` de dúvida ficam de fora). Para cada uma:
 
 1. Identifique a regra que ela testa (`A Regra`, `Onde caí`, o `[[Nota#Heading]]`).
-2. Ache-a nos registros (`provas-recorrencia.py <termo>` ou `--heading`) e leia a linha do Mapa antes de concluir.
+2. Ache-a nas provas resolvidas (`provas-recorrencia.py <termo>` ou `--heading`) e leia a questão (o `marcado` do `Na matéria`) antes de concluir.
 3. Veredito, com a evidência:
    - **✅ Condiz** — mesma regra/dispositivo cobrada em prova absorvida (prova · Q · gab). Se a alternativa que o Pedro marcou é o **mesmo distrator** da banca, diga: é o erro que se repete.
    - **🔶 Mesmo tópico, outro ângulo** — heading cobrado, regra outra; ou mesma norma em outro dispositivo (diga qual).
    - **⚪ Não aparece nas N provas absorvidas** — N real. Significa "nenhuma cobrou", nunca "a banca não cobra". Regra que só aparece como alternativa: diga ("só como alternativa (A) da Q20").
    - **🟰 É a própria questão da prova** (mesmo concurso, ano e nº): não é recorrência, só confirma que registro e gabarito batem.
-   O veredito segue a **linha do Mapa** (heading e regra decisiva), não a menção no enunciado.
+   O veredito segue o que a questão **marca** (heading e regra decisiva), não a menção no enunciado.
 4. Uma linha no fim do callout. Os das Erradas costumam ter callouts aninhados: ponha antes uma linha só com `>`, senão o Obsidian a engole. O prefixo permite reabsorver (linha existente é substituída); ao mudar a contagem de provas, atualize as linhas já escritas:
 
    ```
@@ -149,7 +147,7 @@ Regras: nunca altere o texto de um heading (quebra `[[Nota#Heading]]`) nem uma p
    O `--limpo` remove grifo teal, `[prova:: N]`, callouts de prova, a linha das Erradas e os brancos que os separam: o `cmp` sai **sem diferença**, byte a byte. Se diferir, o `diff` mostra o que se perdeu: pare. Use arquivos: `diff <(…)` e `cmp <(…)` são bloqueados no sandbox e dão erro que parece divergência.
 2. **Contagem das marcas:** `python3 PY/provas-recorrencia.py --conferir` termina em `OK` (`!` = N que não bate; `?` = heading com prova sem marca, válido só sem tracker).
 3. **Renderização:** `python3 PY/checar-markdown.py "<nota>"` (`--tudo` em `LTM ISS SANTOS/` e na prova resolvida) e `python3 PY/grifos.py "<nota>"` sem linha `!`. Na prova resolvida: `grep -n '\[!.*\]-\]' "<prova>.md"` vazio.
-4. **Links, nos dois sentidos:** todo `[[Nota#Heading]]` da prova resolvida resolve e todo `Nota#Heading` do Mapa (em `.provas-mapa/`) aparece como link na questão dele; todo `[[<prova>#Qn]]` das matérias e das Erradas aponta para um `### Qn` que existe; todo heading marcado aparece em alguma questão da prova resolvida.
+4. **Links, nos dois sentidos:** todo `[[Nota#Heading]]` da prova resolvida resolve; todo `[[<prova>#Qn]]` das matérias e das Erradas aponta para um `### Qn` que existe; todo heading marcado aparece em alguma questão da prova resolvida.
 5. **Auditoria de lastro:** releia cada callout e confira com o PDF (nº, página, gabarito, alternativa). O que falhar sai ou vira `> [!warning]-`.
 6. **Relatório** em tabela (o que foi marcado e onde, lacunas, conflitos, erradas com veredito) e depois: **prioridade de estudo** (cobrado em prova × erro recente × `dom` baixo, via `plano-dia.py --diag`); **perfil da banca** (só com ≥ 2 provas da mesma banca; rotule o de 1 prova); marcas `[prova:: N]` altas sem lupa nem texto literal na nota, onde vale `/absorver-pdf` ou `/triar-inbox`.
 

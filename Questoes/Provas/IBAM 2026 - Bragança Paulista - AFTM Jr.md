@@ -205,11 +205,6 @@
 > (B) suprir a falta de fundamentação legal do texto, substituindo o argumento pela mera aproximação afetiva com o leitor ao longo dos parágrafos.
 > (C) adiar a adesão do leitor até o parágrafo final, quando a definição técnica passaria a operar como argumento de autoridade suficiente por si.
 > (D) delimitar o texto ao público já familiarizado com a LGPD, para quem o esforço de convencimento se mostraria dispensável desde o princípio.
-
-
- 
-
-### Matemática e Raciocínio Lógico
 >
 > **Gabarito:** 🟩 A (oficial) · **Minha resolução:** 🟩 A (concorda)
 >
@@ -298,11 +293,6 @@
 > (B) 110 processos.
 > (C) 140 processos.
 > (D) 130 processos.
-
-
- 
-
-### Informática
 >
 > **Gabarito:** 🟩 A (oficial) · **Minha resolução:** 🟩 A (concorda)
 >
@@ -393,12 +383,7 @@
 > (A) duplicar cada documento em diferentes pastas temáticas, permitindo que o mesmo arquivo permaneça armazenado em diversos locais independentemente do controle sobre as versões existentes.
 > (B) transferir os arquivos mais consultados para a Área de Trabalho, deixando as pastas institucionais apenas como referência, ainda que isso altere a localização originalmente adotada.
 > (C) renomear os arquivos periodicamente para facilitar sua identificação visual, mesmo que essa prática deixe de seguir o padrão de nomenclatura utilizado pelos demais setores envolvidos.
-> (D) <mark style="background:#affad1">criar atalhos para os documentos mais utilizados na Área de Trabalho ou em outra pasta de acesso frequente, preservando os arquivos em sua localização original e mantendo a estrutura de armazenamento definida.
-
-
- 
-
-### Administração Pública, Legislação e Direito Público</mark>
+> (D) <mark style="background:#affad1">criar atalhos para os documentos mais utilizados na Área de Trabalho ou em outra pasta de acesso frequente, preservando os arquivos em sua localização original e mantendo a estrutura de armazenamento definida.</mark>
 >
 > **Gabarito:** 🟩 D (oficial) · **Minha resolução:** 🟩 D (concorda)
 >
@@ -595,8 +580,6 @@
 > (B) A responsabilidade civil do Município por danos causados por seus agentes fiscais, no exercício da atividade de fiscalização tributária, é sempre subjetiva, exigindo a comprovação de dolo ou culpa do agente, haja vista a natureza discricionária e de poder de polícia inerente a essa função.
 > (C) <mark style="background:#affad1">O direito de regresso do Município contra o agente público fiscal que, com dolo ou culpa, causou danos a terceiros, é uma ação autônoma e prescinde da prévia condenação do agente em processo administrativo disciplinar, podendo ser exercido após a indenização à vítima.</mark>
 > (D) Em caso de danos causados a terceiros por concessionária de serviço público municipal, a responsabilidade civil desta é objetiva, aplicando-se a teoria do risco administrativo, mas o Município, como ente concedente, somente responderá subsidiariamente, após esgotadas as vias de cobrança contra a concessionária.
-
-### Conhecimentos Específicos
 >
 > **Gabarito:** 🟩 C (oficial) · **Minha resolução:** 🟩 C (concorda)
 >
@@ -928,4 +911,3 @@
 > > [[P2 - Direito Tributário#Certidão Negativa (arts. 205 a 208 do CTN)]] — marcado (callout `Prova anterior`)
 > > [[P2 - Legislação Tributária Estadual (BA)#- Lei Complementar nº 105/2001]] — vizinho · (B) e (C)
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1655` (CPEN, art. 206)
-

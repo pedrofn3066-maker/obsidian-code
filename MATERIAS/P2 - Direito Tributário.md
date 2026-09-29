@@ -852,7 +852,7 @@ Tec resumo : (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/591?ind
 ## Obrigação Tributária.
 
 ### Fato Gerador (arts. 114 a 118 do CTN)
-- [x] status [dom:: 0] [peso:: 3] [prova:: 2] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] [prova:: 3] ✅ 2026-09-14
 Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?indice=1&materia=592)
 
 > Art. 114. Fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência.
@@ -889,7 +889,17 @@ Resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/4003?ind
 
 **Art. 117 — condição:** **suspensiva** → fato gerador no **implemento** da condição (ex.: doação da casa condicionada à aprovação em vestibular: o ITCMD só é devido com a aprovação); **resolutória** → fato gerador na **celebração** (ex.: doação de carro que volta ao doador se o donatário se mudar ao exterior: o imposto é devido na doação e não é devolvido).
 
-**Art. 118:** interpreta-se pelo objeto, abstraindo-se da validade do ato (exemplos do PDF: renda obtida com tráfico de drogas é tributada; venda tributada no momento da venda, ainda que o comprador não pague).
+**Art. 118:** <mark class="prova" style="background:rgba(0,170,170,0.28)">interpreta-se pelo objeto, abstraindo-se da validade do ato</mark> (exemplos do PDF: renda obtida com tráfico de drogas é tributada; venda tributada no momento da venda, ainda que o comprador não pague).
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q13 (gab. D · oficial)
+> **Trecho usado:** "Art. 118: interpreta-se pelo objeto, abstraindo-se da validade do ato"
+> **Como cobrou:** troca de termo — pede a incorreta: "(D) a definição do fato gerador é interpretada com a abstração da natureza dos atos supostamente praticados pelos contribuintes". As outras três repetem os arts. 114, 115 e 116.
+> **Lastro:** PDF p. 5 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q13]]
+
+> [!tip]- Lupa de prova: Fato gerador: validade dos atos, não natureza
+> **O padrão:** o fato gerador aparece pela terceira prova seguida do IBAM absorvida (Bragança Q33, Mauá Q22, Arraial Q13), sempre com a alternativa incorreta trocando um termo do CTN. (padrão de 3 provas da mesma banca)
+> **A armadilha:** a "(D)" troca a "validade" dos atos pela "natureza" dos atos.
+> **Como resolver:** a nota resume o art. 118: interpreta-se pelo objeto, abstraindo-se da validade do ato; ao ver "natureza" no lugar de "validade", desconfie.
 
 *(CTN comentado, Guruja, p. 45–47)*
 
@@ -950,7 +960,7 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
 **Art. 120 — desmembramento territorial:** o ente novo "herda" o direito de cobrar sobre fatos geradores ocorridos em seu território antes da separação e continua aplicando a legislação do ente original até entrar em vigor a sua própria.
 
 ## Sujeito Passivo 
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 **Convenções particulares não vinculam a Fazenda Pública** — contrato de locação que atribui ao locatário a responsabilidade pelo IPTU não produz efeito perante o Fisco; o contribuinte continua sendo o proprietário (locador).
 > Art. 123, CTN. Salvo disposições de lei em contrário, as convenções particulares, relativas à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a definição legal do sujeito passivo das obrigações tributárias correspondentes.
@@ -984,6 +994,11 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/593)
 > I - o pagamento efetuado por um dos obrigados aproveita aos demais;
 > II - a isenção ou remissão de crédito exonera todos os obrigados, salvo se outorgada pessoalmente a um deles, subsistindo, nesse caso, a solidariedade quanto aos demais pelo saldo;
 > III - a interrupção da prescrição, em favor ou contra um dos obrigados, favorece ou prejudica aos demais.
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q3 (gab. A · oficial)
+> **Trecho usado:** "Art. 121 Sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo ou penalidade pecuniária."
+> **Como cobrou:** troca de termo — a certa é "(A) pode ser atribuída ao contribuinte ou a um terceiro que é eleito pela lei como o responsável pelo recolhimento do tributo aos cofres públicos". A "(B)" diz que o contribuinte "sempre será responsável solidário" na substituição; a "(D)" limita a responsabilidade aos "sócios que o contrataram", sem responsabilidade pessoal dos diretores.
+> **Lastro:** PDF p. 3 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q3]]
 
 > [!info]- Ponte
 > - [[P2 - Legislação Tributária Estadual (BA)#Responsável, solidariedade e sucessão]]: o mesmo tema (responsável, solidariedade) no ICMS da Bahia.
@@ -1145,7 +1160,7 @@ VII - os sócios, no caso de liquidação de sociedade de pessoas.
 # Bloco C:   
 ## Crédito Tributário;   
 ### Lançamento
-- [x] status [dom:: 0] [peso:: 3] [prova:: 1] ✅ 2026-09-14
+- [x] status [dom:: 0] [peso:: 3] [prova:: 2] ✅ 2026-09-14
 
 Art. 149. O lançamento **é efetuado e revisto de ofício pela autoridade administrativa** nos seguintes casos:  
 [...]  
@@ -1164,7 +1179,12 @@ VII - quando se comprove que o sujeito passivo, ou terceiro em benefício daquel
 
 *(CTN comentado, Guruja, p. 56–61)*
 
-**Art. 141 — taxatividade:** o crédito só pode ser suspenso, extinto ou excluído nos casos previstos em lei.
+**Art. 141 — taxatividade:** <mark class="prova" style="background:rgba(0,170,170,0.28)">o crédito só pode ser suspenso, extinto ou excluído nos casos previstos em lei</mark>.
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q7 (gab. B · oficial)
+> **Trecho usado:** "Art. 141 — taxatividade: o crédito só pode ser suspenso, extinto ou excluído nos casos previstos em lei."
+> **Como cobrou:** literalidade — a certa é "(B) quando regularmente constituído, somente se modifica ou extingue, ou tem a sua exigibilidade suspensa ou excluída, nos casos previstos em lei". A "(D)" diz que a modificação do crédito "anula o fato gerador".
+> **Lastro:** PDF p. 4 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q7]]
 
 **Art. 142 — mnemônico VDCIP** (lançamento é procedimento administrativo **privativo** da autoridade): **V**erificar a ocorrência do fato gerador · **D**eterminar a matéria tributável · **C**alcular o montante do tributo · **I**dentificar o sujeito passivo · **P**ropor a penalidade cabível, se for o caso.
 
@@ -1221,7 +1241,7 @@ O **art. 144** (lei aplicável ao lançamento) está transcrito na seção de Vi
 
 
 ### Suspensão do Crédito tributário 
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 **Jurisprudência (Resumo VINTEUM D. Tributário)**
 - **Súmula STJ 112:** o depósito só suspende a exigibilidade se for <mark>integral e em dinheiro</mark>. — *Resumo Jurisp. Trib., p. 21*
@@ -1285,6 +1305,11 @@ O **art. 144** (lei aplicável ao lançamento) está transcrito na seção de Vi
 >
 > Parágrafo único. No caso do inciso I deste artigo, o tempo decorrido entre a concessão da moratória e sua revogação não se computa para efeito da prescrição do direito à cobrança do crédito; no caso do inciso II deste artigo, a revogação só pode ocorrer ANTES de prescrito o referido direito.
 
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q8 (gab. B · oficial)
+> **Trecho usado:** "IV - a concessão de medida liminar em mandado de segurança;"
+> **Como cobrou:** conceito — a liminar em mandado de segurança é a causa de suspensão da exigibilidade na alternativa certa "(B)"; na "(D)" a isenção ocupa esse lugar.
+> **Lastro:** PDF p. 4 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q8]]
+
 > [!tip]- Lupa: moratória geral × individual
 > **A ideia em uma frase:** a moratória é prazo maior para pagar; o CTN distingue a **geral** (a lei concede a todos) da **individual** (despacho da autoridade a um contribuinte) e trata a revogação de forma diferente.
 >
@@ -1302,7 +1327,7 @@ O **art. 144** (lei aplicável ao lançamento) está transcrito na seção de Vi
 
 
 ### Extinção do Crédito tributário
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 Art. 161. O crédito não integralmente pago no vencimento **é acrescido de juros de mora, seja qual for o motivo determinante da falta, sem prejuízo da imposição das penalidades cabíveis** e da aplicação de quaisquer medidas de garantia previstas nesta Lei ou em lei tributária.
 § 1º Se a lei não dispuser de modo diverso, os juros de mora são calculados à taxa de um por cento ao mês.
 <mark style="background:rgba(240, 200, 0, 0.2)"> § 2º O disposto neste artigo não se aplica na pendência de consulta formulada pelo devedor dentro do prazo legal para pagamento do crédito.</mark>
@@ -1388,6 +1413,11 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 >
 > Parágrafo único. O prazo de prescrição é interrompido pelo início da ação judicial, recomeçando o seu curso, por metade, a partir da data da intimação validamente feita ao representante judicial da Fazenda Pública interessada.
 
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q20 (gab. B · oficial)
+> **Trecho usado:** "Art. 168 O direito de pleitear a restituição extingue-se com o decurso do prazo de 5 (cinco) anos, contados:"
+> **Como cobrou:** prazo/número — a certa é "(B) o valor pago em até 5 anos contados da extinção do crédito tributário". A "(A)" põe "10 anos" para tributo por homologação; a "(C)" exige prova de transferência do encargo; a "(D)" nega a devolução de multas "ainda que de caráter material".
+> **Lastro:** PDF p. 6 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q20]]
+
 > [!tip]- Lupa: restituição: os prazos 5, 5 e 2
 > **A ideia em uma frase:** o direito de pedir de volta o tributo pago indevido tem prazo de 5 anos, mas o termo inicial muda conforme o motivo; e há um prazo de 2 anos para anular a decisão que negou o pedido.
 >
@@ -1427,6 +1457,11 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 > XI - a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.
 >
 > Parágrafo único. A lei disporá quanto aos efeitos da extinção total ou parcial do crédito sobre a ulterior verificação da irregularidade da sua constituição, observado o disposto nos artigos 144 e 149.
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q8 (gab. B · oficial)
+> **Trecho usado:** "V - a prescrição e a decadência;"
+> **Como cobrou:** conceito — a prescrição é a causa de extinção na alternativa certa "(B)"; na "(A)" a transação (art. 156, III) aparece como exclusão.
+> **Lastro:** PDF p. 4 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q8]]
 
 
 #### Decadência e prescrição (arts. 173 e 174)
@@ -1487,7 +1522,7 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 
 
 ### Exclusão do Crédito tributário
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 **Jurisprudência (Resumo VINTEUM D. Tributário)**
 - **Súmula STF 544:** isenções concedidas sob condição onerosa <mark>não podem ser livremente suprimidas</mark>. — *Resumo Jurisp. Trib., p. 22*
@@ -1504,6 +1539,16 @@ Art. 168 O direito de pleitear a restituição extingue-se com o decurso do praz
 | Limites | salvo disposição contrária, **não atinge taxas nem contribuições de melhoria** e **não alcança tributos criados após** a concessão |
 | Revogação | regra: revogável a qualquer tempo, observada a **anterioridade** (art. 104, III); exceção: isenção **por prazo certo e sob condição onerosa** |
 | Caráter individual | por **despacho** da autoridade, mediante requerimento; renovada se periódica; **não gera direito adquirido** |
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q8 (gab. B · oficial)
+> **Trecho usado:** "Natureza | forma de exclusão do crédito (isenção, arts. 175 a 179)"
+> **Como cobrou:** conceito — pede (i) exclusão, (ii) suspensão da exigibilidade e (iii) extinção "nesta ordem". A certa é "(B) isenção tributária – liminar em mandado de segurança – prescrição". A "(A)" põe a transação como exclusão; a "(C)", a anistia como suspensão; a "(D)", a isenção como suspensão.
+> **Lastro:** PDF p. 4 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q8]]
+
+> [!tip]- Lupa de prova: Exclusão × suspensão × extinção
+> **O padrão:** pede as três categorias na ordem e embaralha seis causas (isenção, anistia, transação, liminar em mandado de segurança, prescrição, pagamento). (padrão de 1 prova, não confirmado)
+> **A armadilha:** cada errada troca uma causa de categoria: a transação (que extingue) vira exclusão, a anistia (que exclui) vira suspensão, a isenção (que exclui) vira suspensão.
+> **Como resolver:** exclusão: isenção e anistia; suspensão: as hipóteses do art. 151 (moratória, depósito, reclamações e recursos, liminar em mandado de segurança, parcelamento); extinção: as do art. 156 (pagamento, compensação, transação, prescrição e decadência, entre outras).
 
 ⚠️ **Isenção onerosa** (prazo certo + condições): gera direito adquirido durante o prazo, se cumpridas as condições, e não pode ser revogada antes do término. Sem prazo ou sem condições: revogável a qualquer momento.
 
@@ -2350,7 +2395,7 @@ Mudança na relação de códigos *(art. 8º, §4º, p. 13)*:
 > VI - caso a opção seja indeferida por pendências impeditivas do ingresso no Simples Nacional, o contribuinte poderá regularizá-las no prazo de até 30 (trinta) dias contados a partir da data de inscrição no CNPJ. (2025)
 
 ### Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-22
 
 *Isenção do IR sobre lucros distribuídos (art. 14), MEI (arts. 18-A a 18-F), Presunção de Omissão de Receita (art. 34) e Processo Administrativo/Judicial (arts. 39 a 41) têm headings próprios logo abaixo — fora da ordem de artigo dentro deste bloco, que segue os temas da Res. CGSN 140, não a numeração da LC 123.*
 
@@ -2510,6 +2555,16 @@ Cronograma da adoção do sublimite *(art. 9º, §2º; art. 11, p. 13–14)*:
 | Atividade | IX (bancos, seguros, capitalização e afins); XII (factoring e afins); XVI (transporte intermunicipal e interestadual de passageiros); XVII (energia elétrica); XVIII (importação ou fabricação de automóveis e motocicletas); XIX (importação de combustíveis); XX (cigarros, armas, cervejas sem álcool e bebidas alcoólicas no atacado, com exceções); XXI (cessão ou locação de mão de obra); XXII (loteamento e incorporação); XXIII (locação de imóveis próprios) |
 | Situação | X (cisão ou desmembramento em um dos 5 anos-calendário anteriores); XV (débito com INSS ou Fazendas com exigibilidade <mark>não suspensa</mark>); XXIV (sem inscrição cadastral, quando exigível, ou cadastro irregular); XXV (relação de pessoalidade, subordinação e habitualidade com o contratante) |
 
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q1 (gab. D · oficial)
+> **Trecho usado:** "XV (débito com INSS ou Fazendas com exigibilidade não suspensa)"
+> **Como cobrou:** rol — a certa é "(D) as empresas que possuam débitos com o INSS, ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa não poderão ser optantes do Simples Nacional". As erradas trocam o piso da EPP ("R$240.000,00"), o prazo da opção ("irretratável para os três primeiros meses do ano-calendário") e põem "o IPTU e o ITR" na alíquota.
+> **Lastro:** PDF p. 3 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q1]]
+
+> [!tip]- Lupa de prova: Simples Nacional: três números trocados e uma vedação real
+> **O padrão:** quatro afirmações sobre o Simples em que três trocam um dado do regime (piso da EPP, prazo da opção, tributos abrangidos). (padrão de 1 prova, não confirmado)
+> **A armadilha:** o piso "R$240.000,00" (a EPP começa acima de R$ 360.000,00), a irretratabilidade "nos três primeiros meses" (é para todo o ano-calendário) e IPTU e ITR "incluídos" (não são tributos do Simples).
+> **Como resolver:** guarde os três dados da nota: EPP entre R$ 360.000,00 e R$ 4.800.000,00; opção irretratável para todo o ano-calendário; e a vedação de quem tem débito com INSS ou Fazendas com exigibilidade não suspensa (XV).
+
 - ⚠️ Os incisos IV, V e VI só vedam se a **receita bruta global ultrapassar o limite do inciso I**; o VI, na redação de 2025, alcança o administrador "de fato ou de direito".
 - **Exceções do §1º** *(p. 19)*: os incisos V e VIII não se aplicam a participações em cooperativas de crédito, centrais de compras, bolsas de subcontratação, consórcio e SPE (arts. 50 e 56 da LC 123), associações assemelhadas, sociedades de interesse econômico, sociedades de garantia solidária e outros tipos que tenham como objetivo social a defesa exclusiva dos interesses econômicos das ME e EPP.
 - **§2º** *(p. 20)*: as vedações não se aplicam à PJ que se dedica exclusivamente à atividade tributada na forma do art. 25 (ou a ela em conjunto com atividade não vedada) nem à prestação de outros serviços não vedados expressamente.
@@ -2579,6 +2634,11 @@ Cronograma da adoção do sublimite *(art. 9º, §2º; art. 11, p. 13–14)*:
 > § 6º Não compõem a receita bruta do ano-calendário imediatamente anterior ao da opção pelo Simples Nacional, para efeitos do disposto no inciso I do caput deste artigo, os valores:
 > I - destacados a título de IPI; e
 > II - devidos a título de ICMS retido por substituição tributária, pelo contribuinte que se encontra na condição de substituto tributário.
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q18 (gab. D · oficial)
+> **Trecho usado:** "XII - que explore atividade de prestação cumulativa e contínua de serviços de assessoria creditícia, gestão de crédito, seleção e riscos"
+> **Como cobrou:** rol — pede o que "não condiz": "(D) as microempresas ou empresas de pequeno porte que explorem os serviços de assessoria creditícia, gestão de crédito, seleção de riscos podem optar pelo regime simplificado desde que atuem exclusivamente de forma virtual". A atividade é vedada, sem exceção pelo meio virtual.
+> **Lastro:** PDF p. 6 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q18]]
 
 > [!info]- Ponte
 > - [[P2 - Direito Tributário#Suspensão do Crédito tributário]]: onde a nota lista as causas de suspensão da exigibilidade (art. 151 do CTN); o inciso XV só veda o débito cuja exigibilidade **não** está suspensa.
@@ -3787,7 +3847,7 @@ Multas por declaração e comunicação *(arts. 97-A, 98 e 99)*:
 ## Impostos Federais, Estaduais, Municipais
 
 ### 1. Introdução ao Imposto Predial e Territorial Urbano - IPTU
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 
 (https://www.tecconcursos.com.br/aulas/materias/18/assuntos/5897)
@@ -3831,6 +3891,11 @@ Legitimidade ativa: o locatário não é contribuinte nem responsável pelo IPTU
 | Base de cálculo | valor venal do imóvel |
 | Contribuinte | proprietário, titular do domínio útil ou possuidor a qualquer título |
 
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q12 (gab. A · oficial)
+> **Trecho usado:** "Base de cálculo | valor venal do imóvel"
+> **Como cobrou:** conceito — a certa é "(A) a base de cálculo é o valor venal do imóvel, assim entendido o valor que o imóvel alcançaria para compra e venda à vista, segundo as condições de mercado". A "(D)" diz que "a testada do terreno é irrelevante"; a "(C)", que o valor só pode ser revisado em processo judicial. A nota só traz "valor venal do imóvel".
+> **Lastro:** PDF p. 5 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q12]]
+
 *(CF/88, ed. Senado 2026, pp. 95 e 117)*
 
 - **Art. 156, § 1º-A:** o IPTU <mark style="background:#fff88f">não incide sobre templos de qualquer culto</mark>, ainda que as entidades abrangidas pela imunidade do art. 150, VI, "b", sejam <mark style="background:#fff88f">apenas locatárias</mark> do imóvel. *(p. 95)*
@@ -3856,7 +3921,7 @@ Legitimidade ativa: o locatário não é contribuinte nem responsável pelo IPTU
 
 
 ### 2. Imposto sobre Serviços - ISS
-- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-22
+- [x] status [dom:: 2] [peso:: 3] [prova:: 2] ✅ 2026-09-22
 
 Jurisprudência: incidência do ISS sobre leasing financeiro e lease-back, mas não sobre leasing operacional.
 > RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ISS. ARRENDAMENTO MERCANTIL. OPERAÇÃO DE LEASING FINANCEIRO. ARTIGO 156, III, DA CONSTITUIÇÃO DO BRASIL. O arrendamento mercantil compreende três modalidades, [i] o leasing operacional, [ii] o leasing financeiro e [iii] o chamado lease-back. No primeiro caso há locação, nos outros dois, serviço. A lei complementar não define o que é serviço, apenas o declara, para os fins do inciso III do artigo 156 da Constituição. Não inventa, simplesmente descobre o que é serviço para os efeitos do inciso III do artigo 156 da Constituição. No arrendamento mercantil (leasing financeiro), contrato autônomo que não é misto, o núcleo é o financiamento, não uma prestação de dar. E financiamento é serviço, sobre o qual o ISS pode incidir, resultando irrelevante a existência de uma compra nas hipóteses do leasing financeiro e do lease-back. (STF – RE 592.905, Rel. Min. Eros Grau, Tribunal Pleno, j. 02/12/2009, repercussão geral).
@@ -3985,7 +4050,17 @@ Os Municípios e o Distrito Federal, **mediante lei**, poderão atribuir de mod
 
 2o Sem prejuízo do disposto no **caput** e no § 1o deste artigo, são responsáveis: 
 
-I – o **tomador ou intermediário de serviço** **proveniente do exterior do País** ou cuja prestação se tenha iniciado no exterior do País;
+I – <mark class="prova" style="background:rgba(0,170,170,0.28)">o **tomador ou intermediário de serviço** **proveniente do exterior do País** ou cuja prestação se tenha iniciado no exterior do País</mark>;
+
+> [!example]- Prova anterior: IBAM 2025 · Arraial do Cabo · Q14 (gab. B · oficial)
+> **Trecho usado:** "o tomador ou intermediário de serviço proveniente do exterior do País ou cuja prestação se tenha iniciado no exterior do País"
+> **Como cobrou:** exceção — pede a "não verdadeira": "(B) o imposto não incide sobre o serviço proveniente do exterior do país ou cuja prestação se tenha iniciado no exterior do país". As outras (lista taxativa com interpretação ampla; base de cálculo é o preço; lançamento pela situação fática) são verdadeiras.
+> **Lastro:** PDF p. 5 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q14]]
+
+> [!tip]- Lupa de prova: ISS e o serviço do exterior
+> **O padrão:** pede a afirmativa "não verdadeira" sobre o ISS e esconde a inversão na regra do exterior. (padrão de 1 prova, não confirmado)
+> **A armadilha:** a "(B)" diz que o imposto não incide sobre o serviço proveniente do exterior, quando a lei o cobra e põe o tomador como responsável.
+> **Como resolver:** a nota traz o art. 6º, § 2º, I, da LC 116: o tomador ou intermediário de serviço proveniente do exterior é responsável; ou seja, o imposto incide.
 
 II – a pessoa jurídica, ainda que imune ou isenta, tomadora ou intermediária dos serviços descritos nos subitens **3.05, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.16, 7.17, 7.19, 11.02, 17.05 e 17.10** da lista anexa a esta Lei Complementar, **exceto na hipótese dos serviços do subitem 11.05**, relacionados ao monitoramento e rastreamento a distância, em qualquer via ou local, de veículos, cargas, pessoas e semoventes em circulação ou movimento, realizados por meio de telefonia móvel, transmissão de satélites, rádio ou qualquer outro meio, inclusive pelas empresas de Tecnologia da Informação Veicular, independentemente de o prestador de serviços ser proprietário ou não da infraestrutura de telecomunicações que utiliza;       
 

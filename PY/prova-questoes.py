@@ -4,7 +4,7 @@ Separa uma prova antiga em questões (enunciado + alternativas + gabarito) num M
 de trabalho, com a página de cada uma. É a etapa 1 do /absorver-provas: o .md gerado NÃO
 é conteúdo final, é insumo pra classificar cada questão contra as notas de MATERIAS/.
 
-    python3 PY/prova-questoes.py "<prova.pdf|prova.md>" [--gabarito "<gab.pdf|gab.md|'01:A 02:B ...'>"]
+    python3 PY/prova-questoes.py "<prova.pdf|prova.md>" [--colunas] [--gabarito "<gab.pdf|gab.md|'01:A 02:B ...'>"]
                                  [--tipo N] [-o saida.md] [--diag] [--esqueleto "<título da prova>"]
 
 Grava em .vault-meta/provas/<nome>.md (ignorado pelo git) e imprime o diagnóstico.
@@ -38,7 +38,7 @@ SAIDA = VAULT / ".vault-meta" / "provas"
 
 RE_PAG = re.compile(r"<!-- p\.(\d+) -->")
 RE_QUESTAO = re.compile(r"(?:#{1,4}\s*)?\*{0,2}\s*(?:QUEST[ÃA]O|Quest[ãa]o)\s+0*(\d{1,3})\b\s*\*{0,2}[.:)\s]")
-RE_ALT = re.compile(r"(?:(?<=\s)|^)\*{0,2}\(?([A-E])\)\*{0,2}\s+(?=\S)")
+RE_ALT = re.compile(r"(?:(?<=\s)|^)(?:\*{0,2}\(?([A-E])\)\*{0,2}|([A-E])\s*\(\s*\))\s+(?=\S)")
 RE_TITULO = re.compile(r"^#{1,4}\s+(.{3,70})$")
 RE_TIPO_CAPA = re.compile(r"TIPO\s*(?:DE PROVA)?\s*[:\-]?\s*(\d)\b", re.I)
 RE_GAB = re.compile(r"\b0*(\d{1,3})\s*[:\-–.)]?\s*([A-E]|ANULADA|X)\b")
@@ -46,8 +46,33 @@ RE_RODAPE = re.compile(r"\s+[A-ZÀ-Ú]{4,}[A-ZÀ-Ú ,.\-]{12,}\s[-–]\s\d{1,3}\
 IGNORA_TITULO = re.compile(r"ANTES DE INICIAR|INSTRU|TIPO|CADERNO|CONCURSO|PREFEITURA|EDITAL|Quest[ãa]o", re.I)
 
 
-def texto_de(caminho: str) -> str:
+def colunas_md(pdf: Path) -> str:
+    """PDF em duas colunas: linhas da coluna esquerda e depois da direita, cada uma de cima para baixo."""
+    import pymupdf
+    out = [f"<!-- fonte: {pdf.name} (colunas) -->"]
+    for i, pg in enumerate(pymupdf.open(str(pdf)), 1):
+        meio = pg.rect.width / 2
+        ls = []
+        for b in pg.get_text("dict")["blocks"]:
+            for l in b.get("lines", []):
+                t = "".join(sp["text"] for sp in l["spans"]).strip()
+                if t:
+                    x0, y0 = l["bbox"][0], l["bbox"][1]
+                    ls.append((0 if x0 < meio else 1, round(y0, 1), x0, t))
+        out.append(f"<!-- p.{i} -->\n")
+        for _, _, _, t in sorted(ls):
+            out.append(re.sub(r"^(Quest[ãa]o\s+\d+)\s*$", r"### \1", t) + ("\n" if t.startswith("Quest") else ""))
+    return "\n".join(out)
+
+
+def texto_de(caminho: str, colunas: bool = False) -> str:
     p = Path(caminho)
+    if colunas and p.suffix.lower() == ".pdf":
+        md = VAULT / ".vault-meta" / "pdf-md" / (p.stem + ".colunas.md")
+        md.parent.mkdir(parents=True, exist_ok=True)
+        md.write_text(colunas_md(p), encoding="utf-8")
+        print(f"{p.name}: extraído por colunas → {md}")
+        return md.read_text(encoding="utf-8")
     if p.suffix.lower() == ".pdf":
         SAIDA.parent.mkdir(exist_ok=True)
         tmp = VAULT / ".vault-meta" / "pdf-md" / (p.stem + ".md")
@@ -101,6 +126,7 @@ def separar(txt: str):
     for k, (ini, fim, n) in enumerate(marcas):
         prox = marcas[k + 1][0] if k + 1 < len(marcas) else len(txt)
         corpo = RE_PAG.sub(" ", txt[fim:prox]).strip()
+        corpo = re.sub(r"(?m)^#{1,4}\s+.*$", "", corpo).strip()  # título de disciplina do PDF no fim do bloco
         corpo = RE_RODAPE.sub("", corpo)  # rodapé de página colado no fim ("CARGO ... - 3")
         out.append({"n": n, "pag": pagina(ini), "disc": disciplina(ini), "corpo": corpo})
     return out
@@ -114,7 +140,7 @@ def formatar(q, gab):
         linhas = []
         for i, a in enumerate(alts):
             fim = alts[i + 1].start() if i + 1 < len(alts) else len(corpo)
-            linhas.append(f"- ({a.group(1)}) {corpo[a.end():fim].strip()}")
+            linhas.append(f"- ({(a.group(1) or a.group(2))}) {corpo[a.end():fim].strip()}")
     else:
         enun, linhas = corpo, []
     g = gab.get(q["n"], "?") if gab else "?"
@@ -138,7 +164,7 @@ def esqueleto(qs, gab, titulo):
             for i, a in enumerate(alts):
                 fim = alts[i + 1].start() if i + 1 < len(alts) else len(corpo)
                 t = corpo[a.end():fim].strip()
-                ls.append(f"> ({a.group(1)}) " + (f"{VERDE}{t}</mark>" if a.group(1) == g else t))
+                ls.append(f"> ({(a.group(1) or a.group(2))}) " + (f"{VERDE}{t}</mark>" if (a.group(1) or a.group(2)) == g else t))
             alt_txt = "\n".join(ls)
         else:
             enun, alt_txt = corpo, "> (alternativas: conferir no PDF)"
@@ -159,12 +185,13 @@ def main():
     ap.add_argument("prova")
     ap.add_argument("--gabarito")
     ap.add_argument("--tipo", type=int)
+    ap.add_argument("--colunas", action="store_true", help="PDF em duas colunas: extrai coluna esquerda e depois direita")
     ap.add_argument("-o", "--saida")
     ap.add_argument("--diag", action="store_true", help="só o diagnóstico, sem gravar")
     ap.add_argument("--esqueleto", metavar="TÍTULO", help="grava também <nome>.resolvida.md (layout da prova resolvida)")
     a = ap.parse_args()
 
-    txt = texto_de(a.prova)
+    txt = texto_de(a.prova, a.colunas)
     qs = separar(txt)
     if not qs:
         sys.exit("⚠️ nenhum marcador 'Questão N' achado — prova escaneada, em colunas ou com outro formato. "
