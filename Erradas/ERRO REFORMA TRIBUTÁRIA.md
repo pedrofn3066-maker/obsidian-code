@@ -21,6 +21,8 @@ tags:
   2. **Substituição × solidária na importação (arts. 73 e 74):** 1 erro trocou os três agentes de um rol pelo outro — mesma lógica de troca de dois artigos com listas parecidas já vista na Estrutura do CGIBS.
   3. **Confirma de novo o padrão comportamental:** 5 dos 9 erros (cadastro/NFS-e dos arts. 59 e 62, pagamento do art. 76 caput, habilitação do art. 83) foram marcar Errado em item literal e específico — a mesma desconfiança da extensão do item, agora espalhada por todo o Bloco 4 (Operacionalização/Importação/Exportação), não só a Estrutura do CGIBS.
 - **Livro do ITCMD (arts. 146 a 159 da LC nº 227/2026) — 6/6 erros do caderno C04 RETRI Expert ISS/Santos (28/09/2026):** ponto cego de **conteúdo**, não de comportamento (3 erros marcaram Certo devendo ser Errado, 3 marcaram Errado devendo ser Certo — sem viés de direção). Assunto novo, ainda ausente de `MATERIAS/P2 - Reforma Tributária.md`: imunidade/não incidência (arts. 149-150 — fideicomisso, usufruto), momento do fato gerador (art. 151), base de cálculo em bem financiado/consorciado com ou sem seguro prestamista (art. 153) e competência sobre bens móveis por domicílio, inclusive pluralidade (art. 159).
+- **Fiscalização e Lançamento de Ofício (arts. 324 a 341 da LC nº 214/2025) — 5/7 erros do caderno C06 RETRI Ninja (29/09/2026):** ponto cego de **conteúdo**. Quem fiscaliza/lança cada tributo (CBS = União; IBS = Estados, DF e Municípios, art. 324); os quatro convênios/regras da administração (art. 325 provas e contraditório, art. 326 fiscalização de pequeno valor, art. 327 julgamento entre Ministério da Fazenda e Comitê Gestor, art. 330 auto de infração com o ente só no IBS); REF (art. 340, § 2º); e o rol do art. 335 (saldo **credor** × devedor; prova idônea afasta o inciso VII). Os arts. 324, 325, 330 e 338 a 340 ainda não estão no cofre.
+- **Padrão comportamental confirmado (C06, 29/09/2026):** 3 dos 7 erros foram marcar Errado em item que era cópia literal (art. 335, § 1º; art. 340, § 2º; art. 420, § 1º) — a mesma desconfiança de item longo e específico já registrada acima. Nos outros 4 (art. 324, art. 330, saldo devedor, valor recuperável) havia troca real de termo.
 
 ---
 
@@ -61,6 +63,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > **A Regra:** o processo observa princípios como simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé. Nota: [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]]. `#pegadinha`
 > **Revisão Ativa:** princípios do processo administrativo tributário do IBS :: simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé
 > **Pendência:** o prazo certo de intimação depende do texto da LC 227/26, que a nota ainda não tem.
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🟰 É a própria questão desta prova — a IBAM 2026 Guarulhos Q122 (gab. E, preliminar) é este registro: marcou D e o gabarito é E, como aqui; a prova resolvida traz a intimação após 10 dias (LC 214, art. 333, §2º), não 15; a Q160 (gab. E) cobrou a ciência dos atos na Lei municipal 5.420/1999 (art. 4º: pessoal, carta com AR, edital), não o prazo de intimação do IBS · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q122]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q160]]
 
 - **Corrigindo o item:** A sociedade em conta de participação poderá optar pelo regime regular do IBS e da CBS, No entanto, caso ela não exerça essa opção, o ~~**sócio participante**~~ **sócio ostensivo** ficará obrigado ao pagamento do IBS e da CBS quanto às operações realizadas pela sociedade, vedada a exclusão de valores devidos a ~~**sócios ostensivos**~~ **sócios participantes**.
 
@@ -89,7 +93,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:535`, `:537` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesma norma, outro dispositivo — a IBAM 2026 São Vicente Q24 (gab. B) cobrou o art. 6º (não incidência: serviços de PF por relação de emprego, transferência entre estabelecimentos) e citou a doação com crédito (art. 5º); este cobra o fornecimento não oneroso a empregados (art. 5º, I, "b") · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q24]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesma norma, outro dispositivo — a IBAM 2026 São Vicente Q24 (gab. B) cobrou o art. 6º (não incidência: serviços de PF por relação de emprego, transferência entre estabelecimentos) e citou a doação com crédito (art. 5º); este cobra o fornecimento não oneroso a empregados (art. 5º, I, "b") · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q24]]
 
 > [!question]- 21/09 08:34 · Reforma Tributária · — — Ordem de prevalência das desonerações
 > Julgue o item a seguir com base na Lei Complementar nº 214/2025.
@@ -125,7 +129,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:538` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ⚪ Não é regra decisiva nas 4 provas absorvidas; a São Vicente Q34 só usa "partes relacionadas" como gatilho do valor de mercado (art. 12, §4º), sem cobrar o piso de 25% (art. 5º, §3º) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ⚪ Não é regra decisiva nas 5 provas absorvidas; a São Vicente Q34 só usa "partes relacionadas" como gatilho do valor de mercado (art. 12, §4º), sem cobrar o piso de 25% (art. 5º, §3º) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
 
 > [!question]- 21/09 08:35 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) — Relação de controle
 > Julgue o item a seguir com base na Lei Complementar nº 214/2025.
@@ -144,7 +148,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:539` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ⚪ Não aparece nas 4 provas absorvidas; a São Vicente Q34 só toca "partes relacionadas" como gatilho do valor de mercado, sem cobrar o conceito de controle (art. 5º, §5º) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ⚪ Não aparece nas 5 provas absorvidas; a São Vicente Q34 só toca "partes relacionadas" como gatilho do valor de mercado, sem cobrar o conceito de controle (art. 5º, §5º) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
 
 > [!question]- 21/09 08:36 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) #3258362 — Imunidade nos fornecimentos do poder público
 > Julgue o item a seguir com base na Lei Complementar nº 214/2025.
@@ -184,7 +188,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:577` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (art. 10), outro dispositivo — a IBAM 2026 São Vicente Q38 (gab. C) cobrou o §1º, I (transporte iniciado no País: início) e trouxe as antecipações do §4º só como alternativa (A); este cobra o §7º (5 dias, débitos) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q38]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (art. 10), outro dispositivo — a IBAM 2026 São Vicente Q38 (gab. C) cobrou o §1º, I (transporte iniciado no País: início) e trouxe as antecipações do §4º só como alternativa (A); este cobra o §7º (5 dias, débitos) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q38]]
 
 > [!question]- 21/09 08:38 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) #3277646 — Base de cálculo: o transporte integra o valor da operação
 > Julgue o item a seguir com base na Lei Complementar nº 214/2025.
@@ -206,7 +210,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:609-611` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (base de cálculo), outro dispositivo — a IBAM 2026 São Vicente Q34 (gab. C) cobrou o valor de mercado (§4º) e usou o §1º (tributos e preços públicos entram) e o §2º (descontos incondicionais, IBS, CBS e IPI saem) só como distratores (A), (B) e (D); este cobra o transporte do §1º · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 Guarulhos Q124 (gab. C, preliminar) cobrou a mesma regra: o valor da operação é o valor integral cobrado a qualquer título, inclusive juros, multas, seguros e transporte (art. 12, §1º), e a alternativa (D), errada, veda o transporte como este item; a São Vicente Q34 (gab. C) cobrou o valor de mercado (§4º) e usou o §1º e o §2º só como distratores (A), (B) e (D) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q124]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
 
 > [!question]- 21/09 08:39 · Reforma Tributária · SEFAZ PR 2025 (Inéditas Literais) #3289019 — Base de cálculo: valor de mercado entre partes relacionadas
 > Julgue o item a seguir com base na Lei Complementar nº 214/2025.
@@ -227,7 +231,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:538`, `:536`, `:611` · (sem conferência no Planalto, que estava fora do ar; o cofre usa o resumo VINTEUM da LC 214)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 São Vicente Q34 (gab. C) cobrou a mesma regra: a base é o valor de mercado na falta de valor da operação, sem valor determinado ou entre partes relacionadas (art. 12, §4º) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 São Vicente Q34 (gab. C) cobrou a mesma regra: a base é o valor de mercado na falta de valor da operação, sem valor determinado ou entre partes relacionadas (art. 12, §4º) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q34]]
 
 > [!question]- 21/09 16:58 · Reforma Tributária · Inéditas (AFRFB 2026) — Denominação errônea da defesa ou do recurso
 > Julgue o item conforme a LC 227/2026 (CGIBS):
@@ -274,6 +278,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > **Macete:** o art. 57 é o "sistema eletrônico do CGIBS" (nome genérico, sem e-CAC). O resto da seção é **dia útil, dia do envio e protocolo**.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading, outro dispositivo — a IBAM 2026 Guarulhos Q122 (gab. E, preliminar), a que o texto acima cita, cobrou o art. 55 (princípios do PAT do IBS) e usou o art. 57 (sistema eletrônico do CGIBS, não o e-CAC) só como distrator, na alternativa (A), com os prazos em dias úteis (art. 62) na (C); este cobra o art. 57 como a certa (E) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q122]]
 
 > [!question]- 21/09 16:59 · Reforma Tributária · Inéditas (AFRFB 2026, #4036476) — Tempestividade suscitada em preliminar
 > Julgue o item conforme a LC 227/2026 (CGIBS):
@@ -314,6 +320,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > **Macete:** quem pede a prorrogação é **quem faz a diligência**, não o contribuinte.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md` (seção do processo administrativo do IBS) · LC 227/2026 no PDF `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — a IBAM 2026 Guarulhos Q157 (gab. B, preliminar) cobrou a diligência de ofício na Lei municipal 5.420/1999 (art. 46: com prazo fixado e indeferimento das prescindíveis; art. 48, §2º: converter o julgamento em diligência) e a Q159 (gab. D) a contagem dos prazos da mesma lei (contínuos, exclui o início e inclui o vencimento, art. 2º); nenhuma cobrou o prazo de 20 dias úteis do art. 70 da LC 227 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q157]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q159]]
 
 > [!question]- 21/09 17:01 · Reforma Tributária · Inéditas (AFRFB 2026, #4036489) — Rito sumário: menor complexidade
 > Julgue o item conforme a LC 227/2026 (CGIBS):
@@ -527,6 +535,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Diretoria Executiva do CGIBS: competências (art. 27)]]
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:1622`
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesma norma, outro dispositivo — a IBAM 2026 Guarulhos Q117 (gab. A, preliminar) cobrou o art. 2º, caput, da LC 227 (o que os entes fazem exclusivamente pelo CGIBS: regulamento único e uniformização da interpretação, arrecadação, compensação, retenção, distribuição e contencioso; CF art. 156-B, I a III); este cobra a competência da Diretoria Executiva sobre a legislação do IBS (art. 27, I) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q117]]
 
 > [!question]- 15/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AFRFB 2026, #3929562) — Competência da Diretoria Executiva sobre orçamento do CGIBS (art. 27, XIX)
 > Julgue o item que segue conforme a Lei Complementar nº 227/2026, que institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) e dá outras providências.
@@ -657,7 +667,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [[P2 - Reforma Tributária#Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)]] — o § 2º-A ainda não está registrado nessa nota (a nota resume o art. 33 até o § 7º, sem o § 2º-A da LC 227/2026); vale acrescentar na próxima passada pelo `/absorver-pdf` da LC 227/2026.
 > > **Fonte:** comentário do TEC (LC 214/2025 + LC 227/2026, art. 33)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q31 (gab. A) cobrou a mesma regra: transação sem identificação dos valores implica opção pelo simplificado (§2º-A do art. 33) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q31 (gab. A) cobrou a mesma regra: transação sem identificação dos valores implica opção pelo simplificado (§2º-A do art. 33); a Guarulhos Q116 (gab. D, preliminar) só trouxe o simplificado como opcional (art. 33, §6º), na alternativa (A) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q116]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354359) — Split payment padrão: consulta indisponível — CGIBS/RFB transferem ao fornecedor, não ao adquirente (§4º)
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -684,7 +694,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [[P2 - Reforma Tributária#Split payment (arts. 31 a 35)]] — já registrado ("CGIBS e RFB calculam a dedução das parcelas já extintas e transferem ao fornecedor o excedente em até 3 dias úteis"); trecho já estava correto no cofre, sem grifo de mark, o Pedro só não tinha fixado.
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:712`
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo mecanismo, outro dispositivo — a IBAM 2026 Bragança Q31 (gab. A) usou a consulta prévia do art. 32 só como distrator, na alternativa (C); a São Vicente Q52 (gab. D) cobriu o art. 31, caput (segregar e recolher na liquidação financeira), no mesmo heading · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q52]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo mecanismo, outro dispositivo — a IBAM 2026 Bragança Q31 (gab. A) usou a consulta prévia do art. 32 só como distrator, na alternativa (C); a São Vicente Q52 (gab. D) cobriu o art. 31, caput (segregar e recolher na liquidação financeira), no mesmo heading; a Guarulhos Q116 (gab. D, preliminar) trouxe o art. 31 (segregar e recolher na liquidação) na alternativa (B), certa · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q52]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q116]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354367) — Split payment: prestadores de pagamento não são responsáveis tributários (art. 34, V, "b")
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -708,7 +718,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [[P2 - Reforma Tributária#Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)]] — o não-responsabilidade dos prestadores já está registrada aqui, com a mesma pegadinha de 20/09 na ponte da nota.
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:720`
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading, outro ângulo — a IBAM 2026 Bragança Q31 (gab. A) usou o art. 34, V (prestadores não são responsáveis tributários) só como distrator, na alternativa (B); a São Vicente Q52 (gab. D) cobrou o art. 31 (a certa manda segregar e recolher na liquidação) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q52]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading, outro ângulo — a IBAM 2026 Bragança Q31 (gab. A) usou o art. 34, V (prestadores não são responsáveis tributários) só como distrator, na alternativa (B); a São Vicente Q52 (gab. D) cobrou o art. 31 (a certa manda segregar e recolher na liquidação); a Guarulhos Q116 (gab. D, preliminar) cobrou o art. 34, II (parcelamento) e trouxe o art. 34, V só na alternativa (E), certa, a que a Obs. acima já cita · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q52]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q116]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3354373) — Recolhimento pelo adquirente quando o instrumento de pagamento não permite split (art. 36)
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -727,7 +737,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [[P2 - Reforma Tributária#Recolhimento pelo adquirente e pelo responsável (arts. 36 e 37)]] — já grifado ("3 dias úteis" do § 3º), o trecho do caput e § 1º usado nesta resposta está sem mark, mas o texto já está correto no cofre.
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:734`
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 São Vicente Q29 (gab. C, item II) cobrou a mesma regra: o adquirente do regime regular pode pagar o imposto se o pagamento ao fornecedor for por instrumento que não permita o split (art. 36) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q29]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 São Vicente Q29 (gab. C, item II) cobrou a mesma regra: o adquirente do regime regular pode pagar o imposto se o pagamento ao fornecedor for por instrumento que não permita o split (art. 36) · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q29]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3370870) — Ressarcimento integral ou parcial: o remanescente pode ser compensado **ou ressarcido**, não só compensado (art. 39, § 1º)
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -754,7 +764,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [[P2 - Reforma Tributária#Ressarcimento (arts. 39 e 40)]] — já registrado corretamente ("utilizável em compensação ou ressarcimento posterior"); já estava certo no cofre, o erro foi só na leitura do enunciado.
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:753`
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 São Vicente Q29 (gab. C, item III) cobrou o art. 39: o saldo a recuperar pode ser ressarcido, integral ou parcialmente, e o remanescente vira crédito · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q29]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 São Vicente Q29 (gab. C, item III) cobrou o art. 39: o saldo a recuperar pode ser ressarcido, integral ou parcialmente, e o remanescente vira crédito · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q29]]
 
 > [!question]- 24/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3314342) — Alíquota reduzida na saída NÃO gera estorno dos créditos de entrada (art. 47, § 10)
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -1072,6 +1082,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Exportações (arts. 79 a 83)]] — a nota **já está atualizada** com "adquirente e destinatário" (linha `:899`); o § 2º revogado não está mais lá, o que está certo.
 > > **Fonte:** comentário do TEC (LC 214/2025 alterada pela LC 227/2026, art. 80) · cofre `MATERIAS/P2 - Reforma Tributária.md:899`
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading, outro dispositivo — a IBAM 2026 Guarulhos Q123 (gab. C, preliminar) cobrou o art. 79 (exportações de bens e serviços são imunes ao IBS e à CBS, não isentas nem tributadas); este cobra o consumo no exterior na exportação de serviços (art. 80, §1º-A) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q123]]
 
 > [!question]- 26/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (AF SEFAZ PR 2025, #3411500) — Cancelamento da habilitação de empresa comercial exportadora: rito literal (art. 83)
 > Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
@@ -1237,6 +1249,8 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > Não está no cofre — `MATERIAS/P2 - Reforma Tributária.md` ainda não cobre o Livro do ITCMD da LC 227/2026 (arts. 146 a 159).
 > > **Fonte:** comentário do TEC (LC 227/2026, art. 159, §§ 1º-2º)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — a IBAM 2026 Guarulhos Q84 (gab. A, preliminar) cobrou o ITCMD na Constituição (art. 155, §1º, IV e VI: alíquotas máximas pelo Senado e progressividade pelo valor do quinhão, do legado ou da doação) e trouxe na alternativa (D) a competência sobre móveis pelo domicílio do de cujus ou do doador (art. 155, §1º, II), que a resolução aponta como também correta; este cobra a pluralidade de domicílio na LC 227 (art. 159, §2º) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q84]]
 
 > [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · FCC (Pref. Barueri, 2026) — COSIP: cobrança só no exercício seguinte (art. 149-A c/c art. 150, I e III)
 > De acordo com a Constituição Federal, os municípios poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos. De acordo com a citada Constituição, se a contribuição para o custeio, a expansão e a melhoria do serviço de
@@ -1344,7 +1358,7 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [[P2 - Reforma Tributária#Split payment (arts. 31 a 35)|Split payment (arts. 31 a 35)]] — o § 1º-A está lá; já estava no cofre (sem grifar agora).
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:710` · TEC #4042639 · comentário do TEC (LC 214/2025, art. 31, redação da LC 227/2026)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesma norma, outro dispositivo — a IBAM 2026 Bragança Q31 (gab. A) cobrou o procedimento simplificado (arts. 33 a 35); este cobra a transação iniciada pelo recebedor (art. 31, §1º-A); a São Vicente Q52 (gab. D) cobrou o art. 31, caput · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q52]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesma norma, outro dispositivo — a IBAM 2026 Bragança Q31 (gab. A) cobrou o procedimento simplificado (arts. 33 a 35); este cobra a transação iniciada pelo recebedor (art. 31, §1º-A); a São Vicente Q52 (gab. D) cobrou o art. 31, caput · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q52]]
 
 > [!question]- 28/09 (mesma captura, sem hora registrada) · Reforma Tributária · CEBRASPE (SEFAZ SE, 2025) — Não cumulatividade: imunidade/isenção anulam crédito; alíquota zero mantém (arts. 51 e 52) e mesmas regras para IBS e CBS (art. 149-B, IV, CF)
 > No que diz respeito à não cumulatividade do IBS e da contribuição social sobre bens e serviços (CBS), assinale a opção **correta**.
@@ -1382,3 +1396,200 @@ _Pegadinha possível da banca: "o presidente deverá ter notórios conhecimentos
 > > [!info] 🔗 Na matéria
 > > [[P2 - Reforma Tributária#Não cumulatividade: dispensa da extinção, vedações e efeitos (arts. 48 a 52)|Não cumulatividade: dispensa da extinção, vedações e efeitos (arts. 48 a 52)]] — arts. 51 e 52 já estavam no cofre; art. 52 já com "mantêm-se" grifado. Art. 149-B, IV: [[P2 - Reforma Tributária#Contribuições e Administração Pública (arts. 149-A, 149-B e 149-C)|Contribuições e Administração Pública]].
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:836` · TEC #3641748 · comentário do TEC (LC 214/2025, arts. 47, 51, 52, 57 e 108; CF, art. 149-B)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — a IBAM 2026 Guarulhos Q118 (gab. A, preliminar) cobrou a não cumulatividade na Constituição (art. 156-A, §1º, VIII: compensa o cobrado em todas as aquisições, excetuados só o uso ou consumo pessoal definido em lei complementar e as hipóteses constitucionais), ponto que a alternativa (C) deste item usa como distrator; este cobra os efeitos da imunidade, isenção e alíquota zero (arts. 51 e 52) e a igualdade de regras entre IBS e CBS (art. 149-B, IV) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q118]]
+
+### 29/09
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor Fiscal SEFAZ PR 2025, #3351122) — Fiscalização e lançamento do IBS: a União fica de fora (art. 324)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> A fiscalização do cumprimento das obrigações tributárias principais e acessórias, bem como a constituição do crédito tributário relativo ao IBS compete às autoridades fiscais integrantes das administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios.
+>
+> (C) <mark style="background:rgba(163, 67, 31, 0.2)">Certo</mark>
+> (E) <mark style="background:#affad1">Errado</mark>
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — Errado
+> > O art. 324 divide por tributo: <mark style="background:#fff88f">CBS</mark> → administração tributária da <span class="g-comp">União</span>; <mark style="background:#fff88f">IBS</mark> → administrações tributárias dos <span class="g-comp">Estados, do DF e dos Municípios</span>. O item enfiou a União no IBS.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Item copia o inciso II do art. 324 e acrescenta a **União**, que só é competente para a CBS.
+>
+> > [!tip] 💡 Macete
+> > CBS = União sozinha; IBS = todos **menos** a União (Estados, DF e Municípios).
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Representação administrativa e judicial do IBS (art. 156-B, § 2º, V, CF)]] — o cofre traz o mesmo comando pela CF (art. 156-B, § 2º, V), sem citar o art. 324 da LC 214; grifado agora. O art. 324 em si **não está no cofre**.
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 324, I e II) · cofre `MATERIAS/P2 - Reforma Tributária.md:1154`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor Fiscal SEFAZ PR 2025, #3353632) — Receita omitida integra a base do IBS e da CBS (art. 335, § 1º)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> O valor da receita omitida para apuração de tributos federais e do IBS, inclusive por presunções legais específicas, será considerado na determinação da base de cálculo para o lançamento da CBS e do IBS.
+>
+> (C) <mark style="background:#affad1">Certo</mark>
+> (E) <mark style="background:rgba(163, 67, 31, 0.2)">Errado</mark>
+>
+> **Marquei:** 🟥 E · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — Certo
+> > Item é o texto do <mark style="background:#fff88f">art. 335, § 1º</mark>: a <span class="g-cond">receita omitida</span> (inclusive por presunção legal específica) entra na <span class="g-comp">base de cálculo</span> do lançamento da CBS e do IBS.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Fiscalização: omissão de receita e presunções (art. 335)]] — § 1º já estava no cofre, mas sem grifo; grifado agora.
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 335, § 1º) · cofre `MATERIAS/P2 - Reforma Tributária.md:1191`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor Fiscal SEFAZ PR 2025, #3353646) — Regime especial de fiscalização: medidas proporcionais (art. 340, § 2º)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> Na definição das medidas previstas no regime especial de fiscalização (REF), a autoridade fiscal deverá considerar a gravidade e a lesividade da conduta praticada e limitar-se às medidas necessárias para a atuação fiscal na situação específica.
+>
+> (C) <mark style="background:#affad1">Certo</mark>
+> (E) <mark style="background:rgba(163, 67, 31, 0.2)">Errado</mark>
+>
+> **Marquei:** 🟥 E · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — Certo
+> > Art. 340, § 2º: ao definir as medidas do REF (art. 339) a autoridade deve (I) <mark style="background:#fff88f">considerar a gravidade e a lesividade da conduta</mark> e (II) <span class="g-cond">limitar-se às medidas necessárias</span> à situação específica. O item repete os dois incisos.
+>
+> > [!example]- 🧩 Quadro — art. 340 (aplicação do REF)
+> > | Dispositivo | Regra |
+> > | --- | --- |
+> > | Caput | REF disciplinado pela <span class="g-comp">RFB</span> (CBS) e pelo <span class="g-comp">Comitê Gestor do IBS</span> (IBS) |
+> > | § 1º, I | despacho do art. 338, § 5º, por autoridade **hierarquicamente superior** à do procedimento |
+> > | § 1º, II | **prazo máximo** de duração; renovação só por novo despacho fundamentado, se persistirem as situações |
+> > | § 2º | medidas proporcionais: gravidade e lesividade; só as necessárias |
+>
+> > [!tip] 💡 Macete
+> > REF = proporcionalidade: gravidade da conduta define a medida, e nada além do necessário.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Diretrizes de fiscalização compartilhada e delegação (arts. 3º a 6º)]] — o REF só aparece de passagem (competência do CGIBS de disciplinar o regime especial de fiscalização, `:1696`); os arts. 338 a 340 da LC 214 **não estão no cofre**.
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 340) · cofre `MATERIAS/P2 - Reforma Tributária.md:1696`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor Fiscal da Receita Estadual SEFAZ GO 2025, #3660675) — Administração do IBS e da CBS: convênios, provas de outro ente e auto de infração (arts. 325 a 330)
+> De acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária, analise o que se pede.
+>
+> Quanto à administração do IBS e da CBS, assinale a alternativa correta:
+>
+> (A) A RFB e as administrações tributárias dos Estados, do Distrito Federal e dos Municípios poderão celebrar convênio para delegação recíproca da atividade de fiscalização do IBS e da CBS nos processos fiscais de grande valor, assim considerados aqueles cujo lançamento supere limite único estabelecido no regulamento.
+> (B) A RFB e as administrações tributárias dos Estados, do Distrito Federal e dos Municípios poderão celebrar convênio para delegação recíproca do julgamento do contencioso administrativo relativo ao lançamento de ofício do IBS e da CBS, conforme estipulado nessa Lei complementar.
+> (C) <mark style="background:#affad1">Caso a RFB utilize em seu lançamento provas decorrentes do processo administrativo de lançamento de ofício efetuado por outro ente federativo, independentemente de esse processo administrativo estar ou não encerrado, haverá necessidade de observar o contraditório do sujeito passivo.</mark>
+> (D) <mark style="background:rgba(163, 67, 31, 0.2)">Em se tratando de auto de infração relativo à CBS, a identificação do ente federativo responsável pelo lançamento consiste em um dos elementos obrigatórios que devem constar desse auto de infração.</mark>
+> (E) Em se tratando de auto de infração relativo à CBS, a memória de cálculo e a descrição do fato consistem em elementos obrigatórios que devem constar nesse auto de infração.
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C
+> > Art. 325, § 3º: a RFB e os entes podem usar fundamentações e provas do lançamento de outro ente, mas <mark style="background:#fff88f">sem dispensar o contraditório e a ampla defesa</mark>, <span class="g-cond">ainda que o processo esteja encerrado</span>.
+> > 
+> > **(D)** a identificação do ente federativo responsável pelo lançamento é obrigatória só no auto de infração do <span class="g-comp">IBS</span> (art. 330, § 1º, VII), porque o IBS é lançado por três esferas; a CBS é só da União. **(A)** o convênio de fiscalização (art. 326) é para processos de <span class="g-num">pequeno valor</span> (lançamento que **não supere** o limite). **(B)** a delegação do julgamento é entre <span class="g-comp">Ministério da Fazenda e Comitê Gestor do IBS</span> (art. 327). **(E)** memória de cálculo não está no rol do art. 330, § 1º.
+>
+> > [!example]- 🧩 Quadro
+> > | Artigo | Tema | Quem / limite |
+> > | --- | --- | --- |
+> > | 325, I e § 3º | usar provas de outro ente | RFB e entes; contraditório sempre, mesmo processo encerrado |
+> > | 326 | convênio de delegação da **fiscalização** | RFB × entes; só **pequeno valor** (não supera o limite único) |
+> > | 327 | convênio de delegação do **julgamento** do contencioso | **Ministério da Fazenda × Comitê Gestor do IBS**; só o lançamento do art. 326 |
+> > | 330, § 1º, VII | auto de infração | ente responsável pelo lançamento: **só no auto do IBS** |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca os polos e o valor: (A) grande × pequeno valor; (B) RFB × entes no lugar de Ministério da Fazenda × Comitê Gestor; (D) leva ao CBS um elemento que é só do IBS; (E) inventa "memória de cálculo" no rol de elementos do auto.
+>
+> > [!tip] 💡 Macete
+> > Convênio de fiscalização é **pequeno** valor; quem tem vários lançadores (IBS) precisa dizer **qual ente** lançou; e prova de outro ente sempre pede **contraditório**.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Contencioso administrativo: Comitê de Harmonização e delegação do julgamento]] — o convênio de **pequeno valor** e o polo Ministério da Fazenda × Comitê Gestor já estavam grifados. ⚠️ O cofre atribui essa delegação do **julgamento** ao **art. 326**; pelo comentário do TEC o art. 326 é a delegação da **fiscalização** e a do **julgamento** é o art. 327 (conferir na LC 214 e corrigir a nota). Arts. 325 e 330 **não estão no cofre**.
+> > **Fonte:** comentário do TEC (LC 214/2025, arts. 324 a 327 e 330) · cofre `MATERIAS/P2 - Reforma Tributária.md:1149` · (não conferi se a LC 227/2026 alterou algum desses artigos)
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor Fiscal da Receita Estadual SEFAZ GO 2025, #3709437) — Casos de omissão de receita (art. 335, II, III, VII e VIII)
+> Durante uma fiscalização realizada sobre a empresa Lumons S/A, Marcos e Irvino, experientes auditores fiscais, identificaram as seguintes situações:
+>
+> I. valores creditados, ao longo de cinco meses, em conta de depósito mantida em instituição financeira. Após regular intimação, Helena, a diretora da empresa, apresentou documentação fiscal idônea que comprovava serem ressarcimentos de clientes por cancelamento de vendas anteriormente registradas, devidamente escrituradas na contabilidade.
+> II. registros em quatro exercícios financeiros de entradas de valores em espécie classificadas como "adiantamentos do acionista". Ao questionar a operação, a diretora da empresa alegou se tratar de empréstimos do sócio controlador James Ego, mas não comprovou a origem dos recursos nem apresentou documentos que demonstrassem a efetiva entrega dos valores à empresa.
+> III. apuração, em procedimento fiscal, de saldo devedor recorrente na conta caixa. Questionada, a diretora Helena afirmou não possuir conhecimentos contábeis suficientes para esclarecer a situação.
+> IV. registro na contabilidade do passivo de contas classificadas como "fornecedores ocultos", que totalizavam montante significativo. Após as devidas diligências, constatou-se que vários desses valores já haviam sido pagos há mais de dois anos, sem qualquer documentação que justificasse a permanência como obrigação.
+>
+> Com base na Lei Complementar nº 214/2025, assinale a alternativa que indica as hipóteses em que os auditores Marcos e Irvino podem caracterizar que houve omissão de receita e ocorrência de operações sujeitas à incidência do IBS e da CBS:
+>
+> (A) Apenas nas situações I, II e IV.
+> (B) Em todas as situações apresentadas.
+> (C) <mark style="background:#affad1">Apenas nas situações II e IV.</mark>
+> (D) <mark style="background:rgba(163, 67, 31, 0.2)">Apenas nas situações II, III e IV.</mark>
+> (E) Apenas nas situações I, III e IV.
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C
+> > Só II e IV caracterizam omissão de receita (art. 335): **II** é <mark style="background:#fff88f">suprimento de caixa</mark> por acionista controlador sem provar entrega e origem (inciso VIII); **IV** é <span class="g-cond">manutenção no passivo de obrigações já pagas</span> (inciso III).
+> > 
+> > **III** tem saldo **devedor** na conta caixa, que é o normal dela; a presunção do inciso II exige saldo <span class="g-cond">credor</span>. **I** cai no inciso VII, mas a origem foi comprovada com <span class="g-cond">documentação idônea</span> após a intimação regular, então não há presunção.
+>
+> > [!example]- 🧩 Quadro — as quatro situações
+> > | Situação | Inciso do art. 335 | Caracteriza? | Por quê |
+> > | --- | --- | --- | --- |
+> > | I — créditos em conta bancária | VII | **não** | intimada, comprovou a origem com documentação idônea |
+> > | II — "adiantamento do acionista" | VIII | **sim** | suprimento de caixa sem provar entrega e origem |
+> > | III — saldo devedor no caixa | II | **não** | a presunção é de saldo **credor** |
+> > | IV — "fornecedores ocultos" já pagos | III | **sim** | obrigação paga mantida no passivo |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > **Devedor × credor:** "saldo devedor na conta caixa" imita o inciso II ("saldo credor"). Nos incisos VII e VIII o que decide é a **prova**: sem comprovação → omissão; comprovou com documentação idônea → não.
+>
+> > [!tip] 💡 Macete
+> > Caixa é devedora por natureza; só o "estouro de caixa" (saldo **credor**) presume receita omitida.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Fiscalização: omissão de receita e presunções (art. 335)]] — incisos II, III e VIII já estavam grifados; o VII não, grifado agora.
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 335, II, III, VII e VIII) · cofre `MATERIAS/P2 - Reforma Tributária.md:1164-1170`
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor Fiscal da Fazenda Estadual SEFAZ PI 2025, #3356322) — Base de cálculo do IS na incorporação ao ativo imobilizado (art. 414, IV)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> Na incorporação do bem ao ativo imobilizado pelo fabricante, a base de cálculo do Imposto Seletivo é o valor recuperável do bem produzido ao ativo imobilizado.
+>
+> (C) <mark style="background:rgba(163, 67, 31, 0.2)">Certo</mark>
+> (E) <mark style="background:#affad1">Errado</mark>
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — Errado
+> > Art. 414, IV: a base de cálculo do IS na incorporação ao ativo imobilizado é o <mark style="background:#fff88f">valor contábil de incorporação</mark> do bem produzido, não o <span class="g-cond">valor recuperável</span>.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Troca a expressão contábil: "valor recuperável" (termo de teste de impairment) no lugar de "valor contábil de incorporação".
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Reforma Tributária#Imposto Seletivo: incidência única, fato gerador e base de cálculo]] — o cofre traz o fato gerador (art. 412, IV, incorporação ao imobilizado) e a base ad valorem/ad rem (art. 415), mas o art. 414, IV **não está no cofre** (entrou pelo comentário do TEC); nada foi grifado.
+> > **Fonte:** comentário do TEC (LC 214/2025, art. 414, IV) · cofre `MATERIAS/P2 - Reforma Tributária.md:1196` · (não conferi se a LC 227/2026 alterou o dispositivo)
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Reforma Tributária · Inéditas (Auditor Fiscal da Fazenda Estadual SEFAZ PI 2025, #3356330) — IS zerado em carros de PcD/TEA e táxi; limite de R$ 200.000 (art. 420 e art. 149)
+> Julgue o item a seguir de acordo com a Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária.
+>
+> Existem Automóveis de passageiros adquiridos por pessoas com Deficiência ou com Transtorno do Espectro Autista e por Motoristas Profissionais que destinem o Automóvel à utilização na categoria de aluguel (Táxi) que são beneficiados por regime diferenciado para o IBS e para a CBS.
+>
+> A alíquota do Imposto Seletivo fica reduzida a zero para esses veículos. No caso de o adquirente ser pessoa com deficiência ou autismo, a redução de alíquota alcança veículo cujo preço de venda ao consumidor, incluídos os tributos incidentes caso não houvesse as reduções, não seja superior a R$ 200.000,00.
+>
+> (C) <mark style="background:#affad1">Certo</mark>
+> (E) <mark style="background:rgba(163, 67, 31, 0.2)">Errado</mark>
+>
+> **Marquei:** 🟥 E · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — Certo
+> > Art. 420: a alíquota do IS é <mark style="background:#fff88f">zero</mark> para veículos de quem tem direito ao regime do art. 149 reconhecido pela RFB. § 1º: para <span class="g-comp">pessoa com deficiência ou autismo</span> (art. 149, II), a redução vale para veículo de preço até <span class="g-num">R$ 200.000,00</span> (com os tributos que incidiriam sem as reduções). Para o <span class="g-comp">táxi</span> (art. 149, I) o limite de R$ 200 mil **não** consta.
+>
+> > [!example]- 🧩 Quadro
+> > | Adquirente (art. 149) | IBS e CBS | IS (art. 420) | Limite de R$ 200.000 |
+> > | --- | --- | --- | --- |
+> > | I — motorista profissional de táxi | zero | zero | **não** consta |
+> > | II — PcD (física, visual, auditiva, mental severa/profunda) e TEA moderado/grave | zero | zero | **sim** (§ 1º) |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O item vale para os dois grupos, mas aplica o teto de R$ 200 mil só à PcD/TEA, e isso está certo. A versão errada estenderia o teto ao táxi ou tiraria o IS do benefício.
+>
+> > [!info] 🔗 Na matéria
+> > **Não está no cofre** (busca por automóvel, deficiência e táxi só achou outros assuntos): os arts. 149 e 420 da LC 214 entraram pelo comentário do TEC; nada foi grifado.
+> > **Fonte:** comentário do TEC (LC 214/2025, arts. 149 e 420) · (não conferi se a LC 227/2026 alterou os dispositivos)

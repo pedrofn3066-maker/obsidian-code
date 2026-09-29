@@ -141,7 +141,7 @@ A transformação de dados é um processo no qual os dados brutos são modificad
 |Tipo de Dados Ausentes|Características|Métodos Recomendados|Exemplos|
 |---|---|---|---|
 |**MCAR** _(Missing Completely at Random)_|Dados ausentes não dependem de nenhuma variável observada ou não observada; ausências são aleatórias.|Exclusão de casos, imputação simples.|Dados de sensores falhando **aleatoriamente** em diferentes momentos sem relação com as condições ambientais ou o funcionamento do sensor.|
-|**MAR** _(Missing at Random)_|Dados ausentes podem ser explicados por outras variáveis observadas; a ausência não é completamente aleatória, mas pode ser prevista com base em outras informações disponíveis.|Imputação múltipla, modelagem estatística que aproveita as relações observadas.|Em um estudo médico, dados ausentes sobre a pressão arterial podem ser **previstos** com base em outras variáveis, como idade ou peso do paciente.|
+|**MAR** _(Missing at Random)_|Dados ausentes podem ser explicados por <mark style="background:#fff88f">outras variáveis observadas</mark>; a ausência não é completamente aleatória, mas pode ser prevista com base em outras informações disponíveis.|Imputação múltipla, modelagem estatística que aproveita as relações observadas.|Em um estudo médico, dados ausentes sobre a pressão arterial podem ser **previstos** com base em outras variáveis, como idade ou peso do paciente.|
 |**MNAR** _(Missing Not at Random)_|Dados ausentes dependem da própria variável ausente ou de outras variáveis não observadas; as ausências têm um padrão específico.|Modelagem de equações estruturais, métodos bayesianos, modelagem direta do padrão de ausência.|Em um estudo de renda, pessoas com rendas muito altas ou muito baixas podem optar por não reportar seus rendimentos, e essa ausência está **relacionada diretamente ao valor da própria renda**.|
 
 **1.6 Atributos dos Dados**
@@ -257,7 +257,7 @@ As **áreas de conhecimento** descrevem o escopo e o contexto de conjuntos de at
 | 7 | **Segurança de Dados** | garante que a privacidade e a confidencialidade sejam mantidas, que os dados não sejam violados e que sejam acessados de forma adequada. |
 | 8 | **Integração e Interoperabilidade** | processos de movimentação e consolidação de dados dentro e entre armazenamentos, aplicativos e organizações. |
 | 9 | **Gerenciamento de Conteúdo e Documento** | planejamento, implementação e controle do ciclo de vida de dados e informações em mídias não estruturadas, especialmente documentos necessários a requisitos de conformidade legal e regulatória. |
-| 10 | **Dados Mestres e de Referência** | reconciliação e manutenção contínuas de dados compartilhados essenciais, para permitir o uso consistente em todos os sistemas da versão mais precisa, oportuna e relevante da verdade sobre entidades comerciais essenciais. |
+| 10 | **Dados Mestres e de Referência** | <mark style="background:#fff88f">reconciliação e manutenção contínuas de dados compartilhados essenciais</mark>, para permitir o uso consistente em todos os sistemas da versão mais precisa, oportuna e relevante da verdade sobre entidades comerciais essenciais. |
 | 11 | **Data Warehousing e Business Intelligence** | planejamento, implementação e controle para gerenciar dados de suporte à decisão e permitir que os trabalhadores do conhecimento obtenham valor dos dados por análise e relatórios. |
 | 12 | **Metadados** | planejamento, implementação e controle para permitir acesso a metadados integrados de alta qualidade (definições, modelos, fluxos de dados e outras informações críticas para entender os dados e os sistemas que os criam, mantêm e acessam). |
 | 13 | **Qualidade dos Dados** | planejamento e implementação de técnicas de gerenciamento de qualidade para medir, avaliar e melhorar a adequação dos dados para uso na organização. |
@@ -274,7 +274,7 @@ As **áreas de conhecimento** descrevem o escopo e o contexto de conjuntos de at
 **Redução -** Tenta reduzir o volume de dados sem provocar grandes alterações no resultado. Compressão de atributos e redução do número de dados.
 <mark style="background:rgba(240, 200, 0, 0.2)">Discretização</mark> – Faz parte do processo de redução, mas tem papel importante, especialmente com dados numéricos. <font color="#ff0000">Visa estabelecer valores discretos para variáveis contínuas.</font>
 ## Data Mining: fases do KDD (Knowledge Discovery in Databases)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 Processo de descoberta de conhecimento em bancos de dados (Navathe), em seis fases:
 
@@ -282,12 +282,22 @@ Processo de descoberta de conhecimento em bancos de dados (Navathe), em seis fas
 2. Limpeza de dados — correção de dados e tratamento de valores nulos.
 3. Enriquecimento — adição de novas informações a partir de fontes externas, integração de dados de origens diferentes ou aplicação de regras de negócio, para melhorar qualidade e relevância dos dados.
 4. Transformação/codificação de dados — agregação, discretização ou redução de dimensionalidade.
-5. Mineração de dados — identificação de padrões e relacionamentos (agrupamento, regressão, classificação, associação etc.).
+5. Mineração de dados — <mark class="prova" style="background:rgba(0,170,170,0.28)">identificação de padrões e relacionamentos</mark> (agrupamento, regressão, classificação, associação etc.).
 6. Relatório e exibição da informação descoberta — resultados apresentados em listas, gráficos, tabelas etc.
 
 As quatro primeiras fases compõem o pré-processamento.
 
 ⚠️ Não confundir enriquecimento com fases vizinhas: seleção de amostras pertence à fase de seleção; deduplicação de registros pertence à limpeza; integração de bases diferentes é combinar dados de fontes distintas numa única base; tratamento de valores nulos é técnica de limpeza — nenhuma dessas é enriquecimento.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q28 (gab. E · preliminar)
+> **Trecho usado:** "Mineração de dados — identificação de padrões e relacionamentos (agrupamento, regressão, classificação, associação etc.)."
+> **Como cobrou:** conceito — V/F: o item diz que a mineração "consiste na transferência de grandes volumes de dados brutos entre repositórios, sem a aplicação de algoritmos de descoberta de padrões" e é falso; a certa é "(E) V, F, V, F" (no PDF as alternativas C e E repetem essa sequência).
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q28]]
+
+> [!tip]- Lupa de prova: Mineração de dados: o que ela faz
+> **O padrão:** a prova descreve a mineração com o oposto da fase 5 do KDD, tirando dela a descoberta de padrões. (padrão de 1 prova, não confirmado)
+> **A armadilha:** "transferência de grandes volumes de dados brutos entre repositórios, sem a aplicação de algoritmos de descoberta de padrões" — a fase 5 é identificação de padrões e relacionamentos.
+> **Como resolver:** na nota, mineração é a fase 5 e identifica padrões e relacionamentos (agrupamento, regressão, classificação, associação); mover dados entre repositórios não é mineração.
 
 ## XML
 - [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-12
@@ -464,7 +474,7 @@ Uma <mark style="background:#fff88f">API (Application Programming Interface)</ma
 | Foco no fluxo e na preparação dos dados. | Foco na interação entre sistemas. |
 
 ## - Inteligência Fiscal
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 **Inteligência fiscal** é o uso organizado de dados, técnicas analíticas e conhecimento especializado para produzir informação útil à gestão do risco tributário, à seleção de casos, à fiscalização e à promoção da conformidade.
 
@@ -494,10 +504,15 @@ DECISÃO / AÇÃO
 | **Informação** | Dado tratado e contextualizado. |
 | **Conhecimento / Inteligência** | Interpretação capaz de apoiar decisões e ações. |
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q27 (gab. B · preliminar)
+> **Trecho usado:** "Dado | Registro bruto de um fato. Informação | Dado tratado e contextualizado."
+> **Como cobrou:** troca de termo — a errada E inverte os conceitos: "A informação corresponde ao registro bruto captado da realidade, ao passo que o dado é o produto de sua interpretação"; a A põe o conhecimento antes da informação. A certa (B) diz que o dado é registro bruto, e a informação resulta de significado e contexto.
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q27]]
+
 ⭐ Pense como um ciclo: coletar → integrar → analisar → identificar riscos → priorizar → agir → avaliar resultados.
 
 ## - Business Intelligence e Analytics
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 **Business Intelligence (BI)** é o conjunto de tecnologias, processos e práticas que transforma dados brutos em informações organizadas e visualmente compreensíveis, para apoiar a tomada de decisão. Segundo Turban, a arquitetura de BI tem quatro componentes:
 
@@ -516,10 +531,15 @@ O **processo de BI** segue esse fluxo: **Data Sources** (ERP, CRM, planilhas, AP
 
 O **dashboard** organiza a informação em três camadas: **monitoramento** (visão em tempo real), **análise** (exploração para gerar insight) e **gerenciamento** (apoio à decisão).
 
-Em BI, vale a tríade: **dado** (registro bruto) → **informação** (dado organizado) → **conhecimento** (valor gerado a partir da informação, para apoiar a decisão).
+Em BI, vale a tríade: <mark class="prova" style="background:rgba(0,170,170,0.28)">**dado** (registro bruto) → **informação** (dado organizado)</mark> → **conhecimento** (valor gerado a partir da informação, para apoiar a decisão).
 
 > [!info]- Ponte
 > A mesma tríade dado → informação → conhecimento aparece em [[#- Inteligência Fiscal|Inteligência Fiscal]] (linha 493), aplicada ao contexto fiscal. Ferramentas de mercado citadas aqui (Power BI, Tableau, Qlik Sense) reaparecem em [[#- Ferramentas de BI e Visualização de Dados|Ferramentas de BI e Visualização de Dados]], logo abaixo, e na dúvida sobre QlikView em `Erradas/ERRO P2 - Fluência de Dados CD.md` (heading Dúvidas respondidas).
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q27 (gab. B · preliminar)
+> **Trecho usado:** "Em BI, vale a tríade: dado (registro bruto) → informação (dado organizado) → conhecimento (valor gerado a partir da informação, para apoiar a decisão)."
+> **Como cobrou:** troca de termo — a errada E inverte os conceitos: "A informação corresponde ao registro bruto captado da realidade, ao passo que o dado é o produto de sua interpretação"; a A põe o conhecimento antes da informação. A certa (B) diz que o dado é registro bruto, e a informação resulta de significado e contexto.
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q27]]
 
 ## - Data Warehouse e Data Mart
 - [ ] status [dom:: 0] [peso:: 3]
@@ -552,7 +572,7 @@ Em BI, vale a tríade: **dado** (registro bruto) → **informação** (dado orga
 
 #### Data Lake
 
-O Data Lake adota **schema-on-read**: os dados entram brutos e só são estruturados quando alguém precisa usá-los. O Data Warehouse, ao contrário, exige **schema-on-write**: a modelagem vem antes do armazenamento.
+O Data Lake adota <mark class="prova" style="background:rgba(0,170,170,0.28)">**schema-on-read**: os dados entram brutos e só são estruturados quando alguém precisa usá-los</mark>. O Data Warehouse, ao contrário, exige **schema-on-write**: a modelagem vem antes do armazenamento.
 
 ⚠️ Sem governança, catalogação, controle de acesso e versionamento, o Data Lake vira um **Data Swamp** (pântano de dados): arquivos duplicados, dados desatualizados, sem metadados e sem utilidade prática.
 
@@ -566,6 +586,16 @@ O Data Lake adota **schema-on-read**: os dados entram brutos e só são estrutur
 
 > [!info]- Ponte
 > A dúvida #3116008 (QlikView) em `Erradas/ERRO P2 - Fluência de Dados CD.md` troca justamente ferramenta de BI por componente técnico (OLAP, DW, ETL) — o mesmo cuidado vale aqui: Data Lake e Data Warehouse são repositórios, não ferramentas.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q40 (gab. E · preliminar)
+> **Trecho usado:** "O Data Lake adota schema-on-read: os dados entram brutos e só são estruturados quando alguém precisa usá-los."
+> **Como cobrou:** conceito — afirmativas I, II e III: a II ("armazena dados brutos em múltiplos formatos e posterga a definição do esquema para o momento da leitura") é certa, com a I; a III diz que o Data Lake, "por conter dados já tratados e agregados, dispensa processos de governança" e é errada. A certa é "(E) I e II, apenas".
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q40]]
+
+> [!tip]- Lupa de prova: Data Lake: dado bruto e governança
+> **O padrão:** a afirmativa errada dá ao Data Lake o atributo do Data Warehouse (dado tratado) e tira dele a governança. (padrão de 1 prova, não confirmado)
+> **A armadilha:** "por conter dados já tratados e agregados, dispensa processos de governança" — troca "brutos" por "tratados e agregados".
+> **Como resolver:** Data Lake = schema-on-read, dados brutos; Data Warehouse = schema-on-write; sem governança, catalogação, controle de acesso e versionamento o Data Lake vira Data Swamp.
 
 ## - OLAP × OLTP
 - [ ] status [dom:: 0] [peso:: 3]

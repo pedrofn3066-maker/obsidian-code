@@ -68,11 +68,16 @@ Facilitadores de leitura da lei seca: [[Resumo EC 132-2023 Reforma Tributaria (V
 ## EC nº 132/2023 (IBS)
 
 ### Art. 156-A: princípios e características do IBS
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 12–14.*
 
-LC institui o IBS (competência compartilhada entre Estados, DF e Municípios) e a CBS: as duas pela <mark style="background:#fff88f">mesma lei complementar</mark> (art. 156-A, caput; ADCT, art. 124, parágrafo único).
+LC institui o IBS (<mark class="prova" style="background:rgba(0,170,170,0.28)">competência compartilhada entre Estados, DF e Municípios</mark>) e a CBS: as duas pela <mark style="background:#fff88f">mesma lei complementar</mark> (art. 156-A, caput; ADCT, art. 124, parágrafo único).
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q113 (gab. B · preliminar)
+> **Trecho usado:** "LC institui o IBS (competência compartilhada entre Estados, DF e Municípios) e a CBS"
+> **Como cobrou:** troca de termo — pede a norma que não consta do art. 156-A; a "(B)" diz "O IBS terá competência compartilhada exclusivamente entre o Distrito Federal e os Municípios", sem os Estados. A, C, D e E repetem o §1º (incidência, radiodifusão, legislação única, exportações).
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q113]]
 
 O IBS é informado pelo <mark style="background:#fff88f">princípio da neutralidade</mark> (§ 1º):
 
@@ -92,6 +97,16 @@ O IBS é informado pelo <mark style="background:#fff88f">princípio da neutralid
 | XII | <mark style="background:#fff88f">Resolução do Senado</mark> fixa a <mark style="background:#fff88f">alíquota de referência</mark> por esfera federativa, nos termos de LC; ela vale se o ente não fixar outra |
 | XIII | Sempre que possível, o valor é informado de forma específica no documento fiscal |
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q114 (gab. C · preliminar)
+> **Trecho usado:** "VII | Cobrado pelo somatório das alíquotas do Estado e do Município de destino"
+> **Como cobrou:** troca de termo — pede a que não corresponde à Reforma: "(C) A tributação pelo IBS e CBS sobre operações com bens e serviços será concentrada na origem em detrimento do destino." A nota (inciso VII) diz destino, com o somatório das alíquotas do Estado e do Município. A, B, D e E são as corretas.
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q114]]
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q118 (gab. A · preliminar)
+> **Trecho usado:** "VIII | Não cumulativo: compensa-se o devido com o cobrado nas operações em que seja adquirente, exceto uso ou consumo pessoal (definido em LC) e hipóteses da Constituição"
+> **Como cobrou:** literalidade — a certa é "(A)": compensa-se o devido "sobre todas as operações nas quais seja adquirente de bem material ou imaterial, inclusive direito, ou de serviço, excetuadas exclusivamente as consideradas de uso ou consumo pessoal especificadas em lei complementar e as hipóteses previstas nesta Constituição". As erradas incluem o uso e consumo no crédito: "incluídos os de uso e consumo em se tratando de pessoa jurídica" (B), "bens de uso e de consumo, inclusive importados" (C), "independentemente de ser pessoa física ou jurídica" (D) e "bens de uso e consumo" (E).
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q118]]
+
 > [!example]- Prova anterior: IBAM 2026 · São Vicente · Q56 e Q57 (gab. A e B · preliminar)
 > **Trecho usado:** "IX | Não integra sua própria base nem a do Imposto Seletivo, COFINS, PIS/COFINS-Importação, CBS e PIS"
 > **Q56 — como cobrou:** conceito — V/F: o item IV diz que o IBS "mantém a autonomia municipal para definir as alíquotas aplicáveis aos serviços prestados em seu território"; a nota (inciso VI) diz que a alíquota do ente é a mesma para todas as operações. O item I ("arrecadado e fiscalizado diretamente por cada Município") contraria o art. 156-B. A certa é "(A) F, V, V, F".
@@ -106,6 +121,11 @@ O IBS é informado pelo <mark style="background:#fff88f">princípio da neutralid
 > **Trecho usado:** "§ 3º: LC pode definir como sujeito passivo quem concorrer para a realização, a execução ou o pagamento da operação, ainda que residente ou domiciliado no exterior"
 > **Como cobrou:** troca de termo — o item I diz que a LC "poderá definir como sujeito passivo do imposto apenas a pessoa física ou jurídica que seja sujeito passivo habitual do imposto, excluindo-se os residentes ou domiciliados no exterior"; a certa é "(B) Somente a afirmação I é falsa". II, III e IV repetem o §1º, III, VII, X e XII.
 > **Lastro:** PDF p. 11 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q21]]
+
+> [!tip]- Lupa de prova: Não cumulatividade: o uso e consumo pessoal é a única exceção
+> **O padrão:** as quatro erradas dizem que o uso e consumo entram no crédito; a certa é a literal do §1º, VIII. (padrão de 1 prova, não confirmado)
+> **A armadilha:** (B) "incluídos os de uso e consumo em se tratando de pessoa jurídica"; (D) "incluídos os de uso e consumo independentemente de ser pessoa física ou jurídica"; (E) "bens de uso e consumo" no lugar de "excetuadas exclusivamente as consideradas de uso ou consumo pessoal".
+> **Como resolver:** inciso VIII: compensa-se o devido com o cobrado nas operações em que seja adquirente, exceto uso ou consumo pessoal (definido em LC) e as hipóteses da Constituição.
 
 > [!tip]- Lupa de prova: Art. 156-A: a banca troca o alcance da regra
 > **O padrão:** a prova cobrou o art. 156-A em três questões (Q21, Q56, Q57), cada uma com um distrator que troca o alcance de uma regra do §1º ou do §3º. (padrão de 1 prova, não confirmado)
@@ -163,15 +183,21 @@ LC disporá sobre regimes específicos para:
 - § 13 <mark style="background:#fff88f">Devolução obrigatória</mark> nas operações de fornecimento de energia elétrica e de gás liquefeito de petróleo ao consumidor de baixa renda; a LC pode determinar que seja calculada e concedida no momento da cobrança da operação.
 
 ### Art. 156-B: Comitê Gestor do IBS
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 21–23.*
 
-Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma integrada e exclusivamente por meio do Comitê Gestor</mark>, as competências administrativas do IBS:
+Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma integrada e exclusivamente por meio do Comitê Gestor</mark>, <mark class="prova" style="background:rgba(0,170,170,0.28)">as competências administrativas do IBS</mark>:
 
 1. editar o <mark style="background:#fff88f">regulamento único</mark> e uniformizar a interpretação e a aplicação da legislação do imposto;
 2. <mark style="background:#fff88f">arrecadar</mark> o imposto, efetuar as compensações e <mark style="background:#fff88f">distribuir</mark> o produto entre Estados, DF e Municípios;
 3. decidir o <mark style="background:#fff88f">contencioso administrativo</mark>.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q117 (gab. A · preliminar)
+> **Trecho usado:** "Estados, DF e Municípios exercem, de forma integrada e exclusivamente por meio do Comitê Gestor, as competências administrativas do IBS"
+> **Como cobrou:** literalidade — pergunta o que os entes devem fazer "exclusivamente por meio do Comitê Gestor do IBS (CGIBS)"; a certa é a "(A)": regulamento único e uniformização, "arrecadar o imposto, efetuar as compensações, realizar as retenções" e "decidir o contencioso administrativo". As erradas trocam a repartição por "número de habitantes" (B), a compensação de ofício de ISS e ICMS (C, D) e a "fiscalização dos lançamentos por homologação" (E), que não são as competências 1 a 3 do artigo.
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q117]]
+> **Ponte:** [[P2 - Reforma Tributária#Competências administrativas do CGIBS (art. 2º)]] — a LC 227/26, art. 2º, caput, é o texto de lei desta mesma questão.
 
 ⚠️ § 1º O Comitê Gestor é <mark style="background:#fff88f">entidade pública sob regime especial</mark>, com independência técnica, administrativa, orçamentária e financeira.
 
@@ -218,22 +244,24 @@ Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma int
 ## EC nº 132/2023 (geral)
 
 ### Princípios gerais do Sistema Tributário e LC (arts. 145 e 146)
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 3]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 5–6.*
 
 **Art. 145, § 3º:** o Sistema Tributário Nacional observa os princípios da <mark style="background:#fff88f">simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente</mark>. Bizú do resumo: *STJ Coopera para a Defesa do Meio Ambiente*.
 
-> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q59 (gab. D · preliminar) e IBAM 2025 · Arraial do Cabo · Q2 (gab. C · oficial)
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q93 e Q121 (gab. C e D · preliminar) e IBAM 2026 · São Vicente · Q59 (gab. D · preliminar) e IBAM 2025 · Arraial do Cabo · Q2 (gab. C · oficial)
 > **Trecho usado:** "Art. 145, § 3º: o Sistema Tributário Nacional observa os princípios da simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente"
+> **Q93 (Guarulhos, 2026) — como cobrou:** rol/lista fechada — a certa é "(C) O Sistema Tributário Nacional deve observar, dentre outros, os princípios da simplicidade, da transparência, da justiça tributária, da cooperação e da defesa do meio ambiente."; as erradas trocam outras regras da CF: "sendo-lhe vedada, contudo, a regulamentação das limitações constitucionais ao poder de tributar" (A), "mediante lei ordinária" para o empréstimo compulsório (B), a extensão da imunidade dos livros ao "valor adicionado das operações com bens de capital importados" (D) e "CIDE incidem sobre as receitas decorrentes de exportação" (E).
+> **Q121 (Guarulhos, 2026) — como cobrou:** rol/lista fechada — a certa é "(D) simplicidade, transparência, cooperação, justiça tributária e defesa do meio ambiente."; as erradas trocam "justiça tributária" por "justiça fiscal" (B, C, E) e inventam "eficiência tributária", "isonomia", "celeridade", "anterioridade anual", "proporcionalidade" e "estrita legalidade".
 > **Q59 (São Vicente, 2026) — como cobrou:** troca de termo — a certa é "(D) O princípio da defesa do meio ambiente, agora expresso no § 3º do Art. 145 da CF/88, legitima a instituição de tributos com função extrafiscal…". A "(B)" troca o §4º ("atenuar efeitos regressivos") por "priorizar a tributação sobre a renda e o patrimônio em detrimento do consumo".
 > **Q2 (Arraial do Cabo, 2025) — como cobrou:** literalidade — "Além de simplicidade, transparência e justiça tributária, são eles:". A certa é "(C) cooperação e defesa do meio ambiente"; as erradas trocam por "capacidade contributiva", "anterioridade nonagesimal", "eficiência tributária" e "legalidade".
-> **Lastro:** Q59: PDF p. 31 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q59]] · Q2: PDF p. 3 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q2]]
+> **Lastro:** Q93: PDF p. 8 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q93]] · Q121: PDF p. 15 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q121]] · Q59: PDF p. 31 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q59]] · Q2: PDF p. 3 · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q2]]
 > **Ponte:** [[ERRO DIREITO TRIBUTÁRIO#27/09]] guarda o seu erro na Q59 (marcou B; certa D).
 
 > [!tip]- Lupa de prova: Art. 145, §§3º e 4º: o princípio e o verbo
-> **O padrão:** a EC 132 (art. 145, §§3º e 4º) foi cobrada em duas provas do IBAM absorvidas (Arraial Q2 e São Vicente Q59), sempre com distratores que trocam o princípio ou o verbo do §4º. (padrão de 2 provas da mesma banca)
-> **A armadilha:** Arraial Q2: "capacidade contributiva", "anterioridade nonagesimal", "eficiência tributária" e "legalidade" no lugar de "cooperação e defesa do meio ambiente"; São Vicente Q59 (B): "priorizar a tributação sobre a renda e o patrimônio em detrimento do consumo" no lugar de "atenuar efeitos regressivos".
+> **O padrão:** a EC 132 (art. 145, §§3º e 4º) foi cobrada em três provas do IBAM absorvidas (Arraial Q2, São Vicente Q59 e Guarulhos Q93 e Q121), com distratores que trocam o princípio, o verbo do §4º ou outras regras da CF (Q93). (padrão de 3 provas da mesma banca)
+> **A armadilha:** Arraial Q2: "capacidade contributiva", "anterioridade nonagesimal", "eficiência tributária" e "legalidade" no lugar de "cooperação e defesa do meio ambiente"; São Vicente Q59 (B): "priorizar a tributação sobre a renda e o patrimônio em detrimento do consumo" no lugar de "atenuar efeitos regressivos"; Guarulhos Q121: "justiça fiscal" no lugar de "justiça tributária" (B e C).
 > **Como resolver:** o §3º lista simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente (a neutralidade é do IBS); o §4º manda atenuar efeitos regressivos, sem eleger renda e patrimônio.
 
 ⚠️ O princípio da <mark style="background:#fff88f">neutralidade</mark> não está no rol do § 3º: é do IBS (art. 156-A, § 1º).
@@ -308,11 +336,16 @@ Estados, DF e Municípios exercem, <mark style="background:#fff88f">de forma int
 - Art. 150, § 2º: a imunidade recíproca (VI, "a") vale para autarquias e fundações instituídas e mantidas pelo poder público e para a <mark style="background:#fff88f">empresa pública prestadora de serviço postal</mark>, no que se refere a patrimônio, renda e serviços vinculados às suas finalidades essenciais ou delas decorrentes (nova redação da EC 132).
 
 ### Imposto Seletivo (art. 153, VIII e § 6º)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 8–9.*
 
-Art. 153, VIII: compete à União instituir imposto sobre <mark style="background:#fff88f">produção, extração, comercialização ou importação</mark> (PECI) de bens e serviços prejudiciais à saúde ou ao meio ambiente, nos termos de LC.
+Art. 153, VIII: compete à União instituir imposto sobre <mark style="background:#fff88f">produção, extração, comercialização ou importação</mark> (PECI) <mark class="prova" style="background:rgba(0,170,170,0.28)">de bens e serviços prejudiciais à saúde ou ao meio ambiente</mark>, nos termos de LC.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q119 (gab. A · preliminar)
+> **Trecho usado:** "Art. 153, VIII: compete à União instituir imposto sobre produção, extração, comercialização ou importação (PECI) de bens e serviços prejudiciais à saúde ou ao meio ambiente"
+> **Como cobrou:** conceito — pede a finalidade do imposto seletivo; a certa é "(A) desestimular o consumo de bens e serviços prejudiciais à saúde e ao meio ambiente." As erradas trocam o destinatário e a função: "financiar exclusivamente os Municípios" (B), "financiar exclusivamente os Estados" (C), "substituir o imposto de renda sobre o ganho de capital" (D) e "onerar de forma mais robusta as grandes rendas" (E). A nota dá o objeto (bens e serviços prejudiciais) e a competência da União; a finalidade de desestimular o consumo é a leitura extrafiscal desse objeto.
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q119]]
 
 **§ 6º:**
 
@@ -639,13 +672,23 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Imunidades (arts. 8º e 9º)
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-22
 
-- **Art. 8º:** são imunes as **exportações** de bens e de serviços (Capítulo V do Título). *(Resumo LC 214 Tít. I, p. 17)*
+- **Art. 8º:** <mark class="prova" style="background:rgba(0,170,170,0.28)">são imunes as **exportações** de bens e de serviços</mark> (Capítulo V do Título). *(Resumo LC 214 Tít. I, p. 17)*
 - **Art. 9º — fornecimentos imunes:** (I) realizados pela União, Estados, DF e Municípios; (II) por entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (III) por partidos políticos (com institutos e fundações), entidades sindicais dos trabalhadores e instituições de educação e de assistência social sem fins lucrativos; (IV) de **livros, jornais, periódicos e do papel** destinado à impressão; (V) de **fonogramas e videofonogramas musicais** produzidos no Brasil com obras de autores brasileiros e/ou interpretadas por artistas brasileiros, e seus suportes, **salvo na etapa de replicação industrial** de mídias ópticas de leitura a laser; (VI) de serviço de **comunicação de radiodifusão** sonora e de sons e imagens de recepção livre e gratuita; (VII) de **ouro**, quando definido em lei como ativo financeiro ou instrumento cambial. *(Resumo LC 214 Tít. I, p. 17–18)*
 - **§1º (inciso I):** extensiva às **autarquias e fundações** instituídas e mantidas pelo poder público e à **empresa pública prestadora de serviço postal**; compreende <mark>somente</mark> as operações ligadas às finalidades essenciais; <mark>não se aplica</mark> à exploração de atividades econômicas regidas pelas normas de empreendimentos privados nem às operações com contraprestação ou preço/tarifa pelo usuário; não exonera o promitente comprador de imóvel. *(Resumo LC 214 Tít. I, p. 18)*
 - §2º: **entidade religiosa e templo** = PJ de direito privado sem fins lucrativos que tem por objetivo professar a fé e praticar a religião; **organização assistencial e beneficente** = PJ sem fins lucrativos vinculada e mantida por entidade religiosa, que fornece bens e serviços de assistência social sem discriminação nem exigência aos assistidos. §3º: a imunidade do inciso III vale apenas para as PJs sem fins lucrativos que cumpram **cumulativamente** os requisitos do art. 14 do CTN. *(Resumo LC 214 Tít. I, p. 18)*
 - ⚠️ §4º: as imunidades dos incisos **I a III** <mark>não se aplicam às suas aquisições</mark> de bens materiais e imateriais, inclusive direitos, e de serviços. *(Resumo LC 214 Tít. I, p. 18)*
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q123 (gab. C · preliminar)
+> **Trecho usado:** "Art. 8º: são imunes as exportações de bens e de serviços (Capítulo V do Título)"
+> **Como cobrou:** troca de termo — pergunta como as exportações de bens e serviços são tratadas em relação ao IBS e à CBS; a certa é "(C) imunes em relação ao IBS e a CBS." As erradas trocam o regime: "isentas" (D), "tributadas somente pela CBS" (A), "tributadas somente pelo IBS" (B) e "tributadas pelo IBS e a CBS" (E).
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q123]]
+
+> [!tip]- Lupa de prova: Exportação: imune, não isenta
+> **O padrão:** a errada mais tentadora troca "imunes" por "isentas". (padrão de 1 prova, não confirmado)
+> **A armadilha:** "(D) isentas em relação ao IBS e a CBS".
+> **Como resolver:** art. 8º: são imunes as exportações de bens e de serviços; o Capítulo V detalha o regime em [[P2 - Reforma Tributária#Exportações (arts. 79 a 83)]].
 
 
 ## Momento de ocorrência do fato gerador (art. 10)
@@ -693,15 +736,20 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Base de cálculo: complementos (arts. 12 e 13)
-- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-22
+- [x] status [dom:: 2] [peso:: 3] [prova:: 2] ✅ 2026-09-22
 
 > A regra geral (art. 12, caput), parte do §1º, o §2º, IV e o parágrafo único do art. 13 já estão no texto colado acima. Aqui, o restante.
 
-- **Art. 12, §1º — o valor da operação compreende** o valor integral cobrado pelo fornecedor a qualquer título, inclusive: acréscimos por ajuste do valor; juros, multas, acréscimos e encargos; <mark>descontos condicionais</mark>; transporte cobrado como parte da operação (pelo próprio fornecedor ou por sua conta e ordem); tributos e preços públicos, inclusive tarifas, incidentes sobre a operação ou suportados pelo fornecedor (exceto os do §2º); demais importâncias, inclusive seguros e taxas. *(Resumo LC 214 Tít. I, p. 25–26)*
+- **Art. 12, §1º — o valor da operação compreende** <mark class="prova" style="background:rgba(0,170,170,0.28)">o valor integral cobrado pelo fornecedor a qualquer título, inclusive: acréscimos por ajuste do valor; juros, multas, acréscimos e encargos</mark>; <mark>descontos condicionais</mark>; transporte cobrado como parte da operação (pelo próprio fornecedor ou por sua conta e ordem); tributos e preços públicos, inclusive tarifas, incidentes sobre a operação ou suportados pelo fornecedor (exceto os do §2º); demais importâncias, inclusive seguros e taxas. *(Resumo LC 214 Tít. I, p. 25–26)*
 - **§2º — não integram:** IBS e CBS incidentes; IPI; <mark>descontos incondicionais</mark>; reembolsos por conta e ordem de terceiros (documento em nome do terceiro); **de 1º/1/2026 a 31/12/2032**, o montante dos tributos dos arts. 155, II, 156, III, 195, I, "b" e IV, e do PIS/Pasep (art. 239); a **COSIP** (art. 149-A). *(Resumo LC 214 Tít. I, p. 26)*
 - §3º: **desconto incondicional** é a parcela redutora do preço que consta do documento fiscal e não depende de evento posterior, inclusive em programa de fidelidade concedido de forma não onerosa pelo fornecedor. §4º: <mark class="prova" style="background:rgba(0,170,170,0.28)">a base é o **valor de mercado** quando faltar o valor da operação, for sem valor determinado, não representado em dinheiro, ou entre partes relacionadas</mark> (art. 5º, IV). *(Resumo LC 214 Tít. I, p. 26–27)*
 - §5º: valor em moeda estrangeira: taxa de câmbio apurada pelo Banco Central. §6º: **derivativos** fora das condições de mercado que ocultem o valor da operação: o ganho no derivativo <mark>compõe a base</mark>. §7º: devolução ou cancelamento: mesma base da operação original. §8º: transporte internacional de passageiros com ida e volta vendidas em conjunto: base = <mark>metade</mark> do valor cobrado. §9º: energia elétrica em aquisição multilateral: valor da liquidação financeira apurada pela CCEE, observada a participação proporcional dos estabelecimentos. *(Resumo LC 214 Tít. I, p. 27)*
 - **Art. 13 — o valor da operação é arbitrado** quando: (I) não exibidos à fiscalização os elementos que comprovem o valor (inclusive por perda, extravio, desaparecimento ou sinistro), nos casos de (a) operação sem documento fiscal ou com documentação inidônea ou (b) valor declarado notoriamente inferior ao de mercado; (II) em qualquer outra hipótese em que as declarações, informações ou documentos forem omissos, conflitantes ou não merecerem fé. *(Resumo LC 214 Tít. I, p. 27)*
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q124 (gab. C · preliminar)
+> **Trecho usado:** "o valor da operação compreende o valor integral cobrado pelo fornecedor a qualquer título, inclusive: acréscimos por ajuste do valor; juros, multas, acréscimos e encargos"
+> **Como cobrou:** literalidade — a certa é "(C) Correspondem ao valor da operação assim compreendida como o valor total cobrado pelo fornecedor do cliente a título de bens e serviços, podendo incluir, juros, multas e encargos, além de outros custos previstos em lei, como os seguros, por exemplo." As erradas trocam o que entra e o que sai: "excetuados os descontos condicionais ou incondicionais e eventuais penalidades ou juros" (B), "sendo vedada a inclusão do valor do transporte" (D) e "incluídos o IBS e a CBS incidentes na operação" (E).
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q124]]
 
 > [!example]- Prova anterior: IBAM 2026 · São Vicente · Q34 (gab. C · preliminar)
 > **Trecho usado:** "§4º: a base é o valor de mercado quando faltar o valor da operação, for sem valor determinado, não representado em dinheiro, ou entre partes relacionadas"
@@ -715,25 +763,46 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Alíquotas padrão (arts. 14 a 17)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-- **Art. 14:** as alíquotas são fixadas por **lei específica de cada ente**: a União fixa a da **CBS**; cada Estado e cada Município fixam a do **IBS**; o **DF** exerce as competências estadual e municipal. §1º: **Pernambuco** exerce a competência municipal em **Fernando de Noronha** (ADCT, art. 15). *(Resumo LC 214 Tít. I, p. 28)*
+- **Art. 14:** <mark class="prova" style="background:rgba(0,170,170,0.28)">as alíquotas são fixadas por **lei específica de cada ente**: a União fixa a da **CBS**; cada Estado e cada Município fixam a do **IBS**</mark>; o **DF** exerce as competências estadual e municipal. §1º: **Pernambuco** exerce a competência municipal em **Fernando de Noronha** (ADCT, art. 15). *(Resumo LC 214 Tít. I, p. 28)*
 - §2º: ao fixar a alíquota, o ente pode (I) **vinculá-la** à alíquota de referência da sua esfera, com acréscimo ou decréscimo de pontos percentuais; ou (II) defini-la <mark>sem vinculação</mark>. §3º: sem lei específica, aplica-se a **alíquota de referência** da esfera federativa. *(Resumo LC 214 Tít. I, p. 28)*
 - **Art. 15:** a alíquota do IBS de cada operação é a **soma** da alíquota do Estado de destino e da do Município de destino, ou a do DF quando este for o destino. O destino é o local da operação (art. 11). *(Resumo LC 214 Tít. I, p. 28–29)*
 - **Art. 16:** a alíquota de cada ente é a <mark>mesma para todas as operações</mark>, ressalvadas as hipóteses da LC. Parágrafo único (redação do quadro verde da LC 227/26 no PDF): as reduções dos regimes diferenciados e **específicos** (Títulos IV e V) incidem sobre a alíquota de cada ente, ressalvados os casos de alíquota nacionalmente uniforme. **Art. 17:** na devolução ou cancelamento, a alíquota é a mesma da operação original. *(Resumo LC 214 Tít. I, p. 29)*
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q115 (gab. E · preliminar)
+> **Trecho usado:** "Art. 14: as alíquotas são fixadas por lei específica de cada ente: a União fixa a da CBS; cada Estado e cada Município fixam a do IBS"
+> **Como cobrou:** competência — mesma questão do heading [[P2 - Reforma Tributária#Alíquotas de referência (arts. 18 a 20)]]: a certa (E) diz que "as alíquotas padrão serão fixadas pelos respectivos entes tributantes, isto é, a da CBS será fixada pela União, e cada Estado e cada Município fixará sua alíquota do IBS"; as erradas dão a padrão à "Receita Federal, no caso da CBS e pelo Comitê Gestor do IBS, no caso do IBS" (B, D).
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q115]]
+
+> [!tip]- Lupa de prova: Alíquota padrão: o ente que fixa
+> **O padrão:** a alíquota padrão é o lado da questão em que a banca põe a Receita Federal e o Comitê Gestor no lugar dos entes. (padrão de 1 prova, não confirmado)
+> **A armadilha:** "as alíquotas padrão serão fixadas pela Receita Federal, no caso da CBS e pelo Comitê Gestor do IBS, no caso do IBS" (B e D).
+> **Como resolver:** art. 14: lei específica de cada ente; a União fixa a da CBS, cada Estado e cada Município a do IBS, e o DF exerce as duas competências. A referência, por sua vez, é resolução do Senado (art. 18).
 
 > [!warning]- Pendência
 > O PDF, na p. 29, traz duas redações do parágrafo único do art. 16 (uma delas fora do quadro verde, citando só o Título IV). Registrei a do quadro verde; conferir na lei.
 
 
 ## Alíquotas de referência (arts. 18 a 20)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-- **Art. 18:** fixadas por **resolução do Senado Federal**: para a **CBS**, de <mark>2027 a 2035</mark>; para o **IBS**, de <mark>2029 a 2035</mark>; para ambos, **após 2035**, as vigentes no ano anterior. *(Resumo LC 214 Tít. I, p. 29)*
+- **Art. 18:** <mark class="prova" style="background:rgba(0,170,170,0.28)">fixadas por **resolução do Senado Federal**</mark>: para a **CBS**, de <mark>2027 a 2035</mark>; para o **IBS**, de <mark>2029 a 2035</mark>; para ambos, **após 2035**, as vigentes no ano anterior. *(Resumo LC 214 Tít. I, p. 29)*
 - **Art. 19:** qualquer alteração na legislação federal que reduza ou eleve a arrecadação do IBS ou da CBS (I) deve ser **compensada** pela elevação ou redução, pelo Senado, das alíquotas de referência, para preservar a arrecadação das esferas; (II) só entra em vigor com o início da produção de efeitos do ajuste. *(Resumo LC 214 Tít. I, p. 29–30)*
 - §1º: **devem ser consideradas** as alterações nos critérios de devolução geral (cashback), nos regimes diferenciados, específicos ou favorecidos (inclusive por avaliação quinquenal) e no regime favorecido do Simples e do MEI; **não são consideradas** as alterações na alíquota da CBS (art. 14, I e §2º) nem no montante da devolução específica da CBS a PF. O ajuste é por **resolução do Senado**, com cálculos do CGIBS e do Poder Executivo **homologados pelo TCU**, observadas a nonagesimal e, para o IBS, também a anterioridade anual. *(Resumo LC 214 Tít. I, p. 30)*
 - **§2º — rito e prazos:** (I) cálculos ao TCU em <mark>60 dias</mark> após a promulgação da lei (CGIBS se só o IBS; Executivo se só a CBS; ato conjunto se ambos); (II) TCU pode pedir ajustes em <mark>60 dias</mark>; (III) CGIBS e Executivo têm <mark>30 dias</mark> para ajustar; (IV) TCU decide em definitivo e envia ao Senado em <mark>30 dias</mark>; (V) Senado fixa o ajuste em <mark>30 dias</mark>. *(Resumo LC 214 Tít. I, p. 30–31)*
 - **Art. 20:** projetos de LC que reduzam ou aumentem a arrecadação só são apreciados com **estimativa de impacto** nas alíquotas de referência. §1º: elaborada (I) pelo Executivo nos projetos de sua iniciativa, com manifestação do CGIBS em até 30 dias; (II) pelo autor e relator, nos demais. §2º: Câmara, Senado ou comissões podem consultar Executivo, CGIBS ou TCU, que respondem em <mark>60 dias</mark>. *(Resumo LC 214 Tít. I, p. 31)*
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q115 (gab. E · preliminar)
+> **Trecho usado:** "Art. 18: fixadas por resolução do Senado Federal: para a CBS, de 2027 a 2035; para o IBS, de 2029 a 2035"
+> **Como cobrou:** competência — as cinco alternativas só trocam quem fixa cada alíquota; a certa é "(E) as alíquotas de referência serão fixadas por resolução do Senado Federal, e as alíquotas padrão serão fixadas pelos respectivos entes tributantes, isto é, a da CBS será fixada pela União, e cada Estado e cada Município fixará sua alíquota do IBS, respectivamente." As erradas trocam o órgão: "resolução do Comitê Gestor do IBS" (A, D), "resolução do Ministério da Fazenda" (C) e "fixadas pela Receita Federal, no caso da CBS e pelo Comitê Gestor do IBS, no caso do IBS" (B, D).
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q115]]
+> **Ponte:** [[P2 - Reforma Tributária#Alíquotas padrão (arts. 14 a 17)]] — a mesma questão testa o outro lado (quem fixa a alíquota padrão, art. 14).
+
+> [!tip]- Lupa de prova: Alíquota de referência × alíquota padrão: quem fixa
+> **O padrão:** a mesma frase-base com cinco combinações de quem fixa cada alíquota. (padrão de 1 prova, não confirmado)
+> **A armadilha:** para a referência: "resolução do Comitê Gestor do IBS" e "resolução do Ministério da Fazenda"; para a padrão: "fixadas pela Receita Federal, no caso da CBS e pelo Comitê Gestor do IBS, no caso do IBS".
+> **Como resolver:** referência: resolução do Senado Federal (art. 18); padrão: lei específica de cada ente, a União na CBS e cada Estado e cada Município no IBS (art. 14).
 
 
 ## Sujeição passiva: contribuintes e plataformas digitais (arts. 21 a 23)
@@ -784,7 +853,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 # BLOCO 3 . LC 214: Modalidades de Extinção, Pagamento Indevido, Ressarcimento, Não Cumulatividade e Regimes de Apuração (IBS/CBS sobre Operações III/IV)
 
 ## Modalidades de extinção dos débitos (arts. 27 e 28)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 0] [peso:: 3] ✅ 2026-09-27
 
 > [!info]- Sinalização do PDF
 > No resumo VINTEUM, os dispositivos alterados pela LC 227/26 aparecem em verde; esta nota não reproduz essa marcação dispositivo a dispositivo, conferir no PDF.
@@ -807,7 +876,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Pagamento pelo contribuinte (arts. 29 e 30)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-27
 
 - **Art. 29:** o contribuinte paga o **saldo a recolher** (art. 45) até o vencimento. §1º: se o pagamento for maior que o saldo, o excedente (até o montante dos débitos extintos por split, adquirente ou responsável) é **devolvido em até 3 dias úteis**. *(Resumo LC 214 Tít. I, p. 45)*
 - **§2º — pagamento após o vencimento:** (I) **multa de mora de <mark>0,33% por dia</mark> de atraso**; (II) **juros pela Selic**, do 1º dia do mês seguinte ao vencimento até o mês anterior ao do pagamento, e de <mark>1% no mês do pagamento</mark>. §3º: a multa corre do dia seguinte ao vencimento até o pagamento. §4º: a multa de mora **fica limitada a 20%**. §5º: incidem juros de mora sobre as **multas punitivas** inadimplidas. *(Resumo LC 214 Tít. I, p. 45–46)*
@@ -815,7 +884,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Split payment (arts. 31 a 35)
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [x] status [dom:: 2] [peso:: 3] [prova:: 2] ✅ 2026-09-27
 
 - **Art. 31:** nas transações de pagamento de operações com bens ou serviços, <mark class="prova" style="background:rgba(0,170,170,0.28)">os **prestadores de serviço de pagamento eletrônico** e as **instituições operadoras de sistemas de pagamento** devem **segregar e recolher** ao CGIBS e à RFB o IBS e a CBS **no momento da liquidação financeira**</mark>. §1º: há o procedimento **padrão** (art. 32) e o **simplificado** (art. 33). §3º: vale para **todos** os prestadores, arranjos abertos e fechados, públicos e privados, inclusive os não regulados pelo Banco Central. *(Resumo LC 214 Tít. I, p. 46–47)*
 - §1º-A: **originador** é quem inicia a transação (pagador ou recebedor); transação **iniciada pelo recebedor** é a originada por instrução ou instrumento dele que define o valor, cabendo ao pagador só efetivar; **iniciada pelo pagador** é a que ele origina, definindo o valor, sem intervenção prévia do recebedor. *(Resumo LC 214 Tít. I, p. 47)*
@@ -829,17 +898,27 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Split payment: procedimento simplificado e regras gerais (arts. 33 a 35)
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [x] status [dom:: 2] [peso:: 3] [prova:: 2] ✅ 2026-09-27
 
 - **Art. 33 — simplificado (opcional):** os valores são calculados com base em <mark>percentual preestabelecido</mark> do valor das operações. §2º: o percentual é fixado pelo **CGIBS** (IBS) e pela **RFB** (CBS), <mark>vedado aplicar o procedimento a apenas um dos tributos</mark>; pode variar por setor ou contribuinte, a partir de metodologia uniforme divulgada; **não guarda relação** com o débito efetivamente incidente. <mark class="prova" style="background:rgba(0,170,170,0.28)">§2º-A: originar a transação **sem identificar** os valores de IBS e CBS **implica opção** pelo simplificado.</mark> *(Resumo LC 214 Tít. I, p. 48–49)*
 - §3º: o valor recolhido paga, **em ordem cronológica do documento fiscal**: (I) débitos do período das operações em que o adquirente **não** é contribuinte do regime regular; (II) outros débitos não extintos, ao final do período. §4º: o não utilizado é transferido ao fornecedor em até <mark>3 dias úteis</mark> da conclusão da apuração. §6º: ato conjunto pode impor o simplificado, quando o adquirente não é contribuinte do regime regular, enquanto o padrão não funcionar adequadamente. **§7º:** o simplificado (I) extingue débitos **só** nos termos do §3º; (II) <mark>não gera crédito</mark> ao adquirente contribuinte do regime regular. *(Resumo LC 214 Tít. I, p. 49–50)*
 - **Art. 34 — regras gerais:** (I) segregação e recolhimento **na data da liquidação financeira**; (II) pagamento **parcelado**: de forma <mark>proporcional em todas as parcelas</mark>; (III) a **liquidação antecipada de recebíveis** não altera a obrigação; (IV) o split <mark>não afasta a responsabilidade do sujeito passivo</mark> pelo eventual saldo a recolher; (V) os prestadores **segregam e recolhem**, mas **não são responsáveis tributários** pelo IBS e CBS das operações que liquidam. *(Resumo LC 214 Tít. I, p. 50–51)*
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q116 (gab. D · preliminar)
+> **Trecho usado:** "(II) pagamento parcelado: de forma proporcional em todas as parcelas"
+> **Como cobrou:** troca de termo — pede o "incorreto"; a "(D)" diz que, no pagamento parcelado pelo fornecedor, a segregação e o recolhimento "deverão ser efetuados de forma antecipada na primeira parcela paga pelo adquirente", e o art. 34, II manda proporcional em todas as parcelas. A, B, C e E são as corretas. A ⚠️ Pegadinha de prova logo abaixo guarda a captura desta mesma questão (e a dúvida sobre a E); não repito o fato aqui.
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q116]]
 
 > [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q31 (gab. A · oficial)
 > **Trecho usado:** "§2º-A: originar a transação sem identificar os valores de IBS e CBS implica opção pelo simplificado. · §7º: o simplificado… (II) não gera crédito ao adquirente contribuinte do regime regular."
 > **Como cobrou:** troca de termo — a certa é "(A) O procedimento simplificado do split payment é acionado automaticamente quando faltam dados fiscais… o adquirente contribuinte fica impedido de apropriar os valores como crédito". Cada errada contradiz um dispositivo: "(B)" prestadores como "responsáveis tributários solidários" (art. 34, V), "(C)" cálculo da alíquota "sem necessidade de consulta prévia" (art. 32), "(D)" liquidação "bloqueada" (§2º-A: implica opção).
 > **Lastro:** Caderno tipo 3, p. 15 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q31]]
 > **Ponte:** [[ERRO REFORMA TRIBUTÁRIA]] tem 4 erros seus em split payment; a "Pegadinha de prova" do art. 34 (ISS Guarulhos, Q116) já está logo abaixo.
+
+> [!tip]- Lupa de prova: Split payment: primeira parcela × todas as parcelas
+> **O padrão:** questão "incorreto afirmar" com quatro alternativas que reproduzem o split e uma que troca o momento no pagamento parcelado. (padrão de 1 prova, não confirmado)
+> **A armadilha:** (D) "a segregação e o recolhimento do IBS e da CBS deverão ser efetuados de forma antecipada na primeira parcela paga pelo adquirente" no lugar de "proporcional em todas as parcelas".
+> **Como resolver:** art. 34, II: no pagamento parcelado, a segregação e o recolhimento são proporcionais em todas as parcelas; art. 34, V: os prestadores segregam e recolhem, mas não são responsáveis tributários (por isso a alternativa E está correta).
 
 > [!tip]- Lupa de prova: Split payment simplificado: quatro dispositivos numa questão
 > **O padrão:** uma única questão testa o mecanismo do split por inteiro: as quatro alternativas apontam para quatro dispositivos diferentes. (padrão de 1 prova, não confirmado)
@@ -1002,7 +1081,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 > Os Blocos 6 a 9 (Regimes Diferenciados/Específicos, transição, etc. — ver tabela "📚Os Blocos são" no topo da nota) ainda não têm conteúdo próprio nesta nota, só a linha da tabela de blocos. Esse ponto do drawback ficou aqui em Bloco 4 por afinidade temática (importações/exportações), mas rigorosamente pertenceria a um Bloco 6/9 ainda não criado.
 
 ## Operacionalização: plataforma, cadastro e documento fiscal (arts. 58 a 62)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-27
 
 > [!info]- Sinalização do PDF
 > No resumo VINTEUM, os dispositivos alterados pela LC 227/26 aparecem em verde; esta nota não reproduz essa marcação dispositivo a dispositivo, conferir no PDF.
@@ -1015,7 +1094,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Importações: incidência e bens imateriais e serviços (arts. 63 e 64)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-27
 
 - **Art. 63:** IBS e CBS **incidem sobre a importação** de bens ou serviços do exterior por PF, PJ ou entidade sem personalidade, ainda que **não inscrita** no regime regular, <mark>qualquer que seja a finalidade</mark>. *(Resumo LC 214 Tít. I, p. 69)*
 - **Art. 64:** é **importação** de serviço ou bem imaterial o fornecimento por residente ou domiciliado no exterior <mark>cujo consumo ocorra no País</mark>, ainda que realizado no exterior. §1º: há consumo no País se o local da operação for no País (art. 11, II a IX) ou, nos demais casos, se o adquirente ou destinatário tiver residência ou domicílio no País. §2º: também é importação de serviço a prestação por residente no exterior (I) **executada no País**; (II) relacionada a **bem imóvel ou móvel localizado no País**; (III) relacionada a bem móvel remetido ao exterior para execução do serviço que retorne ao País. §3º: consumo **simultâneo** no País e no exterior: só a parcela consumida no País é importação. *(Resumo LC 214 Tít. I, p. 69–70)*
@@ -1023,7 +1102,7 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Importação de bens materiais (arts. 65 a 78)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-27
 
 - **Fato gerador (art. 65):** a **entrada de bens de procedência estrangeira** no território nacional; presumem-se entrados os bens que constem como importados e cujo extravio seja apurado pela autoridade aduaneira, **exceto malas e remessas postais internacionais**. *(Resumo LC 214 Tít. I, p. 71)*
 - **Art. 66 — não são fato gerador** os bens materiais: que retornem ao País (enviados em consignação e não vendidos; devolvidos por defeito técnico para reparo ou substituição; por modificação na sistemática de importação do país importador; por guerra ou calamidade pública; por outros fatores alheios à vontade do exportador); que cheguem por **erro inequívoco de expedição** e sejam redestinados ou devolvidos; **idênticos** enviados para **reposição** de bens defeituosos; objeto de **perdimento** antes da liberação; **devolvidos** antes do registro da declaração de importação; **pescado** capturado fora das águas territoriais por empresa nacional; sob **exportação temporária**; em **trânsito aduaneiro** de passagem acidentalmente destruídos; **destruídos** sob controle aduaneiro antes da liberação. *(Resumo LC 214 Tít. I, p. 72)*
@@ -1035,9 +1114,9 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 
 
 ## Exportações (arts. 79 a 83)
-- [ ] status [dom:: 0] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-27
 
-- **Art. 79:** são **imunes** as exportações de bens e serviços, assegurados ao exportador a apropriação e utilização dos **créditos** das suas aquisições, observadas as vedações dos arts. 49 e 51. **Art. 80 (IMPORTANTE):** é exportação de serviço ou bem imaterial o fornecimento **para residente ou domiciliado no exterior e consumo no exterior**. *(Resumo LC 214 Tít. I, p. 78)*
+- **Art. 79:** <mark class="prova" style="background:rgba(0,170,170,0.28)">são **imunes** as exportações de bens e serviços</mark>, assegurados ao exportador a apropriação e utilização dos **créditos** das suas aquisições, observadas as vedações dos arts. 49 e 51. **Art. 80 (IMPORTANTE):** é exportação de serviço ou bem imaterial o fornecimento **para residente ou domiciliado no exterior e consumo no exterior**. *(Resumo LC 214 Tít. I, p. 78)*
 - **§1º — também é exportação:** (I) o serviço para residente no exterior relacionado a **imóvel no exterior** ou a **bem móvel que ingresse no País para o serviço e retorne** ao exterior; (II) os bens e serviços **vinculados direta e exclusivamente** à exportação de bens materiais (comissão de agente, seguro de cargas, despacho aduaneiro, armazenagem, transporte de cargas, manuseio de cargas e de contêineres, unitização, consolidação documental, agenciamento, remessas expressas, pesagem e medição, refrigeração, arrendamento ou locação de contêineres, instalação e montagem e treinamento para uso de mercadorias exportadas). §1º-A: há **consumo no exterior** se o local da operação não for no País ou, nos demais casos, se adquirente e destinatário forem residentes no exterior. *(Resumo LC 214 Tít. I, p. 78–79)*
 - §4º: quem não promover a exportação dos bens do §1º, II, **recolhe** IBS e CBS com juros e multa de mora desde a operação, como responsável. §5º: fornecimento **simultâneo** no País e no exterior: só a parcela executada ou consumida no exterior é exportação. *(Resumo LC 214 Tít. I, p. 79)*
 - **Exportação de bens materiais sem saída do território (art. 81):** a imunidade alcança os bens (I) totalmente incorporados a bem **temporariamente no País** de propriedade do comprador estrangeiro; (II) entregues a órgão público em **licitação internacional**; (III) entregues ao **Ministério da Defesa** para produto de defesa nacional, por acordo internacional; (IV) entregues a empresa autorizada a operar **loja franca**; (V) **aeronave** industrializada no País vendida a empresa no exterior e entregue a fornecedor de transporte aéreo regular no País; (VI) entregues para incorporação a **embarcação ou plataforma** em construção ou conversão contratada por empresa no exterior, para petróleo e gás; (VII) destinados **exclusivamente** a exploração e produção de petróleo e gás, vendidos a empresa no exterior. *(Resumo LC 214 Tít. I, p. 80)*
@@ -1046,6 +1125,16 @@ II - **controla um ou mais dos seguintes elementos essenciais à operação**
 - §4º: a suspensão **converte-se em alíquota zero** após a efetiva exportação, dentro do prazo. **§5º — a exportadora responde** pelo tributo suspenso se: (I) passarem **180 dias** da emissão da nota do fornecedor sem exportação; (II) os bens forem **redestinados ao mercado interno**; (III) forem **industrializados**; (IV) houver destruição, extravio, furto ou roubo antes da exportação. §8º: o valor do patrimônio líquido é atualizado pelo **IPCA**, em periodicidade **não inferior a 12 meses**. *(Resumo LC 214 Tít. I, p. 81–82)*
 - **§11 — produtos agropecuários *in natura*:** também fica suspenso o pagamento no fornecimento a contribuinte do regime regular que industrialize para exportação, cuja receita de **exportação nos 3 anos-calendário anteriores** tenha sido **superior a 50%** da receita bruta total (excluídos os tributos), e que cumpra os incisos II a V do art. 82. §12: o adquirente responde, com acréscimos, se em <mark>180 dias</mark> da nota o produto não for industrializado, ou o industrializado não for exportado nem comercializado no mercado doméstico com a tributação. *(Resumo LC 214 Tít. I, p. 82–83)*
 - **Art. 83 — cancelamento da habilitação:** por descumprimento dos incisos I a V do art. 82 ou pendência no pagamento do §5º. É aberto processo com termo de constatação, e a exportadora é intimada (preferencialmente pelo **DTE**) a se regularizar ou impugnar em <mark>30 dias úteis</mark>; sem regularização nem impugnação, há **revelia**. Impugnada, a autoridade remete a julgamento em <mark>15 dias</mark>; cabe **recurso em 20 dias úteis** ao CGIBS ou à RFB, conforme quem cancelou. *(Resumo LC 214 Tít. I, p. 83–84)*
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q123 (gab. C · preliminar)
+> **Trecho usado:** "Art. 79: são imunes as exportações de bens e serviços, assegurados ao exportador a apropriação e utilização dos créditos das suas aquisições"
+> **Como cobrou:** troca de termo — pergunta como as exportações de bens e serviços são tratadas em relação ao IBS e à CBS; a certa é "(C) imunes em relação ao IBS e a CBS." As erradas trocam o regime: "isentas" (D), "tributadas somente pela CBS" (A), "tributadas somente pelo IBS" (B) e "tributadas pelo IBS e a CBS" (E).
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q123]]
+
+> [!tip]- Lupa de prova: Exportação: imune, não isenta
+> **O padrão:** a errada mais tentadora troca "imunes" por "isentas". (padrão de 1 prova, não confirmado)
+> **A armadilha:** "(D) isentas em relação ao IBS e a CBS".
+> **Como resolver:** art. 79 (e art. 8º): as exportações de bens e serviços são imunes, com os créditos do exportador assegurados; a CF diz que o IBS "não incide" sobre exportações (art. 156-A, §1º, III).
 
 
 # BLOCO 5 . LC 214: Administração do IBS e da CBS e Imposto Seletivo
@@ -1063,30 +1152,43 @@ Convênio de delegação recíproca do julgamento do contencioso administrativo 
 ## Representação administrativa e judicial do IBS (art. 156-B, § 2º, V, CF)
 - [ ] status [dom:: 0] [peso:: 3]
 
-Fiscalização, lançamento, cobrança, representação administrativa e representação judicial relativos ao IBS são exercidos, no âmbito de suas competências, pelas administrações tributárias e procuradorias dos Estados, DF e Municípios — não por órgão federal ou pelo próprio Comitê Gestor.
+Fiscalização, lançamento, cobrança, representação administrativa e representação judicial relativos ao IBS são exercidos, no âmbito de suas competências, <mark style="background:#fff88f">pelas administrações tributárias e procuradorias dos Estados, DF e Municípios</mark> — não por órgão federal ou pelo próprio Comitê Gestor.
 > Art. 156-B, § 2º, V, CF. [...] a fiscalização, o lançamento, a cobrança, a representação administrativa e a representação judicial relativos ao imposto serão realizados, no âmbito de suas respectivas competências, pelas administrações tributárias e procuradorias dos Estados, do Distrito Federal e dos Municípios, que poderão definir hipóteses de delegação ou de compartilhamento de competências, cabendo ao Comitê Gestor a coordenação dessas atividades administrativas com vistas à integração entre os entes federativos.
 
 ## Fiscalização: omissão de receita e presunções (art. 335)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 LC nº 214/2025, art. 335.
 
 <mark style="background:#fff88f">Caracteriza omissão de receita</mark> e ocorrência de operações sujeitas à incidência da CBS e do IBS:
 I - operação com bens materiais ou imateriais, inclusive direitos, ou com serviços sem emissão de documento fiscal ou com documento fiscal inidôneo;
-II - saldo credor na conta caixa, apresentado na escrituração ou apurado em procedimento fiscal;
-III - manutenção, no passivo, de obrigações já pagas ou cuja exigibilidade não seja comprovada;
+II - <mark class="prova" style="background:rgba(0,170,170,0.28)">saldo credor na conta caixa, apresentado na escrituração ou apurado em procedimento fiscal</mark>;
+III - <mark class="prova" style="background:rgba(0,170,170,0.28)">manutenção, no passivo, de obrigações já pagas ou cuja exigibilidade não seja comprovada</mark>;
 IV - falta de escrituração de pagamentos efetuados pela pessoa jurídica;
 V - ativo oculto, cujo registro não consta na contabilidade no período do procedimento fiscal;
 VI - falta de registro contábil de documento relativo a operações com bens ou serviços;
-VII - valores creditados em conta de depósito ou investimento sem comprovação da origem, mediante documentação idônea, pelo titular regularmente intimado;
-VIII - suprimento de caixa por administrador, sócio, titular ou acionista controlador (inclusive por terceiros) sem comprovação satisfatória de efetividade da entrega e origem dos recursos;
-IX - diferença apurada no controle quantitativo de entradas e saídas de bens/serviços em determinado período, considerados os saldos inicial e final;
+VII - valores creditados em conta de depósito ou investimento <mark style="background:#fff88f">sem comprovação da origem, mediante documentação idônea</mark>, pelo titular regularmente intimado;
+VIII - <mark class="prova" style="background:rgba(0,170,170,0.28)">suprimento de caixa por administrador, sócio, titular ou acionista controlador (inclusive por terceiros) sem comprovação satisfatória de efetividade da entrega e origem dos recursos</mark>;
+IX - <mark class="prova" style="background:rgba(0,170,170,0.28)">diferença apurada no controle quantitativo de entradas e saídas de bens/serviços em determinado período, considerados os saldos inicial e final</mark>;
 X - estoque avaliado em desacordo com a legislação tributária, para fins de inventário;
 XI - baixa de exigibilidades sem contrapartida de efetiva quitação, reversão de provisão, permuta de valores no passivo, ou conversão da obrigação em receita/transferência para o patrimônio líquido conforme normas contábeis;
 XII - valores recebidos pelo contribuinte, informados por instituições financeiras, administradoras de cartão, arranjos de pagamento, intermediação comercial virtual/e-commerce, condomínios comerciais ou outra PJ detentora de informações financeiras, superiores ao valor das operações declaradas;
 XIII - receita líquida inferior ao custo dos produtos/mercadorias vendidos ou dos serviços prestados no período analisado.
 
-§ 1º Valor da receita omitida (inclusive por presunções legais específicas) integra a BC para lançamento da CBS e do IBS — considerado também para tributos federais.
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q141, Q144, Q150 e Q153 (gab. C, E, A e C · preliminar)
+> **Trecho usado:** "II - saldo credor na conta caixa · III - manutenção, no passivo, de obrigações já pagas ou cuja exigibilidade não seja comprovada · VIII - suprimento de caixa por administrador, sócio · IX - diferença apurada no controle quantitativo"
+> **Q141 (inciso III) — como cobrou:** conceito — caso de obrigações com fornecedores sem documentação e sem pagamentos: a certa é "(C) passivo fictício, sujeito à realização de procedimentos adicionais de auditoria e fiscalização"; as erradas trocam por "reserva de lucros subavaliada" (A), "ajuste obrigatório de avaliação patrimonial" (B), "despesa antecipada" (D) e "aumento regular de capital social" (E).
+> **Q144 (inciso VIII) — como cobrou:** conceito — aportes de sócios registrados como empréstimos, sem origem nem efetiva realização comprovadas: a certa é "(E) aprofundar os procedimentos de auditoria, buscando evidências sobre a origem e efetiva disponibilidade dos recursos"; as erradas: "aumento de capital social" (A), "reserva de capital" (B), "desconsiderar a contabilidade integralmente" (C) e "presunção absoluta de veracidade" (D).
+> **Q150 (inciso IX) — como cobrou:** conceito — aquisições crescentes, estoques incompatíveis e receitas baixas: a certa é "(A) realizar levantamento e conciliação das entradas, saídas, estoques, valores e demais elementos relevantes"; as erradas: "examinar exclusivamente as notas fiscais de aquisição" (B), "considerar como receita omitida todo valor correspondente ao estoque final" (C), "presumir a existência de omissão de receitas sem realizar qualquer procedimento adicional" (D) e "utilizar apenas os valores declarados pelo contribuinte" (E). A nota traz só a hipótese IX; o procedimento de conciliação não está escrito nela.
+> **Q153 (inciso II) — como cobrou:** conceito — saldo credor de R$ 120.000,00 na conta Caixa: a certa é "(C) pode constituir indício de inconsistência na escrituração e justificar procedimentos adicionais"; as erradas: "comprova, isoladamente e de forma definitiva" (A), "patrimônio líquido negativo" (B), "a conta Caixa possui natureza credora" (D) e "lançamento contra o capital social" (E).
+> **Lastro:** Q141: PDF p. 18 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q141]] · Q144: PDF p. 19 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q144]] · Q150: PDF p. 20 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q150]] · Q153: PDF p. 20 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q153]]
+
+> [!tip]- Lupa de prova: Passivo fictício: presunção, com ônus do contribuinte
+> **O padrão:** a prova cobrou quatro questões de auditoria sobre as presunções de omissão de receita do art. 335, todas pedindo o procedimento adicional, não a conclusão automática. (padrão de 1 prova, não confirmado)
+> **A armadilha:** (Q141) "reserva de lucros subavaliada", "ajuste obrigatório de avaliação patrimonial", "despesa antecipada" e "aumento regular de capital social" no lugar de passivo fictício.
+> **Como resolver:** inciso III: manter no passivo obrigações já pagas ou sem exigibilidade comprovada caracteriza omissão de receita; § 2º: o ônus de desconstituir a presunção é do sujeito passivo.
+
+§ 1º Valor da receita omitida (inclusive por presunções legais específicas) <mark style="background:#fff88f">integra a BC para lançamento da CBS e do IBS</mark> — considerado também para tributos federais.
 § 2º Ônus da prova de desconstituição das presunções é do <mark style="background:#fff88f">sujeito passivo</mark>.
 § 3º Momento do fato gerador não identificável → presume-se ocorrido no último dia, na ordem: (I) período de apuração; (II) exercício; (III) período fiscalizado.
 § 4º Local da operação não identificável → domicílio principal do sujeito passivo.
@@ -1127,7 +1229,7 @@ Exceção: comercialização permitida entre estabelecimentos que exerçam ativi
 # BLOCO 9 . EC 132: Demais Disposições (regime de transição, ITCMD, IPVA, contribuições, etc.)
 
 ## Cesta Básica Nacional e regimes diferenciados (EC 132, arts. 8º e 9º)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 30–34.*
 
@@ -1156,10 +1258,21 @@ Exceção: comercialização permitida entre estabelecimentos que exerçam ativi
 - § 8º: os benefícios seguem o art. 149-B, III (valem para IBS e CBS), exceto o § 3º, III (Prouni, só CBS).
 - § 9º: o Imposto Seletivo <mark style="background:#fff88f">não incide</mark> sobre bens e serviços com alíquota reduzida pelo § 1º.
 - § 10 (IMPORTANTE no resumo): os regimes diferenciados passam por <mark style="background:#fff88f">avaliação quinquenal</mark> de custo-benefício; lei pode fixar regime de transição para a alíquota padrão (sem observar o § 2º), garantidos os ajustes nas alíquotas de referência. § 11: a avaliação examina o impacto na <mark style="background:#fff88f">igualdade entre homens e mulheres</mark>.
-- § 12: redução de <mark style="background:#fff88f">30%</mark> para serviços de profissão intelectual, de natureza científica, literária ou artística, <mark style="background:#fff88f">submetidos a fiscalização por conselho profissional</mark>.
+- § 12: redução de <mark style="background:#fff88f">30%</mark> <mark class="prova" style="background:rgba(0,170,170,0.28)">para serviços de profissão intelectual, de natureza científica, literária ou artística,</mark> <mark style="background:#fff88f">submetidos a fiscalização por conselho profissional</mark>.
 
 ⚠️ **Pegadinha de prova** (captura 20/09, ISS Guarulhos): o gabarito juntou o § 12 (<mark>30%</mark> para profissões intelectuais sob conselho profissional, "tais como advogados ou contabilistas") ao § 1º (<mark>60%</mark> para saúde e educação). A alternativa em que ficou a dúvida (30% + <mark>40%</mark> para insumos agropecuários e agrícolas) erra o percentual: insumos agropecuários estão no § 1º, item 11 da tabela, com 60%. As demais trocavam o percentual das profissões (40%, 50%, 20%) e davam 70% a alimentação e higiene pessoal, que estão no § 1º com 60%.
 - § 13: incluem-se (I) entre os medicamentos, composições para nutrição enteral ou parenteral e fórmulas nutricionais para erros inatos do metabolismo; (II) entre os alimentos, sucos naturais sem adição de açúcares e conservantes.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q112 (gab. B · preliminar)
+> **Trecho usado:** "§ 12: redução de 30% para serviços de profissão intelectual, de natureza científica, literária ou artística, submetidos a fiscalização por conselho profissional"
+> **Como cobrou:** prazo/número — a certa é "(B) em 30%, a prestação de serviços pelos profissionais que exercerem atividades intelectuais de natureza científica, literária ou artística, submetidas à fiscalização por conselho profissional" e "em 60% as operações com serviços de saúde e educação"; as erradas trocam os percentuais: "em 40% as operações com insumos agropecuários e agrícolas" (A), "em 40%" para as profissões (C), "em 50%" e "em 70%" (D) e "em 20%" (E).
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q112]]
+> **Ponte:** a captura de 20/09 desta mesma questão está na ⚠️ Pegadinha de prova logo acima (dúvida sobre a alternativa A, 30% + 40% para insumos agropecuários); não repito o fato aqui.
+
+> [!tip]- Lupa de prova: Regimes diferenciados: 30% e 60% trocados
+> **O padrão:** as cinco alternativas misturam o percentual das profissões intelectuais (30%) com o dos grupos do § 1º (60%). (padrão de 1 prova, não confirmado)
+> **A armadilha:** (A) "em 40% as operações com insumos agropecuários e agrícolas"; (D) "em 70%, as operações com alimentação para humanos e produtos de higiene pessoal".
+> **Como resolver:** § 12: 30% para serviços de profissão intelectual sob conselho profissional; § 1º: 60% para saúde, educação, alimentos, higiene pessoal e insumos agropecuários (itens 1, 2, 8, 9 e 11 da tabela).
 
 > [!quote]- Texto literal: Art. 9º, § 10 (IMPORTANTE no resumo) (Resumo EC 132, p. 34)
 >
@@ -1291,7 +1404,7 @@ As leis instituidoras de IBS e CBS estabelecem mecanismos, <mark style="backgrou
 - § 6º: LC institui o <mark style="background:#fff88f">Fundo de Desenvolvimento Sustentável dos Estados da Amazônia Ocidental e do Amapá</mark>, com recursos da União e por ela gerido. § 7º: integrado pelos Estados onde ficam as áreas de livre comércio, observando no que couber o § 3º, I e II e o § 4º.
 
 ## ADCT: transição do IBS e da CBS e extinção do ICMS e do ISS (arts. 124 a 129)
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 
 *Fonte: Resumo EC 132/2023 (VINTEUM Fiscal 4.0), pp. 42–45.*
 
@@ -1305,13 +1418,14 @@ As leis instituidoras de IBS e CBS estabelecem mecanismos, <mark style="backgrou
 | <mark style="background:#fff88f">2029 a 2032</mark> | Alíquotas de <mark style="background:#fff88f">ICMS e ISS</mark> fixadas em <mark style="background:#fff88f">9/10</mark> (2029), <mark style="background:#fff88f">8/10</mark> (2030), <mark style="background:#fff88f">7/10</mark> (2031) e <mark style="background:#fff88f">6/10</mark> (2032) das fixadas nas respectivas legislações (art. 128) |
 | <mark style="background:#fff88f">2033</mark> | <mark style="background:#fff88f">Extintos ICMS e ISS</mark> (art. 129) |
 
-> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q36 (gab. C · oficial)
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q111 (gab. A · preliminar) e IBAM 2026 · Bragança Paulista · Q36 (gab. C · oficial)
 > **Trecho usado:** "2029 a 2032 | Alíquotas de ICMS e ISS fixadas em 9/10 (2029), 8/10 (2030), 7/10 (2031) e 6/10 (2032)"
-> **Como cobrou:** conceito — V/F sobre a transição (gab. C: V, V, V, F). O item I (fiscalizar ISSQN, "gradualmente extinto", e IBS, "implementado de forma progressiva") é o que a nota cobre. Dívida Ativa de ISSQN após a extinção (II) e Certidão Negativa depois da extinção (III) não estão na nota.
-> **Lastro:** Caderno tipo 3, p. 18 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q36]]
+> **Q111 (Guarulhos, 2026) — como cobrou:** conceito — a certa é "(A) ela será gradativa, com redução dos tributos atuais e aumento progressivo do novo IBS."; as erradas trocam o ritmo e quem o fixa: "gradativa em relação ao ISS e imediata em relação ao ICMS" (B), "cronograma a ser fixado pelos Estados e Municípios" (C), "de forma imediata a partir de janeiro de 2.027" (D) e "apenas em relação às obrigações acessórias" (E).
+> **Q36 (Bragança, 2026) — como cobrou:** conceito — V/F sobre a transição (gab. C: V, V, V, F). O item I (fiscalizar ISSQN, "gradualmente extinto", e IBS, "implementado de forma progressiva") é o que a nota cobre. Dívida Ativa de ISSQN após a extinção (II) e Certidão Negativa depois da extinção (III) não estão na nota.
+> **Lastro:** Q111: PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q111]] · Q36: Caderno tipo 3, p. 18 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q36]]
 
 **2026 (art. 125):**
-- o valor recolhido é <mark style="background:#fff88f">compensado</mark> com COFINS (art. 195, I, "b"), PIS/COFINS-Importação (art. 195, IV) e PIS (art. 239); sem débitos suficientes, compensa com qualquer outro tributo federal ou é <mark style="background:#fff88f">ressarcido em até 60 dias</mark>, mediante requerimento;
+- o valor recolhido é <mark style="background:#fff88f">compensado</mark> <mark class="prova" style="background:rgba(0,170,170,0.28)">com COFINS (art. 195, I, "b"), PIS/COFINS-Importação (art. 195, IV) e PIS (art. 239); sem débitos suficientes, compensa com qualquer outro tributo federal ou é</mark> <mark style="background:#fff88f">ressarcido em até 60 dias</mark>, mediante requerimento;
 - a arrecadação do IBS de 2026 <mark style="background:#fff88f">não observa vinculações, repartições e destinações</mark> da Constituição e é aplicada integral e sucessivamente: (I) no financiamento do Comitê Gestor (art. 156-B, § 2º, III); (II) na composição do Fundo de Compensação de Benefícios Fiscais;
 - quem cumprir as obrigações acessórias pode ser <mark style="background:#fff88f">dispensado do recolhimento</mark>, nos termos de LC.
 
@@ -1332,6 +1446,16 @@ As leis instituidoras de IBS e CBS estabelecem mecanismos, <mark style="backgrou
 > II - compor o Fundo de Compensação de Benefícios Fiscais ou Financeiro-Fiscais do imposto de que trata o art. 155, II, da Constituição Federal.
 >
 > §4º Durante o período de que trata o caput, os sujeitos passivos que cumprirem as obrigações acessórias relativas aos tributos referidos no caput poderão ser dispensados do seu recolhimento, nos termos de lei complementar.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q125 (gab. D · preliminar)
+> **Trecho usado:** "sem débitos suficientes, compensa com qualquer outro tributo federal ou é ressarcido em até 60 dias"
+> **Como cobrou:** conceito — a certa é "(D) o montante recolhido do IBS e da CBS será compensado com o valor devido, no mesmo período de apuração, a título de PIS e de COFINS ou compensado com débitos de outro tributo federal na hipótese de o contribuinte não apurar valor a recolher"; as erradas trocam quem recolhe ou fecham as saídas: "somente as empresas optantes pelo simples nacional" (A), "exclusivamente pela modalidade de ressarcimento" (B), "somente as empresas tributadas pelo regime do lucro real" (C) e "em hipótese alguma" (E).
+> **Lastro:** PDF p. 16 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q125]]
+
+> [!tip]- Lupa de prova: 2026: compensar ou ressarcir, sem "exclusivamente"
+> **O padrão:** a certa descreve a compensação do valor recolhido em 2026 (PIS e COFINS e, sem débitos, outro tributo federal); as erradas restringem quem recolhe ou fecham uma saída só. (padrão de 1 prova, não confirmado)
+> **A armadilha:** (B) "exclusivamente pela modalidade de ressarcimento"; (E) "não será objeto de ressarcimento ou compensação a favor do contribuinte em hipótese alguma"; (A) "somente as empresas optantes pelo simples nacional"; (C) "somente as empresas tributadas pelo regime do lucro real".
+> **Como resolver:** em 2026 o valor recolhido é compensado com COFINS, PIS/COFINS-Importação e PIS; sem débitos suficientes, compensa com qualquer outro tributo federal ou é ressarcido em até 60 dias, mediante requerimento (ADCT, art. 125, §§1º e 2º). "Exclusivamente", "somente" e "em hipótese alguma" não cabem nessa regra.
 
 > [!quote]- Texto literal: Arts. 126 a 129 (IMPORTANTE no art. 126) (Resumo EC 132, pp. 44–45)
 >
@@ -1551,11 +1675,16 @@ Art. 1º institui o CGIBS como <mark>entidade pública com caráter técnico e o
 ---
 
 ## Competências administrativas do CGIBS (art. 2º)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 LC nº 227/2026, Título I, Capítulo II, Seção I (Das Competências do CGIBS), art. 2º. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.7-14.
 
-O caput do art. 2º dá aos Estados, DF e Municípios <mark>3 competências exclusivas</mark>, exercidas de forma integrada só por meio do CGIBS: (I) editar regulamento único e uniformizar a interpretação/aplicação da legislação do IBS; (II) arrecadar, compensar, reter e distribuir o produto da arrecadação; (III) decidir o contencioso administrativo. O § 8º acrescenta, à parte, uma quarta: <mark>cabe exclusivamente ao CGIBS criar obrigações acessórias do IBS</mark> — os entes federativos não podem fazê-lo.
+O caput do art. 2º dá aos Estados, DF e Municípios <mark>3 competências exclusivas</mark>, <mark class="prova" style="background:rgba(0,170,170,0.28)">exercidas de forma integrada só por meio do CGIBS: (I) editar regulamento único e uniformizar a interpretação/aplicação da legislação do IBS; (II) arrecadar, compensar, reter e distribuir o produto da arrecadação; (III) decidir o contencioso administrativo</mark>. O § 8º acrescenta, à parte, uma quarta: <mark>cabe exclusivamente ao CGIBS criar obrigações acessórias do IBS</mark> — os entes federativos não podem fazê-lo.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q117 (gab. A · preliminar)
+> **Trecho usado:** "3 competências exclusivas, exercidas de forma integrada só por meio do CGIBS: (I) editar regulamento único e uniformizar a interpretação/aplicação da legislação do IBS"
+> **Como cobrou:** literalidade — a certa é a "(A)": editar regulamento único e uniformizar a interpretação; "arrecadar o imposto, efetuar as compensações, realizar as retenções"; e "decidir o contencioso administrativo". As erradas inventam atribuições: "dividir a receita arrecadada de acordo com o número de habitantes" e contencioso "conjuntamente com o Conselho Municipal de Tributos" (B), "compensação de ofício" de débitos "nos últimos cinco anos" e contencioso "em caso de empate nos Conselhos" (C, D) e "efetuar a fiscalização dos lançamentos por homologação" (E). A Pegadinha de banca logo abaixo separa as 3 competências exclusivas do caput das 24 do §1º.
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q117]]
 
 O § 1º acrescenta outras 24 competências, sem repetir a ressalva de exclusividade do caput:
 
@@ -1930,13 +2059,23 @@ Art. 53: na instituição do órgão, a <mark>Presidência do Conselho Superior 
 
 
 ## Processo administrativo tributário do IBS (LC 227/26)
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-22
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-22
 
 *Fonte: captura de questão (ISS Guarulhos, Q122, 20/09/2026) e caderno de Reforma de 21/09/2026 (Inéditas AFRFB e FCC SEFAZ CE).*
 
-Princípios que o processo administrativo tributário do IBS observa, segundo o gabarito: <mark>simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé</mark>, dentre outros.
+<mark class="prova" style="background:rgba(0,170,170,0.28)">Princípios que o processo administrativo tributário do IBS observa, segundo o gabarito:</mark> <mark>simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé</mark>, dentre outros.
 
 ⚠️ Alternativas que o gabarito deu como erradas: (A) formação, tramitação e julgamento por sistema eletrônico <mark>e-CAC da Receita Federal</mark>; (B) intervenção pelo <mark>tomador de serviços ou adquirente</mark> como substituto processual; (C) prazos em <mark>dias corridos</mark>, incluindo o dia da intimação e excluindo o do vencimento; (D) sujeito passivo intimado <mark>15 dias</mark> após a data do comprovante de entrega no DTE ou no sistema de comunicação eletrônica.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q122 (gab. E · preliminar)
+> **Trecho usado:** "Princípios que o processo administrativo tributário do IBS observa, segundo o gabarito: simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé"
+> **Como cobrou:** rol/lista fechada — a certa é "(E) serão observados diversos princípios, como os da simplicidade, verdade material, ampla defesa, contraditório, publicidade, lealdade e boa-fé, dentre outros." As quatro erradas (A a D) estão no ⚠️ "Alternativas que o gabarito deu como erradas" logo acima; não repito o fato aqui.
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q122]]
+
+> [!tip]- Lupa de prova: PAT do IBS: cinco alternativas, cinco artigos
+> **O padrão:** cada alternativa aponta para um ponto diferente do PAT (princípios do art. 55, sistema eletrônico, intervenção, prazos, intimação); a certa é a dos princípios. (padrão de 1 prova, não confirmado)
+> **A armadilha:** (A) "e-cac, disponibilizado pela Receita Federal do Brasil" no lugar do sistema do CGIBS; (C) "dias corridos" no lugar de dias úteis; (D) "15 (quinze) dias" no lugar de 10.
+> **Como resolver:** art. 57: sistema eletrônico implementado e gerido pelo CGIBS; art. 62: só dias úteis; LC 214, art. 333, § 2º: intimado após 10 dias; art. 55: o rol dos princípios.
 
 LC nº 227/2026, Título II (Do Processo Administrativo Tributário do IBS), arts. 56 a 102. Abaixo, os artigos onde errei ou fiquei em dúvida no caderno de 21/09/2026, com <mark>o ponto da pegadinha marcado</mark> para a releitura. Fonte do texto: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`.
 
@@ -2040,11 +2179,11 @@ Art. 97 A representação e a defesa jurídica da Fazenda Pública perante as C�
 > - [[ERRO REFORMA TRIBUTÁRIA]] — errou em 20/09 (marcou D; gabarito E).
 
 ## Princípios do processo administrativo tributário (art. 55)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 LC nº 227/2026, Título II, Capítulo I, Seção I (Disposições Preliminares), art. 55. Fonte: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.75-76.
 
-Art. 55 lista <mark>16 princípios</mark> do PAT do IBS: simplicidade (I), verdade material (II), ampla defesa (III), contraditório (IV), publicidade (V), transparência (VI), lealdade e boa-fé (VII), motivação (VIII), oficialidade (IX), cooperação (X), eficiência (XI), formalismo moderado (XII), razoável duração do processo (XIII), segurança jurídica (XIV), devido processo legal (XV) e celeridade da tramitação (XVI).
+Art. 55 lista <mark>16 princípios</mark> <mark class="prova" style="background:rgba(0,170,170,0.28)">do PAT do IBS: simplicidade (I), verdade material (II), ampla defesa (III), contraditório (IV), publicidade (V), transparência (VI), lealdade e boa-fé (VII)</mark>, motivação (VIII), oficialidade (IX), cooperação (X), eficiência (XI), formalismo moderado (XII), razoável duração do processo (XIII), segurança jurídica (XIV), devido processo legal (XV) e celeridade da tramitação (XVI).
 
 O próprio material organiza os 16 em <mark>4 grupos de 4</mark> — útil para não depender da ordem literal:
 
@@ -2059,6 +2198,17 @@ O próprio material organiza os 16 em <mark>4 grupos de 4</mark> — útil para 
 
 > [!quote]- Texto literal — Art. 55 (p.75-76)
 > "No processo administrativo tributário, serão observados os seguintes princípios: I - da simplicidade; II - da verdade material; III - da ampla defesa; IV - do contraditório; V - da publicidade; VI - da transparência; VII - da lealdade e boa-fé; VIII - da motivação; IX - da oficialidade; X - da cooperação; XI - da eficiência; XII - do formalismo moderado; XIII - da razoável duração do processo; XIV - da segurança jurídica; XV - do devido processo legal; e XVI - da celeridade da tramitação."
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q122 (gab. E · preliminar)
+> **Trecho usado:** "Art. 55 lista 16 princípios do PAT do IBS: simplicidade (I), verdade material (II), ampla defesa (III), contraditório (IV), publicidade (V), transparência (VI), lealdade e boa-fé (VII)"
+> **Como cobrou:** rol/lista fechada — a certa é "(E) serão observados diversos princípios, como os da simplicidade, verdade material, ampla defesa, contraditório, publicidade, lealdade e boa-fé, dentre outros." As erradas mudam de assunto e trocam outras regras do PAT: "sistema eletrônico e-cac, disponibilizado pela Receita Federal do Brasil" (A), "substituto processual" (B), "dias corridos" (C) e "15 (quinze) dias" (D).
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q122]]
+> **Ponte:** [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] — guarda as quatro erradas (sistema, intervenção, prazos, intimação) com a regra de cada uma.
+
+> [!tip]- Lupa de prova: PAT do IBS: a certa pelos princípios, as erradas pelos detalhes
+> **O padrão:** a certa lista princípios do art. 55; as quatro erradas vão para outros artigos do PAT (sistema, intervenção, prazos, intimação). (padrão de 1 prova, não confirmado)
+> **A armadilha:** (A) "sistema eletrônico e-cac, disponibilizado pela Receita Federal do Brasil"; (C) "dias corridos"; (D) intimado "após 15 (quinze) dias".
+> **Como resolver:** reconheça o rol do art. 55 (16 princípios, entre eles simplicidade, verdade material, ampla defesa, contraditório, publicidade, lealdade e boa-fé); as regras de sistema, prazo e intimação estão em [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] (sistema do CGIBS, dias úteis, 10 dias).
 
 > [!info]- Ponte
 > - [[P2 - Reforma Tributária#Processo administrativo tributário do IBS (LC 227/26)]] — a questão do ISS Guarulhos (Q122) já testou 8 desses 16 princípios (simplicidade, verdade material, ampla defesa, contraditório, publicidade, transparência, lealdade e boa-fé) como gabarito.
@@ -2247,7 +2397,7 @@ Art. 102: compete ao CGIBS resolver <mark>os casos omissos</mark> e editar os at
 > "Exceto nos casos de dolo ou de excesso de linguagem, os julgadores não poderão ser punidos ou prejudicados pelas opiniões que manifestarem ou pelo teor das decisões que proferirem."
 
 ## Distribuição do IBS: disposições preliminares (arts. 103-104)
-- [ ] status [dom:: 2] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-27
 
 LC nº 227/2026, Título III (Da Distribuição do Produto da Arrecadação do IBS), Capítulo I (Disposições Preliminares), arts. 103 e 104. Fonte do texto: `MATERIAL/Reforma Tributária/LC_227-2026_1col_6a83c7.pdf`, p.114-115.
 
