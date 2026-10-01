@@ -87,9 +87,14 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 # Bloco B:
 
 ## - Conceitos e Fundamentos de Modelo Relacional;
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-- A principal diferença entre as restrições **PRIMARY KEY** e **UNIQUE** está no tratamento de valores NULL. Ambas impõem unicidade aos valores armazenados, impedindo a ocorrência de duplicidades. Entretanto, a chave primária também exige que todos os seus atributos sejam obrigatoriamente preenchidos, ou seja, não admite valores NULL.
+- A principal diferença entre as restrições **PRIMARY KEY** e **UNIQUE** está no tratamento de valores NULL. Ambas impõem unicidade aos valores armazenados, impedindo a ocorrência de duplicidades. Entretanto, <mark class="prova" style="background:rgba(0,170,170,0.28)">a chave primária também exige que todos os seus atributos sejam obrigatoriamente preenchidos, ou seja, não admite valores NULL</mark>.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q37 (gab. A · preliminar)
+> **Trecho usado:** "a chave primária também exige que todos os seus atributos sejam obrigatoriamente preenchidos, ou seja, não admite valores NULL"
+> **Como cobrou:** troca de termo — a errada (D) "A chave primária admite valor nulo em uma de suas colunas, desde que outro atributo da tabela garanta a distinção inequívoca entre as tuplas armazenadas" contraria a nota; a certa é "(A) A chave estrangeira é o atributo, ou o conjunto de atributos, que referencia a chave primária de outra tabela, assegurando a integridade referencial entre elas" (a definição de chave estrangeira não está na nota).
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q37]]
 
 -- A Forma Normal Boyce-Codd **(FNBC)** é uma forma de normalização em bancos relacionais que busca eliminar problemas de atualização e garantir a integridade dos dados. É mais rigorosa do que a 3NF e se baseia nas dependências não triviais. Conforme a regra, uma tabela está na **FNBC** se, e somente se, para cada uma de suas dependências não triviais X → Y, X é uma superchave. **Segundo Silberschatz, Korth e Sudarshan:**
 
@@ -97,7 +102,12 @@ Se aparecer no edital baiano, é bloco de vantagem quase total: material escasso
 > 
 > Uma superchave para uma relação é um conjunto de atributos tal que a relação não contém duas tuplas (ou linhas) com o mesmo valor para esses atributos. Ou seja, um conjunto de atributos X é uma superchave para uma relação R se a dependência funcional X → R é satisfeita pela relação R.
 > 
-> A condição BCNF é mais forte que a condição 3NF. Em outras palavras, toda relação que está na BCNF também está na 3NF. No entanto, uma relação pode estar na 3NF, mas não na BCNF.
+> <mark class="prova" style="background:rgba(0,170,170,0.28)">A condição BCNF é mais forte que a condição 3NF.</mark> Em outras palavras, toda relação que está na BCNF também está na 3NF. No entanto, uma relação pode estar na 3NF, mas não na BCNF.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q35 (gab. B · preliminar)
+> **Trecho usado:** "A condição BCNF é mais forte que a condição 3NF. Em outras palavras, toda relação que está na BCNF também está na 3NF."
+> **Como cobrou:** conceito — ordem de aplicação das formas normais; a certa é "(B) 2, 4, 1, 3" (1FN, 2FN, 3FN, BCNF). O item (3) diz "Forma normal de Boyce-Codd, que trata das dependências funcionais cujo determinante não é chave candidata". A nota cobre só o BCNF; 1FN a 3FN não estão nela.
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q35]]
 - Dessa forma, considerando o comando SQL para criação da tabela, podemos identificar os seguintes atributos:  
 >**A int not null UNIQUE,** 
    **B int not null UNIQUE,** 
@@ -243,11 +253,11 @@ Portanto, a afirmação de que uma zona de disponibilidade é composta por um co
 # Bloco D:
 
 ## - Big Data
-- [x] status [dom:: 4] [peso:: 3] ✅ 2026-09-21
+- [x] status [dom:: 4] [peso:: 3] [prova:: 1] ✅ 2026-09-21
 
 Conjunto de dados que supera a capacidade de processamento dos sistemas convencionais, com alta variedade (estruturados e não estruturados) e que exige escalabilidade horizontal.
 
-**Os 5 V's:**
+<mark class="prova" style="background:rgba(0,170,170,0.28)">**Os 5 V's:**</mark>
 
 | V              | O que mede                                                                                                           |
 | -------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -256,6 +266,16 @@ Conjunto de dados que supera a capacidade de processamento dos sistemas convenci
 | **Variedade**  | estruturados, semiestruturados, não estruturados                                                                     |
 | **Veracidade** | qualidade e confiabilidade — grande volume aumenta o risco de dados imprecisos, incompletos ou de fonte questionável |
 | **Valor**      | capacidade de extrair conhecimento e benefício da análise — é o objetivo final                                       |
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q28 (gab. E · preliminar)
+> **Trecho usado:** "Os 5 V's: Volume quantidade de dados gerados; Velocidade ritmo de geração e necessidade de processamento; Variedade estruturados, semiestruturados, não estruturados"
+> **Como cobrou:** conceito — V/F: "O Big Data costuma ser caracterizado por dimensões como volume, velocidade e variedade dos dados processados" é verdadeira (cita 3 dos 5 Vs); a certa é "(E) V, F, V, F". As alternativas (C) e (E) vêm idênticas no caderno.
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q28]]
+
+> [!tip]- Lupa de prova: Big Data: os Vs citados
+> **O padrão:** a prova deu como verdadeira uma frase que cita só três dos cinco Vs (volume, velocidade e variedade), com "dimensões como" abrindo uma lista exemplificativa. (padrão de 1 prova, não confirmado)
+> **A armadilha:** achar o item falso porque a nota traz 5 Vs. O item falso da mesma questão é outro: "A mineração de dados consiste na transferência de grandes volumes de dados brutos entre repositórios, sem a aplicação de algoritmos de descoberta de padrões" (mineração está na nota Fluência de Dados CD).
+> **Como resolver:** Big Data = Volume, Velocidade, Variedade, Veracidade e Valor. Citar só parte deles não torna a frase falsa; ela só erra se trocar o que um V mede.
 
 <mark style="background:#fff88f">Distinguir de conceitos vizinhos que a banca gosta de confundir:</mark>
 
@@ -295,9 +315,19 @@ Um **broker** Kafka é o servidor que gerencia armazenamento e recuperação de 
 ⚠️ **Cada broker gerencia múltiplas partições**, não uma só. Garante replicação para tolerância a falhas, atende leitura e escrita, e distribui a carga pelo cluster — é essa distribuição que mantém alta taxa de transferência e baixa latência.
 
 ## - Business Intelligence e Analytics
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-Conjunto de ferramentas, processos e aplicações que, a partir de um repositório de dados, extrai e apresenta informações úteis para suporte à análise e à tomada de decisão em ambientes organizacionais.
+<mark class="prova" style="background:rgba(0,170,170,0.28)">Conjunto de ferramentas, processos e aplicações que, a partir de um repositório de dados, extrai e apresenta informações úteis para suporte à análise e à tomada de decisão em ambientes organizacionais.</mark>
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q28 (gab. E · preliminar)
+> **Trecho usado:** "Conjunto de ferramentas, processos e aplicações que … extrai e apresenta informações úteis para suporte à análise e à tomada de decisão"
+> **Como cobrou:** conceito — V/F: "O Business Intelligence (BI) reúne processos e ferramentas que convertem dados em informações para apoiar a tomada de decisão gerencial" é verdadeira; o item falso é "O termo Analytics designa a produção de relatórios sobre eventos passados, deixando de abranger as análises preditivas de comportamento futuro" (a tabela de Tipos de Análise, abaixo, traz os quatro níveis). A certa é "(E) V, F, V, F"; as alternativas (C) e (E) vêm idênticas no caderno.
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q28]]
+
+> [!tip]- Lupa de prova: Analytics não é só relatório do passado
+> **O padrão:** a prova reduziu Analytics à análise descritiva e a banca esperava que o candidato reconhecesse a frase como falsa. (padrão de 1 prova, não confirmado)
+> **A armadilha:** "O termo Analytics designa a produção de relatórios sobre eventos passados, deixando de abranger as análises preditivas de comportamento futuro": a frase corta os tipos preditivo e prescritivo.
+> **Como resolver:** a nota traz quatro níveis de análise (descritiva: o que aconteceu; diagnóstica: por que aconteceu; preditiva: o que pode acontecer; prescritiva: o que devemos fazer). A descritiva é só o primeiro; frase que limita Analytics a ela é falsa.
 
 Via ferramentas como **OLAP**, transforma dados em relatórios, dashboards e análises que subsidiam decisão gerencial. Uma das qualidades centrais do BI atual é o **acesso interativo** aos dados — o usuário manipula os dados conforme a necessidade de análise, com painéis dinâmicos, filtros e análises multidimensionais (OLAP) em tempo real.
 
@@ -381,15 +411,20 @@ A **paginação de sombra** é uma técnica utilizada em sistemas de banco de 
 
 
 ## modelagem de um banco de dados
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-1. **Levantamento de requisitos:** Essa etapa é fundamental para compreender as necessidades e expectativas dos usuários e stakeholders em relação ao sistema de banco de dados que será desenvolvido. Durante essa fase, são coletadas informações essenciais que guiarão o restante do projeto.
+1. <mark class="prova" style="background:rgba(0,170,170,0.28)">**Levantamento de requisitos:**</mark> Essa etapa é fundamental para compreender as necessidades e expectativas dos usuários e stakeholders em relação ao sistema de banco de dados que será desenvolvido. Durante essa fase, são coletadas informações essenciais que guiarão o restante do projeto.
     
-2. **Modelagem conceitual:** Baseando-se nas informações coletadas durante o levantamento de requisitos, esta etapa visa criar um **esquema conceitual que define os objetos e seus relacionamentos relevantes para o sistema de banco de dados.** O modelo entidade-relacionamento (MER) é utilizado para representar essas estruturas em alto nível e de forma abstrata, ou seja, não existem detalhes de implementação especificados nessa etapa.
+2. <mark class="prova" style="background:rgba(0,170,170,0.28)">**Modelagem conceitual:**</mark> Baseando-se nas informações coletadas durante o levantamento de requisitos, esta etapa visa criar um **esquema conceitual que define os objetos e seus relacionamentos relevantes para o sistema de banco de dados.** O modelo entidade-relacionamento (MER) é utilizado para representar essas estruturas em alto nível e de forma abstrata, ou seja, não existem detalhes de implementação especificados nessa etapa.
     
-3. **Projeto lógico:** Nesta fase, o esquema conceitual é transformado em um esquema lógico, utilizando um modelo de dados específico, como o Modelo Relacional. Essa transformação organiza o banco de dados em conjuntos de relações, detalhando tabelas, domínios, tipos de dados, colunas, chaves primárias e estrangeiras. Embora seja importante a definição do modelo de dados, nessa etapa ainda não existe a obrigatoriedade de definição de um SGBD específico.
+3. <mark class="prova" style="background:rgba(0,170,170,0.28)">**Projeto lógico:**</mark> Nesta fase, o esquema conceitual é transformado em um esquema lógico, utilizando um modelo de dados específico, como o Modelo Relacional. Essa transformação organiza o banco de dados em conjuntos de relações, detalhando tabelas, domínios, tipos de dados, colunas, chaves primárias e estrangeiras. Embora seja importante a definição do modelo de dados, nessa etapa ainda não existe a obrigatoriedade de definição de um SGBD específico.
     
-4. **Projeto físico:** A etapa de projeto físico abrange a escolha do Sistema de Gerenciamento de Banco de Dados (SGBD) que será utilizado, bem como questões relacionadas ao controle de acesso, estratégias de armazenamento e otimização de desempenho. Esse estágio foca em aspectos técnicos específicos que asseguram a implementação eficiente e segura do banco de dados.Além disso, é nesse momento que questões pendentes das etapas anteriores geralmente são resolvidas. Por exemplo, se a escolha de um SGBD específico não foi definida na fase de projeto lógico, a definição completa de certos tipos de dados pode ficar prejudicada. Isso ocorre porque o suporte a tipos de dados, como `bigint` ou `smallint`, entre outros, pode variar dependendo da tecnologia selecionada. Essa integração entre o projeto lógico e físico é essencial para garantir a coerência e a funcionalidade do banco de dados em produção.
+4. <mark class="prova" style="background:rgba(0,170,170,0.28)">**Projeto físico:**</mark> A etapa de projeto físico abrange a escolha do Sistema de Gerenciamento de Banco de Dados (SGBD) que será utilizado, bem como questões relacionadas ao controle de acesso, estratégias de armazenamento e otimização de desempenho. Esse estágio foca em aspectos técnicos específicos que asseguram a implementação eficiente e segura do banco de dados.Além disso, é nesse momento que questões pendentes das etapas anteriores geralmente são resolvidas. Por exemplo, se a escolha de um SGBD específico não foi definida na fase de projeto lógico, a definição completa de certos tipos de dados pode ficar prejudicada. Isso ocorre porque o suporte a tipos de dados, como `bigint` ou `smallint`, entre outros, pode variar dependendo da tecnologia selecionada. Essa integração entre o projeto lógico e físico é essencial para garantir a coerência e a funcionalidade do banco de dados em produção.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q39 (gab. C · preliminar)
+> **Trecho usado:** "Levantamento de requisitos … Modelagem conceitual … Projeto lógico … Projeto físico"
+> **Como cobrou:** conceito — ordenar as etapas do projeto: (3) "Levantamento e análise dos requisitos de dados", (4) modelo conceitual "por meio do Modelo Entidade-Relacionamento (MER)", (1) modelo lógico "com o mapeamento do esquema para tabelas, chaves e regras do modelo relacional", (2) modelo físico "com tipos de dados, índices e parâmetros de armazenamento"; a certa é "(C) 3, 4, 1, 2". Os distratores trocam a ordem (a (A) 3, 4, 2, 1 põe o físico antes do lógico).
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q39]]
 
 
 
@@ -417,7 +452,7 @@ C)** **Exclusive lock**: um bloqueio exclusivo previne outros usuários de aces
 
 
 ## NoSQL
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 |Tipo de banco NoSQL|Estrutura|Melhor uso|
 |---|---|---|
@@ -425,6 +460,11 @@ C)** **Exclusive lock**: um bloqueio exclusivo previne outros usuários de aces
 |**Documentos**|JSON/BSON/XML|Aplicações web, APIs, dados semiestruturados|
 |**Colunas (Column Family)**|Famílias de colunas|Big Data, analytics|
 |**Grafos**|Nós + arestas + propriedades|Redes sociais, fraude, recomendações|
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q29 (gab. E · preliminar)
+> **Trecho usado:** "Chave/Valor … Documentos … Colunas (Column Family) … Grafos"
+> **Como cobrou:** conceito — asserções: I "Os bancos de dados NoSQL são adequados a cenários com altíssimo volume de dados e necessidade de escalabilidade horizontal" PORQUE II "Esses bancos adotam modelos de dados flexíveis, como chave-valor, documento, coluna e grafo, que dispensam a adoção de um esquema relacional prévio e fixo"; a certa é "(E) As asserções I e II são verdadeiras, e a II é uma justificativa correta da I". A nota traz os quatro modelos; "esquema flexível" e "escalabilidade horizontal" do NoSQL não estão nela.
+> **Lastro:** PDF p. 12 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q29]]
 
 Como é possível notar nos exemplos acima, os dados em documentos podem conter **atributos aninhados e arrays**.  O **atributo aninhado** presente nesse exemplo é o campo:
 "preferencias": {

@@ -17,7 +17,7 @@ assuntos:
   - Classificação dos Bens Públicos
   - Características dos Bens Públicos
   - Tópicos Mesclados de Bens Públicos (Direito Administrativo)
-slot:
+slot: S5
 total: 22
 acertos: 17
 tempo_min:

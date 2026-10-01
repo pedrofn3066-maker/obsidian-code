@@ -20,6 +20,7 @@ Dúvidas respondidas, por matéria:
 - [[ERRO CONTABILIDADE GERAL#💭 Dúvidas respondidas|Contabilidade Geral]]
 - [[ERRO LEGISLAÇÃO MUNICIPAL DE SANTOS#💭 Dúvidas respondidas|Legislação Municipal de Santos (ISS Santos)]]
 - [[ERRO ESTATÍSTICA#💭 Dúvidas respondidas|Estatística]]
+- [[ERRO RACIOCÍNIO LÓGICO#💭 Dúvidas respondidas|Raciocínio Lógico]]
 - [[ERRO PORTUGUÊS#💭 Dúvidas respondidas|Português]]
 
 ## Dúvida

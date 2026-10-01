@@ -15,6 +15,11 @@ tags:
 - **Repartição Constitucional de Receitas Tributárias:** 2 dos 6 erros do caderno C07 DTRIB (27/09/2026) vieram daqui — FGV/TCE-PA (#3043737) e CEBRASPE/TCE-PR (#3048791). Não conhecia a lista **taxativa** de exceções à não afetação de imposto (art. 167, IV, CF: só repartição dos arts. 158/159, saúde, educação, administração tributária e ARO — causa "boa" como cultura/segurança/educação não entra) nem os critérios de repasse do IBS estadual aos Municípios (art. 158, § 2º: 80% população / 10% educação / 5% ambiente / 5% igual entre Municípios).
 - **Consulta tributária e art. 161, §2º do CTN (#3846928):** errei a mesma questão 2x (20/09 e 27/09), as duas vezes marcando a alternativa "D". O erro não é decoreba do dispositivo — é confundir **o que** fica suspenso (juros, multa, garantia — nunca a atualização monetária) com **quando** fica suspenso (marco = consulta protocolada dentro do prazo legal de pagamento, nunca "antes do fato gerador" ou "antes do AIIM"). Ver explicação reforçada no callout da questão.
 - **Simples Nacional — reincidência (caderno C04 DTRIB Ninja, 28/09/2026):** errei de novo as duas mesmas questões já registradas em 21/09: o rol do que o DAS **não** exclui (FCC/Pref. Barueri, #3906950, art. 13, § 1º, XIV, LC 123 — marquei I, II, III e IV; certos só I e III) e a sociedade de propósito específico (VUNESP/Pref. SP, #2635938, art. 56 — marquei que pode ter integrante não optante; a lei veda). Não gerei entrada nova (já estão registradas); a resposta de cada uma está nas entradas de 21/09. Conteúdo, não comportamento: reler o art. 13, § 1º e o art. 56, §§ 1º a 5º antes da próxima bateria.
+- **Responsabilidade tributária (arts. 124 a 138) — caderno C07 DTRIB (29/09/2026):** 3 dos 6 erros vieram daqui — solidariedade (#1550812, IBAM/Santos: o par. único do art. 124 vale sem ressalva; os efeitos do art. 125 abrem com "salvo disposição de lei em contrário"), art. 136 e domicílio público × privado (#1122232, IBAM/Franca) e incorporação (#2703718, IBAM/Saquarema: art. 132 × art. 133, marquei o art. 133 de fundo de comércio). O **art. 132 (fusão, transformação, incorporação) não está no cofre**: `MATERIAS/P2 - Direito Tributário.md` pula do art. 131 para o 133. É o mesmo assunto do lembrete de 24/09 em `Questoes/Duvidas.md` ("reler responsabilidade tributária de fundos de comércio").
+- **Padrão de comportamento — comando negativo (caderno C07 DTRIB, 29/09/2026):** em #816699 ("assinale a **incorreta**") e #1550812 ("**não** é correto afirmar") marquei uma alternativa que era **literal do CTN** (art. 110 e art. 125, II). O erro foi de leitura do comando, não de matéria. Antes de olhar as alternativas, sublinhar o comando (incorreta / não / exceto) e reler a marcada perguntando "isto é certo ou errado?".
+- **Fiscalização Tributária (arts. 194 a 200) — caderno 08 DTRIB Ninja (30/09/2026):** 2 dos 6 erros vieram daqui, FGV/Pref. SJC (#2771924: a administradora de imóveis é obrigada a informar, art. 197, III; marquei "sigilo") e FGV/Pref. Caraguatatuba (#2917873: a primeira formalidade é o **termo de início**, art. 196; marquei auto de infração). Nem o art. 196 nem o inciso III do art. 197 estão no cofre: falta absorver.
+- **Extinção × suspensão do crédito (#3906968, 30/09/2026):** marquei depósito (V) e dação em bens móveis (III) como extinção. Regra: depósito e parcelamento **suspendem** (art. 151); só a **conversão em renda** extingue (art. 156, VI), e a dação do CTN é só de **imóveis** (XI).
+- **Padrão de comportamento — alternativa que restringe ou acrescenta o que o artigo não diz (caderno 08 DTRIB, 30/09/2026):** em 4 dos 6 erros (#3846262 "apenas impostos", #2771924 "sigilo", #3178298 rol inflado com prazo de recurso e memória de cálculo, #3054076 "puramente objetivos") escolhi a alternativa que cria uma restrição ou exigência que o dispositivo não traz. Antes de marcar, conferir a alternativa contra o texto do artigo, sem completar o que a lei não diz.
 - 
 
 ---
@@ -89,7 +94,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > **Revisão Ativa:** certidão negativa: prazo para fornecer e termos do pedido :: 10 dias, nos termos em que requerida (art. 205, p.u.)
 > **Por que a D erra:** art. 208 do CTN — a certidão negativa com dolo ou fraude responsabiliza pessoalmente <mark>o funcionário que a expedir</mark>, não a pessoa física que a solicitou. A alternativa (C) veio cortada na captura.
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Certidão Negativa), outro dispositivo — a IBAM 2026 Bragança Q40 (gab. D) cobrou a CPEN do art. 206; este cobra o art. 205, parágrafo único (10 dias) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🟰 É a própria questão da prova (IBAM 2026 Guarulhos Q106, gab. B, preliminar): você marcou D e o gabarito é B, registro e gabarito batem; não conta como recorrência. Mesmo heading (Certidão Negativa), outro dispositivo — a IBAM 2026 Bragança Q40 (gab. D), a Guarulhos Q62 (gab. E) e a Guarulhos Q95 (gab. C) cobraram a CPEN do art. 206; a Q95 traz o art. 205, parágrafo único, só na alternativa (B), com 30 dias no lugar de 10, e o art. 208 na (E); este cobra o art. 205, parágrafo único (10 dias) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q62]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q95]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q106]]
 
 ---
 
@@ -109,7 +114,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1382`
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q40 (gab. D) cobrou que crédito com exigibilidade suspensa não impede a certidão (art. 206, CPEN), na alternativa (A), que é a errada · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q40 (gab. D) cobrou que crédito com exigibilidade suspensa não impede a certidão (art. 206, CPEN), na alternativa (A), que é a errada; a IBAM 2026 Guarulhos Q95 (gab. C, preliminar) cobrou a mesma regra do art. 206 na alternativa correta (crédito não vencido, com penhora efetivada ou com exigibilidade suspensa tem efeito de negativa). Esta assertiva é a alternativa (B) da própria Guarulhos Q62 (gab. E, preliminar, Súmula 446 STJ): falsa, como você respondeu, então registro e gabarito batem · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q40]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q95]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q62]]
 
 > [!question]- 20/09 15:52 · Direito Tributário · IBAM (ISS Guarulhos) — Responsabilidade tributária
 > O CTN define responsável tributário como aquele que, sem revestir a condição de contribuinte, tenha sua obrigação decorrente de disposição expressa de lei. Analise as afirmações e assinale a alternativa correta.
@@ -132,7 +137,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:759` (só cobre o art. 128) · classificação substituição × transferência e item II (adquirente de boa-fé): sem fonte confirmada
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ⚪ Não aparece como regra decisiva nas 4 provas absorvidas; a Q34 cobra a responsabilidade do tomador no ISS (art. 6º da LC 116), outro dispositivo; a Arraial Q3 usa os arts. 133 e 135 só nas alternativas (C) e (D) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🟰 É a própria questão da prova (IBAM 2026 Guarulhos Q65, gab. A, preliminar): você marcou B e o gabarito é A (só a IV é falsa: a substituição não entra na responsabilidade por transferência); não conta como recorrência. Fora ela, nenhuma das 5 provas cobrou a classificação substituição × transferência: a Guarulhos Q64 e a Q102 (gab. E e C, preliminar) cobraram o art. 135, III, e as Súmulas 430 e 435 no mesmo heading, outro dispositivo; a Bragança Q34 cobra a responsabilidade do tomador no ISS (art. 6º da LC 116), como a Guarulhos Q94 (tomador solidário, sem benefício de ordem) e a Q96 (retenção na fonte pelo tomador), outro dispositivo; a Arraial Q3 usa os arts. 133 e 135 só nas alternativas (C) e (D) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q65]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q64]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q102]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q94]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q96]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
 
 > [!question]- 20/09 15:53 · Direito Tributário · IBAM (ISS Guarulhos) — Crédito tributário
 > De acordo com a legislação tributária, o crédito tributário é constituído mediante lançamento, ressalvadas as hipóteses reconhecidas pela jurisprudência. Analise as afirmativas e assinale a alternativa correta.
@@ -153,6 +158,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > **B.** Os três estão corretos: art. 140 CTN (circunstâncias que modificam o crédito não afetam a obrigação), art. 141 (taxatividade) e Súmula 436 STJ (a declaração constitui o crédito).
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:863` e `MATERIAS/P2 - Direito Tributário.md:869` · art. 140: sem fonte confirmada
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🟰 É a própria questão da prova (IBAM 2026 Guarulhos Q68, gab. B, preliminar): você marcou C e o gabarito é B (os três itens corretos: arts. 140 e 141 e Súmula 436); não conta como recorrência. O item II (art. 141, taxatividade) também foi cobrado pela IBAM 2025 Arraial do Cabo Q7 (gab. B); no mesmo heading (Lançamento), a Guarulhos Q67 (art. 150, homologação expressa ou tácita), a Q100 (arts. 146, 147, §1º, e 150, §4º) e a Q109 (art. 145, rol fechado de alteração do lançamento) cobraram outros dispositivos · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q68]] · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q7]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q67]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q100]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q109]]
 
 > [!question]- 20/09 15:54 · Direito Tributário · IBAM (ISS Guarulhos) — Dívida ativa e CDA
 > Acerca da dívida ativa tributária e da Certidão de Dívida Ativa, assinale a alternativa correta.
@@ -171,7 +178,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1971`, `:2001`, `:2138`, `:2140`
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (Substituição da CDA), outro dispositivo — a IBAM 2026 São Vicente Q49 (gab. B) cobrou o art. 203 (nulidade sanável até a 1ª instância; defesa só sobre a parte modificada) e o art. 204 (presunção relativa); a "presunção absoluta" é o distrator do item IV da Q49 e da alternativa (B) deste item; este cobra a Súmula 392 do STJ. A Bragança Q37 e a Mauá Q22 só citam a CDA como alternativa · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q49]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q37]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🟰 É a própria questão da prova (IBAM 2026 Guarulhos Q69, gab. D, preliminar): você marcou C e o gabarito é D (Súmula 392 STJ; a C erra pela Súmula 559); não conta como recorrência. Mesmo heading (Substituição da CDA), outro dispositivo — a IBAM 2026 São Vicente Q49 (gab. B) cobrou o art. 203 (nulidade sanável até a 1ª instância; defesa só sobre a parte modificada) e o art. 204 (presunção relativa); a "presunção absoluta" é o distrator do item IV da Q49 e da alternativa (B) deste item; a Guarulhos Q108 (gab. A, preliminar) cobrou o art. 204, caput (presunção de certeza e liquidez e prova pré-constituída); este cobra a Súmula 392 do STJ. A Bragança Q37 e a Mauá Q22 só citam a CDA como alternativa · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q69]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q49]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q108]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q37]]
 
 > [!question]- 20/09 20:45 · Direito Tributário · FCC (SEFAZ SP 2026) — Moratória e isenção heterônomas
 > É prerrogativa das pessoas jurídicas de direito público interno conceder isenções e moratória. À luz do CTN e da CF, a União:
@@ -191,7 +198,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:961-966`, `:322`
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (exclusão do crédito), outro ângulo — a IBAM 2025 Arraial do Cabo Q8 (gab. B) cobrou a isenção como causa de exclusão do crédito, entre suspensão e extinção; este cobra a heteronomia da isenção e da moratória · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q8]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (exclusão do crédito), outro ângulo — a IBAM 2025 Arraial do Cabo Q8 (gab. B) cobrou a isenção como causa de exclusão do crédito, entre suspensão e extinção; a IBAM 2026 Guarulhos Q70 (gab. C, preliminar) cobrou o conceito de isenção e de anistia (arts. 175 e 180), a Q88 (gab. B) a moratória individual (arts. 152 e 155: sem direito adquirido e revogável de ofício) e a Q110 (gab. D) a isenção como exclusão e a moratória como suspensão; este cobra a heteronomia da isenção e da moratória, que nenhuma das 5 provas cobrou · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q8]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q70]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q88]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q110]]
 
 > [!question]- 20/09 20:48 · Direito Tributário · IBAM (Fiscal de Tributos, Pref. C. de Macacu 2024) — Parcelamento
 > No que se refere ao parcelamento do crédito tributário é correto afirmar que:
@@ -212,7 +219,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** (sem fonte confirmada): o art. 155-A do CTN não está no cofre (só o parcelamento do Simples, `MATERIAS/P2 - Direito Tributário.md:2415-2432`) e o Planalto não abriu na checagem. A leitura do art. 155-A vem da anotação do Pedro e da memória do CTN.
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo assunto, outro ângulo — a IBAM 2026 Bragança Q35 (gab. C) cobrou o parcelamento como causa de suspensão da exigibilidade (item 4); este cobra o requerimento e o reconhecimento da dívida · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q35]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo assunto, outro ângulo — a IBAM 2026 Bragança Q35 (gab. C) cobrou o parcelamento como causa de suspensão da exigibilidade (item 4); a IBAM 2026 Guarulhos Q110 (gab. D, preliminar) também, na alternativa correta (parcelamento, isenção e compensação), e a Q87 usou parcelamento e moratória como distrator de exclusão na alternativa (E); este cobra o requerimento e o reconhecimento da dívida · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q35]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q110]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q87]]
 
 > [!question]- 20/09 20:50 · Direito Tributário · FCC (AFRE SEFAZ SP 2026, #3846928) — Consulta e art. 161, §2º: juros de mora, garantia e atualização monetária
 > Independentemente das regras adotadas a respeito de consulta em matéria tributária, por cada uma das pessoas jurídicas de direito público interno brasileiras, o CTN estabelece que, na pendência de consulta sobre o crédito tributário, NÃO:
@@ -288,7 +295,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1144-1149`, `:929` · (sem fonte confirmada) a parte do STJ e a redação vigente do inciso II, por falta de acesso ao Planalto.
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo dispositivo, outro ângulo — a IBAM 2026 São Vicente Q60 (gab. A, incorreta) cobrou o art. 174 do CTN pelo lado inverso: a inscrição em dívida ativa não interrompe a prescrição tributária (a suspensão de 180 dias da LEF vale só para a não tributária); este cobra o protesto como causa de interrupção · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q60]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo dispositivo, outro ângulo — a IBAM 2026 São Vicente Q60 (gab. A, incorreta) cobrou o art. 174 do CTN pelo lado inverso: a inscrição em dívida ativa não interrompe a prescrição tributária (a suspensão de 180 dias da LEF vale só para a não tributária); a IBAM 2026 Guarulhos Q87 (gab. C, preliminar) cobrou o art. 174 pela prescrição da ação de cobrança como causa de extinção do crédito (art. 156, V), sem tratar das causas de interrupção; este cobra o protesto como causa de interrupção · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q60]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q87]]
 
 ### 21/09
 
@@ -313,6 +320,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > **Pegadinha:** a banca troca para "a lei complementar" ou "o CTN define um só sujeito passivo"; o CTN só dá o rol (proprietário, titular do domínio útil, possuidor a qualquer título) e a lei municipal escolhe.
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:2961` (tese) e `:2964` (súmula, anexada hoje) · (sem conferência no site do STJ; texto da súmula conforme colado)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (IPTU), outro ângulo — a IBAM 2026 Bragança Q28 (gab. A) cobrou o proprietário como sujeito passivo do IPTU, independentemente de habite-se ou de uso; a IBAM 2026 Guarulhos Q101 (gab. B, preliminar) cobrou a competência do Município da situação do bem; nenhuma das 5 provas cobrou a Súmula 399 (a lei municipal elege o sujeito passivo) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q28]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q101]]
 
 > [!question]- 21/09 15:56 · Direito Tributário · CEBRASPE (SEFAZ RS 2019, #776454) — Cooperativa, ICMS-ST e DAS
 > Cooperativa criada para industrializar produtos rurais insurgiu-se contra lançamento de ICMS por substituição tributária, alegando já ter pago o tributo no DAS do Simples Nacional. De acordo com a LC 123/2006, o argumento:
@@ -336,6 +345,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > **Pegadinha:** a banca acerta o primeiro ponto e erra o segundo (ou o contrário). Confira sempre os dois.
 > >
 > > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 3º §4º VI e art. 13 §1º XIII "a" · cofre `MATERIAS/P2 - Direito Tributário.md:1907` (vedações por forma jurídica)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (Vedações da LC 123), outro inciso — a IBAM 2026 Guarulhos Q107 (gab. A, preliminar) cobrou a opção pelo Portal do Simples (Res. CGSN 140, art. 6º) e trouxe duas vedações do art. 3º, §4º, só como distratores: a filial de pessoa jurídica com sede no exterior (C) e a sociedade por ações (E); a cooperativa (inciso VI) e o ICMS-ST fora do DAS (art. 13, §1º, XIII, a) nenhuma das 5 provas cobrou · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q107]]
 
 > [!question]- 21/09 15:56 · Direito Tributário · VUNESP (Pref GRU 2019, #879962) — Vedações: S/A e fretamento contínuo
 > "Transportando Pessoas XPTO S/A" presta transporte coletivo municipal de trabalhadores, na modalidade fretamento contínuo. De acordo com a legislação, essa empresa:
@@ -357,7 +368,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 3º §4º X · cofre `MATERIAS/P2 - Direito Tributário.md:1907` e `:1915` (vedações e transporte)
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesma norma, outro dispositivo — a IBAM 2025 Arraial do Cabo Q18 (gab. D) cobrou a vedação do art. 17, XII, da LC 123 (assessoria creditícia e gestão de crédito); este cobra a vedação por forma de constituição (S/A) e a exceção do fretamento contínuo · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q18]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesma norma, outro dispositivo — a IBAM 2025 Arraial do Cabo Q18 (gab. D) cobrou a vedação do art. 17, XII, da LC 123 (assessoria creditícia e gestão de crédito); a IBAM 2026 Guarulhos Q107 (gab. A, preliminar) cobrou a opção pelo Portal do Simples (Res. CGSN 140, art. 6º) e repetiu a vedação da S/A (art. 3º, §4º, X) como distrator na alternativa (E); este cobra a vedação por forma de constituição (S/A) e a exceção do fretamento contínuo · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q18]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q107]]
 
 > [!question]- 21/09 15:57 · Direito Tributário · FCC (Pref Barueri 2026, #3906950) — O que o DAS não exclui
 > O recolhimento por documento único não exclui a incidência de outros impostos e contribuições devidos como contribuinte ou responsável, aplicando-se a legislação das demais pessoas jurídicas. Observar-se-á a legislação aplicável às demais PJ em relação a:
@@ -429,6 +440,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > **Pegadinha:** a banca adiciona um requisito que a lei não tem ("convênio específico") ou inverte um efeito ("constituirá", "prejudicada").
 > >
 > > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 34, caput, §1º e §3º
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tema (presunções de omissão de receita), outro dispositivo — a IBAM 2026 Guarulhos Tarde cobrou as presunções do art. 335 da LC 214/2025 (RIR, art. 293) em quatro questões: Q141 (gab. C, passivo fictício, inciso III), Q144 (gab. E, suprimento de caixa por sócio, inciso VIII), Q150 (gab. A, diferença de estoques, inciso IX) e Q153 (gab. C, saldo credor de caixa, inciso II); este cobra o art. 34 da LC 123 (presunções da legislação de cada tributo do Simples) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q141]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q144]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q150]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q153]]
 
 > [!question]- 21/09 15:58 · Direito Tributário · VUNESP (Pref SP 2023, #2635932) — Regras gerais do Estatuto (MEI e cooperativa)
 > De acordo com a LC 123/2006, é correto afirmar que:
@@ -451,6 +464,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > - **E:** cooperativa, **salvo as de consumo**, é justamente a que **não pode** se beneficiar do tratamento diferenciado (art. 3º, §4º, VI). Você inverteu a regra: a exceção (consumo) é a única que pode.
 > >
 > > **Fonte:** LC 123/2006 (PDF do Planalto que você enviou), art. 18-A §4º-A, art. 3º §3º e §4º VI, art. 18-E
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (Vedações da LC 123), outro inciso — a IBAM 2026 Guarulhos Q107 (gab. A, preliminar) cobrou a opção pelo Portal do Simples (Res. CGSN 140, art. 6º) e trouxe a filial de pessoa jurídica com sede no exterior (C) e a sociedade por ações (E) só como distratores; a cooperativa, salvo as de consumo (art. 3º, §4º, VI), e o MEI (art. 18-A) nenhuma das 5 provas cobrou · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q107]]
 
 > [!question]- 21/09 15:58 · Direito Tributário · CEBRASPE (MPC TCE-PA 2019, #974730) — ME/EPP em licitações
 > Julgue os itens, sobre o tratamento das ME e EPP em licitações:
@@ -520,6 +535,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > O fato gerador da taxa é o exercício **regular** do poder de polícia ou a utilização, efetiva ou potencial, de serviço público específico e divisível (CTN, arts. 77 e 78). Pegadinha: alternativa que chama licença ou alvará de "serviço público".
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:204-212` (arts. 77 e 78 do CTN). Os quatro ciclos do poder de polícia não têm trecho no cofre, vêm do comentário do professor.
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico (taxa de licença), outro ângulo — a IBAM 2026 Guarulhos Tarde cobrou a taxa de licença do Código Tributário Municipal (Lei 7.966/2021): Q83 (gab. B, taxa anual do feirante, art. 163), Q92 (gab. E, contribuinte na ocupação do solo, arts. 176 e 177) e Q98 (gab. B, incidência na outorga e na renovação, art. 178); a Guarulhos Manhã Q61 (gab. A) trouxe o poder de polícia só como distrator na alternativa (B), sobre a taxa por postes; nenhuma das 5 provas cobrou os ciclos do poder de polícia (ordem, consentimento, fiscalização e sanção) que este cobra · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q83]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q92]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q98]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q61]]
 
 > [!question]- 21/09 20:45 · Direito Tributário · IBAM (Procurador Autárquico IBASS) — COSIP e progressividade
 > #2360047 IBAM - 2023 - Procurador Autárquico (IBASS)
@@ -543,7 +560,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > >
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:190` e `:252` (COSIP) · cofre `MATERIAS/P2 - Reforma Tributária.md:240` (art. 149-A) · cofre `wiki/concepts/Sumulas Vinculantes - Direito Tributario.md:42` (SV 41). O RE 573.675 vem do comentário do professor, sem trecho no cofre (conferir em stf.jus.br).
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ⚪ Não é regra decisiva nas 4 provas absorvidas; a COSIP só aparece como alternativa (A) da Q20, com natureza tributária e cobrança na fatura de energia · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ⚪ Não é regra decisiva nas 5 provas absorvidas; a COSIP só aparece como alternativa (A) da Q20, com natureza tributária e cobrança na fatura de energia · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]]
 
 ### 22/09
 
@@ -583,7 +600,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P2 - Direito Tributário#Taxas (arts. 77 a 80)|Direito Tributário › Taxas]] — **grifado agora:** art. 79, I, "b" (núcleo da utilização potencial), II ("destacados em unidades autônomas") e III ("utilização, separadamente, por parte de cada um").
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:216`
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q32 (gab. A) cobrou o serviço "específico e divisível" nos itens (2) e (16) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q32 (gab. A) cobrou o serviço "específico e divisível" nos itens (2) e (16), e a IBAM 2026 Guarulhos Q86 (gab. D, preliminar) cobrou o mesmo par (CTN, arts. 77 e 79) ao afastar a taxa de pavimentação, obra de benefício geral e indivisível; a Guarulhos Manhã Q61 (gab. A, preliminar) cobrou a taxa estadual de bombeiros (STF, Tema 1.282), com a utilização efetiva ou potencial só no texto da alternativa (A) · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q32]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q86]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q61]]
 
 > [!question]- 22/09 13:48 · Direito Tributário · VUNESP (ISS São Paulo 2023) — Contribuições sociais e CIDE: art. 149, §2º, CF
 > TEC #2635863. Segundo o regramento constitucional, no que se refere às contribuições sociais e de intervenção no domínio econômico, é correto afirmar que
@@ -641,6 +658,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [!info] 🔗 Na matéria
 > > [[P2 - Direito Tributário#Espécies de Tributos;|Direito Tributário › Espécies de Tributos]] — o cofre só tem o caput do art. 149; o §2º e o §3º **não estão no cofre** (nada a grifar).
 > > **Fonte:** internet CF, art. 149, §§ 2º e 3º — https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm · resposta do professor colada na captura
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** ⚪ Não é regra decisiva nas 5 provas absorvidas; o art. 149, §2º, I (exportação) só aparece como distrator: a alternativa (E) da IBAM 2026 Guarulhos Q93 (gab. C, preliminar) inverte o inciso ("incidem sobre as receitas decorrentes de exportação"), o mesmo erro da sua (A) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q93]]
 
 > [!question]- 22/09 13:51 · Direito Tributário · IBAM (Pref. Mogi Mirim 2026) — IPTU: zona urbana, base de cálculo e progressividade
 > TEC #4163857. O IPTU incide sobre a propriedade, o domínio útil ou a posse de bem imóvel localizado na zona urbana do município. Analise as afirmativas a seguir.
@@ -682,6 +701,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [!info] 🔗 Na matéria
 > > [[P2 - Direito Tributário#1. Introdução ao Imposto Predial e Territorial Urbano - IPTU|Direito Tributário › IPTU]] — **grifado agora:** Súmula 626. O art. 32, §2º, está no cofre só como resumo (linha da tabela "Flexibilização"); o art. 33, parágrafo único, **não está no cofre**.
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:3268` e `:3247` · internet CTN — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 Guarulhos Q101 (gab. B, preliminar) cobrou a mesma regra do item III, o IPTU progressivo pelo valor do imóvel (CF, art. 156, §1º, I), junto com a base atualizada pelo Executivo e a competência do Município da situação do bem; a Q91 (gab. A, preliminar) cobrou a zona urbana e o loteamento aprovado pela lei de Guarulhos (outro ângulo do item I); a IBAM 2025 Arraial do Cabo Q12 (gab. A) cobrou o valor venal como base de cálculo (item II), sem tratar dos bens móveis · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q101]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q91]] · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q12]]
 
 > [!question]- 22/09 13:53 · Direito Tributário · (continuação da IBAM Mogi Mirim) — Súmula 626 STJ: zona urbana × área de expansão urbana
 > Sempre importante relembrar a Súmula 626 do STJ: "A incidência do IPTU sobre imóvel situado em área considerada pela lei local como urbanizável ou de expansão urbana <mark style="background:#fff88f">não está condicionada à existência dos melhoramentos</mark> elencados no art. 32, § 1º, do CTN."
@@ -710,7 +731,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P2 - Direito Tributário#1. Introdução ao Imposto Predial e Territorial Urbano - IPTU|Direito Tributário › IPTU]] — **grifado agora:** Súmula STJ 626 ("não está condicionada à existência dos melhoramentos").
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:3257` e `:3269` · internet CTN art. 32, §2º — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (IPTU), outro ângulo — a IBAM 2025 Arraial do Cabo Q12 (gab. A) cobrou a base de cálculo (valor venal); este cobra a zona urbana e a área de expansão (art. 32, §§ 1º e 2º, e Súmula 626) · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q12]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (IPTU), outro ângulo — a IBAM 2025 Arraial do Cabo Q12 (gab. A) cobrou a base de cálculo (valor venal); a IBAM 2026 Guarulhos Q91 (gab. A, preliminar) cobrou a zona urbana pela lei municipal, com o loteamento aprovado fora dos melhoramentos equiparado a urbano (Lei 6.793/2010, art. 1º, §2º), mesma ideia do art. 32, §2º, do CTN; este cobra a zona urbana e a área de expansão (art. 32, §§ 1º e 2º, e Súmula 626) · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q12]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q91]]
 
 > [!question]- 22/09 13:55 · Direito Tributário · VUNESP (ISS São Paulo 2023) — ISS nas súmulas do STF e do STJ
 > TEC #2635915. Tendo por base os enunciados das Cortes Superiores, no que concerne ao Imposto Sobre Serviços de Qualquer Natureza (ISS), assinale a alternativa correta.
@@ -748,7 +769,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P2 - Direito Tributário#2. Imposto sobre Serviços - ISS|Direito Tributário › ISS]] — o cofre tem agenciamento × fornecimento (linha 3366) e o leasing no STF (linha 3277), mas **nenhuma das cinco súmulas** (nada a grifar).
 > > **Fonte:** internet súmulas 588 STF e 138, 167, 274, 524 STJ — https://scon.stj.jus.br/SCON/sumstj/ · https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (ISS), outro ângulo — a IBAM 2026 Bragança Q34 (gab. D) cobrou a responsabilidade do tomador e o lançamento por homologação; este cobra incidência e base de cálculo pelas súmulas · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (ISS), outro ângulo — a IBAM 2026 Bragança Q34 (gab. D) cobrou a responsabilidade do tomador e o lançamento por homologação; a IBAM 2026 Guarulhos Q97 (gab. E, preliminar) cobrou a incidência do ISS em relação ao ICMS (CTM, art. 140, §6º); este cobra incidência e base de cálculo pelas súmulas · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q34]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q97]]
 
 > [!question]- 22/09 13:56 · Direito Tributário · VUNESP (ISS São Paulo 2023) — ITBI na consolidação da propriedade fiduciária
 > TEC #2635884. Acerca do imposto sobre a transmissão onerosa de bens imóveis (ITBI), ocorrendo a consolidação da propriedade em razão do inadimplemento do devedor fiduciante, é correto afirmar, com base na jurisprudência do STJ, que
@@ -794,6 +815,8 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [!info] 🔗 Na matéria
 > > [[P2 - Direito Tributário#7. Imposto sobre a Transmissão de Bens Imóveis — ITBI (arts. 35 a 42)|Direito Tributário › ITBI]] — o cofre tem o fato gerador em resumo ("exceto os de garantia", linha 3520), sem texto literal para grifar; o caso da alienação fiduciária **não está no cofre**.
 > > **Fonte:** ementa do STJ colada na captura · internet CTN art. 35 — https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (ITBI), outro ângulo — a IBAM 2026 Guarulhos Q104 (gab. A, preliminar) cobrou o fato gerador do ITBI (transmissão inter vivos onerosa de imóvel, CF, art. 156, II) e a não incidência na integralização de capital e na incorporação (art. 156, §2º, I); a Bragança Q20 traz a base de cálculo só na alternativa (B); este cobra a consolidação da propriedade fiduciária como novo fato gerador (REsp 1.837.704/DF) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q104]] · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q20]]
 
 ### 27/09
 
@@ -851,7 +874,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P2 - Reforma Tributária#Princípios gerais do Sistema Tributário e LC (arts. 145 e 146)]] — já estava grifado (simplicidade/transparência/justiça tributária/cooperação/defesa do meio ambiente e "regressivos", em amarelo).
 > > **Fonte:** cofre `MATERIAS/P2 - Reforma Tributária.md:197` · comentário do TEC, com CF art. 153, VIII.
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🟰 É a própria questão da prova (Q59, gab. D): registro e gabarito batem com o que você anotou; não conta como recorrência · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q59]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2025 Arraial do Cabo Q2 (gab. C), a IBAM 2026 Guarulhos Q93 (gab. C, preliminar) e a Q121 (gab. D, preliminar) cobraram a mesma regra, o art. 145, §3º, da CF (simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente); a própria questão desta prova é a IBAM 2026 São Vicente Q59 (gab. D): registro e gabarito batem com o que você anotou · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q2]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q93]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q121]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q59]]
 
 > [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · VUNESP (Controlador Geral, Pref. Itatiba 2025, #3585817) — Imunidade religiosa: IPTU e Imposto de Importação
 > Determinada entidade religiosa está localizada no município de São Paulo e ocupa uma grande área onde realiza semanalmente seus cultos e promove sua atividade assistencial, que consiste na capacitação de pessoas com deficiência e doação de equipamentos não fabricados no Brasil para auxiliá-las. Em vista disso, a entidade religiosa
@@ -878,7 +901,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P2 - Direito Tributário#Arts. 9º a 15 do CTN diante da CF/88|Direito Tributário › Imunidades do art. 9º, CTN, diante da CF]] — grifado agora ("inclusive suas organizações assistenciais e beneficentes").
 > > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:350` · comentário do TEC, com STF RE 325822.
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo assunto (imunidades), outro ângulo — a IBAM 2026 São Vicente Q30 (item 2) e Q44 (item IV) usaram a imunidade como distrator (a das instituições sem fins lucrativos depende do art. 14 do CTN; a recíproca não alcança atividade econômica); este cobra a imunidade religiosa, o IPTU e o imposto de importação · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q30]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q44]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo assunto (imunidades), outro ângulo — a IBAM 2026 São Vicente Q30 (item 2) e Q44 (item IV) usaram a imunidade como distrator (a das instituições sem fins lucrativos depende do art. 14 do CTN; a recíproca não alcança atividade econômica); este cobra a imunidade religiosa, o IPTU e o imposto de importação · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q30]] · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q44]]
 
 > [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · FGV (Auditor de Controle Externo, TCE-PA 2024, #3043737) — Não afetação de receita de impostos (art. 167, IV, CF)
 > Com base na jurisprudência do Supremo Tribunal Federal, não ofende o princípio orçamentário da não afetação ou da não vinculação das receitas
@@ -906,7 +929,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P1 - Direito Financeiro#- Vedações orçamentárias na CF 88|Direito Financeiro › Não afetação de imposto (art. 167, IV)]] — grifado agora ("ressalvadas a repartição... arts. 158 e 159"). Ver também [[P2 - Direito Tributário#Repartição Constitucional de Receitas Tributárias.|Direito Tributário › Repartição de Receitas]] (jurisprudência do FPM/ICMS).
 > > **Fonte:** cofre `MATERIAS/P1 - Direito Financeiro.md:396` · comentário do TEC, com ADI 2529, RE 411044 AgR, RE 218874, ADI 820.
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q19 (gab. D) cobrou o mesmo dispositivo, o art. 167, IV, CF, e suas exceções à não afetação de imposto · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q19]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 Bragança Q19 (gab. D) cobrou o mesmo dispositivo, o art. 167, IV, CF, e suas exceções à não afetação de imposto · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q19]]
 
 > [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · CEBRASPE (Auditor de Controle Externo, TCE-PR 2024, #3048791) — Repartição de receitas: IBS e indicadores ambientais
 > No que concerne à repartição de receitas tributárias, assinale a opção correta, de acordo com a Constituição Federal de 1988 (CF), as alterações implementadas pela Emenda Constitucional n.º 132/2023 (Reforma Tributária) e a jurisprudência do STF.
@@ -928,7 +951,7 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [[P1 - Direito Constitucional#Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)]] — o cofre já tem o dado ("Art. 158, IV: 25% do ICMS e do IBS dos Estados. IBS: 80% população, 10% educação, 5% meio ambiente, 5% iguais"), num resumo — não é texto literal, não há trecho pra grifar.
 > > **Fonte:** comentário do TEC, com CF art. 158, § 2º, art. 156-A, § 1º, VII, e art. 160, § 1º.
 >
-> **Prova anterior (29/09 · 4 provas absorvidas):** 🔶 Mesmo heading (repartição), outro dispositivo — a IBAM 2025 Arraial do Cabo Q6 (gab. D) cobrou o percentual do art. 158, IV (25% do ICMS; IPVA é 50%); este cobra os critérios do IBS entregue aos Municípios (art. 158, § 2º) · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q6]]
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (repartição), outro dispositivo — a IBAM 2025 Arraial do Cabo Q6 (gab. D) cobrou o percentual do art. 158, IV (25% do ICMS; IPVA é 50%); este cobra os critérios do IBS entregue aos Municípios (art. 158, § 2º) · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q6]]
 
 > [!question]- 27/09 (mesma captura, sem hora registrada) · Direito Tributário · CEBRASPE (Especialista da Fazenda Estadual, SEFAZ-AC 2024, #2924837) — Contribuição confederativa × contribuição sindical
 > De acordo com a Constituição Federal de 1988, a contribuição fixada pela assembleia-geral para custeio do sistema confederativo do respectivo sindicato
@@ -955,3 +978,389 @@ VI - **que preste serviço de transporte intermunicipal e interestadual de pass
 > > [!info] 🔗 Na matéria
 > > Não está no cofre — [[P2 - Direito Tributário#Disposições Finais e Transitórias (arts. 209 a 218 do CTN)]] só cobre a contribuição **sindical** (art. 217, CTN), não a confederativa (art. 8º, IV, CF).
 > > **Fonte:** comentário do TEC, com CF art. 8º, IV, e Súmula Vinculante 40/STF.
+
+### 29/09
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Analista Tributário, Pref. Saquarema 2023, #2703738) — Normas complementares (art. 100, CTN)
+> Sobre as normas complementares do Direito Tributário, é correto dizer que:
+>
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">a elas são reservadas, dentre outras, as normas gerais do Direito Tributário.</mark>
+> (B) <mark style="background:#affad1">estabelecem, normalmente, o prazo para recolhimento do tributo, regras de fiscalização e outros assuntos.</mark>
+> (C) exigem um quórum qualificado para a sua aprovação.
+> (D) somente podem ser revogadas por normas da mesma natureza.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B
+> > As **normas complementares** (art. 100, CTN) são atos <mark style="background:#fff88f">infralegais</mark>: atos normativos das autoridades administrativas, decisões administrativas com eficácia normativa, práticas reiteradas e convênios. Como só a **lei** define os elementos essenciais do tributo (art. 97), o ato infralegal cuida do procedimental — <span class="g-prazo">prazo de recolhimento</span> e fiscalização (SV 50/STF: mudar o prazo de recolhimento não exige anterioridade).
+> >
+> > **(A)** confunde com **lei complementar**: quem trata de normas gerais é a LC (art. 146, III, CF). **(C)** ato administrativo não passa por votação legislativa, então não tem quórum. **(D)** norma de hierarquia superior revoga a inferior (uma lei pode revogar um decreto).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Nomes parecidos: "normas complementares" (art. 100, infralegais) × "lei complementar" (art. 146, III, CF, normas gerais). A alternativa A troca uma pela outra.
+>
+> > [!quote]- 📜 Texto literal — art. 100, CTN
+> > Art. 100. São <mark style="background:#fff88f">normas complementares</mark> das leis, dos tratados e das convenções internacionais e dos decretos:
+> > I - os atos normativos expedidos pelas autoridades administrativas;
+> > II - as decisões dos órgãos singulares ou coletivos de jurisdição administrativa, a que a lei atribua eficácia normativa;
+> > III - as práticas reiteradamente observadas pelas autoridades administrativas;
+> > IV - os convênios que entre si celebrem a União, os Estados, o Distrito Federal e os Municípios.
+> > Parágrafo único. A observância das normas referidas neste artigo exclui a imposição de penalidades, a cobrança de juros de mora e a atualização do valor monetário da base de cálculo do tributo.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Fontes da legislação tributária (arts. 96 a 100 do CTN)|Fontes da legislação tributária (arts. 96 a 100)]] — o art. 100 já está no cofre em texto literal, mas a questão testa o conceito (norma complementar × lei complementar), não uma palavra do artigo, então não grifei. A SV 50 está em [[Sumulas Vinculantes - Direito Tributario]] (wiki), não em `MATERIAS/`.
+> > **Fonte:** comentário do TEC, com CTN arts. 96, 97 e 100, CF art. 146, III, e SV 50/STF · cofre `MATERIAS/P2 - Direito Tributário.md:696`
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (Fontes da legislação), outro dispositivo — a IBAM 2026 São Vicente Q51 (gab. B) cobrou o art. 97 (reserva legal e atualização monetária da base); este cobra o art. 100 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q51]]
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Assistente Econômico Financeiro, CM Santo André 2015, #816699) — Interpretação literal (art. 111) × infrações (art. 112)
+> A propósito das normas sobre vigência, aplicação e interpretação da legislação tributária, assinale a alternativa **incorreta**.
+>
+> (A) Em matéria tributária, os atos normativos regularmente expedidos pelo Secretário de Fazenda, salvo disposição em contrário, entram em vigor na data de sua publicação.
+> (B) O emprego da analogia não poderá resultar na exigência de tributo não previsto em lei.
+> (C) <mark style="background:rgba(163, 67, 31, 0.2)">A lei tributária não pode alterar o alcance de institutos de direito privado, utilizados, pela Constituição do Estado, para definir ou limitar competências tributárias.</mark>
+> (D) <mark style="background:#affad1">Interpreta-se literalmente a legislação que disponha sobre suspensão do crédito tributário, outorga de isenção e infrações tributárias.</mark>
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D
+> > O art. 111 manda interpretar literalmente só três coisas: <mark style="background:#fff88f">suspensão ou exclusão do crédito</mark>, outorga de isenção e dispensa de obrigações acessórias. **Infrações tributárias não estão no rol** — pelo art. 112, a lei que define infrações ou comina penalidades se interpreta da maneira <mark style="background:#fff88f">mais favorável ao acusado</mark>, em caso de dúvida.
+> >
+> > **(A)** art. 100, I + art. 103, I: ato normativo de autoridade vigora na data da publicação, salvo disposição em contrário. **(B)** art. 108, § 1º. **(C)** art. 110 (o texto do CTN inclui as Constituições dos Estados) — está certa; era a alternativa a evitar por o comando pedir a incorreta.
+>
+> > [!example]- 🧩 Quadro — art. 108 × 111 × 112
+> > | Situação | Como interpretar | Base |
+> > | --- | --- | --- |
+> > | Suspensão/exclusão do crédito, isenção, dispensa de acessórias | Literalmente | art. 111 |
+> > | Infrações e penalidades (dúvida) | Da maneira mais favorável ao acusado | art. 112 |
+> > | Lacuna na lei | Analogia → princípios → equidade; analogia não cria tributo (§ 1º) e equidade não dispensa tributo devido (§ 2º) | art. 108 |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca trocou o inciso III do art. 111 ("dispensa de obrigações acessórias") por "infrações tributárias", que é matéria do art. 112 (interpretação mais favorável, oposto da literal).
+>
+> > [!quote]- 📜 Texto literal — arts. 111 e 112, CTN
+> > Art. 111. Interpreta-se literalmente a legislação tributária que disponha sobre: I - suspensão ou exclusão do crédito tributário; II - outorga de isenção; III - <mark style="background:#fff88f">dispensa do cumprimento de obrigações tributárias acessórias</mark>.
+> > Art. 112. A lei tributária que define infrações, ou lhe comina penalidades, <mark style="background:#fff88f">interpreta-se da maneira mais favorável ao acusado</mark>, em caso de dúvida quanto: I - à capitulação legal do fato; II - à natureza ou às circunstâncias materiais do fato, ou à natureza ou extensão dos seus efeitos; III - à autoria, imputabilidade ou punibilidade; IV - à natureza da penalidade aplicável, ou à sua graduação.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Interpretação e Integração da Legislação Tributária (arts. 107 a 112 do CTN);|Interpretação e Integração (arts. 107 a 112)]] — grifado agora: o rol do art. 111 e "mais favorável ao acusado" do art. 112.
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:805` e `:830` · comentário do TEC, com CTN arts. 100, 103, 108, 110, 111 e 112
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (Interpretação e Integração), outro dispositivo — a IBAM 2026 São Vicente Q22 (gab. C) cobrou os arts. 108 a 110 (equidade, analogia e institutos de direito privado); este cobra o art. 111 × art. 112 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q22]]
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Auditor Fiscal de Tributos Municipais, Pref. Santos 2020, #1550812) — Solidariedade (arts. 124 e 125, CTN)
+> De acordo com as normas gerais de direito tributário a respeito da solidariedade tributária, não é correto afirmar que salvo disposição de lei em contrário:
+>
+> (A) <mark style="background:#affad1">não comporta benefício de ordem.</mark>
+> (B) o pagamento efetuado por um dos obrigados aproveita aos demais
+> (C) a interrupção da prescrição, em favor ou contra um dos obrigados, favorece ou prejudica aos demais.
+> (D) <mark style="background:rgba(163, 67, 31, 0.2)">a remissão de credito exonera todos os obrigados, salvo se outorgado pessoalmente a um deles, subsistindo, nesse caso, a solidariedade quanto aos demais pelo saldo</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A
+> > A ausência de benefício de ordem vem do **parágrafo único do art. 124** e vale <mark style="background:#fff88f">sem ressalva</mark>: a lei não pode dizer o contrário. Já os **efeitos do art. 125** abrem com <span class="g-cond">"Salvo disposição de lei em contrário"</span>. Por isso, só a A não pode ser afirmada "salvo disposição de lei em contrário".
+> >
+> > **(B)** art. 125, I. **(C)** art. 125, III. **(D)** art. 125, II (isenção ou remissão exonera todos, salvo se pessoal, e o saldo continua solidário) — é literal do CTN, então está certa e não podia ser marcada num comando que pedia a errada.
+>
+> > [!example]- 🧩 Quadro — solidariedade (arts. 124 e 125)
+> > | Regra | Vale "salvo lei em contrário"? |
+> > | --- | --- |
+> > | Sem benefício de ordem (art. 124, par. único) | **Não**: sem ressalva |
+> > | Pagamento de um aproveita aos demais (art. 125, I) | Sim |
+> > | Isenção/remissão exonera todos, salvo se pessoal, com saldo solidário (art. 125, II) | Sim |
+> > | Interrupção da prescrição favorece ou prejudica os demais (art. 125, III) | Sim |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Mistura o par. único do art. 124 (sem ressalva) com os efeitos do art. 125 (com ressalva). Só o art. 125 começa com "Salvo disposição de lei em contrário"; a alternativa que fica de fora da ressalva é a resposta.
+>
+> > [!quote]- 📜 Texto literal — arts. 124 e 125, CTN
+> > Art. 124. São solidariamente obrigadas: I - as pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação principal; II - as pessoas expressamente designadas por lei.
+> > Parágrafo único. A solidariedade referida neste artigo <mark style="background:#fff88f">não comporta benefício de ordem</mark>.
+> > Art. 125. <span class="g-cond">Salvo disposição de lei em contrário</span>, são os seguintes os efeitos da solidariedade: I - o pagamento efetuado por um dos obrigados aproveita aos demais; II - a isenção ou remissão de crédito exonera todos os obrigados, salvo se outorgada pessoalmente a um deles, subsistindo, nesse caso, a solidariedade quanto aos demais pelo saldo; III - a interrupção da prescrição, em favor ou contra um dos obrigados, favorece ou prejudica aos demais.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Sujeito Passivo|Sujeito Passivo]] — grifado agora: "não comporta benefício de ordem" (art. 124, par. único) e "Salvo disposição de lei em contrário" (art. 125).
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:981` e `:983` · comentário do TEC
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — a IBAM 2026 Guarulhos Q94 (gab. E, preliminar) cobrou a mesma regra do art. 124, parágrafo único (solidariedade sem benefício de ordem), pela lei do ISS de Guarulhos (o tomador que não exige nota fiscal é solidário com o prestador); a alternativa (D), com benefício de ordem, é o distrator · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q94]]
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Fiscal de Tributos, Pref. Franca 2019, #1122232) — Capacidade tributária passiva (art. 126), domicílio (art. 127) e responsabilidade (arts. 132 e 136)
+> Segundo o Código Tributário Nacional, assinale a alternativa correta.
+>
+> (A) Quanto às pessoas jurídicas de direito privado, na falta de eleição, pelo contribuinte ou responsável, de domicílio tributário, na forma da legislação aplicável, considera-se como tal qualquer de suas repartições no território da entidade tributante.
+> (B) <mark style="background:rgba(163, 67, 31, 0.2)">Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária depende da intenção do agente ou do responsável.</mark>
+> (C) A pessoa jurídica de direito público que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até à data do ato pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas.
+> (D) <mark style="background:#affad1">A capacidade tributária passiva independe da capacidade civil das pessoas naturais.</mark>
+>
+> **Marquei:** 🟥 B · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D
+> > **Art. 126, I, CTN:** a capacidade tributária passiva <mark style="background:#fff88f">independe da capacidade civil</mark> das pessoas naturais (nem de restrição a atividades civis, comerciais ou profissionais, nem de a PJ estar regularmente constituída).
+> >
+> > **(B)** o art. 136 diz o oposto: a responsabilidade por infração <mark style="background:#fff88f">independe da intenção</mark> do agente (responsabilidade objetiva), salvo lei em contrário. **(A)** "qualquer de suas repartições" é regra da PJ de direito **público** (art. 127, III); PJ de direito privado é a sede ou cada estabelecimento (art. 127, II). **(C)** o art. 132 fala em PJ de direito **privado** sucessora, não de direito público.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > Três alternativas trocam pares opostos: **privado × público** (A e C) e **depende × independe** (B). Vale conferir o tipo de pessoa jurídica e o verbo antes de aceitar a frase.
+>
+> > [!tip] 💡 Macete
+> > Público = **qualquer repartição**; privado = **sede** (ou cada estabelecimento, para os fatos nele ocorridos).
+>
+> > [!quote]- 📜 Texto literal — arts. 126 e 136, CTN
+> > Art. 126. A capacidade tributária passiva <mark style="background:#fff88f">independe</mark>: I - da capacidade civil das pessoas naturais; II - de achar-se a pessoa natural sujeita a medidas que importem privação ou limitação do exercício de atividades civis, comerciais ou profissionais, ou da administração direta de seus bens ou negócios; III - de estar a pessoa jurídica regularmente constituída, bastando que configure uma unidade econômica ou profissional.
+> > Art. 136. <span class="g-cond">Salvo disposição de lei em contrário</span>, a responsabilidade por infrações da legislação tributária <mark style="background:#fff88f">independe da intenção</mark> do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Domicílio tributário (art. 127)|Domicílio tributário (art. 127)]] — grifado agora: "o lugar da sua sede" (II) e "qualquer de suas repartições" (III). [[P2 - Direito Tributário#Responsabilidade Tributária|Responsabilidade Tributária]] — art. 136 grifado agora ("independe da intenção" e "Salvo disposição de lei em contrário"). O **rol do art. 126** não está no cofre: a linha 966 traz só o resumo e avisa que o PDF cortou o rol (entrou pelo comentário do TEC).
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1007`, `:1008` e `:1047` · comentário do TEC, com CTN arts. 126, 127, 132 e 136
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (Responsabilidade Tributária), outro dispositivo — a IBAM 2026 Guarulhos Q64 (gab. E, preliminar) e a Q102 (gab. C, preliminar) cobraram o art. 135, III, e as Súmulas 430 e 435; a Q102 traz o art. 132 (fusão) só na alternativa (B); o art. 136 (responsabilidade por infração independe da intenção) e o art. 126 (capacidade passiva) nenhuma das 5 provas cobrou · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q64]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q102]]
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Analista Tributário, Pref. Saquarema 2023, #2703718) — Incorporação de empresa (art. 132) × aquisição de estabelecimento (art. 133)
+> Uma escola localizada no distrito de Bacaxá encontrava-se em verdadeira crise financeira, devendo só de imposto sobre serviços de qualquer natureza mais de R$ 30.000,00. Em razão os vislumbrar uma considerável oportunidade local, um poderoso grupo econômico do setor decidiu adquirir e incorporar esta escola. Contudo, ao ser cobrado administrativamente pelo tributo devido pela pequena escola, informou que não era o contribuinte na época e que, portanto, seriam os antigos sócios que deveriam responder. Este argumento está incorreto pelo seguinte motivo:
+>
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">a pessoa jurídica de direito privado que adquirir de outra estabelecimento comercial e continuar a respectiva exploração responde pelo tributos relativos ao fundo ou estabelecimento adquirido devidos até a data do ato integralmente, se o alienante cessar a exploração do comércio, indústria ou atividade.</mark>
+> (B) a pessoa jurídica de direito privado que adquirir de outra estabelecimento comercial e continuar a respectiva exploração responde pelos tributos relativos ao fundo ou estabelecimento adquirido, devidos até a data do ato subsidiariamente com o alienante, se este prosseguir na exploração ou iniciar dentro de seis meses.
+> (C) a pessoa jurídica de direito privado, que resultar de fusão de outra, é responsável pelo tributos devidos até a data do ato pelas pessoas jurídicas de direito privado fusionadas.
+> (D) <mark style="background:#affad1">a pessoa jurídica de direito privado, que resultar da incorporação de outra, é responsável pelos tributos devidos até a data do ato pelas pessoas jurídicas de direito privado incorporadas.</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D
+> > O grupo **incorporou** a escola, e o **art. 132, CTN** manda a PJ de direito privado que resulta de <mark style="background:#fff88f">fusão, transformação ou incorporação</mark> responder pelos tributos devidos <span class="g-prazo">até a data do ato</span> pelas PJs sucedidas — então o ISS de R$ 30.000,00 é dela, e "os antigos sócios" não afastam a cobrança.
+> >
+> > **(A)** e **(B)** descrevem corretamente o **art. 133** (compra de fundo de comércio ou estabelecimento), mas o caso é incorporação de pessoa jurídica, não aquisição de estabelecimento. **(C)** descreve o art. 132 para **fusão**; o caso é incorporação.
+>
+> > [!example]- 🧩 Quadro — art. 132 × art. 133
+> > | | Art. 132 | Art. 133 |
+> > | --- | --- | --- |
+> > | Fato | PJ de direito privado resulta de fusão, transformação ou incorporação | Alguém adquire fundo de comércio ou estabelecimento e continua a exploração |
+> > | Responde por | tributos devidos até a data do ato pelas PJs sucedidas | tributos do fundo ou estabelecimento, até a data do ato |
+> > | Alcance | não distingue: a sucedida é absorvida ou mudou de forma | **integral** se o alienante cessar; **subsidiária** se ele continuar ou iniciar nova atividade em até 6 meses |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O verbo "adquirir" no enunciado puxa o art. 133 (fundo de comércio), mas o fato é **incorporação** de pessoa jurídica (art. 132). As alternativas A, B e C estão certas em abstrato e erradas para este caso.
+>
+> > [!quote]- 📜 Texto literal — art. 132, CTN
+> > Art. 132. A pessoa jurídica de direito privado que resultar de <mark style="background:#fff88f">fusão, transformação ou incorporação</mark> de outra ou em outra é responsável pelos tributos devidos <span class="g-prazo">até à data do ato</span> pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas.
+> > Parágrafo único. O disposto neste artigo aplica-se aos casos de extinção de pessoas jurídicas de direito privado, quando a exploração da respectiva atividade seja continuada por qualquer sócio remanescente, ou seu espólio, sob a mesma ou outra razão social, ou sob firma individual.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Responsabilidade Tributária|Responsabilidade Tributária]] — o **art. 132 não está no cofre**: o texto literal pula do art. 131 (linha 1091) para o 133 (linha 1096). O art. 133 já tem tabela e lupa (linhas 1069 e 1132). Fica como candidato a `/triar-inbox`. Relaciona-se ao lembrete de 24/09 em `Questoes/Duvidas.md` ("reler responsabilidade tributária de fundos de comércio").
+> > **Fonte:** comentário do TEC, com CTN arts. 132 e 133 · cofre `MATERIAS/P2 - Direito Tributário.md:1069` e `:1096`
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (Responsabilidade Tributária), outro dispositivo — a IBAM 2026 Guarulhos Q102 (gab. C, preliminar) cobrou o art. 135, III (e a Súmula 430) e trouxe o art. 132 (fusão) como alternativa (B), verdadeira; a Guarulhos Manhã Q64 (gab. E) cobrou o mesmo art. 135, III; a IBAM 2025 Arraial do Cabo Q3 usa o art. 133 só na alternativa (C); nenhuma das 5 provas cobrou a incorporação (art. 132) ou o art. 133 como regra decisiva · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q102]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q64]] · [[IBAM 2025 - Arraial do Cabo - Fiscal de Rendas#Q3]]
+
+> [!question]- 29/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Procurador, Pref. Paty do Alferes 2020, #1804932) — Compensação e jurisprudência do STJ (Súmulas 460 e 461, art. 170-A)
+> A compensação é medida que resolve o crédito tributário entre os sujeitos da relação jurídica. Sobre este instituto, tendo em consideração a jurisprudência do Superior Tribunal de Justiça, a alternativa correta é a seguinte:
+>
+> (A) <mark style="background:rgba(163, 67, 31, 0.2)">cuida-se de causa de extinção do crédito tributário, por esse motivo admite-se seja excluída a responsabilidade tributária pela denúncia espontânea operada na compensação.</mark>
+> (B) é possível operar a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva decisão judicial.
+> (C) se o contribuinte operar compensação por conta própria, ele poderá impetrar mandado de segurança para convalidar a extinção do crédito tributário.
+> (D) <mark style="background:#affad1">o contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado.</mark>
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D
+> > **Súmula 461/STJ:** o contribuinte <mark style="background:#fff88f">pode optar</mark> por precatório ou por compensação para receber o indébito certificado em sentença declaratória transitada em julgado. Ambas são formas de execução do julgado à disposição do credor.
+> >
+> > **(A)** a compensação só extingue o crédito **depois de homologada** (condição resolutória); sem pagamento ou depósito, não há denúncia espontânea do art. 138 (REsp 1.461.757/RS). **(B)** o art. 170-A **veda** compensar antes do <span class="g-cond">trânsito em julgado</span> quando o tributo é objeto de contestação judicial. **(C)** a Súmula 460/STJ diz que é incabível MS para convalidar compensação feita por conta própria pelo contribuinte.
+>
+> > [!example]- 🧩 Quadro — compensação, alternativa por alternativa
+> > | Tema | Regra | Base |
+> > | --- | --- | --- |
+> > | Denúncia espontânea via compensação | Não vale: compensação depende de homologação, não é pagamento nem depósito | art. 138 + REsp 1.461.757/RS |
+> > | Compensar tributo em discussão judicial | Vedado antes do trânsito em julgado | art. 170-A |
+> > | Compensação por conta própria | MS incabível para convalidar | Súm. 460/STJ |
+> > | Indébito por sentença declaratória transitada | Contribuinte opta: precatório ou compensação | Súm. 461/STJ |
+>
+> > [!tip] 💡 Macete
+> > **460 = MS não convalida; 461 = quem escolhe é o contribuinte** (precatório ou compensação).
+>
+> > [!quote]- 📜 Texto literal — art. 170-A, CTN e Súmulas 460/461, STJ
+> > Art. 170-A. É vedada a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, <span class="g-cond">antes do trânsito em julgado</span> da respectiva decisão judicial.
+> > Súmula 460: é incabível o mandado de segurança para convalidar a compensação tributária realizada pelo contribuinte.
+> > Súmula 461: o contribuinte pode optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Extinção do Crédito tributário|Extinção do Crédito tributário]] — as Súmulas 460 e 461 estão na linha 1316; grifadas agora. O art. 170-A aparece só no resumo da tabela de [[P2 - Direito Tributário#Outras modalidades (arts. 156, 170 a 172)|Outras modalidades]] (linha 1409), sem texto literal para grifar. A tese da compensação × denúncia espontânea (REsp 1.461.757/RS) **não está no cofre**; o art. 138 já estava grifado (linha 1084).
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1316` e `:1409` · comentário do TEC, com CTN arts. 138 e 170-A, Súmulas 460/461/STJ e REsp 1.461.757/RS
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo heading (Outras modalidades), outro ângulo — a IBAM 2026 Guarulhos Q110 (gab. D, preliminar) cobrou a compensação como causa de extinção do crédito (art. 156, II), sem tratar do art. 170-A nem das Súmulas 460 e 461; a Guarulhos Manhã Q49 (gab. A, preliminar) cobrou o mandado de segurança em geral (CF, art. 5º, LXIX; Lei 12.016/2009, art. 5º, II; Súmula 267/STF), o mesmo remédio da Súmula 460, mas não a convalidação de compensação · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q110]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q49]]
+
+### 30/09
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Direito Tributário · FCC (Auditor Fiscal de Receita Estadual, SEFAZ SP, 2026) — Lançamento por homologação: abrange tributos, não só impostos
+> A legislação tributária estadual, relativamente a determinada exação, atribui ao sujeito passivo o dever de antecipar o pagamento do montante devido, sem prévio exame da autoridade administrativa, cabendo a essa autoridade administrativa, tomando conhecimento da atividade exercida pelo sujeito passivo, homologá-la expressamente.
+>
+> De acordo com o Código Tributário Nacional, a modalidade de lançamento descrita no parágrafo anterior pode ser utilizada para constituir crédito tributário APENAS em relação a
+>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(A) impostos.</mark>
+> <mark style="background:#affad1">(B) tributos.</mark>
+> (C) penalidades.
+> (D) impostos e penalidades.
+> (E) tributos e penalidades.
+>
+> **Marquei:** 🟥 A · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: tributos
+> > O art. 150 do CTN fala em <mark style="background:#fff88f"><span class="g-comp">tributos</span> cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento</mark> — não restringe a impostos.
+> >
+> > **(A)** e **(D)** inventam uma restrição a impostos que o CTN não faz. **(C)**, **(D)** e **(E)** incluem penalidades, que não são tributo (art. 3º: prestação que <span class="g-cond">não constitua sanção de ato ilícito</span>).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O "APENAS em relação a" convida a escolher a espécie mais conhecida (impostos). O CTN usa o gênero **tributos**; a banca troca o gênero por uma espécie (impostos) ou soma penalidade, que está fora do conceito de tributo.
+>
+> > [!quote]- 📜 Texto literal — art. 150, caput, CTN
+> > Art. 150. O lançamento por homologação, que ocorre quanto aos <span class="g-comp">tributos</span> cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente a homologa.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Lançamento]] — art. 150 na linha 1397, grifado agora ("tributos cuja legislação atribua… o dever de antecipar o pagamento").
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1397` · comentário do TEC, com CTN arts. 3º e 150 · TEC #3846262
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Direito Tributário · FCC (Auditor Fiscal e Tributário, Pref. Barueri, 2026) — Extinção × suspensão do crédito: parcelamento, depósito, dação em pagamento
+> De acordo com o Código Tributário Nacional, o pagamento é uma das formas de extinção do crédito tributário, mas não a única. Conforme o disposto no referido Código, também extingue o crédito tributário:
+>
+> I. o parcelamento;
+> II. a decisão judicial passada em julgado;
+> III. a dação em pagamento em bens móveis e imóveis, na forma e condições estabelecidas em lei;
+> IV. a decisão administrativa irreformável, assim entendida a definitiva na órbita administrativa, que não mais possa ser objeto de ação anulatória;
+> V. o depósito do seu montante integral e a posterior conversão desse depósito em renda.
+>
+> Está correto o que consta de
+>
+> (A) I, II, III, IV e V.
+> <mark style="background:#affad1">(B) II e IV, apenas.</mark>
+> (C) I, III e IV, apenas.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) II, III e V, apenas.</mark>
+> (E) I e V, apenas.
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: só II e IV
+> > O art. 156 é o rol de <mark style="background:#fff88f">extinção</mark>; o art. 151 é o de <span class="g-cond">suspensão</span>. Extinguem: II (<mark style="background:#fff88f">decisão judicial passada em julgado</mark>, art. 156, X) e IV (decisão administrativa irreformável, art. 156, IX).
+> >
+> > **(I)** erra: o **parcelamento suspende** (art. 151, VI), não extingue. **(III)** erra: o CTN só admite dação em pagamento em <span class="g-cond">bens imóveis</span> (art. 156, XI). **(V)** erra: o depósito do montante integral **suspende** (art. 151, II); só a **conversão do depósito em renda** extingue (art. 156, VI) — a banca colou os dois momentos.
+>
+> > [!example]- 🧩 Quadro — os cinco itens
+> > | Item | Instituto | Efeito no CTN | Base |
+> > | --- | --- | --- | --- |
+> > | I | parcelamento | suspende a exigibilidade | art. 151, VI |
+> > | II | decisão judicial passada em julgado | extingue | art. 156, X |
+> > | III | dação em pagamento em bens móveis e imóveis | só **imóveis** extingue | art. 156, XI |
+> > | IV | decisão administrativa irreformável | extingue | art. 156, IX |
+> > | V | depósito do montante integral + conversão em renda | depósito suspende; a conversão extingue | art. 151, II · art. 156, VI |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O item V junta dois atos de efeitos diferentes: o **depósito** (suspende) e a **conversão em renda** (extingue), e o enunciado atribui a extinção ao conjunto. No III, a banca acrescenta "móveis" à dação: "De acordo com o CTN" pede a literalidade (só imóveis), mesmo que a ADI 2.405 do STF admita lei estadual ou municipal com outros bens.
+>
+> > [!tip] 💡 Macete
+> > Suspensão = **MODERCOPA**: **MO**ratória, **DE**pósito, **R**eclamações/recursos, **CO**m liminar em MS, **P**rocedimento judicial (liminar/tutela), **PA**rcelamento. Quem está na sigla suspende; não extingue.
+>
+> > [!quote]- 📜 Texto literal — arts. 151 (II e VI) e 156 (VI, IX, X e XI), CTN
+> > Art. 151. Suspendem a exigibilidade do crédito tributário: II - o depósito do seu montante integral; VI – o parcelamento.
+> > Art. 156. Extinguem o crédito tributário: VI - a conversão de depósito em renda; IX - a decisão administrativa irreformável, assim entendida a definitiva na órbita administrativa, que não mais possa ser objeto de ação anulatória; X - a decisão judicial passada em julgado; XI - a dação em pagamento em <span class="g-cond">bens imóveis</span>, na forma e condições estabelecidas em lei.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Extinção do Crédito tributário]] e [[P2 - Direito Tributário#Suspensão do Crédito tributário]] — art. 156 (linhas 1645–1656: VI, IX, X e XI) e art. 151 (II e VI, linhas 1476 e 1480), grifados agora. A Súmula 653/STJ (pedido de parcelamento interrompe a prescrição) e a ADI 2.405/STF (dação em bens móveis por lei local) **não estão no cofre**.
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1645` e `:1475` · comentário do TEC, com CTN arts. 151 e 156, Súmula 653/STJ e ADI 2.405/STF · TEC #3906968
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Direito Tributário · FGV (Auditor Tributário Municipal, Pref. São José dos Campos, 2024) — Intimação à administradora de imóveis: dever de informar (art. 197, III)
+> A Administradora de imóveis PDQA foi intimada pela Receita Federal a prestar informações dos imóveis e valor dos aluguéis em nome do seu cliente, Sr. Alexandre Batista, para apuração de possível sonegação de Imposto de Renda nos últimos anos. Em relação a tal intimação, a Administradora deve
+>
+> (A) negar as informações, pois só pode prestá-las em caso de ordem judicial.
+> (B) prestar as informações em relação aos imóveis, mas não em relação aos valores dos aluguéis.
+> (C) negar as informações, pois só pode prestá-las em caso de ordem judicial ou requisição do Ministério Público.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) negar as informações, devido ao sigilo bancário e fiscal do cliente.</mark>
+> <mark style="background:#affad1">(E) prestar as informações tanto em relação aos imóveis quanto ao valor dos aluguéis.</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — E: prestar as informações sobre imóveis e aluguéis
+> > O art. 197, III, obriga as <mark style="background:#fff88f">empresas de administração de bens</mark>, <span class="g-cond">mediante intimação escrita</span>, a prestar <span class="g-cond">todas as informações de que disponham</span> sobre bens, negócios ou atividades de terceiros.
+> >
+> > **(D)** erra: o sigilo bancário e fiscal do cliente não protege a administradora, que não tem dever legal de segredo (o parágrafo único do art. 197 só afasta o dever quando o informante está legalmente obrigado ao segredo por cargo, ofício, função, ministério, atividade ou profissão). **(A)** e **(C)** inventam reserva de jurisdição. **(B)** divide a informação, e o CTN diz "todas".
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca põe "sigilo" como isca: o art. 198 veda que o **Fisco** divulgue informação, mas não libera terceiros listados no art. 197 de informar. O sigilo que dispensa a informação é o do parágrafo único (segredo profissional legal, como advogado e médico).
+>
+> > [!quote]- 📜 Texto literal — art. 197, caput, III e parágrafo único, CTN
+> > Art. 197. Mediante intimação escrita, são obrigados a prestar à autoridade administrativa todas as informações de que disponham com relação aos bens, negócios ou atividades de terceiros: (…) III - as empresas de administração de bens; (…)
+> > Parágrafo único. A obrigação prevista neste artigo não abrange a prestação de informações quanto a fatos sobre os quais o informante esteja legalmente obrigado a observar segredo em razão de cargo, ofício, função, ministério, atividade ou profissão.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Fiscalização Tributária (arts. 194 a 200 do CTN)]] — o art. 197 aparece só com os incisos II (bancos) e IV (corretores, leiloeiros e despachantes), na linha 1898; o **inciso III (administração de bens) não está no cofre**, então não grifei nada.
+> > **Fonte:** cofre (parcial) `MATERIAS/P2 - Direito Tributário.md:1898` · comentário do TEC, com CTN art. 197 · TEC #2771924
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Direito Tributário · FGV (Fiscal de Tributos, Pref. Caraguatatuba, 2024) — Primeira formalidade da fiscalização: termo de início (art. 196)
+> A primeira formalidade que deve ser seguida quando do início de um procedimento de Fiscalização Tributária é a
+>
+> (A) prestação de informações ao Fisco.
+> (B) intimação formal das pessoas investigadas.
+> <mark style="background:#affad1">(C) lavratura de termo de fiscalização.</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) emissão do auto de infração.</mark>
+> (E) quebra do sigilo bancário.
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 C
+>
+> > [!success] ✅ Resposta — C: lavratura do termo de fiscalização
+> > O art. 196 manda a autoridade lavrar <mark style="background:#fff88f">os termos necessários para que se documente o início do procedimento</mark>, e a legislação fixa o <span class="g-prazo">prazo máximo</span> para concluí-lo.
+> >
+> > **(D)** erra: o auto de infração é o **fim** da fiscalização, depois de apurada a infração, não a primeira formalidade. **(A)**, **(B)** e **(E)** são providências que vêm depois do termo.
+>
+> > [!quote]- 📜 Texto literal — art. 196, CTN
+> > Art. 196. A autoridade administrativa que proceder ou presidir a quaisquer diligências de fiscalização lavrará os termos necessários para que se documente o início do procedimento, na forma da legislação aplicável, que fixará <span class="g-prazo">prazo máximo</span> para a conclusão daquelas.
+> > Parágrafo único. Os termos a que se refere este artigo serão lavrados, sempre que possível, em um dos livros fiscais exibidos; quando lavrados em separado deles se entregará, à pessoa sujeita à fiscalização, cópia autenticada pela autoridade a que se refere este artigo.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Fiscalização Tributária (arts. 194 a 200 do CTN)]] — o heading cobre os arts. 197 e 198, mas o **art. 196 (termo de início) não está no cofre**; não grifei nada.
+> > **Fonte:** comentário do TEC, com CTN art. 196 · (sem fonte no cofre) · TEC #2917873
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Direito Tributário · IBAM (Fiscal de Tributos, Pref. Cachoeiras de Macacu, 2024) — Requisitos obrigatórios do termo de inscrição em dívida ativa (art. 202)
+> Dentre outros elementos, indique entre as alternativas abaixo os dados que devem constar obrigatoriamente no termo de inscrição em dívida ativa.
+>
+> (A) O valor total devido, sendo desnecessária a indicação da maneira de calcular os juros de mora eventualmente acrescidos
+> (B) O valor total devido e a data em que foi inscrita, somente
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) A origem e natureza do crédito, bem como o valor, a legislação, o endereço, o prazo de recurso, o valor específico dos juros e memória de cálculo detalhada</mark>
+> <mark style="background:#affad1">(D) O nome do devedor e, sendo o caso, o dos corresponsáveis, bem como, sempre que possível, o domicílio ou a residência de um e de outros</mark>
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 D
+>
+> > [!success] ✅ Resposta — D: nome do devedor e corresponsáveis, com domicílio ou residência "sempre que possível"
+> > O art. 202, I, traz exatamente isso. O inciso II pede só <mark style="background:#fff88f">a quantia devida e a maneira de calcular os juros de mora</mark>.
+> >
+> > **(C)** erra ao inflar o rol: o CTN **não** exige <span class="g-cond">prazo de recurso</span>, <span class="g-cond">valor específico dos juros</span> nem <span class="g-cond">memória de cálculo detalhada</span> (só a *maneira de calcular* os juros). **(A)** tira a maneira de calcular os juros, que é obrigatória (II). **(B)** diz "somente", mas o rol tem cinco incisos.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca infla o rol com itens que soam técnicos (prazo de recurso, memória de cálculo), ou o encolhe com "somente" e "desnecessária". O art. 202 é taxativo e enxuto: devedor, quantia e maneira de calcular juros, origem e natureza com a lei, data da inscrição e número do processo administrativo, este só "sendo caso".
+>
+> > [!quote]- 📜 Texto literal — art. 202, CTN
+> > Art. 202. O termo de inscrição da dívida ativa, autenticado pela autoridade competente, indicará obrigatoriamente: I - o nome do devedor e, sendo caso, o dos co-responsáveis, bem como, sempre que possível, o domicílio ou a residência de um e de outros; II - a quantia devida e a maneira de calcular os juros de mora acrescidos; III - a origem e natureza do crédito, mencionada especificamente a disposição da lei em que seja fundado; IV - a data em que foi inscrita; V - sendo caso, o número do processo administrativo de que se originar o crédito.
+> > Parágrafo único. A certidão conterá, além dos requisitos deste artigo, a indicação do livro e da folha da inscrição.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Dívida Ativa Tributária (arts. 201 a 204 do CTN)]] — art. 202 na linha 1964 (incisos I e II grifados agora); o mesmo artigo reaparece em [[P2 - Direito Tributário#1.2.2. Requisitos do Termo de Inscrição da Dívida Ativa]] (linha 4770), sem grifo.
+> > **Fonte:** cofre `MATERIAS/P2 - Direito Tributário.md:1964` · comentário do TEC, com CTN art. 202 · TEC #3178298
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Direito Tributário · VUNESP (Agente Fiscal, Pref. Piracicaba, 2024) — Sonegação: exige dolo, avaliado pela autoridade fiscal
+> No que se refere à sonegação de tributos, a lei brasileira
+>
+> (A) admite a responsabilização do contribuinte independentemente de apuração de culpa ou dolo, prescindindo de instauração de processo administrativo para exercício da ampla defesa.
+> (B) equipara sonegação, fraude, conluio e erro material, estabelecendo a incidência de multa moratória e qualificada, independentemente de dolo ou culpa do contribuinte.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) adota critérios puramente objetivos para aferir a prática de sonegação, fraude ou conluio pelo contribuinte.</mark>
+> (D) estabelece que a omissão de receitas comprova a ocorrência de dolo do contribuinte, caracterizando hipótese de sonegação tributária, sujeita a sanção de multa cominatória.
+> <mark style="background:#affad1">(E) considera, para sua caracterização, a interpretação da autoridade fiscal para aferir a intenção do contribuinte de não cumprir a respectiva obrigação tributária.</mark>
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — E: a caracterização depende da aferição da intenção pela autoridade fiscal
+> > Sonegação, fraude e conluio exigem <span class="g-cond">dolo</span>: além do não pagamento (critério objetivo), há a <mark style="background:#fff88f">intenção de ludibriar o Fisco</mark> (critério subjetivo), que a autoridade fiscal avalia.
+> >
+> > **(C)** erra: "puramente objetivos" ignora o dolo. **(A)** dispensa a culpa/dolo e a ampla defesa (CF, art. 5º, LV). **(B)** equipara sonegação, fraude e conluio ao **erro material**, que não exige dolo. **(D)** faz da omissão de receitas prova automática de dolo, mas ela é só indício (pode ser erro, sem dolo).
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca testa "objetivo × subjetivo": o não pagamento é o resultado objetivo, mas a **sonegação** se define pelo dolo.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Direito Tributário#Planejamento Tributário: Elisão, Evasão e Elusão Fiscal]] — o heading traz o art. 116, parágrafo único (desconsideração de negócio dissimulado), mas não a noção de sonegação, fraude e conluio nem o dolo; **não está no cofre**. A multa qualificada por sonegação aparece na linha 508 (100%, até 150% na reincidência).
+> > **Fonte:** comentário do TEC, com CF art. 5º, LV · (sem fonte no cofre) · TEC #3054076

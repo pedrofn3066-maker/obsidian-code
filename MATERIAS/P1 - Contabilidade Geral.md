@@ -200,7 +200,7 @@ O CPC 25, as reservas, DVA, DMPL e agora a DFC foram preenchidos em 2026-09-10. 
 
 
 ## Análise das demonstrações
-- [ ] status [dom:: 0] [peso:: 2]
+- [x] status [dom:: 1] [peso:: 2] ✅ 2026-09-26
 
 Nível P1: índices de liquidez, endividamento, rentabilidade e atividade; análise vertical e horizontal.
 

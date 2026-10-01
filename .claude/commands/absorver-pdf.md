@@ -1,5 +1,5 @@
 ---
-description: Extrai um PDF pra Markdown de trabalho, lê por blocos e propõe (sem escrever) a distribuição nas notas de MATERIAS, com pontes pro resto do cofre, texto literal onde a banca cobra literalidade e lupa didática nos tópicos difíceis
+description: Extrai um PDF pra Markdown de trabalho, lê por blocos e propõe (sem escrever) a distribuição nas notas de MATERIAS, com pontes pro resto do cofre, texto literal recolhido sempre que houver dispositivo por trás do resumo (não só quando a banca já cobrou por literalidade) e lupa didática nos tópicos difíceis
 argument-hint: <caminho do PDF> [matéria de destino]
 ---
 
@@ -10,6 +10,8 @@ Tudo o que entra na nota é de um de três tipos. Cada um tem sua regra de orige
 - **Lastro** — o que o PDF diz. Só fato, número, artigo ou exemplo que está no PDF, citado pela página. Intocável.
 - **Ponte** — ligação com o que o cofre já sabe: outro heading (`[[Nota#Heading]]`), jurisprudência já registrada na nota, erro de caderno do tópico. Só liga o que existe; a ponte nunca traz fato novo.
 - **Lupa** — explicação didática de um tópico difícil, escrita por você, em callout recolhido. Explica o lastro; não acrescenta regra. Todo número ou exemplo que não vier do PDF é rotulado `exemplo ilustrativo (sem lastro)`.
+
+Todo lastro que vier de um dispositivo identificável (artigo, inciso, parágrafo, súmula, percentual normativo) leva também o **texto literal** dele, em callout recolhido (`> [!quote]- Texto literal: ...`). Isso não é um recurso à parte que se escolhe caso a caso: é o que mantém o resumo auditável depois que você já reduziu a linguagem — o Pedro precisa conseguir abrir o callout e ver a redação exata sem procurar o PDF de novo, mesmo num dispositivo que nenhuma prova testou ainda por literalidade. Só fica de fora quando não há, de fato, texto literal por trás (doutrina parafraseada pelo cursinho, quadro sintetizado de um esquema/imagem) — nesses casos não force uma citação que não existe.
 
 ## Passo 1 — extrair
 
@@ -47,8 +49,8 @@ Em cada bloco, antes de propor, confira o que a nota de destino **já tem** naqu
 Depois, para cada linha que vai à tabela, decida três coisas:
 
 1. **Ponte.** Procure o que o cofre tem em volta: `python3 PY/diretorio-materias.py` e `grep` por dispositivo, termo ou súmula nas notas vizinhas. Registre só ligações que você achou (heading real, com linha), do tipo: mesmo instituto em outra matéria (ex.: norma pública × CPC privado), jurisprudência já na nota que testa a regra, tópico irmão com a regra oposta, erro de caderno do `--diag`.
-2. **Texto literal.** Entra o dispositivo em bloco `>` quando a banca cobra a literalidade: prazo, rol taxativo, condição, percentual, quórum, competência. Copie do PDF sem alterar e cite a página. Trecho cortado → `> [!warning]-`.
-3. **Lupa.** Um tópico é **difícil** se bater em pelo menos um: (a) `ERRO` recente no `--diag`; (b) peso VINTEUM ≥ 5% com `dom` ≤ 1; (c) quadro em que a banca troca termos entre categorias; (d) mecânica com passos (cálculo, lançamento, contagem de prazo, ordem de preferência). Fora desses critérios, não escreva lupa: uma nota carregada de callouts perde o núcleo.
+2. **Texto literal.** Padrão, não excepção: sempre que o insight tiver um dispositivo por trás (artigo, inciso, parágrafo, súmula, percentual, prazo, rol, quórum, competência — qualquer um), reserve o texto literal dele. Não espere um critério de "a banca costuma cobrar isso" para incluir; a banca pode passar a cobrar no dia da prova, e sem o texto literal guardado o resumo fica sem lastro auditável. Copie do PDF sem alterar e cite a página. Trecho cortado ou fórmula incompleta → `> [!warning]-`, nunca complete por fora do PDF. Só marque "—" (sem texto literal) quando o insight genuinamente não vier de um dispositivo — é doutrina parafraseada pelo cursinho, ou um quadro que você está sintetizando de um esquema/imagem.
+3. **Lupa.** Um tópico é **difícil** se bater em pelo menos um: (a) `ERRO` recente no `--diag`; (b) peso VINTEUM ≥ 5% com `dom` ≤ 1; (c) quadro em que a banca troca termos entre categorias; (d) mecânica com passos (cálculo, lançamento, contagem de prazo, ordem de preferência). Fora desses critérios, não escreva lupa: uma nota carregada de callouts perde o núcleo. (A lupa continua seletiva — só o texto literal virou padrão.)
 
 ## Passo 4 — o plano (o que o Pedro vê e aprova)
 
@@ -70,7 +72,7 @@ Pare aqui e peça aprovação. Só siga se o Pedro aprovar (total ou parcial). E
 Cada linha aprovada entra na nota nesta ordem, e só com os recursos que a tabela marcou:
 
 1. **Lastro:** registro denso e direto, `<mark>` no núcleo da regra, ⚠️ na pegadinha de banca, origem pela página `(Resumo EC 132, p. 12)`. Quadro do PDF vira tabela markdown.
-2. **Texto literal:** bloco `>` com o dispositivo, na página citada.
+2. **Texto literal:** logo depois do lastro (ou do quadro), bloco `> [!quote]- Texto literal: <dispositivo> (<fonte>, p. N)`, recolhido, com a redação do PDF sem alterar. Entra sempre que a linha tiver um dispositivo por trás — é a norma agora, não um extra condicionado à pegadinha de banca.
 3. **Lupa:** callout recolhido `> [!tip]- Lupa: <tema>` com três partes, nesta ordem: **a ideia em uma frase** (o que a regra protege ou resolve) → **o passo a passo** com um exemplo (do PDF; se for seu, `exemplo ilustrativo (sem lastro)`) → **o erro clássico** (como a banca troca o termo ou inverte a regra). Linguagem de quem explica a um colega: direta, sem "Galera, atenção...".
 4. **Ponte:** uma linha `> [!info]- Ponte` com os `[[links]]` e o que cada um acrescenta ("mesma regra no CPC 27 privado", "a Súm. X da nota testa isto", "errou em 17/09"). Confira cada link com `achar-heading.py` antes de gravar.
 
@@ -94,7 +96,7 @@ Está concluído quando cada linha da tabela aprovada tem o que marcou (lastro, 
    ```
    Só linha vazia ou o que você removeu de propósito. Qualquer outra coisa é conteúdo perdido: pare e investigue.
 2. **Renderização:** `python3 PY/checar-markdown.py "<nota>"` (só as linhas alteradas). Tabela recuada, sem linha em branco antes ou com nº de colunas errado → corrija antes de reportar. Deve terminar em `OK`.
-3. **Auditoria de lastro:** releia o que você escreveu e confira que todo fato fora de lupa e ponte está no PDF, na página citada. O que falhar sai ou vira `> [!warning]-`.
+3. **Auditoria de lastro:** releia o que você escreveu e confira que todo fato fora de lupa e ponte está no PDF, na página citada. O que falhar sai ou vira `> [!warning]-`. Confira também que toda linha com dispositivo (a tabela do Passo 4 não marcou "—" em Recurso) tem o `[!quote]-` de texto literal — se faltar, é o resumo que sai incompleto, não a citação.
 4. Relate em tabela o que entrou e onde, com as colunas Recurso e Ponte, e qual tópico merece o próximo bloco de estudo.
 5. `python3 PY/plano-dia.py --diag "<matéria>"` e diga em que seção os tópicos tocados caíram, cruzando com os erros de caderno que motivaram cada lupa.
 

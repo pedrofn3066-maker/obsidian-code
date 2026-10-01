@@ -10,7 +10,7 @@ assuntos:
   - Dos Bens e Serviços de Uso ou Consumo Pessoal (art. 57 da LC nº 214/2025)
   - Da Estrutura Organizacional do CGIBS (arts. 7º a 39 da LC nº 227/2026)
   - Do Controle Externo do CGIBS (art. 40 da LC nº 227/2026)
-slot:
+slot: S3
 total: 27
 acertos: 18
 tempo_min:

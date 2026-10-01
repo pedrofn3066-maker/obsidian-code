@@ -7,7 +7,7 @@ assuntos:
   - Princípios Orçamentários
   - PPA - Plano Plurianual (CF/1988 e Lei nº 4.320/1964)
   - Tópicos Mesclados de PPA, LDO e LOA
-slot:
+slot: S3
 total: 5
 acertos: 4
 tempo_min:

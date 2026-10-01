@@ -15,7 +15,7 @@ assuntos:
   - Alavancagem Operacional
   - EBIT (LAJIR) e EBITDA (LAJIDA)
   - Outros Índices (Análise das Demonstrações Contábeis)
-slot:
+slot: S2
 total: 23
 acertos: 8
 tempo_min:
@@ -23,7 +23,7 @@ erro_tipo:
 banca:
 origem: TEC (importado)
 tec:
-obs: "Caderno TEC 'C04. CTBG (Ninja) - ISS/Santos - Guruja' (35%, 8/23) — o mesmo bloco que motivou a escrita de hoje em P1 - Contabilidade Geral (AV/AH, liquidez, rentabilidade, atividade, alavancagem, EBITDA). Matéria inteiramente nova pro Pedro antes de hoje; nenhum desses buckets aparecia no VINTEUM, então dom ainda não está calibrado no edital. Erros concentrados na família de Análise das Demonstrações Contábeis (AV/AH 0/3, liquidez 0/2, rentabilidade 0/3, quocientes mesclados 0/2) — zerou quase todo o bloco de índices, não é erro pontual. Erradas/ERRO CONTABILIDADE GERAL.md já tem as 14 questões detalhadas dessa mesma sessão com ponto cego mapeado (troca AH x AV, fórmulas quase certas, base errada em cálculos de rentabilidade) — cruzar lá antes de reestudar."
+obs: Caderno TEC 'C04. CTBG (Ninja) - ISS/Santos - Guruja' (35%, 8/23) — o mesmo bloco que motivou a escrita de hoje em P1 - Contabilidade Geral (AV/AH, liquidez, rentabilidade, atividade, alavancagem, EBITDA). Matéria inteiramente nova pro Pedro antes de hoje; nenhum desses buckets aparecia no VINTEUM, então dom ainda não está calibrado no edital. Erros concentrados na família de Análise das Demonstrações Contábeis (AV/AH 0/3, liquidez 0/2, rentabilidade 0/3, quocientes mesclados 0/2) — zerou quase todo o bloco de índices, não é erro pontual. Erradas/ERRO CONTABILIDADE GERAL.md já tem as 14 questões detalhadas dessa mesma sessão com ponto cego mapeado (troca AH x AV, fórmulas quase certas, base errada em cálculos de rentabilidade) — cruzar lá antes de reestudar.
 ---
 
 ## Erros a revisar

@@ -67,7 +67,7 @@ Trinta pontos que a maioria trata como periférico — valia o mesmo que Matemá
 - [ ] status [dom:: 0] [peso:: 3]
 
 ### Segurança da informação; malwares; backup
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-18
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-18
 
 #### 1. Resumo Teórico 
 - [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-18
@@ -84,26 +84,36 @@ A Segurança da Informação (SI) é um conjunto de práticas, políticas, proce
 - Impacto: O prejuízo ou consequência resultante da materialização de um risco.
 
 ##### Princípios Básicos (Pilares da Segurança da Informação)
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-18
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-18
 
 Os pilares fundamentais da Segurança da Informação são frequentemente lembrados pelo mnemônico CID (ou CIDA, incluindo Autenticidade):
 
-- **Confidencialidade:** Garante que a informação seja acessível somente por pessoas, entidades ou processos autorizados. É a proteção contra o acesso não autorizado. Pense em "segredo".
+- **Confidencialidade:** Garante que a informação seja <mark class="prova" style="background:rgba(0,170,170,0.28)">acessível somente por pessoas, entidades ou processos autorizados</mark>. É a proteção contra o acesso não autorizado. Pense em "segredo".
     - _Exemplo:_ Criptografar um e-mail para que apenas o destinatário possa lê-lo.
 - **Integridade:** Garante a exatidão, completeza e a não modificação não autorizada da informação e dos métodos de processamento. A informação deve ser mantida em seu estado original e confiável. Pense em "originalidade" ou "exatidão".
     - _Exemplo:_ Usar uma função hash para verificar se um arquivo foi alterado durante o download.
-- **Disponibilidade:** Garante que os usuários autorizados tenham acesso à informação e aos ativos associados sempre que necessário. A informação deve estar acessível quando solicitada. Pense em "acesso garantido".
+- **Disponibilidade:** Garante que os <mark class="prova" style="background:rgba(0,170,170,0.28)">usuários autorizados tenham acesso à informação e aos ativos associados sempre que necessário</mark>. A informação deve estar acessível quando solicitada. Pense em "acesso garantido".
     - _Exemplo:_ Ter servidores redundantes para que um sistema continue funcionando mesmo se um servidor falhar.
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q26 (gab. B · preliminar)
+> **Trecho usado:** "acessível somente por pessoas, entidades ou processos autorizados … usuários autorizados tenham acesso à informação e aos ativos associados sempre que necessário"
+> **Como cobrou:** troca de termo — sequência de quatro itens V/F (gab. B: V, V, F, F). O item 1 (V) é a confidencialidade: "restringir o acesso à informação às pessoas devidamente autorizadas a conhecê-la". O item 3 (F) põe na integridade a definição da disponibilidade: "A integridade tem por objetivo garantir que a informação esteja disponível aos usuários no exato momento em que for requisitada". O item 2 (rastreabilidade) cai em Outros Atributos Essenciais; o item 4 (controle de acesso × criptografia) a nota não trata.
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q26]]
+
 ##### Outros Atributos Essenciais
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-18
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-18
 
 - Autenticidade: Garante que a identidade de um usuário, processo, sistema ou informação seja aquela que se alega ser. É a prova da origem ou da identidade.
     - _Exemplo:_ Um login e senha para acessar um sistema.
 - Não Repúdio (Irretratabilidade): Garante que uma entidade não possa negar a autoria de uma ação ou transação que realizou. Oferece prova da origem e da entrega.
     - _Exemplo:_ Uma assinatura digital em um contrato eletrônico impede que o signatário negue ter assinado.
 - Conformidade (Legalidade): Garante que as ações e os controles de segurança estejam de acordo com as leis, regulamentos, normas e obrigações contratuais.
-- Responsabilização (Accountability): Garante que as ações de uma entidade possam ser rastreadas unicamente até essa entidade. Permite auditoria e identificação de responsáveis.
+- Responsabilização (Accountability): <mark class="prova" style="background:rgba(0,170,170,0.28)">Garante que as ações de uma entidade possam ser rastreadas unicamente até essa entidade. Permite auditoria e identificação de responsáveis.</mark>
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q26 (gab. B · preliminar)
+> **Trecho usado:** "Responsabilização (Accountability): Garante que as ações de uma entidade possam ser rastreadas unicamente até essa entidade. Permite auditoria e identificação de responsáveis."
+> **Como cobrou:** troca de termo — o item 2 (V) chama de rastreabilidade o que a nota chama de Responsabilização: "A rastreabilidade permite reconstituir a sequência de eventos e identificar os responsáveis pelas ações realizadas sobre a informação". Gab. B: V, V, F, F. A nota traz o nome Responsabilização, mas não o termo "rastreabilidade".
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q26]]
 
 #### 2. Principais Temas Cobrados em Concursos
 - [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-18
@@ -163,6 +173,49 @@ Algumas questões tentam confundir com termos que parecem relacionados, mas não
 - Ameaça: é um <font color="#e36c09">evento</font> ou <font color="#e36c09">ação</font> que pode causar danos, explorando uma vulnerabilidade.
 - Risco: é a <font color="#0070c0">probabilidade</font> de uma ameaça se concretizar e causas danos.
 
+##### Controles de Segurança: Físicos × Lógicos
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-27
+
+| Tipo | Exemplos |
+| --- | --- |
+| **Físicos** | Portas, trancas, paredes, vigilantes, alarmes, catracas, cercas etc. |
+| **Lógicos** | Senhas, autenticação, antivírus, firewall, criptografia, biometria, IDS/IPS etc. |
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q31 (gab. B · preliminar) e IBAM 2025 · Mauá · Q17 (gab. C · preliminar)
+> **Trecho usado:** "Lógicos | Senhas, autenticação, antivírus, firewall, criptografia, biometria, IDS/IPS etc."
+> **Q31 (Guarulhos, 2026) — como cobrou:** conceito — questão de asserção com PORQUE; a II diz que "O firewall atua no controle do tráfego de rede, filtrando os pacotes de dados conforme regras de segurança previamente definidas" (V) e não justifica a I, sobre criptografia simétrica. Gab. B. A nota só lista o firewall entre os controles lógicos; a função de filtrar tráfego por regras não está nela.
+> **Q17 (Mauá, 2025) — como cobrou:** conceito — seis itens V/F (gab. C: V, V, V, F, V, V). Dois se ligam ao que a nota tem: "Firewalls atuam no controle do tráfego de dados entre redes…" (V) e "A simples instalação de um antivírus atualizado elimina a necessidade de outras medidas de segurança" (F). Vírus com arquivo hospedeiro, malware como categoria e phishing como engenharia social não têm regra na nota.
+> **Lastro:** Q31: PDF p. 12 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q31]] · Q17: PDF p. 3 · [[IBAM 2025 - Mauá - AFTM#Q17]]
+
+⚠️ **Atenção!** A classificação depende do **recurso protegido** e da **forma de uso** — não é uma etiqueta fixa por tecnologia. Biometria para entrar numa sala atua como controle **físico**; a mesma biometria para acessar um sistema atua como controle **lógico**.
+
+*(Guruja, aba Bizu — Segurança da Informação)*
+
+##### Autenticação: os 3 Fatores e MFA
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-27
+
+| Fator | Exemplos |
+| --- | --- |
+| **O que você sabe** | Senha, PIN, perguntas de segurança, código. |
+| **O que você tem** | Token, smartcard, celular, certificado, aplicativo autenticador. |
+| **O que você é** | Biometria: digital, face, íris, voz etc. |
+
+Boas práticas de senha: comprimento e complexidade, <mark class="prova" style="background:rgba(0,170,170,0.28)">não reutilizar, evitar dados pessoais, usar gerenciador de senhas e MFA</mark>. **TOTP** é baseado em **tempo**; **HOTP**, em **contador**.
+
+> [!example]- Prova anterior: IBAM 2026 · Bragança Paulista · Q17 (gab. C · oficial)
+> **Trecho usado:** "não reutilizar, evitar dados pessoais, usar gerenciador de senhas e MFA"
+> **Como cobrou:** conceito — sequência de nove itens V/F (gab. C: V, V, F, V, F, V, V, V, F). Dois cobrem o que a nota tem: "A utilização de senhas distintas para diferentes serviços reduz o impacto caso uma delas venha a ser comprometida" (V) e "O uso de autenticação em dois fatores pode acrescentar uma camada de proteção… além da senha" (V). Extensão .pdf, nuvem, phishing e sessão em computador compartilhado não estão na nota.
+> **Lastro:** Caderno tipo 3, p. 9 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q17]]
+
+**Autenticação forte (MFA):** usa **dois ou mais fatores distintos** — não basta somar credenciais do mesmo fator.
+
+> [!example]- 🧩 Pegadinha clássica de prova
+> SENHA + PIN = **mesmo fator** ❌ (os dois são "o que você sabe")
+> SENHA + TOKEN = **fatores distintos** ✅
+> CARTÃO + BIOMETRIA = **fatores distintos** ✅
+
+*(Guruja, aba Bizu — Segurança da Informação)*
+
 
 #### 4. Estratégias de Resolução de Questões
 - [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-18
@@ -215,7 +268,75 @@ Fazer _backups_ regularmente também é essencial para proteger os seus dados po
 
 
 ### Certificação digital e assinatura eletrônica
-- [ ] status [dom:: 1] [peso:: 3]
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-27
+
+**Criptografia Simétrica, Assimétrica e Híbrida**
+
+| Tipo | Características |
+| --- | --- |
+| **Simétrica** | Mesma chave para cifrar/decifrar; rápida; problema de distribuição da chave. Exemplos: DES, 3DES, AES, IDEA, RC4 e Blowfish. |
+| **Assimétrica** | Par chave pública + privada; facilita troca segura e assinatura. Exemplos: RSA, DSA, ECDSA e ElGamal. |
+| **Híbrida** | Assimétrica protege a troca da chave de sessão; simétrica protege os dados (é o modelo usado na prática — TLS/HTTPS, por exemplo). |
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q31 (gab. B · preliminar)
+> **Trecho usado:** "Simétrica | Mesma chave para cifrar/decifrar; rápida; problema de distribuição da chave"
+> **Como cobrou:** conceito — questão de asserção com PORQUE. A I diz que "A criptografia simétrica utiliza uma única chave secreta, compartilhada entre as partes, para cifrar e decifrar as mensagens trocadas" (V); a II, sobre o firewall (V), não a justifica. Gab. B: "As asserções I e II são verdadeiras, mas a II não é uma justificativa correta da I." A nota cobre só o lado da I; a função do firewall não está aqui.
+> **Lastro:** PDF p. 12 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q31]]
+
+> [!info] Princípio de Kerckhoff
+> A segurança deve depender do **sigilo da chave**, não do segredo do algoritmo — o algoritmo pode (e deve) ser público e auditável.
+
+**Funções Hash**
+
+Hash transforma entrada de tamanho variável em resumo de tamanho fixo; deve ser **unidirecional** e **resistente a colisões**.
+
+| Algoritmo | Característica |
+| --- | --- |
+| **MD5** | 128 bits; inseguro para aplicações que exigem segurança. |
+| **SHA-1** | 160 bits; obsoleto/inseguro devido a colisões. |
+| **SHA-256** | (família SHA-2) 256 bits; seguro no contexto atual. |
+
+⚠️ **Hash não criptografa.** Produz um resumo; não se "descriptografa" o hash para recuperar a entrada original.
+
+**Assinatura Digital**
+
+Garante **integridade**, **autenticidade** e **irretratabilidade/não repúdio** — <mark style="background:#fff88f">nunca confidencialidade</mark> (isso é papel da criptografia, não da assinatura). Utiliza função hash + criptografia assimétrica: o emissor assina com sua **chave privada**; a verificação usa sua **chave pública**.
+
+**Certificado Digital e ICP-Brasil**
+
+Documento eletrônico que associa uma **identidade a uma chave pública**, emitido por uma Autoridade Certificadora (AC).
+
+⚠️ A **chave privada não fica dentro do certificado** — permanece protegida com o titular; o certificado contém apenas a **chave pública**.
+
+Hierarquia da ICP-Brasil: <mark class="prova" style="background:rgba(0,170,170,0.28)">**AC-Raiz** (topo da cadeia; define políticas, audita/fiscaliza as subordinadas) → **AC** (emite, distribui, renova, revoga e gerencia certificados) → **AR** (identifica o solicitante, registra e encaminha o pedido à AC)</mark> → **Titular**.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q38 (gab. D · preliminar)
+> **Trecho usado:** "AC-Raiz (topo da cadeia; define políticas, audita/fiscaliza as subordinadas) → AC (emite … certificados) → AR (identifica o solicitante, registra e encaminha o pedido à AC)"
+> **Como cobrou:** troca de termo — o item II diz que "a autoridade de registro ocupa o topo da hierarquia e responde pelo credenciamento das demais autoridades certificadoras do país" (F); na nota o topo é a AC-Raiz e a AR só identifica, registra e encaminha o pedido à AC. Gab. D: I e III verdadeiras (certificado liga a chave pública à identidade do titular; assinatura assimétrica dá autoria e integridade).
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q38]]
+
+> [!tip]- Lupa de prova: AC-Raiz × AR na ICP-Brasil
+> **O padrão:** a afirmativa troca o papel de dois elos da cadeia, dando à AR o topo da hierarquia. Padrão de 1 prova, não confirmado (só a Guarulhos Manhã cobrou este heading).
+> **A armadilha:** o item II — "a autoridade de registro ocupa o topo da hierarquia e responde pelo credenciamento das demais autoridades certificadoras do país" — vem entre dois itens verdadeiros (I e III); quem não confere a hierarquia cai em "(B) I, II e III." ou em "(E) I e II, apenas."
+> **Como resolver:** pela nota, o topo é a AC-Raiz; a AC emite e gerencia certificados; a AR só identifica o solicitante, registra e encaminha o pedido à AC. Item que põe a AR no topo é falso (Mapa de Fixação: AC → emite | AR → identifica e encaminha).
+
+Certificados seguem o padrão **X.509** (versão, número de série, algoritmo, emissor, validade, titular, chave pública, assinatura da AC), validados por uma **cadeia de certificação** até uma raiz confiável (existe também o **Web of Trust**, modelo alternativo descentralizado, sem AC central).
+
+**Tipos de certificado:** **A** (Assinatura digital — autenticidade/integridade de documentos) × **S** (Sigilo — criptografia de documentos/dados). Cada tipo tem categorias A1/S1 a A4/S4, conforme geração das chaves, armazenamento e validade.
+
+> [!warning] ⚠️ Pegadinha clássica de prova (IBAM, Pref. Santos 2020)
+> **Assinatura eletrônica** é a expressão mais ampla — inclui clique, assinatura manuscrita em tela, geolocalização, biometria etc. **Nem toda assinatura eletrônica é uma assinatura digital**: a assinatura digital é a modalidade específica baseada em criptografia assimétrica **e certificado digital**.
+
+> [!example]- 🧩 Mapa de Fixação (Super Bizu Final da Guruja)
+> CID → Confidencialidade + Integridade + Disponibilidade
+> Simétrica → mesma chave | Assimétrica → par de chaves
+> Hash → resumo, não criptografia
+> Assinatura → Integridade + Autenticidade + Não Repúdio
+> MFA → fatores distintos
+> Certificado → identidade + chave pública
+> AC → emite | AR → identifica e encaminha
+
+*(Guruja, aba Bizu — Segurança da Informação, bloco C)*
 
 ### Banco de dados e noções de SQL
 - [ ] status [dom:: 2.5] [peso:: 3]

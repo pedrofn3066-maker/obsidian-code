@@ -152,7 +152,12 @@ A avocação é o ato discricionário mediante o qual **o superior hierárquico
 
 ### Agências reguladoras e agências executivas
 
-**Agência reguladora**: natureza jurídica de **autarquia de regime especial** (não é uma quinta espécie de entidade — é autarquia com atributos reforçados de autonomia), criada para regular e fiscalizar um setor específico (ANEEL, ANATEL, ANP, ANS, ANVISA etc.). O "regime especial" se traduz em: **mandato fixo** dos dirigentes (só perdem o cargo por renúncia, condenação judicial transitada em julgado ou PAD), **quarentena** após o fim do mandato (impedimento temporário de atuar no setor regulado ou para empresas reguladas), maior autonomia financeira e decisória (poder normativo técnico).
+**Agência reguladora**: <mark class="prova" style="background:rgba(0,170,170,0.28)">natureza jurídica de **autarquia de regime especial**</mark> (não é uma quinta espécie de entidade — é autarquia com atributos reforçados de autonomia), criada para regular e fiscalizar um setor específico (ANEEL, ANATEL, ANP, ANS, ANVISA etc.). O "regime especial" se traduz em: **mandato fixo** dos dirigentes (só perdem o cargo por renúncia, condenação judicial transitada em julgado ou PAD), **quarentena** após o fim do mandato (impedimento temporário de atuar no setor regulado ou para empresas reguladas), maior autonomia financeira e decisória (poder normativo técnico).
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q42 (gab. B · preliminar)
+> **Trecho usado:** "natureza jurídica de autarquia de regime especial (não é uma quinta espécie de entidade — é autarquia com atributos reforçados de autonomia)"
+> **Como cobrou:** troca de termo — a certa é "(B) decorrem da ideia de Estado gerencial, são parte da administração pública indireta e são categorizadas como autarquias." As erradas trocam a categoria por "fundações públicas" (A) e "empresas públicas" (C), ou a administração indireta por "administração pública direta" (D e E).
+> **Lastro:** PDF p. 15 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q42]]
 
 **Agência executiva**: é uma **qualificação** (não uma nova entidade) que autarquias ou fundações públicas **já existentes** podem receber, mediante **contrato de gestão** com o ministério supervisor e um plano de reestruturação, em troca de mais autonomia gerencial, orçamentária e financeira (Lei nº 9.649/1998, arts. 51 e 52; Decreto nº 2.487/1998).
 
@@ -208,7 +213,7 @@ Entretanto, o STF não seguiu essa linha de raciocínio. <mark style="backgroun
 ![[Pasted image 20260823125124.png]]
 
 ## - Controle da administração pública no direito brasileiro.
-- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 2]
 
 **Conceito**: conjunto de mecanismos jurídicos e administrativos de fiscalização e correção da atuação estatal, para assegurar que a Administração observe a **legalidade** (e a juridicidade, em sentido amplo — princípios) e persiga o **interesse público** (mérito).
 
@@ -220,7 +225,7 @@ Entretanto, o STF não seguiu essa linha de raciocínio. <mark style="backgroun
 - **Quanto ao momento**: **prévio/preventivo** (antes da prática do ato — ex.: autorização legislativa prévia para operações de crédito), **concomitante** (durante a execução — acompanhamento de obra), **posterior/corretivo** (depois de praticado o ato — julgamento de contas, anulação).
 - **Quanto ao aspecto controlado**: **de legalidade/legitimidade** (confronto do ato com a lei e os princípios — pode ser exercido por qualquer dos três Poderes) x **de mérito** (conveniência e oportunidade — em regra, **só a própria Administração** pode rever o mérito de seus atos discricionários; o Judiciário não substitui o mérito, sob pena de violar a separação de poderes, salvo controle de proporcionalidade/razoabilidade como filtro de legalidade).
 
-**Autotutela (controle interno por excelência)**: a Administração pode **rever seus próprios atos**, anulando os ilegais e revogando os inconvenientes/inoportunos, independentemente de provocação do Judiciário.
+**Autotutela (controle interno por excelência)**: <mark class="prova" style="background:rgba(0,170,170,0.28)">a Administração pode **rever seus próprios atos**, anulando os ilegais e revogando os inconvenientes/inoportunos, independentemente de provocação do Judiciário</mark>.
 
 > **Súmula 346, STF** — A Administração Pública pode declarar a nulidade dos seus próprios atos.
 > **Súmula 473, STF** — A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.
@@ -229,6 +234,16 @@ Entretanto, o STF não seguiu essa linha de raciocínio. <mark style="backgroun
 > **Trecho usado:** "Súmula 473, STF — A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos"
 > **Como cobrou:** jurisprudência — a certa é "(B) A presunção de legitimidade dos atos administrativos, como o auto de infração tributário, não impede o controle judicial de sua legalidade e moralidade, sendo que a autotutela administrativa permite à própria Administração anular atos ilegais, independentemente de provocação do contribuinte, conforme entendimento sumulado do STF".
 > **Lastro:** Caderno tipo 3, p. 12 · [[IBAM 2026 - Bragança Paulista - AFTM Jr#Q24]]
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q156 (gab. C · preliminar)
+> **Trecho usado:** "a Administração pode rever seus próprios atos, anulando os ilegais e revogando os inconvenientes/inoportunos, independentemente de provocação do Judiciário"
+> **Como cobrou:** literalidade — a certa é "(C) a Administração deve observar a competência legal, a motivação do ato e o procedimento aplicável ao promover revisão ou correção de ato relacionado ao crédito tributário." A errada (B) troca a regra da nota por "a revisão de ofício somente poderá ocorrer mediante autorização judicial".
+> **Lastro:** PDF p. 21 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q156]]
+
+> [!tip]- Lupa de prova: autotutela: poder-dever com limites
+> **O padrão:** autotutela cobrada em duas provas do IBAM já absorvidas (Bragança Q24 e Guarulhos Q156); em Guarulhos as erradas tiram ou exageram o limite da revisão feita pela própria Administração. (padrão de 2 provas da mesma banca)
+> **A armadilha:** (B) "somente poderá ocorrer mediante autorização judicial"; (A) "independentemente de fundamento legal ou observância das garantias processuais do interessado"; (D) "após a decisão de primeira instância, nenhum ato administrativo poderá ser objeto de reexame pela própria Administração"; (E) "qualquer servidor público poderá alterar livremente decisão tributária definitiva".
+> **Como resolver:** a Administração revê os próprios atos sem provocação do Judiciário (Súmulas 346 e 473), o que elimina B e D; o poder tem limite na Lei 9.784/1999, art. 54 (decadência de 5 anos para atos favoráveis, salvo má-fé). Competência, motivação e procedimento, que sustentam a certa (C), não estão nesta nota.
 
 ⚠️ A Lei nº 9.784/1999, art. 54, limita esse poder: a Administração **decai** do direito de anular atos administrativos favoráveis a destinatários, de que não decorram efeitos patrimoniais contínuos, em **5 anos**, contados da prática, salvo comprovada **má-fé**.
 
@@ -394,13 +409,13 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
     
 ⚠️ _Os órgãos do Poder Judiciário e do Ministério Público informarão ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, respectivamente, as decisões que, em grau de recurso, negarem acesso a informações de interesse público._
 ## - Tratamento de dados pessoais pelo Poder Público: Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).
-- [x] status [dom:: 3] [peso:: 2] ✅ 2026-09-22
+- [x] status [dom:: 3] [peso:: 2] [prova:: 1] ✅ 2026-09-22
 
 **Alcance (art. 1º):** aplica-se ao tratamento de dados por pessoa natural ou jurídica, de direito público ou privado, inclusive nos meios digitais. Parágrafo único (EC 115/2022 + Lei nº 13.853): as normas gerais são de interesse nacional e devem ser observadas pela União, Estados, DF e Municípios.
 
 <mark style="background:#fff88f">Hipóteses de NÃO aplicação (art. 4º)</mark>:
 - pessoa natural, para fins exclusivamente particulares e não econômicos;
-- fins exclusivamente jornalísticos e artísticos, ou acadêmicos (aplicam-se, neste último caso, os arts. 7º e 11);
+- <mark style="background:#fff88f">fins exclusivamente jornalísticos e artísticos</mark>, ou acadêmicos (aplicam-se, neste último caso, os arts. 7º e 11);
 - fins exclusivos de segurança pública, defesa nacional, segurança do Estado, ou investigação e repressão de infrações penais — regidos por legislação específica (§1º); vedado o tratamento por pessoa de direito privado (§2º e §4º), salvo sob tutela de pessoa jurídica de direito público ou entidade com capital integralmente público;
 - dados provenientes de fora do território nacional, sem comunicação ou uso compartilhado com agentes de tratamento brasileiros, desde que o país de proveniência assegure grau de proteção adequado.
 
@@ -409,6 +424,16 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 **Aplicação extraterritorial (art. 3º)** — hipóteses alternativas (basta uma): a operação de tratamento ocorre no território nacional; ou a atividade tem por objetivo ofertar bens ou serviços a indivíduos no Brasil; ou os dados foram coletados no território nacional.
 
 **Glossário (art. 5º):** <mark style="background:rgba(240, 200, 0, 0.2)">dado pessoal</mark> — informação relacionada a pessoa natural identificada ou identificável; <mark style="background:rgba(240, 200, 0, 0.2)">dado pessoal sensível</mark> — origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico vinculado a pessoa natural; anonimização; <mark style="background:rgba(240, 200, 0, 0.2)">controlador</mark> (decide sobre o tratamento) × <mark style="background:rgba(240, 200, 0, 0.2)">operador</mark> (trata em nome do controlador) × <mark style="background:rgba(240, 200, 0, 0.2)">encarregado</mark> (canal de comunicação); consentimento deve ser livre, informado e inequívoco.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q30 (gab. D · preliminar)
+> **Trecho usado:** "controlador (decide sobre o tratamento) × operador (trata em nome do controlador) × encarregado (canal de comunicação)"
+> **Como cobrou:** conceito — lacunas: "Denomina-se ________ a pessoa natural a quem se referem os dados pessoais objeto de tratamento"; "O ________ é a pessoa, natural ou jurídica, a quem competem as decisões referentes ao tratamento desses dados"; "Já o ________ é aquele que realiza o tratamento de dados pessoais em nome de quem detém o poder de decisão". A certa é "(D) titular; controlador; operador." (o titular, art. 5º, V, está em "Art. 5º — definições que faltam").
+> **Lastro:** PDF p. 12 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q30]]
+
+> [!tip]- Lupa de prova: LGPD: titular, controlador e operador na ordem
+> **O padrão:** questão de lacunas que descreve três papéis do art. 5º e pede a ordem certa; as alternativas embaralham os mesmos termos. (padrão de 1 prova, não confirmado)
+> **A armadilha:** (A) "titular; encarregado; operador", (B) "controlador; titular; operador", (C) "operador; controlador; titular" e (E) "titular; operador; controlador" trocam de lugar os termos que a descrição define.
+> **Como resolver:** titular é a pessoa natural a quem se referem os dados; controlador decide sobre o tratamento; operador trata em nome do controlador; o encarregado é o canal de comunicação, e não é agente de tratamento.
 
 **Dez princípios (art. 6º), além da boa-fé:** finalidade, adequação, necessidade (limitação ao mínimo necessário), livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas (accountability). ⚠️ Os três últimos são os mais esquecidos.
 
@@ -421,9 +446,9 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 > **Art. 2º** A disciplina da proteção de dados pessoais tem como fundamentos:  
 > I - o respeito à privacidade;  
 > II - a autodeterminação informativa;  
-> III - a liberdade de expressão, de informação, de comunicação e de opinião;  
+> III - <mark style="background:#fff88f">a liberdade de expressão, de informação, de comunicação e de opinião</mark>;  <mark class="prova" style="background:rgba(0,170,170,0.28)"></mark>
 > IV - a inviolabilidade da intimidade, da honra e da imagem;  
-> V - o desenvolvimento econômico e tecnológico e a inovação;  
+> V - <mark style="background:#fff88f">o desenvolvimento econômico e tecnológico e a inovação</mark>;  
 > VI - a livre iniciativa, a livre concorrência e a defesa do consumidor; e  
 > VII - os direitos humanos, o livre desenvolvimento da personalidade, a dignidade e o exercício da cidadania pelas pessoas naturais. (LGPD, p. 4)
 
@@ -442,7 +467,7 @@ Comprovação fática de tais situações no bojo dos autos do processo de respo
 
 > **Art. 6º** As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:  
 > I - finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;  
-> II - adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento;  
+> II - adequação: <mark style="background:#fff88f">compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento</mark>;  
 > III - necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;  
 > IV - livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais;  
 > V - qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;  
@@ -473,7 +498,7 @@ O quadro da fonte traz o mnemônico <mark style="background:#fff88f">"FANTA e SP
 > - [[P1 - Direito Constitucional#-Habeas Data]]: o art. 5º, LXXIX, é do mesmo art. 5º da CF em que a nota de Constitucional trata o habeas data.
 
 ## LGPD — Requisitos do tratamento (arts. 7º a 16)
-- [x] status [dom:: 3] [peso:: 2] ✅ 2026-09-22
+- [x] status [dom:: 3] [peso:: 2] [prova:: 1] ✅ 2026-09-22
 
 **Hipóteses de tratamento (art. 7º)** — rol de **dez** hipóteses. (LGPD, p. 11)
 
@@ -482,12 +507,22 @@ O quadro da fonte traz o mnemônico <mark style="background:#fff88f">"FANTA e SP
 > II - para o cumprimento de obrigação legal ou regulatória pelo controlador;  
 > III - pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV desta Lei;  
 > IV - para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;  
-> V - quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular, a pedido do titular dos dados;  
+> V - <mark class="prova" style="background:rgba(0,170,170,0.28)">quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular</mark>, a pedido do titular dos dados;  
 > VI - para o exercício regular de direitos em processo judicial, administrativo ou arbitral, esse último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem);  
 > VII - para a proteção da vida ou da incolumidade física do titular ou de terceiro;  
 > VIII - para a tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária;  
 > IX - quando necessário para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais; ou  
 > X - para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q34 (gab. E · preliminar)
+> **Trecho usado:** "quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular"
+> **Como cobrou:** troca de termo — a certa é "(E) O consentimento do titular é uma das bases legais que autorizam o tratamento de dados pessoais, ao lado de outras hipóteses, como a execução de contrato." A errada (D) troca por "o consentimento prévio do titular a sua base legal primeira, da qual derivam as demais hipóteses de tratamento".
+> **Lastro:** PDF p. 13 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q34]]
+
+> [!tip]- Lupa de prova: LGPD art. 7º: o consentimento é uma base entre as dez
+> **O padrão:** questão sobre as hipóteses do art. 7º e sobre o consentimento, com distratores que mudam o estatuto do consentimento. (padrão de 1 prova, não confirmado)
+> **A armadilha:** (D) "o consentimento prévio do titular a sua base legal primeira, da qual derivam as demais hipóteses"; (B) "o consentimento torna-se irrevogável e passa a autorizar o tratamento dos dados pessoais por prazo indeterminado"; (C) sensíveis "dispensam a observância de bases legais específicas".
+> **Como resolver:** o art. 7º lista dez hipóteses lado a lado (consentimento no inciso I, execução de contrato no V), sem apresentar uma como origem das outras; o consentimento pode ser revogado a qualquer momento (art. 8º, § 5º); os dados sensíveis têm as hipóteses próprias do art. 11.
 
 - **§ 3º:** o tratamento de dados pessoais de **acesso público** deve considerar a finalidade, a boa-fé e o interesse público que justificaram a disponibilização. **§ 4º:** é **dispensado o consentimento** para os dados **tornados manifestamente públicos pelo titular**, resguardados os direitos do titular e os princípios da Lei.
 - **§ 5º:** o controlador que obteve o consentimento e precisar **comunicar ou compartilhar** dados com outros controladores deve obter **consentimento específico** para esse fim, ressalvadas as dispensas. **§ 6º:** a dispensa do consentimento **não desobriga** as demais obrigações, em especial os princípios gerais e os direitos do titular. **§ 7º:** o tratamento posterior dos dados dos §§ 3º e 4º pode ter **novas finalidades**, desde que legítimos e específicos os propósitos e preservados os direitos do titular. Os §§ 1º e 2º estão revogados. (LGPD, p. 11-12)

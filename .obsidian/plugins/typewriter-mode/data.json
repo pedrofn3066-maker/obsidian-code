@@ -3,11 +3,9 @@
     "version": "1.5.0",
     "isAnnounceUpdatesEnabled": true,
     "isPluginActivated": true,
-    "isOnlyActivateAfterFirstInteractionEnabled": true,
+    "isOnlyActivateAfterFirstInteractionEnabled": false,
     "enabledPlatforms": "both",
-    "enabledFilePaths": [
-      "SEFAZ BA"
-    ],
+    "enabledFilePaths": [],
     "disabledFilePaths": []
   },
   "typewriter": {
@@ -36,7 +34,7 @@
     "isPauseDimUnfocusedWhileSelectingEnabled": true
   },
   "currentLine": {
-    "isHighlightCurrentLineEnabled": false,
+    "isHighlightCurrentLineEnabled": true,
     "isHighlightCurrentLineOnlyInWritingFocusModeEnabled": false,
     "isFadeLinesEnabled": false,
     "isFadeLinesOnlyInWritingFocusModeEnabled": false,
@@ -62,9 +60,9 @@
     "cursorPositions": {}
   },
   "hemingwayMode": {
-    "isHemingwayModeEnabled": true,
+    "isHemingwayModeEnabled": false,
     "isHemingwayModeOnlyInWritingFocusModeEnabled": false,
-    "isAllowBackspaceInHemingwayModeEnabled": true,
+    "isAllowBackspaceInHemingwayModeEnabled": false,
     "isShowHemingwayModeStatusBarEnabled": true,
     "hemingwayModeStatusBarText": "Hemingway"
   }

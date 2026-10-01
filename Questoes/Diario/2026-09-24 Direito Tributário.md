@@ -23,7 +23,7 @@ assuntos:
   - Das Disposições Preliminares (arts. 1º e 2º da LC nº 123/2006)
   - Da Definição de Microempresa e de Empresa de Pequeno Porte (arts. 3º a 3º-B da LC nº 123/2006)
   - Do Acesso aos Mercados (arts. 42 a 49-A da LC nº 123/2006)
-slot:
+slot: S2
 total: 26
 acertos: 26
 tempo_min:
@@ -31,5 +31,5 @@ erro_tipo:
 banca:
 origem: TEC (importado)
 tec:
-obs: "100% em 26 questões — inclui 5 questões do caderno TEC 'Legislação Tributária Federal' (LC nº 123/2006, Disposições Preliminares / Definição de ME-EPP / Acesso aos Mercados) que o TEC agrupou fora de Direito Tributário, mas cujos headings só existem em P2 - Direito Tributário.md. Amostra grande e sem erro — não indica lacuna, mas 'Disposições Preliminares' e 'Acesso aos Mercados' ainda estão como heading-container, sem dom próprio — vale criar tracker mesmo sem erro."
+obs: 100% em 26 questões — inclui 5 questões do caderno TEC 'Legislação Tributária Federal' (LC nº 123/2006, Disposições Preliminares / Definição de ME-EPP / Acesso aos Mercados) que o TEC agrupou fora de Direito Tributário, mas cujos headings só existem em P2 - Direito Tributário.md. Amostra grande e sem erro — não indica lacuna, mas 'Disposições Preliminares' e 'Acesso aos Mercados' ainda estão como heading-container, sem dom próprio — vale criar tracker mesmo sem erro.
 ---

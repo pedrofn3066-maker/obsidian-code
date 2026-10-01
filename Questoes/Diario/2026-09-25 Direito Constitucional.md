@@ -4,16 +4,16 @@ data: 2026-09-25
 materia: Direito Constitucional
 bloco: Const./Adm./Civil/Penal
 assuntos:
-  - "Competências para Fiscalização e Tribunal de Contas da União (arts. 70 a 73 da CF/1988)"
-  - "Sistema de Controle Interno (art. 74 da CF/1988)"
-  - "Tribunais de Contas Estaduais, Distrital e Municipais (art. 75 da CF/1988)"
-  - "Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)"
-  - "Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)"
-  - "Dos Impostos da União (arts. 153 e 154 da CF/1988)"
-  - "Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)"
-  - "Normas Gerais (Finanças Públicas, arts. 163 e 164-A da CF/1988)"
-  - "Dos Orçamentos (Finanças Públicas, arts. 165 a 169 da CF/1988)"
-slot:
+  - Competências para Fiscalização e Tribunal de Contas da União (arts. 70 a 73 da CF/1988)
+  - Sistema de Controle Interno (art. 74 da CF/1988)
+  - Tribunais de Contas Estaduais, Distrital e Municipais (art. 75 da CF/1988)
+  - Dos Princípios Gerais (Sistema Tributário Nacional, arts. 145 a 149-B da CF/1988)
+  - Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)
+  - Dos Impostos da União (arts. 153 e 154 da CF/1988)
+  - Da Repartição das Receitas Tributárias (arts. 157 a 162 da CF/1988)
+  - Normas Gerais (Finanças Públicas, arts. 163 e 164-A da CF/1988)
+  - Dos Orçamentos (Finanças Públicas, arts. 165 a 169 da CF/1988)
+slot: S5
 total: 22
 acertos: 16
 tempo_min:

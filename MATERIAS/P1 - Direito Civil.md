@@ -566,7 +566,7 @@ Os defeitos do negócio jurídico são **imperfeições oriundas da declaraçã
 
 
 ## - Prescrição e decadência;
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/6/assuntos/2059)
 
 | **TABELA DOS PRINCIPAIS PRAZOS PRESCRICIONAIS** |                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -576,6 +576,16 @@ Os defeitos do negócio jurídico são **imperfeições oriundas da declaraçã
 | **3**<br><br>**ANOS**                           | - pretensão relativa a aluguéis de prédios urbanos ou rústicos<br>- pretensão para receber prestações vencidas de rendas temporárias ou vitalícias<br>- pretensão de ressarcimento de enriquecimento sem causa<br>- pretensão de reparação civil<br>- pretensão para haver o pagamento de título de crédito<br>- pretensão do beneficiário contra o segurador, e a do terceiro prejudicado, no caso de seguro de responsabilidade civil obrigatório |
 | **4** <br><br>**ANOS**                          | - pretensão relativa à tutela (ÚNICA HIPÓTESE)                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **5**<br><br>**ANOS**                           | - pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular (se a dívida for verbal, o prazo é de 10 anos)<br>- pretensão dos profissionais liberais em geral, procuradores judiciais, curadores e professores<br>- pretensão do vencedor para haver do vencido o que despendeu em juízo                                                                                                                            |
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q76 (gab. A · preliminar)
+> **Trecho usado:** "pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular (se a dívida for verbal, o prazo é de 10 anos)"
+> **Como cobrou:** prazo/número — a certa diz que a dívida líquida em instrumento particular e os honorários profissionais prescrevem em cinco anos e os aluguéis em três: "(A) A pretensão relativa à dívida líquida constante de instrumento particular e a pretensão relativa aos honorários profissionais prescrevem em cinco anos, enquanto a pretensão relativa aos aluguéis prescreve em três anos." As erradas trocam os prazos (B: honorários em dois anos; C: dívida líquida em três; D: aluguéis em cinco; E: dez anos do art. 205 para as três).
+> **Lastro:** PDF p. 24 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q76]]
+
+> [!tip]- Lupa de prova: Prescrição: 3 anos (aluguéis) × 5 anos (dívida líquida e profissionais liberais)
+> **O padrão:** a questão descreve três pretensões concretas e pede o prazo de cada uma; a alternativa certa separa 5 anos (dívida líquida em instrumento e honorários) de 3 anos (aluguéis), e as erradas embaralham esses números. (padrão de 1 prova, não confirmado)
+> **A armadilha:** o enunciado fala em "honorários profissionais devidos a um advogado", palavras que a tabela não usa; o distrator B põe os honorários em "dois anos" e a D põe os aluguéis em "cinco anos", com dívida líquida e honorários em "três anos".
+> **Como resolver:** a tabela da nota resolve: dívida líquida em instrumento público ou particular e pretensão dos profissionais liberais (o advogado entra aqui) estão na linha dos 5 anos; aluguéis de prédios urbanos ou rústicos estão na linha dos 3 anos. Os 10 anos aparecem na nota só para a dívida verbal, o que afasta a E.
 - A decadência pode ser **legal** (quando o prazo estiver previsto na lei) ou **convencional** (quando sua previsão decorrer de cláusula pactuada pelas partes em um contrato). Entretanto, **a prescrição é sempre legal**, pois o prazo prescricional não pode ser pactuado pelas partes (art. 192 do CC).
 
 ![](https://cdn.tecconcursos.com.br/img/teoria/fique-ligado.png)

@@ -207,6 +207,8 @@ Um quinto processo, considerado remoto no ano anterior, foi condenado em última
 > > [!info] 🔗 Na matéria
 > > [[P2 - Contabilidade Avançada e de Custos#5. Resultado da Equivalência Patrimonial (REP)|Resultado da Equivalência Patrimonial (REP)]] — a nota já registra o "Resultado Negativo de Equivalência Patrimonial" (limite ao saldo do investimento em coligadas), mas não é texto literal de norma, então não grifei; o ponto específico testado aqui (que esse resultado transita pela DRE, não pela DMPL) não está explícito na nota.
 > > **Fonte:** comentário do TEC (CPC 18 R2, método da equivalência patrimonial)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — IBAM 2026 Guarulhos Q127 (gab. C, preliminar) cobrou o MEP só como método de avaliação de coligada (influência significativa, CPC 18/art. 248 da Lei 6.404), não o sinal do resultado de equivalência nem a DRE, que é o ponto desta questão; nas outras 4 provas absorvidas nenhuma cobrou MEP · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q127]]
 
 > [!question]- 27/09 (mesma captura, sem hora registrada) · Contabilidade Avançada · FGV (ALEGO 2026) — Ativo Imobilizado (NBC TG 27): divulgação de indenização de terceiros
 > TEC #3823679. De acordo com a NBC TG 27 (R4) – Ativo Imobilizado, as demonstrações contábeis devem divulgar, entre outros pontos, o valor das indenizações de terceiros por itens do ativo imobilizado que tenham sido desvalorizados, perdidos ou abandonados, incluído no resultado, caso a informação não tenha sido divulgada separadamente, no corpo da(o)
@@ -261,3 +263,85 @@ Um quinto processo, considerado remoto no ano anterior, foi condenado em última
 > > [!info] 🔗 Na matéria
 > > Não achei heading de Contas a Receber/Balanço Patrimonial (conceito de duplicatas) nem em `P2 - Contabilidade Avançada e de Custos.md` nem em `P1 - Contabilidade Geral.md` — não está no cofre.
 > > **Fonte:** comentário do TEC
+
+### 30/09
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Contabilidade Avançada · FCC (Auditor Fiscal da Fazenda Estadual, SEFAZ CE, 2026) — Resultado abrangente total: lucro líquido + ORA
+> As informações a seguir foram obtidas das demonstrações contábeis de uma empresa, referem-se ao ano de 2024 e os valores estão expressos em reais:
+>
+> Aumento do Capital Social 6.000.000 · Ajuste a valor justo de Propriedades para investimentos 420.000 · Lucro antes de impostos e contribuições 4.750.000 · Distribuição de dividendos 1.260.000 · Ajuste positivo de ativos financeiros mensurados ao valor justo por meio de outros resultados abrangentes (líquido de tributos) 720.000 · Lucro líquido do exercício 4.200.000 · Ajuste negativo de ativos financeiros mensurados ao valor justo por meio do resultado 500.000 · Ganho na conversão de demonstrações contábeis de empresa coligada no exterior 900.000 · Ganho na alienação de investimentos 750.000
+>
+> Utilizando as informações apresentadas, o valor total do resultado abrangente evidenciado pela empresa na Demonstração do Resultado Abrangente no exercício de 2024 foi, em reais,
+>
+> (A) 4.560.000
+> <mark style="background:#affad1">(B) 5.820.000</mark>
+> (C) 5.070.000
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) 5.320.000</mark>
+> (E) 4.920.000
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: R$ 5.820.000
+> > <mark style="background:#fff88f">Resultado abrangente = lucro líquido + ORA</mark>: 4.200.000 + 720.000 (ativos financeiros ao VJ por ORA) + 900.000 (conversão de demonstrações no exterior, CPC 02) = **5.820.000**.
+> >
+> > **(D)** 5.320.000 = 5.820.000 − 500.000: você subtraiu o ajuste negativo de ativos financeiros ao VJ **por meio do resultado**, mas ele já está dentro do lucro líquido (4.200.000), então desconta duas vezes. Também ficam de fora, por já estarem no lucro ou serem transações com sócios: propriedade para investimento ao valor justo (vai ao resultado, CPC 28), ganho na alienação de investimentos, aumento de capital e dividendos (mutações do PL) e o lucro antes de impostos (parte do LLE, que já é o ponto de partida).
+>
+> > [!example]- 🧩 Quadro — cada item do enunciado
+> > | Item | Valor | Entra no resultado abrangente? |
+> > | --- | --- | --- |
+> > | Lucro líquido | 4.200.000 | ponto de partida |
+> > | Ativos fin. ao VJ por **ORA** | 720.000 | sim (ORA) |
+> > | Conversão de coligada no exterior | 900.000 | sim (ORA, CPC 02) |
+> > | Ativos fin. ao VJ por **resultado** | −500.000 | não, já está no lucro líquido |
+> > | Propriedade para investimento a VJ | 420.000 | não, vai ao resultado (CPC 28) |
+> > | Ganho na alienação de investimentos | 750.000 | não, já está no lucro líquido |
+> > | Aumento de capital; dividendos | 6.000.000; 1.260.000 | não, são transações com sócios |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > A banca lista itens que parecem "ajuste de valor justo" mas só os rotulados **por meio de outros resultados abrangentes** são ORA; o ajuste "por meio do resultado" e o da propriedade para investimento já estão no lucro. Também põe lucro antes de impostos e transações com sócios como distratores.
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Contabilidade Avançada e de Custos#- Demonstração do Resultado Abrangente (DRA); e]] — a conversão cambial de operações no exterior (linha 2142) foi grifada agora. A lista de ORA do cofre traz AAP (ativos "disponíveis para venda", CPC 38) e **não** o item "ativos financeiros ao VJ por ORA" (CPC 48) nem a regra de que a propriedade para investimento a valor justo vai ao resultado; ficam fora do cofre.
+> > **Fonte:** cofre `MATERIAS/P2 - Contabilidade Avançada e de Custos.md:2142` · comentário do TEC, com CPC 02 e CPC 28 · TEC #4122852
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Contabilidade Avançada · FCC (Analista Legislativo, ALERR, 2026) — Dividendo mínimo obrigatório e adicional: teto da reserva legal
+> O Patrimônio Líquido apresentado por uma empresa no Balanço Patrimonial de 31/12/2024 era composto pelas contas a seguir: Capital Social 12.000.000 · Reserva Legal 2.100.000 · Reserva Estatutária 600.000 · Reserva de Lucros a Realizar 150.000 · Reserva para Contingências 450.000 · Total do PL 15.300.000.
+>
+> Em 2025: lucro líquido de R$ 7.200.000; constituídas Reserva Legal (conforme a Lei das S.A.) e Reserva Estatutária de 10% do Lucro Líquido deduzido da Reserva Legal; revertida a totalidade da Reserva de Lucros a Realizar.
+>
+> Sabendo-se que o estatuto da empresa é omisso quanto ao critério para cálculo do dividendo mínimo obrigatório e que foi proposto pagamento de dividendos adicionais com o saldo remanescente, os valores que deveriam ter sido evidenciados no Balanço Patrimonial de 31/12/2024, como dividendo mínimo obrigatório e como dividendos adicionais propostos, eram respectivamente, em reais:
+>
+> (A) 3.525.000 e 2.685.000.
+> <mark style="background:#affad1">(B) 3.450.000 e 2.910.000.</mark>
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) 3.420.000 e 2.886.000.</mark>
+> (D) 3.450.000 e 2.760.000.
+> (E) 3.420.000 e 2.736.000.
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: mínimo 3.450.000 e adicional 2.910.000
+> > **1) Reserva legal:** 5% × 7.200.000 = 360.000, mas o <mark style="background:#fff88f">teto é 20% do capital social</mark> (2.400.000) e o saldo já é 2.100.000, então só cabem <span class="g-num">300.000</span>. **2) Estatutária:** 10% × (7.200.000 − 300.000) = 690.000. **3) Mínimo obrigatório** (estatuto omisso, art. 202, I): <span class="g-num">50%</span> × (7.200.000 − 300.000) = **3.450.000**. **4) Adicional** = 7.200.000 + 150.000 (reversão da RLR) − 300.000 − 690.000 − 3.450.000 = **2.910.000**.
+> >
+> > **(C)** é o erro que você fez: reserva legal pelos 5% cheios (360.000), sem o teto, o que dá mínimo de 3.420.000 e adicional de 2.886.000. **(E)** é o mesmo erro sem a reversão da RLR. **(D)** acerta o mínimo mas esquece de somar a reversão da RLR (150.000) no adicional. **(A)** usa base diferente.
+>
+> > [!example]- 🧩 Quadro — a conta passo a passo
+> > | Passo | Cálculo | Valor |
+> > | --- | --- | --- |
+> > | Reserva legal | 5% de 7,2 mi = 360 mil, limitada pelo teto (20% × 12 mi − 2,1 mi) | 300.000 |
+> > | Reserva estatutária | 10% × (7,2 mi − 300 mil) | 690.000 |
+> > | Dividendo mínimo | 50% × (7,2 mi − 300 mil) | 3.450.000 |
+> > | Adicional proposto | 7,2 mi + 150 mil (RLR revertida) − 300 mil − 690 mil − 3.450 mil | 2.910.000 |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O enunciado dá o capital social e o saldo da reserva legal para você checar o **teto de 20% do capital**. A reserva estatutária **não** entra no ajuste da base do mínimo (só reserva legal e reserva para contingências, art. 202, I), e a reversão da RLR não muda o mínimo, mas aumenta o adicional.
+>
+> > [!tip] 💡 Macete
+> > Reserva legal: **5% do lucro, nunca acima de 20% do capital** (saldo atual + nova). Estatuto omisso, dividendo = **50%** do lucro ajustado.
+>
+> > [!quote]- 📜 Texto literal — arts. 193 e 202, I, Lei 6.404/76
+> > Art. 193. Do lucro líquido do exercício, <span class="g-num">5% (cinco por cento)</span> serão aplicados, antes de qualquer outra destinação, na constituição da reserva legal, que <span class="g-cond">não excederá de 20% (vinte por cento) do capital social</span>.
+> > Art. 202. (…) I - <span class="g-num">metade</span> do lucro líquido do exercício diminuído ou acrescido dos seguintes valores: a) importância destinada à constituição da reserva legal (art. 193); e b) importância destinada à formação da reserva para contingências (art. 195) e reversão da mesma reserva formada em exercícios anteriores;
+>
+> > [!info] 🔗 Na matéria
+> > [[P2 - Contabilidade Avançada e de Custos#- Dividendos e Juros sobre Capital Próprio; e]] (50% com estatuto omisso, linha 1865, e "reservas constituídas no ano da distribuição", linha 1859) e [[P2 - Contabilidade Avançada e de Custos#Reserva Legal]] (teto de 20% do capital social, linha 1059): todos grifados agora. A regra de que a reserva estatutária fica fora do ajuste e o tratamento da reversão da RLR no adicional **não estão escritos** no cofre. O enunciado diz "31/12/2024" mas o lucro é de 2025 (o TEC lê como 31/12/2025; não muda a conta).
+> > **Fonte:** cofre `MATERIAS/P2 - Contabilidade Avançada e de Custos.md:1059`, `:1859` e `:1865` · comentário do TEC, com Lei 6.404/76 arts. 193 e 202 · TEC #4110671

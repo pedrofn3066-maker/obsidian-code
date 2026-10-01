@@ -346,6 +346,8 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P2 - CASP#- Provisões, passivos e ativos contingentes]] — as 3 condições da provisão, a tabela de probabilidade e a regra "nem passivo nem ativo contingente entram em contas patrimoniais, só em contas de controle" já estão no cofre.
 > > **Fonte:** cofre `MATERIAS/P2 - CASP.md:627` (condições da provisão) · `MATERIAS/P2 - CASP.md:652` (contas de controle)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — IBAM 2026 Guarulhos Q128 (gab. D, preliminar) cobrou a mesma regra (passivo contingente não se reconhece no balanço, só se divulga; item III falso) e Q126 (gab. E, preliminar) as 3 condições da provisão; o seu erro aqui foi no lado do ativo contingente, que Guarulhos não cobrou · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q128]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q126]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · CASP · IBAM (Contador Pref Caruaru, 2023) — Provisão × contingência: o que é reconhecido em conta patrimonial (MCASP)
 > Em consonância com os requisitos previstos no MCASP, é uma afirmativa correta relativamente ao tratamento contábil das provisões, passivos contingentes e ativos contingentes:
@@ -361,6 +363,8 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P2 - CASP#- Provisões, passivos e ativos contingentes]] — mesma regra da entrada anterior desta rodada (Q4122629); segundo erro seguido no mesmo assunto, registrado em 🎯 Mapeamento de Pontos Cegos.
 > > **Fonte:** cofre `MATERIAS/P2 - CASP.md:627`
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** ✅ Condiz — IBAM 2026 Guarulhos Q128 (gab. D, preliminar) trouxe como distrator a mesma ideia que você marcou aqui (item III: reconhecer o passivo contingente no balanço) e a banca o deu como falso: é o erro que se repete; Q126 (gab. E, preliminar) cobrou o lado certo, provisão reconhecida com os 3 requisitos · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q128]] · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q126]]
 
 > [!question]- 25/09 (mesma captura, sem hora registrada) · CASP · IBAM (Contador CM Blumenau, 2024) — Receita de transação com contraprestação: condições de estimativa confiável (MCASP)
 > O resultado de uma transação pode ser estimado confiavelmente quando todas as condições forem satisfeitas. Descreve corretamente uma das condições a serem satisfeitas:

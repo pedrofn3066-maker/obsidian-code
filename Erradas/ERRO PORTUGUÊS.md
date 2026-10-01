@@ -122,6 +122,8 @@ Correção: **É** de rigor haver nos moldes clássicos de uma fábula passag
 > > [!info] 🔗 Na matéria
 > > [[P1 - Língua Portuguesa#Coesão, coerência]] — cobre pronomes demonstrativos catafóricos/anafóricos, mas não a classificação de Koch (referencial gramatical/lexical x sequencial) cobrada aqui; parcial.
 > > **Fonte:** cofre (parcial) `MATERIAS/P1 - Língua Portuguesa.md:56` · comentário do TEC (classificação de Koch, fora do cofre)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — IBAM 2026 Guarulhos Q8 (gab. B, preliminar) cobrou coesão referencial pela anáfora (tal, essa, por isso não abrem o parágrafo; ordem problema, causa, consequência, proposta), não a classificação de Koch · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q8]]; IBAM 2026 São Vicente Q5 também cobrou coesão, como causa e consequência entre períodos; nenhuma das 5 provas cobrou referencial gramatical x lexical x sequencial
 
 > [!question]- 26/09 (mesma captura, sem hora registrada) · Português · IBAM (Analista de Controle Interno, Pref. Caruaru, 2025) — Objetivo principal do texto: ideia que permeia todo o texto
 > Notícia (resumida): reportagem anuncia que o Rio de Janeiro sediará, em novembro de 2025, o Prêmio Earthshot (premiação ambiental britânica), no mesmo mês em que o Brasil recebe a COP30 em Belém; o texto detalha o funcionamento do prêmio, números de edições anteriores e a iluminação de pontos turísticos do Rio para celebrar o anúncio.
@@ -144,3 +146,42 @@ Correção: **É** de rigor haver nos moldes clássicos de uma fábula passag
 > > [!info] 🔗 Na matéria
 > > [[P1 - Língua Portuguesa#Interpretação e compreensão de texto]] — heading existe mas está vazio; não está no cofre.
 > > **Fonte:** comentário do TEC · (sem fonte no cofre)
+>
+> **Prova anterior (29/09 · 5 provas absorvidas):** 🔶 Mesmo tópico, outro ângulo — IBAM 2026 Guarulhos cobrou a ideia central por outros ângulos: Q5 (gab. A, preliminar: tese do texto, com B a E elegendo um plano isolado do texto) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q5]] e Q14 (gab. C, preliminar: percurso argumentativo concessão-restrição, com as demais atribuindo ao autor posição que o texto não sustenta) · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q14]]; o distrator que você marcou aqui (elogio que o texto não faz) é do mesmo tipo: extrapola o texto. Ver também IBAM 2026 São Vicente Q6 (tese central) e IBAM 2025 Mauá Q4 e Q8 (tema central)
+
+### 30/09
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Português · IBAM (Auditor Fiscal de Tributos, Pref. Bragança Paulista, 2026) — Finalidade predominante do texto: argumentativo x expositivo, e função dos parágrafos
+> Texto-base (CGU, "Transparência, o melhor antídoto contra a corrupção", resumido): ¶1 — a CGU acredita que a transparência é o melhor antídoto contra a corrupção, porque induz os gestores a agir com responsabilidade; ¶2 — uma gestão transparente permite à sociedade colaborar no controle dos governantes, e o cidadão que consulta portais e acompanha obras também exerce vigilância; ¶3 — "Por isso, a participação social é tratada como um complemento necessário ao trabalho técnico dos órgãos de controle", com canais de diálogo com a sociedade civil para fortalecer os mecanismos democráticos.
+>
+> A respeito da finalidade predominante do texto e da função que suas partes exercem na construção do sentido global, avalie as afirmativas a seguir.
+>
+> I. Embora se organize a partir de informações institucionais da CGU, o texto subordina esses dados a uma tese avaliativa sobre o valor da transparência, o que faz predominar a orientação argumentativa sobre a expositiva.
+> II. A progressão dos parágrafos obedece a encadeamento dedutivo, no qual a definição de transparência funciona como premissa maior da qual se deduz, por necessidade lógica, a conclusão sobre a participação social.
+> III. O terceiro parágrafo opera por ampliação, deslocando o eixo do controle exercido pelo cidadão individual para a dimensão coletiva da participação social, sem romper com a tese antes sustentada.
+>
+> É correto o que se afirma em:
+>
+> (A) III, apenas.
+> <mark style="background:#affad1">(B) I e III, apenas.</mark>
+> (C) I, apenas.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) I, II e III.</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 B
+>
+> > [!success] ✅ Resposta — B: só I e III estão certas (o TEC não publicou comentário; deduzido pelo gabarito)
+> > <mark style="background:#fff88f">O texto defende uma tese ("a transparência é o melhor antídoto") e usa os dados da CGU como apoio: predomina o argumentativo</mark> (I certa), e o ¶3 amplia a tese do controle individual (¶2) para a participação social coletiva, sem rompê-la (III certa).
+> >
+> > **(II)** erra: o texto não é <span class="g-cond">dedutivo</span> — não há premissa maior da qual a participação social saia <span class="g-cond">por necessidade lógica</span>. O ¶3 entra por "Por isso" como **complemento** da tese, não como conclusão inevitável de um silogismo. Como o gabarito dá B, é o item II que derruba o D que você marcou.
+> > **(A)** e **(C)** cortam um item certo: A tira o I, C tira o III.
+>
+> > [!example]- 🧩 Quadro — o que cada item testou
+> > | Item | Conceito | No texto | Veredito |
+> > | --- | --- | --- | --- |
+> > | I | argumentativo x expositivo | dados da CGU servem a uma tese avaliativa | certo |
+> > | II | encadeamento dedutivo | "Por isso" liga por complemento, sem necessidade lógica | errado (exagero) |
+> > | III | função do parágrafo: ampliação | do cidadão individual (¶2) à participação coletiva (¶3) | certo |
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Língua Portuguesa#Interpretação e compreensão de texto]] — heading existe mas está vazio; argumentativo x expositivo e progressão dedutiva não estão no cofre.
+> > **Fonte:** TEC #4172034 (sem comentário publicado) · gabarito do TEC · (sem fonte no cofre)

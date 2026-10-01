@@ -291,9 +291,19 @@ O **_Iter_ _Criminis,_** isto é, o “caminho do crime”, divide-se em quat
     - **C**ulposos, **C**ontravenções penais, **H**abituais, **O**missivos próprios, **U**nissubsistentes, **P**reterdolosos e **E**mpreendimento ou Atentado.
 
 ### 3 - CRIME IMPOSSÍVEL
-- [ ] status [dom:: 3] [peso:: 2]
+- [ ] status [dom:: 3] [peso:: 2] [prova:: 1]
 
-- Nos moldes do art. 17 do CP, diz-se impossível o crime em duas circunstâncias: **ineficiência absoluta do meio ou absoluta impropriedade do objeto**. Percebe-se, desse modo, que, mesmo o agente efetuando a tentativa, jamais haveria possibilidade de consumação do crime. **Nesses casos, portanto, não se pune a mera tentativa (tentativa inidônea - crime impossível).**
+- Nos moldes do art. 17 do CP, diz-se impossível o crime em duas circunstâncias: **<mark class="prova" style="background:rgba(0,170,170,0.28)">ineficiência absoluta do meio ou absoluta impropriedade do objeto</mark>**. Percebe-se, desse modo, que, mesmo o agente efetuando a tentativa, jamais haveria possibilidade de consumação do crime. **Nesses casos, portanto, não se pune a mera tentativa (tentativa inidônea - crime impossível).**
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q72 (gab. A · preliminar)
+> **Trecho usado:** "diz-se impossível o crime em duas circunstâncias: ineficiência absoluta do meio ou absoluta impropriedade do objeto"
+> **Como cobrou:** troca de termo — a certa é "(A) Fulano não responde pelo crime, pois se configura crime impossível pela absoluta ineficácia do meio" (substância inofensiva). A errada (C) troca o termo: "crime impossível pela absoluta impropriedade do objeto"; (B) e (E) trazem "arrependimento eficaz" e "desistência voluntária"; (D) diz que responde "na sua forma tentada".
+> **Lastro:** PDF p. 23 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q72]]
+
+> [!tip]- Lupa de prova: crime impossível, qual dos dois requisitos o caso descreve
+> **O padrão:** o enunciado descreve um meio (substância inofensiva) e as alternativas oferecem os dois requisitos do art. 17 do CP em sequência, mais os institutos voluntários; padrão de 1 prova, não confirmado.
+> **A armadilha:** a alternativa (C) acerta o instituto e troca o termo: "crime impossível pela absoluta impropriedade do objeto". (B) e (E) falam em "arrependimento eficaz" e "desistência voluntária"; (D) fala em "forma tentada".
+> **Como resolver:** a nota diz que o crime impossível tem duas circunstâncias, ineficiência absoluta do meio ou absoluta impropriedade do objeto; identifique o que era inidôneo. Aqui, o meio (substância que jamais produziria efeito). E, no crime impossível, não se pune a mera tentativa.
 
 ### 4 - DESISTÊNCIA VOLUNTÁRIA E ARREPENDIMENTO EFICAZ
 - [ ] status [dom:: 3] [peso:: 2]

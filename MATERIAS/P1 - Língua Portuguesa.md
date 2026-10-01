@@ -54,7 +54,7 @@ Manutenção, não construção. Só questões. É também critério de desempat
 - [ ] status [dom:: 0] [peso:: 2]
 
 ## Coesão, coerência
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 **a)**  Comprei um casaco de veludo em São Paulo cujo preço foi alto.
 
@@ -73,12 +73,17 @@ Isto precisa ficar claro: organização e constância fazem diferença nos estud
 
 ---
 
-✅ **esse(s), essa(s), isso:** retomam **algo que já foi mencionado** anteriormente (valor anafórico).
+✅ **esse(s), essa(s), isso:** <mark class="prova" style="background:rgba(0,170,170,0.28)">retomam **algo que já foi mencionado** anteriormente (valor anafórico)</mark>.
 **Ex.:**  
 O aluno revisou todo o conteúdo. Esse comportamento aumenta muito o desempenho.
 **Ex.:**  
 Disciplina, foco e planejamento: isso é fundamental para uma boa preparação.
 
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q8 (gab. B · preliminar)
+> **Trecho usado:** "esse(s), essa(s), isso: retomam algo que já foi mencionado anteriormente (valor anafórico)."
+> **Como cobrou:** conceito — ordenar quatro períodos; III ("Tal desconhecimento") e I ("Sem essa compreensão") retomam algo já dito e por isso não abrem o parágrafo; II introduz o problema e IV fecha com "por isso". A certa é "(B) II, III, I, IV"; abrir por III ou I deixa o anafórico sem antecedente. A nota traz só a regra do anafórico, não a ordem problema, causa, consequência e proposta.
+> **Lastro:** PDF p. 7 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q8]]
 ---
 
 ✅ **aquele(s), aquela(s), aquilo):** normalmente retomam o termo mais distante; já “este/esta” retomam o mais próximo.
@@ -107,12 +112,22 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/3/assuntos/3818)
 
 
 ## Concordância nominal e verbal
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 **a)**  o verbo “prevê” recebe ~~acento diferencial para marcar o plural~~, concordando com o sujeito.
-**Incorreta**. A forma verbal <mark style="background:#fff88f">"prevê" está na 3ª pessoa do singular</mark>, portanto o acento circunflexo não marca plural, mas sim a sílaba tônica em uma palavra oxítona terminada em -E. O acento diferencial que indica plural ocorre com os verbos "ter", "vir" e respectivos derivados. Exemplos: eles vêm, eles têm, elas contêm, elas provêm etc.
+**Incorreta**. A forma verbal <mark style="background:#fff88f">"prevê" está na 3ª pessoa do singular</mark>, portanto o acento circunflexo não marca plural, mas sim a sílaba tônica em uma palavra oxítona terminada em -E. <mark class="prova" style="background:rgba(0,170,170,0.28)">O acento diferencial que indica plural ocorre com os verbos "ter", "vir" e respectivos derivados.</mark> Exemplos: eles vêm, eles têm, elas contêm, elas provêm etc.
 **b)** "Num prazo máximo de dois anos, cada um desses modelos estarão mostrando, na prática, suas qualidades e seus defeitos."
 **Incorreta**. Com a construção <mark style="background:#fff88f">"cada um"</mark>, o verbo concorda no **singular**: "cada um desses modelos **estará** mostrando".
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q2 (gab. E · preliminar)
+> **Trecho usado:** "O acento diferencial que indica plural ocorre com os verbos "ter", "vir" e respectivos derivados."
+> **Como cobrou:** troca de termo — pede a análise correta da acentuação de "pública", "temática", "também" e da forma "vem" de "vem adquirindo"; a certa é "(E) [...] "vem" permanece sem acento por concordar com sujeito singular"; a errada C troca o motivo: ""vem" recebe acento diferencial quando empregado com sujeito no singular". A nota cobre só a parte vem/vêm; as regras de proparoxítona e oxítona não estão nela.
+> **Lastro:** PDF p. 5 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q2]]
+
+> [!tip]- Lupa de prova: Acento diferencial de "vem" e "vêm"
+> **O padrão:** a prova juntou a acentuação de palavras do texto ("pública", "temática", "também") com a forma "vem", e a decisão sobre "vem" cai na regra que a nota já tem: o circunflexo marca o plural. (padrão de 1 prova, não confirmado)
+> **A armadilha:** C: ""vem" recebe acento diferencial quando empregado com sujeito no singular"; D: ""vem" não recebe acento por ser monossílabo tônico terminado em -em"; B: ""vem" fica sem acento por integrar uma locução verbal" (motivo trocado; o certo é a concordância com sujeito singular).
+> **Como resolver:** a nota diz que o acento diferencial que indica plural ocorre com "ter", "vir" e derivados (eles vêm, eles têm), então o singular "vem" fica sem acento. As regras de proparoxítona e oxítona não estão na nota; esta lupa não as cobre.
 
 ### Bastante — advérbio vs adjetivo
 - [ ] status [dom:: 0] [peso:: 2]
@@ -123,8 +138,18 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/3/assuntos/3818)
 | **Dica 1:** substitua "bastante" por "muito" e observe se você precisará empregar o plural. Se sim, o "bastante" também deverá ser flexionado. <br><br>**Dica 2:** se o termo “bastante” puder ser substituído por “suficiente”, será adjetivo e deverá concordar com o termo a que se refere. |                                                                                                                                                                                                                                            |
 
 ## Regência e crase
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 ![[Pasted image 20260823122647.png]]
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q10 (gab. A · preliminar)
+> **Trecho usado:** "Quadro 6 (imagem): É PROIBIDO o emprego de CRASE antes de verbos no INFINITIVO. Ex.: Começou a trabalhar cedo."
+> **Como cobrou:** conceito — V/F sobre regência e crase; o item I diz que em "tende a enxergar o tributo" o "a" recebe acento grave (falso: "a" antes de infinitivo não tem crase), e é o único item que o quadro da nota decide. II (sujeitar-se a), III (acesso às informações) e IV (adjetivo "fundamental") dependem de regência que a nota não traz. A certa é "(A) F, V, V, F".
+> **Lastro:** PDF p. 7 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q10]]
+
+> [!tip]- Lupa de prova: Crase antes de infinitivo e termo regente
+> **O padrão:** a prova cobrou crase em V/F que exige achar o termo regente da preposição; só a parte "antes de infinitivo" está na nota. (padrão de 1 prova, não confirmado)
+> **A armadilha:** I: "o vocábulo "a" recebe acento grave por resultar da fusão entre a preposição regida pelo verbo e o artigo definido" (antes de infinitivo não há crase); IV: "a preposição é imposta pelo substantivo "desenvolvimento", e não pelo adjetivo que o antecede" (termo regente trocado).
+> **Como resolver:** pelo quadro 6 da nota, é proibida a crase antes de verbo no infinitivo, então o item I é falso. Os itens II a IV pedem regência nominal e de sujeitar-se a, que a nota não tem.
 
 ### Forma nominal não perde transitividade
 - [ ] status [dom:: 0] [peso:: 2]

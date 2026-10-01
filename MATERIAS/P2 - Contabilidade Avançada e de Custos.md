@@ -81,7 +81,7 @@ Nos editais FCC recentes vem como "Contabilidade Geral e Pública" — se a Bahi
 ## - Contabilidade Básica;
 
 ### Estrutura conceitual, princípios e regimes (CPC 00);
-- [x] status [dom:: 2] [peso:: 2] ✅ 2026-09-14
+- [x] status [dom:: 2] [peso:: 2] [prova:: 1] ✅ 2026-09-14
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3855)
 
 ![](https://www.techconcursos.com.br/img/teoria/importante.png)
@@ -189,6 +189,11 @@ Diferença Competência − Caixa = R$80.000.
 
 Relacionado: as demais bases de mensuração **após** o registro inicial (custo corrente, valor realizável, valor presente, valor justo) estão em [[#- Mensuração a Valor Justo (CPC 46)\|Mensuração a Valor Justo]].
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q139 (gab. E · preliminar)
+> **Trecho usado:** "receitas e despesas reconhecidas no momento do fato gerador, independente de pagamento/recebimento"
+> **Como cobrou:** conceito — serviço prestado em dezembro de X1 e pago em janeiro de X2, "considerando o regime de competência"; a certa é "(E) em dezembro de X1, desde que atendidos os critérios aplicáveis ao reconhecimento da receita." e as erradas prendem a receita ao caixa: "(A) integralmente em janeiro de X2, quando ocorreu o ingresso financeiro" e "(D) somente após o recebimento integral do valor contratado". Mesma questão marcada em [[#- Receita com Contrato com Cliente (CPC 47)]].
+> **Lastro:** PDF p. 18 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q139]]
+
 
 
 
@@ -236,7 +241,7 @@ Formalidades **extrínsecas** dos livros: encadernação, **numeração sequenci
 
 Demonstrativo **AUXILIAR** — <mark style="background:#fff88f">não obrigatório</mark>. Composto por todas as contas e seus saldos, extraídos do **Livro Razão**.
 
-**Objetivo:** verificar se o método das **partidas dobradas** (para cada débito há um crédito) foi obedecido ao longo da escrituração, isto é, se débitos e créditos foram efetuados corretamente.
+**Objetivo:** <mark class="prova" style="background:rgba(0,170,170,0.28)">verificar se o método das **partidas dobradas** (para cada débito há um crédito) foi obedecido ao longo da escrituração</mark>, isto é, se débitos e créditos foram efetuados corretamente.
 
 > [!warning] Pegadinha
 > É **FALSO** afirmar que a escrituração foi feita corretamente apenas com base no balancete. Ele não detecta:
@@ -246,6 +251,12 @@ Demonstrativo **AUXILIAR** — <mark style="background:#fff88f">não obrigatóri
 >
 > Todos os três preservam a igualdade débito = crédito, que é a única coisa que o balancete testa.
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q129 e Q133 (gab. B e B · preliminar)
+> **Trecho usado:** "verificar se o método das partidas dobradas (para cada débito há um crédito) foi obedecido ao longo da escrituração"
+> **Q129 — como cobrou:** conceito — "Todo lançamento contábil deve preservar a igualdade entre o total dos débitos e o total dos créditos" e "Um fato contábil pode afetar mais de duas contas, desde que seja preservada a igualdade" são certas; o item III ("O lançamento a débito representa, necessariamente, aumento do patrimônio líquido da entidade") é falso e a certa é "(B) I e II, apenas." A nota traz só a ideia geral das partidas dobradas, não a natureza devedora e credora das contas.
+> **Q133 — como cobrou:** exceção — o balancete fechou com débitos iguais a créditos; a certa é "(B) foi preservada a igualdade formal entre débitos e créditos, não sendo possível assegurar, apenas com essa verificação, a inexistência de outros erros." e as erradas afirmam que o PL "está necessariamente correto", que "não existem omissões de lançamentos" e que "não houve erro na classificação das contas contábeis". A Pegadinha acima já traz o fato.
+> **Lastro:** Q129: PDF p. 16 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q129]] · Q133: PDF p. 17 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q133]]
+
 #### Atos e fatos — lacuna de lastro
 
 A distinção **insubsistência × superveniência** existe no guia como figura, e não foi extraída em texto. Também não há no guia a divisão clássica **atos administrativos** (sem efeito imediato no patrimônio) × **fatos administrativos** (permutativos, modificativos, mistos). Conferir no material do TEC antes de marcar `dom` acima de 1.
@@ -254,8 +265,18 @@ A distinção **insubsistência × superveniência** existe no guia como figura,
 - **Modificativo** — altera os elementos patrimoniais e o Patrimônio Líquido.
   - Aumentativo — aumenta o PL.
   - Diminutivo — diminui o PL.
-- **Permutativo** — altera os elementos patrimoniais sem alterar o valor do PL.
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">**Permutativo** — altera os elementos patrimoniais sem alterar o valor do PL</mark>.
 - **Misto** — simultaneamente modificativo e permutativo (afeta quantitativamente Ativo, Passivo e PL ao mesmo tempo).
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q132 (gab. D · preliminar)
+> **Trecho usado:** "Permutativo — altera os elementos patrimoniais sem alterar o valor do PL"
+> **Como cobrou:** troca de termo — compra de mercadorias à vista por R$ 150.000,00, "considerando exclusivamente esse fato"; a certa é "(D) permutativo, pois ocorre alteração na composição dos elementos patrimoniais sem alteração do patrimônio líquido." e as erradas trocam por "misto aumentativo", "modificativo diminutivo", "misto diminutivo" e "modificativo aumentativo".
+> **Lastro:** PDF p. 17 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q132]]
+
+> [!tip]- Lupa de prova: permutativo × misto × modificativo
+> **O padrão:** a prova dá um fato simples (compra de mercadorias à vista) e pede a classificação; a certa é a que diz que a composição dos elementos patrimoniais muda sem alterar o patrimônio líquido. (padrão de 1 prova, não confirmado)
+> **A armadilha:** as quatro erradas põem "misto aumentativo", "modificativo diminutivo", "misto diminutivo" e "modificativo aumentativo" num fato que não mexe no PL, e ainda justificam com "aumenta o ativo" ou "reduz as disponibilidades".
+> **Como resolver:** pergunte só se o PL mudou: não mudou = permutativo (um ativo por outro); mudou = modificativo (aumentativo ou diminutivo); afeta os dois efeitos ao mesmo tempo = misto, como a nota define acima.
 
 <mark style="background:#fff88f">Atos administrativos (atos contábeis)</mark> são atos relevantes que **não** alteram o patrimônio.
 
@@ -278,13 +299,23 @@ A distinção **insubsistência × superveniência** existe no guia como figura,
 | **Personalista** | Agentes Consignatários (bens) · Agentes Correspondentes (direitos e obrigações) · Proprietários (PL, receitas e despesas) | Consignatários: bens consignados à empresa. Correspondentes: direitos/obrigações que dependem de terceiros (ex.: um correspondente da CEF é terceiro em relação à CEF). Proprietários: PL é propriedade dos sócios |
 | **Patrimonialista** | Patrimoniais (ativo, passivo, PL) · Resultado (receita, despesa) | Teoria mais utilizada |
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q135 (gab. C · preliminar)
+> **Trecho usado:** "Diferenciais vêm de diferenças: PL = ativo − passivo; receitas e despesas refletem no PL"
+> **Como cobrou:** cálculo — ativos de R$ 1.250.000,00 e passivos exigíveis de R$ 780.000,00, pede a "situação líquida" pela "equação fundamental do patrimônio"; a certa é "(C) R$ 470.000,00." (ativo menos passivo) e as erradas somam ou repetem os valores: "(B) R$ 2.030.000,00", "(A) R$ 780.000,00", "(D) R$ 1.250.000,00". A nota traz só PL = ativo − passivo; o termo "situação líquida" não aparece.
+> **Lastro:** PDF p. 17 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q135]]
+
 <mark style="background:#fff88f">Só na Patrimonialista o PL fica separado de receita/despesa (categorias distintas); nas outras duas teorias, PL e resultado ficam na mesma categoria.</mark> A conta Integral (Materialista) se "divide" nas contas Consignatários e Correspondentes (Personalista).
 
 
 ### - Ajuste a Valor Presente (CPC 12); e
-- [x] status [dom:: 2] [peso:: 3] ✅ 2026-09-14
+- [x] status [dom:: 2] [peso:: 3] [prova:: 1] ✅ 2026-09-14
 
-Valor presente é a estimativa do valor corrente de um fluxo de caixa futuro no curso normal das operações — o fluxo pode ser de entrada ou de saída.
+<mark class="prova" style="background:rgba(0,170,170,0.28)">Valor presente é a estimativa do valor corrente de um fluxo de caixa futuro no curso normal das operações</mark> — o fluxo pode ser de entrada ou de saída.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q138 (gab. D · preliminar)
+> **Trecho usado:** "Valor presente é a estimativa do valor corrente de um fluxo de caixa futuro no curso normal das operações"
+> **Como cobrou:** conceito — ativo ou passivo financeiro com fluxos de caixa liquidados em períodos futuros; a certa é "(D) trazer a valor atual fluxos de caixa futuros, considerando uma taxa de desconto apropriada." e as erradas trocam por "(A) substituir obrigatoriamente o custo histórico pelo valor justo em todos os ativos", "(B) reavaliar exclusivamente ativos não financeiros", "(C) reconhecer apenas os efeitos da inflação sobre os saldos contábeis" e "(E) eliminar os juros contratuais das obrigações de longo prazo".
+> **Lastro:** PDF p. 18 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q138]]
 
 **Quando ajustar (Lei das S/A):**
 - **Ativos** (art. 183, VIII): elementos de **longo prazo** são ajustados sempre; os demais, quando houver **efeito relevante**.
@@ -412,7 +443,7 @@ A entidade **deve** alterar a política se: for exigida por um CPC (obrigatória
 Quando for impraticável determinar o efeito em períodos anteriores, aplica-se a nova política ao saldo mais antigo para o qual a aplicação retrospectiva seja praticável; os ajustes vão para **Ajustes de Exercícios Anteriores**, conta do PL.
 
 ### - Receita com Contrato com Cliente (CPC 47)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 SEM AULA TEC. PEGAR NO ESTRATÉGIA 
 **➡️** **CPC 47 - Receita de Contrato com Cliente**
 
@@ -495,8 +526,13 @@ A entidade deve **contabilizar os efeitos de um contrato,** quando **todos os cr
 
 **4.4. Satisfação de Obrigação de Performance**
 
-- A entidade deve **Reconhecer Receitas** quando (ou à medida que) a entidade **satisfizer à obrigação de performance ao transferir** o bem ou o serviço (ou seja, um ativo) prometido ao cliente.
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">A entidade deve **Reconhecer Receitas** quando (ou à medida que) a entidade **satisfizer à obrigação de performance ao transferir** o bem ou o serviço</mark> (ou seja, um ativo) prometido ao cliente.
     - ⚠️ **Transferência do Ativo** → Quando o **Cliente obtiver o Controle** desse ativo.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q139 (gab. E · preliminar)
+> **Trecho usado:** "A entidade deve Reconhecer Receitas quando (ou à medida que) a entidade satisfizer à obrigação de performance ao transferir o bem ou o serviço"
+> **Como cobrou:** conceito — serviço de R$ 80.000,00 prestado em dezembro de X1, nota fiscal no mesmo mês e pagamento em janeiro de X2, "considerando o regime de competência"; a certa é "(E) em dezembro de X1, desde que atendidos os critérios aplicáveis ao reconhecimento da receita." e as erradas prendem a receita ao caixa: "(A) integralmente em janeiro de X2, quando ocorreu o ingresso financeiro" e "(D) somente após o recebimento integral do valor contratado".
+> **Lastro:** PDF p. 18 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q139]]
 
 **5. Mensuração**
 
@@ -644,13 +680,18 @@ Reversão do saldo       D PECLD (saldo não utilizado) / C Outras Receitas Oper
 **Quando fazer o teste, na prática:** pode ser realizado **a qualquer momento** do período anual, desde que seja **sempre no mesmo período**, ano após ano; intangíveis **diferentes** podem ser testados em momentos diferentes entre si. No **ano em que o intangível é reconhecido**, o teste deve ser feito **antes do fim** daquele ano corrente — não pode ser empurrado pro ano seguinte.
 
 #### 2.3. Roteiro de Cálculo e Reconhecimento da Perda
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 Sequência que evita comparar grandezas incompatíveis:
 1. **Valor contábil** → custo menos depreciação/amortização/exaustão acumulada e perdas por desvalorização já registradas.
 2. **Valor recuperável** → maior entre valor em uso e valor justo líquido de despesas de venda.
-3. **Comparação** → contábil > recuperável: reconhece perda pela diferença; contábil = recuperável: sem ajuste; contábil < recuperável: sem nova perda; havendo perda anterior e requisitos de reversão atendidos, avalia a reversão dentro do teto normativo.
+3. **Comparação** → <mark class="prova" style="background:rgba(0,170,170,0.28)">contábil > recuperável: reconhece perda pela diferença</mark>; contábil = recuperável: sem ajuste; contábil < recuperável: sem nova perda; havendo perda anterior e requisitos de reversão atendidos, avalia a reversão dentro do teto normativo.
 4. **Atualização prospectiva** → após perda ou reversão, recalcula a depreciação/amortização/exaustão futura pelo valor contábil revisado, líquido do residual, ao longo da vida útil remanescente.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q130 (gab. C · preliminar)
+> **Trecho usado:** "contábil > recuperável: reconhece perda pela diferença; contábil = recuperável: sem ajuste; contábil < recuperável: sem nova perda"
+> **Como cobrou:** conceito — o valor recuperável é inferior ao valor contábil do ativo; a certa é "(C) reduzir o valor contábil do ativo até seu valor recuperável, reconhecendo a perda conforme os critérios contábeis aplicáveis." e as erradas trocam por "(A) manter o ativo pelo valor contábil original até sua baixa definitiva", "(B) transferir automaticamente o ativo para o ativo circulante", "(D) reconhecer imediatamente uma reserva de lucros" e "(E) reclassificar o ativo como despesa antecipada".
+> **Lastro:** PDF p. 17 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q130]]
 
 **Lançamento da perda:** `D Perda por Redução ao Valor Recuperável (Despesa) / C Perdas Acumuladas (Retificadora do Ativo)`.
 **Lançamento da reversão:** `D Perdas Acumuladas (Retificadora do Ativo) / C Reversão de Perda por Redução ao Valor Recuperável (Receita)`.
@@ -789,7 +830,7 @@ _**VI – no intangível:**_ _os direitos que tenham por objeto **bens incorpór
 **Amortização (item 97, CPC 04 R1)** — intangível com vida útil **definida** é amortizado de forma sistemática ao longo da vida útil estimada. A amortização começa quando o ativo está **disponível para uso**, isto é, no local e nas condições necessárias para funcionar do modo pretendido pela administração.
 
 ### - Depreciação, Amortização e Exaustão;
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 **Componentes separados.** Cada componente de um item do imobilizado com custo significativo em relação ao total **deve** ser depreciado separadamente — a turbina de um avião, por exemplo.
 
@@ -811,6 +852,11 @@ _**VI – no intangível:**_ _os direitos que tenham por objeto **bens incorpór
 | Soma dos dígitos | (Custo − Residual) × (n + 1 − ano) ÷ soma dos dígitos |
 | Unidades produzidas | (Custo − Residual) × Produção realizada ÷ Produção total |
 | Acelerada (RIR) | (Custo − Residual) × Período ÷ (Vida útil × K) |
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q140 (gab. E · preliminar)
+> **Trecho usado:** "Linear | (Custo − Residual) × Período ÷ Vida útil"
+> **Como cobrou:** cálculo — máquina de R$ 500.000,00, vida útil de 10 anos e valor residual de R$ 50.000,00, método linear; a certa é "(E) R$ 45.000,00." ((500.000 − 50.000) ÷ 10) e as erradas usam o custo "(A) R$ 500.000,00", o valor depreciável "(B) R$ 450.000,00" e o residual "(C) R$ 50.000,00".
+> **Lastro:** PDF p. 18 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q140]]
 
 Coeficiente **K** só se usa na vida útil **fiscal**: 1 turno (8h) K=1,0 · 2 turnos (16h) K=1,5 · 3 turnos (24h) K=2,0.
 
@@ -1010,7 +1056,7 @@ Para compensar **Prejuízos Acumulados**, a ordem é obrigatória: **1º Lucros 
 Garante a integridade do Capital Social — serve só para **compensar prejuízo** ou **aumentar o CS**. **Vedado** usá-la para distribuir dividendos.
 
 - **5% mínimo** do (LLE − Prejuízo Acumulado), antes de qualquer outra destinação.
-- **Teto**: RLegal atual + RLegal a constituir = **20% do CS Realizado**.
+- **Teto**: RLegal atual + RLegal a constituir = <mark style="background:#fff88f"><span class="g-num">**20% do CS Realizado**</span></mark>.
 - **Dispensa** de constituir no exercício se RLegal + Reservas de Capital já somam **30% do CS**.
 
 **Exemplo numérico** (abate o prejuízo acumulado antes dos 5%):
@@ -1157,13 +1203,19 @@ Venda com prejuízo     D Caixa / C (−) Ações em Tesouraria / D Reserva LVAT
 (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/4706?indice=1&materia=)
     
 ## - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
-**Passivo de prazo ou valor incertos.** Três condições, todas exigidas ao mesmo tempo, para registrar uma **provisão**:
+**Passivo de prazo ou valor incertos.** <mark class="prova" style="background:rgba(0,170,170,0.28)">Três condições, todas exigidas ao mesmo tempo, para registrar uma **provisão**</mark>:
 
 1. **Obrigação presente**, derivada de evento **passado** — legal (contrato ou lei) ou **não formalizada** (práticas passadas, políticas publicadas, declaração de responsabilidade que criam expectativa válida de que a empresa cumprirá);
 2. **Provável** (>50%) que haverá saída de recursos;
 3. **Estimativa confiável** do valor.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q126 e Q128 (gab. E e D · preliminar)
+> **Trecho usado:** "Três condições, todas exigidas ao mesmo tempo, para registrar uma provisão"
+> **Q126 — como cobrou:** conceito — obrigação presente de evento passado, saída de recursos provável e estimativa confiável; a certa é "(E) reconhecer uma provisão." e as erradas trocam por "(B) classificar automaticamente como passivo contingente" e "(C) não reconhecer qualquer valor, apenas divulgar em notas explicativas".
+> **Q128 — como cobrou:** literalidade — o item I ("Uma provisão corresponde a um passivo de prazo ou valor incertos") repete a definição que abre esta seção; o item III é tratado no callout e na lupa de [[#Provisão × passivo contingente × ativo contingente]]. A certa é "(D) I e II, apenas."
+> **Lastro:** Q126: PDF p. 16 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q126]] · Q128: PDF p. 16 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q128]]
 
 <mark style="background:#fff88f">Roteiro de identificação:</mark> houve evento passado? Ele gerou obrigação presente (venda → garantia; acidente de trabalho → processo)? O prazo ou valor são incertos? Dá para estimar com confiabilidade? **Sim para tudo → registra provisão.**
 
@@ -1171,7 +1223,7 @@ Se o efeito do valor do dinheiro no tempo for material, a provisão é o **valor
 
 #### Provisão × passivo contingente × ativo contingente
 
-A única variável que muda entre as três é a **probabilidade**:
+<mark class="prova" style="background:rgba(0,170,170,0.28)">A única variável que muda entre as três é a **probabilidade**</mark>:
 
 | Probabilidade | Registro contábil | Notas explicativas |
 | --- | --- | --- |
@@ -1182,6 +1234,16 @@ A única variável que muda entre as três é a **probabilidade**:
 Isso vale tanto para o lado do **passivo** (provisão × passivo contingente) quanto do **ativo**: ativo contingente só é **reconhecido** quando **praticamente certo**; quando apenas **provável**, só se divulga; possível/remoto nem isso.
 
 ⚠️ Ativo contingente **nunca** se registra pelo simples fato de ser "provável" — o reconhecimento exige um grau acima: **praticamente certo**. É a assimetria clássica entre ativo e passivo contingente.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q128 (gab. D · preliminar)
+> **Trecho usado:** "A única variável que muda entre as três é a probabilidade"
+> **Como cobrou:** literalidade — item III: "Todo passivo contingente deve ser reconhecido no balanço patrimonial pelo seu valor máximo estimado." (falso: passivo contingente possível só se divulga, como diz a tabela acima); o item I repete a definição de provisão ("passivo de prazo ou valor incertos") e o II descreve passivo contingente ("obrigação possível, cuja existência será confirmada apenas pela ocorrência ou não de eventos futuros incertos"). A certa é "(D) I e II, apenas."
+> **Lastro:** PDF p. 16 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q128]]
+
+> [!tip]- Lupa de prova: passivo contingente: divulgar ou reconhecer
+> **O padrão:** a prova dá três afirmações sobre provisão e passivo contingente; a certa junta a definição de provisão (passivo de prazo ou valor incertos) e a de passivo contingente (obrigação possível, confirmada só por eventos futuros incertos, definição que a nota ainda não traz), e o item errado troca o que se faz com o passivo contingente. (padrão de 1 prova, não confirmado)
+> **A armadilha:** item III: "Todo passivo contingente deve ser reconhecido no balanço patrimonial pelo seu valor máximo estimado." — troca "divulgar" por "reconhecer" e põe "todo" e "valor máximo" onde a regra depende da probabilidade.
+> **Como resolver:** use a tabela de probabilidade da nota: só o provável tem registro contábil; o possível não se registra e é divulgado em notas explicativas; o remoto nem isso. Passivo contingente possível nunca entra no balanço.
 
 #### Lançamentos
 
@@ -1549,12 +1611,12 @@ O **Grupo de Sociedades** publicará → Demonstrações Consolidadas (compreend
 |🚨 Nas **Demonstrações Consolidadas** serão **Excluídas:**<br><br>- **Participações** de uma **sociedade em outra.**<br>- **Saldos** de quaisquer contas **entre as sociedades.**<br>- Parcelas dos resultados do exercício, dos lucros ou prejuízos acumulados e do custo de estoques ou do ativo não circulante que corresponderem a **resultados, ainda não realizados, de negócios entre as sociedades.**|
 
 ### 2. Definições
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 📌 **Demonstrações Consolidadas** ⇒ são as **DC's de grupo econômico,** em que os ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora e de suas controladas são apresentados **como se fossem uma única entidade** econômica.
 
   
-📌 **Controle de Investida** ⇒ Um investidor controla a investida quando está exposto a, ou tem **direitos sobre, retornos variáveis** decorrentes de seu envolvimento com a investida e tem a **capacidade de afetar** esses retornos **por meio de seu poder** sobre a investida.
+📌 **Controle de Investida** ⇒ <mark class="prova" style="background:rgba(0,170,170,0.28)">Um investidor controla a investida quando está exposto a, ou tem **direitos sobre, retornos variáveis** decorrentes de seu envolvimento com a investida e tem a **capacidade de afetar** esses retornos **por meio de seu poder** sobre a investida</mark>.
 
 - **Poder** ⇒ são direitos existentes que dão a **capacidade atual de dirigir as atividades relevantes.**
     - **Atividades Relevantes** ⇒ Atividades da investida que **afetam significativamente os retornos** da investida.
@@ -1603,7 +1665,7 @@ Lucros e Dividendos da investida **Não Alteram** o **valor dos investimentos da
 **Método de Equivalência Patrimonial (MEP)  
 **
 
-- O investimento em **coligada, em controlada e em empreendimento controlado em conjunto** deve ser contabilizado pelo **MEP** a partir da data em que o investimento se tornar sua coligada, controlada ou empreendimento controlado em conjunto.
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">O investimento em **coligada, em controlada e em empreendimento controlado em conjunto** deve ser contabilizado pelo **MEP**</mark> a partir da data em que o investimento se tornar sua coligada, controlada ou empreendimento controlado em conjunto.
 
 - Os **Valores das Transações** devem ser reconhecidos:   
     - **Inicialmente** pelo valor de **Custo.**
@@ -1613,14 +1675,30 @@ Lucros e Dividendos da investida **Não Alteram** o **valor dos investimentos da
 - - ⚠️ A entidade **deve aplicar o CPC 31** em investimento, ou parcela de investimento, em coligada ou em controlada, ou em empreendimento controlado em conjunto que se enquadre nos critérios requeridos para sua classificação como **“mantido para venda”.**
         - **Qualquer Parcela** retida de investimento em coligada ou em controlada, ou em empreendimento controlado em conjunto, que **não** tenha sido **classificada como “mantido para venda”,** deve ser contabilizada por meio do uso do **MEP** até o momento da baixa efetiva da parcela classificada como mantido para venda.
 
-### 3. Controle
-- [ ] status [dom:: 0] [peso:: 3]
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q127 e Q136 (gab. C e E · preliminar)
+> **Trecho usado:** Q127: "O investimento em coligada, em controlada e em empreendimento controlado em conjunto deve ser contabilizado pelo MEP" · Q136: "Um investidor controla a investida quando está exposto a, ou tem direitos sobre, retornos variáveis decorrentes de seu envolvimento com a investida"
+> **Q127 — como cobrou:** troca de termo — "Uma sociedade possui influência significativa sobre outra entidade, sem, contudo, exercer controle sobre ela": a certa é "(C) método da equivalência patrimonial."; as erradas trocam por "(A) valor residual do patrimônio líquido", "(D) regime de caixa" e "(E) método da consolidação integral".
+> **Q136 — como cobrou:** troca de termo — Alfa tem "poder sobre as políticas financeiras e operacionais relevantes" de Beta, "exposta a retornos variáveis" e com "capacidade de utilizar seu poder para afetar esses retornos"; a certa é "(E) controladora e controlada." e a errada "(A) controlada e coligada." troca os papéis. A lupa está em [[#3. Controle]].
+> **Lastro:** Q127: PDF p. 16 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q127]] · Q136: PDF p. 17 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q136]]
 
-O Investidor **Controla** a investida **se possuir todos os atributos:**
+### 3. Controle
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+
+<mark class="prova" style="background:rgba(0,170,170,0.28)">O Investidor **Controla** a investida **se possuir todos os atributos:**</mark>
 
 - **Poder** sobre a investida.
 - Exposição a, ou **direitos sobre, retornos variáveis** decorrentes de seu envolvimento com a investida.
 - A **Capacidade** de utilizar seu poder sobre a investida para **afetar** o valor de seus **retornos.**
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q136 (gab. E · preliminar)
+> **Trecho usado:** "O Investidor Controla a investida se possuir todos os atributos: Poder sobre a investida"
+> **Como cobrou:** troca de termo — Alfa tem "poder sobre as políticas financeiras e operacionais relevantes" de Beta, "exposta a retornos variáveis" e com "capacidade de utilizar seu poder para afetar esses retornos"; a certa é "(E) controladora e controlada." e a errada "(A) controlada e coligada." troca os papéis.
+> **Lastro:** PDF p. 17 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q136]]
+
+> [!tip]- Lupa de prova: controle × influência significativa
+> **O padrão:** a prova descreve os três atributos de controle (poder, retornos variáveis, capacidade de usar o poder para afetá-los) e pede a classificação das duas sociedades; a certa é controladora e controlada. (padrão de 1 prova, não confirmado)
+> **A armadilha:** as erradas trocam a relação: "(A) controlada e coligada" e "(B) coligada e investidora sem influência significativa"; coligada é a que só tem influência significativa.
+> **Como resolver:** confira os três atributos da lista acima: com todos eles há controle (controladora e controlada); só o poder de participar nas decisões financeiras e operacionais, presumido a partir de 20% dos votos, é influência significativa e faz a coligada (ver 2. Definições).
 
 **4. Requisitos Contábeis**
 
@@ -1778,13 +1856,13 @@ Lucro líquido ajustado, que é a base de cálculo:
 | (−) Reserva de incentivos fiscais |
 | (−) Reserva para debêntures |
 
-⚠️ **As reservas usadas no ajuste são as constituídas no ano da distribuição** — não as que já vinham de anos anteriores. É onde a questão costuma pegar.
+⚠️ <mark style="background:#fff88f">**As reservas usadas no ajuste são as constituídas <span class="g-cond">no ano da distribuição</span>**</mark> — não as que já vinham de anos anteriores. É onde a questão costuma pegar.
 
 <mark style="background:#fff88f">O percentual do dividendo obrigatório depende do que o estatuto diz, em três cenários:</mark>
 
 | Situação do estatuto | Dividendo obrigatório |
 | --- | --- |
-| **Omisso** ou nada previsto | **50%** do LLE Ajustado |
+| **Omisso** ou nada previsto | <mark style="background:#fff88f"><span class="g-num">**50%**</span></mark> do LLE Ajustado |
 | **Assembleia altera o estatuto** para introduzir norma sobre o cálculo | não pode ser **inferior a 25%** do LLE Ajustado |
 | **Percentual fixado** em estatuto | usa-se **esse percentual** |
 
@@ -1802,7 +1880,7 @@ O pagamento pode se limitar à parcela do lucro líquido já **realizada**, desd
 # Bloco E:
 
 ## - Apresentação das Demonstrações Contábeis (CPC 26);
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 
 **DEMONSTRATIVOS CONTÁBEIS OBRIGATÓRIOS:**
@@ -1840,9 +1918,14 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/21/assuntos/3856)
 - **Não compensar** ativos e passivos, nem receitas e despesas — a menos que a compensação seja exigida ou permitida por um Pronunciamento. A entidade deve informar ativos, passivos, receitas e despesas **separadamente**.
 - **Frequência:** o conjunto completo de DC's, inclusive informação comparativa, deve ser apresentado **pelo menos anualmente**.
 - 🚨 **Impostos diferidos, ativos ou passivos**, são sempre classificados no **Não Circulante** — regra do CPC 26 (ver tensão com a classificação por prazo do crédito tributário diferido em [[#- Ativo Realizável a Longo Prazo - ARLP;\|ARLP]]).
-- **Ciclo operacional:** tempo entre a aquisição de ativos para processamento e sua realização em caixa ou equivalentes. Se não for claramente identificável, **presume-se 12 meses**.
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">**Ciclo operacional:** tempo entre a aquisição de ativos para processamento e sua realização em caixa ou equivalentes</mark>. Se não for claramente identificável, **presume-se 12 meses**.
 - **Quebra de covenant** (cláusula contratual de dívida): a exigibilidade continua **Circulante** mesmo que o credor tenha concordado, **após** a data do balanço, em não exigir pagamento antecipado. Só vira **Não Circulante** se o credor tiver concordado, **até** a data do balanço, em dar dilação de prazo que termine pelo menos 12 meses após a data do balanço.
 - **Notas Explicativas** devem: apresentar a base de elaboração das DC's e as políticas contábeis específicas usadas; divulgar informação exigida pelos Pronunciamentos que não tenha sido apresentada nas DC's; e prover informação adicional relevante para a compreensão das DC's, mesmo que não exigida.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q134 (gab. D · preliminar)
+> **Trecho usado:** "Ciclo operacional: tempo entre a aquisição de ativos para processamento e sua realização em caixa ou equivalentes"
+> **Como cobrou:** conceito — pede a "classificação contábil dos elementos patrimoniais"; a certa é "(D) Direitos realizáveis no curso normal do ciclo operacional – Ativo Circulante." e as erradas trocam o grupo: "(B) Estoques destinados à venda no curso normal das operações – Ativo Não Circulante", "(A) Capital social integralizado – Passivo Não Circulante" e "(E) Reserva de lucros – Passivo Circulante". Este heading define só o ciclo operacional (12 meses se não identificável), não o critério de circulante.
+> **Lastro:** PDF p. 17 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q134]]
 
 > [!example]- Prova anterior: IBAM 2025 · Mauá · Q36 (gab. B · preliminar)
 > **Trecho usado:** "Notas Explicativas devem: apresentar a base de elaboração das DC's e as políticas contábeis específicas usadas"
@@ -2056,7 +2139,7 @@ Composição:
 | (±) Resultado líquido do exercício — a última linha da DRE |
 | (±) Variação da reserva de reavaliação, quando permitida |
 | (±) Ganhos e perdas atuariais em planos de pensão de **benefício definido** |
-| (±) Ganhos e perdas na conversão cambial de DC de operações no exterior (AAC) |
+| (±) <mark style="background:#fff88f">Ganhos e perdas na conversão cambial de DC de operações no exterior (AAC)</mark> |
 | (±) Ganhos e perdas na remensuração de ativos financeiros disponíveis para venda (AAP) |
 | (±) Ganhos e perdas efetivos com **hedge de fluxo de caixa** |
 | (±) Participação no resultado abrangente de investida avaliada por equivalência |

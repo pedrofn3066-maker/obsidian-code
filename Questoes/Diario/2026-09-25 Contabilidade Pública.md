@@ -4,26 +4,26 @@ data: 2026-09-25
 materia: Contabilidade Pública
 bloco: Cont. Geral e Pública
 assuntos:
-  - "Bens Públicos"
-  - "Inventário. Material Permanente e de Consumo."
-  - "Disponibilidades (MCASP e NBC TSP 12)"
-  - "Créditos e Obrigações (MCASP)"
-  - "Estoques (MCASP e NBC TSP 04)"
-  - "Investimentos Permanentes, em Coligada e Empreendimento Controlado em Conjunto (MCASP e NBC TSP 18)"
-  - "Ativo Imobilizado (MCASP e NBC TSP 07)"
-  - "Ativo Intangível (MCASP e NBC TSP 08)"
-  - "Redução ao Valor Recuperável (MCASP, NBC TSP 09 e 10)"
-  - "Depreciação, Amortização e Exaustão (NBC TSP 07, MCASP, etc.)"
-  - "Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)"
-  - "Receita de Transação sem Contraprestação (MCASP e NBC TSP 01)"
-  - "Receita de Transação com Contraprestação (MCASP e NBC TSP 02)"
-  - "Propriedade para Investimento (MCASP e NBC TSP 06)"
-  - "Custos de Empréstimos (MCASP e NBC TSP 14)"
-  - "Ativo Biológico e Produto Agrícola (MCASP e NBC TSP 26)"
-  - "Combinações no Setor Público (MCASP e NBC TSP 21)"
-  - "NBC TSP 34 - Custos no Setor Público"
-  - "Procedimentos Contábeis Específicos (RPPS, FUNDEB, etc.)"
-slot:
+  - Bens Públicos
+  - Inventário. Material Permanente e de Consumo.
+  - Disponibilidades (MCASP e NBC TSP 12)
+  - Créditos e Obrigações (MCASP)
+  - Estoques (MCASP e NBC TSP 04)
+  - Investimentos Permanentes, em Coligada e Empreendimento Controlado em Conjunto (MCASP e NBC TSP 18)
+  - Ativo Imobilizado (MCASP e NBC TSP 07)
+  - Ativo Intangível (MCASP e NBC TSP 08)
+  - Redução ao Valor Recuperável (MCASP, NBC TSP 09 e 10)
+  - Depreciação, Amortização e Exaustão (NBC TSP 07, MCASP, etc.)
+  - Provisões, Passivos e Ativos Contingentes (MCASP e NBC TSP 03)
+  - Receita de Transação sem Contraprestação (MCASP e NBC TSP 01)
+  - Receita de Transação com Contraprestação (MCASP e NBC TSP 02)
+  - Propriedade para Investimento (MCASP e NBC TSP 06)
+  - Custos de Empréstimos (MCASP e NBC TSP 14)
+  - Ativo Biológico e Produto Agrícola (MCASP e NBC TSP 26)
+  - Combinações no Setor Público (MCASP e NBC TSP 21)
+  - NBC TSP 34 - Custos no Setor Público
+  - Procedimentos Contábeis Específicos (RPPS, FUNDEB, etc.)
+slot: S3
 total: 22
 acertos: 12
 tempo_min:

@@ -16,6 +16,7 @@ tags:
 - **Fórmulas de índices trocadas por "quase certo"** — 2 erros (liquidez seca marcada como corrente; participação de capital de terceiros com só o PNC no numerador). O padrão: memorizar por decoreba sem entender o que cada índice exclui/inclui erra fácil quando a banca troca uma palavra da fórmula.
 - **Cálculo de rentabilidade usando a base errada** — 2 erros (ROE calculado sobre o Passivo em vez do Patrimônio Líquido; giro/margem com ativo total em vez de ativo total **médio**, quando o enunciado fornece a média). Sempre conferir qual base o enunciado está pedindo antes de aplicar a fórmula decorada.
 - **Matéria 100% nova** — sem histórico de estudo antes deste caderno; todo o bloco "Análise das demonstrações" foi escrito do zero em [[P1 - Contabilidade Geral#Análise das demonstrações]] em 2026-09-24, a partir de fórmulas buscadas na internet (não havia fonte no vault nem no VINTEUM).
+- **Qual demonstração responde a pergunta + leitura da liquidez (caderno C06 CTBG Ninja, 30/09/2026):** 3 dos 5 erros do caderno vieram daqui. Em #3822815 marquei DVA para "destino do lucro" (é DMPL) e em #3363522 marquei DRE para "capacidade de pagar o curto prazo" (é o Balanço); em #3872710 inverti a leitura da liquidez corrente excessiva (ineficiência, não risco). Falta no cofre a finalidade comparada de cada demonstração e a ressalva de que liquidez alta demais é ativo ocioso.
 
 ---
 
@@ -475,3 +476,89 @@ tags:
 > > [!info] 🔗 Na matéria
 > > [[P1 - Contabilidade Geral#Alavancagem Operacional × Alavancagem Financeira|P1 — Alavancagem Operacional × Financeira]] · [[P2 - Contabilidade Avançada e de Custos#- Alavancagem Operacional (GAO)|Avançada — Bloco C (GAO)]] — mesmo índice, duas notas ligadas.
 > > **Fonte:** TEC (comentário da questão, cita material próprio de MBA em Controladoria e Finanças)
+
+### 30/09
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Contabilidade Geral · FGV (Analista Legislativo, ALEGO, 2026) — DMPL: demonstração que mostra o destino do lucro
+> Em 31/12/2025, uma entidade apresentou lucro de R$ 180.000.
+>
+> Um analista desejava obter informações sobre a parcela do lucro que seria reinvestida na entidade, suas apropriações e distribuições.
+>
+> Para isso, é necessário analisar a seguinte demonstração
+>
+> (A) Balanço Patrimonial.
+> (B) Demonstração do Resultado.
+> (C) Demonstração dos Fluxos de Caixa.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) Demonstração do Valor Adicionado.</mark>
+> <mark style="background:#affad1">(E) Demonstração das Mutações do Patrimônio Líquido.</mark>
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 E
+>
+> > [!success] ✅ Resposta — E: DMPL
+> > A pergunta é pelo **caminho do lucro** dentro da entidade (reservas, distribuição, retenção): <mark style="background:#fff88f">a DMPL evidencia todas as movimentações das contas do patrimônio líquido no período</mark>, incluindo lucro, reservas e dividendos.
+> >
+> > **(D)** erra: a DVA mostra a **riqueza gerada e distribuída** a empregados, governo, financiadores e sócios, não a destinação do lucro contábil. **(B)** só apura o lucro (R$ 180.000), sem seu destino. **(A)** mostra saldos em uma data, sem as movimentações. **(C)** trata de entradas e saídas de caixa.
+>
+> > [!example]- 🧩 Quadro — que pergunta cada demonstração responde
+> > | Demonstração | Responde | Não responde |
+> > | --- | --- | --- |
+> > | BP | posição patrimonial em uma data | o que moveu os saldos |
+> > | DRE | como se chegou ao lucro | para onde o lucro foi |
+> > | DFC | entradas e saídas de caixa | destinação do lucro |
+> > | DVA | quem recebeu a riqueza gerada (empregados, governo, financiadores, sócios) | destinação do lucro contábil |
+> > | DMPL | movimentação de todas as contas do PL: lucro, reservas, dividendos | — |
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > "Distribuição" aparece nas duas: a DVA distribui **riqueza** entre agentes; a DMPL mostra a **destinação do lucro** (reservas, dividendos, retido). A palavra "distribuições" no enunciado não aponta a DVA.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Contabilidade Geral#DFC, DMPL e DVA]] e [[P2 - Contabilidade Avançada e de Custos#- Demonstração de Mudança do Patrimônio Líquido (DMPL);|DMPL]] (Avançada, linha 2076: superconjunto da DLPA, mais abrangente do PL) — a finalidade comparada de cada demonstração (BP, DRE, DFC, DVA) **não está no cofre**; nada grifado.
+> > **Fonte:** cofre `MATERIAS/P2 - Contabilidade Avançada e de Custos.md:2076` · comentário do TEC (cita CPC 26 e Lei 6.404/76) · TEC #3822815
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Contabilidade Geral · CEBRASPE (Agente Fazendário Estadual, SEFAZ PR, 2026) — Liquidez corrente excessivamente alta: ineficiência operacional
+> Os indicadores de liquidez são amplamente utilizados na avaliação da capacidade de uma empresa honrar suas obrigações. Entre eles, a liquidez corrente é frequentemente interpretada como sinal de segurança financeira. Contudo, níveis excessivamente elevados de liquidez nem sempre representam uma situação desejável, pois podem ser interpretados como
+>
+> <mark style="background:#affad1">(A) ineficiência operacional.</mark>
+> (B) fragilidade patrimonial.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(C) aumento do risco financeiro.</mark>
+> (D) redução do capital de giro.
+> (E) garantia de baixa rentabilidade.
+>
+> **Marquei:** 🟥 C · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: ineficiência operacional
+> > Liquidez Corrente = <mark style="background:#fff88f">Ativo Circulante ÷ Passivo Circulante</mark>. Quando fica **excessivamente** alta, a empresa mantém recursos demais em ativo circulante sem aplicá-los: caixa ocioso, estoques excessivos, duplicatas a receber altas (crédito frouxo).
+> >
+> > **(C)** inverte: liquidez alta **reduz** o risco financeiro de curto prazo; o risco sobe quando a liquidez é baixa. **(B)** inverte: muito ativo circulante fortalece o patrimônio. **(D)** inverte: capital de giro = AC − PC, então sobe com a liquidez. **(E)** erra pelo "garantia": liquidez alta *pode* se associar a baixa rentabilidade, mas não garante.
+>
+> > [!warning] ⚠️ Pegadinha da banca
+> > O enunciado cobra a ressalva contra a regra "quanto maior, melhor". Duas alternativas parecem negativas (B, C) mas contradizem a leitura da liquidez alta; "garantia" em (E) é o absolutismo que a banca usa para derrubar uma alternativa quase certa.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Contabilidade Geral#Índices de Liquidez]] — traz as fórmulas (LC, LS, LI, LG), mas diz "quanto maior, melhor" e só a Liquidez Imediata tem a ressalva de caixa parado; a leitura de **liquidez corrente excessiva = ativo ocioso** **não está no cofre**. Não alterei a nota.
+> > **Fonte:** cofre (parcial) `MATERIAS/P1 - Contabilidade Geral.md:221` · comentário do TEC · TEC #3872710
+
+> [!question]- 30/09 (mesma captura, sem hora registrada) · Contabilidade Geral · FGV (Analista de Controle Interno, Pref. Canaã dos Carajás, 2025) — Demonstração que mostra a capacidade de pagar obrigações de curto prazo
+> Uma pessoa recebe uma proposta de emprego. Ela deseja verificar se a entidade que fez a proposta parece ter recursos suficientes para pagar as suas obrigações de curto prazo.
+>
+> Assinale a opção que indica a demonstração contábil em que a pessoa pode obter essa informação de forma direta.
+>
+> <mark style="background:#affad1">(A) Balanço patrimonial.</mark>
+> (B) Demonstração dos fluxos de caixa.
+> (C) Demonstração do valor adicionado.
+> <mark style="background:rgba(163, 67, 31, 0.2)">(D) Demonstração do resultado do exercício.</mark>
+> (E) Demonstração das mutações do patrimônio líquido.
+>
+> **Marquei:** 🟥 D · **Gabarito:** 🟩 A
+>
+> > [!success] ✅ Resposta — A: Balanço Patrimonial
+> > O BP separa <mark style="background:#fff88f">Ativo Circulante e Passivo Circulante</mark>, e é a relação entre os dois que mostra, **de forma direta**, se há recursos para as obrigações de curto prazo (base da liquidez corrente, AC/PC; Lei 6.404/76, art. 178).
+> >
+> > **(D)** erra: a DRE mede desempenho (receitas e despesas), não o que há disponível frente ao que vence. **(B)** mostra entradas e saídas de caixa, mas não o total das obrigações em aberto. **(C)** e **(E)** não tratam de capacidade de pagamento.
+>
+> > [!tip] 💡 Macete
+> > Liquidez e solvência saem do **BP** (estoque, em uma data); DRE, DFC e DVA mostram **fluxos do período**.
+>
+> > [!info] 🔗 Na matéria
+> > [[P1 - Contabilidade Geral#Índices de Liquidez]] — as fórmulas (AC / PC e variações) já estão; a pergunta "qual demonstração mostra direto" é a mesma de [[ERRO CONTABILIDADE GERAL#💭 Dúvidas respondidas|DMPL (#3822815)]] e não está escrita como tal. Nada grifado.
+> > **Fonte:** cofre `MATERIAS/P1 - Contabilidade Geral.md:221` · comentário do TEC, com Lei 6.404/76 art. 178 · TEC #3363522

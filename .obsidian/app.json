@@ -24,5 +24,6 @@
   },
   "foldHeading": false,
   "foldIndent": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "defaultViewMode": "preview"
 }

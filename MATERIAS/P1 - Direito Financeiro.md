@@ -479,7 +479,7 @@ CF/88, Art. 165 §7º — <mark style="background:#fff88f">os orçamentos fiscal
 *Fonte destes tópicos (Receita e Despesa, Bloco C): Lei nº 4.320/1964, arts. 2º a 98 (PDF didático, ed. 2 colunas). Origem por página: `(Lei 4.320, p. N)`.*
 
 ### Conceitos Gerais (Orçamentária e Extraorçamentária, Afetação Patrimonial, Regularidade, Coercitividade)
-- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
+- [x] status [dom:: 2] [peso:: 2] [prova:: 1] ✅ 2026-09-26
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1524?indice=1&materia=1486)
 
 <mark>Receita orçamentária</mark> é a que integra o total da Lei de Orçamento e se sujeita aos estágios de previsão, lançamento, arrecadação e recolhimento. Pelo art. 57, ressalvada a exceção do art. 3º, parágrafo único, classificam-se como receita orçamentária **todas as receitas arrecadadas**, sob as rubricas próprias, inclusive as provenientes de operações de crédito, **ainda que não previstas no Orçamento** (Lei 4.320, p. 22-23).
@@ -555,7 +555,7 @@ A receita se classifica em duas <mark>categorias econômicas</mark>: **Receitas 
 > **O erro clássico:** dizer que o superávit corrente não é receita de capital (ele é, por classificação) ou que ele soma normalmente ao total da receita orçamentária (não soma; é o parágrafo seguinte que retira).
     
 ### Classificação da Receita por Esfera Orçamentária
-- [ ] status [dom:: 2] [peso:: 2]
+- [x] status [dom:: 2] [peso:: 2] ✅ 2026-09-26
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1466?indice=1&materia=1486)
 
 *Fonte: MCASP 11ª ed., Parte I, itens 3.2 (p. 37), 4.2.3.3 (p. 76) e 4.3 (p. 98-99).*
@@ -649,7 +649,7 @@ A <mark>Classificação da Receita para Apuração do Resultado Primário</mark>
 > - [[P1 - Macro Economia#- Dívida Pública, NFSP e Tipos de Déficit Público no Brasil]]: resultado primário x nominal, na ótica macroeconômica.
     
 ### Estágios da Receita Pública
-- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
+- [x] status [dom:: 2] [peso:: 2] [prova:: 1] ✅ 2026-09-26
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1503?indice=1&materia=1486)
 
 A receita percorre quatro estágios: <mark>previsão</mark> → <mark>lançamento</mark> → <mark>arrecadação</mark> → <mark>recolhimento</mark>.
@@ -690,7 +690,7 @@ A receita percorre quatro estágios: <mark>previsão</mark> → <mark>lançament
 > - [[P2 - CASP#1.REGIMES ORÇAMENTÁRIO E PATRIMONIAL]]: no enfoque orçamentário a receita usa regime de **caixa** (reconhecida na arrecadação); no patrimonial, regime de **competência** (reconhecida no lançamento) — mesma dualidade que a nota de CASP já detalha.
     
 ### Dívida Ativa
-- [ ] status [dom:: 2] [peso:: 2]
+- [x] status [dom:: 2] [peso:: 2] ✅ 2026-09-26
 (https://www.tecconcursos.com.br/aulas/materias/69/assuntos/1491?indice=1&materia=1486)
 
 *Fonte: Lei nº 4.320/1964, arts. 39 e 39-A. Origem: `(Lei 4.320, p. 15-18)`.*
@@ -731,7 +731,7 @@ A Dívida Ativa da **União** é apurada e inscrita na **Procuradoria da Fazenda
 
 
 ## - Despesa: Conceitos, classificações e estágio
-- [ ] status [dom:: 2] [peso:: 2]
+- [x] status [dom:: 2] [peso:: 2] ✅ 2026-09-26
 
 *Fonte: Lei nº 4.320/1964, arts. 12-13 (classificação) e 47-65 (estágios). Origem por página: `(Lei 4.320, p. N)`.*
 
@@ -823,7 +823,7 @@ As <mark>Despesas de Exercícios Encerrados (DEA)</mark> são as despesas para a
 > - [[P1 - Direito Financeiro#- Restos a pagar]]: o lado "já empenhado" dessa mesma distinção.
 > - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)]]: o art. 42 da LRF (vedação de deixar obrigação sem caixa no fim do mandato) trata do mesmo risco que gera DEA.
 ## - Restos a pagar
-- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
+- [x] status [dom:: 2] [peso:: 2] [prova:: 1] ✅ 2026-09-26
 
 *Fonte: Lei nº 4.320/1964, arts. 36, 38 e 92 (dívida flutuante) e 98 (dívida fundada). Origem: `(Lei 4.320, p. N)`.*
 
@@ -1469,6 +1469,231 @@ Os pagamentos devidos pela Fazenda Pública em virtude de **sentença judiciári
 > [!info]- Ponte
 > - [[P1 - Direito Constitucional#Dos Precatórios (art. 100 da CF/1988)]]: o lastro do art. 100 (preferências, RPV, prazo de 1º de fevereiro, sequestro, cessão, teto por RCL do § 23) está na nota de Constitucional.
 
+# Bloco E:
+
+> [!warning]- Pendência geral do Bloco E
+> A seção **Novo Arcabouço Fiscal (LC 200/2023)** já foi refeita a partir do texto oficial da lei (`/absorver-pdf`, `leicomplementar-200-30-agosto-2023-794631-normaatualizada-pl.pdf`), com página citada em cada trecho. As outras três seções (Lei 10.028/2000, LC 178/2021, LC 159/2017) **seguem sem PDF/texto oficial conferido no cofre** — conteúdo do conhecimento geral da legislação, com boa confiança na arquitetura, mas números exatos (percentuais, prazos, penas, incisos) ainda precisam de checagem no texto oficial ou de importação via `/absorver-pdf`. Trate os quadros dessas três como estrutura de estudo, não como citação literal.
+
+## - Novo Arcabouço Fiscal (LC 200/2023)
+- [ ] status [dom:: 0] [peso:: 2]
+
+*Fonte: LC nº 200/2023 (texto oficial, Câmara dos Deputados, norma atualizada até a LC 223/2025). Substitui o teto de gastos da EC 95/2016 como regra fiscal de médio prazo da União. Origem por página: `(LC 200/2023, p. N)`.*
+
+**Fundamento, alcance e medidas de ajuste (art. 1º)** (p. 1)
+
+- Instituído com base no art. 6º da EC 126/2022 e no art. 163, VIII e parágrafo único, da CF. Aplica-se só às **receitas e despesas primárias** dos orçamentos fiscal e da seguridade social **da União** (§1º, I) — <mark>não afasta</mark> as limitações e condicionantes da LRF sobre geração de despesa e renúncia de receita (§1º, II).
+- §2º: a política fiscal deve manter a dívida em níveis sustentáveis, prevenindo riscos e promovendo ajuste em caso de desvio. §3º: são medidas de ajuste fiscal (I) resultado fiscal compatível com a sustentabilidade da dívida; (II) limites ao crescimento da despesa; (III) as vedações dos incisos I a X do art. 167-A da CF; e (IV) a recuperação e a gestão de receitas públicas.
+
+> [!quote]- Texto literal: Art. 1º, §1º, I e II (LC 200/2023, p. 1)
+> § 1.º O disposto nesta Lei Complementar: I - aplica-se às receitas primárias e às despesas primárias dos orçamentos fiscal e da seguridade social da União; II - não afasta as limitações e as condicionantes para geração de despesa e de renúncia de receita estabelecidas na Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), observadas as disposições da lei de diretrizes orçamentárias (...).
+
+**Meta de resultado primário (art. 2º)** (p. 2)
+
+- A LDO fixa as metas anuais de resultado primário do **Governo Central**, para o exercício a que se referir e para os **3 seguintes**, compatíveis com a trajetória sustentável da dívida (caput). §1º: é compatível manter metas até a **estabilização da relação DBGG/PIB** (Dívida Bruta do Governo Geral), no Anexo de Metas Fiscais da LDO (já detalhado no art. 4º, §5º, da LRF, em [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)|Bloco VII]]).
+- §4º: quem apura o **resultado primário** e a relação **DBGG/PIB** é o <mark>Banco Central do Brasil</mark>.
+
+**Limites individualizados por Poder/órgão (art. 3º)** (p. 2–4)
+
+Diferente da LRF (que segrega só o limite de **pessoal** por Poder — art. 20), o NAF segrega o limite de **toda a despesa primária** sujeita a ele, um por grupo:
+
+| Grupo (art. 3º, incisos) | Abrangência |
+| --- | --- |
+| I | Poder Executivo federal |
+| II | STF, STJ, CNJ, Justiça do Trabalho, Federal, Militar da União, Eleitoral e do DF e Territórios (Judiciário) |
+| III | Senado, Câmara dos Deputados e TCU (Legislativo) |
+| IV | MPU e CNMP |
+| V | Defensoria Pública da União |
+
+- §1º: o limite de 2024 parte das dotações primárias da Lei nº 14.535/2023 (LOA 2023), corrigidas pelos arts. 4º e 5º; nos exercícios seguintes, parte do limite do exercício anterior, também corrigido.
+- §2º: **não entram** na base de cálculo nem no limite (rol de 10 incisos): (I) transferências constitucionais (FPE, FPM, royalties, arts. 157–159 e 212, §6º, CF, entre outras); (II) créditos extraordinários (art. 167, §3º, CF); (III) despesas custeadas por doações ou acordos de reparação por desastre; (IV) despesas de universidades e institutos federais custeadas por receita própria, convênios ou contratos; (V) despesas custeadas por transferências de outros entes para obras e serviços de engenharia; (VI) e (VII) despesas para cumprir precatórios dos §§ 11, 20 e 21 do art. 100 da CF e o § 3º do art. 107-A do ADCT; (VIII) despesas não recorrentes da Justiça Eleitoral com eleições; (IX) certas transferências legais (Lei 11.284/2006 e Lei 13.240/2015); (X, desde 2025) despesas temporárias de educação e saúde da Lei nº 15.164/2025.
+- §3º: os limites de despesa das **autonomias financeiras** constitucionais (STF, TCU, MPU, DPU — arts. 51, IV; 52, XIII; 99, §1º; 127, §3º; 134, §3º, CF) **não podem superar** os limites fixados por este artigo.
+- §6º: o cálculo do limite do Executivo federal considera a despesa com as transferências aos fundos de saúde dos entes subnacionais para custeio dos **pisos salariais da enfermagem** (art. 198, §§12–15, CF).
+- §7º: os limites de pagamento e movimentação financeira não podem ultrapassar os limites orçamentários deste artigo, **exceto** quando as estimativas de receita/despesa indicarem que a meta de resultado primário não será comprometida.
+- §8º: respeitado o somatório de cada inciso (II a IV), a LDO pode dispor sobre **compensação** entre os limites individualizados dos órgãos do mesmo inciso.
+
+> [!quote]- Texto literal: Art. 3º, §2º, I, II e X (LC 200/2023, p. 3–4)
+> § 2.º Não se incluem na base de cálculo e nos limites estabelecidos neste artigo: I - as transferências estabelecidas no § 1º do art. 20 (...) todos da Constituição Federal; II - os créditos extraordinários a que se refere o § 3º do art. 167 da Constituição Federal; (...) X - a partir de 2025, as despesas temporárias com educação pública e saúde de que trata o art. 6º da Lei nº 15.164, de 14 de julho de 2025. (Inciso acrescido pela Lei Complementar nº 223, de 19/12/2025)
+
+**Correção dos limites (art. 4º) e variação real da despesa (arts. 5º e 5º-A)** (p. 4–5)
+
+- Art. 4º: os limites são corrigidos a cada exercício pela variação acumulada do <mark>IPCA</mark> (12 meses encerrados em junho do exercício anterior), **acrescida** da variação real calculada pelo art. 5º. §1º-2º: a diferença entre a correção pelo IPCA e o valor apurado ao final do exercício pode ampliar o limite do Executivo via crédito, sem incorporar à base dos exercícios seguintes (exceto os créditos abertos em 2024).
+- Art. 5º: a variação **real** dos limites de despesa primária fica limitada, em relação à variação real da **receita primária** (não é a RCL da LRF — ver lupa abaixo), a: (I) **70%**, se a meta de resultado primário do exercício anterior foi cumprida; ou (II) **50%**, se não foi cumprida. §1º: essa variação real não é inferior a **0,6% a.a.** nem superior a **2,5% a.a.**
+- §2º: a "receita" de referência é a receita primária total do Governo Central, **deduzidos**: (I) receitas de concessões e permissões; (II) receitas de dividendos e participações; (III) receitas de exploração de recursos naturais; (IV) receitas do art. 121, parágrafo único, do ADCT; (V) receitas de programas de recuperação fiscal criados após a LC 200/2023; (VI) transferências legais/constitucionais por repartição de receitas primárias (descontadas as decorrentes dos incisos I a V).
+- §3º: a meta é considerada **cumprida** se o resultado primário apurado pelo BC for superior ao **limite inferior** do intervalo de tolerância, em **valores nominais**. §4º: a variação real da receita usa os 12 meses até junho do exercício anterior, descontado o IPCA acumulado no mesmo período.
+- Art. 5º-A (LC 211/2024): o crescimento de despesa decorrente de **criação ou prorrogação de benefícios da seguridade social** pela União também se sujeita às regras de correção dos arts. 4º e 5º.
+
+> [!quote]- Texto literal: Art. 5º, caput, I e II, e §1º (LC 200/2023, p. 4–5)
+> Art. 5º A variação real dos limites de despesa primária (...) será cumulativa e ficará limitada, em relação à variação real da receita primária (...) às seguintes proporções: I - 70% (...) caso a meta de resultado primário (...) tenha sido cumprida (...); ou II - 50% (...) caso (...) não tenha sido cumprida (...). § 1.º O crescimento real dos limites da despesa primária (...) não será inferior a 0,6% a.a. (...) nem superior a 2,5% a.a. (...).
+
+> [!tip]- Lupa: a mecânica do cálculo, passo a passo — e por que não é a RCL da LRF
+> **A ideia em uma frase:** o espaço para a despesa primária crescer no ano seguinte é uma fração do crescimento real da própria **receita primária** do Governo Central (com deduções próprias do art. 5º, §2º) — uma base **diferente** da RCL que você já usa para os limites de pessoal e dívida da LRF.
+>
+> **Passo a passo:**
+> 1. Apura-se a variação real da receita primária (deduzida) nos 12 meses até junho do exercício anterior, descontado o IPCA do período (art. 5º, §§2º e 4º).
+> 2. Aplica-se o percentual de repasse: 70% se a meta do exercício anterior foi cumprida (em valores nominais, contra o limite inferior da banda); 50% se não foi.
+> 3. O resultado é travado entre o piso de 0,6% a.a. e o teto de 2,5% a.a., em termos reais (art. 5º, §1º).
+> 4. Separadamente, os limites nominais de cada Poder/órgão (art. 3º) são corrigidos todo ano pelo IPCA acumulado, e só depois somam essa variação real (art. 4º).
+>
+> **O erro clássico:** chamar a base do art. 5º de "RCL" (ela é a **receita primária do Governo Central**, com deduções próprias — concessões, dividendos, recursos naturais etc.) ou esquecer que a correção tem **dois componentes** (IPCA + variação real), não só um.
+
+**Vedações-gatilho: descumprir a meta (arts. 6º, 6º-A e 6º-B) ou ter orçamento rígido demais (art. 8º)** (p. 5–7)
+
+- Art. 6º: se o resultado primário do exercício anterior ficar **abaixo** do limite inferior da banda de tolerância, aplicam-se **imediatamente**, até a próxima apuração anual, as vedações dos incisos **II, III e VI a X** do art. 167-A da CF. §1º: se o descumprimento se repetir por **2 anos consecutivos**, aplicam-se **todas** as vedações (incisos **I a X**) do art. 167-A, enquanto durar. §2º: o Presidente pode propor PL complementar para suspender ou gradar as vedações, demonstrando compensação suficiente. §3º: a vedação do inciso VIII do art. 167-A não se aplica a reajustes do **salário mínimo** decorrentes da lei de valorização.
+- Art. 6º-A (LC 211/2024): em caso de **déficit primário** (não apenas meta não cumprida) do Governo Central, a partir de 2025, ficam vedados no exercício seguinte, até constatar superávit: (I) lei que conceda, amplie ou prorrogue **benefício tributário**; (II) até 2030, programar crescimento real da despesa de pessoal acima do índice inferior do art. 5º, §1º (0,6%), excluídas as despesas por sentença judicial. Parágrafo único: essas vedações podem deixar de ser aplicadas em **calamidade pública** reconhecida pelo Congresso (art. 65, LRF).
+- Art. 6º-B (LC 211/2024): a partir do PLOA de 2027, se as despesas **discricionárias totais** tiverem **redução nominal** ano a ano, ficam vedadas as mesmas duas hipóteses do art. 6º-A, até as discricionárias voltarem a crescer nominalmente.
+- Art. 8º: quando a despesa primária **obrigatória** superar **95%** da despesa primária **total** sujeita aos limites do art. 3º, aplicam-se **imediatamente** as vedações dos incisos **I a IX** do art. 167-A. §1º: também cabe PL de suspensão/gradação. §2º: mesma exceção do salário mínimo.
+
+> [!quote]- Texto literal: Art. 6º, caput e §1º; Art. 8º, caput (LC 200/2023, p. 5–7)
+> Art. 6º Caso o resultado primário do Governo Central apurado, relativo ao exercício anterior, seja menor que o limite inferior do intervalo de tolerância da meta (...) aplicam-se imediatamente, até a próxima apuração anual (...) as vedações previstas nos incisos II, III e VI a X do art. 167-A da Constituição Federal. § 1.º Caso o resultado (...) seja, pelo segundo ano consecutivo, menor que o limite inferior (...), aplicam-se, imediatamente, enquanto perdurar o descumprimento, as vedações previstas nos incisos I a X do art. 167-A da Constituição Federal.
+>
+> Art. 8º Quando verificado (...) que (...) a proporção da despesa primária obrigatória em relação à despesa primária total foi superior a 95% (...), aplicar-se-ão imediatamente as vedações previstas nos incisos I a IX do caput do art. 167-A da Constituição Federal.
+
+> [!tip]- Lupa: dois gatilhos diferentes, incisos diferentes do mesmo art. 167-A
+> **A ideia em uma frase:** o art. 167-A da CF (regra de ouro ampliada / "PEC emergencial") vira uma **caixa de ferramentas** de vedações que o NAF aciona por **motivos e escopos diferentes** conforme o artigo.
+>
+> | Gatilho | Motivo | Incisos do art. 167-A acionados |
+> | --- | --- | --- |
+> | Art. 6º, caput | Não bateu a meta de resultado primário (1º ano) | II, III, VI a X |
+> | Art. 6º, §1º | Não bateu a meta por 2 anos **consecutivos** | I a X (todos) |
+> | Art. 8º | Despesa obrigatória > 95% da despesa primária total (independe de bater meta) | I a IX |
+>
+> **O erro clássico:** achar que qualquer descumprimento já libera **todas** as vedações (só libera todas no 2º ano consecutivo do art. 6º); ou confundir esse gatilho federal do NAF com o gatilho do **próprio** art. 167-A, caput, da CF (relação despesa corrente/receita corrente > 95% em Estados/DF/Municípios) — são vedações do mesmo cardápio, acionadas por regras e para entes diferentes.
+
+**Salvaguarda: quando não é infração à LRF descumprir a meta (art. 7º)** (p. 6–7)
+
+- Não configura infração à LRF o descumprimento do **limite inferior** da meta pelo agente responsável, desde que: (I) tenham sido adotadas as medidas de limitação de empenho e pagamento, preservado o **nível mínimo de despesas discricionárias** necessárias ao funcionamento regular; e (II) não tenha ordenado ou autorizado medida em desacordo com os arts. 6º e 8º.
+- §2º: esse nível mínimo de despesas discricionárias é de **75%** do valor autorizado na LOA. §1º: em calamidade pública nacional, aplica-se o art. 167-B da CF e o art. 65 da LRF.
+
+> [!quote]- Texto literal: Art. 7º, caput e §2º (LC 200/2023, p. 6–7)
+> Art. 7º Não configura infração à Lei Complementar nº 101 (...) o descumprimento do limite inferior da meta de resultado primário, relativamente ao agente responsável, desde que: I - tenha adotado (...) as medidas de limitação de empenho e pagamento, preservado o nível mínimo de despesas discricionárias necessárias ao funcionamento regular da administração pública; e II - não tenha ordenado ou autorizado medida em desacordo com as vedações previstas nos arts. 6º e 8º desta Lei Complementar. (...) § 2.º O nível mínimo de despesas discricionárias necessárias ao funcionamento regular da administração pública é de 75% (...) do valor autorizado na respectiva lei orçamentária anual.
+
+**Excedente de resultado primário e piso de investimento (arts. 9º e 10)** (p. 7–8)
+
+- Art. 9º: se o resultado primário **exceder** o limite **superior** da banda de tolerância, o Executivo federal pode ampliar dotações, por crédito adicional, em até **70% do excedente**, para (I) investimentos (priorizando obras inacabadas, art. 45 da LRF) ou (II) inversões financeiras habitacionais (art. 10, §1º, II). §1º: não vale se houver déficit. §2º: essa ampliação não conta para o mínimo do art. 10. §3º: o teto absoluto dessa ampliação é **0,25 p.p. do PIB** do exercício anterior.
+- Art. 10: a programação de **investimentos** na LOA não pode ser inferior a **0,6% do PIB** estimado. §1º: são os investimentos do GND 4, ou do GND 5 (inversões financeiras) quando destinados a programas habitacionais.
+
+> [!quote]- Texto literal: Art. 9º, caput e §3º; Art. 10, caput (LC 200/2023, p. 7–8)
+> Art. 9º Caso o resultado primário do Governo Central apurado exceda ao limite superior do intervalo de tolerância (...), o Poder Executivo federal poderá ampliar as dotações orçamentárias, em valor equivalente a até 70% (...) do montante excedente, por meio de crédito adicional (...). § 3.º A ampliação (...) não poderá ultrapassar, em qualquer hipótese, o montante de até 0,25 p.p. (...) do PIB do exercício anterior.
+>
+> Art. 10. A programação destinada a investimentos constante do projeto e da lei orçamentária anual não será inferior ao montante equivalente a 0,6% (...) do PIB estimado no respectivo projeto.
+
+> [!tip]- Lupa: os dois "0,6%" do Novo Arcabouço — não são a mesma coisa
+> **A ideia em uma frase:** o NAF usa **0,6%** em dois lugares com significados completamente diferentes — fácil de a banca trocar um pelo outro.
+>
+> - **Art. 5º, §1º** — **0,6% a.a.** é o **piso de crescimento real** da despesa primária (um percentual de variação, ano a ano, sobre o próprio limite de despesa).
+> - **Art. 10, caput** — **0,6% do PIB** é o **piso de investimento** na LOA (um percentual fixo do PIB estimado, aplicado ao volume de investimento, não ao crescimento da despesa).
+>
+> **O erro clássico:** ler "0,6%" numa questão e não checar se é "ao ano, sobre o crescimento da despesa" (art. 5º) ou "do PIB, para investimento" (art. 10) — são unidades de medida diferentes por trás do mesmo número.
+
+**Precatórios do FUNDEF fora do limite (art. 13)** (p. 9)
+
+- Os precatórios decorrentes de demandas de complementação da União aos Estados e Municípios pelo **Fundef** (art. 4º da EC 114/2021) **não entram** na base de cálculo nem no limite do Poder Executivo federal do art. 3º — mais uma exclusão específica, ao lado do rol do art. 3º, §2º.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#- Precatórios|Precatórios]]: esta é uma exclusão específica de precatórios do Fundef; o regime geral de precatórios (ordem de apresentação, proibição de destinar a caso ou pessoa) está detalhado nessa seção, com base no art. 67 da Lei 4.320.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)|LRF Bloco VII]]: o Anexo de Metas Fiscais (art. 4º) e a limitação de empenho (art. 9º) são os instrumentos que a LRF já tinha e que o NAF passou a orientar com a nova meta e a nova banda de despesa — as próprias alterações que a LC 200/2023 fez na redação atual do art. 4º, §5º, e do art. 9º, §4º, da LRF (via seu art. 11) já estão refletidas nesse bloco.
+> - [[P1 - Direito Financeiro#- Vedações orçamentárias na CF 88|Vedações orçamentárias]]: o "gatilho" do art. 167-A, caput, da CF (relação despesa corrente/receita corrente > 95%) é para **Estados, DF e Municípios** — um gatilho **distinto** dos gatilhos federais dos arts. 6º e 8º do NAF, mas que aciona o **mesmo cardápio de vedações** (os incisos do próprio art. 167-A).
+> - [[P1 - Direito Financeiro#- Créditos Adicionais|Créditos Adicionais]]: o crédito do art. 9º do NAF (excedente de resultado primário) é mais uma hipótese de crédito adicional, ao lado das do art. 41 da Lei 4.320.
+
+> [!warning]- Pendência: regras transitórias não distribuídas
+> Não entraram nesta seção o art. 12 (transição para o exercício de 2023) e o art. 14 (crédito suplementar específico de 2024, LC 207/2024) — são regras transitórias de exercícios já encerrados, sem valor de prova hoje. O art. 15 (vigência) também ficou de fora por não ter conteúdo substantivo.
+
+## - Lei de Crimes Fiscais (Lei nº 10.028/2000)
+- [ ] status [dom:: 0] [peso:: 2]
+
+*Fonte: Lei nº 10.028/2000 (texto oficial, Presidência da República/Casa Civil). É o "braço penal e administrativo" da LRF. Origem: `(Lei 10.028/2000, p. 1)` — a lei inteira cabe numa única página corrida.*
+
+A Lei 10.028/2000 fez quatro coisas: (1) alterou o art. 339 do Código Penal (denunciação caluniosa — fora do escopo desta matéria, ver pendência); (2) acrescentou ao **Código Penal** o Capítulo IV do Título XI ("Dos crimes contra as finanças públicas", arts. 359-A a 359-H); (3) alterou a **Lei nº 1.079/1950** (crimes de responsabilidade) e o **DL 201/1967** (crimes de responsabilidade de prefeitos), espelhando as mesmas condutas fiscais para autoridades e para o chefe do Executivo municipal; e (4) tipificou, no seu próprio **art. 5º**, infrações administrativas contra as leis de finanças públicas.
+
+**Os 8 crimes do Código Penal (arts. 359-A a 359-H) — cada um espelha uma violação específica da LRF:**
+
+| Artigo do CP | Conduta | Pena | Artigo da LRF espelhado |
+| --- | --- | --- | --- |
+| 359-A | Ordenar, autorizar ou realizar operação de crédito, interna ou externa, sem prévia autorização legislativa | reclusão, 1 a 2 anos | art. 32 (condições p/ operação de crédito) |
+| 359-B | Ordenar ou autorizar a inscrição em restos a pagar de despesa **não empenhada** ou que **exceda limite legal** | detenção, 6 meses a 2 anos | art. 41 (regime de restos a pagar) |
+| 359-C | Ordenar ou autorizar a assunção de obrigação, **nos dois últimos quadrimestres** do último ano do mandato/legislatura, que não possa ser paga no exercício ou que, com parcela pro exercício seguinte, falte contrapartida de caixa | reclusão, 1 a 4 anos | art. 42 |
+| 359-D | Ordenar despesa não autorizada por lei | reclusão, 1 a 4 anos | arts. 16 e 17 (geração de despesa e DOCC) |
+| 359-E | Prestar garantia em operação de crédito sem contragarantia em valor igual ou superior à garantia prestada | detenção, 3 meses a 1 ano | art. 40 (contragarantia) |
+| 359-F | Deixar de ordenar, autorizar ou promover o cancelamento de restos a pagar inscritos acima do permitido em lei | detenção, 6 meses a 2 anos | art. 42 / disponibilidade de caixa |
+| 359-G | Ordenar, autorizar ou executar ato que aumente a despesa total com pessoal, **nos 180 dias** anteriores ao final do mandato/legislatura | reclusão, 1 a 4 anos | art. 21, parágrafo único |
+| 359-H | Ordenar, autorizar ou promover oferta pública/colocação no mercado de títulos da dívida **sem terem sido criados por lei ou sem estarem registrados** em sistema centralizado de liquidação e custódia | reclusão, 1 a 4 anos | art. 32 (dívida mobiliária) |
+
+- Parágrafo único do art. 359-A: incide na mesma pena quem ordena/autoriza/realiza operação de crédito (I) com inobservância de limite, condição ou montante de lei ou de resolução do Senado; ou (II) quando o montante da dívida consolidada ultrapassa o limite máximo autorizado por lei — <mark>equipara duas hipóteses</mark> ao crime do caput, além da falta de autorização legislativa.
+
+> [!quote]- Texto literal: Art. 359-A, caput e parágrafo único; Art. 359-C; Art. 359-G; Art. 359-H (Lei 10.028/2000, p. 1)
+> Art. 359-A. Ordenar, autorizar ou realizar operação de crédito, interno ou externo, sem prévia autorização legislativa: Pena – reclusão, de 1 (um) a 2 (dois) anos. Parágrafo único. Incide na mesma pena quem ordena, autoriza ou realiza operação de crédito, interno ou externo: I – com inobservância de limite, condição ou montante estabelecido em lei ou em resolução do Senado Federal; II – quando o montante da dívida consolidada ultrapassa o limite máximo autorizado por lei.
+>
+> Art. 359-C. Ordenar ou autorizar a assunção de obrigação, nos dois últimos quadrimestres do último ano do mandato ou legislatura, cuja despesa não possa ser paga no mesmo exercício financeiro ou, caso reste parcela a ser paga no exercício seguinte, que não tenha contrapartida suficiente de disponibilidade de caixa: Pena - reclusão, de 1 (um) a 4 (quatro) anos.
+>
+> Art. 359-G. Ordenar, autorizar ou executar ato que acarrete aumento de despesa total com pessoal, nos cento e oitenta dias anteriores ao final do mandato ou da legislatura: Pena – reclusão, de 1 (um) a 4 (quatro) anos.
+>
+> Art. 359-H. Ordenar, autorizar ou promover a oferta pública ou a colocação no mercado financeiro de títulos da dívida pública sem que tenham sido criados por lei ou sem que estejam registrados em sistema centralizado de liquidação e de custódia: Pena – reclusão, de 1 (um) a 4 (quatro) anos.
+
+> [!tip]- Lupa: como memorizar os 8 tipos sem decorar número solto
+> **A ideia em uma frase:** cada crime "traduz para o Código Penal" uma proibição que você já estudou na LRF — a banca costuma dar a conduta e pedir o artigo do CP (ou o contrário).
+>
+> **Agrupamento por gravidade (reclusão 1-4 anos = os "quatro pesados"):** 359-C (obrigação nos 2 últimos quadrimestres do mandato), 359-D (despesa não autorizada), 359-G (aumento de pessoal nos 180 dias finais) e 359-H (títulos sem lei ou sem registro) — todos ligados a condutas que **comprometem a gestão futura** ou fogem do controle legislativo.
+> **Os "mais leves" (detenção):** 359-A (crédito sem autorização, 1-2 anos), 359-B e 359-F (a dupla de restos a pagar — inscrever indevidamente e não cancelar o que excede, 6 meses-2 anos cada) e 359-E (garantia graciosa, o mais leve, 3 meses-1 ano).
+> **O erro clássico:** (a) trocar 359-B (inscrever RAP de despesa não empenhada **ou** acima do limite) com 359-F (não cancelar RAP que excede a disponibilidade) — duas faces da mesma moeda, em momentos diferentes do ciclo de restos a pagar; (b) confundir o prazo do 359-C ("dois últimos **quadrimestres**") com o do 359-G ("**180 dias**") — são janelas de tempo diferentes, ainda que ambas caiam no fim do mandato/legislatura; (c) achar que 359-H exige as duas condições cumulativamente — basta **uma** ("sem lei **ou** sem registro").
+
+**Lei nº 1.079/1950 (crimes de responsabilidade) e DL nº 201/1967 (crimes de responsabilidade de prefeitos)** (p. 1)
+
+- Art. 3º da Lei 10.028 acrescenta ao **art. 10 da Lei 1.079/1950** oito novos itens (5 a 12), tipificando como crime de responsabilidade — das autoridades sujeitas a essa lei (Presidente da República, Ministros de Estado etc.) — condutas fiscais como: (5) deixar de reduzir a dívida consolidada no prazo legal quando acima do limite do Senado; (6) abrir crédito em desacordo com os limites do Senado, sem lastro orçamentário; (9) realizar operação de crédito com outro ente da Federação em desacordo com a lei; (10) captar recursos por antecipação de receita de tributo cujo fato gerador não ocorreu; (12) realizar ou receber transferência voluntária em desacordo com limite ou condição legal.
+- Art. 39-A (Lei 1.079): as mesmas condutas do art. 10 constituem crime de responsabilidade também do **Presidente do STF** (ou substituto), e por extensão (parágrafo único) dos Presidentes de tribunais superiores, Tribunais de Contas, TRFs, TRTs, TREs, TJs e dos **Juízes-Diretores de Foro**. Art. 40-A: o mesmo vale para o **Procurador-Geral da República** (ou substituto), e por extensão (parágrafo único) para o AGU e para Procuradores-Gerais do Trabalho, Eleitoral, Militar, de Justiça dos Estados/DF, e chefes regionais/locais do MP e da Advocacia Pública.
+- Art. 41-A (Lei 1.079): respeitado o foro por prerrogativa de função dessas autoridades, as ações penais por esses crimes seguem o rito da **Lei nº 8.038/1990**, e **qualquer cidadão** pode oferecer a denúncia.
+- Art. 4º da Lei 10.028 acrescenta ao **art. 1º do DL 201/1967** os incisos **XVI a XXIII**, espelhando <mark>exatamente as mesmas oito condutas</mark> do art. 10 da Lei 1.079 (dívida consolidada, crédito em desacordo com o Senado, ARO, transferência voluntária etc.) — só que como crime de responsabilidade do **Prefeito Municipal**.
+
+> [!quote]- Texto literal: Lei 1.079/1950, Art. 10, itens 5, 10 e 12; Art. 41-A (Lei 10.028/2000, p. 1)
+> "5) deixar de ordenar a redução do montante da dívida consolidada, nos prazos estabelecidos em lei, quando o montante ultrapassar o valor resultante da aplicação do limite máximo fixado pelo Senado Federal;" (...) "10) captar recursos a título de antecipação de receita de tributo ou contribuição cujo fato gerador ainda não tenha ocorrido;" (...) "12) realizar ou receber transferência voluntária em desacordo com limite ou condição estabelecida em lei."
+>
+> Art. 41-A. Respeitada a prerrogativa de foro que assiste às autoridades a que se referem o parágrafo único do art. 39-A e o inciso II do parágrafo único do art. 40-A, as ações penais contra elas ajuizadas pela prática dos crimes de responsabilidade previstos no art. 10 desta Lei serão processadas e julgadas de acordo com o rito instituído pela Lei no 8.038, de 28 de maio de 1990, permitido, a todo cidadão, o oferecimento da denúncia.
+
+**Infrações administrativas contra as leis de finanças públicas (art. 5º)** (p. 1)
+
+- Constitui infração administrativa: (I) deixar de divulgar ou de enviar ao Legislativo e ao Tribunal de Contas o **relatório de gestão fiscal** (RGF), nos prazos e condições da lei; (II) propor **LDO** que não contenha as metas fiscais na forma da lei; (III) deixar de expedir ato de **limitação de empenho e movimentação financeira**, nos casos e condições da lei; (IV) deixar de ordenar/promover, na forma e nos prazos da lei, a execução de medida para **reduzir a despesa total com pessoal** que excedeu a repartição por Poder do limite máximo.
+- §1º: a infração é punida com **multa de 30% dos vencimentos anuais** do agente que lhe der causa, sendo o pagamento de sua **responsabilidade pessoal**. §2º: processada e julgada pelo **Tribunal de Contas** competente para a fiscalização contábil, financeira e orçamentária da pessoa jurídica de direito público envolvida.
+
+> [!quote]- Texto literal: Art. 5º, I a IV e §§1º-2º (Lei 10.028/2000, p. 1)
+> Art. 5º Constitui infração administrativa contra as leis de finanças públicas: I – deixar de divulgar ou de enviar ao Poder Legislativo e ao Tribunal de Contas o relatório de gestão fiscal, nos prazos e condições estabelecidos em lei; II – propor lei de diretrizes orçamentária anual que não contenha as metas fiscais na forma da lei; III – deixar de expedir ato determinando limitação de empenho e movimentação financeira, nos casos e condições estabelecidos em lei; IV – deixar de ordenar ou de promover, na forma e nos prazos da lei, a execução de medida para a redução do montante da despesa total com pessoal que houver excedido a repartição por Poder do limite máximo. § 1º A infração prevista neste artigo é punida com multa de trinta por cento dos vencimentos anuais do agente que lhe der causa, sendo o pagamento da multa de sua responsabilidade pessoal. § 2º A infração a que se refere este artigo será processada e julgada pelo Tribunal de Contas a que competir a fiscalização contábil, financeira e orçamentária da pessoa jurídica de direito público envolvida.
+
+> [!warning]- Pendência: art. 1º (fora do escopo)
+> O art. 1º da Lei 10.028/2000 altera o art. 339 do Código Penal (denunciação caluniosa), ampliando-o para alcançar também investigação administrativa, inquérito civil e ação de improbidade — não tem relação com finanças públicas e não foi distribuído aqui (é conteúdo de Direito Penal geral).
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)|LRF Bloco VIII]] — o art. 73 da LRF já cita a Lei 10.028 de passagem, junto com a Lei 1.079/1950, o DL 201/1967 e a Lei 8.429/1992, como normas que punem o descumprimento; os arts. 32 (crédito), 30 (dívida consolidada), 38 (ARO), 40 (contragarantia) e 25 (transferência voluntária) são os que os itens 5-12 da Lei 1.079 e os incisos XVI-XXIII do DL 201 espelham para autoridades e prefeitos.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VII (disposições, planejamento, receita, despesa)|Controle da despesa com pessoal (arts. 21 a 23)]] e [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)|Restos a Pagar e fim de mandato (arts. 41-A e 42)]]: os artigos da LRF que os crimes 359-C/G (pessoal e obrigações de fim de mandato) e 359-B/F (restos a pagar) espelham.
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)|RREO e RGF (arts. 48 a 55)]]: o inciso I do art. 5º (deixar de enviar o RGF) e o inciso III (limitação de empenho) são o espelho administrativo dos arts. 9º e 54-55 da LRF.
+
+## - Programa de Acompanhamento e Transparência Fiscal e Plano de Promoção do Equilíbrio Fiscal (LC 178/2021)
+- [ ] status [dom:: 0] [peso:: 1.5]
+
+*Fonte: LC nº 178/2021 (texto da lei, sem PDF comentado no cofre) — conteúdo em nível conceitual, prioridade menor para IBAM/prova municipal, mais comum em provas estaduais (TCE).*
+
+A LC 178/2021 reorganizou os **mecanismos de acompanhamento e ajuda federal a Estados e Municípios em dificuldade fiscal**, sucedendo regras anteriores de renegociação de dívida (como a antiga LC 148/2014). Tem dois instrumentos:
+
+- **Programa de Acompanhamento e Transparência Fiscal (PAF):** adesão **compulsória** para o ente que descumpre limites e condições fiscais da própria LRF (dívida, pessoal) — a União passa a monitorar de perto a execução orçamentária do ente, como contrapartida a benefícios como o refinanciamento/repactuação de dívidas com a União.
+- **Plano de Promoção do Equilíbrio Fiscal (PEF):** adesão **voluntária**, para o ente que quer contrair novas operações de crédito com garantia da União ou suspender pagamentos de dívida, mediante compromissos de ajuste (medidas de aumento de receita e/ou redução de despesa, com metas e prazos).
+
+> [!warning]- Pendência: esqueleto a validar
+> Esta seção está em nível mais alto (conceito e finalidade), sem os artigos, prazos e condicionalidades específicas — a prioridade é baixa pra IBAM/municipal, mas se aparecer FGV/CESPE estadual (TCE) vale importar um PDF comentado via `/absorver-pdf` e aprofundar.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)|Transferências voluntárias (arts. 25 a 28)]] e [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)|Dívida pública (arts. 29 a 31)]]: é justamente o descumprimento desses limites da LRF que aciona a adesão compulsória ao PAF.
+
+## - Regime de Recuperação Fiscal (LC 159/2017)
+- [ ] status [dom:: 0] [peso:: 1]
+
+*Fonte: LC nº 159/2017 (texto da lei, sem PDF comentado no cofre) — conteúdo em nível conceitual, prioridade baixa pra IBAM/prova municipal (o regime é só para Estados).*
+
+O Regime de Recuperação Fiscal (RRF) é um mecanismo **excepcional e temporário**, disponível só para **Estados** (não para Municípios) em grave desequilíbrio financeiro, mediante adesão voluntária e cumprimento de requisitos (relação dívida consolidada/RCL muito elevada, despesa com pessoal alta, insuficiência de caixa para despesas correntes).
+
+**Mecânica geral:** o Estado adere por até um período determinado (prorrogável mediante metas), suspendendo temporariamente algumas exigências e limites da própria LRF (novas operações de crédito, garantias), em troca de um **Plano de Recuperação Fiscal** com medidas de ajuste — privatizações, reformas (previdenciária, administrativa), contenção de despesa com pessoal, entre outras. O único ente que efetivamente aderiu ao RRF foi o **Estado do Rio de Janeiro** (2017).
+
+> [!warning]- Pendência: esqueleto a validar
+> Prazos exatos, requisitos numéricos de adesão (percentuais de dívida/RCL, de despesa com pessoal) e a lista de contrapartidas do Plano de Recuperação Fiscal não foram conferidos artigo por artigo — prioridade baixa (regime estadual, não municipal), mas complete se aparecer em prova mista FCC/CESPE.
+
+> [!info]- Ponte
+> - [[P1 - Direito Financeiro#Lei de Responsabilidade Fiscal (LRF) — Bloco VIII (transferências, dívida, gestão, transparência)|Dívida pública — LRF (arts. 29 a 31)]]: o RRF é, na prática, uma "válvula de escape" temporária para o Estado que não consegue cumprir a recondução do art. 31 da LRF pelas vias normais.
 
 
 

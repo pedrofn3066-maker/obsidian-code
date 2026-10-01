@@ -6,7 +6,7 @@ bloco: Auditoria
 assuntos:
   - Testes em Áreas Específicas das Demonstrações Contábeis
   - Ajuste SINIEF nº 07/2005 - Nota Fiscal Eletrônica e Documento Auxiliar da Nota Fiscal Eletrônica
-slot:
+slot: S4
 total: 9
 acertos: 5
 tempo_min:

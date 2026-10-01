@@ -72,7 +72,7 @@ Vale notar duas outras importantes relações:
 **DAM = |5-7,5| + |6-7,5|+ |6-7,5|+ |7-7,5|+ |7-7,5|+ |8-7,5|+ |8-7,5|+ |9-7,5| + |9-7,5| + |10-7,5| / 10 = 0,5 + 1,5 + 1,5 + 0,5 + 0,5 + 0,5 + 0,5 + 1,5 + 2,5 / 10 = 1,3**
 
 ## Medidas de Dispersão
-- [ ] status [dom:: 0] [peso:: 0] [prova:: 1]
+- [x] status [dom:: 3] [peso:: 0] [prova:: 1] ✅ 2026-09-26
 
 *Fonte: Estratégia Concursos, "Resumo das Medidas de Dispersão" (ISS-BH) — complementa o Bloco A acima, que já tinha desvio em relação à média e desvio médio, mas não tinha variância, desvio padrão nem coeficiente de variação.*
 

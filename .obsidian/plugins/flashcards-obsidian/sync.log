@@ -77,3 +77,17 @@
 2026-09-28T19:42:25.735Z [INFO] bootstrap: creating missing model {"model":"Obsidian-cloze"}
 2026-09-28T19:42:25.771Z [INFO] bootstrap: creating missing model {"model":"Obsidian-reminder"}
 2026-09-28T19:42:26.792Z [INFO] syncNote ok {"notePath":"LTM ISS SANTOS/P2 - Legislação Tributária Municipal de Santos.md","okCreates":31,"okUpdates":0,"okDeletes":3,"failedOps":0}
+2026-09-29T12:49:00.081Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T12:50:52.868Z [INFO] plugin unloading
+2026-09-29T12:53:54.203Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T12:57:07.646Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T19:38:52.696Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T19:41:02.593Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T19:41:25.873Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T19:41:32.730Z [INFO] plugin unloading
+2026-09-29T19:42:20.114Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T19:44:25.047Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T19:51:24.237Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T19:55:16.395Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T19:59:47.888Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-09-29T20:00:18.478Z [INFO] plugin unloading

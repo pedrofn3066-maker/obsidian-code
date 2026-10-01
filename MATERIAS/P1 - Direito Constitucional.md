@@ -99,7 +99,7 @@ d. **Regime de Governo**: _Democracia Participativa_.
 
 
 ### Constitucionalismo e Neoconstitucionalismo
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1948?indice=1&materia=15225)
 
 > [!tip]- Lupa: constitucionalismo é o movimento; neoconstitucionalismo é a "virada" pós-1945
@@ -107,6 +107,11 @@ d. **Regime de Governo**: _Democracia Participativa_.
 > - **Fases do constitucionalismo** (didaticamente): **Antigo** (limitações religiosas/costumeiras ao poder, ex.: Israel hebraico); **Medieval** (pactos entre rei e nobreza, ex.: Magna Carta de 1215); **Moderno/Liberal** (séc. XVIII-XIX — Constituições escritas, separação de poderes, direitos individuais de 1ª geração, Estado mínimo); **Contemporâneo/Social** (séc. XX — direitos sociais de 2ª geração, Estado prestacional, ex.: Weimar 1919, México 1917).
 > - **Neoconstitucionalismo (pós-positivismo) — as 5 marcas que a banca cobra:** **(1)** força normativa dos **princípios** (deixam de ser meros vetores interpretativos e passam a ter eficácia direta, ao lado das regras); **(2)** **centralidade dos direitos fundamentais** como filtro de todo o ordenamento; **(3)** **ponderação/proporcionalidade** como técnica de decisão nos casos de colisão entre normas; **(4)** expansão do **controle de constitucionalidade** e do papel do Judiciário (às vezes chamada de "judicialização" ou, em sentido crítico, "ativismo judicial"); **(5)** **constitucionalização do Direito infraconstitucional** — Código Civil, Penal, Tributário etc. passam a ser lidos "filtrados" pela Constituição (filtragem constitucional).
 > ⚠️ **Cuidado com a crítica ao termo:** parte da doutrina (Daniel Sarmento, Luís Roberto Barroso) usa "neoconstitucionalismo" só descritivamente; outra parte (Humberto Ávila, Lenio Streck) critica o rótulo por reunir autores com teses incompatíveis sob um único nome — a banca às vezes cobra essa controvérsia terminológica, não só o conteúdo.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q57 (gab. E · preliminar)
+> **Trecho usado:** "ponderação/proporcionalidade como técnica de decisão nos casos de colisão entre normas"
+> **Como cobrou:** conceito — a certa (E) diz que as normas constitucionais são "regras e princípios jurídicos" e que, "mediante colisões" em casos concretos, os princípios "podem ser, sobretudo judicialmente, sopesados e ponderados" sem comprometer "a existência e estabilidade da Constituição". (A) troca o conceito: "o neoconstitucionalismo representa um fenômeno similar ao positivismo jurídico, contrapondo-se ao chamado pós-positivismo"; (D) diz que sobre os princípios "sempre se aplica a técnica da ponderação, independente de qualquer colisão entre normas".
+> **Lastro:** PDF p. 19 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q57]]
 
 ### Princípios Constitucionais Sensíveis, Estabelecidos e Extensíveis
 - [ ] status [dom:: 2] [peso:: 2]
@@ -167,7 +172,7 @@ Para que uma Constituição **não seja apenas um símbolo, ela precisa atender
  Caso não possa mudar nunca, torna-se obsoleta ou perde eficácia prática.
 
 ## - Constituição - Conceito, Estrutura e Classificação;
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 **1. Conceitos da Constituição Federal de 1988**
 
@@ -313,11 +318,16 @@ QUANTO À ESTABILIDADE:
             
     - **Rígidas:**
         
-        - Modificáveis por procedimento mais difícil que o das leis comuns. Sempre escritas.
+        - <mark class="prova" style="background:rgba(0,170,170,0.28)">Modificáveis por procedimento mais difícil que o das leis comuns</mark>. Sempre escritas.
             
     - **Semirrígidas:**
         
         - Alteração legislativa mais difícil para algumas normas, mas não para todas.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q60 (gab. E · preliminar)
+> **Trecho usado:** "Modificáveis por procedimento mais difícil que o das leis comuns. Sempre escritas."
+> **Como cobrou:** conceito — a certa (E) diz que "a chamada rigidez constitucional encontra-se refletida em diversos dispositivos da Constituição de 1988, entre eles, por exemplo, no Art. 60, caput e § 2º, os quais tratam da iniciativa, e da discussão e votação de uma Proposta de Emenda à Constituição". A nota traz a rigidez como "procedimento mais difícil"; o art. 60 não está nesta seção. As erradas trocam a classificação: (A) flexível "em conformidade com o que estatui o Art. 30"; (B) "o sintetismo da Constituição de 1988 é manifesto"; (D) 1988 como "outorgada".
+> **Lastro:** PDF p. 20 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q60]]
             
 QUANTO AO CONTEÚDO:
 
@@ -445,7 +455,7 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 
 
 ## Dos Direitos e Deveres Individuais e Coletivos (art. 5º CF/88)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 
 **Isonomia** (art. 5º, caput): tem como fundamento a dignidade da pessoa humana — busca tratamento igualitário para os iguais e diferenciado para os desiguais, tanto na feitura quanto na aplicação do sistema normativo, até se alcançar a igualdade material.
 
@@ -505,10 +515,20 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 > [!quote]- Texto literal: art. 5º, XI (CF/88 EC 139, p. 13)
 > XI – a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;
 
-→ **Sigilo da correspondência e das comunicações** - art. 5º, XII. Quebra de sigilo das comunicações telefônicas (acesso ao histórico de ligações): autorizada por Poder Judiciário ou CPI. Interceptação (acesso às gravações): autorizada apenas por Poder Judiciário. Requisitos: ordem judicial, investigação criminal ou instrução processual penal em curso, e lei que preveja hipóteses e forma.
+→ **Sigilo da correspondência e das comunicações** - art. 5º, XII. Quebra de sigilo das comunicações telefônicas (acesso ao histórico de ligações): autorizada por Poder Judiciário ou CPI. Interceptação (acesso às gravações): autorizada apenas por Poder Judiciário. <mark class="prova" style="background:rgba(0,170,170,0.28)">Requisitos: ordem judicial, investigação criminal ou instrução processual penal em curso, e lei que preveja hipóteses e forma</mark>.
 
 > [!quote]- Texto literal: art. 5º, XII (CF/88 EC 139, p. 13)
 > XII – é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q59 (gab. C · preliminar)
+> **Trecho usado:** "Requisitos: ordem judicial, investigação criminal ou instrução processual penal em curso, e lei que preveja hipóteses e forma."
+> **Como cobrou:** literalidade — a certa (C) diz que "o sigilo das comunicações telefônicas encontra-se previsto no Art. 5º, inciso XII, da Constituição de 1988 e somente pode ser quebrado se ordenado judicialmente, para fins de investigação criminal ou instrução processual penal e nos termos da Lei 9.296/1996". As erradas mexem no inciso ou nas condições: (A) manda o sigilo de dados para o "inciso XIII" e o sujeita "somente" à ordem judicial; (B) junta "desespero psicossocial" e "ordem judicial, desde que durante o dia" ao desastre e ao flagrante; (D) recorta a escusa de consciência do inciso VIII.
+> **Lastro:** PDF p. 20 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q59]]
+
+> [!tip]- Lupa de prova: art. 5º, XII: a banca mexe no número do inciso e nas condições
+> **O padrão:** a certa copia o art. 5º, XII quase palavra por palavra e os distratores trocam o inciso ou misturam condições de outro inciso (padrão de 1 prova, não confirmado).
+> **A armadilha:** (A) "o sigilo de dados, entre os quais se destacam o sigilo bancário, o sigilo fiscal, o sigilo de dados eleitorais e o sigilo de dados pessoais sensíveis, é direito fundamental previsto no Art. 5º, inciso XIII, [...] e somente pode ser quebrado mediante ordem judicial" (o XIII é trabalho, e a ordem judicial é a exceção só das comunicações telefônicas, "no último caso"); (B) "desastre, flagrante delito, desespero psicossocial e mediante ordem judicial, desde que durante o dia" ("durante o dia" só vale para a determinação judicial, não para desastre ou flagrante); (D) "deixar declarar tal restrição nos atos declaratórios tributários, previstos em lei".
+> **Como resolver:** releia o texto literal do art. 5º, XII (logo acima): dos quatro objetos (correspondência, comunicações telegráficas, dados e comunicações telefônicas), só no último cabe quebra por ordem judicial, para investigação criminal ou instrução processual penal, na forma da lei. Para a alternativa (B), confira o art. 5º, XI: sem consentimento, só por ordem judicial durante o dia; em flagrante, desastre ou socorro, a qualquer hora.
 
 → **Trabalho, informação e locomoção** - art. 5º, XIII a XV. <mark>É livre o exercício de qualquer trabalho, ofício ou profissão</mark>, atendidas as qualificações profissionais que a lei estabelecer (XIII). É assegurado a todos o <mark>acesso à informação</mark> e resguardado o <mark>sigilo da fonte</mark>, quando necessário ao exercício profissional (XIV). É livre a <mark>locomoção no território nacional em tempo de paz</mark>: qualquer pessoa pode, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens (XV). *(CF/88 EC 139, p. 13)*
 
@@ -809,14 +829,14 @@ A pirâmide representa bem como funciona a hierarquia das normas.
 > LXVIII – conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
     
 ### -Mandado de Segurança
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indice=1&materia=370)
 - O mandado de segurança é um instrumento jurídico que visa proteger direitos líquidos e certos **que não podem ser amparados por habeas corpus ou habeas data**, quando o responsável pela ilegalidade ou pelo abuso de poder for autoridade pública ou **_agente de pessoa jurídica no exercício de atribuições do poder público_**. Ou seja, **não é qualquer direito líquido e certo**.
 • A) Correta: A CFl, no seu art. 7º, inciso XXI, estabelece como direito dos trabalhadores urbanos e rurais o "aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei".
 - #jurisprudencia 
 - <mark style="background:rgba(240, 167, 216, 0.55)">Súmula 429/STF: a existência de recurso administrativo com efeito suspensivo não impede o uso do mandado de segurança contra omissão da autoridade</mark>. Não confundir com o art. 5º, I, da Lei nº 12.016/2009 (não cabe MS quando existir recurso administrativo com efeito suspensivo) — essa vedação é para **atos comissivos**; no caso de **omissão**, a suspensão de um ato que não existe não produz efeito algum, logo o MS continua cabível.
 
-- Prova pré-constituída; natureza civil; oneroso, mas sem condenação em honorários da parte vencida. Prazo: 120 dias da ciência do fato que obstou o direito líquido e certo — vencido o prazo, resta a via ordinária.
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">Prova pré-constituída</mark>; natureza civil; oneroso, mas sem condenação em honorários da parte vencida. Prazo: 120 dias da ciência do fato que obstou o direito líquido e certo — vencido o prazo, resta a via ordinária.
 - Legitimidade ativa: pessoa física ou jurídica, nacional ou estrangeira, universalidades (espólio, massa falida), alguns órgãos públicos, MP. Legitimidade passiva: autoridade pública, representantes de partidos políticos, administradores de autarquias, particulares no exercício de função pública (só quanto a essas atribuições).
 - Art. 21, Lei nº 12.016/09 — **Mandado de Segurança Coletivo**: pode ser impetrado por partido político com representação no Congresso Nacional (defesa de interesses legítimos relativos a seus integrantes ou à finalidade partidária) ou por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos 1 ano (defesa de direitos líquidos e certos da totalidade ou parte de seus membros/associados, conforme seus estatutos e pertinentes às suas finalidades), dispensada autorização especial. Natureza civil, oneroso. Marca-o o instituto da substituição processual — não há necessidade de autorização específica de cada membro. ⚠️ As associações, especificamente, precisam estar constituídas e em funcionamento há pelo menos 1 ano (item muito cobrado).
 
@@ -828,6 +848,11 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/378?indic
 > a) partido político com representação no Congresso Nacional;
 >
 > b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q49 (gab. A · preliminar)
+> **Trecho usado:** "Prova pré-constituída; natureza civil; oneroso, mas sem condenação em honorários da parte vencida"
+> **Como cobrou:** exceção — a certa (A) diz que o mandado "objetiva sanar ilegalidade e abuso de poder, desde que o impetrante, apresentando prova pré-constituída, demonstre a certeza de seu direito". As erradas trocam o cabimento e o legitimado: (B) "cabível contra a decisão judicial proferida em qualquer Vara de Fazenda Pública, desde que ainda existam recursos"; (C) "pode ser impetrado por qualquer cidadão" e dá "24 (vinte e quatro) horas" à autoridade; (D) exige "pedido indenizatório" na inicial; (E) "cabível contra decisão judicial, com exceção para as decisões proferidas nas Varas de Execução Fiscal".
+> **Lastro:** PDF p. 16 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q49]]
     
 ### -Mandado de Injunção
 - [ ] status [dom:: 0] [peso:: 2]
@@ -959,7 +984,7 @@ Art. 5º, § 4º: perda declarada quando o brasileiro (i) tiver a naturalizaçã
 ### Direitos Políticos (arts. 14 a 16 da CF/1988)
     
 #### Soberania Popular (Voto, Plebiscito, Referendo, Iniciativa Popular), Alistamento e Elegibilidade
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1878?indice=1&materia=370)
         
 > As idades mínimas para se candidatar a cargos eletivos no Brasil são:  
@@ -972,13 +997,18 @@ resumo tec: (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1878?indi
 
 - Direitos políticos positivos: participação ativa via plebiscito, referendo, iniciativa popular. Negativos: inelegibilidade, perda e suspensão dos direitos políticos.
 - Plebiscito: consulta antes da edição da norma. Referendo: consulta depois. Iniciativa popular (art. 61, § 2º): projeto de lei subscrito por no mínimo 1% do eleitorado nacional, distribuído por pelo menos 5 Estados, com não menos de 0,3% dos eleitores em cada um (bizu: 1 – 5 – 0,3).
-- Sufrágio = capacidade ativa (alistabilidade, votar) + capacidade passiva (elegibilidade, ser votado).
+- Sufrágio = <mark class="prova" style="background:rgba(0,170,170,0.28)">capacidade ativa (alistabilidade, votar) + capacidade passiva (elegibilidade, ser votado)</mark>.
 - Alistamento e voto (art. 14, § 1º e § 2º): obrigatório para maiores de 18 anos; facultativo para analfabetos, maiores de 70 anos e maiores de 16 e menores de 18; vedado a estrangeiros e, durante o serviço militar obrigatório, a conscritos.
   - TSE: médicos, dentistas, farmacêuticos e veterinários em serviço militar obrigatório são considerados conscritos.
   - TSE: pessoa com deficiência que não possa cumprir as obrigações eleitorais não se sujeita a sanção.
 - § 4º: são inelegíveis os inalistáveis e os analfabetos — analfabetos são alistáveis (podem votar) mas não elegíveis (não podem ser votados).
 - Domicílio eleitoral (onde está o título) é diferente de domicílio civil.
 - STF: desfiliação e infidelidade partidária geram perda de mandato apenas no sistema proporcional.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q56 (gab. B · preliminar)
+> **Trecho usado:** "Sufrágio = capacidade ativa (alistabilidade, votar) + capacidade passiva (elegibilidade, ser votado)."
+> **Como cobrou:** conceito — a certa (B) diz que o sufrágio é "a possibilidade de cada pessoa participar passiva ou ativamente de eleições típicas, exercendo o direito de voto ou se candidatando a cargo público eletivo, além de ativamente também poder participar de plebiscitos e referendos". As erradas inventam: (D) põe "o veto" entre as características do voto; (E) prevê voto "por e-mail institucional junto à Plataforma SouGov"; (C) exige que a pessoa não seja "parte de ação judicial criminal ou de inquérito policial".
+> **Lastro:** PDF p. 19 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q56]]
 
 #### Inelegibilidades (Direitos Políticos)
 - [ ] status [dom:: 0] [peso:: 2]
@@ -1565,7 +1595,7 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 - [ ] status [dom:: 0] [peso:: 2]
 
 ### Disposições Gerais (Administração Pública - arts. 37 e 38 da CF/1988)
-- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 2]
 
 *Concurso público (inciso I e jurisprudência), acumulação (XVI-XVII) e responsabilidade civil (§ 6º) já estão detalhados nos headings abaixo ("Agentes Públicos", "Acumulação Remunerada", "Responsabilidade Civil"); o mandato eletivo do servidor (art. 38) já está resumido no heading "Dos Servidores Públicos". Aqui vai o texto literal do caput e o restante dos incisos.*
 
@@ -1640,10 +1670,20 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 > - **XXI — licitação:** regra, não exceção — "ressalvados os casos especificados em lei" é a única brecha (dispensa/inexigibilidade, tratadas em lei infraconstitucional, não na própria CF).
 > - **XVIII e XXII — precedência da administração fazendária:** dois dispositivos sobre a mesma ideia em momentos diferentes — o fisco tem prioridade administrativa (XVIII, texto original) e, desde a EC 42/2003, também prioridade de **recursos** e dever de **atuação integrada** entre os fiscos dos diferentes entes (XXII) — é a base constitucional do compartilhamento de cadastros entre Receita Federal, Sefaz estaduais e Secretarias municipais de Fazenda.
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q50 (gab. A · preliminar)
+> **Trecho usado:** "obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência"
+> **Como cobrou:** conceito — a certa (A) descreve a legalidade administrativa: "enquanto o cidadão comum pode praticar, isento, a priori, de quaisquer sanções, atos livremente e desde que não defesos por lei, o administrador público somente pode fazer o que está previsto nas normas jurídicas brasileiras". As erradas atribuem a outros princípios um conteúdo alheio: (E) eficiência como "compliance"; (D) moralidade unida à "vulnerabilidade"; (C) "reserva legal administrativa" sobre a igualdade. A nota traz aqui os cinco princípios do caput; o sentido de cada um fica fora desta seção.
+> **Lastro:** PDF p. 17 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q50]]
+
 > [!example]- Prova anterior: IBAM 2026 · São Vicente · Q53 (gab. D · preliminar)
 > **Trecho usado:** "o caput do art. 37 abre com os 5 princípios expressos da Administração Pública — mnemônico LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência"
 > **Como cobrou:** conceito — associa cada afirmação ao princípio, "nessa ordem": a certa é "(D) Eficiência, Moralidade, Impessoalidade e Legalidade" (metas e indicadores; uso de bens públicos para fins particulares; publicidade sem promoção pessoal; multa só com lei prévia).
 > **Lastro:** PDF p. 28 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q53]]
+
+> [!tip]- Lupa de prova: o que cada princípio do caput significa
+> **O padrão:** pergunta o sentido de um princípio do art. 37, caput (aqui, legalidade) e as demais alternativas põem em outros princípios um conteúdo que não é o deles; a São Vicente Q53 também pedia associar afirmações a princípios (padrão de 2 provas, não confirmado).
+> **A armadilha:** (E) "o princípio da eficiência, relacionado à imprescindibilidade de se agir em conformidade com a lei e com normas de conduta e boas práticas, retrata o compliance" (é conteúdo de legalidade posto na eficiência); (D) moralidade "unindo-se ao princípio da boa-fé objetiva e ao princípio da vulnerabilidade"; (C) "o princípio da reserva legal administrativa sobrepõe-se ao princípio da igualdade".
+> **Como resolver:** recite os cinco do caput (LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência; a eficiência entrou pela EC 19/1998) e desconfie de alternativa que coloque um princípio fora do caput ou o sentido de um princípio em outro. O sentido da legalidade que a certa descreve (particular faz o que a lei não veda; administrador só o que a lei autoriza) não está neste heading da nota; o art. 5º, II tem texto literal na seção de direitos individuais desta nota.
 
 **Publicidade e transparência (§§ 1º a 3º):** publicidade institucional deve ter caráter **educativo, informativo ou de orientação social** — vedada promoção pessoal (§ 1º); a lei disciplina a participação do usuário (reclamações, acesso a registros administrativos, representação contra abuso — § 3º).
 
@@ -1722,7 +1762,7 @@ No caso de **desobediência a ordem ou decisão judiciária** (art. 34, VI), g
 > - [[P2 - Direito Tributário#Fiscalização Tributária (arts. 194 a 200 do CTN)]]: o inciso XXII (administrações tributárias) convive com o sigilo do art. 198 do CTN.
 
 ### Dos Servidores Públicos (arts. 39 a 41 da CF/1988)
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 Resumo tec:
 - #tec/resumo 
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/2981).
@@ -1743,7 +1783,7 @@ Resumo tec:
 - Art. 39, § 7º: os entes (inclusive Municípios) podem usar a economia de despesas correntes em cada esfera de governo para aplicar em programas de qualidade e produtividade, incluindo prêmios ou incentivos.
 - Art. 39, § 9º (EC 103/2019): proíbe a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de cargo em comissão ou de função de confiança à remuneração do cargo efetivo.
 - **Reintegração** (art. 41, § 2º): forma de provimento derivado pela qual o servidor estável, invalidada por sentença judicial sua demissão, retorna ao cargo. O eventual ocupante da vaga, se estável, é reconduzido ao cargo de origem sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço.
-- **Mandato eletivo do servidor** (art. 38): mandato eletivo federal, estadual ou distrital afasta o servidor do cargo, que passa a receber a remuneração do mandato. Mandato municipal: Prefeito é afastado e opta pela remuneração (cargo ou mandato); Vereador acumula cargo e mandato se houver compatibilidade de horários (recebendo as duas remunerações) ou opta por uma, afastando-se do cargo, se não houver. Em qualquer caso de afastamento para mandato eletivo, o tempo de serviço conta para todos os efeitos legais, exceto para promoção por merecimento (art. 38, IV).
+- **Mandato eletivo do servidor** (art. 38): mandato eletivo federal, estadual ou distrital afasta o servidor do cargo, que passa a receber a remuneração do mandato. Mandato municipal: Prefeito é afastado e opta pela remuneração (cargo ou mandato); <mark class="prova" style="background:rgba(0,170,170,0.28)">Vereador acumula cargo e mandato se houver compatibilidade de horários (recebendo as duas remunerações) ou opta por uma, afastando-se do cargo, se não houver</mark>. Em qualquer caso de afastamento para mandato eletivo, o tempo de serviço conta para todos os efeitos legais, exceto para promoção por merecimento (art. 38, IV).
 
 **Art. 38 (mandato eletivo), Art. 39 (sistema remuneratório) e Art. 41 (estabilidade)**
 
@@ -1763,6 +1803,16 @@ Resumo tec:
 > IV – em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento;
 >
 > V – na hipótese de ser segurado de regime próprio de previdência social, permanecerá filiado a esse regime, no ente federativo de origem.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q41 (gab. D · preliminar)
+> **Trecho usado:** "Vereador acumula cargo e mandato se houver compatibilidade de horários (recebendo as duas remunerações) ou opta por uma, afastando-se do cargo, se não houver"
+> **Como cobrou:** exceção — pede a alternativa que não se aplica ao servidor com mandato eletivo; a certa é a (D): "Investido no mandato de Vereador, o servidor público perceberá as vantagens de seu cargo, emprego ou função, somada à do cargo eletivo, mas sem direito a férias e 13º (décimo terceiro) salário cumulativamente" (não menciona a compatibilidade de horários e acrescenta uma restrição que o inciso III não tem). A, B, C e E reproduzem os incisos V, II, IV e I.
+> **Lastro:** PDF p. 14 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q41]]
+
+> [!tip]- Lupa de prova: mandato eletivo do servidor: só o inciso III pede compatibilidade de horários
+> **O padrão:** pede a exceção sobre o art. 38 e quatro alternativas repetem os incisos V, II, IV e I quase palavra por palavra; a errada mexe só no inciso do Vereador (padrão de 1 prova, não confirmado).
+> **A armadilha:** (D) "Investido no mandato de Vereador, o servidor público perceberá as vantagens de seu cargo, emprego ou função, somada à do cargo eletivo, mas sem direito a férias e 13º (décimo terceiro) salário cumulativamente" — tira a condição "havendo compatibilidade de horários" e põe uma restrição a férias e 13º que o inciso não traz.
+> **Como resolver:** confronte cada alternativa com o texto literal do art. 38 (logo acima): o Vereador só acumula as vantagens do cargo com a remuneração do mandato havendo compatibilidade de horários; sem ela, aplica-se a regra do Prefeito (inciso II: afasta-se do cargo e pode optar pela remuneração).
 
 > [!quote]- Texto literal: art. 39, caput e §§ 1º a 9º (CF/88 EC 139, p. 37–38)
 > Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes.
@@ -1981,7 +2031,7 @@ Complementando o comentário do amigo: **Como será externalizada essa competê
 
 
 ### Do Congresso Nacional (arts. 44 a 47 da CF/1988)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/396?indice=1&materia=1951)
 
 > [!quote]- Texto literal: arts. 44 a 47 (Planalto)
@@ -1998,6 +2048,11 @@ Complementando o comentário do amigo: **Como será externalizada essa competê
 > - **Legislatura × mandato:** legislatura é o período de **4 anos** do Congresso como um todo (equivale a 1 mandato de Deputado, mas a **metade** de 1 mandato de Senador — daí por que a "legislatura" e o "mandato do Senador" nunca coincidem em duração).
 > - **Quórum do art. 47** é a regra **residual**: presença mínima de **maioria absoluta**, decisão por **maioria simples** dos presentes — só se aplica quando a CF não exigir quórum especial (2/3, 3/5 etc.) para aquela matéria específica.
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q55 (gab. E · preliminar)
+> **Trecho usado:** "o Senado representa os Estados como entes federados (por isso todos têm o mesmo número de cadeiras, 3, independentemente do tamanho)"
+> **Como cobrou:** conceito — a certa (E) diz que o Estado federal brasileiro tem "o princípio da paritariedade da representação, aplicado ao Senado Federal enquanto casa legislativa representante dos interesses de cada Estado membro". As erradas tratam de federalismo em geral, que esta seção não desenvolve: (A) "conferência expressa, definida e listada de competências" a cada Estado; (B) simetria que obriga a "integralmente espelharem" a Constituição Federal; (C) federalismo que teria se originado em 1889 como o norte-americano; (D) "repartição de competência rígida e sem exceções".
+> **Lastro:** PDF p. 19 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q55]]
+
 ### - Das Atribuições do Congresso Nacional (arts. 48 a 50 da CF/1988)
 - [ ] status [dom:: 0] [peso:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/397?indice=1&materia=1951)
@@ -2007,7 +2062,7 @@ Complementando o comentário do amigo: **Como será externalizada essa competê
 ![[Pasted image 20260822170658.png]]
 
 #### Resumo do capítulo
-- [ ] status [dom:: 0] [peso:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 1]
 
 **📘 Funcionamento Geral do Congresso Nacional**
 
@@ -2043,7 +2098,7 @@ Complementando o comentário do amigo: **Como será externalizada essa competê
     - Ex.: julgar Presidente por crime de responsabilidade, aprovar limites de endividamento.
 
 **⚠️ Pegadinha Importante** 
-- **Resolução do Congresso Nacional (art. 68, §2º):** delegação legislativa ao Presidente da República (caso único de competência privativa do CN via resolução, não decreto legislativo).
+- **Resolução do Congresso Nacional (art. 68, §2º):** <mark class="prova" style="background:rgba(0,170,170,0.28)">delegação legislativa ao Presidente da República (caso único de competência privativa do CN via resolução, não decreto legislativo)</mark>.
 - #pegadinha 
 **💸 Endividamento Público e Crédito**
 - Competência do Congresso Nacional (art. 48):
@@ -2051,6 +2106,11 @@ Complementando o comentário do amigo: **Como será externalizada essa competê
     - Normas gerais sobre crédito, dívida e emissões forçadas (II).
 - Competência do Senado Federal (art. 52, V a IX):
     - Limites e condições de dívidas e garantias da União, Estados, DF e Municípios.
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q54 (gab. E · preliminar)
+> **Trecho usado:** "Resolução do Congresso Nacional (art. 68, §2º): delegação legislativa ao Presidente da República (caso único de competência privativa do CN via resolução, não decreto legislativo)"
+> **Como cobrou:** troca de termo — a certa (E) diz "após requisição do Poder Executivo ao Poder Legislativo, e mediante autorização deste último, pode o Presidente da República criar uma lei delegada" (o art. 68 fala em solicitação do Presidente e resolução do Congresso, mas é a única defensável). (D) troca o autor: "as leis delegadas são criadas pelo Congresso Nacional, após sanção do Presidente da República"; (C) dá 30 dias de vigência à medida provisória.
+> **Lastro:** PDF p. 18 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q54]]
 
 **👨‍⚖️ Fixação de Subsídio dos Ministros do STF**
 - Cabe ao Congresso Nacional.
@@ -2906,7 +2966,7 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 
     
 ### Limitações do Poder de Tributar (arts. 150 a 152 da CF/1988)
-- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 2]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/1963?indice=1&materia=457)
 
 > [!quote]- Texto literal: art. 150, caput e incisos I a VI (Planalto)
@@ -2928,6 +2988,11 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > **O que sai em ambas:** II, IE, IOF, extraordinário de guerra e empréstimo compulsório de calamidade/guerra — cobram-se **imediatamente**. **O que só sai de uma:** IPI foge só da anual (então respeita os 90 dias); IR foge só da nonagesimal (então respeita o exercício seguinte); IPVA/IPTU só na **base de cálculo**, não na alíquota.
 > **O erro clássico:** achar que toda contribuição social segue a regra geral do art. 150 — a seguridade social tem regra **própria e autônoma** no art. 195, § 6º (só nonagesimal, nem precisa da anual).
 
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q89 (gab. C · preliminar)
+> **Trecho usado:** "são duas regras cumulativas (salvo exceção expressa): a anual (b — só cobra no exercício seguinte) e a nonagesimal (c — só cobra 90 dias depois da lei)"
+> **Como cobrou:** cálculo — lei estadual que majora o ITCMD, publicada em 17/11/2025, com efeitos em 1º/02/2026; a certa (C) diz que a exigência "somente será legítima a partir de meados de fevereiro de 2026, por se sujeitar cumulativamente às anterioridades de exercício e noventena" (17/11/2025 + 90 dias = 15/02/2026). (D) põe o ITCMD "no rol de exceções constitucionais à anterioridade nonagesimal e à anterioridade de exercício"; (E) diz que a lei "vulnera o princípio da anterioridade anual, embora atenda integralmente ao princípio da anterioridade nonagesimal".
+> **Lastro:** PDF p. 7 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q89]]
+
 > [!example]- Prova anterior: IBAM 2026 · São Vicente · Q44 (gab. C · preliminar)
 > **Trecho usado:** "IPI foge só da anual (então respeita os 90 dias); IR foge só da nonagesimal (então respeita o exercício seguinte); IPVA/IPTU só na base de cálculo, não na alíquota"
 > **Como cobrou:** conceito — V/F: o gabarito "(C) V, F, F, F" dá como verdadeiro o item I ("A vedação de cobrar tributos no mesmo exercício financeiro… (anterioridade anual) não se aplica ao Imposto sobre Produtos Industrializados (IPI), que pode ter suas alíquotas alteradas e cobradas imediatamente após a publicação da lei"), mas a nota diz que o IPI respeita os 90 dias. Ver o aviso abaixo.
@@ -2937,6 +3002,11 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 > **Gabarito:** Q44, alternativa C (V, F, F, F), dá o item I como verdadeiro.
 > **Nota:** o IPI foge só da anterioridade anual e respeita a noventena; "cobradas imediatamente após a publicação" erra a parte dos 90 dias. O item II também é discutível: só a base de cálculo do IPVA foge da noventena.
 > **Pendência:** conferir a redação do art. 150, §1º, o item no PDF (p. 23) e a grade definitiva; a nota não é corrigida.
+
+> [!tip]- Lupa de prova: anterioridade: o tributo fora dos dois rols e a contagem dos 90 dias
+> **O padrão:** a prova escolhe um tributo e testa em qual rol de exceção ele está: IPI na São Vicente Q44, ITCMD na Guarulhos Q89 (padrão de 2 provas, não confirmado).
+> **A armadilha:** (D) "o ITCMD figura no rol de exceções constitucionais à anterioridade nonagesimal e à anterioridade de exercício" e (E) "vulnera o princípio da anterioridade anual, embora atenda integralmente ao princípio da anterioridade nonagesimal": cada uma põe o tributo numa exceção que ele não tem. (B) empurra a cobrança para "apenas a partir de 2027".
+> **Como resolver:** procure o tributo nas duas colunas do mapa de exceções da nota; se não está em nenhuma (o ITCMD não está), valem as duas anterioridades cumulativamente. Publicada em 17/11/2025, a lei já cumpre o exercício; falta a noventena: 17/11/2025 + 90 dias = 15/02/2026, então a majoração só pode ser cobrada depois disso (contagem feita na resolução da prova).
 
 **Isonomia (II):** veda distinção por ocupação profissional — "advogado paga menos IPTU que médico" seria inconstitucional, independentemente do nome dado ao rendimento.
 
@@ -3032,7 +3102,7 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 
     
 ### Dos Impostos dos Municípios (art. 156 da CF/1988)
-- [ ] status [dom:: 2] [peso:: 2]
+- [ ] status [dom:: 2] [peso:: 2] [prova:: 1]
 (https://www.tecconcursos.com.br/aulas/materias/2/assuntos/3219?indice=1&materia=457)
 
 > [!quote]- Texto literal: art. 156, caput e § 1º (Planalto)
@@ -3042,10 +3112,20 @@ Teto anual de pagamento de precatórios por Estados, DF e Municípios (administr
 **Mnemônico: IPTU · ITBI · ISS.**
 
 **IPTU (I) — duas progressividades que a banca adora confundir:**
-- **Fiscal** (art. 156, § 1º): progressiva **em razão do valor do imóvel** e com alíquotas diferentes por localização/uso — finalidade arrecadatória.
+- **Fiscal** (art. 156, § 1º): <mark class="prova" style="background:rgba(0,170,170,0.28)">progressiva **em razão do valor do imóvel**</mark> e com alíquotas diferentes por localização/uso — finalidade arrecadatória.
 - **Extrafiscal** (art. 182, § 4º, II): progressividade **no tempo**, como sanção ao proprietário de solo urbano não edificado/subutilizado/não utilizado que não cumpre a função social da propriedade, após notificação e prazo — finalidade de política urbana, não arrecadatória.
 - Desde a EC 132/2023, a **base de cálculo pode ser atualizada pelo Poder Executivo** (decreto), sem violar a legalidade — mera atualização monetária não é majoração de tributo (mesma lógica do art. 97, § 2º, CTN); mas a **fixação inicial** de alíquotas e a progressividade dependem de lei.
 - **§ 1º-A:** não incide sobre templos de qualquer culto, ainda que a entidade seja apenas **locatária** do imóvel (incluído pela EC 116/2022 — supera a jurisprudência que antes exigia propriedade do bem pela entidade imune).
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q101 (gab. B · preliminar)
+> **Trecho usado:** "Fiscal (art. 156, § 1º): progressiva em razão do valor do imóvel e com alíquotas diferentes por localização/uso — finalidade arrecadatória."
+> **Como cobrou:** troca de termo — a certa (B) diz que o IPTU "também pode ser progressivo em função do valor venal do imóvel", que "pode ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos em lei municipal" e que "compete ao Município da situação do bem" (a nota traz essa competência só para o ITBI). As erradas trocam o termo: (D) e (E) "Será progressivo exclusivamente em função do valor venal do imóvel"; (C) "Não será progressivo para fatos geradores ocorridos após a edição da Emenda Constitucional 132/23"; (D) base atualizada "a cada cinco anos"; (A) compete ao Município "onde está domiciliado o seu proprietário".
+> **Lastro:** PDF p. 11 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Tarde#Q101]]
+
+> [!tip]- Lupa de prova: IPTU: progressividade e base de cálculo depois da EC 132
+> **O padrão:** o IPTU já foi cobrado em Arraial do Cabo (Q12) e Bragança Paulista (Q28) e volta agora com o termo trocado em quase todas as alternativas (padrão de 3 provas, não confirmado).
+> **A armadilha:** (D) e (E) "Será progressivo exclusivamente em função do valor venal do imóvel"; (C) "Não será progressivo para fatos geradores ocorridos após a edição da Emenda Constitucional 132/23"; (D) "atualizada pelo Poder Executivo a cada cinco anos"; (A) "compete ao Município onde está domiciliado o seu proprietário".
+> **Como resolver:** a nota separa duas progressividades que convivem: a fiscal (em razão do valor do imóvel, art. 156, § 1º) e a extrafiscal (no tempo, art. 182, § 4º, II); por isso "exclusivamente" e "não será progressivo" erram. Desde a EC 132/2023 a base de cálculo pode ser atualizada pelo Poder Executivo, o que a nota liga à lei municipal; prazo de "cinco anos" ela não traz.
 
 **ITBI (II):** fato gerador é a transmissão **inter vivos**, **onerosa**, de bem imóvel ou direito real sobre imóvel (exceto os de garantia, como hipoteca); **não incide** sobre a transmissão de bens incorporados ao patrimônio de PJ em realização de capital, nem sobre fusão/incorporação/cisão/extinção — **salvo** se a atividade preponderante do adquirente for compra e venda desses bens, locação ou arrendamento mercantil (§ 2º, I — a chamada imunidade condicionada à atividade). Sujeito ativo: **Município da situação do bem** (§ 2º, II) — mesmo que o negócio jurídico tenha sido celebrado em outro lugar.
 

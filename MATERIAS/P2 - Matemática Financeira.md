@@ -56,7 +56,7 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 
 # Bloco A
 ## - Juros Simples e Compostos;
-- [ ] status [dom:: 0] [peso:: 3] [prova:: 2]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 3]
 
 **1. ANÁLISE DOS TÓPICOS**
 
@@ -126,9 +126,19 @@ Retorno alto por hora se você já tem base: lógica proposicional e argumentaç
 
 **1.1 CONCEITOS**
 
-- Juros sobre juros - No regime de capitalização composta, o juro gerado em cada período agrega-se ao capital, e essa soma passa a render juros para o próximo período.
+- Juros sobre juros - No regime de capitalização composta, <mark class="prova" style="background:rgba(0,170,170,0.28)">o juro gerado em cada período agrega-se ao capital</mark>, e essa soma passa a render juros para o próximo período.
 - Período de capitalização - Número de vezes que você calcula os juros e incorpora ao capital. 
 - O período (n) e a taxa (i) devem ter a mesma referência. Exemplo: n = 10 trimestres e i = 3% ao trimestre
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q17 (gab. B · preliminar)
+> **Trecho usado:** "Juros sobre juros - No regime de capitalização composta, o juro gerado em cada período agrega-se ao capital"
+> **Como cobrou:** conceito — item de V ou F "(__)No segundo ano, os juros seriam calculados novamente apenas sobre os R$ 40.000,00 iniciais." A certa é "(B) V, F, V, F, F": esse item é F, porque em capitalização composta os juros do 2º ano incidem sobre 44.000 (o capital mais o juro do 1º ano).
+> **Lastro:** PDF p. 9 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q17]]
+
+> [!tip]- Lupa de prova: juros compostos × juros simples em item de V ou F
+> **O padrão:** o heading já foi cobrado em Mauá Q14 e São Vicente Q12 (cálculo do montante); em Guarulhos Q17 vem como V ou F que mistura os dois regimes dentro de um enunciado de capitalização composta (padrão de 1 prova, não confirmado).
+> **A armadilha:** o item "(__)No segundo ano, os juros seriam calculados novamente apenas sobre os R$ 40.000,00 iniciais." descreve juros simples e é falso; os outros itens falsos trocam o número: "(__)O valor presente necessário corresponde a R$ 44.000,00." (o certo é 40.000) e "(__)O total de juros acumulados nos dois anos corresponde a R$ 8.000,00." (o certo é 8.400).
+> **Como resolver:** pela nota, no regime composto o juro de cada período agrega-se ao capital e passa a render juros; já os juros simples incidem só sobre o valor principal. Com M=C.(1+i)n: fator (1,1)² = 1,21, valor presente 48.400 / 1,21 = 40.000 e juros totais 48.400 − 40.000 = 8.400.
 
 **1.2 FÓRMULAS**
 
@@ -173,7 +183,7 @@ Onde: 
 | 0<n<1                  | O montante simples é maior do que o montante composto. |
 | n>1                    | O montante simples é menor do que o montante composto. |
 ## - Descontos Simples e Compostos (racional e comercial);
-- [ ] status [dom:: 0] [peso:: 3]
+- [ ] status [dom:: 0] [peso:: 3] [prova:: 1]
 
 **1.3 Descontos**
 
@@ -233,9 +243,14 @@ Onde: 
 **4. DESCONTO COMERCIAL SIMPLES**
 
 - É um desconto teoricamente incorreto. 
-- A taxa incide sobre o valor nominal (N): A=N.(1−i.n)A=N.(1−i.n)
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">A taxa incide sobre o valor nominal (N): A=N.(1−i.n)A=N.(1−i.n)</mark>
 - Dc=N.i.nDc=N.i.n 
 - Não há correspondência entre os elementos das operações de juros simples
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q16 (gab. D · preliminar)
+> **Trecho usado:** "A taxa incide sobre o valor nominal (N): A=N.(1−i.n)"
+> **Como cobrou:** cálculo — "título de valor nominal de R$ 50.000,00 com vencimento previsto para 5 meses… desconto simples comercial à taxa de 2% ao mês, calculado sobre o valor nominal do título… Qual será o valor líquido recebido". A certa é "(D) R$ 45.000,00": A = 50.000 × (1 − 0,02 × 5).
+> **Lastro:** PDF p. 9 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q16]]
 
 ❗A⚡**questão [#1896857](https://www.tecconcursos.com.br/questoes/1896857)**  mostra como a banca cobrou desconto comercial simples. 
 
@@ -529,8 +544,18 @@ Muitas vezes, questões disponibilizam os fatores para possibilitar as resoluç
 - As amortizações são constantes 
 - As prestações são decrescentes 
 - Os juros são decrescentes 
-- O juro pago em cada prestação é calculado incidindo a taxa de juros sobre o saldo devedor do período anterior. 
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">O juro pago em cada prestação é calculado incidindo a taxa de juros sobre o saldo devedor do período anterior.</mark> 
 - Os juros e as prestações formam progressões aritméticas decrescentes de razão (−i.A)(−i.A).
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q18 (gab. B · preliminar)
+> **Trecho usado:** "O juro pago em cada prestação é calculado incidindo a taxa de juros sobre o saldo devedor do período anterior."
+> **Como cobrou:** cálculo — "financiamento de R$ 120.000,00 para pagamento em 6 prestações mensais pelo Sistema de Amortização Constante (SAC), com taxa de juros de 2% ao mês incidente sobre o saldo devedor antes de cada amortização… qual será o valor da terceira prestação?". A certa é "(B) R$ 21.600,00": amortização de 20.000 (120.000 / 6) + juros de 2% sobre o saldo de 80.000 (1.600).
+> **Lastro:** PDF p. 10 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q18]]
+
+> [!tip]- Lupa de prova: SAC, prestação de um mês específico
+> **O padrão:** a questão pede uma prestação intermediária (a 3ª de 6), não a primeira; o SAC já tinha caído em São Vicente Q18 e volta em Guarulhos Q18 (o distrator de contar o período errado é padrão de 1 prova, não confirmado).
+> **A armadilha:** as alternativas erradas são prestações de outro mês: "(A) R$ 21.200,00." é a 4ª e "(D) R$ 22.000,00." é a 2ª; quem conta o período errado cai nelas.
+> **Como resolver:** pela fórmula da nota, a parcela t é D/n.[1+(n−t+1).i]: com D/n = 20.000, t = 3, n = 6 e i = 2%, fica 20.000 × (1 + 4 × 0,02) = 21.600. Conferindo pelo conceito: juros = taxa sobre o saldo devedor do período anterior (120.000 − 2 × 20.000 = 80.000, juros de 1.600) + amortização de 20.000.
 
 **1.2 FÓRMULAS**
 
@@ -609,7 +634,7 @@ Veja a⚡**questão** **[#1896862](https://www.tecconcursos.com.br/questoes/189
 - PSAM=(PSAC+PSF)/2PSAM​=(PSAC​+PSF​)/2
 - Há autores que chamam o SAM de SACRE - Sistema de Amortização Crescente. 
 ### Sistema de Amortização Constante (SAC)
-- [ ] status [dom:: 3] [peso:: 3] [prova:: 1]
+- [ ] status [dom:: 3] [peso:: 3] [prova:: 2]
 
 (https://www.tecconcursos.com.br/aulas/materias/20/assuntos/714?indice=1&materia=713)
 
@@ -629,17 +654,23 @@ A dívida remanescente será de:
 
 360.000−18.000=342.000
 
-No décimo mês, teremos juros de 1% incidindo sobre o valor acima:
+<mark class="prova" style="background:rgba(0,170,170,0.28)">No décimo mês, teremos juros de 1% incidindo sobre o valor acima</mark>:
 
 J10=1%×342.000=3.420
 
 Além disso, teremos o pagamento da amortização de 2.000,00. Somando tudo, a prestação será de:
 2.000+3.420=5.420
 
-> [!example]- Prova anterior: IBAM 2026 · São Vicente · Q18 (gab. D · preliminar)
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q18 (gab. B · preliminar) e IBAM 2026 · São Vicente · Q18 (gab. D · preliminar)
 > **Trecho usado:** "No décimo mês, teremos juros de 1% incidindo sobre o valor acima … 2.000+3.420=5.420"
-> **Como cobrou:** cálculo — "financiamento de R$ 500.000,00… Sistema de Amortização Constante em 10 parcelas anuais, com taxa de juros de 8% ao ano". A certa é "(D) R$ 90.000,00": amortização de 50.000 + juros de 8% sobre o saldo de 500.000 (40.000).
-> **Lastro:** PDF p. 9 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q18]]
+> **Q18 (Guarulhos, 2026) — como cobrou:** cálculo — "financiamento de R$ 120.000,00 para pagamento em 6 prestações mensais pelo Sistema de Amortização Constante (SAC), com taxa de juros de 2% ao mês incidente sobre o saldo devedor antes de cada amortização… qual será o valor da terceira prestação?". A certa é "(B) R$ 21.600,00": amortização de 20.000 (120.000 / 6) + juros de 2% sobre o saldo de 80.000 (1.600).
+> **Q18 (São Vicente, 2026) — como cobrou:** cálculo — "financiamento de R$ 500.000,00… Sistema de Amortização Constante em 10 parcelas anuais, com taxa de juros de 8% ao ano". A certa é "(D) R$ 90.000,00": amortização de 50.000 + juros de 8% sobre o saldo de 500.000 (40.000).
+> **Lastro:** Guarulhos: PDF p. 10 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q18]] · São Vicente: PDF p. 9 · [[IBAM 2026 - São Vicente - Auditor Fiscal Tributário#Q18]]
+
+> [!tip]- Lupa de prova: SAC, prestação de um mês específico
+> **O padrão:** o exemplo resolvido acima é o molde das duas provas: São Vicente Q18 usa juros sobre o saldo inicial e Guarulhos Q18 pede a 3ª prestação, com o saldo já reduzido por duas amortizações.
+> **A armadilha:** em Guarulhos Q18 as alternativas erradas são prestações de outro mês: "(A) R$ 21.200,00." é a 4ª e "(D) R$ 22.000,00." é a 2ª; quem conta o período errado cai nelas (padrão de 1 prova, não confirmado).
+> **Como resolver:** como no exemplo acima: amortização = dívida / nº de prestações; o saldo devedor cai a cada amortização paga; os juros do mês incidem sobre esse saldo e a prestação soma amortização + juros (3ª prestação: 20.000 + 2% × 80.000 = 21.600).
 
 ### Sistema de Amortização Francês (Price)
 - [ ] status [dom:: 0] [peso:: 3]

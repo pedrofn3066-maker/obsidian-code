@@ -56,7 +56,7 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 **Bloco A**
 
 ### - Lógica de Proposição e Lógica de Argumentação.
-- [ ] status [dom:: 0] [peso:: 2] [prova:: 2]
+- [ ] status [dom:: 0] [peso:: 2] [prova:: 3]
 
 **1.4 Sentenças Abertas e Fechadas**
 
@@ -73,10 +73,16 @@ Matéria de **acúmulo lento** — a que mais se beneficia de tempo longo e a qu
 |F|V|V|F|V|V|F|V|
 |F|F|V|F|F|V|V|F|
 
-> [!example]- Prova anterior: IBAM 2025 · Mauá · Q13 (gab. A · preliminar)
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q19 (gab. A · preliminar) e IBAM 2025 · Mauá · Q13 (gab. A · preliminar)
 > **Trecho usado:** "Tabela Verdade: p, q, ~p, p ^ q, p v q, p ➜ q, p ⇿ q"
-> **Como cobrou:** conceito — quatro afirmações sobre quando cada proposição composta é falsa ou verdadeira, com p = "O sistema foi atualizado" e q = "O relatório foi validado". Gab. A: V, F, V, V. Por exemplo, "A proposição p → q é falsa quando p é verdadeira e q é falsa" (V).
-> **Lastro:** PDF p. 3 · [[IBAM 2025 - Mauá - AFTM#Q13]]
+> **Q19 (Guarulhos, 2026) — como cobrou:** conceito — com P verdadeira e Q falsa, pede o valor de "(P ^ ¬Q) v (¬P ^ Q)". A certa é "(A) O valor lógico é verdadeiro, pois a primeira conjunção é verdadeira"; a "(B)" diz "falso, pois P e Q possuem valores lógicos diferentes" e a "(C)", "falso, pois a disjunção exige que as duas conjunções sejam verdadeiras".
+> **Q13 (Mauá, 2025) — como cobrou:** conceito — quatro afirmações sobre quando cada proposição composta é falsa ou verdadeira, com p = "O sistema foi atualizado" e q = "O relatório foi validado". Gab. A: V, F, V, V. Por exemplo, "A proposição p → q é falsa quando p é verdadeira e q é falsa" (V).
+> **Lastro:** Q19: PDF p. 10 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q19]] · Q13: PDF p. 3 · [[IBAM 2025 - Mauá - AFTM#Q13]]
+
+> [!tip]- Lupa de prova: (P ^ ¬Q) v (¬P ^ Q) é o ou exclusivo
+> **O padrão:** dá P e Q com valores diferentes (P verdadeira, Q falsa) e pede o valor de (P ^ ¬Q) v (¬P ^ Q); a composta só vale quando P e Q diferem, ou seja, é a disjunção exclusiva (a coluna p v q em negrito da tabela). (padrão de 1 prova, não confirmado)
+> **A armadilha:** "(B) O valor lógico é falso, pois P e Q possuem valores lógicos diferentes" tem premissa verdadeira (P e Q de fato diferem) e conclusão trocada; "(C) O valor lógico é falso, pois a disjunção exige que as duas conjunções sejam verdadeiras" trata a disjunção como se fosse conjunção.
+> **Como resolver:** monte a linha da tabela com P = V e Q = F: ¬Q = V, então P ^ ¬Q = V; ¬P = F, então ¬P ^ Q = F. Pela tabela, a disjunção p v q é V se ao menos uma das duas for V (a conjunção p ^ q é que exige as duas), logo V v F = V.
 
 <mark>Número de linhas da tabela verdade = 2ⁿ</mark>, onde n é a quantidade de proposições simples **diferentes** (não importa se se repetem na fórmula).
 
@@ -112,10 +118,20 @@ Ex.: "Todo funcionário daquela loja é atencioso" → "Existe pelo menos um fun
 Ex. (quantificador + disjunção exclusiva): "Todas as empresas têm filiais no Brasil ou no exterior" (universal afirmativa, disjunção exclusiva) → negação: "Existe empresa que tem filial no exterior se, e somente se, tem filial no Brasil" (particular negativa; a negação da disjunção exclusiva vira bicondicional).
 
 **1.6 Equivalências Lógicas  Fundamentais**
-- _p → q_ _≡_ _~q →_ _~__p_ (Contrapositiva)
-- _p → q_ _≡_ _~__p ∨ q_ (Transformação da condicional em disjunção inclusiva)
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">_p → q_ _≡_ _~q →_ _~__p_ (Contrapositiva)</mark>
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">_p → q_ _≡_ _~__p ∨ q_ (Transformação da condicional em disjunção inclusiva)</mark>
 - _p ∨ q_ _≡_ _~__p → q_ (Transformação da disjunção inclusiva em condicional)
 - _p ↔ q_ _≡_ _(p → q) ∧ (q → p)_ (Transformação da bicondicional em condicional/conjunção)
+
+> [!example]- Prova anterior: IBAM 2026 · Guarulhos · Q20 (gab. C · preliminar)
+> **Trecho usado:** "p → q ≡ ~q → ~p (Contrapositiva); p → q ≡ ~p ∨ q (Transformação da condicional em disjunção inclusiva)"
+> **Como cobrou:** troca de termo — cinco afirmações sobre P → Q: I "é equivalente a ¬P v Q" e II "é equivalente a ¬Q → ¬P" (certas); III "A proposição ¬P → ¬Q é equivalente a P → Q" e IV "P → Q é equivalente a Q → P" (erradas: trocam a contrapositiva por inversa e recíproca); V "A negação de P → Q é equivalente a P ^ ¬Q" (certa, ver 1.7 "Negação da condicional"). A certa é "(C) I, II e V, apenas".
+> **Lastro:** PDF p. 10 · [[IBAM 2026 - Guarulhos - Auditor Fiscal VI Manhã#Q20]]
+
+> [!tip]- Lupa de prova: contrapositiva não é inversa nem recíproca
+> **O padrão:** a prova lista formas de P → Q e pede quais são equivalentes: valem a disjunção (¬P v Q), a contrapositiva (¬Q → ¬P) e a negação (P ^ ¬Q). (padrão de 1 prova, não confirmado)
+> **A armadilha:** "¬P → ¬Q é equivalente a P → Q" (inversa) e "P → Q é equivalente a Q → P" (recíproca) trocam a contrapositiva por formas que só negam ou só invertem a ordem.
+> **Como resolver:** confira cada afirmação com a lista de 1.6: só valem ~q → ~p (nega e inverte os dois lados) e ~p ∨ q; ¬P → ¬Q mantém a ordem e Q → P não nega nada, então nenhuma das duas aparece ali. A nota ainda não diz em palavras que inversa e recíproca não são equivalentes à condicional (lacuna registrada na prova resolvida).
 
 **Aplicação:** "Se todas as bancas estão no lugar correto, então não há motivo para reclamação" (todo B → ¬M) ≡ M → algum B ≡ algum ¬B ∨ ¬M → "Pelo menos uma banca não está no lugar correto ou não há motivo para reclamação."
 
@@ -126,7 +142,7 @@ Ex. (quantificador + disjunção exclusiva): "Todas as empresas têm filiais no 
 - _~(~p)_ _≡_ _p_ (Dupla negação da proposição simples)
 - _~ (__p ^ q)_ _≡_ _~__p ∨ ~q_ (Negação da conjunção)
 - _~ (__p ∨ q)_ _≡_ _~__p ^ ~q_ (Negação da disjunção inclusiva)
-- _~(p → q)_ _≡_ _p ^ ~q_ (Negação da condicional)
+- <mark class="prova" style="background:rgba(0,170,170,0.28)">_~(p → q)_ _≡_ _p ^ ~q_ (Negação da condicional)</mark>
 - _~(p ↔ q)_ _≡_ _p v q_ (Negação da bicondicional)
 - _~(p v q)_ _≡_ _p ↔ q_ (Negação da disjunção exclusiva)
 
